@@ -98,8 +98,7 @@ the following alterations to the content given below. [^33]
     
 When an institution has set a policy not to use Variants, the boundaries will usually be between a Work and Manifestations, i.e., a new Manifestation linked to the Work would be created rather than a Variant, or else a separate new Work, depending on assessment of the level of change or variation.
 
-Boundaries  for  this  decision  are  akin  to  the  concepts  of  “versions  with  major  changes” and “variations with minor changes” in the FIAF Cataloguing Rules for Film Archives
-(1991) [http://www.fiafnet.org/pages/E-Resources/FIAF-Cataloguing-Rules.html]()
+Boundaries  for  this  decision  are  akin  to  the  concepts  of  “versions  with  major  changes” and “variations with minor changes” in the FIAF Cataloguing Rules for Film Archives (1991) [http://www.fiafnet.org/pages/E-Resources/FIAF-Cataloguing-Rules.html]()
 
     Example:
     
