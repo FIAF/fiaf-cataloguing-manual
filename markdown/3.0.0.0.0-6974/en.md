@@ -1,1 +1,1 @@
-3. Moving Image Items
+# 3. Moving Image Items

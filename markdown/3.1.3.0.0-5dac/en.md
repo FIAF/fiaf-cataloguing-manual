@@ -1,9 +1,7 @@
-3.1.3 Holding institution114
+3.1.3 Holding institution[^114]
 
-Record the name of the institution possessing the moving image Item or authorised
+Record the name of the institution possessing the moving image Item or authorised to make it available.
 
-to make it available.
+Optionally, if available, record a suitable repository identifier or a registered namespace identifier for the institution.
 
-Optionally, if available, record a suitable repository identifier or a registered name-
-
-space identifier for the institution.
+[^114]: Based on EN 15907, Holding institution
