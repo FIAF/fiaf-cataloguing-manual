@@ -1,12 +1,8 @@
-3.1.5.17 Audio Codec
+# 3.1.5.17 Audio Codec
 
-The audio compression standard used in the audio file, whether it is contained in a
+The audio compression standard used in the audio file, whether it is contained in a wrapper with a video file or as a standalone audio file.
 
-wrapper with a video file or as a standalone audio file.
-
-Select from controlled list of terms. A suggested list, which is open and not exhaus-
-
-tive, can be found in D.7.10 Item Codec type. Other lists include:
+Select from controlled list of terms. A suggested list, which is open and not exhaustive, can be found in [D.7.10 Item Codec type](). Other lists include:
 
 PBCore essenceTrackEncoding vocabulary: http://metadataregistry.org/concept/list/vocabulary_id/156.html
 
