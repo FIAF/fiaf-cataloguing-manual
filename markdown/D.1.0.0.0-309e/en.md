@@ -1,91 +1,65 @@
-D.1 Work/Variant Description Types
+# D.1 Work/Variant Description Types
 
 The Types below reflect terms used in CEN standard EN15907.
 
-Analytic (component part): content that is contained in another content. A component
-part may itself be either monographic or serial.
+**Analytic (component part)**: content that is contained in another content. A component part may itself be either monographic or serial.
 
-Examples:
+    Examples:
 
-Work [Monographic] – Harry wird Millionär
+        Work [Monographic] – Harry wird Millionär
 
-Variant  [Analytic  (component  part)]  –  Harry  wird  Millionär.  Incomplete  German
-version
-Manifestation 1: Internet – digital file – [2013] – Deutsches Filminstitut – DIF (in-
-ternet publisher))
-http://www.filmportal.de/en/node/640472/video/1227323 – 0 h 16’ 59’’
-Item – Harry wird Millionär
+        Variant  [Analytic  (component  part)]  –  Harry  wird  Millionär.  Incomplete  German version
+        Manifestation 1: Internet – digital file – [2013] – Deutsches Filminstitut – DIF (internet publisher))http://www.filmportal.de/en/node/640472/video/1227323 – 0 h 16’ 59’’
+        Item – Harry wird Millionär
 
-Variant  [Analytic  (component  part)]  –  Harry  wordt  Millionair.  Incomplete  Dutch
-version
-Manifestation 1: Internet – digital file – [2013] – Deutsches Filminstitut – DIF (in-
-ternet publisher))
-http://www.filmportal.de/en/node/27915/video/1227322 – 0 h 15’ 44’’
-Item – Harry wordt Millionair
+        Variant  [Analytic  (component  part)]  –  Harry  wordt  Millionair.  Incomplete  Dutch version
+        Manifestation 1: Internet – digital file – [2013] – Deutsches Filminstitut – DIF (internet publisher)) http://www.filmportal.de/en/node/27915/video/1227322 – 0 h 15’ 44’’
+        Item – Harry wordt Millionair
 
-Variant [Monographic] – Harry wird Millionär. Reconstructed version
-Manifestation 1: Internet – digital file – [2013] – Deutsches Filminstitut – DIF (in-
-ternet publisher))
-http://www.filmportal.de/en/node/27915/video/1227166 – 0 h 38’ 56’’
-Item – Harry wird Millionär
+        Variant [Monographic] – Harry wird Millionär. Reconstructed version
+        Manifestation 1: Internet – digital file – [2013] – Deutsches Filminstitut – DIF (internet publisher)) http://www.filmportal.de/en/node/27915/video/1227166 – 0 h 38’ 56’’
+        Item – Harry wird Millionär
 
-198  It is recognised that vocabulary lists often require frequent updates, additions or amendments. For this rea-
-son, should resources permit, it would be ideal to separate value lists from the rules and locate them in a central,
-online repository, like metadataregistry.org. RDF-based repositories like this can supply up-to-date vocabularies
-on demand and have additional advantages over traditional value lists such as those found in this Appendix.
+**Monographic**:  Complete  content  in  one  part  or  intended  to  be  completed  in  a  finite number of parts.
 
+This is also applicable to television episodes. The record for the television series itself is catalogued as a Serial.
 
+    Examples:
 
-Monographic:  Complete  content  in  one  part  or  intended  to  be  completed  in  a  finite
-number of parts.
+        Coronation Street [1960-12-09]
+        Spaced. Series 1 Episode 1. 1999-09-02
 
-This is also applicable to television episodes. The record for the television series itself is
-catalogued as a Serial.
+**Serial**: Content issued in successive parts and intended to be continued indefinitely, or across a span of time. A Work record for a television series is catalogued as a “Serial.” Individual episodes may be catalogued as a Monographic record.
 
-Examples:
+    Examples:
 
-Coronation Street [1960-12-09]
-Spaced. Series 1 Episode 1. 1999-09-02
+        Gaumont British News (1934-)
+        Flash Gordon’s Trip to Mars (1938)
+        Chemistry Essentials (1996)
+        Breaking Bad (2008-01-20 – 2013-09-29)
 
-Serial: Content issued in successive parts and intended to be continued indefinitely, or
-across a span of time. A Work record for a television series is catalogued as a “Serial.”
-Individual episodes may be catalogued as a Monographic record.
+**Collection**: Content issued in several independent parts; an ‘umbrella’ work title covering a number of different Works/Variants/Manifestations199.
 
-Examples:
+    Examples:
 
-Gaumont British News (1934-)
-Flash Gordon’s Trip to Mars (1938)
-Chemistry Essentials (1996)
-Breaking Bad (2008-01-20 – 2013-09-29)
+        Pleasure (Joan Littlewood, c1963) (Footage shot on behalf of Joan Littlewood as part of her ‘Fun Palace’ project.)
 
-Collection: Content issued in several independent parts; an ‘umbrella’ work title covering
-a number of different Works/Variants/Manifestations199.
+        The ‘Dogme’ films (Each individually numbered.)
 
-Examples:
+        Shadows of progress: documentary film in post-war Britain 1951-1977
 
-Pleasure (Joan Littlewood, c1963) (Footage shot on behalf of Joan Littlewood as
-part of her ‘Fun Palace’ project.)
+Other uses for Collection:[^200]
 
-The ‘Dogme’ films (Each individually numbered.)
+Archive-acquired collections of works not originally intended for general release or broadcast all have component parts that form the collection as a whole, usually acquired on a series of numerous film reels or videotapes, etc. each with an identifying title.
 
-Shadows of progress: documentary film in post-war Britain 1951-1977
+    Examples:
 
-Other uses for Collection:200
+        David Lean home movies
+        William Butlin personal films
+        Hollywood interviews (unedited production material for series Hollywood)
+        BFI London Film Festival Awards 2010 – production material, etc.
+        Fifties  features  (videotape  collection  of  production  material,  with  each  of  the
 
-Archive-acquired collections of works not originally intended for general release or broad-
-cast all have component parts that form the collection as a whole, usually acquired on a
-series of numerous film reels or videotapes, etc. each with an identifying title.
-
-Examples:
-
-David Lean home movies
-William Butlin personal films
-Hollywood interviews (unedited production material for series Hollywood)
-BFI London Film Festival Awards 2010 – production material, etc.
-Fifties  features  (videotape  collection  of  production  material,  with  each  of  the
-
-199  This aligns with EN15907 definitions relating to Work types and is different and distinct from Collection Aggregates
-200 BFI CID Stylistics Manual, A.1.3 Filmographic Level, p. 8
 
 
 
@@ -126,3 +100,7 @@ elling Aggregates).
 
 Provide a list of the compiled works contained in the Collections Work in its Synopsis or
 Summary field.
+
+199  This aligns with EN15907 definitions relating to Work types and is different and distinct from Collection Aggregates
+200 BFI CID Stylistics Manual, A.1.3 Filmographic Level, p. 8
+
