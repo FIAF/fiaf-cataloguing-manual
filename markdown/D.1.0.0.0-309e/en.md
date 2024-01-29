@@ -38,7 +38,7 @@ This is also applicable to television episodes. The record for the television se
         Chemistry Essentials (1996)
         Breaking Bad (2008-01-20 – 2013-09-29)
 
-**Collection**: Content issued in several independent parts; an ‘umbrella’ work title covering a number of different Works/Variants/Manifestations199.
+**Collection**: Content issued in several independent parts; an ‘umbrella’ work title covering a number of different Works/Variants/Manifestations[^199].
 
     Examples:
 
@@ -58,49 +58,34 @@ Archive-acquired collections of works not originally intended for general releas
         William Butlin personal films
         Hollywood interviews (unedited production material for series Hollywood)
         BFI London Film Festival Awards 2010 – production material, etc.
-        Fifties  features  (videotape  collection  of  production  material,  with  each  of  the
+        Fifties  features  (videotape  collection  of  production  material,  with  each  of  the tapes given an identifying acquisition title:
+        B1-3 Sylvia Syms I/V
+        B4-6 Sylvia Syms I/V & Jill Craigie I/V
 
+“David Lean home movies,” “Fifties features,” etc. would be the Work titles for the collection-level description, with Collection as its description level.
 
-
-
-tapes given an identifying acquisition title:
-B1-3 Sylvia Syms I/V
-B4-6 Sylvia Syms I/V & Jill Craigie I/V
-
-“David Lean home movies,” “Fifties features,” etc. would be the Work titles for the
-collection-level description, with Collection as its description level.
-
-The individual components of this collection would also be created as individual
-Works with Work titles at the Analytic level of description.
+The individual components of this collection would also be created as individual Works with Work titles at the Analytic level of description.
 
 For example:
 
-Egypt
-India
-India no.2
-Kenya
+    Egypt
+    India
+    India no.2
+    Kenya
 
-These  titles  should  then  be  linked  to  the  collection-level  description  and  assigned
-“part of” relationship.
+These  titles  should  then  be  linked  to  the  collection-level  description  and  assigned “part of” relationship.
 
-Aggregate compilation videos/DVDs that are collections of individual works existing as
-entities in their own right, e.g. Portrait of a miner is a DVD of various Mining review shorts
-which had their own individual release as complete entities or works.
+Aggregate compilation videos/DVDs that are collections of individual works existing as entities in their own right, e.g. Portrait of a miner is a DVD of various Mining review shorts which had their own individual release as complete entities or works.
 
-•
-
-•
-
-Portrait of a miner would be created as the work title, with the description
+- Portrait of a miner would be created as the work title, with the description
 level of Collection.
 
-Each of the Mining review Works used in Portrait of a miner would then be
-linked to it and assigned a “contained in” relationship (see Appendix E.5 Mod-
-elling Aggregates).
+- Each of the Mining review Works used in Portrait of a miner would then be
+linked to it and assigned a “contained in” relationship (see [Appendix E.5 Mod-
+elling Aggregates]()).
 
-Provide a list of the compiled works contained in the Collections Work in its Synopsis or
-Summary field.
+Provide a list of the compiled works contained in the Collections Work in its Synopsis or Summary field.
 
-199  This aligns with EN15907 definitions relating to Work types and is different and distinct from Collection Aggregates
-200 BFI CID Stylistics Manual, A.1.3 Filmographic Level, p. 8
+[^199]: This aligns with EN15907 definitions relating to Work types and is different and distinct from Collection Aggregates
+[^200]: BFI CID Stylistics Manual, A.1.3 Filmographic Level, p. 8
 
