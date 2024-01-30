@@ -1,4 +1,4 @@
-D.15.1 Item Acquisition type
+# D.15.1 Item Acquisition type
 
 Donation
 Exchange

@@ -1,4 +1,4 @@
-D.8.5 Manufacturer
+# D.8.5 Manufacturer
 
 (Optionally, this information can be specified directly at the Item level)
 

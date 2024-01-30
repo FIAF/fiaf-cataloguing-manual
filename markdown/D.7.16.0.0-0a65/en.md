@@ -1,19 +1,16 @@
-D.7.16 Item Stock
+# D.7.16 Item Stock
 
 This is a preliminary list, and not exhaustive.
 
-FILM
+**FILM**
 
 Eastman Kodak
 Fuji
 Agfa
 
-VIDEO
+**VIDEO**
 
 3M
-
-
-
 Agfa
 Agfa Gavaert
 Akai
@@ -24,28 +21,28 @@ Brifco
 Fuji
 Sony
 
-AUDIO
+**AUDIO**
 
 Ampex
 Scotch
 3M
 Shamrock
 
-OPTICAL
+**OPTICAL**
 
 Maxell
 Memorex
 Philips
 Verbatim
 
-DIGITAL TAPE
+**DIGITAL TAPE**
 
 Fuji
 HP
 Oracle
 Sony
 
-HARD DRIVES
+**HARD DRIVES**
 
 Hitachi
 Seagate

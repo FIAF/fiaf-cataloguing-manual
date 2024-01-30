@@ -1,4 +1,4 @@
-D.13 Manifestation Decision Types
+# D.13 Manifestation Decision Types
 
 Censorship
 Revision

@@ -1,5 +1,4 @@
-D.16.1 Item Copy Condition Base/Emulsion – Film
-and Video
+# D.16.1 Item Copy Condition Base/Emulsion – Film and Video
 
 Brittle
 Buckled

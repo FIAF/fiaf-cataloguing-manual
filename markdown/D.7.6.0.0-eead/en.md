@@ -1,10 +1,7 @@
-D.7.6 Manifestation Unit Types
+# D.7.6 Manifestation Unit Types
 
 Reel
 Roll
-
-
-
 Cassette
 Cartridge
 Loop

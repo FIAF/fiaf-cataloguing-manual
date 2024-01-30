@@ -1,2 +1,1 @@
-D.15 Manifestation/Item Acquisition, Ac-
-cessioning and Source
+# D.15 Manifestation/Item Acquisition, Accessioning and Source

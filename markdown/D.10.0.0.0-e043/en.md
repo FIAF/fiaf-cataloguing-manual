@@ -1,4 +1,4 @@
-D.10 Manifestation Publication Types
+# D.10 Manifestation Publication Types
 
 Release
 Publication

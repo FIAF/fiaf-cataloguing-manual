@@ -1,4 +1,4 @@
-D.7.19 Item Resolution
+# D.7.19 Item Resolution
 
 Standard Definition
 High Definition
