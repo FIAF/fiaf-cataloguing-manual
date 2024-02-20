@@ -1,2 +1,1 @@
-Appendix H, Rights/Copyright/IPR
-Registration
+# Appendix H, Rights/Copyright/IPR Registration
