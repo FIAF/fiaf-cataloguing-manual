@@ -1,11 +1,8 @@
-I.2 Example 2. Documentary film in 4-level
-hierarchy
+# I.2 Example 2. Documentary film in 4-level hierarchy
 
-In this second example,  the corresponding data of the core concepts also has the same
-illustrative matching colours as used in the Core Elements list in Example 1 (see below),
-and there are also links to the relevant sections of the manual relating to those elements.
+In this second example,  the corresponding data of the core concepts also has the same illustrative matching colours as used in the Core Elements list in Example 1 (see below), and there are also links to the relevant sections of the manual relating to those elements.
 
-Core concepts (0.2 Core elements of description)
+Core concepts ([0.2 Core elements of description]())
 
 Title
 Series/Serial
@@ -21,376 +18,55 @@ Identifier
 Subject/genre/form
 Content description
 
-WORK
-
-1.2 Attributes of a
-Moving Image
-Work/Variant
-
-1.2.1 Work/Variant
-Description Type
-
-D.1 Work/Variant
-Description Types
-
-monographic
-
-monografická
-
-1.3 Elements of a
-Work/Variant
-
-1.3.1 Work/Variant
-Identifier
-
-1.3.1.1 Identifier Type
-
-1.3.1 Work/Variant
-Identifier
-
-urn:nbn:sk:sfu-ko1ugsb
-
-urn:nbn:sk:sfu-ko1ugsb
-
-URN:NBN
-
-SFD000163
-
-URN:NBN
-
-SFD000163
-
-1.3.1.1 Identifier Type
-
-SFÚ identifier [local]
-
-identifikátor SFÚ
-[lokálny]
-
-1.3.2 Title
-
-Obrazy starého sveta
-
-Obrazy starého sveta
-
-1.3.2.1 Title Type
-
-A.2 Title Types
-
-A.2.0 Preferred [original:
-slo]
-
-preferovaný [originálny:
-slo]
-
-1.3.2 Title
-
-Pictures of the old world Pictures of the old world
-
-
-
-1.3.2.1 Title Type
-
-A.2 Title Types
-
-A.2.4 Alternative [trans-
-lated title: eng]
-
-alternatívny [preklad
-názvu: eng]
-
-1.3.2 Title
-
-Images du vieux monde
-
-Images du vieux monde
-
-1.3.2.1 Title Type
-
-A.2 Title Types
-
-A.2.4 Alternative [trans-
-lated title: fre]
-
-alternatívny [preklad
-názvu: fre]
-
-1.3.2 Title
-
-Bilder einer alten Welt
-
-Bilder einer alten Welt
-
-1.3.2.1 Title Type
-
-A.2 Title Types
-
-A.2.4 Alternative [trans-
-lated title: ger]
-
-alternatívny [preklad
-názvu: ger]
-
-1.3.2 Title
-
-Картины старого мира
-
-Картины старого мира
-
-1.3.2.1 Title Type
-
-A.2 Title Types
-
-A.2.4 Alternative [trans-
-lated title: rus]
-
-alternatívny [preklad
-názvu: rus]
-
-1.3.2 Title
-
-Kartiny starogo mira
-
-Kartiny starogo mira
-
-1.3.2.1 Title Type
-
-A.2 Title Types
-
-1.3.3 Country of
-reference
-
-1.3.4 Year/Date of
-reference
-
-1.3.4.1 Date Type
-
-1.3.5 Language(s)
-
-1.3.5.1 Language
-Term
-
-1.3.5.2 Usage type
-
-1.3.5.2 Usage type
-
-1.3.5.2 Usage type
-
-1.3.6 Content de-
-scription (synopses,
-shotlists, etc)
-
-1.3.6.1 Content De-
-scription Type
-
-A.2.4 Alternative [trans-
-lated title:rus & trans-
-literated title]
-
-alternatívny [preklad
-názvu: rus a transliterá-
-cia názvu]
-
-Slovakia [Czechoslovakia] Slovensko
-
-[Československo]
-
-1972
-
-1972
-
-year of production
-
-rok výroby
-
-Slovak
-
-slo
-
-slovenčina
-
-slo
-
-D.6 Language
-Usage Types
-
-D.6 Language
-Usage Types
-
-D.6 Language
-Usage Types
-
-Original Language
-
-pôvodný jazyk
-
-spoken language
-
-hovorený jazyk
-
-sung language
-
-spievaný jazyk
-
-Suggestive portraits of
-old people from the Lip-
-tov and Orava regions
-who are able to enjoy
-their individual freedom
-even in the times of
-civilisational chaos and
-insecurity.
-
-Sugestívne portréty
-starých ľudí z Liptova
-a Oravy, ktorí dokážu
-aj v stave civilizačného
-chaosu a neistoty žiť
-vnútorne slobodní.
-
-synopsis
-
-anotácia
-
-
-
-1.3.7 Notes
-
-Appendix B, Cata-
-loguer’s Notes
-
-1.3.8.2 Censorship
-history
-
-1.4 Relationships of
-a Work/Variant
-(links/associations
-with other entities/
-records)
-
-Credits
-
-1.4.1 Agents (e.g.
-Cast, Credits, Person,
-Organisation, etc.)
-
-1.4.1.1 Agent Activity
-
-1.4.1 Agents (e.g.
-Cast, Credits, Person,
-Organisation, etc.)
-
-Text before the opening
-credits: These are stories
-of people rooted in the
-soil they came from.
-They cannot be replant-
-ed, they would perish.
-
-Pred úvodnými titulka-
-mi text: Toto sú príbe-
-hy, ľudí, ktorí ostali
-sami sebou. Zabudnutí
-a prostí, vrastení do
-zeme, z ktorej vyšli.
-Nemožno ich presadiť
-pretože by zahynuli.
-
-banned film (cinema
-release: July 1989)
-
-zakázaný film (kinodis-
-tribúcia: júl 1989)
-
-Československý film
-Bratislava
-
-Československý film
-Bratislava
-
-Production Company
-
-Produkčná spoločnosť
-
-Dušan Hanák
-
-Dušan Hanák
-
-1.4.1.1 Agent Activity
-
-Director
-
-Réžia
-
-1.4.1 Agents (e.g.
-Cast, Credits, Person,
-Organisation, etc.)
-
-Dušan Hanák
-
-Dušan Hanák
-
-1.4.1.1 Agent Activity
-
-Story and screenplay
-
-Námet a scenár
-
-1.4.1 Agents (e.g.
-Cast, Credits, Person,
-Organisation, etc.)
-
-Alojz Hanúsek
-
-Alojz Hanúsek
-
-1.4.1.1 Agent Activity
-
-Cinematographer
-
-Kamera
-
-1.4.1 Agents (e.g.
-Cast, Credits, Person,
-Organisation, etc.)
-
-Alfréd Benčič
-
-Alfréd Benčič
-
-1.4.1.1 Agent Activity
-
-Editor
-
-Strih
-
-1.4.1 Agents (e.g.
-Cast, Credits, Person,
-Organisation, etc.)
-
-Ondrej Polomský
-
-Ondrej Polomský
-
-1.4.1.1 Agent Activity
-
-Sound
-
-Zvuk
-
-1.4.1 Agents (e.g.
-Cast, Credits, Person,
-Organisation, etc.)
-
-Martin Martinček
-
-Martin Martinček
-
-1.4.1.1 Agent Activity
-
-Photographs by
-
-Fotografie
+| WORK | | | |
+| --- | --- | --- | --- |
+| 1.2 Attributes of a Moving Image Work/Variant | | | | 
+| 1.2.1 Work/Variant Description Type | D.1 Work/Variant Description Types | monographic | monografická |
+| 1.3 Elements of a Work/Variant | | | |
+| 1.3.1 Work/Variant Identifier | | urn:nbn:sk:sfu-ko1ugsb | urn:nbn:sk:sfu-ko1ugsb |
+| 1.3.1.1 Identifier Type | | URN:NBN | URN:NBN |
+| 1.3.1 Work/Variant Identifier | | SFD000163 | SFD000163 |
+| 1.3.1.1 Identifier Type | | SFÚ identifier [local] | identifikátor SFÚ [lokálny] |
+| 1.3.2 Title | | Obrazy starého sveta | Obrazy starého sveta |
+| 1.3.2.1 Title Type | A.2 Title Types | A.2.0 Preferred [original: slo] | preferovaný [originálny: slo] |
+| 1.3.2 Title | | Pictures of the old world | Pictures of the old world |
+| 1.3.2.1 Title Type | A.2 Title Types | A.2.4 Alternative [translated title: eng] | alternatívny [preklad názvu: eng] |
+| 1.3.2 Title | | Images du vieux monde | Images du vieux monde | 
+| 1.3.2.1 Title Type | A.2 Title Types | A.2.4 Alternative [translated title: fre] | alternatívny [preklad názvu: fre] |
+| 1.3.2 Title | | Bilder einer alten Welt | Bilder einer alten Welt |
+| 1.3.2.1 Title Type | A.2 Title Types | A.2.4 Alternative [translated title: ger] | alternatívny [preklad názvu: ger] |
+| 1.3.2 Title | | Картины старого мира | Картины старого мира |
+| 1.3.2.1 Title Type | A.2 Title Types | A.2.4 Alternative [translated title: rus] | alternatívny [preklad názvu: rus] |
+| 1.3.2 Title | | Kartiny starogo mira | Kartiny starogo mira |
+| 1.3.2.1 Title Type | A.2 Title Types | A.2.4 Alternative [translated title:rus & transliterated title] | alternatívny [preklad názvu: rus a transliterácia názvu] |
+| 1.3.3 Country of reference |  | Slovakia  [Czechoslovakia] | Slovensko [Československo] |
+| 1.3.4 Year/Date of reference |  |  1972 | 1972 |
+| 1.3.4.1 Date Type |  | year of production | rok výroby |
+| 1.3.5 Language(s) | | Slovak | slovenčina |
+| 1.3.5.1 Language Term | | slo | slo |
+| 1.3.5.2 Usage type | D.6 Language Usage Types | Original Language | pôvodný jazyk |
+| 1.3.5.2 Usage type | D.6 Language Usage Types | spoken language | hovorený jazyk |
+| 1.3.5.2 Usage type | D.6 Language Usage Types | sung language | spievaný jazyk |
+| 1.3.6 Content description (synopses, shotlists, etc) |  | Suggestive portraits of old people from the Liptov and Orava regions who are able to enjoy their individual freedom even in the times of civilisational chaos and insecurity. | Sugestívne portréty starých ľudí z Liptova a Oravy, ktorí dokážu aj v stave civilizačného chaosu a neistoty žiť vnútorne slobodní. |
+| 1.3.6.1 Content Description Type |  |  synopsis | anotácia |
+| 1.3.7 Notes | Appendix B, Cataloguer’s Notes | Text before the opening credits: These are stories of people rooted in the soil they came from. They cannot be replanted, they would perish. | Pred úvodnými titulkami text: Toto sú príbehy, ľudí, ktorí ostali sami sebou. Zabudnutí a prostí, vrastení do zeme, z ktorej vyšli. Nemožno ich presadiť pretože by zahynuli. |
+| 1.3.8.2 Censorship history | | banned film (cinema release: July 1989) | zakázaný film (kinodistribúcia: júl 1989) |
+| 1.4 Relationships of a Work/Variant (links/associations with other entities/records) | | | |
+| Credits | | | |
+| 1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) | | Československý film Bratislava | Československý film Bratislava |
+| 1.4.1.1 Agent Activity | | Production Company | Produkčná spoločnosť |
+| 1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) | | Dušan Hanák | Dušan Hanák |
+| 1.4.1.1 Agent Activity | | Director | Réžia |
+| 1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) | | Dušan Hanák Dušan Hanák |
+| 1.4.1.1 Agent Activity | | Story and screenplay | Námet a scenár |
+| 1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) | | Alojz Hanúsek | Alojz Hanúsek |
+| 1.4.1.1 Agent Activity | | Cinematographer | Kamera |
+| 1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) | | Alfréd Benčič | Alfréd Benčič | 
+| 1.4.1.1 Agent Activity | | Editor | Strih | 
+| 1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) | | Ondrej Polomský| Ondrej Polomský |
+| 1.4.1.1 Agent Activity | | Sound | Zvuk |
+| 1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) | | Martin Martinček | Martin Martinček |
+| 1.4.1.1 Agent Activity | | Photographs by | Fotografie |
 
 
 
