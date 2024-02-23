@@ -67,515 +67,87 @@ Content description
 | 1.4.1.1 Agent Activity | | Sound | Zvuk |
 | 1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) | | Martin Martinček | Martin Martinček |
 | 1.4.1.1 Agent Activity | | Photographs by | Fotografie |
+| 1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) | | Vladimír Vavrek | Vladimír Vavrek |
+| 1.4.1.1 Agent Activity | | Photographs by | Fotografie |
+| 1.4.1 Agents | | George Frideric Handel | George Frideric Handel | 
+| 1.4.1.1 Agent Activity | | Music | Hudba |
+| 1.4.1 Agents | | Václav Hálek | Václav Hálek |
+| 1.4.1.1 Agent Activity | | Music | Hudba |
+| 1.4.1 Agents | | Jozef Malovec | Jozef Malovec |
+| 1.4.1.1 Agent Activity | | Music | Hudba |
+| 1.4.1 Agents | | František Belfín | František Belfín |
+| 1.4.1.1 Agent Activity | | Conductor | Dirigent |
+| 1.4.1 Agents | | Filmový symfonický orchestr, Praha | Filmový symfonický orchestr, Praha |
+| 1.4.1.1 Agent Activity | | Music Performed by | Hudbu nahral |
+| 1.4.1 Agents | | Boris Hochel | Boris Hochel |
+| 1.4.1.1 Agent Activity | | Script Editor | Dramaturg |
+| 1.4.1 Agents | | Juraj Král | Juraj Král |
+| 1.4.1.1 Agent Activity | | Production Manager | Vedúci výroby |
+| 1.4.1 Agents | | Stanislav Učník | Stanislav Učník |
+| 1.4.1.1 Agent Activity | | Production Supervisor | Vedúci nakrúcania |
+| 1.4.1 Agents | | Oľga Hrajnohová | Oľga Hrajnohová |
+| 1.4.1.1 Agent Activity | | Script-girl | Skript |
+| 1.4.1 Agents | | Štefan Kondrót | Štefan Kondrót |
+| 1.4.1.1 Agent Activity | | Cooperation | Spolupráca |
+| 1.4.1 Agents | | Martin Gazík | Martin Gazík |
+| 1.4.1.1 Agent Activity | | Cooperation | Spolupráca |
+| 1.4.1 Agents | | Ján Albrecht | Ján Albrecht |
+| 1.4.1.1 Agent Activity | | Cooperation | Spolupráca |
+| 1.4.1 Agents | | Jan Švankmajer | Jan Švankmajer |
+| 1.4.1.1 Agent Activity | | Cooperation | Spolupráca |
+| 1.4.1 Agents | | Jozef Košťál | Jozef Košťál |
+| 1.4.1.1 Agent Activity | | Cooperation | Spolupráca |
+| 1.4.1 Agents | | Jaroslav Rihák | Jaroslav Rihák |
+| 1.4.1.1 Agent Activity | | Cooperation | Spolupráca |
+| 1.4.1 Agents | | Milan Hurtig | Milan Hurtig |
+| 1.4.1.1 Agent Activity | | Cooperation | Spolupráca |
+| 1.4.1 Agents | | Jozef Kováčik | Jozef Kováčik |
+| 1.4.1.1 Agent Activity | | Cooperation | Spolupráca |
+| 1.4.1 Agents | | Ján Gašparec | Ján Gašparec |
+| 1.4.1.1 Agent Activity | | Cooperation | Spolupráca |
+| Cast/ Featuring | | From the lives of those mentioned below: | Zo života: |
+| 1.4.1 Agents | | Veronika Ralíková | Veronika Ralíková |
+| 1.4.1.1 Agent Activity | | Herself | |
+| 1.4.1 Agents | | Adam Kura | Adam Kura |
+| 1.4.1.1 Agent Activity | | Himself | |
+| 1.4.1 Agents | | Jozef Országh | Jozef Országh |
+| 1.4.1.1 Agent Activity | | Himself | |
+| 1.4.1 Agents | | Juraj Michelík | Juraj Michelík |
+| 1.4.1.1 Agent Activity | | Himself | |
+| 1.4.1 Agents | | Anton Miček | Anton Miček |
+| 1.4.1.1 Agent Activity | | Himself | |
+| 1.4.1 Agents | | Františka Ševčíková | Františka Ševčíková |
+| 1.4.1.1 Agent Activity | | Herself | |
+| 1.4.1 Agents | | Adam Struhárňanský | Adam Struhárňanský |
+| 1.4.1.1 Agent Activity | | Himself | |
+| 1.4.1 Agents | | Jozef Račko | Jozef Račko |
+| 1.4.1.1 Agent Activity | | Himself | |
+| 1.4.1 Agents | | Alojz Kováč | Alojz Kováč
+| 1.4.1.1 Agent Activity | | Himself | |
+| 1.4.1 Agents | | Matej Dudka | Matej Dudka |
+| 1.4.1.1 Agent Activity | | Himself | |
+| 1.4.1 Agents | | Ladislav Chudík | Ladislav Chudík | 
+| 1.4.1.1 Agent Activity | |commentary spoken by | interpret komentára |
+| 1.4.2 Events (e.g., IPR registration, screenings, awards, etc.) D.4.3 Production | | | |
+| - Production Event type | D.11 Production Event Types | beginning of shooting | prvý filmovací deň |
+| - Year/Date | | 1971-09-13 | 1971-09-13 |
+| - Production Event type | D.11 Production Event Types | completion of shooting | posledný filmovací deň |
+| - Year/Date | | 1972-01-09 | 1972-01-09 |
+| 1.4.2 Events (e.g., IPR registration, screenings, awards, etc.)– D.4.2 Award(s) or Nomination(s) | | | |
+| - Award(s)/Nomination(s) date |  | 1988 | 1988 | 
+| - Award name |  | Golden Sestertius, Grand Prix (Sesterce d’Or, Grand Prix) | Zlatý sestercius, Grand Prix (Sesterce d’Or, Grand Prix) |
+| - Event |  | 20th International Festival of Documentary Films Nyon 1988 | 20. medzinárodný festival dokumentárnych filmov Nyon 1988 |
+| - Award(s)/Nomination(s) date |  | 1989 | 1989 |
+| - Award name |  | European Film Award / European Documentary - Special Mention | Európska filmová cena / Európske dokumenty - Osobitné uznanie |
+| - Event |  | 2nd European Film Awards 1989 (Paris) | 2. ročník Európskych filmových cien 1989 (Paríž) |
+| - Award(s)/Nomination(s) date |  |  1990 | 1990 |
+| - Award name |  | Los Angeles Film Critics Association Award / Best Non-Fiction Film | Cena asociácie losangeleských filmových kritikov / Najlepší non-fiction film |
+| - Event |  | 16th Los Angeles Film Critics Association Awards 1990 | 16. ročník Cien asociácie losangeleských filmových kritikov 1990 |
+| 1.4.3 Subject/Genre/Form terms | genre | documentary films | dokumentárne filmy |
+| | form | full-length films | dlhometrážné filmy
+| 1.4.4 Other relationships | D.17.1 Work/Variant Other Relationship Types | “Has a relationship to an “object” (a non-moving image resource)” | Má vzťah k objektu |
 
 
-
-1.4.1 Agents (e.g.
-Cast, Credits, Person,
-Organisation, etc.)
-
-Vladimír Vavrek
-
-Vladimír Vavrek
-
-1.4.1.1 Agent Activity
-
-Photographs by
-
-Fotografie
-
-1.4.1 Agents
-
-George Frideric Handel
-
-George Frideric Handel
-
-1.4.1.1 Agent Activity
-
-Music
-
-Hudba
-
-1.4.1 Agents
-
-Václav Hálek
-
-Václav Hálek
-
-1.4.1.1 Agent Activity
-
-Music
-
-Hudba
-
-1.4.1 Agents
-
-Jozef Malovec
-
-Jozef Malovec
-
-1.4.1.1 Agent Activity
-
-Music
-
-Hudba
-
-1.4.1 Agents
-
-František Belfín
-
-František Belfín
-
-1.4.1.1 Agent Activity
-
-Conductor
-
-Dirigent
-
-1.4.1 Agents
-
-Filmový symfonický
-orchestr, Praha
-
-Filmový symfonický
-orchestr, Praha
-
-1.4.1.1 Agent Activity
-
-Music Performed by
-
-Hudbu nahral
-
-1.4.1 Agents
-
-Boris Hochel
-
-Boris Hochel
-
-1.4.1.1 Agent Activity
-
-Script Editor
-
-Dramaturg
-
-1.4.1 Agents
-
-Juraj Král
-
-Juraj Král
-
-1.4.1.1 Agent Activity
-
-Production Manager
-
-Vedúci výroby
-
-1.4.1 Agents
-
-Stanislav Učník
-
-Stanislav Učník
-
-1.4.1.1 Agent Activity
-
-Production Supervisor
-
-Vedúci nakrúcania
-
-1.4.1 Agents
-
-Oľga Hrajnohová
-
-Oľga Hrajnohová
-
-1.4.1.1 Agent Activity
-
-Script-girl
-
-Skript
-
-1.4.1 Agents
-
-Štefan Kondrót
-
-Štefan Kondrót
-
-1.4.1.1 Agent Activity
-
-Cooperation
-
-Spolupráca
-
-1.4.1 Agents
-
-Martin Gazík
-
-Martin Gazík
-
-1.4.1.1 Agent Activity
-
-Cooperation
-
-Spolupráca
-
-1.4.1 Agents
-
-Ján Albrecht
-
-Ján Albrecht
-
-1.4.1.1 Agent Activity
-
-Cooperation
-
-Spolupráca
-
-1.4.1 Agents
-
-Jan Švankmajer
-
-Jan Švankmajer
-
-1.4.1.1 Agent Activity
-
-Cooperation
-
-Spolupráca
-
-1.4.1 Agents
-
-1.4.1.1 Agent Activity
-
-Jozef Košťál
-
-Cooperation
-
-Jozef Košťál
-
-Spolupráca
-
-1.4.1 Agents
-
-Jaroslav Rihák
-
-Jaroslav Rihák
-
-1.4.1.1 Agent Activity
-
-Cooperation
-
-Spolupráca
-
-
-
-1.4.1 Agents
-
-Milan Hurtig
-
-Milan Hurtig
-
-1.4.1.1 Agent Activity
-
-Cooperation
-
-Spolupráca
-
-1.4.1 Agents
-
-Jozef Kováčik
-
-Jozef Kováčik
-
-1.4.1.1 Agent Activity
-
-Cooperation
-
-Spolupráca
-
-1.4.1 Agents
-
-Ján Gašparec
-
-Ján Gašparec
-
-1.4.1.1 Agent Activity
-
-Cooperation
-
-Spolupráca
-
-Cast/ Featuring
-
-From the lives of those
-mentioned below:
-
-Zo života:
-
-1.4.1 Agents
-
-Veronika Ralíková
-
-Veronika Ralíková
-
-1.4.1.1 Agent Activity
-
-Herself
-
-1.4.1 Agents
-
-Adam Kura
-
-Adam Kura
-
-1.4.1.1 Agent Activity
-
-Himself
-
-1.4.1 Agents
-
-Jozef Országh
-
-Jozef Országh
-
-1.4.1.1 Agent Activity
-
-Himself
-
-1.4.1 Agents
-
-Juraj Michelík
-
-Juraj Michelík
-
-1.4.1.1 Agent Activity
-
-Himself
-
-1.4.1 Agents
-
-Anton Miček
-
-Anton Miček
-
-1.4.1.1 Agent Activity
-
-Himself
-
-1.4.1 Agents
-
-Františka Ševčíková
-
-Františka Ševčíková
-
-1.4.1.1 Agent Activity
-
-Herself
-
-1.4.1 Agents
-
-Adam Struhárňanský
-
-Adam Struhárňanský
-
-1.4.1.1 Agent Activity
-
-Himself
-
-1.4.1 Agents
-
-1.4.1.1 Agent Activity
-
-1.4.1 Agents
-
-1.4.1.1 Agent Activity
-
-Jozef Račko
-
-Jozef Račko
-
-Himself
-
-Alojz Kováč
-
-Himself
-
-Alojz Kováč
-
-1.4.1 Agents
-
-Matej Dudka
-
-Matej Dudka
-
-1.4.1.1 Agent Activity
-
-Himself
-
-1.4.1 Agents
-
-Ladislav Chudík
-
-Ladislav Chudík
-
-1.4.1.1 Agent Activity
-
-commentary spoken by
-
-interpret komentára
-
-1.4.2 Events (e.g., IPR
-registration, screen-
-ings, awards, etc.)
-D.4.3 Production
-
-
-
-• Production Event
-type
-
-D.11 Production
-Event Types
-
-beginning of shooting
-
-prvý filmovací deň
-
-• Year/Date
-
-1971-09-13
-
-1971-09-13
-
-• Production Event
-type
-
-D.11 Production
-Event Types
-
-completion of shooting
-
-posledný filmovací deň
-
-• Year/Date
-
-1972-01-09
-
-1972-01-09
-
-1.4.2 Events (e.g.,
-IPR registration,
-screenings, awards,
-etc.)– D.4.2 Award(s)
-or Nomination(s)
-
-• Award(s)/Nomina-
-tion(s) date
-
-• Award name
-
-• Event
-
-• Award(s)/Nomina-
-tion(s) date
-
-• Award name
-
-• Event
-
-• Award(s)/Nomina-
-tion(s) date
-
-• Award name
-
-• Event
-
-1.4.3 Subject/Genre/
-Form terms
-
-genre
-
-1988
-
-1988
-
-Golden Sestertius,
-Grand Prix (Sesterce
-d’Or, Grand Prix)
-
-Zlatý sestercius, Grand
-Prix (Sesterce d’Or,
-Grand Prix)
-
-20th International Fes-
-tival of Documentary
-Films Nyon 1988
-
-20. medzinárodný fes-
-tival dokumentárnych
-filmov Nyon 1988
-
-1989
-
-1989
-
-European Film Award /
-European Documentary
-- Special Mention
-
-Európska filmová cena
-/ Európske dokumenty -
-Osobitné uznanie
-
-2nd European Film
-Awards 1989 (Paris)
-
-2. ročník Európskych
-filmových cien 1989
-(Paríž)
-
-1990
-
-1990
-
-Los Angeles Film Critics
-Association Award /
-Best Non-Fiction Film
-
-Cena asociácie losange-
-leských filmových kri-
-tikov / Najlepší non-fic-
-tion film
-
-16th Los Angeles Film
-Critics Association
-Awards 1990
-
-16. ročník Cien asociácie
-losangeleských film-
-ových kritikov 1990
-
-documentary films
-
-dokumentárne filmy
-
-form
-
-full-length films
-
-dlhometrážné filmy
-
-1.4.4 Other relation-
-ships
-
-D.17.1 Work/Vari-
-ant Other Rela-
-tionship Types
-
-“Has a relationship to an
-“object” (a non-moving
-image resource)”
-
-Má vzťah k objektu
 
 
 
