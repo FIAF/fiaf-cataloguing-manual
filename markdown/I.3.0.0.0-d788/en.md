@@ -1,178 +1,44 @@
-I.3 Example 3. Silent feature film in 3-level
-Hierarchy Model with multiple Manifesta-
-tions and items
-
-WORK RECORD
-
-Work identifier
-
-[-----]
-
-Preferred title
-
-катька бумажный ранет
-
-Alternative Title
-– transliterated
-
-Katʹka bumazhnyǐ ranet
-
-Other title information melodrama v 6 chasti︠ a︡ kh
-
-Date – original release
-date
-
-1926-12-25
-
-Category
-
-Fiction films; Silent films; Soviet films
-
-Content description
-
-A young country girl who becomes an apple seller is seduced
-and abandoned. She finds a protector but when he is arrested
-for theft she finds honest work in a factory.
-
-Subject terms
-
-Women -- Soviet Union -- Drama.
-
-Single mothers -- Soviet Union -- Drama.
-
-Mothers -- Soviet Union -- Drama.
-
-Criminals -- Soviet Union -- Drama.
-
-Black market -- Soviet Union -- Drama.
-
-Sexual division of labor -- Soviet Union -- Drama.
-
-Soviet Union -- Social life and customs -- 1917-1970.
-St︠ s︡ enariǐ [screenplay], Mikhaila Borisoglebskogo; rezhissery
-[directors], Ėduard Ioganson i Fridrikh Ėrmler; proizvodstvo le-
-ningradskoǐ fabriki Sovkino [produced by the Leningrad Studio of
-Sovkin]. Operator [camera], Evgeniǐ Mikhaǐlov; khudozhnik [sets],
-Evgeniǐ Eneǐ; assistent [assistant director], Robert Maǐman;
-administrator, Sem Gershtenzanl.
-[Cast:] Veronika Buzhinskai︠ a︡  (Katʹka), Bella Chernova (Verka),
-Fëdor Nikitin (Vadʹka Zavrazhin), Valeriǐ Solovt︠ s︡ ov (Sëmka
-Zhgut).
-
-Proizvodstvo leningradskoǐ fabriki Sovkino [produced by the
-Leningrad Studio of Sovkino].
-
-Soviet Union
-
-Russian
-
-Cast information provided in intertitles as film progresses.
-Additional credits supplied from: Kino / Jay Leyda; Sovetskie
-khudozhestvennye filʹmy.
-
-Agents
-
-Country
-
-Language
-
-Notes
-
-
-
-MANIFESTATION RECORD 1
-
-Manifestation type
-
-Theatrical distribution
-
-Identifier
-
-Title proper
-
-Alternative
-transliterated
-
-[-----]
-
-катька бумажный ранет
-
-title
-
-–
-
-Katʹka bumazhnyǐ ranet
-
-Translated title
-Other title information melodrama v 6 chasti︠ a︡ kh
-
-Katka’s reinette apples
-
-Agents
-
-Distributor: Goskino
-
-Carrier type – general
-
-Film
-
-Carrier type – specific
-
-35mm
-
-Projection characteris-
-tics – Aspect ratio
-
-1.33:1
-
-Sound characteristics
-
-Silent
-
-Color characteristics
-
-Black and white
-
-Logical extent
-
-Physical extent
-
-Duration
-
-Type
-
-Language
-
-Notes
-
-6 reels
-
-6576 ft.
-
-88 minutes
-
-Release print
-
-Russian intertitles only.
-
-Titles preceding film (cataloger's translation in brackets): Iz istorii
-Sovetskoǐ khudozhesvennoǐ kinematografii. T︠ s︡
-ikl 1. Nemoe kino
--- Glavnoe upravlenie kinofikat︠ s︡
-ii i kinoprokata i vsesoiuznyǐ go-
-sudarstvennyǐ  fond  kinofilʹma  pokazyvai︠ u︡
-t  Katka  bumazhnyǐ
-ranet -- Ėtot filʹm byl postavlen v 1926 godu. On i︠ a︡ vilsi︠ a︡  odnim
-iz  pervykh  opytov  sozdanii︠ a︡   bytovoǐ  dramy  na  sovremennom
-sovetskom materiale. Istoricheskiǐ interes predstavli︠ a︡ et popytka
-avtorov filʹma pokazatʹ zhivye chelovecheskie kharaktery. [From
-the history of the Soviet artistic cinema. Cycle one. Silent cine-
-ma -- The Central Bureau for Film Distribution and the All-Union
-Governmental  Cinema  Collection  present:  Katka's  reinette  ap-
-ples -- This film was produced in 1926. It constitutes one of the
-first attempts to create on the basis of contemporary Soviet ma-
-terial a drama from "everyday life." The authors' attempt to show
-living human characters is worthy of historical interest.]
+# I.3 Example 3. Silent feature film in 3-level Hierarchy Model with multiple Manifestations and items
+
+**WORK RECORD**
+
+| | |
+| --- | --- |
+| Work identifier | [-----] |
+| Preferred title | катька бумажный ранет |
+| Alternative Title – transliterated | Katʹka bumazhnyǐ ranet |
+| Other title information | melodrama v 6 chasti︠ a︡ kh |
+| Date – original release date | 1926-12-25 |
+| Category | Fiction films; Silent films; Soviet films |
+| Content description | A young country girl who becomes an apple seller is seduced and abandoned. She finds a protector but when he is arrested for theft she finds honest work in a factory. |
+| Subject terms | Women -- Soviet Union -- Drama. Single mothers -- Soviet Union -- Drama. Mothers -- Soviet Union -- Drama. Criminals -- Soviet Union -- Drama. Black market -- Soviet Union -- Drama. Sexual division of labor -- Soviet Union -- Drama. Soviet Union -- Social life and customs -- 1917-1970. |
+| Agents | St︠ s︡ enariǐ [screenplay], Mikhaila Borisoglebskogo; rezhissery [directors], Ėduard Ioganson i Fridrikh Ėrmler; proizvodstvo leningradskoǐ fabriki Sovkino [produced by the Leningrad Studio of Sovkin]. Operator [camera], Evgeniǐ Mikhaǐlov; khudozhnik [sets], Evgeniǐ Eneǐ; assistent [assistant director], Robert Maǐman; administrator, Sem Gershtenzanl. [Cast:] Veronika Buzhinskai︠ a︡  (Katʹka), Bella Chernova (Verka), Fëdor Nikitin (Vadʹka Zavrazhin), Valeriǐ Solovt︠ s︡ ov (Sëmka Zhgut). Proizvodstvo leningradskoǐ fabriki Sovkino [produced by the Leningrad Studio of Sovkino]. |
+| Country | Soviet Union |
+| Language | Russian |
+| Notes | Cast information provided in intertitles as film progresses. Additional credits supplied from: Kino / Jay Leyda; Sovetskie khudozhestvennye filʹmy. |
+
+**MANIFESTATION RECORD 1**
+
+| | |
+| --- | --- |
+| Manifestation type | Theatrical distribution |
+| Identifier | [-----] |
+| Title proper | катька бумажный ранет |
+| Alternative title - transliterated | Katʹka bumazhnyǐ ranet |
+| Translated title | Katka’s reinette apples |
+| Other title information | melodrama v 6 chasti︠ a︡ kh |
+| Agents | Distributor: Goskino |
+| Carrier type – general | Film |
+| Carrier type – specific | 35mm |
+| Projection characteristics – Aspect ratio | 1.33:1 |
+| Sound characteristics | Silent |
+| Color characteristics | Black and white |
+| Logical extent | 6 reels |
+| Physical extent | 6576 ft. |
+| Duration | 88 minutes |
+| Type | Release print |
+| Language | Russian intertitles only. |
+| Notes | Titles preceding film (cataloger's translation in brackets): Iz istorii Sovetskoǐ khudozhesvennoǐ kinematografii. T︠ s︡ikl 1. Nemoe kino -- Glavnoe upravlenie kinofikat︠ s︡ii i kinoprokata i vsesoiuznyǐ gosudarstvennyǐ  fond  kinofilʹma  pokazyvai︠ u︡t  Katka  bumazhnyǐ ranet -- Ėtot filʹm byl postavlen v 1926 godu. On i︠ a︡ vilsi︠ a︡  odnim iz  pervykh  opytov  sozdanii︠ a︡   bytovoǐ  dramy  na  sovremennom sovetskom materiale. Istoricheskiǐ interes predstavli︠ a︡ et popytka avtorov filʹma pokazatʹ zhivye chelovecheskie kharaktery. [From the history of the Soviet artistic cinema. Cycle one. Silent cinema -- The Central Bureau for Film Distribution and the All-Union Governmental  Cinema  Collection  present:  Katka's  reinette  apples -- This film was produced in 1926. It constitutes one of the first attempts to create on the basis of contemporary Soviet material a drama from "everyday life." The authors' attempt to show living human characters is worthy of historical interest.]
 
 
 
