@@ -40,418 +40,113 @@
 | Language | Russian intertitles only. |
 | Notes | Titles preceding film (cataloger's translation in brackets): Iz istorii Sovetskoǐ khudozhesvennoǐ kinematografii. T︠ s︡ikl 1. Nemoe kino -- Glavnoe upravlenie kinofikat︠ s︡ii i kinoprokata i vsesoiuznyǐ gosudarstvennyǐ  fond  kinofilʹma  pokazyvai︠ u︡t  Katka  bumazhnyǐ ranet -- Ėtot filʹm byl postavlen v 1926 godu. On i︠ a︡ vilsi︠ a︡  odnim iz  pervykh  opytov  sozdanii︠ a︡   bytovoǐ  dramy  na  sovremennom sovetskom materiale. Istoricheskiǐ interes predstavli︠ a︡ et popytka avtorov filʹma pokazatʹ zhivye chelovecheskie kharaktery. [From the history of the Soviet artistic cinema. Cycle one. Silent cinema -- The Central Bureau for Film Distribution and the All-Union Governmental  Cinema  Collection  present:  Katka's  reinette  apples -- This film was produced in 1926. It constitutes one of the first attempts to create on the basis of contemporary Soviet material a drama from "everyday life." The authors' attempt to show living human characters is worthy of historical interest.]
 
-
-
-MANIFESTATION RECORD 2
-
-Manifestation type
-
-Unknown [Video transfer]
-
-Identifier
-
-Preferred title
-
-Alternative
-transliterated
-
-[-----]
-
-катька бумажный ранет
-
-Title
-
-–
-
-Katʹka bumazhnyǐ ranet
-
-Parallel  Title  –  US  re-
-lease title
-
-Katka’s reinette apples
-
-Date – video transfer
-
-[1980?]
-
-Carrier type – general
-
-Video tape
-
-Carrier type – specific
-
-1-inch Type C
-
-Projection characteris-
-tics – Aspect ratio
-
-1.33:1
-
-Sound characteristics
-
-Silent
-
-Color characteristics
-
-Black and white
-
-Logical extent
-
-Temporal extent
-
-1 videoreel
-
-85 minutes
-
-Agents
-
-Language
-
-Notes
-
-Film-to-tape transfer overseen by: Pacific Film Archive
-
-Russian intertitles only.
-
-The negative from the print used to dub this tape is missing foot-
-age. Some scenes are truncated. The footage loss between the
-original footage and the print is approximately 102 feet.
-
-Titles preceding film (cataloger's translation in brackets): Iz istorii
-Sovetskoǐ khudozhesvennoǐ kinematografii. T︠ s︡
-ikl 1. Nemoe kino
--- Glavnoe upravlenie kinofikat︠ s︡
-ii i kinoprokata i vsesoiuznyǐ go-
-sudarstvennyǐ  fond  kinofilʹma  pokazyvai︠ u︡
-t  Katka  bumazhnyǐ
-ranet -- Ėtot filʹm byl postavlen v 1926 godu. On i︠ a︡ vilsi︠ a︡  odnim
-iz  pervykh  opytov  sozdanii︠ a︡   bytovoǐ  dramy  na  sovremennom
-sovetskom materiale. Istoricheskiǐ interes predstavli︠ a︡ et popytka
-avtorov filʹma pokazatʹ zhivye chelovecheskie kharaktery. [From
-the history of the Soviet artistic cinema. Cycle one. Silent cine-
-ma -- The Central Bureau for Film Distribution and the All-Union
-Governmental  Cinema  Collection  present:  Katka's  reinette  ap-
-ples -- This film was produced in 1926. It constitutes one of the
-first attempts to create on the basis of contemporary Soviet ma-
-terial a drama from "everyday life." The authors' attempt to show
-living human characters is worthy of historical interest.]
-
-
-
-MANIFESTATION RECORD 3
-
-Manifestation type
-
-Unknown [Video transfer]
-
-Identifier
-
-[-----]
-
-Preferred title
-
-катька бумажный ранет
-
-Alternative Title –
-transliterated
-
-Parallel Title – US re-
-lease title
-
-Katʹka bumazhnyǐ ranet
-
-Katka’s reinette apples
-
-Date – video transfer
-
-[1995?]
-
-Carrier type – general
-
-Video tape
-
-Carrier type – specific
-
-½ in. VHS
-
-Projection character-
-istics – Aspect ratio
-
-1.33:1
-
-Sound characteristics
-
-Silent
-
-Color characteristics
-
-Black and white
-
-Logical extent
-
-1 videocassette
-
-Duration
-
-Language
-
-Agents
-
-Notes
-
-85 minutes
-
-Russian intertitles only.
-
-Dub from 1 in. master tape by: Pacific Film Archive
-
-The negative from the print used to dub this tape is missing foot-
-age. Some scenes are truncated. The footage loss between the
-original footage and the print is approximately 102 feet.
-
-Titles preceding film (cataloger's translation in brackets): Iz istorii
-Sovetskoǐ khudozhesvennoǐ kinematografii. T︠ s︡
-ikl 1. Nemoe kino
--- Glavnoe upravlenie kinofikat︠ s︡
-ii i kinoprokata i vsesoiuznyǐ go-
-sudarstvennyǐ  fond  kinofilʹma  pokazyvai︠ u︡
-t  Katka  bumazhnyǐ
-ranet -- Ėtot filʹm byl postavlen v 1926 godu. On i︠ a︡ vilsi︠ a︡  odnim
-iz  pervykh  opytov  sozdanii︠ a︡   bytovoǐ  dramy  na  sovremennom
-sovetskom materiale. Istoricheskiǐ interes predstavli︠ a︡ et popytka
-avtorov filʹma pokazatʹ zhivye chelovecheskie kharaktery. [From
-the history of the Soviet artistic cinema. Cycle one. Silent cine-
-ma -- The Central Bureau for Film Distribution and the All-Union
-Governmental  Cinema  Collection  present:  Katka's  reinette  ap-
-ples -- This film was produced in 1926. It constitutes one of the
-first attempts to create on the basis of contemporary Soviet ma-
-terial a drama from "everyday life." The authors' attempt to show
-living human characters is worthy of historical interest.]
-
-
-
-ITEM RECORD 1 [links to MANIFESTATION 1]
-
-Identifier – local call
-number
-
-3500-01-5762
-
-Preferred title
-
-катька бумажный ранет
-
-Alternative Title –
-transliterated
-
-Parallel Title – US re-
-lease title
-
-Holding institution
-
-Katʹka bumazhnyǐ ranet
-
-Katka’s reinette apples
-
-University of California, Berkeley Art Museum and Pacific Film
-Archive
-
-Date – print date
-
-[unknown]
-
-Item material type
-
-Positive
-
-Item status
-
-Unit number
-
-Base
-
-Physical extent
-
-Stock
-
-Duration
-
-Note
-
-Item specific note
-
-Viewing copy; release print
-
-6 reels of 6
-
-triacetate
-
-6474 ft.
-
-Svema
-
-Running time at 20 fps: 01:25:49
-
-The negative from which this print was struck is missing footage.
-Some scenes are truncated. The footage loss between the origi-
-nal footage and this print is approximately 102 feet.
-
-PFA  3500-01-5762.  CONDITION  NOTE:  Last  inspected:  1994
-Apr  20;  splices;  Excellent  condition:  General  comments  on  all
-reels: scratches are printed on, as are some splice points from
-the original negative; otherwise, no scratches on the print itself;
-reel  changeover  marks  are  hole-punched  in  at  the  end  of  ev-
-ery reel; REEL 1 (973 ft., 6 fr.): Russian academy leader tape-
-spliced on at head; edge code: 182 SVEMA M3 BEZOPASNAIA;
-SMPTE Universal leader tape-spliced at end [...]
-
-Item specific note
-
-AD test 2007-03-01: all reels level 0.5
-
-Access conditions
-
-Pacific Film Archive collection; non-circulating.
-
-Access conditions
-
-Restricted: Not for research use.
-
-
-
-ITEM RECORD 2 [links to MANIFESTATION 2]
-
-Identifier – local call
-number
-
-1 in. MASTER
-
-Preferred title
-
-катька бумажный ранет
-
-Alternative Title –
-transliterated
-
-Parallel Title – US re-
-lease title
-
-Holding institution
-
-Katʹka bumazhnyǐ ranet
-
-Katka’s reinette apples
-
-University of California, Berkeley Art Museum and Pacific Film
-Archive
-
-Date – video transfer
-
-[1985?]
-
-Date – log-in
-
-1992-07-14
-
-Item material type
-
-Item status
-
-Unit number
-
-Positive
-
-Master
-
-1 videoreel of 1
-
-Base
-
-Stock
-
-Duration
-
-Note
-
-video
-
-Ampex
-
-Running time: 01:25:49
-
-1 in. film-to-tape transfer made at 20 fps
-
-Access conditions
-
-Pacific Film Archive collection; non-circulating.
-
-
-
-ITEM RECORD 3 [links to MANIFESTATION 3]
-
-Identifier – local call
-number
-
-0500-01-7801
-
-Preferred title
-
-катька бумажный ранет
-
-Alternative Title –
-transliterated
-
-Parallel Title – US re-
-lease title
-
-Holding institution
-
-Katʹka bumazhnyǐ ranet
-
-Katka’s reinette apples
-
-University of California, Berkeley Art Museum and Pacific Film
-Archive
-
-Date – video transfer
-
-[1995]
-
-Date – acquisition
-
-1995-03-07
-
-Item material type
-
-Positive
-
-Item status
-
-Unit number
-
-Base
-
-Stock
-
-Duration
-
-Note
-
-Viewing copy
-
-1 videocassette of 1
-
-video
-
-Fuji
-
-Running time: 01:25:49
-
-Original 1 in. film-to-tape transfer made at 20 fps
-
-Access conditions
-
-Pacific Film Archive collection; non-circulating.
+**MANIFESTATION RECORD 2**
+
+| | |
+| --- | --- |
+| Manifestation type | Unknown [Video transfer] |
+| Identifier | [-----] |
+| Preferred title | катька бумажный ранет |
+| Alternative Title - transliterated | Katʹka bumazhnyǐ ranet |
+| Parallel  Title  –  US  release title | Katka’s reinette apples |
+| Date – video transfer | [1980?] |
+| Carrier type – general | Video tape |
+| Carrier type – specific | 1-inch Type C |
+| Projection characteristics – Aspect ratio | 1.33:1 |
+| Sound characteristics | Silent |
+| Color characteristics | Black and white |
+| Logical extent | 1 videoreel |
+| Temporal extent | 85 minutes |
+| Agents | Film-to-tape transfer overseen by: Pacific Film Archive |
+| Language | Russian intertitles only. |
+| Notes | The negative from the print used to dub this tape is missing footage. Some scenes are truncated. The footage loss between the original footage and the print is approximately 102 feet. Titles preceding film (cataloger's translation in brackets): Iz istorii Sovetskoǐ khudozhesvennoǐ kinematografii. T︠ s︡ikl 1. Nemoe kino -- Glavnoe upravlenie kinofikat︠ s︡ii i kinoprokata i vsesoiuznyǐ gosudarstvennyǐ  fond  kinofilʹma  pokazyvai︠ u︡t  Katka  bumazhnyǐ ranet -- Ėtot filʹm byl postavlen v 1926 godu. On i︠ a︡ vilsi︠ a︡  odnim iz  pervykh  opytov  sozdanii︠ a︡   bytovoǐ  dramy  na  sovremennom sovetskom materiale. Istoricheskiǐ interes predstavli︠ a︡ et popytka avtorov filʹma pokazatʹ zhivye chelovecheskie kharaktery. [From the history of the Soviet artistic cinema. Cycle one. Silent cinema -- The Central Bureau for Film Distribution and the All-Union Governmental  Cinema  Collection  present:  Katka's  reinette  apples -- This film was produced in 1926. It constitutes one of the first attempts to create on the basis of contemporary Soviet material a drama from "everyday life." The authors' attempt to show living human characters is worthy of historical interest.]
+
+**MANIFESTATION RECORD 3**
+
+
+| | |
+| --- | --- |
+| Manifestation type | Unknown [Video transfer] |
+| Identifier | [-----] |
+| Preferred title | катька бумажный ранет |
+| Alternative Title – transliterated | Katʹka bumazhnyǐ ranet |
+| Parallel Title – US release title | Katka’s reinette apples |
+| Date – video transfer | [1995?] |
+| Carrier type – general | Video tape |
+| Carrier type – specific | ½ in. VHS |
+| Projection characteristics – Aspect ratio | 1.33:1 |
+| Sound characteristics | Silent |
+| Color characteristics | Black and white |
+| Logical extent | 1 videocassette |
+| Duration | 85 minutes |
+| Language | Russian intertitles only. |
+| Agents | Dub from 1 in. master tape by: Pacific Film Archive |
+| Notes | The negative from the print used to dub this tape is missing footage. Some scenes are truncated. The footage loss between the original footage and the print is approximately 102 feet. Titles preceding film (cataloger's translation in brackets): Iz istorii Sovetskoǐ khudozhesvennoǐ kinematografii. T︠ s︡ikl 1. Nemoe kino -- Glavnoe upravlenie kinofikat︠ s︡ii i kinoprokata i vsesoiuznyǐ gosudarstvennyǐ  fond  kinofilʹma  pokazyvai︠ u︡t  Katka  bumazhnyǐranet -- Ėtot filʹm byl postavlen v 1926 godu. On i︠ a︡ vilsi︠ a︡  odnim iz  pervykh  opytov  sozdanii︠ a︡   bytovoǐ  dramy  na  sovremennom sovetskom materiale. Istoricheskiǐ interes predstavli︠ a︡ et popytka avtorov filʹma pokazatʹ zhivye chelovecheskie kharaktery. [From the history of the Soviet artistic cinema. Cycle one. Silent cinema -- The Central Bureau for Film Distribution and the All-Union Governmental  Cinema  Collection  present:  Katka's  reinette  apples -- This film was produced in 1926. It constitutes one of the first attempts to create on the basis of contemporary Soviet material a drama from "everyday life." The authors' attempt to show living human characters is worthy of historical interest.] |
+
+**ITEM RECORD 1 [links to MANIFESTATION 1] **
+
+| | |
+| --- | --- |
+| Identifier – local call number | 3500-01-5762 |
+| Preferred title | катька бумажный ранет |
+| Alternative Title – transliterated | Katʹka bumazhnyǐ ranet |
+| Parallel Title – US release title | Katka’s reinette apples |
+| Holding institution | University of California, Berkeley Art Museum and Pacific Film Archive |
+| Date – print date | [unknown] |
+| Item material type | Positive |
+| Item status | Viewing copy; release print |
+| Unit number | 6 reels of 6 |
+| Base | triacetate |
+| Physical extent | 6474 ft. |
+| Stock | Svema |
+| Duration | Running time at 20 fps: 01:25:49 |
+| Note | The negative from which this print was struck is missing footage. Some scenes are truncated. The footage loss between the original footage and this print is approximately 102 feet. |
+| Item specific note | PFA  3500-01-5762.  CONDITION  NOTE:  Last  inspected:  1994 Apr  20;  splices;  Excellent  condition:  General  comments  on  all reels: scratches are printed on, as are some splice points from the original negative; otherwise, no scratches on the print itself; reel  changeover  marks  are  hole-punched  in  at  the  end  of  every reel; REEL 1 (973 ft., 6 fr.): Russian academy leader tape-spliced on at head; edge code: 182 SVEMA M3 BEZOPASNAIA; SMPTE Universal leader tape-spliced at end [...] |
+| Item specific note | AD test 2007-03-01: all reels level 0.5 |
+| Access conditions | Pacific Film Archive collection; non-circulating. |
+| Access conditions | Restricted: Not for research use. |
+
+**ITEM RECORD 2 [links to MANIFESTATION 2]**
+
+| | |
+| --- | --- |
+| Identifier – local call number | 1 in. MASTER |
+| Preferred title | катька бумажный ранет |
+| Alternative Title – transliterated | Katʹka bumazhnyǐ ranet |
+| Parallel Title – US release title | Katka’s reinette apples |
+| Holding institution | University of California, Berkeley Art Museum and Pacific Film Archive |
+| Date – video transfer | [1985?] |
+| Date – log-in | 1992-07-14 |
+| Item material type | Positive |
+| Item status | Master |
+| Unit number | 1 videoreel of 1 |
+| Base | video |
+| Stock | Ampex |
+| Duration | Running time: 01:25:49 |
+| Note | 1 in. film-to-tape transfer made at 20 fps |
+| Access conditions | Pacific Film Archive collection; non-circulating. |
+
+
+
+**ITEM RECORD 3 [links to MANIFESTATION 3]**
+
+| | |
+| --- | --- |
+| Identifier – local call number | 0500-01-7801 |
+| Preferred title | катька бумажный ранет |
+| Alternative Title – transliterated | Katʹka bumazhnyǐ ranet |
+| Parallel Title – US release title | Katka’s reinette apples |
+| Holding institution | University of California, Berkeley Art Museum and Pacific Film Archive |
+| Date – video transfer | [1995] |
+| Date – acquisition | 1995-03-07 |
+| Item material type | Positive |
+| Item status | Viewing copy |
+| Unit number | 1 videocassette of 1 |
+| Base | video |
+| Stock | Fuji |
+| Duration | Running time: 01:25:49 |
+| Note | Original 1 in. film-to-tape transfer made at 20 fps |
+| Access conditions | Pacific Film Archive collection; non-circulating. |
 
 Links to original MARC-based, flat records:
 
