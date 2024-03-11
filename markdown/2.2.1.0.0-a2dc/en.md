@@ -1,3 +1,5 @@
+# 2.2 Attributes of a Manifestation
+
 # 2.2.1 Manifestation Type
 
 As  previously  mentioned,  a  Manifestation  is  defined  on  the  basis  of  two  criteria: changes in the publication context and changes in format. The element Manifestation Type describes the specific type of change.

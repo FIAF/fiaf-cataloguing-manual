@@ -1,3 +1,5 @@
+# E.3 Types of moving image Aggregates
+
 # E.3.1 Collection Aggregates
 
 Sets  of  multiple  independently  created  Works/Variants,  which  are  “published”[^225] together in a single manifestation.

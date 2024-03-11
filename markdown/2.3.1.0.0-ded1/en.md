@@ -1,3 +1,5 @@
+# 2.3 Elements of a Manifestation
+
 # 2.3.1 Identifier
 
 Create an unambiguous reference to the Manifestation, such as a specific standard number issued by an  official body (i.e. V-ISAN[^87] or DOI[^88]), or a system-automated assigned ID number. These should be different identifiers than those for Works/Variants, since they are for specific embodiments of the Work/Variant.

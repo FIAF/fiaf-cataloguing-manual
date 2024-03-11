@@ -1,3 +1,5 @@
+# 1.2 Attributes of a Moving Image Work/Variant
+
 # 1.2.1 Work/Variant Description Type [^41]
 
 The description type establishes the general focus of the Work being catalogued, whether  it  is  a  complete  Work  in  one  part,  a  Work  made  up  of  several  parts,  or  a  physical group or collection of Works. Providing this information helps the cataloguer and user understand  the  context  of  the  Work/Variant  being  described,  and  whether  it  has  any relationships with other Works/Variants. For example, a television series could be catalogued as a Serial, which implies that there could be related Works (episodes) catalogued as Monographs.
