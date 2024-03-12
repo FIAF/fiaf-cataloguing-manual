@@ -2,7 +2,7 @@
 
 # E.3.1 Collection Aggregates
 
-Sets  of  multiple  independently  created  Works/Variants,  which  are  “published”[^225] together in a single manifestation.
+Sets of multiple independently created Works/Variants, which are “published”[^225] together in a single manifestation.
 
     Examples:
 
@@ -14,9 +14,9 @@ Sets  of  multiple  independently  created  Works/Variants,  which  are  “publ
 
     The following two examples have production companies or time period themes in common:
 
-        Walt  Disney  treasures:  Silly  symphonies  –  The  historic  musical  animated classics DVD, Buena Vista Home Entertainment, 2001, 2 discs (31 cartoons)
+        Walt Disney treasures: Silly symphonies – The historic musical animated classics DVD, Buena Vista Home Entertainment, 2001, 2 discs (31 cartoons)
 
-        I  film  dal  vero  di  produzione  estera.  1895-1907  (Collection  of  32  titles  Lumière,  Edison  and  Mutoscope)  English;  Italian  ;  Accompanying  the  book: Aldo Bernardini, I film dal vero di produzione estera 1895-1907- La Cineteca del Friuli (publisher), 2008, ISBN 978-88-86155-24-3
+        I film dal vero di produzione estera. 1895-1907 (Collection of 32 titles Lumière, Edison and Mutoscope) English; Italian ; Accompanying the book: Aldo Bernardini, I film dal vero di produzione estera 1895-1907- La Cineteca del Friuli (publisher), 2008, ISBN 978-88-86155-24-3
 
 [^225]: Published within the context of moving image means released or broadcast, and may also include in-house aggregate creation
 
