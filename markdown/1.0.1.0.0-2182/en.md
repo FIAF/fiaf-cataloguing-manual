@@ -6,9 +6,9 @@ A Work as a conceptual entity is the topmost level of description. It may be pub
 
 The concept of moving image Work includes moving image realisations of events or performances – such as edited or unedited recordings of a play or concert performed in a theatre, a sporting event, a street performer, a medical procedure, etc.
 
-In addition, moving images created by use of automatic devices such as surveillance cameras  or  vehicle-mounted  cameras,  can  also  be  considered  moving  image  works  if they are subject to collecting or publishing activities.
+In addition, moving images created by use of automatic devices such as surveillance cameras or vehicle-mounted cameras, can also be considered moving image works if they are subject to collecting or publishing activities.
 
-The presence of artistic intent in the creation of a moving image entity is not a prerequisite  for  considering  it  a  moving  image  Work.  A  moving  image  entity  can  be  considered as a Work on a very broad spectrum of creative intent, from the classic fiction feature film at one extreme (with artistic input from dozens or hundreds of creative contributors), through amateur film (with a modicum of creative intent by one individual), to CCTV footage or other automatic recording outputs at the other extreme.
+The presence of artistic intent in the creation of a moving image entity is not a prerequisite for considering it a moving image Work. A moving image entity can be considered as a Work on a very broad spectrum of creative intent, from the classic fiction feature film at one extreme (with artistic input from dozens or hundreds of creative contributors), through amateur film (with a modicum of creative intent by one individual), to CCTV footage or other automatic recording outputs at the other extreme.
 
 Works may have one-to-many relationships with instances of Variant and Manifestation/Item and many-to-many relationships with instances of Agent(s,) Event(s), Content(s), Subject(s) and Other Relation(s). [^26]
 
@@ -49,7 +49,7 @@ examples provided above.
 
     Birmingham Town Hall Car Park. Camera 7. (United Kingdom, 2015, NCP)
 
-    University  College  Hospital.  Endoscopy  –  Colonscope.  Patient  HX3456.  2010 (United Kingdom, 2010, University College Hospital)
+    University College Hospital. Endoscopy – Colonscope. Patient HX3456. 2010 (United Kingdom, 2010, University College Hospital)
 
 [^25]: Adapted from the definition of a Cinematographic Work in EN 15907, 4.1.1, p.8.
 [^26]: Ibid.
