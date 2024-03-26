@@ -4,4 +4,4 @@ Instead of defining levels of cataloguing, this manual outlines core elements fo
 
 This manual also provides a list of all the data elements associated with the entities described.  Thus,  this  approach  provides  a  framework  for  the  minimum  and  maximum amount of descriptive information allowed in a range of moving image cataloguing activities existing in a large variety of environments.
 
-Institutions  are  encouraged  to  include  as  many  of  the  non-core  elements  as  goals and circumstances permit. None are considered mandatory by these guidelines, but an institution may require that some are mandatory for internal purposes.
+Institutions are encouraged to include as many of the non-core  elements as goals and circumstances permit. None are considered mandatory by these guidelines, but an institution may require that some are mandatory for internal purposes.
