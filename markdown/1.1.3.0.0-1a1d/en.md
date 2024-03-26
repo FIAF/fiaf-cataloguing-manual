@@ -7,7 +7,7 @@ other may be drawn on the basis of the following alterations to the content:[^37
 
 - revision or modification of already edited footage of completed work
 
-    Example: In 2007, some in-flight showings of The Queen (2006) distributed to Delta and other airlines had all references to the word “God” edited out by an overzealous and inexperienced employee.[^38]
+> Example: In 2007, some in-flight showings of The Queen (2006) distributed to Delta and other airlines had all references to the word “God” edited out by an overzealous and inexperienced employee.[^38]
 
 - abridgements or additions to existing content
 
