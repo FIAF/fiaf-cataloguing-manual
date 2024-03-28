@@ -1,0 +1,30 @@
+name: compile_manual
+on:
+  push:
+    branches:
+      - main
+jobs:
+  compile:
+    runs-on: ubuntu-latest 
+    permissions:
+      contents: write  
+    steps:
+    - name: checkout repo
+      uses: actions/checkout@v3
+    - name: install pandoc
+      run: sudo apt install pandoc
+    - name: install xelatex
+      run: sudo apt install texlive-xetex
+    - name: test markdown list
+      run: |
+        MARKDOWN=$(find markdown -type f -name '*.md' | sort)
+        pandoc $MARKDOWN --pdf-engine=xelatex -o manual.pdf
+    - name: check results
+      run: ls -al
+    - name: push pdf
+      run: |
+        git config user.name 'github-actions[bot]'
+        git config user.email 'github-actions[bot]@users.noreply.github.com'
+        git add *
+        git commit -a -m "pdf generated"
+        git push
