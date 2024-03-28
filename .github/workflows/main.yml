@@ -19,6 +19,7 @@ jobs:
       run: | 
           curl -O https://font.download/dl/font/brownstd.zip
           unzip brownstd.zip -d brownstd
+          mkdir -p ~/.fonts/brownstd
           cp -r brownstd ~/.fonts/brownstd
     - name: test markdown list
       run: |
