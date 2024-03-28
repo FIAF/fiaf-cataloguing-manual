@@ -5,7 +5,8 @@ Any moving image Manifestation where the viewing activity was private, due to th
     Example:
 
     Albert Einstein at country home, Caputh, near Berlin, May 1931. (genre: home movie)
-    Manifestation 1: Not for release– film – 16mm [^217]
+
+Manifestation 1: Not for release– film – 16mm [^217]
 
     Incontro con Paolo e Vittorio Taviani, Italy, 2004 (genre: event record)
     Manifestation 1 (Original): Not for release – MiniDV – 2004 – Italy –CSC-Cineteca Nazionale

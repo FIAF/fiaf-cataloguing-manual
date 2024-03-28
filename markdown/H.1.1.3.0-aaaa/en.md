@@ -39,4 +39,4 @@ In the US, where a moving image Work is often a Work of corporate ownership, the
 
 As intellectual property rights can be transferred, and can lapse, it is recommended that cataloguers capture statements about the rights’ status: current / previous / out of copyright, and the dates of transfer / lapse, as described below. In addition, as death dates are so critical in establishing the status of out of copyright, it is recommended that cataloguers capture the death dates of key contributors where known (and where feasible, that person records for key ‘authors’ are associated with equivalent entities in an official registry of persons, such as VIAF, ISNI or other).
 
-[^236]: For guidance on copyright terms in the US, see Peter Hirtle’s chart “Copyright terms and the public domain in the United States,” updated annually. http://copyright.cornell.edu/resources/publicdomain.cfm
+[^246]: For guidance on copyright terms in the US, see Peter Hirtle’s chart “Copyright terms and the public domain in the United States,” updated annually. http://copyright.cornell.edu/resources/publicdomain.cfm

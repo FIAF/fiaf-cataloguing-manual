@@ -58,7 +58,7 @@ Relevant information which further explains the year/date and the source(s) of i
   French language edition ©1982.
   Copyright date recorded as copyright 1987. Resource described is a translation of the French language edition.[^189]
 
-  Title of work is clearly, Ten nights in a bar room; however, several versions of this film were produced between 1910-1931. It is probable that this work is the 1921 version, but due to vagueness of available plot summaries and disappearance of copyright descriptive material for the 1921 version, date cannot be verified at this time.190
+  Title of work is clearly, Ten nights in a bar room; however, several versions of this film were produced between 1910-1931. It is probable that this work is the 1921 version, but due to vagueness of available plot summaries and disappearance of copyright descriptive material for the 1921 version, date cannot be verified at this time.[^190]
 
 **Language**[^191]
 

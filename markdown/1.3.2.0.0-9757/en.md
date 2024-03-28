@@ -15,7 +15,7 @@ For creating titles for untitled or unidentified entities see [A.2.5 Supplied/De
     Autant en emporte le vent – Variant title – Dubbed – (French)
     風と共に去りぬ – Variant title – Dubbed (Japanese)
 
-    Аленький цветочек (USSR, 1952, Lev Atamanov)[^47]
+Аленький цветочек (USSR, 1952, Lev Atamanov)[^47]
     Аленький цветочек – Title of the Work
     Alenkiy tsvetochek: Alternative (transliterated) title of Work/ Variant (Preferred title if systems don’t use Cyrillic)
     Feuerrotes Blümchen – Variant title – Dubbed (German)
@@ -23,7 +23,7 @@ For creating titles for untitled or unidentified entities see [A.2.5 Supplied/De
     
     La passeggiata (Italy, 1953, Renato Rascel)
     La passeggiata – Preferred Title of the Work
-    La prospettiva – Alternative title (Working title)[^48]
+La prospettiva – Alternative title (Working title)[^48]
     
     Anathan (Japan, 1953, Joseph von Sternberg)
     Anathan – Preferred Title of the Work
