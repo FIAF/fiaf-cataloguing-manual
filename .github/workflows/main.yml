@@ -15,6 +15,8 @@ jobs:
       run: sudo apt install pandoc
     - name: install xelatex
       run: sudo apt install texlive-xetex
+    - name: download font
+      run: curl -O https://font.download/dl/font/brownstd.zip
     - name: test markdown list
       run: |
         MARKDOWN=$(find markdown -type f -name '*.md' | sort)
