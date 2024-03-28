@@ -18,11 +18,12 @@ jobs:
     - name: download font
       run: | 
           curl -O https://font.download/dl/font/brownstd.zip
-          unzip brownstd.zip
-    # - name: test markdown list
-    #   run: |
-    #     MARKDOWN=$(find markdown -type f -name '*.md' | sort)
-    #     pandoc $MARKDOWN --pdf-engine=xelatex -o manual.pdf
+          unzip brownstd.zip -d brownstd
+          cp brownstd ~/.fonts/brownstd
+    - name: test markdown list
+      run: |
+        MARKDOWN=$(find markdown -type f -name '*.md' | sort)
+        pandoc $MARKDOWN --pdf-engine=xelatex -o manual.pdf
     - name: check results
       run: ls -al
     # - name: push pdf
