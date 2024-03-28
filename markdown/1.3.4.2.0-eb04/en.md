@@ -1,6 +1,6 @@
 # 1.3.4.2 Date Precision
 
-Where  possible,  provide  a  “Date  Precision”  qualifier  to  note  if  the  date  is  precise, approximate, estimated, or a range. EDTF also provides codes to denote precision. For example, an uncertain or approximate date may be formatted thus: 2004-06~-11 (year and month are approximate; day known). Using a Date Precision qualifier, this Date entry could be entered as:
+Where possible, provide a “Date Precision” qualifier to note if the date is precise, approximate, estimated, or a range. EDTF also provides codes to denote precision. For example, an uncertain or approximate date may be formatted thus: 2004-06~-11 (year and month are approximate; day known). Using a Date Precision qualifier, this Date entry could be entered as:
 
 Date: 2004-06-11
 Date Type: Creation
@@ -40,7 +40,7 @@ Decade 1910
 
 Decade 1910 (as above)
 
-between 1906 and 1912  Use for time spans, the outside limits of which can be precisely determined
+between 1906 and 1912 Use for time spans, the outside limits of which can be precisely determined
 
 1906 1912 (where system has date start/ date end functionality)
 
@@ -48,7 +48,7 @@ In instances such as these, a note should be given which further explains the Da
 
 Example:[^57]
 
-[Personal  record.  Eugene  Meyer  family.  Family  camping  trip  through  the  Canadian
+[Personal record. Eugene Meyer family. Family camping trip through the Canadian
 Rockies]. -- US, 1926.
 
 [Note] Year from notes accompanying item, attached to inventory, and from Merlo Pusey’s Eugene Meyer, (New York: Knopf, 1974), p.195

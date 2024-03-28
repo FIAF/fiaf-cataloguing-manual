@@ -39,16 +39,16 @@ Content description
 | 1.3.2.1 Title Type | A.2 Title Types | A.2.4 Alternative [translated title: rus] | alternatívny [preklad názvu: rus] |
 | 1.3.2 Title | | Kartiny starogo mira | Kartiny starogo mira |
 | 1.3.2.1 Title Type | A.2 Title Types | A.2.4 Alternative [translated title:rus & transliterated title] | alternatívny [preklad názvu: rus a transliterácia názvu] |
-| 1.3.3 Country of reference |  | Slovakia  [Czechoslovakia] | Slovensko [Československo] |
-| 1.3.4 Year/Date of reference |  |  1972 | 1972 |
-| 1.3.4.1 Date Type |  | year of production | rok výroby |
+| 1.3.3 Country of reference | | Slovakia [Czechoslovakia] | Slovensko [Československo] |
+| 1.3.4 Year/Date of reference | | 1972 | 1972 |
+| 1.3.4.1 Date Type | | year of production | rok výroby |
 | 1.3.5 Language(s) | | Slovak | slovenčina |
 | 1.3.5.1 Language Term | | slo | slo |
 | 1.3.5.2 Usage type | D.6 Language Usage Types | Original Language | pôvodný jazyk |
 | 1.3.5.2 Usage type | D.6 Language Usage Types | spoken language | hovorený jazyk |
 | 1.3.5.2 Usage type | D.6 Language Usage Types | sung language | spievaný jazyk |
-| 1.3.6 Content description (synopses, shotlists, etc) |  | Suggestive portraits of old people from the Liptov and Orava regions who are able to enjoy their individual freedom even in the times of civilisational chaos and insecurity. | Sugestívne portréty starých ľudí z Liptova a Oravy, ktorí dokážu aj v stave civilizačného chaosu a neistoty žiť vnútorne slobodní. |
-| 1.3.6.1 Content Description Type |  |  synopsis | anotácia |
+| 1.3.6 Content description (synopses, shotlists, etc) | | Suggestive portraits of old people from the Liptov and Orava regions who are able to enjoy their individual freedom even in the times of civilisational chaos and insecurity. | Sugestívne portréty starých ľudí z Liptova a Oravy, ktorí dokážu aj v stave civilizačného chaosu a neistoty žiť vnútorne slobodní. |
+| 1.3.6.1 Content Description Type | | synopsis | anotácia |
 | 1.3.7 Notes | Appendix B, Cataloguer’s Notes | Text before the opening credits: These are stories of people rooted in the soil they came from. They cannot be replanted, they would perish. | Pred úvodnými titulkami text: Toto sú príbehy, ľudí, ktorí ostali sami sebou. Zabudnutí a prostí, vrastení do zeme, z ktorej vyšli. Nemožno ich presadiť pretože by zahynuli. |
 | 1.3.8.2 Censorship history | | banned film (cinema release: July 1989) | zakázaný film (kinodistribúcia: júl 1989) |
 | 1.4 Relationships of a Work/Variant (links/associations with other entities/records) | | | |
@@ -134,22 +134,22 @@ Content description
 | - Production Event type | D.11 Production Event Types | completion of shooting | posledný filmovací deň |
 | - Year/Date | | 1972-01-09 | 1972-01-09 |
 | 1.4.2 Events (e.g., IPR registration, screenings, awards, etc.)– D.4.2 Award(s) or Nomination(s) | | | |
-| - Award(s)/Nomination(s) date |  | 1988 | 1988 | 
-| - Award name |  | Golden Sestertius, Grand Prix (Sesterce d’Or, Grand Prix) | Zlatý sestercius, Grand Prix (Sesterce d’Or, Grand Prix) |
-| - Event |  | 20th International Festival of Documentary Films Nyon 1988 | 20. medzinárodný festival dokumentárnych filmov Nyon 1988 |
-| - Award(s)/Nomination(s) date |  | 1989 | 1989 |
-| - Award name |  | European Film Award / European Documentary - Special Mention | Európska filmová cena / Európske dokumenty - Osobitné uznanie |
-| - Event |  | 2nd European Film Awards 1989 (Paris) | 2. ročník Európskych filmových cien 1989 (Paríž) |
-| - Award(s)/Nomination(s) date |  |  1990 | 1990 |
-| - Award name |  | Los Angeles Film Critics Association Award / Best Non-Fiction Film | Cena asociácie losangeleských filmových kritikov / Najlepší non-fiction film |
-| - Event |  | 16th Los Angeles Film Critics Association Awards 1990 | 16. ročník Cien asociácie losangeleských filmových kritikov 1990 |
+| - Award(s)/Nomination(s) date | | 1988 | 1988 | 
+| - Award name | | Golden Sestertius, Grand Prix (Sesterce d’Or, Grand Prix) | Zlatý sestercius, Grand Prix (Sesterce d’Or, Grand Prix) |
+| - Event | | 20th International Festival of Documentary Films Nyon 1988 | 20. medzinárodný festival dokumentárnych filmov Nyon 1988 |
+| - Award(s)/Nomination(s) date | | 1989 | 1989 |
+| - Award name | | European Film Award / European Documentary - Special Mention | Európska filmová cena / Európske dokumenty - Osobitné uznanie |
+| - Event | | 2nd European Film Awards 1989 (Paris) | 2. ročník Európskych filmových cien 1989 (Paríž) |
+| - Award(s)/Nomination(s) date | | 1990 | 1990 |
+| - Award name | | Los Angeles Film Critics Association Award / Best Non-Fiction Film | Cena asociácie losangeleských filmových kritikov / Najlepší non-fiction film |
+| - Event | | 16th Los Angeles Film Critics Association Awards 1990 | 16. ročník Cien asociácie losangeleských filmových kritikov 1990 |
 | 1.4.3 Subject/Genre/Form terms | genre | documentary films | dokumentárne filmy |
 | | form | full-length films | dlhometrážné filmy
 | 1.4.4 Other relationships | D.17.1 Work/Variant Other Relationship Types | “Has a relationship to an “object” (a non-moving image resource)” | Má vzťah k objektu |
 | | | Obrazy starého sveta / Dušan Hanák. – The screenplay of the film: Pictures of the old world (1972). In: 322 ; Obrazy starého sveta ; Růžové sny / Dušan Hanák. – Praha : Lika klub, 2005. – ISBN 8086069-37-0. – p. 78-127. | Obrazy starého sveta / Dušan Hanák. – Scenár filmu: Obrazy starého sveta (1972). In: 322 ; Obrazy starého sveta ; Růžové sny / Dušan Hanák. – Praha : Lika klub, 2005. – ISBN 8086069-37-0. – s. 78-127. |
 | 1.4.4 Other relationships | D.17.1 Work/Variant Other Relationship Types | “Has a relationship to a Work “about” the Work/Variant in question” | Má vzťah k dielu o diele |
 | | | Kinožurnál [film]. 51/1988 (1988) | Kinožurnál [film]. 51/1988 (1988) |
-| 1.4.5 Variants | |  “Has a relationship to a Variant” | |
+| 1.4.5 Variants | | “Has a relationship to a Variant” | |
 | | | 199999163 | 199999163 |
 | VARIANT | | | |
 | 1.2 Attributes of a Moving Image Work/Variant | | | |
@@ -175,7 +175,7 @@ Content description
 | 2.3.4 Format of a moving image Manifestation | | | |
 | 2.3.4.1 Carrier type of a Manifestation | | | |
 | 2.3.4.1.1 General Carrier Type | D.7.1 Manifestation/Item General Carrier Type | Film | film |
-| 2.3.4.1.2 Specific Carrier Type | D.7.2 Manifestation/Item Specific Carrier Type |  35 mm | 35 mm |
+| 2.3.4.1.2 Specific Carrier Type | D.7.2 Manifestation/Item Specific Carrier Type | 35 mm | 35 mm |
 | 2.3.4.2 Projection characteristics of a Manifestation | | | |
 | Aspect Ratio | | 1:1,37 | 1:1,37 |
 | Aperture/Image Format | | Academy | Academy |
@@ -212,7 +212,7 @@ Content description
 | 3.1.5 Item Specifics/Extent (e.g. physical/Digital description) | | | |
 | 3.1.5.2 Item Status | D.7.3 Item Preservation/Access status | Viewing | Na premietanie |
 | 3.1.5.8 Extent | Metres | reel 1: 552,8 m | 1. kotúč: 552,8 m |
-| | Metres | reel 2: 570,4 m | 2. kotúč: 570,4 m |  
+| | Metres | reel 2: 570,4 m | 2. kotúč: 570,4 m | 
 | | Metres | reel 3: 520,4 m | 3. kotúč: 520,4 m | 
 | | Metres | reel 4: 184,2 m | 4. kotúč: 184,2 m | 
 | | metres | TOTAL LENGTH: 1827,8 m DĹŽKA SPOLU: 1827,8 m | 

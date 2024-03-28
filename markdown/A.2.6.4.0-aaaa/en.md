@@ -2,7 +2,7 @@
 
 Where only an analytic/component of a copy pertaining to a whole Work has been acquired as an Item, and the Serial Work to which it belongs is unable to be identified (i.e., the Item acquired is clearly a section of newsreel but the newsreel series has not been identified), then the title assigned to that Item should also be used to create the title for the Manifestation and Work records, which will then be related to each other hierarchically.
 
-The  Item  title  is  assigned  in  accordance  with  [3.1.2  Title]()  and  [A.2.5  Supplied/Devised Titles]().
+The Item title is assigned in accordance with [3.1.2 Title]() and [A.2.5 Supplied/Devised Titles]().
 
 The following paragraphs relate to Archive systems that are using the CEN structure:
 

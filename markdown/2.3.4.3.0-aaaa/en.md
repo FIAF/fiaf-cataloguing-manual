@@ -7,7 +7,7 @@ Its description consists of a statement about the presence or absence of sound, 
 
 Indicate the presence or absence of sound in the Manifestation, i.e. “sound,” “silent,” “mute”. Selection should be made from a controlled list of terms. A suggested list, which is open and not exhaustive, can be found in [D.7.4 Manifestation/Item Sound Type]().
 
-Optionally,  use  a  flag-type  value  indicating  if  the  Manifestation  includes  recorded sound or not (i.e.: has sound: yes/no).
+Optionally, use a flag-type value indicating if the Manifestation includes recorded sound or not (i.e.: has sound: yes/no).
 
 [^92]: RDA 3.17. 01
 

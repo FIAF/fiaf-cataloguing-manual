@@ -1,6 +1,6 @@
 # 3.1.1 Identifier
 
-Create  an  unambiguous  numerical  or  alphanumerical  reference  to  the  moving  image  Item,  such  as  a  call  number,  barcode,  shelf  mark  or  similar,  to  uniquely  identify the copy.[^113] This may be in addition to separate Acquisition and Accession number(s) or identifier(s).
+Create an unambiguous numerical or alphanumerical reference to the moving image Item, such as a call number, barcode, shelf mark or similar, to uniquely identify the copy.[^113] This may be in addition to separate Acquisition and Accession number(s) or identifier(s).
 
 For digital files, the filename is not an identifier since filenames can change. Instead, the filename is tracked as part of the technical metadata associated with a digital item.
 

@@ -1,6 +1,6 @@
 # 3.1 Elements of a moving image Item
 
-A  majority  of  the  physical  and  digital  description  elements  of  moving  image  Items  are  intended  to  be  inherited  from  the  Manifestations,  as  they  serve  as the  exemplars  of  Manifestations.  In  some  databases,  selection  of  a  physical  carrier  type  initiates  provision  of  element  fields  relevant  to  that  type  at  a  Manifestation  level,  or  an  Item  level,  or  both  (e.g.  in  a  2  Level  hierarchy.  See  “Shallow  hierarchy  model:  2 levels” in  [0.2.1  Elements  of  description  across  Works, Variants, Manifestations, and Items]()).
+A majority of the physical and digital description elements of moving image Items are intended to be inherited from the Manifestations, as they serve as the exemplars of Manifestations. In some databases, selection of a physical carrier type initiates provision of element fields relevant to that type at a Manifestation level, or an Item level, or both (e.g. in a 2 Level hierarchy. See “Shallow hierarchy model: 2 levels” in [0.2.1 Elements of description across Works, Variants, Manifestations, and Items]()).
 
 Ideally the information need only be recorded once irrespective of where in the data structure an institution must place it. Therefore guidelines for the treatment of physical/digital description elements are explained fully in the Manifestation chapter.
 

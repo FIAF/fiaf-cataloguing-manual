@@ -1,7 +1,7 @@
 
 # 2.3.5.2 Physical extent of a Manifestation[^99]
 
-Physical  extent  is  the  total  “ideal”  length  or  footage  of  the  medium  carrying  the moving image Manifestation (using appropriate authoritative secondary sources where feasible such as filmographies, censorship visas, etc.).
+Physical extent is the total “ideal” length or footage of the medium carrying the moving image Manifestation (using appropriate authoritative secondary sources where feasible such as filmographies, censorship visas, etc.).
 
 The actual length is a characteristic of a singular Item since it can be different for multiple Items exemplifying the same Manifestation.
 

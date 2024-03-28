@@ -12,7 +12,7 @@ SUB-ELEMENT
 
 Title
 
-1.3.2  Title [Work]
+1.3.2 Title [Work]
 
 Series / Serial10
 
@@ -62,7 +62,7 @@ Manifestation
 
 *Original Duration
 
-2.3.5  Extent of a Manifestation
+2.3.5 Extent of a Manifestation
 [Manifestation]
 
 2.3.5.3 Duration of a Mani-
@@ -76,8 +76,8 @@ festation
 
 1.3.5.2 Usage type [Work]
 
-9  Adapted from CEN TC 372 EN 15744 element set
-10  EN15744 definitions “A series is a group of separate items related to one another by the fact that each item
+9 Adapted from CEN TC 372 EN 15744 element set
+10 EN15744 definitions “A series is a group of separate items related to one another by the fact that each item
 bears, in addition to its own title, a collective title applying to the group as a whole. A serial is a type of “short
 subject” work which is characterized principally by the episodic development of a story”. This Core Concept
 is referencing the name of another Work that a Work may be “part of”, where the latter has been conceived

@@ -6,19 +6,19 @@ An Inspection Event may be associated with instances of Agent in the role of e.g
 
 An Inspection Event may be associated with instances of “Other” relationship(s).
 
-Record  all  the  existing  relationships  for  the  Inspection  Event,  if  the  information  is known and considered of relevance.
+Record all the existing relationships for the Inspection Event, if the information is known and considered of relevance.
 
 Inspection Event information consists of the following sub-elements:
 
-    - Inspection type
-    - Inspection date
-    - Inspection detail
+  - Inspection type
+  - Inspection date
+  - Inspection detail
 
 - Inspection type
 
 The general type of inspection activity performed.
 
-If desired and if applicable, record one or more general type(s) of the inspection activity performed (e.g. projection prep, inventory). Selection should be made from a controlled  list  of  terms.  This  includes  statements  about  past  or  future  inspections scheduled for the item.[^213]
+If desired and if applicable, record one or more general type(s) of the inspection activity performed (e.g. projection prep, inventory). Selection should be made from a controlled list of terms. This includes statements about past or future inspections scheduled for the item.[^213]
 
 - Inspection date
 

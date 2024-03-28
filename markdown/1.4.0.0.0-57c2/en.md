@@ -22,5 +22,5 @@ A Variant may have relationships with the following:
 - Manifestation(s)
 - Other (including other Variants)
 
-[^70]:  EN 15907 8.1 Relationships. General
+[^70]: EN 15907 8.1 Relationships. General
 

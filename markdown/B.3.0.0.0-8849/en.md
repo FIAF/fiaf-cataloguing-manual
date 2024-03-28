@@ -6,71 +6,71 @@ Provide additional or explanatory information for any WVMI elements, particularl
 
 The source or function of a title, the date the title was viewed and who viewed it, variations in titles, inaccuracies, deletions, etc., or other information relating to a title, if this information is not recorded elsewhere in dedicated fields.186
 
-    Examples:[^187]
+ Examples:[^187]
 
-    Works
+ Works
 
-        Commonly known in moving image reference sources under title Mon oncle.
+  Commonly known in moving image reference sources under title Mon oncle.
 
-        Title from publisher’s catalogue.
+  Title from publisher’s catalogue.
 
-        Title devised by cataloguer.
+  Title devised by cataloguer.
 
-        Title from title screen.
+  Title from title screen.
 
-        Title supplied by donor, Mrs. Pare Lorentz (Elizabeth Meyer).
+  Title supplied by donor, Mrs. Pare Lorentz (Elizabeth Meyer).
 
-        Title from Moving Picture World 3:122.
+  Title from Moving Picture World 3:122.
 
-        The word “Love” in the title is represented by the drawing of a heart.
+  The word “Love” in the title is represented by the drawing of a heart.
 
-        Parallel title, Mad about money, is American release title.
+  Parallel title, Mad about money, is American release title.
 
-    Variants/Manifestations/Items
+ Variants/Manifestations/Items
 
-        Title on containers of parts 3 and 5–6 varies slightly.
+  Title on containers of parts 3 and 5–6 varies slightly.
 
-        Subtitle varies.
+  Subtitle varies.
 
-        Title from container.
+  Title from container.
 
-        Title from descriptive insert.
+  Title from descriptive insert.
 
-        Caption title.
+  Caption title.
 
-        Title from menu.
+  Title from menu.
 
-        Tentative title taken from label on nitrate can.
+  Tentative title taken from label on nitrate can.
 
-        Incorrect title spliced on film: Days of glory.
+  Incorrect title spliced on film: Days of glory.
 
 **Year of reference**
 
 Relevant information which further explains the year/date and the source(s) of information.
 
-    Examples:
+ Examples:
 
-        Personal record. Eugene Meyer family. Family camping trip through the Canadian
-        Rockies -- US, 1926.
+  Personal record. Eugene Meyer family. Family camping trip through the Canadian
+  Rockies -- US, 1926.
 
-        [Note]  Date  from  notes  accompanying  item,  attached  to  inventory,  and  from Merlo Pusey’s Eugene Meyer, (New York: Knopf, 1974), p.195. [^188]
+  [Note] Date from notes accompanying item, attached to inventory, and from Merlo Pusey’s Eugene Meyer, (New York: Knopf, 1974), p.195. [^188]
 
-        French language edition ©1982.
-        Copyright date recorded as copyright 1987. Resource described is a translation of the French language edition.[^189]
+  French language edition ©1982.
+  Copyright date recorded as copyright 1987. Resource described is a translation of the French language edition.[^189]
 
-        Title of work is clearly, Ten nights in a bar room; however, several versions of this film were produced between 1910-1931. It is probable that this work is the 1921 version, but due to vagueness of available plot summaries and disappearance of copyright descriptive material for the 1921 version, date cannot be verified at this time.190
+  Title of work is clearly, Ten nights in a bar room; however, several versions of this film were produced between 1910-1931. It is probable that this work is the 1921 version, but due to vagueness of available plot summaries and disappearance of copyright descriptive material for the 1921 version, date cannot be verified at this time.190
 
 **Language**[^191]
 
-Give  the  language  or  languages  of  the  spoken,  sung,  or  written  content  of  the  WVMI unless they are apparent from the rest of the description or data contained in specific language and usage fields.
+Give the language or languages of the spoken, sung, or written content of the WVMI unless they are apparent from the rest of the description or data contained in specific language and usage fields.
 
-    Examples:
+ Examples:
 
-    In Arabic with English subtitles.
-    English language credits and narration.
-    Main title, credits, and preface in French; dialogue in special languages created by Anthony Burgess.
-    Sound track dubbed in English.
-    English translation voice-over.
+ In Arabic with English subtitles.
+ English language credits and narration.
+ Main title, credits, and preface in French; dialogue in special languages created by Anthony Burgess.
+ Sound track dubbed in English.
+ English translation voice-over.
 
 **Content description**
 
@@ -82,7 +82,7 @@ Explain the format changes used to determine the moving image Manifestation in h
 
 **Sound characteristics**
 
-If the moving image Work/Variant associated with the moving image Manifestation in hand  had  sound  originally,  but  the Manifestation  lacks  sound,  describe  it  as  silent  (or mute) and give a note to that effect.[^192]
+If the moving image Work/Variant associated with the moving image Manifestation in hand had sound originally, but the Manifestation lacks sound, describe it as silent (or mute) and give a note to that effect.[^192]
 
 If the moving image Work/Variant associated with the moving image Manifestation was silent originally, but the Manifestation has sound, describe it as sound and give a note to that effect.
 

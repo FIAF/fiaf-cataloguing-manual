@@ -8,32 +8,32 @@ For example, an Item may have a probable or questionable title but the title is 
 
 For example:[^176]
 
-    Archive contains a copy of the Italian version of an unidentified American silent comedy, with Italian intertitles[^177].
+  Archive contains a copy of the Italian version of an unidentified American silent comedy, with Italian intertitles[^177].
 
-    Primary Title on Item: Title proper – Nipote Modello
-    Primary Title for Manifestation: Title proper – Nipote Modello
-    Primary Title for Variant: Preferred title – Nipote Modello
-    Primary Title for Work: Supplied/devised title – Unidentified film. Silent American comedy
+  Primary Title on Item: Title proper – Nipote Modello
+  Primary Title for Manifestation: Title proper – Nipote Modello
+  Primary Title for Variant: Preferred title – Nipote Modello
+  Primary Title for Work: Supplied/devised title – Unidentified film. Silent American comedy
 
-    OR
+  OR
 
-    Primary Title on Item: Title proper – Nipote Modello
-    Primary Title for Manifestation/Item record: Title proper – Nipote Modello
-    Primary Title for Variant record: Preferred title – Nipote Modello
-    Primary  Title  for  Work:  Supplied/devised  title  –  Unidentified  silent  American Comedy. Nipote Modello
+  Primary Title on Item: Title proper – Nipote Modello
+  Primary Title for Manifestation/Item record: Title proper – Nipote Modello
+  Primary Title for Variant record: Preferred title – Nipote Modello
+  Primary Title for Work: Supplied/devised title – Unidentified silent American Comedy. Nipote Modello
 
-    OR
+  OR
 
-    Primary Title on Item: Title proper – Nipote Modello
-    Primary Title for Manifestation/Item record: Title proper – Nipote Modello
-    Primary Title for Variant record: Preferred title – Nipote Modello
-    Primary Title for Work record: Preferred title – Nipote Modello
+  Primary Title on Item: Title proper – Nipote Modello
+  Primary Title for Manifestation/Item record: Title proper – Nipote Modello
+  Primary Title for Variant record: Preferred title – Nipote Modello
+  Primary Title for Work record: Preferred title – Nipote Modello
 
 The treatment of probable or questionable titles may vary among institutions. Many institutions’ catalogues contain a mixture of Collection-, Work-, Variant-, and Manifestation-level records that function as the “parent” record or the topmost “node”, to which the units of moving image material are associated. In the absence of a Work or information about a Work, many institutions represent what they have.
 
 For purposes of discoverability, accessibility, and standardisation, it is recommended that a Work is always represented in the catalogue, even if it means utilising and repeating information more strictly related to a Variant, Manifestation or Item.
 
-The Work can take the title of the Item, Manifestation or Variant, until such time as further research or identification assists in establishing the preferred title for the Work. The  crucial  factor  is  coupling  the  title  with  a  descriptive  identifier  denoting  that  it  is “supplied” or “devised,” whether within the title itself or via a juxtaposed field such as “Title Type.” If there is no Title Type field than a Notes or other field could be utilised.
+The Work can take the title of the Item, Manifestation or Variant, until such time as further research or identification assists in establishing the preferred title for the Work. The crucial factor is coupling the title with a descriptive identifier denoting that it is “supplied” or “devised,” whether within the title itself or via a juxtaposed field such as “Title Type.” If there is no Title Type field than a Notes or other field could be utilised.
 
 Examples of partially and fully supplied titles for a variety of scenarios can be found in the “form terms” list provided in [D.18 List of form terms for Supplied/Devised titles]().
 

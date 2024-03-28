@@ -11,6 +11,6 @@ An Item may have relationships with the following:
 - Other
 - Manifestation
 
-[^120]:  EN 15907 8.1 Relationships. General
+[^120]: EN 15907 8.1 Relationships. General
 
 

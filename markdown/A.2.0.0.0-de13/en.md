@@ -4,7 +4,7 @@ The title of a moving image Work or Variant when first released, broadcast, publ
 
 The preferred title is the chief name (also referred to as “main” or “original” title) of any moving image Work or Variant. The preferred title may include part title and series/serial information for moving image materials issued in multiple parts, e.g., episodes in a film or TV serial. See [A.2.7 Moving images with probable or questionable titles]().
 
-In cases where the preferred Work/Variant title cannot be determined but there is a title  on  the  Manifestation/Item,  the  title  on  the  Manifestation/Item  being  catalogued may be used as the preferred title for the Work or Variant.
+In cases where the preferred Work/Variant title cannot be determined but there is a title on the Manifestation/Item, the title on the Manifestation/Item being catalogued may be used as the preferred title for the Work or Variant.
 
 If the preferred title is ascertained at some point and is different from the Manifestation/Item title, the Manifestation/Item title may then be added to the Work or Variant as an alternative title.
 

@@ -7,11 +7,11 @@
 
 3. Lender type: Qualifies the relationship between the Lender and the Acquisition source – i.e. is the lender the legal owner of the item, or are they the authorised agent of the owner acting on their behalf.
 
-    a. Item Owner
+  a. Item Owner
 
-    b. Agent
+  b. Agent
 
-4.  Lender  contact  details:  Captures  the  contact  details  of  the  lender,  primarily their postal address. Alternatively, where possible, this could be captured in the associated Person and Institution record.
+4. Lender contact details: Captures the contact details of the lender, primarily their postal address. Alternatively, where possible, this could be captured in the associated Person and Institution record.
 
 5. Loan start date: Captures the agreed date from which the loan commences.
 
@@ -21,11 +21,11 @@
 
 8. Item reproduction terms: Captures the terms under which reproduction of the loaned material will be supplied to the lender.
 
-    a. Reproduction at Lender expense
+  a. Reproduction at Lender expense
 
-    b. Reproduction at mutually agreed expense
+  b. Reproduction at mutually agreed expense
 
-    c. Reproduction at archive’s expense
+  c. Reproduction at archive’s expense
 
 9. Item reproduction notes: Field to allow the terms of reproduction to be further qualified, e.g. the exact division of mutually agreed expense for reproduction.
 

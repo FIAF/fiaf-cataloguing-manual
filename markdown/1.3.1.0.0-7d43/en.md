@@ -1,6 +1,6 @@
 # 1.3.1 Work/Variant Identifier
 
-Create an unambiguous reference to the Work/Variant using a unique identifier and indicate  the  type  of  identifier.  The  identifier  should  be  a  numerical  or  alphanumerical reference. This identifier is for the content of the Work/Variant, not for a specific Item. Manifestations  and  Items  have  their  own  Identifiers,  discussed  in  later  sections.  This Work/Variant Identifier is shared by all Manifestations and Items associated to the Work.
+Create an unambiguous reference to the Work/Variant using a unique identifier and indicate the type of identifier. The identifier should be a numerical or alphanumerical reference. This identifier is for the content of the Work/Variant, not for a specific Item. Manifestations and Items have their own Identifiers, discussed in later sections. This Work/Variant Identifier is shared by all Manifestations and Items associated to the Work.
 
 In a way, a unique Work/Variant Identifier can have more value than a Work’s Title. Titles can confuse through different spellings, translations, and are not unique (i.e., King Kong). An Identifier refers to a specific Work/Variant and provides clear disambiguation between Works when there is confusion.
 
@@ -13,20 +13,20 @@ There can be more than one Work/Variant unique identifier for the content. This 
 
 Use what makes sense for your institution; there is no recommendation for one particular resource. However, it is recommended that at least one unique identifier be included in the record. It is critical that each Identifier be unique.
 
-    Examples:
-    
-    Cabiria (Italy, 1914, Piero Fosco[^46])    
-    Work identifier – ISAN number: ISAN 0000-0000-7B37-0000-J-0000-0000-H
-    
-    Volver (Spain, 2006, Pedro Almodovar)    
-    Work identifier – ISAN number: ISAN 0000-0001-6B16-0000-Y-0000-0000-9
-    
-    Metropolis (Germany, 1927, Fritz Lang)    
-    Work identifier – VIAF number: 219448355
-    
-    The boxer (United States, Ireland, 1997, Jim Sheridan)    
-    Work identifier – EIDR number: 10.5240/5896-B203-017D-11A5-EB7F-W    
-    Work identifier – ISAN number: 0000-0000-60A5-0000-E-0000-0000-W
+  Examples:
+  
+  Cabiria (Italy, 1914, Piero Fosco[^46])  
+  Work identifier – ISAN number: ISAN 0000-0000-7B37-0000-J-0000-0000-H
+  
+  Volver (Spain, 2006, Pedro Almodovar)  
+  Work identifier – ISAN number: ISAN 0000-0001-6B16-0000-Y-0000-0000-9
+  
+  Metropolis (Germany, 1927, Fritz Lang)  
+  Work identifier – VIAF number: 219448355
+  
+  The boxer (United States, Ireland, 1997, Jim Sheridan)  
+  Work identifier – EIDR number: 10.5240/5896-B203-017D-11A5-EB7F-W  
+  Work identifier – ISAN number: 0000-0000-60A5-0000-E-0000-0000-W
 
 [^43]: www.isan.org
 [^44]: www.eidr.org

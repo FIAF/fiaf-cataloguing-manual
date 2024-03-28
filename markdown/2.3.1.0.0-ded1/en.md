@@ -2,7 +2,7 @@
 
 # 2.3.1 Identifier
 
-Create an unambiguous reference to the Manifestation, such as a specific standard number issued by an  official body (i.e. V-ISAN[^87] or DOI[^88]), or a system-automated assigned ID number. These should be different identifiers than those for Works/Variants, since they are for specific embodiments of the Work/Variant.
+Create an unambiguous reference to the Manifestation, such as a specific standard number issued by an official body (i.e. V-ISAN[^87] or DOI[^88]), or a system-automated assigned ID number. These should be different identifiers than those for Works/Variants, since they are for specific embodiments of the Work/Variant.
 
 If one or more identifiers are available, record each according to its standardised syntax, where allowable. The following examples reflect both 3 and 4 level hierarchies, i.e. ones that use Variants and ones that do not have Variants but utilise Manifestations instead.
 
@@ -16,7 +16,7 @@ English – V-ISAN: ISAN 0000-0000-606A-0000-0-0000-0001-1 (DVD-31943)
 
 Shichinin no samurai (Japan, 1954, Akira Kurosawa)
 Work identifier: ISAN 0000-0001-61AE-0000-1-0000-0001-W
-Variant  identifier  (Dubbed  Spanish  –  Castellano):  Los  Siete  Samurai:  ISAN
+Variant identifier (Dubbed Spanish – Castellano): Los Siete Samurai: ISAN
 0000-0001-61AE-0000-1-0000-0001-W
 
 Les chevaliers du ciel (France, 2005, Gérard Pirès)

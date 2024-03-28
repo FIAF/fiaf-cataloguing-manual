@@ -1,20 +1,20 @@
 # D.4.1 Publication
 
-For  Works/Variants,  a  Publication  Event  corresponds  to  the  first  verified  release  or availability of the Work or Variant, whether theatrical, straight-to-video, broadcast or online transmission, etc.
+For Works/Variants, a Publication Event corresponds to the first verified release or availability of the Work or Variant, whether theatrical, straight-to-video, broadcast or online transmission, etc.
 
-For Manifestations, a Publication Event corresponds to a screening, broadcast or the release  of  the  Manifestation  of  a  Work/Variant  on  a  physical  distribution  medium  or online.
+For Manifestations, a Publication Event corresponds to a screening, broadcast or the release of the Manifestation of a Work/Variant on a physical distribution medium or online.
 
 A Publication Event may be associated with instances of Agent in the role of e.g., publisher, distributor, broadcaster[^204], etc. See [D.8 Manifestation Agent Types and D.3 Work/Variant Agent Types]().
 
-A Publication Event may be associated with instances of “Other” relationship(s) (e.g., promotional  material  of  the  theatrical  distribution,  the  advertising  of  the  home  video publication, etc.).
+A Publication Event may be associated with instances of “Other” relationship(s) (e.g., promotional material of the theatrical distribution, the advertising of the home video publication, etc.).
 
 Record all the existing relationships of a Publication Event, if the information is known and considered of relevance.
 
 Publication Event information consists of the following sub-elements:
 
-    - Publication type
-    - Publication date
-    - Region
+  - Publication type
+  - Publication date
+  - Region
 
 - Publication type
 
@@ -32,9 +32,9 @@ Record the date on which Work/Variant or Manifestation was released or otherwise
 
 Record the country or other political or physical geographic entity where the Publication Event took place (e.g. first projection in the framework of a theatrical distribution) or made the Work/Variant or Manifestation available (e.g. distribution area).
 
-If  known  and  considered  of  relevance,  record  the  name  of  the  city  or  smaller  geographic entity where the Publication Event took place.
+If known and considered of relevance, record the name of the city or smaller geographic entity where the Publication Event took place.
 
-For  the  treatment  of  the  geographical  names,  see  Getty  Thesaurus  of  Geographic Names (TGN), or some other recognised standard.
+For the treatment of the geographical names, see Getty Thesaurus of Geographic Names (TGN), or some other recognised standard.
 
 If known and considered of relevance, record the name of the event that the publication was a part of (e.g., name of a film festival, distribution channel of a broadcaster, etc.)
 

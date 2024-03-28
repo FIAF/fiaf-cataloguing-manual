@@ -72,7 +72,7 @@
 | Precision | circa |
 | Stock date late | 1932 | 
 | Precision | circa |
-| Condition emulsion | Condition base |  
+| Condition emulsion | Condition base | 
 | Scratches | Scratches |
 | Copy number | 1264202-1 | 
 | Package number | AB12C3D |

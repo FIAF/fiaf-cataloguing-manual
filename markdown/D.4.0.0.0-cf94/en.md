@@ -5,7 +5,7 @@
 | [Publication]() | [Publication]() | [Publication]() | |
 | [Award(s) or Nomination(s)]() | [Award(s) or Nomination(s)]() | [Award(s) or Nomination(s)]() | |
 | [Production]() | [Production]() | | |
-| [Rights/Copyright/IPR Registration]() | [Rights/Copyright/IPR Registration]()  | Licensing | Licensing |
+| [Rights/Copyright/IPR Registration]() | [Rights/Copyright/IPR Registration]() | Licensing | Licensing |
 | | [Preservation]() | [Preservation]() | [Preservation]() | 
 | | [Decision]() | [Decision]() | | 
 | | | [Manufacture]() | | 

@@ -2,7 +2,7 @@
 
 The nature of some compilations means that creating Works for each component is neither relevant nor practical, i.e. compilation reels of unidentified or untitled content (not usual in the bibliographic world but common in moving image archives).
 
-There may not always be the immediate available knowledge as to whether something is an intentional compilation (in which case it would be an aggregate) or simply a convenient  carrier.  Where  there  is  doubt  then  create  a  single  Aggregate  Manifestation  and Aggregating Work[^224].
+There may not always be the immediate available knowledge as to whether something is an intentional compilation (in which case it would be an aggregate) or simply a convenient carrier. Where there is doubt then create a single Aggregate Manifestation and Aggregating Work[^224].
 
 Later research and cataloguing may then establish whether this aggregate record is retained and added to, or deleted after being used as a temporary working tool for initial record creation of acquisitions.
 

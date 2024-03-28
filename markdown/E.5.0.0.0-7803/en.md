@@ -4,7 +4,7 @@ An aggregate is a Manifestation, but “the process of aggregating the Works/Var
 
 An institution may therefore be able to choose whether to create a new aggregating Work or not, although this flexibility may be restricted by other factors.
 
-In  practical  terms  creating  aggregates  and  how  they  are  modelled,  will  be  determined by structures and capabilities of an institution’s database or other systems.
+In practical terms creating aggregates and how they are modelled, will be determined by structures and capabilities of an institution’s database or other systems.
 
 Under FRBR and CEN an aggregate Manifestation is allowed to have a many-to-many relationship with Works/Variants, i.e., it can have a “part of” relationship with more than one Work/Variant.
 
@@ -16,7 +16,7 @@ This may have a bearing and impact on decisions relating to whether to produce a
 
 The model of creating an aggregating Work is recommended. With systems that only allow for a one-to-many Work/Variant-Manifestation relationship, then an aggregating Work should always exist (for Collection, Augmented and Parallel Aggregates), and the aggregate Manifestation linked as “part of” it.
 
-In  addition,  the  multiple  independently  created  moving  image  Works/Variants  of the aggregate should also ideally be created as separate individual Works/Variants, and then linked in an associative relationship using “contains/contained in” terms with the aggregating Work.
+In addition, the multiple independently created moving image Works/Variants of the aggregate should also ideally be created as separate individual Works/Variants, and then linked in an associative relationship using “contains/contained in” terms with the aggregating Work.
 
 It is recognised that the ability to do this may be dependent on sufficient information and details about the individual Works/Variants being available to create such individual records. Where this is insufficient the titles of the individual Works/Variants making up the aggregate may be added as alternative title types to the aggregating Work. This will assist in accessibility and identification.
 

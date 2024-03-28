@@ -9,7 +9,7 @@ It consists of a designation of the colour state and, optionally, of the descrip
 
 Record the colour state of a Manifestation, for example, Black and white (tinted), Colour, Colour + Black & White, etc. Selection should be made from a controlled list of terms. A suggested list, which is open and not exhaustive, can be found in [D.7.11 Manifestation/Item Colour Type]().
 
-Optionally,  if  considered  relevant,  describe  the  system  or  process  by  which  colour  is fixed on the carrier or as part of the digital encoding, for example, Pathécolor, Technicolor, RGB, , etc. Selection should be made from a controlled list of terms. A suggested list, which is open and not exhaustive, can be found in [D.7.12 Manifestation/Item Colour Standard]().
+Optionally, if considered relevant, describe the system or process by which colour is fixed on the carrier or as part of the digital encoding, for example, Pathécolor, Technicolor, RGB, , etc. Selection should be made from a controlled list of terms. A suggested list, which is open and not exhaustive, can be found in [D.7.12 Manifestation/Item Colour Standard]().
 
 [^94]: RDA 7.17.3 Colour of Moving Image
-[^95]:  RDA 7.17.3 Colour of Moving Image
+[^95]: RDA 7.17.3 Colour of Moving Image

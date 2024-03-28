@@ -10,11 +10,11 @@ Record all the existing relationships of a Publication Event, if the information
 
 Production Event information consists of the following sub-elements:
 
-    - Production Event type
-    - Location
-    - Region
-    - Year/Date
-    - Event details
+  - Production Event type
+  - Location
+  - Region
+  - Year/Date
+  - Event details
 
 - Production Event type
 
@@ -34,7 +34,7 @@ The year/date or time-span during which the event took place. Dates should be fo
 
 - Event details
 
-Any  further  information  about  the  event  either  in  plain  textual  form,  or  as  an  in-
+Any further information about the event either in plain textual form, or as an in-
 stance of a data type from another schema
 
 [^207]: Adapted from EN 15907 6.11 Production Event, p. 20

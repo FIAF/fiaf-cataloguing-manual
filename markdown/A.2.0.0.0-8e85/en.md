@@ -1,6 +1,6 @@
 # A.2 Title Types
 
-This manual recommends a title + title type approach for the treatment of various titles  that  may  be  associated  with  any  Moving  Image  Work,  Variant,  Manifestation  or Item (WVMI).
+This manual recommends a title + title type approach for the treatment of various titles that may be associated with any Moving Image Work, Variant, Manifestation or Item (WVMI).
 
 This would be done with separate title and title type fields in close proximity.
 

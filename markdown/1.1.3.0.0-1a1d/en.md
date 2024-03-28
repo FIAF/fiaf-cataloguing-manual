@@ -7,33 +7,33 @@ other may be drawn on the basis of the following alterations to the content:[^37
 
 - revision or modification of already edited footage of completed work
 
-    Example: In 2007, some in-flight showings of The Queen (2006) distributed to Delta and other airlines had all references to the word “God” edited out by an overzealous and inexperienced employee.[^38]
+  Example: In 2007, some in-flight showings of The Queen (2006) distributed to Delta and other airlines had all references to the word “God” edited out by an overzealous and inexperienced employee.[^38]
 
 - abridgements or additions to existing content
 
-    Example: a release of a dubbed film abridged or augmented
-    
-    Il gattopardo (Italy, France,1963, Luchino Visconti)    
-    Dubbed/ Abridged: The leopard, English (spoken language) -1963 – USA – 161’ (Theatrical distribution in USA, the 20th Century Fox cut 45 minutes); Subtitled: The leopard, English (spoken language) -1980 – USA (reintegrates the original running time of 187’)[^39].
+  Example: a release of a dubbed film abridged or augmented
+  
+  Il gattopardo (Italy, France,1963, Luchino Visconti)  
+  Dubbed/ Abridged: The leopard, English (spoken language) -1963 – USA – 161’ (Theatrical distribution in USA, the 20th Century Fox cut 45 minutes); Subtitled: The leopard, English (spoken language) -1980 – USA (reintegrates the original running time of 187’)[^39].
 
 <b>Change in textual and spoken word aspect</b>
 
 - same dialogue and/or narration rendered in different spoken, sung or written languages
 
-    Example: a release of a foreign film (dubbed), subtitled in a different language
+  Example: a release of a foreign film (dubbed), subtitled in a different language
 
-    Die kleine und die grosse Liebe (Germany, 1938, Joseph von Backy)
-    Dubbed/Subtitled Variant: Il piccolo e il grande amore, Italian (spoken language), English (subtitles) – Italy – 1938
+  Die kleine und die grosse Liebe (Germany, 1938, Joseph von Backy)
+  Dubbed/Subtitled Variant: Il piccolo e il grande amore, Italian (spoken language), English (subtitles) – Italy – 1938
 
 <b>Change in performance/performers</b>
 
 - addition, removal and/or replacement of some of the contributors (e.g., cast and/or crew), associated with a Work
 
-    Example:  The  re-dubbed  North  American  English  version  of  the  Japanese movie,  Godzilla  2000:  Millennium  (1999),  includes  the  following  credits unique to this Variant:[^40]
-    
-    Dubbing Director: Mike Schlesinger
-    Media: Cinema/TV/VHS/DVD
-    Dubbing Studio: Tristar Pictures/Sony Pictures Entertainment
+  Example: The re-dubbed North American English version of the Japanese movie, Godzilla 2000: Millennium (1999), includes the following credits unique to this Variant:[^40]
+  
+  Dubbing Director: Mike Schlesinger
+  Media: Cinema/TV/VHS/DVD
+  Dubbing Studio: Tristar Pictures/Sony Pictures Entertainment
 
 | Character | Japanese actor | Tristar Pictures English dub |
 | --- | --- | --- |

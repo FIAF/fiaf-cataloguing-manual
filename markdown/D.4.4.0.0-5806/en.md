@@ -1,6 +1,6 @@
 # D.4.4 Rights/Copyright/IPR Registration[^208]
 
-These are optional, and it is for an institution to choose whether it has the resources or requirement to compile rights data. Further more detailed information on the subject of  rights/copyright/IPR  registration  can  be  found  in  [Appendix  H,  Rights/Copyright/IPR Registration]().
+These are optional, and it is for an institution to choose whether it has the resources or requirement to compile rights data. Further more detailed information on the subject of rights/copyright/IPR registration can be found in [Appendix H, Rights/Copyright/IPR Registration]().
 
 A Copyright/IPR Registration Event is the act of registering copyright or intellectual property rights for a Work or Variant with an accredited agency.
 
@@ -10,11 +10,11 @@ Record all the existing relationships of a Copyright/IPR Registration Event, if 
 
 Copyright/IPR Registration Event information consists of the following sub-elements:
 
-    - Registration Date
-    - Registration Agency
-    - Regional scope
-    - Name of applicant
-    - Registration number
+  - Registration Date
+  - Registration Agency
+  - Regional scope
+  - Name of applicant
+  - Registration number
 
 - Registration date
 

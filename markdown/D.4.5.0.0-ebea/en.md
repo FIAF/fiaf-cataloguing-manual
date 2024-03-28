@@ -4,16 +4,16 @@ A Preservation Event is associated with a new Variant, Manifestation or Items re
 
 This includes statements about past or future treatments scheduled for the item.[^210] If desired and if applicable, record one or more general types of past or future treatment activities (e.g. “added leaders”, “cleaned ultrasonically”, “tears repair”, etc.). Selection should be made from a controlled list of values.
 
-A  Preservation  Event  has  as  typical  Agent(s)  the  institution(s)  or  individual  professionals that make preservation decisions. Selection should be made from a controlled list of values. See [D.8 Manifestation Agent Types]() and [D.3 Work/Variant Agent Types]().
+A Preservation Event has as typical Agent(s) the institution(s) or individual professionals that make preservation decisions. Selection should be made from a controlled list of values. See [D.8 Manifestation Agent Types]() and [D.3 Work/Variant Agent Types]().
 
-A  Preservation  Event  can  be  in  relationship  with  instances  of  “Other”  relationships (such as technical reports, documentation material, promotional material for the specific project, etc.).
+A Preservation Event can be in relationship with instances of “Other” relationships (such as technical reports, documentation material, promotional material for the specific project, etc.).
 
 Record all the existing relationships of a Publication Event, if the information is known and considered of relevance.
 
 Preservation Event information consists of the following sub-elements:
 
-    - Preservation type
-    - Preservation Date
+  - Preservation type
+  - Preservation Date
 
 - Preservation type
 
@@ -27,11 +27,11 @@ Add in a note any information describing the preservation process in detail.
 
 This can include:[^211]
 
-    - Genesis of the project or reason why preservation was undertaken
-    - Significant challenges
-    - Relevant research (documenting sources of information related to content or production techniques)
-    - Technical, aesthetic or ethical decisions
-    - Recommendations for further work (details concerning limitations due to source material, resources, technology, etc.)
+  - Genesis of the project or reason why preservation was undertaken
+  - Significant challenges
+  - Relevant research (documenting sources of information related to content or production techniques)
+  - Technical, aesthetic or ethical decisions
+  - Recommendations for further work (details concerning limitations due to source material, resources, technology, etc.)
 
 [^209]: EN 15907, 6.15 Preservation event, pp. 28-29
 [^210]: YCR 6.5, 6.6

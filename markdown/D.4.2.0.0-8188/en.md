@@ -10,14 +10,14 @@ Record all the existing relationships of a Publication Event, if the information
 
 Award(s) or Nomination(s) Event information consists of the following sub-elements:
 
-    - Award(s)/Nomination(s) date
-    - Nomination only
-    - Award name
-    - Achievement
+  - Award(s)/Nomination(s) date
+  - Nomination only
+  - Award name
+  - Achievement
 
 - Award(s)/Nomination(s) date
 
-Record  the  date  the  award  was  bestowed  on  an  Agent  associated  with  the  Work,
+Record the date the award was bestowed on an Agent associated with the Work,
 Variant or Manifestation. (Dates should be formatted according to ISO 8601 or some
 other recognised standard.)
 

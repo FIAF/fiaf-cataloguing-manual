@@ -5,7 +5,7 @@ The complexity and variation in the intellectual property rights surrounding a m
 
 This layered approach is not always present in law, for example in the UK it is the fixation (the recording) that is protected by copyright. But some prominent examples of this layered approach are the USA, where a film is protected as an original work of expression as distinct from the recording; and France and Germany, which both have separate protection for the work and the recording.
 
-Given  the  territorial  variation,  once  again,  rather  than  recommend  different  data properties for the different countries, instead it is recommended to capture a core set of rights data properties, which should provide information sufficient for all possibilities within the different frameworks.
+Given the territorial variation, once again, rather than recommend different data properties for the different countries, instead it is recommended to capture a core set of rights data properties, which should provide information sufficient for all possibilities within the different frameworks.
 
 
 

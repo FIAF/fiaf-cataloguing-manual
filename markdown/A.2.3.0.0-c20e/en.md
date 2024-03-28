@@ -1,24 +1,24 @@
 # A.2.3 Other Title information[^139]
 
-Other  Work/Variant/Manifestation/Item  title  (WVMI)  information  is  defined  as  a  word  or phrase appearing in conjunction with, and subordinate to the title, and which qualifies, explains, or completes the title to which it applies or which is indicative of the character, contents, etc., of the WVMI, or the motives for, or occasion of, its production or publication.
+Other Work/Variant/Manifestation/Item title (WVMI) information is defined as a word or phrase appearing in conjunction with, and subordinate to the title, and which qualifies, explains, or completes the title to which it applies or which is indicative of the character, contents, etc., of the WVMI, or the motives for, or occasion of, its production or publication.
 
 Other title information includes subtitles, avant-titres, etc., but does not include alternative titles.[^140] Cataloguers may constitute subordinate phrases as part of the Work or Variant title when, in their judgment, such phrases form an integral part of the preferred title.
 
-If other title information appearing on the Manifestation/Item is considered to be important (either for identification or for access), transcribe it as it appears on the source of  information,  following  the  principle  of  transcription  and  according  to  the  general guidelines on transcription given in [F.3 Relationship of FIAF Cataloguing Rules to Functional Requirements of Bibliographic Records (FRBR), Resource Description and Access (RDA) and The European Standards Committee (CEN) Cinematographic Works Standard EN 15907](), section entitled “Representation (or principle of transcription).
+If other title information appearing on the Manifestation/Item is considered to be important (either for identification or for access), transcribe it as it appears on the source of information, following the principle of transcription and according to the general guidelines on transcription given in [F.3 Relationship of FIAF Cataloguing Rules to Functional Requirements of Bibliographic Records (FRBR), Resource Description and Access (RDA) and The European Standards Committee (CEN) Cinematographic Works Standard EN 15907](), section entitled “Representation (or principle of transcription).
 
-    Examples:
+  Examples:
 
-    Dr. Strangelove, or, How I learned to stop worrying and love the bomb
-    Film d’amore e d’anarchia, ovvero, Stamattina alle 10 in Via del Fiore nella nota casa du tolleranza
-    Claymation: three dimensional clay animation
-    This Britain: Heritage of the sea
+  Dr. Strangelove, or, How I learned to stop worrying and love the bomb
+  Film d’amore e d’anarchia, ovvero, Stamattina alle 10 in Via del Fiore nella nota casa du tolleranza
+  Claymation: three dimensional clay animation
+  This Britain: Heritage of the sea
 
 Distinguish the other title information through the use of spacing or punctuation, or a separate or dedicated field. If a general material designation is used, place it after the preferred title and before other title information.[^141]
 
-    Examples:
+  Examples:
 
-    Claymation [motion picture]: three dimensional clay animation
-    This Britain [motion picture]: Heritage of the sea
+  Claymation [motion picture]: three dimensional clay animation
+  This Britain [motion picture]: Heritage of the sea
 
 
 

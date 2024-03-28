@@ -1,6 +1,6 @@
 # D.4.6 Decision[^212]
 
-A  Decision  Event  is  an  event  in  which  a  Manifestation  of  a  certain  Work/Variant  is evaluated by a censorship body or an accredited rating agency.
+A Decision Event is an event in which a Manifestation of a certain Work/Variant is evaluated by a censorship body or an accredited rating agency.
 
 A Decision Event may be associated with instances of Agent, e.g. in the role of the agency performing the rating or censorship.
 
@@ -10,23 +10,23 @@ Record all the existing relationships for the Decision Event, if the information
 
 Decision event information consists of the following sub-elements:
 
-    - Decision type
-    - Decision date
-    - Regional scope
-    - Certificate number
-    - Verdict
-    - Decision type
+  - Decision type
+  - Decision date
+  - Regional scope
+  - Certificate number
+  - Verdict
+  - Decision type
 
 - Decision type
 
-Record  the  type  or  status  of  the  decision  event.  Usually  the  term  adopted  is  “censorship” or “revision” for decisions mandated by law, “rating” for decisions under a voluntary scheme. Further types may include special forms of evaluation, e.g. for tax privileges, as long as these are distinct from awards.
+Record the type or status of the decision event. Usually the term adopted is “censorship” or “revision” for decisions mandated by law, “rating” for decisions under a voluntary scheme. Further types may include special forms of evaluation, e.g. for tax privileges, as long as these are distinct from awards.
 
-Selection  should  be  made  from  a  controlled  list  of  terms.  See  [D.13  Manifestation
+Selection should be made from a controlled list of terms. See [D.13 Manifestation
 Decision Types]().
 
 - Decision date
 
-Record  the  date  on  which  the  verdict  was  announced  or  on  which  the  verdict  was declared valid. Dates should be formatted according to ISO 8601 or some other recognised standard.
+Record the date on which the verdict was announced or on which the verdict was declared valid. Dates should be formatted according to ISO 8601 or some other recognised standard.
 
 - Regional scope
 

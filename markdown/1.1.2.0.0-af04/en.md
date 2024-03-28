@@ -8,101 +8,101 @@ the following alterations to the content given below. [^33]
 
 - different footage used from the original realisation of the Work, even where footage used was shot at the same time and edited together by the same people, or following the pattern set by original creators.
 
-    Examples:
+  Examples:
 
-    The rules of the game (1939): exists only as a Variant of the original Work, made partially from alternate takes to those used in the original release.
+  The rules of the game (1939): exists only as a Variant of the original Work, made partially from alternate takes to those used in the original release.
 
-    Various re-edited releases of Blade Runner (1982, 1986, 1992, 2007)
+  Various re-edited releases of Blade Runner (1982, 1986, 1992, 2007)
 
-    Mr. Arkadin (France-Spain-Switzerland, 1955, Orson Welles): eight different Variants between 1955 and 1956, each one with differences in footage and editing. Among them, three have the title Confidential Report.[^34]
+  Mr. Arkadin (France-Spain-Switzerland, 1955, Orson Welles): eight different Variants between 1955 and 1956, each one with differences in footage and editing. Among them, three have the title Confidential Report.[^34]
 
 - editing of a Work to create realisations that are shorter in extent/duration
 
-    Examples:
-    
-    Große Freiheit Nr. 7 (Germany, 1944) (112 minutes)    
-    Shortened Variant Große Freiheit Nr. 7 (109 minutes)
-    
-    Works censored or edited for television broadcast, for showing on airplanes, for showing in different parts of the country/world, etc.
-    
-    Annie Leibovitz, Life through a Lens (USA, 2007-01-03), broadcast in TV series American Masters    
-    Shortened Variant (for British television): Annie Leibovitz, Life through a Lens (UK, 2008-06-10), broadcast in TV series Imagine
+  Examples:
+  
+  Große Freiheit Nr. 7 (Germany, 1944) (112 minutes)  
+  Shortened Variant Große Freiheit Nr. 7 (109 minutes)
+  
+  Works censored or edited for television broadcast, for showing on airplanes, for showing in different parts of the country/world, etc.
+  
+  Annie Leibovitz, Life through a Lens (USA, 2007-01-03), broadcast in TV series American Masters  
+  Shortened Variant (for British television): Annie Leibovitz, Life through a Lens (UK, 2008-06-10), broadcast in TV series Imagine
 
-    Last Tango in Paris (USA, 1972, Bernardo Bertolucci)    
-    Censored Variant: Ultimo tango a Parigi (Italy, 1988, Broadcast)
+  Last Tango in Paris (USA, 1972, Bernardo Bertolucci)  
+  Censored Variant: Ultimo tango a Parigi (Italy, 1988, Broadcast)
 
 - addition of new footage to a Work
 
-    Examples:
-    
-    to update informational/educational content; for preservation/restoration; to offer different endings or alternate takes
-    
-    Blackmail (UK, 1929, Alfred Hitchcock)    
-    Augmented Variant: UK – 1929 (longer, with some scenes shot on purpose)
-    
-    Little Shop of Horrors (USA, 1986, Frank Oz)    
-    Augmented Variant: alternate ending of 23 minutes, included in the 2012 Warner Home Video – Blu-ray, DVD edition
-    
-    Nosferatu. Eine Symphonie des Grauens (Germany, 1922, Friedrich Wilhelm Murnau)    
-    Preservation/Restoration Variant: restoration by Friedrich-Wilhelm Murnau-Stiftung; Luciano Berriatùa (restorer) – Germany – 2005/6 (reconstruction based on different sources)
+  Examples:
+  
+  to update informational/educational content; for preservation/restoration; to offer different endings or alternate takes
+  
+  Blackmail (UK, 1929, Alfred Hitchcock)  
+  Augmented Variant: UK – 1929 (longer, with some scenes shot on purpose)
+  
+  Little Shop of Horrors (USA, 1986, Frank Oz)  
+  Augmented Variant: alternate ending of 23 minutes, included in the 2012 Warner Home Video – Blu-ray, DVD edition
+  
+  Nosferatu. Eine Symphonie des Grauens (Germany, 1922, Friedrich Wilhelm Murnau)  
+  Preservation/Restoration Variant: restoration by Friedrich-Wilhelm Murnau-Stiftung; Luciano Berriatùa (restorer) – Germany – 2005/6 (reconstruction based on different sources)
 
 <b>Change in textual aspect</b>
 
 - partial alteration of dialogue and/or narration of an existing Work, including the removal and/or addition of dialogue (audio and/or intertitles)
 
-    Examples:
-    
-    The addition or removal of explanatory text, dubbing, subtitles, etc.    
-    Star  Wars  Episode  II:  Attack  of  the  Clones  (2002)  was  dubbed  into  19 foreign language versions, which were released on the same date as the English language version.[^35]
-    
-    Cabiria (Italy, 1914, Giovanni Pastrone)    
-    Sonorized Variant: Italy, 1931
-    
-    A dog’s life (USA, 1918, Charles Chaplin)    
-    Sonorized Variant: Vita da cani – sonorized with Italian intertitles – 193?
-    
-    The yellow mask (USA, 1930, Harry Lachman)    
-    Augmented Variant: Il principe corsaro – 1931: only with music, songs and sound effects, plus new Italian intertitles, but without dialogue, according to a 1930  law, which involved the first spoken foreign films distributed in Italy.
-    
-    Hallelujah! (USA, 1929, King Vidor)    
-    Augmented Variant: Alleluia! – addition of music, songs, sound effects, and new Italian intertitles, but without dialogue; Italy, 1930
-    
-    La presa di Roma (Italy, 1905)
-    Preservation/restoration Variant: addition of stills and explanation texts; Italy, 2007. Restoration by Centro Sperimentale di Cinematografia-Cineteca Nazionale
+  Examples:
+  
+  The addition or removal of explanatory text, dubbing, subtitles, etc.  
+  Star Wars Episode II: Attack of the Clones (2002) was dubbed into 19 foreign language versions, which were released on the same date as the English language version.[^35]
+  
+  Cabiria (Italy, 1914, Giovanni Pastrone)  
+  Sonorized Variant: Italy, 1931
+  
+  A dog’s life (USA, 1918, Charles Chaplin)  
+  Sonorized Variant: Vita da cani – sonorized with Italian intertitles – 193?
+  
+  The yellow mask (USA, 1930, Harry Lachman)  
+  Augmented Variant: Il principe corsaro – 1931: only with music, songs and sound effects, plus new Italian intertitles, but without dialogue, according to a 1930 law, which involved the first spoken foreign films distributed in Italy.
+  
+  Hallelujah! (USA, 1929, King Vidor)  
+  Augmented Variant: Alleluia! – addition of music, songs, sound effects, and new Italian intertitles, but without dialogue; Italy, 1930
+  
+  La presa di Roma (Italy, 1905)
+  Preservation/restoration Variant: addition of stills and explanation texts; Italy, 2007. Restoration by Centro Sperimentale di Cinematografia-Cineteca Nazionale
 
 <b>Change in performance/performers</b>
 
 - removal and/or replacement and/or addition of any one or more of the contributors (e.g., cast and/or crew), but not substantially most, associated with a Work
 
-    Examples: restored versions of works often include credits for the responsible individuals and institutions
-    
-    Nosferatu. Eine Symphonie des Grauens (Germany, 1922, Friedrich Wilhelm Murnau)    
-    Preservation/augmented  Variant  –  2005/6:  restoration  by  the  Friedrich-Wilhelm Murnau-Stiftung; Luciano Berriatùa (restorer)
-    
-    Die freudlose Gasse (Germany, 1925, Georg Wilhelm Pabst);    
-    Preservation/augmented Variant – Germany – 2008. Digitale  Restaurierung: Filmarchiv Austria, Wien, Stephanie Gratzer in Zusammenarbeit mit der Galerie Krems; Wissenschaftliche Beratung: Stephan Droessler, Nikolaus Wostry; Projectleitung: Ernst Kleininger, Nikolaus Wostry (from the credits on the DVD)
-    
-    Kita-kitsune  Monogatari  (Japan,  1978,  Koreyoshi  Kurahara);  original narrator voice: Eiji Okada; Augmented variant with added prologue and English narration: The Glacier Fox in Search of the Northern Sun – USA – 1979: narrator voice: Arthur Hill.
+  Examples: restored versions of works often include credits for the responsible individuals and institutions
+  
+  Nosferatu. Eine Symphonie des Grauens (Germany, 1922, Friedrich Wilhelm Murnau)  
+  Preservation/augmented Variant – 2005/6: restoration by the Friedrich-Wilhelm Murnau-Stiftung; Luciano Berriatùa (restorer)
+  
+  Die freudlose Gasse (Germany, 1925, Georg Wilhelm Pabst);  
+  Preservation/augmented Variant – Germany – 2008. Digitale Restaurierung: Filmarchiv Austria, Wien, Stephanie Gratzer in Zusammenarbeit mit der Galerie Krems; Wissenschaftliche Beratung: Stephan Droessler, Nikolaus Wostry; Projectleitung: Ernst Kleininger, Nikolaus Wostry (from the credits on the DVD)
+  
+  Kita-kitsune Monogatari (Japan, 1978, Koreyoshi Kurahara); original narrator voice: Eiji Okada; Augmented variant with added prologue and English narration: The Glacier Fox in Search of the Northern Sun – USA – 1979: narrator voice: Arthur Hill.
 
-    Examples: language versions may credit the individuals responsible for dubbing or subtitles
-    
-    Senso (Italy, 1954, Luchino Visconti)    
-    Subtitled Variant: French subtitles – 1955: subtitles by Georges Sadoul
-    
-    Cinderella (USA, 1950, Clyde Geronimi, Wilfred Jackson, Hamilton Luske)    
-    Dubbed variant: Cendrillon, French (spoken language) – France – 1991: Dominique Poulain, voice of Cinderella)
-    
-    Sons of the Desert (USA, 1933, William A. Seiter):    
-    Dubbed  Variant  1:I  figli  del  deserto  –  Italian  (spoken  language)  -1935: Carlo Cassola, voice of Oliver Hardy;    
-    Dubbed Variant 2:, I figli del deserto – Italian (spoken language) 1946: Alberto Sordi, voice of Oliver Hardy.    
-    
+  Examples: language versions may credit the individuals responsible for dubbing or subtitles
+  
+  Senso (Italy, 1954, Luchino Visconti)  
+  Subtitled Variant: French subtitles – 1955: subtitles by Georges Sadoul
+  
+  Cinderella (USA, 1950, Clyde Geronimi, Wilfred Jackson, Hamilton Luske)  
+  Dubbed variant: Cendrillon, French (spoken language) – France – 1991: Dominique Poulain, voice of Cinderella)
+  
+  Sons of the Desert (USA, 1933, William A. Seiter):  
+  Dubbed Variant 1:I figli del deserto – Italian (spoken language) -1935: Carlo Cassola, voice of Oliver Hardy;  
+  Dubbed Variant 2:, I figli del deserto – Italian (spoken language) 1946: Alberto Sordi, voice of Oliver Hardy.  
+  
 When an institution has set a policy not to use Variants, the boundaries will usually be between a Work and Manifestations, i.e., a new Manifestation linked to the Work would be created rather than a Variant, or else a separate new Work, depending on assessment of the level of change or variation.
 
-Boundaries  for  this  decision  are  akin  to  the  concepts  of  “versions  with  major  changes” and “variations with minor changes” in the FIAF Cataloguing Rules for Film Archives (1991) [http://www.fiafnet.org/pages/E-Resources/FIAF-Cataloguing-Rules.html]()
+Boundaries for this decision are akin to the concepts of “versions with major changes” and “variations with minor changes” in the FIAF Cataloguing Rules for Film Archives (1991) [http://www.fiafnet.org/pages/E-Resources/FIAF-Cataloguing-Rules.html]()
 
-    Example:
-    
-    Our herring industry (GB, 1932) is the shortened version of Drifters (GB, 1929).
+  Example:
+  
+  Our herring industry (GB, 1932) is the shortened version of Drifters (GB, 1929).
 
 Where a Work/Variant structure exists then Our herring industry would constitute a Variant of the Work Drifters.
 

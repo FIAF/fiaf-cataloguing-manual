@@ -10,7 +10,7 @@ Ideally record in a note or dedicated field the source of the title proper.
 
 If it is impossible to determine the title proper or if the Manifestation is the embodiment of a Work not intended to have a formal title, construct a supplied/devised title (see [A.2.5 Supplied/Devised Titles]()).
 
-Specify  in  a  note  or  dedicated  field if  the  title  proper  is  not  determinable or if the Manifestation embodies a Work not intended to have a formal title.
+Specify in a note or dedicated field if the title proper is not determinable or if the Manifestation embodies a Work not intended to have a formal title.
 
 *Items* [^138]
 
@@ -26,13 +26,13 @@ Items may also have title-like information on film leader, cans, and containers.
 
 Ideally, the title proper of an Item is determined by the following:
 
-    i)  The title frame or frames, or title screen or screens, or title that is permanently printed on, affixed to, or embedded in the resource.
+  i) The title frame or frames, or title screen or screens, or title that is permanently printed on, affixed to, or embedded in the resource.
 
-    ii)  If the resource contains none of (i), then use any label bearing a title that is physically affixed to or within the container of the item, or printed on accompanying textual material.
+  ii) If the resource contains none of (i), then use any label bearing a title that is physically affixed to or within the container of the item, or printed on accompanying textual material.
 
-    iii) In the absence of either (i) or (ii), and if catalogued within a WVMI structure, then replicate the title of the Manifestation to which the Item will be linked.
+  iii) In the absence of either (i) or (ii), and if catalogued within a WVMI structure, then replicate the title of the Manifestation to which the Item will be linked.
 
-    iv)  In  the  absence  of  either  (i)  or  (ii),  and  either  not  catalogued  within  a  WVMI structure, or Work and Manifestation have not yet been identified, then a supplied/devised  title  should  be  created.  In  the  latter  instance,  any  subsequently created Work and Manifestation to be linked to the Item record should have the same title and a supplied/devised title type (See [A.2.5 Supplied/Devised Titles]()).
+  iv) In the absence of either (i) or (ii), and either not catalogued within a WVMI structure, or Work and Manifestation have not yet been identified, then a supplied/devised title should be created. In the latter instance, any subsequently created Work and Manifestation to be linked to the Item record should have the same title and a supplied/devised title type (See [A.2.5 Supplied/Devised Titles]()).
 
 [^137]: In this FRBR-based context, the title of a moving image Manifestation corresponds strictly to the traditionally ISBD concept of “title proper”. Vice versa, in the previous FIAF Rules the title proper was defined as “the title of the original release in the country the origin”, which, in a FRBR-based approach, corresponds to the “preferred title” of a Moving Image Work.
 [^138]: Item Title Types and definitions taken from BFI CID Stylistics Manual. 2nd Edition. May 2012

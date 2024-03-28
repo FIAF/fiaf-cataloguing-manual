@@ -6,19 +6,19 @@ An Acquisition Event may be associated with instances of Agent in the role of e.
 
 An Acquisition Event may be associated with instances of “Other” relationship(s).
 
-Record  all  the  existing  relationships  for  the  Acquisition  Event,  if  the  information  is known and considered of relevance.
+Record all the existing relationships for the Acquisition Event, if the information is known and considered of relevance.
 
 An Acquisition Event information consists of the following sub-elements:
 
-    - Acquisition type
-    - Acquisition date
-    - Acquisition source
-    - Accession date
-    - Acquisition detail
+  - Acquisition type
+  - Acquisition date
+  - Acquisition source
+  - Accession date
+  - Acquisition detail
 
 - Acquisition type
 
-Describes  the  means  by  which  the  Item  was  acquired,  for  example,  donation,  exchange, loan, etc. Select from a controlled list of terms. See, [D.15 Manifestation/Item Acquisition, Accessioning and Source]().
+Describes the means by which the Item was acquired, for example, donation, exchange, loan, etc. Select from a controlled list of terms. See, [D.15 Manifestation/Item Acquisition, Accessioning and Source]().
 
 - Acquisition date
 
@@ -26,7 +26,7 @@ The date on which the Item was physically acquired. This date is distinct from a
 
 - Acquisition source
 
-The name of the person or organisation from which the Item was obtained, indicating whether the acquisition was direct from, for example, the donor or via an intermediary  or  agent.  Select  from  a  controlled  list  of  terms.  See  [D.15  Manifestation/Item Acquisition, Accessioning and Source]().
+The name of the person or organisation from which the Item was obtained, indicating whether the acquisition was direct from, for example, the donor or via an intermediary or agent. Select from a controlled list of terms. See [D.15 Manifestation/Item Acquisition, Accessioning and Source]().
 
 - Accession date
 

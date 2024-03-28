@@ -31,7 +31,7 @@
 | Abstract: | Comments on the final series and interview with James B. Sikking about his role. |
 | Periodical: | City Limits – n134 27 Apr 1984 pages 17-19. 21 |
 | Abstract: | Article tracing the history of the series, and examining the reasons for its success. |
-| Periodical: | TV Guide – volume 45. issue26. June 1997. pages 10-67. Article: 100 greatest episodes of all time |  
+| Periodical: | TV Guide – volume 45. issue26. June 1997. pages 10-67. Article: 100 greatest episodes of all time | 
 | Abstract: | TV Guide and television experts at NICK AT NITE’S TV LAND select 100 greatest episodes from drama series and sitcoms from the 1950s to 1997. |
 | Periodical: | Playback – issue Special Collectors April 1995. Page 52 |
 | Abstract: | Article about the background, production and reception of the series. Creative Screenwriting volume 5. Issue 3, June 1998. pages 24-31 |
@@ -53,7 +53,7 @@
 | Date start | 1981-01-24 |
 | Date type | Television broadcast |
 | Genre | Police drama |
-| Subject | Corruption,  Bribery,  Police,  Car  theft, Gangs, Power cuts |
+| Subject | Corruption, Bribery, Police, Car theft, Gangs, Power cuts |
 | Description type | Synopsis |
 | Description | Furillo focuses on a bribery case against LaRue, while Hill and Renko arrest a thief with hidden expertise. |
 | On-screen credit | Name |
@@ -105,7 +105,7 @@
 | Manifestation type | TV transmission |
 | Date | 1997-02-22 |
 | Start time: | 23:35:00 |
-| End time: | 00:35:00  |
+| End time: | 00:35:00 |
 | Duration: | 60 minutes |
 | Broadcast channel | Channel 4 | 
 | Coverage | Network | 

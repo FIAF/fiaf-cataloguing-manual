@@ -2,7 +2,7 @@
 
 Ensures that users can search under any variation of the title that has been used for a Work, Variant, Manifestation or Item, and be led to the content or particular physical object that they seek.
 
-Alternative titles for the Work differ from uniform, preferred, and other title information and may be encountered in the course of cataloguing its Variants, Manifestations and  Items.  If  the  Work  could  reasonably  be  sought  under  the  title(s)  of  one  of  these Variants/Manifestations, the alternative title should be indexed in such a way that a user who searches on it is led to the Work.
+Alternative titles for the Work differ from uniform, preferred, and other title information and may be encountered in the course of cataloguing its Variants, Manifestations and Items. If the Work could reasonably be sought under the title(s) of one of these Variants/Manifestations, the alternative title should be indexed in such a way that a user who searches on it is led to the Work.
 
 Alternative titles for the Manifestation differ from the title proper or other title information.[^146]
 

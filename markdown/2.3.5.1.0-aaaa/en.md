@@ -5,11 +5,11 @@ Logical extent is the number of discrete logical units which make up the Manifes
 
 For digital Manifestations, there can be two extents: one for the number of files, and one for the extent of the carrier (e.g., 2 LTO6 tapes).
 
-    Example:
+  Example:
 
-        A home video publication: DVD in 2 discs
-        A theatrical print: in 6 reels
-        A hard-disk stored film in 3 files
+    A home video publication: DVD in 2 discs
+    A theatrical print: in 6 reels
+    A hard-disk stored film in 3 files
 
 Record the number of the logical units of a Manifestation in Arabic numerals, and, if necessary, specify the type of unit, for example, reel, roll, disc, file, etc. Selection should be made from a controlled list of terms. A suggested list, which is open and not exhaustive, can be found in [D.7.6 Manifestation Unit Types]().
 

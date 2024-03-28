@@ -4,7 +4,7 @@ Example 1 depicts 3-level, 2-level and 1 level model hierarchies (see [0.2.1 Ele
 
 In this first example, as an initial illustration,  the corresponding data of the core concepts has the same matching colours as used in the list below, and the core concept term is also given in italics and square brackets alongside the most equivalent field name.
 
-Fields and data in black are additional elements and data, that also mainly correspond with  the  wider  Attributes,  Elements  and  Relationships  stipulated  in    CEN  EN15907  and found at [1. Moving Image Works and Variants](), [2. Moving Image Manifestations](), and [3. Moving Image Items]().
+Fields and data in black are additional elements and data, that also mainly correspond with the wider Attributes, Elements and Relationships stipulated in  CEN EN15907 and found at [1. Moving Image Works and Variants](), [2. Moving Image Manifestations](), and [3. Moving Image Items]().
 
 Core concepts ([0.2 Core elements of description]())
 
@@ -125,10 +125,10 @@ Content description
 | Manifestation type: Theatrical (main country of origin) | |
 | Language [Language] | Usage |
 | English | Dialogue (original) |
-| [Original format]  General Format: Film  Specific Format: 35mm | |
-| Colour  Colour system: Technicolor  Sound| |
-| [Original duration] Running time – 97 minutes  [Original length] Length: 8142 feet | |
-| Event: Release - Release Country: United Kingdom  Date: 1955-12 | |
+| [Original format] General Format: Film Specific Format: 35mm | |
+| Colour Colour system: Technicolor Sound| |
+| [Original duration] Running time – 97 minutes [Original length] Length: 8142 feet | |
+| Event: Release - Release Country: United Kingdom Date: 1955-12 | |
 | Distributor: Rank | |
 | Relationships: | |
 | Part of title | Parts title |
@@ -138,21 +138,21 @@ Content description
 | --- | --- |
 | Title | Title type |
 | The Lady killers | Original |
-| Physical Description: Colour Positive  Status: Master | |
-| Item type: Film  Base: Safety  Gauge: 35mm  Colour  Colour system: Technicolor Sound  Sound system: VA Bilateral  Stock: Kodak | |
-| Language: English  Usage: Dialogue | |
-| Number of cans/cassettes: 5  Number of Reels: 10  Total footage: 7981 feet | |
+| Physical Description: Colour Positive Status: Master | |
+| Item type: Film Base: Safety Gauge: 35mm Colour Colour system: Technicolor Sound Sound system: VA Bilateral Stock: Kodak | |
+| Language: English Usage: Dialogue | |
+| Number of cans/cassettes: 5 Number of Reels: 10 Total footage: 7981 feet | |
 | Institution record identification number: C-88339| |
 | Can identification number: 61470E | |
 | Access conditions: Restricted access to preserved film | |
 | Emulsion condition: New | |
 | Observations: No sound on main and end titles; scratches on first 20 ft of reel 5 | |
-| Current location: XYZ203040  Home location: BKS102030 | |
-| Event type: Inspection  Movement number: 3  Reason: Perforation inspection | |
+| Current location: XYZ203040 Home location: BKS102030 | |
+| Event type: Inspection Movement number: 3 Reason: Perforation inspection | |
 | Date: 1968-10-02 | |
-| Event type: Preservation  Treatment: Damaged perforations on reels 2 and 7 repaired | |
-| Treatment date: 1968-10-05  Technician: Joe Bloggs | |
-| Event type: Acquisition  Donor: FIAF  Acquisition Date: 1959-09-03 | |
+| Event type: Preservation Treatment: Damaged perforations on reels 2 and 7 repaired | |
+| Treatment date: 1968-10-05 Technician: Joe Bloggs | |
+| Event type: Acquisition Donor: FIAF Acquisition Date: 1959-09-03 | |
 | Relationships: | |
 | Part of title | |
 | M-34312 The Ladykillers | |
@@ -260,21 +260,21 @@ Content description
 | The Ladykillers | Original |
 | The Lady killers | Help search |
 | Manifestation type: Theatrical (main country of origin) | |
-| Event: Release - Release Country: United Kingdom  Date: 1955-12 | |
+| Event: Release - Release Country: United Kingdom Date: 1955-12 | |
 | Distributor: Rank | |
 | Language [Language] | Usage |
 | English | Dialogue (original) |
-| [Original duration] Running time – 97 minutes  [Original length] Length: 8142 feet | |
-| Number of cans/cassettes: 5  Number of Reels: 10  Total footage: 7981 feet | |
-| Physical Description: Colour Positive  Status Master | |
-| Item type: Film  [Original format]  Base: Safety Gauge: 35mm  Colour Colour system: Technicolor  Sound  Sound system: VA Bilateral  Stock: Kodak | |
+| [Original duration] Running time – 97 minutes [Original length] Length: 8142 feet | |
+| Number of cans/cassettes: 5 Number of Reels: 10 Total footage: 7981 feet | |
+| Physical Description: Colour Positive Status Master | |
+| Item type: Film [Original format] Base: Safety Gauge: 35mm Colour Colour system: Technicolor Sound Sound system: VA Bilateral Stock: Kodak | |
 | Access conditions: Restricted access to preserved film | |
 | Emulsion: New | |
 | Observations: No sound on main and end titles; scratches on first 20 ft of reel 5 | |
 | Current location: XYZ203040 Home location: BKS102030 | |
-| Event type: Inspection  Movement number: 3  Reason: Perforation inspection  Date: 1968-10-02 | |
-| Event type: Preservation  Treatment: Damaged perforations on reels 2 and 7 repaired Treatment date: 1968-10-05  Technician: Joe Bloggs | |
-| Event type: Acquisition  Donor: FIAF  Acquisition Date: 1959-09-03 | |
+| Event type: Inspection Movement number: 3 Reason: Perforation inspection Date: 1968-10-02 | |
+| Event type: Preservation Treatment: Damaged perforations on reels 2 and 7 repaired Treatment date: 1968-10-05 Technician: Joe Bloggs | |
+| Event type: Acquisition Donor: FIAF Acquisition Date: 1959-09-03 | |
 | Relationships: | |
 | Part of title | |
 | W-35195 The Ladykillers | |
@@ -374,18 +374,18 @@ Content description
 | Event: Production – Date: 1955 | Location(s): Frederica Street, Islington, London N7 Cheney Road, Kings Cross, London NW1 |
 | Release Country: United Kingdom | Release Date: 1955-12 |
 | Theatrical release (in country of origin) | |
-| [Original duration] Running time – 97 minutes  [Original length] Length (original footage): 8142 feet | |
-| Number of cans/cassettes: 5  Number of Reels: 10  Total footage: 7981 feet | |
-| Physical Description: Colour  Positive  Status: Master Item type: Film  [Original format] Base: Safety  Gauge: 35mm  Colour Colour system: Technicolor  Sound  Sound system: VA Bilateral  Stock: Kodak | |
+| [Original duration] Running time – 97 minutes [Original length] Length (original footage): 8142 feet | |
+| Number of cans/cassettes: 5 Number of Reels: 10 Total footage: 7981 feet | |
+| Physical Description: Colour Positive Status: Master Item type: Film [Original format] Base: Safety Gauge: 35mm Colour Colour system: Technicolor Sound Sound system: VA Bilateral Stock: Kodak | |
 | Language [Language]: English | Usage: Dialogue (original) |
 | Access conditions: Restricted access to preserved film | |
 | Emulsion condition: New | |
 | Observations: No sound on main and end titles; scratches on first 20 ft of reel 5 | |
-| Current location: XYZ203040  Home location: BKS102030 | |
-| Event type: Inspection  Movement number: 3  Reason: Perforation inspection | |
+| Current location: XYZ203040 Home location: BKS102030 | |
+| Event type: Inspection Movement number: 3 Reason: Perforation inspection | |
 | Date: 1968-10-02 | |
-| Event type: Preservation  Treatment: Damaged perforations on reels 2 and 7 repaired | |
+| Event type: Preservation Treatment: Damaged perforations on reels 2 and 7 repaired | |
 | Treatment date: 1968-10-05 Technician: Joe Bloggs | |
-| Event type: Acquisition  Donor: FIAF  Acquisition Date: 1959-09-03 | |
+| Event type: Acquisition Donor: FIAF Acquisition Date: 1959-09-03 | |
 
 

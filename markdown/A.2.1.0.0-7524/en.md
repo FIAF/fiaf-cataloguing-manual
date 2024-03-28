@@ -6,31 +6,31 @@ An identifying title is designed to identify the entity it represents quickly an
 
 Where separate fields do not exist, create an identifying title using the preferred title of the Work/Variant as the starting point (if no title, see [A.2.5.1 Partially Supplied/Devised Titles]()).[^134]
 
-Add whatever additions to the title are necessary to identify the Work/Variant and distinguish it from other Works/Variants with the same title.[^135] These types of additions are traditionally made within the title field itself (in parentheses or brackets) although other  punctuation  separators,  e.g.  full  stop  may  also  be  used.  Use  multiple  additions where necessary. If multiple additions must be made to the title field in order to identify the Work/Variant, distinguish each addition (e.g., through the use of punctuation such as space colon space, or space full stop space).
+Add whatever additions to the title are necessary to identify the Work/Variant and distinguish it from other Works/Variants with the same title.[^135] These types of additions are traditionally made within the title field itself (in parentheses or brackets) although other punctuation separators, e.g. full stop may also be used. Use multiple additions where necessary. If multiple additions must be made to the title field in order to identify the Work/Variant, distinguish each addition (e.g., through the use of punctuation such as space colon space, or space full stop space).
 
-    For example:
-    Blade runner. Final Cut. 1982
+  For example:
+  Blade runner. Final Cut. 1982
 
 Possible qualifiers include content terms (see for example D.18 List of form terms for
-Supplied/Devised  titles),  corporate  bodies  that  are  not  principal  creators  of  the  Work/Variant but are closely associated with the Work/Variant and useful for identification of it, place of publication/release/distribution/broadcast, and date of publication/release/distribution/broadcast.[^136]
+Supplied/Devised titles), corporate bodies that are not principal creators of the Work/Variant but are closely associated with the Work/Variant and useful for identification of it, place of publication/release/distribution/broadcast, and date of publication/release/distribution/broadcast.[^136]
 
-    Example:
+  Example:
 
-    Works
+  Works
 
-        A Star is born (Motion picture : 1954)
+    A Star is born (Motion picture : 1954)
 
-        A Star is born (Television programme : 1961)
+    A Star is born (Television programme : 1961)
 
-    Variants
+  Variants
 
-        Police story III – Supercop. English subtitled version
+    Police story III – Supercop. English subtitled version
 
-        Blade runner (Motion picture. 1982. 2007 version)
+    Blade runner (Motion picture. 1982. 2007 version)
 
-        Blade runner (Motion picture. 1987. 25th anniversary edition)
+    Blade runner (Motion picture. 1987. 25th anniversary edition)
 
-It  is  not  necessary  to  append  Variant  information  to  the  Work  identifying  title  for every type of Variant; many of the types of modifications that lead to Variants are too complex to include and much of the data that identifies a particular Variant will consist of data elements that form part of the Variant description.
+It is not necessary to append Variant information to the Work identifying title for every type of Variant; many of the types of modifications that lead to Variants are too complex to include and much of the data that identifies a particular Variant will consist of data elements that form part of the Variant description.
 
 [^132]: Term “Identifying title” corresponds with EN 15907. This is the equivalent of “Uniform title” in FRBR and “Preferred title” in RDA.
 [^133]: OLAC TF, Part 3a, p. 5.

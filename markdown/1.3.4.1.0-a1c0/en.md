@@ -2,7 +2,7 @@
 
 The year or date should be associated with an event in the life cycle of the Work or its Variants (see [1.4.2 Events]()). If your system supports it, apply a “Date Type” qualifier to make the date or year purpose clear. Date Type terms should be derived from a controlled vocabulary. For a list of initial terms, see [Appendix D.4 Event Types]().
 
-For Works, the date is typically related to events such as its creation, availability (i.e., publication,  release,  distribution,  broadcast  or  transmission)  or  registration  (e.g.,  for copyright or intellectual property purposes).
+For Works, the date is typically related to events such as its creation, availability (i.e., publication, release, distribution, broadcast or transmission) or registration (e.g., for copyright or intellectual property purposes).
 
 For Variants, the date is typically related to its creation, availability, registration or bestowal of an award (e.g. the subtitled version of a foreign language motion picture, or a Variant of the original Work, is the entity nominated for an award).
 

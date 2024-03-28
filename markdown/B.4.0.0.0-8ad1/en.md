@@ -2,7 +2,7 @@
 
 **Agent**
 
-Include  information  on  the  agents  (person,  family,  or  corporate  body)  that  are  not named in a statement of responsibility but that have been attributed responsibility according  to  other  (non-preferred)  sources;  on  the  variant  forms  of  names,  on  possible changes in statements of responsibility or on every other details relating to a statement of responsibility.[^194]
+Include information on the agents (person, family, or corporate body) that are not named in a statement of responsibility but that have been attributed responsibility according to other (non-preferred) sources; on the variant forms of names, on possible changes in statements of responsibility or on every other details relating to a statement of responsibility.[^194]
 
 Record any additional details that cannot be expressed through controlled terms. (e.g. “appears only in final scene”, etc.). If a name is known to be fictitious, or requires clarification, make a note giving the actual name.
 

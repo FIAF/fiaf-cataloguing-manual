@@ -4,14 +4,14 @@ If other title information is lengthy or of very minor importance, either give i
 
 If other title information is clearly of very minor importance, for example a newsreel slogan, or it is an avant-titre which grammatically cannot follow the title proper, place it in a note.[^143]
 
-    Examples:[^144]
+  Examples:[^144]
 
-    CBS  news  special.  Challenge  in  the  coal  mines  :  (other  title  information)  men against their union
+  CBS news special. Challenge in the coal mines : (other title information) men against their union
 
-    But: (without separation into “title proper” and “other title information”):
+  But: (without separation into “title proper” and “other title information”):
 
-    Berlin – Die Sinfonie der Großstadt
-    Pompeii, frozen in Fire
+  Berlin – Die Sinfonie der Großstadt
+  Pompeii, frozen in Fire
 
 [^142]: FIAF, 1.4.2, p. 26.
 [^143]: Based on FIAF 1.4.2
