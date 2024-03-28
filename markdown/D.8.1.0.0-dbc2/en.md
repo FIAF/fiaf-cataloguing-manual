@@ -1,4 +1,4 @@
-# D.8 Manifestation Agent Types
+# D.8 Manifestation Agent Types {#manual-D.8}
 
 # D.8.1 Distributor (theatrical)
 
