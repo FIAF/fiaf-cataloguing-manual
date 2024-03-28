@@ -1,6 +1,12 @@
 
 \setmainfont{BrownStd}
 
+![](cover.png)
+
+# The FIAF Moving Image Cataloguing Manual
+
+\newpage
+
 # The FIAF Moving Image Cataloguing Manual
 
 Written by Natasha Fairbairn, Maria Assunta Pimpinelli, Thelma Ross
