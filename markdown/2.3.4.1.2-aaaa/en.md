@@ -1,4 +1,3 @@
-
 # 2.3.4.1.2 Specific Carrier Type
 
 Record the specific carrier type, by indicating
