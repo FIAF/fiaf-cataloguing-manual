@@ -1,4 +1,3 @@
-
 # 3.1.6.1 Item condition
 
 Observations about conditions will typically happen in the course of an Event such as inspection of an Item. These observations should aim to be as clear and concise as possible, avoiding abbreviations and initials, and as far as possible using controlled vocabulary. For example, establish whether to use “scratched”, “scratches” or “scratch marks” and be as consistent as possible. This enables better searching and accessibility of data.

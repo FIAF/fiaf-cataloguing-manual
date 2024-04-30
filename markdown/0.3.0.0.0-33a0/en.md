@@ -1,4 +1,4 @@
-0.3 Sources of Information
+# 0.3 Sources of Information
 
 Information entered in a record must be derived from a source. Acceptable sources
 of information for moving image Works, Variants, Manifestations and Items include pri-

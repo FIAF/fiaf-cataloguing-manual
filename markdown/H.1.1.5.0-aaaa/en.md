@@ -1,4 +1,3 @@
-
 # H.1.1.5 Orphan works
 
 Orphan works are defined as those works which are ‘still protected by copyright but whose authors or other rightholders are not known or cannot be located.’ (from the OHIM Orphan Works Database website at https://oami.europa.eu/ohimportal/en/web/observatory/orphan-works-database). The absence of information about ownership has prevented archives from exploiting their collections in revenue-generating or access-driving initiatives: for example, online display of digitised collections.

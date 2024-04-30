@@ -1,4 +1,3 @@
-
 # E.5.2.2 Model: Augmented Aggregate Manifestation for many-to-many Work/Variants-Manifestations
 
 Single Aggregate Manifestation links to all individual Works/Variants in “part of” relationship.

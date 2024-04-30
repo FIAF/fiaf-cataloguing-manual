@@ -1,4 +1,3 @@
-
 # H.3.1.3 Loan
 
 1. This section outlines the properties that are specific to Loan agreements, distinct from Acquisitions

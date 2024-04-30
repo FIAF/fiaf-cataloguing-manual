@@ -1,4 +1,3 @@
-
 # 1. Moving Image Works and Variants
 
 1.0 Definitions
