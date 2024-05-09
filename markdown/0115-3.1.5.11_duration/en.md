@@ -1,4 +1,4 @@
-# 3.1.5.11 Duration<a name="manual-3.1.5.11"/>
+# 3.1.5.11 Duration {#manual-3.1.5.11}
 
 Duration in minutes of the moving image(s) contained in the Item, not the total dura- tion of the Manifestation. Optionally, include minutes and seconds, or, for a higher level of precision and to enable calculations, use the format HH:MM:SS. This numeric format will help to calculate estimated digital storage in analogue-to-digital transfer projects.
 

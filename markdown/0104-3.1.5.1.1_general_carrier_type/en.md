@@ -1,4 +1,4 @@
-# 3.1.5.1.1 General Carrier Type<a name="manual-3.1.5.1.1"/>
+# 3.1.5.1.1 General Carrier Type {#manual-3.1.5.1.1}
 
 The broad media type of the Item (e.g., film, video, audio, optical, digital file). Re- cording this high-level information will enable simple searching for only film, video, digi- tal, etc. elements rather than searching by all possible formats and carriers.
 

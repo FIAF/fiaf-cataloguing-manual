@@ -1,4 +1,4 @@
-# D.7.13 Item Sound System<a name="manual-D.7.13"/>
+# D.7.13 Item Sound System {#manual-D.7.13}
 
 Dolby SR
 Dolby Digital

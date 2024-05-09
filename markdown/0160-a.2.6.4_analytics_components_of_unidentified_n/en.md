@@ -1,4 +1,4 @@
-# A.2.6.4 Analytics/components of unidentified newsreels/ cinemagazines<a name="manual-A.2.6.4"/>
+# A.2.6.4 Analytics/components of unidentified newsreels/ cinemagazines {#manual-A.2.6.4}
 
 Where only an analytic/component of a copy pertaining to a whole Work has been acquired as an Item, and the Serial Work to which it belongs is unable to be identified (i.e., the Item acquired is clearly a section of newsreel but the newsreel series has not been identified), then the title assigned to that Item should also be used to create the title for the Manifestation and Work records, which will then be related to each other hierarchically.
 

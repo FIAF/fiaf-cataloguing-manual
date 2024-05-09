@@ -1,4 +1,4 @@
-# 3.3.3 Other Relationships<a name="manual-3.3.3"/>
+# 3.3.3 Other Relationships {#manual-3.3.3}
 
 Express relationships that are not covered by the Agent and Event relationships. These may include compilations of convenience, i.e. where an institution has transferred copies
 of two or more films onto one reel/tape/DVD etc. for convenient storage.[^125]

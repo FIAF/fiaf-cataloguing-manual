@@ -1,4 +1,4 @@
-# D.5.5 Unreleased<a name="manual-D.5.5"/>
+# D.5.5 Unreleased {#manual-D.5.5}
 
 Refers to Manifestations which do not represent a release/distribution event, but where the work was intended for release (therefore, distinct from “Not for release”, see above), e.g. the film was made, completed and intended for release, but was not then released due to censorship or political impediments, or other reason.
 

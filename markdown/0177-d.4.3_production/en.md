@@ -1,4 +1,4 @@
-# D.4.3 Production[^207]<a name="manual-D.4.3"/>
+# D.4.3 Production[^207] {#manual-D.4.3}
 
 A distinct event in the course of production of a Work or Variant, including the main production event OR events that are separated in space and/or time from the main production event, or known with a greater amount of detail. Examples are dates and locations where castings took place; dates and locations of shootings or other recordings; or dates and locations of particular post-production activities.
 

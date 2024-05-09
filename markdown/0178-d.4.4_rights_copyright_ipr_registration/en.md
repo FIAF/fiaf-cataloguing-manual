@@ -1,4 +1,4 @@
-# D.4.4 Rights/Copyright/IPR Registration[^208]<a name="manual-D.4.4"/>
+# D.4.4 Rights/Copyright/IPR Registration[^208] {#manual-D.4.4}
 
 These are optional, and it is for an institution to choose whether it has the resources or requirement to compile rights data. Further more detailed information on the subject of rights/copyright/IPR registration can be found in [Appendix H, Rights/Copyright/IPR Registration](#manual-H).
 

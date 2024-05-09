@@ -1,4 +1,4 @@
-# 1.3.1 Work/Variant Identifier<a name="manual-1.3.1"/>
+# 1.3.1 Work/Variant Identifier {#manual-1.3.1}
 
 Create an unambiguous reference to the Work/Variant using a unique identifier and indicate the type of identifier. The identifier should be a numerical or alphanumerical reference. This identifier is for the content of the Work/Variant, not for a specific Item. Manifestations and Items have their own Identifiers, discussed in later sections. This Work/Variant Identifier is shared by all Manifestations and Items associated to the Work.
 

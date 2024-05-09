@@ -1,4 +1,4 @@
-# D.1 Work/Variant Description Types<a name="manual-D.1"/>
+# D.1 Work/Variant Description Types {#manual-D.1}
 
 The Types below reflect terms used in CEN standard EN15907.
 

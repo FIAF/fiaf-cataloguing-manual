@@ -1,4 +1,4 @@
-# F.3.1.1 Existing standards for describing Entities<a name="manual-F.3.1.1"/>
+# F.3.1.1 Existing standards for describing Entities {#manual-F.3.1.1}
 
 Existing standards for describing Entities include:
 

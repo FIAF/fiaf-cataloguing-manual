@@ -1,4 +1,4 @@
-# 3. Moving Image Items<a name="manual-3."/>
+# 3. Moving Image Items {#manual-3.}
 
 # 3.0 Definition
 

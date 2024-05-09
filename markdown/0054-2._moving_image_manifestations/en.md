@@ -1,4 +1,4 @@
-# 2. Moving Image Manifestations<a name="manual-2."/>
+# 2. Moving Image Manifestations {#manual-2.}
 
 2.0 Definition
 

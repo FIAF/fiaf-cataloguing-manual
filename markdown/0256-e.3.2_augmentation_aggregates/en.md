@@ -1,4 +1,4 @@
-# E.3.2 Augmentation Aggregates<a name="manual-E.3.2"/>
+# E.3.2 Augmentation Aggregates {#manual-E.3.2}
 
 A Collection Aggregate with further additional material, i.e. interviews, out-takes, additional scenes, documentary about the making of the film, etc. on the same Manifestation. The vast majority of commercial DVD editions now contain “extras” and so are Augmentation Aggregates.
 

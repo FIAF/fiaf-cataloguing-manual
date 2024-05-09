@@ -1,4 +1,4 @@
-# B.4 Relationships<a name="manual-B.4"/>
+# B.4 Relationships {#manual-B.4}
 
 **Agent**
 

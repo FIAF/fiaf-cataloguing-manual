@@ -1,4 +1,4 @@
-# D.7.21 Item Line Standard<a name="manual-D.7.21"/>
+# D.7.21 Item Line Standard {#manual-D.7.21}
 
 405
 525

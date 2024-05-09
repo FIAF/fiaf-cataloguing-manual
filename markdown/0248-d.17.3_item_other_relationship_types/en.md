@@ -1,4 +1,4 @@
-# D.17.3 Item Other Relationship Types<a name="manual-D.17.3"/>
+# D.17.3 Item Other Relationship Types {#manual-D.17.3}
 
 | Item Other Relationship Types | Term list |
 | --- | --- |

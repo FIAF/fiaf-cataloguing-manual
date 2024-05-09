@@ -1,4 +1,4 @@
-# 3.1.5.1.2 Specific Carrier Type<a name="manual-3.1.5.1.2"/>
+# 3.1.5.1.2 Specific Carrier Type {#manual-3.1.5.1.2}
 
 Record the specific carrier type, by indicating
 

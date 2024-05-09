@@ -1,4 +1,4 @@
-# 3.1.3 Holding institution[^114]<a name="manual-3.1.3"/>
+# 3.1.3 Holding institution[^114] {#manual-3.1.3}
 
 Record the name of the institution possessing the moving image Item or authorised to make it available.
 

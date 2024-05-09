@@ -1,4 +1,4 @@
-# D.7.12 Manifestation/Item Colour Standard<a name="manual-D.7.12"/>
+# D.7.12 Manifestation/Item Colour Standard {#manual-D.7.12}
 
 Pathécolor
 Technicolor

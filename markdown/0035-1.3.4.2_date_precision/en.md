@@ -1,4 +1,4 @@
-# 1.3.4.2 Date Precision<a name="manual-1.3.4.2"/>
+# 1.3.4.2 Date Precision {#manual-1.3.4.2}
 
 Where possible, provide a “Date Precision” qualifier to note if the date is precise, approximate, estimated, or a range. EDTF also provides codes to denote precision. For example, an uncertain or approximate date may be formatted thus: 2004-06~-11 (year and month are approximate; day known). Using a Date Precision qualifier, this Date entry could be entered as:
 

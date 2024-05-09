@@ -1,4 +1,4 @@
-# 3.3 Relationships of an Item<a name="manual-3.3"/>
+# 3.3 Relationships of an Item {#manual-3.3}
 
 A relationship associates an instance of an Item with another instance of an entity.
 

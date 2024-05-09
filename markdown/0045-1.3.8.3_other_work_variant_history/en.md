@@ -1,4 +1,4 @@
-# 1.3.8.3 Other Work/Variant History<a name="manual-1.3.8.3"/>
+# 1.3.8.3 Other Work/Variant History {#manual-1.3.8.3}
 
 Any other relevant information or clarifications pertaining to the Work/Variant. For example:
 

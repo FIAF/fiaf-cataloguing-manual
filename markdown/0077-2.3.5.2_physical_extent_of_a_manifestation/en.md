@@ -1,4 +1,4 @@
-# 2.3.5.2 Physical extent of a Manifestation[^99]<a name="manual-2.3.5.2"/>
+# 2.3.5.2 Physical extent of a Manifestation[^99] {#manual-2.3.5.2}
 
 Physical extent is the total “ideal” length or footage of the medium carrying the moving image Manifestation (using appropriate authoritative secondary sources where feasible such as filmographies, censorship visas, etc.).
 

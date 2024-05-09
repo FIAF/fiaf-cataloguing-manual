@@ -1,4 +1,4 @@
-# A.2.6.1 Numbered episodes of a series/serial<a name="manual-A.2.6.1"/>
+# A.2.6.1 Numbered episodes of a series/serial {#manual-A.2.6.1}
 
 With series/serials that contain episode or part numbers and individual episode titles the same principles apply. The preferred title/title proper of the WVMI may incorporate all these for clarity and retrieval purposes, or an institution’s systems may allow for use of the episode title combined with separate specific Part field(s) for parts and numbers, or both. Alternatively, an institution may choose to use one form for Work/Variants and another for Manifestation and/or Items. With television series additional numbered season details may also be required as well as episode/part numbers.
 

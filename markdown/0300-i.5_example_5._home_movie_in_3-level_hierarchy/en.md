@@ -1,4 +1,4 @@
-# I.5 Example 5. Home Movie in 3-level Hierarchy Model<a name="manual-I.5"/>
+# I.5 Example 5. Home Movie in 3-level Hierarchy Model {#manual-I.5}
 
 | | |
 | --- | --- |

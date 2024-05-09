@@ -1,4 +1,4 @@
-# B.1 Boundaries<a name="manual-B.1"/>
+# B.1 Boundaries {#manual-B.1}
 
 Provide additional or explanatory information that clarifies boundary decisions, particularly in cases where the system used does not allow for the clear representation of all the WVMI entities.
 

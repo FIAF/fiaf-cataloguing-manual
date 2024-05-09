@@ -1,4 +1,4 @@
-# Appendix B, Cataloguer’s Notes<a name="manual-B"/>
+# Appendix B, Cataloguer’s Notes {#manual-B}
 
 A cataloguer’s note is any annotation that might be helpful to those using or revising the cataloguing data. It includes information that does not readily fit into dedicated fields or other areas of the description. The extent and specificity of notes will depend upon factors such as staff, viewing facilities, documentation, system designs, etc.[^178]
 

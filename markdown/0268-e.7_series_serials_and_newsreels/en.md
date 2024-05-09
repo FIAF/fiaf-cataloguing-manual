@@ -1,4 +1,4 @@
-# E.7 Series, Serials and Newsreels<a name="manual-E.7"/>
+# E.7 Series, Serials and Newsreels {#manual-E.7}
 
 All the above examples and modelling of aggregates have purposefully not included newsreels or film or TV series/serials. This is because these do not actually constitute aggregates under the Aggregates definition.
 

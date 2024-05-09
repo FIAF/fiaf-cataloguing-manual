@@ -1,4 +1,4 @@
-# 3.1.5.9 Projection characteristics<a name="manual-3.1.5.9"/>
+# 3.1.5.9 Projection characteristics {#manual-3.1.5.9}
 
 For full instructions, see [2.3.4.2 Projection characteristics of a Manifestation](#manual-2.3.4.2)
 

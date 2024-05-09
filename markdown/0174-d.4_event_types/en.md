@@ -1,4 +1,4 @@
-# D.4 Event Types<a name="manual-D.4"/>
+# D.4 Event Types {#manual-D.4}
 
 | Work | Variant | Manifestation | Item |
 | --- | --- | --- | --- |

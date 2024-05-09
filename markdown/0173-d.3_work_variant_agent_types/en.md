@@ -1,4 +1,4 @@
-# D.3 Work/Variant Agent Types[^202]<a name="manual-D.3"/>
+# D.3 Work/Variant Agent Types[^202] {#manual-D.3}
 
 Examples:
 

@@ -1,4 +1,4 @@
-# 3.1.5.23 Transfer Speed<a name="manual-3.1.5.23"/>
+# 3.1.5.23 Transfer Speed {#manual-3.1.5.23}
 
 Selection should be made from a controlled list of terms. A suggested list, which is open and not exhaustive, can be found in [D.7.18 Item Frame Rate/Transfer Speed – Digital](#manual-D.7.18).
 

@@ -1,4 +1,4 @@
-# 3.1.5 Item Specifics/Extent (e.g. physical/Digital description)<a name="manual-3.1.5"/>
+# 3.1.5 Item Specifics/Extent (e.g. physical/Digital description) {#manual-3.1.5}
 
 All moving image Item descriptions should contain details of the physical/digital characteristics of the Items, their location, treatment and condition.
 

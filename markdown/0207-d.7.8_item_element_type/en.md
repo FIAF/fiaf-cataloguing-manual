@@ -1,4 +1,4 @@
-# D.7.8 Item Element Type<a name="manual-D.7.8"/>
+# D.7.8 Item Element Type {#manual-D.7.8}
 
 Colour Positive
 Colour Negative
