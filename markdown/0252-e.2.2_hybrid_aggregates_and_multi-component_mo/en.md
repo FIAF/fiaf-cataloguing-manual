@@ -2,7 +2,7 @@
 
 Multi-component Works are ones conceived and created from their inception to consist of multiple individual components that make up a whole, for example anthologies, portmanteau films and television programmes (e.g., Dead of night, Quartet, From beyond the grave).
 
-These should be treated as straightforward Monographic Works. (See [1. Moving Image Works and Variants]()).
+These should be treated as straightforward Monographic Works. (See [1. Moving Image Works and Variants](#manual-1.0)).
 
 The different sections making up the whole were not independently created Works/Variants with an existence in their own right outside the film. It was one film intentionally structured as a series of different stories, sometimes linked together by scenes and characters, into one continual whole.
 
@@ -74,7 +74,7 @@ Director of Photography: Harvey Harrison Un ballo in maschera, Gale Tattersall L
 Special Stills Photographer: Snowdon Un ballo in maschera, John Swannell La vergine degli angeli, Jonathan Lennard Armide, Greg Gorman Rigoletto, Bob Carlos Clarke Die tote Stadt, David Bailey Les Boréades, Annie Leibovitz Liebestod, Terry O’Neill Nessun Dorma, Angus McBean Depuis le jour, Koo Stark I Pagliacci
 Supervising Co-ordinating Editor: Marie-Thérèse Boiché
 
-Each component title should not usually be created as a new Work, as this is not how the content was conceived (i.e., it was designed to be packaged and viewed together and is not separable) and none of them would then have any Manifestation record as an individual Work. Those institutions that have the ability or desire to separate them out to tie separate descriptions (e.g., credits) to each component part (i.e. representing the parent-child relationship), may represent them as Analytic Works (see [D.1 Work/Variant Description Types]()).
+Each component title should not usually be created as a new Work, as this is not how the content was conceived (i.e., it was designed to be packaged and viewed together and is not separable) and none of them would then have any Manifestation record as an individual Work. Those institutions that have the ability or desire to separate them out to tie separate descriptions (e.g., credits) to each component part (i.e. representing the parent-child relationship), may represent them as Analytic Works (see [D.1 Work/Variant Description Types](#manual-D.1)).
 
 Should an institution acquire some or all of the components on different physical Items, then these should be linked to the Manifestation for the whole. In such cases it is simply a matter of a partial/incomplete acquisition, in the same way that only 2 reels of a 3 reel feature film might be acquired.
 

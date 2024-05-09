@@ -24,5 +24,5 @@ The series/serial title may be indicated within (i) the title field itself, or (
                     Item – Chuckles bites the dust
 
 [^169]: Serial = something which is a continuing story, for which it is necessary to have seen previous episodes to follow the story line, e.g. Pride and Prejudice, The Black Arrow, Brideshead Revisited. Series = something which contains programmes or episodes which are complete in themselves (although they may have characters in common) for which it is not essential to have seen previous episodes in order to understand the story line/content, e.g. Cadfael. Midsomer Murders, World in Action.. BFI SIFT Inputting Manual.
-[^170]: See Appendix [D.1 Work/Variant Description Types]() for EN 15907/BFI definitions of Serial as Description Type.
+[^170]: See Appendix [D.1 Work/Variant Description Types](#manual-D.1) for EN 15907/BFI definitions of Serial as Description Type.
 

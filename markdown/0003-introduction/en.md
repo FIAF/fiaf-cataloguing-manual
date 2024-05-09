@@ -1,4 +1,4 @@
-# Introduction<a name="manual-INTRODUCTION"/>
+# Introduction<a name="manual-introduction"/>
 
 The archival moving image field has changed dramatically in recent years, with technological advances revolutionising cataloguing, preservation, and access practices. To help cataloguers and archivists respond to these changes, FIAF presents the FIAF Moving Image Cataloguing Manual (FIAF Manual), a revision of the 1991 FIAF Cataloguing Rules for Film Archives (FIAF Rules). These new guidelines, created by the FIAF Cataloguing and Documentation Commission and the FIAF Cataloguing Rules Revision Working Group, will help cataloguers create cataloguing or metadata records that will meet requirements of new database technologies and new metadata standards while remaining compatible
 with older methods and standards.
@@ -21,13 +21,13 @@ This revision of the 1991 guidelines recognises that institutions use a variety 
 
 3. The European Standards Committee (CEN) Cinematographic Works Standard (CWS) (EN 15744 and EN 15907). This two-part standard defines the metadata essential for facilitating data exchange between databases and consistent identification of moving images. The metadata schema (EN 15907), which is based in part upon the FRBR conceptual model, was approved in 2010 and disseminated through four workshops held from October 2010 – June 2011. Brief definitions of key elements in the FRBR-based CEN model are at the end of the Introduction.
 
-For further information about the relationship of this set of guidelines to FRBR, RDA and EN 15907, see [Appendix F.3](). Although these guidelines are structured to correspond closely with the above standards/models/schema, and use associated terminology, note that neither they nor these guidelines are system-specific. They cover the fundamentals for cataloguers for the construction and management of data and records in whatever system or standards used by an institution.
+For further information about the relationship of this set of guidelines to FRBR, RDA and EN 15907, see [Appendix F.3](#manual-F.3). Although these guidelines are structured to correspond closely with the above standards/models/schema, and use associated terminology, note that neither they nor these guidelines are system-specific. They cover the fundamentals for cataloguers for the construction and management of data and records in whatever system or standards used by an institution.
 
 While these guidelines are intended to be applicable to all forms of moving image materials, archives with extensive broadcasting collections may wish to look to broadcasting-specific metadata schemas such as EBUCore[^6] and PBCore[^7] for additional guidance. 
 
 **FRBR-based CEN Terms in Brief**
 
-These guidelines use the terminology of CEN Cinematographic Works Standards for terms reflecting the core structuring of moving image records - namely Work, Variant, Manifestation and Item. It is worthwhile providing brief definitions for preliminary guidance here (whilst FRBR is discussed in more depth in [Appendix F.3 Relationship of FIAF Cataloguing Rules to Functional Requirements of Bibliographic Records]())
+These guidelines use the terminology of CEN Cinematographic Works Standards for terms reflecting the core structuring of moving image records - namely Work, Variant, Manifestation and Item. It is worthwhile providing brief definitions for preliminary guidance here (whilst FRBR is discussed in more depth in [Appendix F.3 Relationship of FIAF Cataloguing Rules to Functional Requirements of Bibliographic Records](#manual-F.3))
 
 **Work**
 

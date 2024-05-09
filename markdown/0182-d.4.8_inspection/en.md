@@ -28,6 +28,6 @@ The date or time span in which the inspection activity was performed. (Dates sho
 
 Information describing the condition of the Item in greater detail.
 
-If desired and if applicable, record information about the condition of the Item, including nature and extent of damage. Selection should be made from a controlled list of terms. (See [D.16 Manifestation/Item Condition, Preservation and Restoration.]())
+If desired and if applicable, record information about the condition of the Item, including nature and extent of damage. Selection should be made from a controlled list of terms. (See [D.16 Manifestation/Item Condition, Preservation and Restoration.](#manual-D.16))
 
 [^213]: YCR 6.5, 6.6

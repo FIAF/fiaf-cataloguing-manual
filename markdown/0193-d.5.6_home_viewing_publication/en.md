@@ -8,7 +8,7 @@ A published Manifestation for viewing in the home or similar small-scale private
 
   The most used formats are VHS, DVD, and Laserdisc, but this definition can also include 9.5mm Pathé Baby or 8mm packages in use from the 1950s-1980s (e.g.. the 1977 Star Wars home video in 8mm).
 
-  NOTE: When the production process involves changes related to the publication, marketing, etc. (e.g., a change in publisher, a repackaging, a new distributor and so on), the resulting product may be considered a new Manifestation as well (see [2.1 Boundaries between Manifestations]()).
+  NOTE: When the production process involves changes related to the publication, marketing, etc. (e.g., a change in publisher, a repackaging, a new distributor and so on), the resulting product may be considered a new Manifestation as well (see [2.1 Boundaries between Manifestations](#manual-2.1)).
 
   Example:
 

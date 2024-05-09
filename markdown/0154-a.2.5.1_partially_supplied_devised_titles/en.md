@@ -16,7 +16,7 @@ Optionally, form terms may be left out of the title field and indexed as an attr
 
 Partially supplied/devised titles may be provided in cases of unidentified moving image content. For example, a Work may have a partially supplied/devised title in instances where a series/serial title is known but the episode or chapter title is not (e.g., The Mighty Boosh. Unidentified episode). Unedited footage from a known, named television programme (e.g. a compilation of outtakes from 60 Minutes) is another case where a Work may have a partially supplied/devised title.
 
-Institutions should rely upon in-house lists of standardised form terms to be used as additions to/indexed as an attribute of such related titles, or utilise established standardised lists such as Library of Congress Genre/Form Terms for Library and Archival Materials (LCGFT), or rely upon the “form terms” list provided in [D.18 List of form terms for Supplied/Devised titles]().
+Institutions should rely upon in-house lists of standardised form terms to be used as additions to/indexed as an attribute of such related titles, or utilise established standardised lists such as Library of Congress Genre/Form Terms for Library and Archival Materials (LCGFT), or rely upon the “form terms” list provided in [D.18 List of form terms for Supplied/Devised titles](#manual-D.18).
 
 **General guidelines for Partially Supplied/Devised titles**[^160]
 

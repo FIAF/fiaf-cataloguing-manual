@@ -2,7 +2,7 @@
 
 More than one language can occur in different forms, depending on how the content is expressed: the usage type of the languages defines the form with which the language is expressed, for example, spoken, sung, written, etc.
 
-Record the usage type of a language by taking the most suitable value from a controlled list. A suggested list, which is open and not exhaustive, can be found in [D.6 Manifestation Language Usage Types]().
+Record the usage type of a language by taking the most suitable value from a controlled list. A suggested list, which is open and not exhaustive, can be found in [D.6 Manifestation Language Usage Types](#manual-D.6).
 
 If usage type(s) cannot be determined, indicate a value of “unknown”.
 

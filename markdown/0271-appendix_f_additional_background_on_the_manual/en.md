@@ -6,9 +6,9 @@ Having completed this background work, the Commission turned, in 1980, to the ne
 
 The resulting manual divided archival moving image cataloguing information into seven areas of description along the lines of ISBD (NBM), but with some differences in the areas of description and their order to address the particular needs of moving image materials.
 
-In 2004, the Commission recognised the need to revise and update a manual conceived for a non-computerized and “analogue” world. It designed and disseminated the Survey of Moving Image Cataloguing Practice in Film Archives (2005-2006). The survey responses revealed specific areas the community wanted revised and issues particular to moving image archives that the new approach should consider (see [Appendix F.1]() for a listing of these areas and issues).
+In 2004, the Commission recognised the need to revise and update a manual conceived for a non-computerized and “analogue” world. It designed and disseminated the Survey of Moving Image Cataloguing Practice in Film Archives (2005-2006). The survey responses revealed specific areas the community wanted revised and issues particular to moving image archives that the new approach should consider (see [Appendix F.1](#manual-F.1) for a listing of these areas and issues).
 
-In 2008, the Commission met in Paris to set goals and a plan of action for new guidelines (see [Appendix F.2]() for listing of goals).
+In 2008, the Commission met in Paris to set goals and a plan of action for new guidelines (see [Appendix F.2](#manual-F.2) for listing of goals).
 
 The authors of this revision compared the 1991 FIAF Rules with the most recent FRBR-based cataloguing documents, publications and standards related to moving images, in order to evaluate and take aspects of them into account. These documents, publications and standards included:
 

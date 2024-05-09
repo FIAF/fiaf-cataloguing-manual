@@ -12,7 +12,7 @@ The content description should be written in a style that is easy to read. It sh
   
   Donald Graham, millionaire ex-convict, plans revenge on society figure John Cabin Brand, whom he blames for the death of his daughter.
 
-A content description may also be a shotlist or listing of the contents of an aggregate Work/Variant (see [Appendix E, Aggregates]()).
+A content description may also be a shotlist or listing of the contents of an aggregate Work/Variant (see [Appendix E, Aggregates](#manual-E)).
 
   Example:[^62]
 

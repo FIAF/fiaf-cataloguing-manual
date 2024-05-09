@@ -4,7 +4,7 @@ A title that differentiates Works or Variants and which is designed for identifi
 
 An identifying title is designed to identify the entity it represents quickly and concisely to as many users as possible, including users both familiar and unfamiliar with the entity being identified. This type of title will not be necessary in all systems, such as those utilising unique identifiers (e.g., ISAN or EIDR), or those that index other distinguishing elements in separate fields that will display with the title in search results, e.g., Year of reference. In those cases the Identifying and Preferred title will often be one and the same.
 
-Where separate fields do not exist, create an identifying title using the preferred title of the Work/Variant as the starting point (if no title, see [A.2.5.1 Partially Supplied/Devised Titles]()).[^134]
+Where separate fields do not exist, create an identifying title using the preferred title of the Work/Variant as the starting point (if no title, see [A.2.5.1 Partially Supplied/Devised Titles](#manual-A.2.5.1)).[^134]
 
 Add whatever additions to the title are necessary to identify the Work/Variant and distinguish it from other Works/Variants with the same title.[^135] These types of additions are traditionally made within the title field itself (in parentheses or brackets) although other punctuation separators, e.g. full stop may also be used. Use multiple additions where necessary. If multiple additions must be made to the title field in order to identify the Work/Variant, distinguish each addition (e.g., through the use of punctuation such as space colon space, or space full stop space).
 

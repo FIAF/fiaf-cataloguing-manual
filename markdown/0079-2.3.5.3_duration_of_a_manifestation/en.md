@@ -6,7 +6,7 @@ The actual duration is usually considered a characteristic of a singular moving 
 
 Record, in Arabic numerals, the total duration/running time in minutes, normally rounded off to the nearest minute. Optionally, include minutes and seconds, or, for a higher level of precision and to enable calculations, use the format HH:MM:SS. This numeric format will help to calculate estimated digital storage in analogue-to-digital transfer projects.
 
-If the duration/running time of a Manifestation is uncertain, use a question mark following the unit count or, if the system allows, use the qualifier “Duration Precision” and add the term “approximate.” (see [2.3.5.3.4 Duration Precision]())
+If the duration/running time of a Manifestation is uncertain, use a question mark following the unit count or, if the system allows, use the qualifier “Duration Precision” and add the term “approximate.” (see [2.3.5.3.4 Duration Precision](#manual-2.3.5.3.4))
 
 In a note, give an explanation for the estimated duration/running time, if such information applies. [^101]
 

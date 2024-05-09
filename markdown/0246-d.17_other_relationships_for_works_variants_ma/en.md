@@ -6,9 +6,9 @@
 | --- | --- |
 | “Is based on” | Adaptation from novels, plays, etc. |
 | “Is a performance of” | Recording of live stage presentations of music, plays, dance, etc. |
-| “Contains” | Compilation, series/serial, (see [Appendix E, Aggregates]()). |
-| “Is Contained in”/ “is part of” | Episode, number, part, extra (see [Appendix E, Aggregates]()). |
-| “Has a sequential relationship with” | Sequel, prequel, serial/series (see [Appendix E, Aggregates]()). |
+| “Contains” | Compilation, series/serial, (see [Appendix E, Aggregates](#manual-E)). |
+| “Is Contained in”/ “is part of” | Episode, number, part, extra (see [Appendix E, Aggregates](#manual-E)). |
+| “Has a sequential relationship with” | Sequel, prequel, serial/series (see [Appendix E, Aggregates](#manual-E)). |
 | “Has a relationship to promotional material ” | Trailer, promo, banner, press-kit, poster, etc. |
 | “Has a relationship to an “object” (a non-moving image resource)” | Book, photos, drawings, paintings, etc. |
 | “Has a relationship to an archival document” |Script, production papers, author/agent personal papers, etc. |

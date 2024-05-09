@@ -1,10 +1,10 @@
 # 1.3.2 Title<a name="manual-1.3.2"/>
 
-Record at least one title, identifying phrase, or name for the moving image Work or Variant. If your institution is applying the use of “Type” qualifiers, use “Title Type” to state the function of a particular title. (see [1.3.2.1 Title Type]() and [Appendix A, Titles and Title Types]()).
+Record at least one title, identifying phrase, or name for the moving image Work or Variant. If your institution is applying the use of “Type” qualifiers, use “Title Type” to state the function of a particular title. (see [1.3.2.1 Title Type](#manual-1.3.2.1) and [Appendix A, Titles and Title Types](#manual-A)).
 
-Ideally, the record should at a minimum contain the “preferred title” (also referred to as “main” or “original” title) of the Work or Variant. Generally, it is the title of a moving image Work or Variant when first released, broadcast, published or transmitted (i.e. mounted online) in the country or countries of origin. It may differ from the title found on a particular manifestation of the Work or Variant; the actual title on the Manifestation is noted in the Manifestation Title element (see [2.3.2 Title]()). See [A.2.0 Preferred]() for additional information.
+Ideally, the record should at a minimum contain the “preferred title” (also referred to as “main” or “original” title) of the Work or Variant. Generally, it is the title of a moving image Work or Variant when first released, broadcast, published or transmitted (i.e. mounted online) in the country or countries of origin. It may differ from the title found on a particular manifestation of the Work or Variant; the actual title on the Manifestation is noted in the Manifestation Title element (see [2.3.2 Title](#manual-2.3.2)). See [A.2.0 Preferred](#manual-A.2) for additional information.
 
-For creating titles for untitled or unidentified entities see [A.2.5 Supplied/Devised Titles]().Television programmes and other types of content that are part of a series/serial should have both the series/serial title and the episode title included in the Work record. This may be via use of a “Title type” qualifier. See [A.2.6 Titles of series/serials]() for other options
+For creating titles for untitled or unidentified entities see [A.2.5 Supplied/Devised Titles](#manual-A.2.5).Television programmes and other types of content that are part of a series/serial should have both the series/serial title and the episode title included in the Work record. This may be via use of a “Title type” qualifier. See [A.2.6 Titles of series/serials](#manual-A.2.6) for other options
 
     Examples:
     
@@ -32,13 +32,13 @@ La prospettiva – Alternative title (Working title)[^48]
     Mary Tyler Moore show – Series title
     Chuckles bites the dust – Preferred title
 
-See [Appendix A.1 Title]() for fuller titling details and information.
+See [Appendix A.1 Title](#manual-A.1) for fuller titling details and information.
 
-See [Appendix E.4]() for titling of Aggregates (e.g., compilations).
+See [Appendix E.4](#manual-E.4) for titling of Aggregates (e.g., compilations).
 
-For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see [Chapter 0. Preliminary Notes]().
+For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see [Chapter 0. Preliminary Notes](#manual-0.0).
 
-For sources of information for the Title, see [0.3 Sources of Information]()
+For sources of information for the Title, see [0.3 Sources of Information](#manual-0.3)
 
 [^47]: http://en.wikipedia.org/wiki/The_Scarlet_Flower_(1952_film)
 [^48]: La passeggiata is a film based on the short story Nevsky Prospect (Russian: Невский Проспект, Italian: La prospettiva Nevskij by Nikolai Gogol’).

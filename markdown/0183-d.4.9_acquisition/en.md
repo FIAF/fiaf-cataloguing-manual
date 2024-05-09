@@ -18,7 +18,7 @@ An Acquisition Event information consists of the following sub-elements:
 
 - Acquisition type
 
-Describes the means by which the Item was acquired, for example, donation, exchange, loan, etc. Select from a controlled list of terms. See, [D.15 Manifestation/Item Acquisition, Accessioning and Source]().
+Describes the means by which the Item was acquired, for example, donation, exchange, loan, etc. Select from a controlled list of terms. See, [D.15 Manifestation/Item Acquisition, Accessioning and Source](#manual-D.15).
 
 - Acquisition date
 
@@ -26,7 +26,7 @@ The date on which the Item was physically acquired. This date is distinct from a
 
 - Acquisition source
 
-The name of the person or organisation from which the Item was obtained, indicating whether the acquisition was direct from, for example, the donor or via an intermediary or agent. Select from a controlled list of terms. See [D.15 Manifestation/Item Acquisition, Accessioning and Source]().
+The name of the person or organisation from which the Item was obtained, indicating whether the acquisition was direct from, for example, the donor or via an intermediary or agent. Select from a controlled list of terms. See [D.15 Manifestation/Item Acquisition, Accessioning and Source](#manual-D.15).
 
 - Accession date
 

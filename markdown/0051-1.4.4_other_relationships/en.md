@@ -1,6 +1,6 @@
 # 1.4.4 Other relationships[^81]<a name="manual-1.4.4"/>
 
-If desired or appropriate, express relationships that are not covered by the Agent, Subject, and Event relationships, including all kinds of aggregation and re-use of Works and their Variants. (See [Appendix E, Aggregates]().)
+If desired or appropriate, express relationships that are not covered by the Agent, Subject, and Event relationships, including all kinds of aggregation and re-use of Works and their Variants. (See [Appendix E, Aggregates](#manual-E).)
 
 Commonly-occurring relationships include:[^82]
 
@@ -44,7 +44,7 @@ Commonly-occurring relationships include:[^82]
 
   The wicked lady (United Kingdom, 1945, Leslie Arliss), costume
 
-Record one or more “Other” relationship type terms to express the nature of the relationship to the Work/Variant, choosing the most specific term possible from a controlled list of values , for example, “based on,” “contained in,” etc. . A suggested list, which is open and not exhaustive, can be found in [Appendix D.17.1 Work/Variant Other Relationship Types]().
+Record one or more “Other” relationship type terms to express the nature of the relationship to the Work/Variant, choosing the most specific term possible from a controlled list of values , for example, “based on,” “contained in,” etc. . A suggested list, which is open and not exhaustive, can be found in [Appendix D.17.1 Work/Variant Other Relationship Types](#manual-D.17.1).
 
 Or, compose a term to describe the relationship between the Work being catalogued and the related Work.
 
@@ -52,7 +52,7 @@ In a note, add any additional information concerning the relationship considered
 
 Describe or demonstrate Work-to-Work relationships through linking to the Work identifier of the related Work, through the usage of relator terms, or according to the confines of the institution’s data structure.
 
-Remember, a Work based on a pre-existing Work should be identified as a Variant of the same Work unless it has been so significantly changed as to have become a new related Work.[^83] See [1.1.1 Boundaries between Works]() and 1.1.2 [Boundaries between Works and Variants/Manifestations]() for determining when a Work should be identified as a new, but related Work and when it should be identified as a Variant of the original Work.
+Remember, a Work based on a pre-existing Work should be identified as a Variant of the same Work unless it has been so significantly changed as to have become a new related Work.[^83] See [1.1.1 Boundaries between Works](#manual-1.1.1) and [1.1.2 Boundaries between Works and Variants/Manifestations](#manual-1.1.2) for determining when a Work should be identified as a new, but related Work and when it should be identified as a Variant of the original Work.
 
 [^81]: EN 15907 8.5 HasAsSubject; YCR, 1.2.7 Relationships With Other Moving Image Works or Other Kinds of Works
 [^82]: OLAC TF, Part I, Moving Image Work Definition and Boundaries, Commonly-Occurring Relationships, p. 16.

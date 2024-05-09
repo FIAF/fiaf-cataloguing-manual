@@ -1,12 +1,12 @@
 # I.1 Example 1. Feature film in 3-level, 2-level and 1-level hierarchies<a name="manual-I.1"/>
 
-Example 1 depicts 3-level, 2-level and 1 level model hierarchies (see [0.2.1 Elements of description across Works, Variants, Manifestations, and Items]()) for the same film.
+Example 1 depicts 3-level, 2-level and 1 level model hierarchies (see [0.2.1 Elements of description across Works, Variants, Manifestations, and Items](#manual-0.2.1)) for the same film.
 
 In this first example, as an initial illustration,  the corresponding data of the core concepts has the same matching colours as used in the list below, and the core concept term is also given in italics and square brackets alongside the most equivalent field name.
 
-Fields and data in black are additional elements and data, that also mainly correspond with the wider Attributes, Elements and Relationships stipulated in  CEN EN15907 and found at [1. Moving Image Works and Variants](), [2. Moving Image Manifestations](), and [3. Moving Image Items]().
+Fields and data in black are additional elements and data, that also mainly correspond with the wider Attributes, Elements and Relationships stipulated in  CEN EN15907 and found at [1. Moving Image Works and Variants](#manual-1.0), [2. Moving Image Manifestations](#manual-2.0), and [3. Moving Image Items](#manual-3.0).
 
-Core concepts ([0.2 Core elements of description]())
+Core concepts ([0.2 Core elements of description](#manual-0.2))
 
 Title
 Series/Serial

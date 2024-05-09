@@ -10,4 +10,4 @@ For digital files, it is most important for users to immediately identify the fi
 
 For optical media, only add commercially produced media here. If the optical media is “writable” and is being used to store a digital file, put the digital file format in the general carrrier type, and the optical storage media in specific media type.
 
-Select the value from a suitable controlled list. A suggested list, which is open and not exhaustive, can be found in [D.7.2 Manifestation/Item Specific Carrier Type]().
+Select the value from a suitable controlled list. A suggested list, which is open and not exhaustive, can be found in [D.7.2 Manifestation/Item Specific Carrier Type](#manual-D.7.2).

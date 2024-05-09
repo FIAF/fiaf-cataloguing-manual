@@ -2,7 +2,7 @@
 
 # H.3.1.2 Acquisition
 
-See also [D.4.9 Acquisition]()
+See also [D.4.9 Acquisition](#manual-D.4.9)
 
 This section is drawn from BFI policies.
 

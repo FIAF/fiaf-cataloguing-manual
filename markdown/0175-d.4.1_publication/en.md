@@ -4,7 +4,7 @@ For Works/Variants, a Publication Event corresponds to the first verified releas
 
 For Manifestations, a Publication Event corresponds to a screening, broadcast or the release of the Manifestation of a Work/Variant on a physical distribution medium or online.
 
-A Publication Event may be associated with instances of Agent in the role of e.g., publisher, distributor, broadcaster[^204], etc. See [D.8 Manifestation Agent Types and D.3 Work/Variant Agent Types]().
+A Publication Event may be associated with instances of Agent in the role of e.g., publisher, distributor, broadcaster[^204], etc. See [D.8 Manifestation Agent Types](#manual-D.8) and [D.3 Work/Variant Agent Types](#manual-D.3).
 
 A Publication Event may be associated with instances of “Other” relationship(s) (e.g., promotional material of the theatrical distribution, the advertising of the home video publication, etc.).
 
@@ -18,11 +18,11 @@ Publication Event information consists of the following sub-elements:
 
 - Publication type
 
-For Works/Variants, record the type of Publication Event for Works/Variants, for example, publication, release, distribution, broadcast, online transmission. Selection should be made from a controlled list of values. See [D.10 Manifestation Publication Types]().
+For Works/Variants, record the type of Publication Event for Works/Variants, for example, publication, release, distribution, broadcast, online transmission. Selection should be made from a controlled list of values. See [D.10 Manifestation Publication Types](#manual-D.10).
 
-Record the Publication type for Manifestations, for example, “pre-release,” “theatrical distribution,” etc. Selection should be made from a controlled list of terms. See [D.10 Manifestation Publication Types]().
+Record the Publication type for Manifestations, for example, “pre-release,” “theatrical distribution,” etc. Selection should be made from a controlled list of terms. See [D.10 Manifestation Publication Types](#manual-D.10).
 
-For Manifestations, the Publication Event that originated the embodiment of a specific Work/Variant in a Manifestation, corresponds to criteria individuated to distinguish the boundaries between Manifestations. For this reason, conceptually, and also in practice, “publication type” overlaps the main definition of “Manifestation type,” as explained in [2.1 Boundaries between Manifestations]() and, as such, is already described. Institutions have the option to decide whether to repeat this information or not.
+For Manifestations, the Publication Event that originated the embodiment of a specific Work/Variant in a Manifestation, corresponds to criteria individuated to distinguish the boundaries between Manifestations. For this reason, conceptually, and also in practice, “publication type” overlaps the main definition of “Manifestation type,” as explained in [2.1 Boundaries between Manifestations](#manual-2.1) and, as such, is already described. Institutions have the option to decide whether to repeat this information or not.
 
 - Publication date
 

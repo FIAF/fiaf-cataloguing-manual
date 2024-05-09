@@ -19,7 +19,7 @@ Manufacture event information consists of the following sub-elements:
 
 - Manufacture type
 
-Record the general type of the manufacture activity performed, for example, film printing, tele-cine, video copying, etc. Selection should be made from a controlled list of terms. See [D.14 Manifestation Manufacture Types]().
+Record the general type of the manufacture activity performed, for example, film printing, tele-cine, video copying, etc. Selection should be made from a controlled list of terms. See [D.14 Manifestation Manufacture Types](#manual-D.14).
 
 - Date of Manufacture
 

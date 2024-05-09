@@ -8,7 +8,7 @@ Because responsibility for moving image materials is most often complex and high
 
 Agents may be described in two ways: as discrete index points, and/or merged into one field where the credits are listed in order of role importance or as transcribed from the Work.
 
-Optionally, record multiple instances of Agent, e.g., cast and credits, associated with aggregated Works/Variants (See [E.6 Credits (i.e. Agents) for Aggregates]()).
+Optionally, record multiple instances of Agent, e.g., cast and credits, associated with aggregated Works/Variants (See [E.6 Credits (i.e. Agents) for Aggregates](#manual-E.6)).
 
 For recording the attributes of Agents (e.g. first name, last name, nationality, etc.), refer to authoritative sources such as AACR2, applicable RDA chapters for recording attributes of Persons, Families, and Corporate Bodies or tools such as the Virtual International Authority File (VIAF) (viaf.org), Library of Congress Name Authority File (authorities.loc.gov), Library of Congress Linked Data Service (id.loc.gov), Getty Union List of Artists Names (ULAN), International Standard Name Identifier (ISNI).
 

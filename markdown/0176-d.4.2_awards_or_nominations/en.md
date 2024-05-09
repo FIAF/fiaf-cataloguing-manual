@@ -2,7 +2,7 @@
 
 The bestowal of an award relating to the Work/Variant or Manifestation. This excludes awards for Agents alone (e.g. “for lifetime achievement”), but includes awards for individual achievements within the context of a Work or Variant (e.g. “Best screenplay”). Awards will usually be associated at the level of the Work, except for cases where features of a particular Variant are explicitly mentioned (e.g. “Best audio commentary for the visually impaired”) or the award relates to a particular Manifestation (such as a DVD edition).
 
-An Award(s) or Nomination(s) Event may be associated with instances of Agent in the role of e.g. publisher, distributor, broadcaster[^206], etc. See [D.8 Manifestation Agent Types]() and [D.3 Work/Variant Agent Types](). If the award was given for the achievement of a specific Agent within the context of the Work/Variant or Manifestation, identify the Agent. Also used to identify Agents that have sponsored the award.
+An Award(s) or Nomination(s) Event may be associated with instances of Agent in the role of e.g. publisher, distributor, broadcaster[^206], etc. See [D.8 Manifestation Agent Types](#manual-D.8) and [D.3 Work/Variant Agent Types](#manual-D.3). If the award was given for the achievement of a specific Agent within the context of the Work/Variant or Manifestation, identify the Agent. Also used to identify Agents that have sponsored the award.
 
 An Award(s) or Nomination(s) Event may be associated with instances of other Events during which award winners were selected (e.g. film festival).
 

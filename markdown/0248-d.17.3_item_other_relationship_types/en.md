@@ -3,8 +3,8 @@
 | Item Other Relationship Types | Term list |
 | --- | --- |
 | “Has a relationship to another Item” | |
-| “Contains” | Compilation (unintentional – mere use of the same carrier: see [Appendix E, Aggregates]()) |
-| “Is Contained in”/ “is part of” | Episode, number, part, etc. included in an unintentional/convenient compilation (see [Appendix E, Aggregates]()). |
+| “Contains” | Compilation (unintentional – mere use of the same carrier: see [Appendix E, Aggregates](#manual-E)) |
+| “Is Contained in”/ “is part of” | Episode, number, part, etc. included in an unintentional/convenient compilation (see [Appendix E, Aggregates](#manual-E)). |
 | “Associated separation negative” | Different colour elements held on separate Items whereby each Item would be needed to create a whole new print of the moving image, e.g. Yellow, Cyan and Magenta Separation Negatives, each of which have to be combined in Technicolor Three Colour Strip Process to make a new colour print. |
 | “Associated Sound/Associated image” | Where sound and image components are held on separate Item, and would both be needed to create a whole new print e.g. On DPX and Wav, 35mm Mute Pos and Magnetic track |
 | “Preservation clone of/Has preservation clone” | Reflecting association of 2 identical master digital copies, as per best practice for digital collections |

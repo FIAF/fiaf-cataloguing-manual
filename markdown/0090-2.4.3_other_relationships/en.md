@@ -1,6 +1,6 @@
 # 2.4.3 “Other” relationships<a name="manual-2.4.3"/>
 
-Expresses relationships that are not covered by the Agent and Event relationships. Aggregation relationships are expressed at the Work/Variant level (see [Appendix E, Aggregates]()).
+Expresses relationships that are not covered by the Agent and Event relationships. Aggregation relationships are expressed at the Work/Variant level (see [Appendix E, Aggregates](#manual-E)).
 
 Commonly-occurring relationships include:
 
@@ -28,7 +28,7 @@ Commonly-occurring relationships include:
   Othello, Orson Welles, USA- Italy-Morocco-France, 1952 and Otello, dailies and rushes, positive silent and some with sound, 35mm, containing shots included in only a very limited extent in the first theatrical release (their title proper in Italian is: Otello).
 
 Record one or more “Other” relationship type to express the nature of the relationship to the Manifestation, choosing the most specific term possible from existing relator terms lists, for example, “commentary on,” “review of,” etc. Selection should be made
-from a controlled list of values. A suggested list, which is open and not exhaustive, can be found in [Appendix D.17.2 Manifestation Other Relationship Types]().
+from a controlled list of values. A suggested list, which is open and not exhaustive, can be found in [Appendix D.17.2 Manifestation Other Relationship Types](#manual-D.17.2).
 
 Or, compose a term to describe the relationship between the Manifestation being catalogued and the related Manifestation.
 

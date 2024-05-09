@@ -37,10 +37,10 @@ It is possible for a moving image Item to have a horizontal relationship with an
 
   Shots of 1932 (United Kingdom, 1932) (home movie) 9.5mm Safety film Item related to paper donor agreement
 
-Record one or more “Other” relationship type terms to express the nature of the relationship to the Item, choosing the most specific term possible from existing relator terms lists, for example, “accompanied by,” “contained in,” etc. Selection should be made from a controlled list of values. A suggested list, which is open and not exhaustive, can be found in [D.17.3 Item Other Relationship Types]().
+Record one or more “Other” relationship type terms to express the nature of the relationship to the Item, choosing the most specific term possible from existing relator terms lists, for example, “accompanied by,” “contained in,” etc. Selection should be made from a controlled list of values. A suggested list, which is open and not exhaustive, can be found in [D.17.3 Item Other Relationship Types](#manual-D.17.3).
 
 In a note, add any additional information concerning the relationship considered relevant.
 
 If the cataloguing system allows, attach a digital file that reproduces any associated “document”.
 
-[^125]: See Appendix [E.2 Identifying Aggregates]()
+[^125]: See Appendix [E.2 Identifying Aggregates](#manual-E.2)

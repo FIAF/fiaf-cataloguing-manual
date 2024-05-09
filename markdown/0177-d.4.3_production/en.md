@@ -4,7 +4,7 @@ A distinct event in the course of production of a Work or Variant, including the
 
 May include year/date of shooting of non-professional, actuality or unedited footage.
 
-A Production Event may be associated with instances of Agent in the role of e.g. production company, location scout, etc. Selection should be made from a controlled list of values. See [D.8 Manifestation Agent Types]() and [D.3 Work/Variant Agent Types]().
+A Production Event may be associated with instances of Agent in the role of e.g. production company, location scout, etc. Selection should be made from a controlled list of values. See [D.8 Manifestation Agent Types](#manual-D.8) and [D.3 Work/Variant Agent Types](#manual-D.3).
 
 Record all the existing relationships of a Publication Event, if the information is known and considered of relevance.
 
@@ -18,7 +18,7 @@ Production Event information consists of the following sub-elements:
 
 - Production Event type
 
-Selection should be made from a controlled list of values. See [D.11 Production Event Types]().
+Selection should be made from a controlled list of values. See [D.11 Production Event Types](#manual-D.11).
 
 - Location
 

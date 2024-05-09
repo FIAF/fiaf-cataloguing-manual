@@ -17,7 +17,7 @@ Where ascertainable, when the content being described consists of one specific f
 
 Optionally (or additionally), establish a link with the form index adopted by the archive.
 
-Institutions should rely upon in-house lists of standardised form terms, or utilise established standardised lists such as Library of Congress Genre/Form Terms for Library and Archival Materials (LCGFT), or rely upon the list provided in [D.18 List of form terms for Supplied/Devised titles]().
+Institutions should rely upon in-house lists of standardised form terms, or utilise established standardised lists such as Library of Congress Genre/Form Terms for Library and Archival Materials (LCGFT), or rely upon the list provided in [D.18 List of form terms for Supplied/Devised titles](#manual-D.18).
 
   EXAMPLES:
 
@@ -95,7 +95,7 @@ For unidentified moving images, use the term “unidentified” in the title. Us
   Travelogue. Greenland expedition. Unidentified excerpts
   Unidentified television series. Quiz show. Unidentified episodes
 
-For a more comprehensive list of form terms to use with for FULLY or PARTIALLY Supplied/Devised titles, see [D.18 List of form terms for Supplied/Devised titles]().
+For a more comprehensive list of form terms to use with for FULLY or PARTIALLY Supplied/Devised titles, see [D.18 List of form terms for Supplied/Devised titles](#manual-D.18).
 
 [^163]: Adapted from DACS, 2.3.18, pp. 20-21.
 [^164]: Adapted from DACS, 2.3.18, pp. 20-21.

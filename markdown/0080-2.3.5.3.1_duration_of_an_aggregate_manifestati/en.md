@@ -8,4 +8,4 @@ DVD “The Audrey Hepburn Collection” contains 3 films, all with extra feature
 
 The total running time of these may be added as duration, with an additional clarifying note detailing the running times of the individual units.
 
-For more information about Aggregates see [Appendix E, Aggregates]().
+For more information about Aggregates see [Appendix E, Aggregates](#manual-E).

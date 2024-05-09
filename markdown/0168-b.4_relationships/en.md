@@ -24,7 +24,7 @@ Record details on the manufacturer (i.e. laboratory, studio, etc….), place of 
 
 **“Other relationships”**
 
-Record any additional information concerning all those relationships that are not covered by the Agent and Event relationships, the so-called “Other relationships” (see [D.17 Other Relationships for Works, Variants, Manifestations, Items]()).
+Record any additional information concerning all those relationships that are not covered by the Agent and Event relationships, the so-called “Other relationships” (see [D.17 Other Relationships for Works, Variants, Manifestations, Items](#manual-D.17)).
 
 [^194]: Based on RDA 2.20.3 Note on Statement of Responsibility
 [^195]: Based on RDA 2.20.6 Note on Production Statement

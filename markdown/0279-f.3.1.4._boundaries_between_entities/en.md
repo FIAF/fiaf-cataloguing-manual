@@ -6,7 +6,7 @@ It remains essential to users of archival moving image material that information
 
 In moving image archives, both the occurrence of a change in the content and the extent of the change are important. In most cases, for moving image materials, the changes in content are a function of some form of editing.
 
-The treatment of the concepts of “versions with major changes” and “variations with minor changes” in this revision shift to a focus on changes in content and changes to carrier and correlate to the boundaries between the variants (changes in content) of a work and its manifestations (changes in carrier). This does not replace the need to create a version with major changes as a new Work where this is necessary and appropriate [1.1.2 Boundaries between Works and Variants/Manifestations]().
+The treatment of the concepts of “versions with major changes” and “variations with minor changes” in this revision shift to a focus on changes in content and changes to carrier and correlate to the boundaries between the variants (changes in content) of a work and its manifestations (changes in carrier). This does not replace the need to create a version with major changes as a new Work where this is necessary and appropriate [1.1.2 Boundaries between Works and Variants/Manifestations](#manual-1.1.2).
 
 [^239]: FIAF, 1991, p. xii
 [^240]: FIAF, 1991, p. xii

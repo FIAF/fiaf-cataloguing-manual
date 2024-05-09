@@ -45,7 +45,7 @@ Manifestation)
 The Thick of It. Episode 2
 (VHS Cassette Item)
 
-Alternatively, a model similar to [E.5.1.2 Model: Collection Aggregate Manifestation within many-to-many Works/Variants-Manifestation]() can be used, whereby a single Aggregate Manifestation links to the many individual Works/Variants in “part of” relationship:
+Alternatively, a model similar to [E.5.1.2 Model: Collection Aggregate Manifestation within many-to-many Works/Variants-Manifestation](#manual-E.5.1.2) can be used, whereby a single Aggregate Manifestation links to the many individual Works/Variants in “part of” relationship:
 
 ER (Work – Serial)
 
@@ -94,7 +94,7 @@ ER. Going Home
 (TV transmission Manifestation)
 29/09/1994
 
-For how this might be modelled in a flat or single hierarchy system see [I.7 Example 7. Aggregate DVD Television Serial and Episode records in 1-level Hierarchy Models]()
+For how this might be modelled in a flat or single hierarchy system see [I.7 Example 7. Aggregate DVD Television Serial and Episode records in 1-level Hierarchy Models](#manual-I.7)
 
 It is also possible for particular individual episodes from different moving image series/serials to be taken and formed together into a Collection or Augmentation Aggregate, in which case they would then follow the same pattern of structure as any other such aggregate, i.e. with an aggregate Manifestation and aggregating Work record, and associative relationship links to any existing individual Work/Variant episode records.
 

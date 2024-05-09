@@ -14,7 +14,7 @@ Parallel title).[^150]
 
 - Transliterated title: A title given to designate the Manifestation in
 the alphabet of the institution, following international standards of
-transliteration, such as [ISO 9]() (not to be confused with the Parallel title).[^151]
+transliteration, such as [ISO 9](https://www.iso.org/standard/3589.html) (not to be confused with the Parallel title).[^151]
 
 - Corrected title: A title given in the corrected form by the institution, when it
 is recorded incorrectly in the sources of information, if it is considered to be
@@ -43,7 +43,7 @@ important (either for identification or for access).[^152]
   Mary Tyler Moore show = Series/Serial Title
   Chuckles bites the dust = Preferred Title
 
-  (see [1.3.2 Title]())
+  (see [1.3.2 Title](#manual-1.3.2))
 
 - Parallel title : the title in another language or script.
 

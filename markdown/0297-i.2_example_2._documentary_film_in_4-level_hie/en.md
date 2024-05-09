@@ -2,7 +2,7 @@
 
 In this second example,  the corresponding data of the core concepts also has the same illustrative matching colours as used in the Core Elements list in Example 1 (see below), and there are also links to the relevant sections of the manual relating to those elements.
 
-Core concepts ([0.2 Core elements of description]())
+Core concepts ([0.2 Core elements of description](#manual-0.2))
 
 Title
 Series/Serial

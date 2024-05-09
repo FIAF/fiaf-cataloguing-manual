@@ -10,7 +10,7 @@ For digital Manifestations, there can be two extents: one for the number of file
     A theatrical print: in 6 reels
     A hard-disk stored film in 3 files
 
-Record the number of the logical units of a Manifestation in Arabic numerals, and, if necessary, specify the type of unit, for example, reel, roll, disc, file, etc. Selection should be made from a controlled list of terms. A suggested list, which is open and not exhaustive, can be found in [D.7.6 Manifestation Unit Types]().
+Record the number of the logical units of a Manifestation in Arabic numerals, and, if necessary, specify the type of unit, for example, reel, roll, disc, file, etc. Selection should be made from a controlled list of terms. A suggested list, which is open and not exhaustive, can be found in [D.7.6 Manifestation Unit Types](#manual-D.7.6).
 
 If the number of the logical units of a Manifestation is uncertain, use a question mark following the unit count[^97] or record the uncertain number preceded by “approximately.”[^98]
 
