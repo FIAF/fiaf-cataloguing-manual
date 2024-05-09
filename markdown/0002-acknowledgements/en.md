@@ -16,6 +16,12 @@ A very special thank you is owed to Nancy Goldman, who managed numerous steps of
 
 Lastly, we are indebted to Linda Tadic, who did a superb job of editing the manual and offered us the wisdom of her expertise, especially in the realm of digital media; and also to designer Lara Denil for all her hard work in improving and transforming the final layout of the manual for publication.
 
-Natasha Fairbairn (Co-author)
-Maria Assunta Pimpinelli (Co-author ; co-Chair, FIAF Rules Revision)
+Natasha Fairbairn (Co-author)     
+Maria Assunta Pimpinelli (Co-author ; co-Chair, FIAF Rules Revision)     
 Thelma Ross (Co-author ; co-Chair, FIAF Rules Revision)
+
+\newpage
+
+\tableofcontents
+
+\newpage

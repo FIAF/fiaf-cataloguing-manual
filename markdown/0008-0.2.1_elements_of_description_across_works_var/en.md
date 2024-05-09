@@ -279,137 +279,23 @@ servation recommendations: urgent transfer required, relocate to sub-zero, etc
 
 
 
-Work/Manifestation/Item. Properties expressed in one record, with abstracts, con-
-textual and object data stored in a single level hierarchy
-Distribution of the elements of description according to the four entities order
+**Work/Manifestation/Item. Properties expressed in one record, with abstracts, contextual and object data stored in a single level hierarchy Distribution of the elements of description according to the four entities order**
 
-Properties
+| Properties | (Work) | (Manifestation) | (Item) |
+| -- | -- | -- | -- |
+| Titles | Uniform, Preferred, Other Title information, Alternative, Supplied/Devised | Title proper | Title proper |
+| Part | Monographic, Analytic, Serial, Collection | | |
+| Content | Categories: fiction/non fiction; genre, synopsis, subject, etc. | | |
+| Dates/Events | Creation, Production, Censorship, Copyright | Release, manufacture, transmission, distribution, etc. | Object creation, acquisition, accession, de-accession, loan, transport, etc. |
+| Agents | Cast, credits, rights holders, creator, etc. | Distributor, broadcaster, publisher | Donor, Archive/archivist, technician, restorer, etc. |
+| Rights context | Copyright holder and date | Platforms, territories, dates. Agents (distributors, license holder) | Transfer of ownership |
+| Event types | Awards Censorship Production IPR registration | Pre-release, theatrical, non-theatrical, transmission, home viewing, internet, not for release, censorship etc. | Acquisition Reproductions Disposal |
+| Format general | | 35mm film, digital cinema, blu ray, etc. | |
+| Format specific | | | 16mm film pos, 35mm lavender separation, ProRes422 HQ, etc. |
+| Condition report | | | Pristine, not for projection, heavy scratches, etc. |
+| Storage location | | | Home location, current location, previous location || 
+| Conservation recommendations | | | Urgent transfer required, relocate sub-zero, etc. |
 
-(Work)
 
-(Manifestation)
-
-(Item)
-
-Title proper
-
-Title proper
-
-Titles
-
-Part
-
-Content
-
-Uniform, Pre-
-ferred, Other Ti-
-tle information,
-Alternative, Sup-
-plied/Devised
-
-Monographic,
-Analytic, Serial,
-Collection
-
-Categories: fic-
-tion/non fiction;
-genre, synopsis,
-subject, etc.
-
-Dates/Events Creation, Pro-
-
-Agents
-
-duction, Censor-
-ship, Copyright
-
-Cast, credits,
-rights holders,
-creator, etc.
-
-Release, manufac-
-ture, transmission,
-distribution, etc.
-
-Object creation, acquisition,
-accession, de-accession, loan,
-transport, etc.
-
-Distributor, broad-
-caster, publisher
-
-Donor, Archive/archivist, tech-
-nician, restorer, etc.
-
-Rights con-
-text
-
-Copyright holder
-and date
-
-Platforms, territo-
-ries, dates
-
-Transfer of ownership
-
-Event types
-
-Awards
-
-Censorship
-
-Production
-
-IPR registration
-
-Format gen-
-eral
-
-Format spe-
-cific
-
-Condition
-report
-
-Storage lo-
-cation
-
-Conservation
-recommen-
-dations
-
-Acquisition
-
-Reproductions
-
-Disposal
-
-Agents (distribu-
-tors, license holder)
-
-Pre-release, theat-
-rical, non-theatri-
-cal, transmission,
-home viewing,
-internet, not for
-release, censor-
-ship etc.
-
-35mm film, digital
-cinema, blu ray,
-etc.
-
-16mm film pos, 35mm laven-
-der separation, ProRes422 HQ,
-etc.
-
-Pristine, not for projection,
-heavy scratches, etc.
-
-Home location, current loca-
-tion, previous location
-
-Urgent transfer required, relo-
-cate sub-zero, etc.
 
 

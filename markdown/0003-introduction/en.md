@@ -1,6 +1,6 @@
 # Introduction {#manual-introduction}
 
-The archival moving image field has changed dramatically in recent years, with technological advances revolutionising cataloguing, preservation, and access practices. To help cataloguers and archivists respond to these changes, FIAF presents the FIAF Moving Image Cataloguing Manual (FIAF Manual), a revision of the 1991 FIAF Cataloguing Rules for Film Archives (FIAF Rules). These new guidelines, created by the FIAF Cataloguing and Documentation Commission and the FIAF Cataloguing Rules Revision Working Group, will help cataloguers create cataloguing or metadata records that will meet requirements of new database technologies and new metadata standards while remaining compatible
+The archival moving image field has changed dramatically in recent years, with technological advances revolutionising cataloguing, preservation, and access practices. To help cataloguers and archivists respond to these changes, FIAF presents the _FIAF Moving Image Cataloguing Manual (FIAF Manual)_, a revision of the 1991 *FIAF Cataloguing Rules for Film Archives (FIAF Rules)*. These new guidelines, created by the FIAF Cataloguing and Documentation Commission and the FIAF Cataloguing Rules Revision Working Group, will help cataloguers create cataloguing or metadata records that will meet requirements of new database technologies and new metadata standards while remaining compatible
 with older methods and standards.
 
 The Manual offers primarily descriptive cataloguing rules rather than a schema of data elements. However, it is difficult to discuss rules without mentioning data elements where the rules would be applied (e.g., Title, Date, etc.). Thus, the Manual by default provides both a metadata structure (fields or elements) and rules in how to input the values the fields contain. It reflects current and recommended cataloguing practices at international film archives represented on the Commission with the goal of interoperability with related cataloguing and metadata standards.
@@ -25,7 +25,7 @@ For further information about the relationship of this set of guidelines to FRBR
 
 While these guidelines are intended to be applicable to all forms of moving image materials, archives with extensive broadcasting collections may wish to look to broadcasting-specific metadata schemas such as EBUCore[^6] and PBCore[^7] for additional guidance. 
 
-**FRBR-based CEN Terms in Brief**
+<u>**FRBR-based CEN Terms in Brief**</u>
 
 These guidelines use the terminology of CEN Cinematographic Works Standards for terms reflecting the core structuring of moving image records - namely Work, Variant, Manifestation and Item. It is worthwhile providing brief definitions for preliminary guidance here (whilst FRBR is discussed in more depth in [Appendix F.3 Relationship of FIAF Cataloguing Rules to Functional Requirements of Bibliographic Records](#manual-F.3))
 
@@ -45,11 +45,13 @@ The embodiment of a moving image Work/Variant. Manifestations include all analog
 
 The physical product of a Manifestation of a Work or Variant, i.e. the physical copy of a Work or Variant. An Item may consist of one or more components, i.e. the whole Item may consist of 1 reel or 5 reels, 2 VHS tapes or 1 DVD. An Item record may contain fields or scope for separate barcodes and condition information for each component of the item (each reel for example) if required.The Item may be whole or incomplete or a fragment. In the case of purely digital media, an Item is defined as the availability of the computer file, irrespective of the number of backup copies that may exist.[^8]
 
+\newpage
+
 [^1]: FIAF, 1991, p. ix.
 [^2]: Adapted from AMIM2, p.1.
-[^3]: The other two conceptual models are FRAD (Functional Requirements for Authority Data), http://www.ifla.org/node/7923 and FRSAD Functional Requirements for Subject Authority Data, http://www.ifla.org/node/1297.
+[^3]: The other two conceptual models are FRAD (Functional Requirements for Authority Data), [http://www.ifla.org/node/7923](http://www.ifla.org/node/7923) and FRSAD Functional Requirements for Subject Authority Data, [http://www.ifla.org/node/1297](http://www.ifla.org/node/1297).
 [^4]: FRBR Final Reports, p. 3.
 [^5]: RDA 0.0 and 0.1, p. 0-1.
-[^6]: https://tech.ebu.ch/MetadataEbuCore
-[^7]: http://pbcore.org/
-[^8]: Taken from EN15907. Item – Definition from the standard. http://filmstandards.org/fsc/index.php/EN_15907_Item
+[^6]: [https://tech.ebu.ch/MetadataEbuCore](https://tech.ebu.ch/MetadataEbuCore)
+[^7]: [http://pbcore.org/](http://pbcore.org/)
+[^8]: Taken from EN15907. Item – Definition from the standard. [http://filmstandards.org/fsc/index.php/EN_15907_Item](http://filmstandards.org/fsc/index.php/EN_15907_Item)
