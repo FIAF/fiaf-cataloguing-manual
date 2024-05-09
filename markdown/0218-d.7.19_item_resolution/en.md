@@ -1,4 +1,4 @@
-# D.7.19 Item Resolution {#manual-D.7.19}
+# D.7.19 Item Resolution<a name="manual-D.7.19"/>
 
 Standard Definition
 High Definition

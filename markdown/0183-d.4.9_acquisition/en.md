@@ -1,4 +1,4 @@
-# D.4.9 Acquisition {#manual-D.4.9}
+# D.4.9 Acquisition<a name="manual-D.4.9"/>
 
 The acquisition of a particular Item for an institution’s collection.
 

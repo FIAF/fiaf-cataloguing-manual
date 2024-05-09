@@ -1,4 +1,4 @@
-# Appendix A, Titles and Title Types {#manual-A}
+# Appendix A, Titles and Title Types<a name="manual-A"/>
 
 # A.1 Title
 

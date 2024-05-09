@@ -1,4 +1,4 @@
-# 1. Moving Image Works and Variants {#manual-1.0}
+# 1. Moving Image Works and Variants<a name="manual-1.0"/>
 
 1.0 Definitions
 

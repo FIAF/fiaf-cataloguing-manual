@@ -1,4 +1,4 @@
-# 1.1.1 Boundaries between Works {#manual-1.1.1}
+# 1.1.1 Boundaries between Works<a name="manual-1.1.1"/>
 
 These guidelines recognise that real world cataloguing needs and data structures necessitate practical applications of conceptual modelling. To that end, the recommendations made in this chapter about determining boundaries for Works and Variants are based on an approach that emphasizes effective, efficient and economic data creation and maintenance: information that is common to all realisations of a Work or Variant is recorded once and is comprised of the shared information that will not change (for example, title, original creation date, creator, etc.). The Work description or record contains the index terms for describing a Work in the catalogue and fulfills the functions of disambiguation (distinguishes Works containing similar or identical titles) and collocation (brings together all the materials that are related to the Work and all Variants of a given Work). Variations in information describing the Work result in Variants or Manifestations, or new Works.
 

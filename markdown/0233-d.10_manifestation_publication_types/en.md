@@ -1,4 +1,4 @@
-# D.10 Manifestation Publication Types {#manual-D.10}
+# D.10 Manifestation Publication Types<a name="manual-D.10"/>
 
 Release
 Publication

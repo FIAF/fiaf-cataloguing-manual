@@ -1,4 +1,4 @@
-# A.2.6.5 Fragments/segments of unidentified moving images (film or television programmes) {#manual-A.2.6.5}
+# A.2.6.5 Fragments/segments of unidentified moving images (film or television programmes)<a name="manual-A.2.6.5"/>
 
 Similar principles apply to any unidentified and incomplete segments or fragments of films or television programmes that have been acquired.
 

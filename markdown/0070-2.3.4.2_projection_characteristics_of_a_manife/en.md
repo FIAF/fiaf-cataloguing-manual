@@ -1,4 +1,4 @@
-# 2.3.4.2 Projection characteristics of a Manifestation {#manual-2.3.4.2}
+# 2.3.4.2 Projection characteristics of a Manifestation<a name="manual-2.3.4.2"/>
 
 The projection characteristics of a Manifestation include aspect ratio and aperture or image format.
 

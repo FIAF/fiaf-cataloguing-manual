@@ -1,4 +1,4 @@
-# A.2.5.2 Fully Supplied/Devised Titles {#manual-A.2.5.2}
+# A.2.5.2 Fully Supplied/Devised Titles<a name="manual-A.2.5.2"/>
 
 Fully supplied/devised titles are applied in cases where the moving image content from a Manifestation/Item has no formal title and a formal title cannot be established from the entity itself or accompanying documentation, or other secondary sources.
 

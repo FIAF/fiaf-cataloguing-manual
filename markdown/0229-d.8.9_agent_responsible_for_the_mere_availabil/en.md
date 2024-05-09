@@ -1,4 +1,4 @@
-# D.8.9 Agent responsible for the mere availability {#manual-D.8.9}
+# D.8.9 Agent responsible for the mere availability<a name="manual-D.8.9"/>
 
 (Optionally, this information can be specified directly at the Item level)
 

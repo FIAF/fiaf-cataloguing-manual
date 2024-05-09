@@ -1,4 +1,4 @@
-# E.3 Types of moving image Aggregates {#manual-E.3}
+# E.3 Types of moving image Aggregates<a name="manual-E.3"/>
 
 # E.3.1 Collection Aggregates
 

@@ -1,4 +1,4 @@
-# 1.4 Relationships of a Work/Variant (links/associations with other entities/records) {#manual-1.4}
+# 1.4 Relationships of a Work/Variant (links/associations with other entities/records)<a name="manual-1.4"/>
 
 A relationship associates an instance of a Work/Variant with another instance of an entity. Entities are described in subsequent sections, but examples of entities are people or companies associated with a Work/Variant (eg, studio, director, cast), events (copyright registration), subjects (other Works/Variants are about the same subject), and records.
 

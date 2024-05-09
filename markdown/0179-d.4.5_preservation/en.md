@@ -1,4 +1,4 @@
-# D.4.5 Preservation[^209] {#manual-D.4.5}
+# D.4.5 Preservation[^209]<a name="manual-D.4.5"/>
 
 A Preservation Event is associated with a new Variant, Manifestation or Items resulting from the preservation process in which the contents of one or more Items (or fragments thereof) from Manifestations of a Work were transferred with the intention of restoring or reconstructing the content as originally intended, or safeguarding it from decay.
 

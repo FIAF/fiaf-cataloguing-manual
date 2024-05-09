@@ -1,4 +1,4 @@
-# 0.5 Language and script of the description {#manual-0.5}
+# 0.5 Language and script of the description<a name="manual-0.5"/>
 
 The language of the original Work can be different from the language of a Manifestation or Item. For example, the original Work title can be in the original creation language, but the item being catalogued is a Variant with the title and key credits in a different language. Where possible, data elements in the catalogue record for the Work are recorded in the language and/or script of the original Work and may be transcribed from the Item of an original manifestation of the Work or taken from other sources.
 

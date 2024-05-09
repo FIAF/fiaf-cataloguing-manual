@@ -1,4 +1,4 @@
-# 1.4.2 Events (e.g., IPR registration, screenings, awards, etc.)[^76] {#manual-1.4.2}
+# 1.4.2 Events (e.g., IPR registration, screenings, awards, etc.)[^76]<a name="manual-1.4.2"/>
 
 An Event characterises occurrences in the lifecycle of a moving image Work or its Variants. Instances of any Event type can have Agent and “Other” relationships.
 

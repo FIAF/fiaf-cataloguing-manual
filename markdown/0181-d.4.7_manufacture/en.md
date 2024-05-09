@@ -1,4 +1,4 @@
-# D.4.7 Manufacture {#manual-D.4.7}
+# D.4.7 Manufacture<a name="manual-D.4.7"/>
 
 A Manufacture Event represents a “common” event within which the embodiment of a Manifestation occurs, owing to the instances of a number of physical items that bear the same characteristics.
 

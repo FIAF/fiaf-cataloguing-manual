@@ -1,4 +1,4 @@
-# 2.3.5.1 Logical extent of a Manifestation {#manual-2.3.5.1}
+# 2.3.5.1 Logical extent of a Manifestation<a name="manual-2.3.5.1"/>
 
 Logical extent is the number of discrete logical units which make up the Manifestation, both for analogue (e.g. reels, cassettes, discs) and digital (cassettes, discs, files), considering that the digital Manifestations may be bound to a physical carrier (such as DVD) or exist without a defined carrier (such as online streaming media, podcasts, etc.).
 

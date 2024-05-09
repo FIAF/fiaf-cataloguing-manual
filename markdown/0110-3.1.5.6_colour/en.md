@@ -1,4 +1,4 @@
-# 3.1.5.6 Colour {#manual-3.1.5.6}
+# 3.1.5.6 Colour<a name="manual-3.1.5.6"/>
 
 For full instructions, see [2.3.4.4 Colour characteristics of a Manifestation]().
 

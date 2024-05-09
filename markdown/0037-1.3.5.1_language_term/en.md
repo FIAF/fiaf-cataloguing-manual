@@ -1,4 +1,4 @@
-# 1.3.5.1 Language Term {#manual-1.3.5.1}
+# 1.3.5.1 Language Term<a name="manual-1.3.5.1"/>
 
 Record the language(s) by taking the most suitable value(s) from a controlled list of languages.
 

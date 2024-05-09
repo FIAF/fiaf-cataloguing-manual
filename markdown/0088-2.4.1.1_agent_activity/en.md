@@ -1,8 +1,8 @@
-# 2.4.1.1 Agent Activity {#manual-2.4.1.1}
+# 2.4.1.1 Agent Activity<a name="manual-2.4.1.1"/>
 
 Describes the activity of the Agent(s) to make explicit the relationship(s) between the Agent(s) and the Manifestation.
 
-Record one or more Agent activity terms, for example, “distributor,” “broadcaster,” “broadcast channel,” etc., to express the nature of the agent’s relationship to the Manifestation. Selection should be made from a controlled list of terms. A suggested list, which is open and not exhaustive, can be found in [D.8 Manifestation Agent Types](manual-D.8).
+Record one or more Agent activity terms, for example, “distributor,” “broadcaster,” “broadcast channel,” etc., to express the nature of the agent’s relationship to the Manifestation. Selection should be made from a controlled list of terms. A suggested list, which is open and not exhaustive, can be found in [D.8 Manifestation Agent Types](#manual-D.8).
 
 Choose the single most specific term in each case, if possible. If no suggested terms apply, compose a term to describe the relationship between the creator and the Manifestation being catalogued. If the relationship is ambiguous, use a value to indicate this, for example, “unknown” to indicate a person performing in a capacity that is uncertain or not covered by typical terms.[^108] Optionally, when the activity performed by an Agent is probable but not certain, provide the function name followed by a question mark.
 

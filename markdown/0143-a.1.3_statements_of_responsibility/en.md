@@ -1,4 +1,4 @@
-# A.1.3 Statements of responsibility {#manual-A.1.3}
+# A.1.3 Statements of responsibility<a name="manual-A.1.3"/>
 
 If the title on the Manifestation or Item includes a statement of responsibility, the
 name of a company, or a cast member, etc., do not include it as part of the title regardless of linguistic construction.

@@ -1,4 +1,4 @@
-# Appendix G, Elements of Description comparison {#manual-G}
+# Appendix G, Elements of Description comparison<a name="manual-G"/>
 
 1991 FIAF Cataloguing Rules (ISBD based), EN 15907 and FIAF Moving Image Cataloguing
 Manual

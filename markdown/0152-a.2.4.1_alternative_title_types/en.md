@@ -1,4 +1,4 @@
-# A.2.4.1 Alternative title types {#manual-A.2.4.1}
+# A.2.4.1 Alternative title types<a name="manual-A.2.4.1"/>
 
 - Working: A provisional title, given during the production or the manufacturing process.[^147]
 

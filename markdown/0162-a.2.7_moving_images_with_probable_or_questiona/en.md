@@ -1,4 +1,4 @@
-# A.2.7 Moving images with probable or questionable titles[^175] {#manual-A.2.7}
+# A.2.7 Moving images with probable or questionable titles[^175]<a name="manual-A.2.7"/>
 
 There are instances where the title from a Manifestation/Item may not be inherited by the Work or Variant. Such is the case when a Manifestation/Item contains a probable or questionable title.
 

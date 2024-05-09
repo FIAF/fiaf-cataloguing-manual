@@ -1,4 +1,4 @@
-# 1.3.5 Language(s) {#manual-1.3.5}
+# 1.3.5 Language(s)<a name="manual-1.3.5"/>
 
 A moving image Work is conceived and presented in a particular language or set of languages. Changes to the original language(s), as in the case of dubbing, are considered minor changes and can constitute a Variant of a moving image Work.
 

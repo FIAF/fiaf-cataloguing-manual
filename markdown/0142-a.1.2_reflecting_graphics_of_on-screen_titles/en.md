@@ -1,4 +1,4 @@
-# A.1.2 Reflecting graphics of on-screen Titles {#manual-A.1.2}
+# A.1.2 Reflecting graphics of on-screen Titles<a name="manual-A.1.2"/>
 
 For graphics reasons, many moving image titles appear on screen all in capitals (e.g. ‘ALIEN’, ‘LAWRENCE OF ARABIA’), or all in lower case (e.g. ‘archipelago’) and some are mixed (‘ORANGES and SUNSHINE’, ‘young Hearts Run Free’).
 

@@ -1,4 +1,4 @@
-# D.17 Other Relationships for Works, Variants, Manifestations, Items {#manual-D.17}
+# D.17 Other Relationships for Works, Variants, Manifestations, Items<a name="manual-D.17"/>
 
 # D.17.1 Work/Variant Other Relationship Types
 

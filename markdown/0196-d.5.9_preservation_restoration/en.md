@@ -1,4 +1,4 @@
-# D.5.9 Preservation/Restoration {#manual-D.5.9}
+# D.5.9 Preservation/Restoration<a name="manual-D.5.9"/>
 
 Refers to manifestations which represent the outcome(s) of restoration events/activities, usually involving selection and aggregation of materials from diverse source elements to replicate an ‘original’ or ‘ideal’ manifestation. Some institutions may use this to refer to restorations undertaken by the institution (not to be confused with the Variant, resulting from reconstruction made by aggregating different sources, see [1.1.2 Boundaries between Works and Variants/Manifestations]().
 

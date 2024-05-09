@@ -1,4 +1,4 @@
-# I.7 Example 7. Aggregate DVD Television Serial and Episode records in 1-level Hierarchy Models {#manual-I.7}
+# I.7 Example 7. Aggregate DVD Television Serial and Episode records in 1-level Hierarchy Models<a name="manual-I.7"/>
 
 Supernatural. The Complete Sixth Season
 Supernatural. Season 6

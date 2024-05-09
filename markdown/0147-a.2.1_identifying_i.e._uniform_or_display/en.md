@@ -1,4 +1,4 @@
-# A.2.1 Identifying (i.e. Uniform or Display)[^132] {#manual-A.2.1}
+# A.2.1 Identifying (i.e. Uniform or Display)[^132]<a name="manual-A.2.1"/>
 
 A title that differentiates Works or Variants and which is designed for identification and differentiation purposes in display, i.e. the title which displays in search results.[^133]
 

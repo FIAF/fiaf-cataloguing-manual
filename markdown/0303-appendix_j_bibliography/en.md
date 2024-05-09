@@ -1,4 +1,4 @@
-# Appendix J, Bibliography {#manual-J}
+# Appendix J, Bibliography<a name="manual-J"/>
 
 A/V Artifact Atlas [online]. Last modified on 26 October 2015 [viewed 2016-04-04]. Available from: http://avaa.bavc.org/artifactatlas/index.php/A/V_Artifact_Atlas
 

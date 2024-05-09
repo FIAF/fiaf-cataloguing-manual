@@ -1,4 +1,4 @@
-# D.8.8 Agent responsible for the archival availability {#manual-D.8.8}
+# D.8.8 Agent responsible for the archival availability<a name="manual-D.8.8"/>
 
 (Optionally, this information can be specified directly at the Item level)
 

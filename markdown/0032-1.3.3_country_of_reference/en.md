@@ -1,4 +1,4 @@
-# 1.3.3 Country of reference {#manual-1.3.3}
+# 1.3.3 Country of reference<a name="manual-1.3.3"/>
 
 Where known and applicable, record the geographic origin of the moving image Work/Variant. This should be the country or countries where the principal offices or production facilities of the production company or companies are located.[^49] Where an official national certificate or designation of a Work exists, use this as the authoritative source, e.g., Italian government department designates what is officially an Italian film.[^50] When more than one place is associated with a Work/Variant, choose the place(s) with primary importance.
 

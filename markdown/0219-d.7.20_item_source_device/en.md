@@ -1,4 +1,4 @@
-# D.7.20 Item Source Device {#manual-D.7.20}
+# D.7.20 Item Source Device<a name="manual-D.7.20"/>
 
 Examples of hardware required to play the source item.
 

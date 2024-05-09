@@ -1,4 +1,4 @@
-# 2.3.4.4 Colour characteristics of a Manifestation {#manual-2.3.4.4}
+# 2.3.4.4 Colour characteristics of a Manifestation<a name="manual-2.3.4.4"/>
 
 The presence of colour(s), tone(s), etc. in a Manifestation.[^94]
 

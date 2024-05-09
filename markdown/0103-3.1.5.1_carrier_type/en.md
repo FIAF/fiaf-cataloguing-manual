@@ -1,4 +1,4 @@
-# 3.1.5.1 Carrier Type {#manual-3.1.5.1}
+# 3.1.5.1 Carrier Type<a name="manual-3.1.5.1"/>
 
 Carrier type is the medium on or the encoding format in which the Item is fixed.
 

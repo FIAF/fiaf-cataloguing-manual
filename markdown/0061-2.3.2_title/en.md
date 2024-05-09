@@ -1,4 +1,4 @@
-# 2.3.2 Title {#manual-2.3.2}
+# 2.3.2 Title<a name="manual-2.3.2"/>
 
 Record at least one title, identifying phrase, or name for the Manifestation Title. This is a transcribed element, reflecting the actual title as it appears on screen. The original release title would be added under the Work/Variant Title field.
 

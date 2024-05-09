@@ -1,4 +1,4 @@
-# 1.4.3 Subject/Genre/Form terms {#manual-1.4.3}
+# 1.4.3 Subject/Genre/Form terms<a name="manual-1.4.3"/>
 
 Provide access to the Work by means of subjects (or subject identifiers) that describe the content of the Work (i.e., what the Work is about). Use an existing data value standard such as Library of Congress Subject Headings (LCSH).[^77] Alternatively, or additionally, use standards such as Universal Decimal Classification (UDC), Dewey Decimal Classification (DDC), or equivalent in country in which you are working, or an in-house data value standard.
 

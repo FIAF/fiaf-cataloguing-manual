@@ -1,4 +1,4 @@
-# D.8.7 Agent responsible for reproduction or transfer {#manual-D.8.7}
+# D.8.7 Agent responsible for reproduction or transfer<a name="manual-D.8.7"/>
 
 (Optionally, this information can be specified directly at the Item level)
 

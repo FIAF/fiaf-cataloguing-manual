@@ -1,4 +1,4 @@
-# E.5.2 Augmented Collection Aggregate {#manual-E.5.2}
+# E.5.2 Augmented Collection Aggregate<a name="manual-E.5.2"/>
 
 Augmented Collections can vary considerably from simple augmentations, e.g., the Work(s) plus a selection of special features such as bonus scenes and a photo gallery with some commentary; or, more complex augmentations.
 

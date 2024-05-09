@@ -1,4 +1,4 @@
-# F.3.3 User Tasks {#manual-F.3.3}
+# F.3.3 User Tasks<a name="manual-F.3.3"/>
 
 FRBR and RDA have defined and adopted the following tasks reflecting the traditional core functions of the catalogue:[^244]
 

@@ -1,4 +1,4 @@
-# 3.1.2 Title {#manual-3.1.2}
+# 3.1.2 Title<a name="manual-3.1.2"/>
 
 Record at least one title, identifying phrase, or name for the moving image Item Title.
 

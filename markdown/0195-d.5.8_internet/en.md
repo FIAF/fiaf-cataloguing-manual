@@ -1,4 +1,4 @@
-# D.5.8 Internet {#manual-D.5.8}
+# D.5.8 Internet<a name="manual-D.5.8"/>
 
 A moving image Manifestation distributed on the Internet (stream or download) for works of any type, those conceived as Internet works or those conceived in other type but subsequently distributed on the internet (for free or pay).
 

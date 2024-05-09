@@ -1,4 +1,4 @@
-# 1.0.2 Moving Image Variant (i.e., Versions) [^30] {#manual-1.0.2}
+# 1.0.2 Moving Image Variant (i.e., Versions) [^30]<a name="manual-1.0.2"/>
 
 A moving image Variant is an entity that may be used to indicate any change to content-related characteristics that do not significantly change the overall content of a Work as a whole. Such Variants can be produced by minor additions, deletions or substitutions to the content. As a general guideline, changes that would result in a different content description should be treated as a separate Work rather than a Variant.
 

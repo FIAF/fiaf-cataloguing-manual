@@ -1,4 +1,4 @@
-# Appendix E, Aggregates (Compilations, Multi-component productions) {#manual-E}
+# Appendix E, Aggregates (Compilations, Multi-component productions)<a name="manual-E"/>
 
 # E.1 Definition
 

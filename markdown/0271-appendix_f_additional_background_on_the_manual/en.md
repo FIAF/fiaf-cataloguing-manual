@@ -1,4 +1,4 @@
-# Appendix F, Additional background on the manual update {#manual-F}
+# Appendix F, Additional background on the manual update<a name="manual-F"/>
 
 When FIAF established its Cataloguing Commission in 1968 (which merged with the Documentation Commission in 1997 and is now called the Cataloguing and Documentation Commission), the new Commission set, as its first task, the creation of a compendium of advice on practical cataloguing. The result of this work was the Film Cataloguing manual (New York: Burt Franklin & Co.) published in 1979.
 
