@@ -1,4 +1,4 @@
-# 2. Moving Image Manifestations
+# 2. Moving Image Manifestations {#manual-2.}
 
 2.0 Definition
 

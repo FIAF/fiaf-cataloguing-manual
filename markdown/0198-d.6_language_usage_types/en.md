@@ -1,4 +1,4 @@
-# D.6 Language Usage Types
+# D.6 Language Usage Types {#manual-D.6}
 
   Dialogue language(s)
     Spoken language

@@ -1,4 +1,4 @@
-# A.2.6.3 Analytics/Components of identified newsreels/cinemagazines
+# A.2.6.3 Analytics/Components of identified newsreels/cinemagazines {#manual-A.2.6.3}
 
 Where a complete newsreel issue has been acquired and the newsreel series has been identified, then titling follows the same principles and guidelines above.
 

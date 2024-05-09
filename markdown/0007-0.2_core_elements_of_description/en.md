@@ -1,4 +1,4 @@
-# 0.2 Core elements of description[^9]
+# 0.2 Core elements of description[^9] {#manual-0.2}
 
 These core points of description are listed with their corresponding terms as present-
 ed in the manual. They represent an ideal minimum set of metadata for moving image

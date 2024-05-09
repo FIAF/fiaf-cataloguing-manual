@@ -1,4 +1,4 @@
-# D.4.8 Inspection
+# D.4.8 Inspection {#manual-D.4.8}
 
 The inspection of a particular Item for the purposes of assessing and recording the condition or treatment of the Item.
 

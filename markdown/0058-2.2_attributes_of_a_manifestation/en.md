@@ -1,4 +1,4 @@
-# 2.2 Attributes of a Manifestation
+# 2.2 Attributes of a Manifestation {#manual-2.2}
 
 # 2.2.1 Manifestation Type
 

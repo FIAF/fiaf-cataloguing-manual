@@ -1,4 +1,4 @@
-# H.1.1.6 Rights-protected works that may be used within, or created during, a film production
+# H.1.1.6 Rights-protected works that may be used within, or created during, a film production {#manual-H.1.1.6}
 
 These are the types of protected works which are often contained within a new moving image work, or indeed created by the making of a moving image work, and which are often referred to as ‘underlying rights’ or “third-party rights.” When establishing Manifestation rights (see below), these underlying rights must be investigated and cleared as required.
 

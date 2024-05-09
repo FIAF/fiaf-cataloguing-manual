@@ -1,4 +1,4 @@
-# Appendix H, Rights/Copyright/IPR Registration
+# Appendix H, Rights/Copyright/IPR Registration {#manual-H}
 
 # H.1 Rights in a moving image Work
 

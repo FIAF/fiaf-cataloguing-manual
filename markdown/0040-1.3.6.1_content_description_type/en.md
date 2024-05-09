@@ -1,4 +1,4 @@
-# 1.3.6.1 Content Description Type
+# 1.3.6.1 Content Description Type {#manual-1.3.6.1}
 
 Include a qualifying keyword or otherwise denote the type of summary (e.g. Synopsis, Shotlist, Review).[^64]
 

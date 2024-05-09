@@ -1,4 +1,4 @@
-# 3.1.1 Identifier
+# 3.1.1 Identifier {#manual-3.1.1}
 
 Create an unambiguous numerical or alphanumerical reference to the moving image Item, such as a call number, barcode, shelf mark or similar, to uniquely identify the copy.[^113] This may be in addition to separate Acquisition and Accession number(s) or identifier(s).
 

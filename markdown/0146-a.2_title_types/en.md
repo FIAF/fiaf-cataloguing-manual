@@ -1,4 +1,4 @@
-# A.2 Title Types
+# A.2 Title Types {#manual-A.2}
 
 This manual recommends a title + title type approach for the treatment of various titles that may be associated with any Moving Image Work, Variant, Manifestation or Item (WVMI).
 

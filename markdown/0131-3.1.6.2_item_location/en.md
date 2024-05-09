@@ -1,4 +1,4 @@
-# 3.1.6.2 Item location
+# 3.1.6.2 Item location {#manual-3.1.6.2}
 
 Item descriptions should indicate a storage location number in order to provide access and retrieval. Movements and changes of location should also be logged in order to ascertain the precise location of an Item at any given time. If possible, use the Item Identifier and Identifier Type fields to note an Item’s location (see [3.1.1 Identifier]()).
 

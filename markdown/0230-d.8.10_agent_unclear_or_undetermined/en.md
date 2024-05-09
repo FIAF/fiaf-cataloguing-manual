@@ -1,4 +1,4 @@
-# D.8.10 Agent unclear or undetermined
+# D.8.10 Agent unclear or undetermined {#manual-D.8.10}
 
 (Optionally, this information can be specified directly at the Item level)
 

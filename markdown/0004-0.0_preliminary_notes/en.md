@@ -1,4 +1,4 @@
-# 0. Preliminary Notes
+# 0. Preliminary Notes {#manual-0.0}
 
 # 0.1 Purpose, scope, and use
 

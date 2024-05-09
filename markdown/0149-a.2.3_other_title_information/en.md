@@ -1,4 +1,4 @@
-# A.2.3 Other Title information[^139]
+# A.2.3 Other Title information[^139] {#manual-A.2.3}
 
 Other Work/Variant/Manifestation/Item title (WVMI) information is defined as a word or phrase appearing in conjunction with, and subordinate to the title, and which qualifies, explains, or completes the title to which it applies or which is indicative of the character, contents, etc., of the WVMI, or the motives for, or occasion of, its production or publication.
 

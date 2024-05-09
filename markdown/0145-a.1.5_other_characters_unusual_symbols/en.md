@@ -1,4 +1,4 @@
-# A.1.5 Other characters/unusual symbols
+# A.1.5 Other characters/unusual symbols {#manual-A.1.5}
 
 Where numbers, symbols (e.g. ½, &, +, %) or other characters (e.g. £, $, °) exist as part of the title, these should appear as they are on screen.[^129]
 

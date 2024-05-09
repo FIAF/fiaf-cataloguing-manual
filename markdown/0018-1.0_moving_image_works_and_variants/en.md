@@ -1,4 +1,4 @@
-# 1. Moving Image Works and Variants
+# 1. Moving Image Works and Variants {#manual-1.0}
 
 1.0 Definitions
 

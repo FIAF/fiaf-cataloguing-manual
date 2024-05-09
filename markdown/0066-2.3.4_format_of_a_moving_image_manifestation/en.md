@@ -1,4 +1,4 @@
-# 2.3.4 Format of a moving image Manifestation
+# 2.3.4 Format of a moving image Manifestation {#manual-2.3.4}
 
 As previously mentioned, a Manifestation is defined on the basis of two criteria: changes in the publication context and changes in format. The format of a Manifestation is the description of the physical artefact or the digital file on which it is fixed. The concept of format as applied to Manifestations is the “ideal” representation of all the physical items or computer files that bear the same characteristics and descend from a common Work/Variant, regardless of what is actually held in a collection.
 

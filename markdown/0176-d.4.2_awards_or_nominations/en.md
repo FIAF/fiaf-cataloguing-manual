@@ -1,4 +1,4 @@
-# D.4.2 Award(s) or Nomination(s)[^205]
+# D.4.2 Award(s) or Nomination(s)[^205] {#manual-D.4.2}
 
 The bestowal of an award relating to the Work/Variant or Manifestation. This excludes awards for Agents alone (e.g. “for lifetime achievement”), but includes awards for individual achievements within the context of a Work or Variant (e.g. “Best screenplay”). Awards will usually be associated at the level of the Work, except for cases where features of a particular Variant are explicitly mentioned (e.g. “Best audio commentary for the visually impaired”) or the award relates to a particular Manifestation (such as a DVD edition).
 

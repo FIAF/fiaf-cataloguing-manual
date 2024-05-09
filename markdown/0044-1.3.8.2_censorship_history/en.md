@@ -1,4 +1,4 @@
-# 1.3.8.2 Censorship history
+# 1.3.8.2 Censorship history {#manual-1.3.8.2}
 
 Document information related to the censorship history of a Work/Variant, including:[^67]
 

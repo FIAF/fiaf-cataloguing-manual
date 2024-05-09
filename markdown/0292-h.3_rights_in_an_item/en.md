@@ -1,4 +1,4 @@
-# H.3 Rights in an Item
+# H.3 Rights in an Item {#manual-H.3}
 
 The rights in a moving image Item typically refer to the ownership (or transfer of ownership) of an object, either on a physical / analogue carrier such as a 35mm film print, or a digital file such as a DCP / DCDM or ProRes. The transfer of ownership (sometimes referred to in legal terms as ‘transfer of title’) is important for an archive to document, as it establishes legal ownership of the collection.
 

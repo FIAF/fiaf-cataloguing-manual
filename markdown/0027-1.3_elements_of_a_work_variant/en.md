@@ -1,4 +1,4 @@
-# 1.3 Elements of a Work/Variant
+# 1.3 Elements of a Work/Variant {#manual-1.3}
 
 This section describes the metadata elements that can be used to describe a Work/Variant. It is up to each institution to choose which elements are most applicable to describe their collections and according to what their system can support.
 

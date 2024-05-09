@@ -1,4 +1,4 @@
-# E.2 Identifying Aggregates
+# E.2 Identifying Aggregates {#manual-E.2}
 
 # E.2.1 Aggregate or Carrier
 

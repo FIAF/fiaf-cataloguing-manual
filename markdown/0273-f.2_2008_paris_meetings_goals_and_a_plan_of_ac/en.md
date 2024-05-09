@@ -1,4 +1,4 @@
-# F.2 2008 Paris meetings goals and a plan of action
+# F.2 2008 Paris meetings goals and a plan of action {#manual-F.2}
 
 - Represent a corpus of contextualized suggestions, rather than a set of authoritative directions, so that they will easily integrate with institutions’ existing procedures.
 

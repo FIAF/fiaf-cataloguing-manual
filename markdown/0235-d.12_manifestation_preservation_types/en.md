@@ -1,4 +1,4 @@
-# D.12 Manifestation Preservation Types
+# D.12 Manifestation Preservation Types {#manual-D.12}
 
 Duplication
 Transfer

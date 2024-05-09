@@ -1,4 +1,4 @@
-# 0.4.1 Punctuation
+# 0.4.1 Punctuation {#manual-0.4.1}
 
 These guidelines do not mandate the use of any particular data presentation standard, such as ISBD punctuation. However, ISBD punctuation is recommended if punctuation guidance is desired. Please consult ISBD20 for general guidance and examples, or the FIAF Cataloguing Rules for Film Archives (1991)[^21].
 

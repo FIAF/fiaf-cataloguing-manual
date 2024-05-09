@@ -1,4 +1,4 @@
-# H.2 Rights in a Manifestation
+# H.2 Rights in a Manifestation {#manual-H.2}
 
 The rights in a Manifestation are typically licences, contracts or agreements between the Work’s copyright owner / intellectual property rights owner, and a third party, enabling that third party to exploit the work legally by copying it, distributing, broadcasting or publishing it, extracting from it, incorporating it in another work, etc.
 

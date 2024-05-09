@@ -1,4 +1,4 @@
-# F.3.1.2 Definitions of the “Work” and ”Variant” Entities
+# F.3.1.2 Definitions of the “Work” and ”Variant” Entities {#manual-F.3.1.2}
 
 The FIAF Cataloguing and Documentation Commission has chosen to model this manual on definitions of “Work” and “Variant” adopted by the European Standards Committee, rather than the FRBR and RDA definitions of “Work” and “Expression,” to make these concepts more practical for describing moving images. FRBR and RDA consider “works” and “expressions” to be abstract entities that only acquire physical characteristics at the “manifestation or “item” level. However, moving image “works” are more easily conceptualized as concrete entities. This is because a moving image work only becomes such through a complex process involving multiple contributors. This process results in a “fixed” or “expressed” object (whether analogue or digital) that typically combines a visual part (the moving image), and a textual part (the soundtrack or intertitles).[^231] Therefore, the concept of a moving image work comprises both the content and the process of realisation in a moving image medium.[^232]
 

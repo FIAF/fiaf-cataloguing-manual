@@ -1,4 +1,4 @@
-# 3.1.2.1 Title Type
+# 3.1.2.1 Title Type {#manual-3.1.2.1}
 
 Items can have more than just the title transcribed from the opening credits. There can be title information written on leader, cans, and video containers. Sometimes this information is different to what is in the credits; sometimes it is the only source of information to help identify an Item’s content.
 

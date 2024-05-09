@@ -1,4 +1,4 @@
-# E.7.1 Film/Video or TV series/serials
+# E.7.1 Film/Video or TV series/serials {#manual-E.7.1}
 
 On the surface these would seem to be aggregates as it could be argued they are made up of different components (episodes) brought together to make a “whole” (series/serial). However, it is not logical under the definitions of aggregates to structure and view TV or film/video serial/series as aggregating Works.
 

@@ -1,4 +1,4 @@
-# E.5 Modelling Aggregates
+# E.5 Modelling Aggregates {#manual-E.5}
 
 An aggregate is a Manifestation, but “the process of aggregating the Works/Variants itself is an intellectual or artistic effort and therefore meets the criteria for a Work. In the process of creating an aggregate Manifestation, an aggregating Work is produced. This effort may be relatively minor or represent a major effort resulting in an aggregate that is significantly more than a sum of its parts. . . The aggregating Work may or may not be deemed important enough to be recorded.[^226]”
 

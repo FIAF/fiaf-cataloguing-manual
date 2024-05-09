@@ -1,4 +1,4 @@
-# H.1.2 Recommended properties to capture in describing the rights context of a moving image Work
+# H.1.2 Recommended properties to capture in describing the rights context of a moving image Work {#manual-H.1.2}
 
 1. Copyright holder and Copyright Date, as displayed on screen (often associated with a © symbol)
 

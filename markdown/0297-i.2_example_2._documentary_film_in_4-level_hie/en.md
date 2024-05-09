@@ -1,4 +1,4 @@
-# I.2 Example 2. Documentary film in 4-level hierarchy
+# I.2 Example 2. Documentary film in 4-level hierarchy {#manual-I.2}
 
 In this second example,  the corresponding data of the core concepts also has the same illustrative matching colours as used in the Core Elements list in Example 1 (see below), and there are also links to the relevant sections of the manual relating to those elements.
 

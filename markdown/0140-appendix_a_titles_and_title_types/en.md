@@ -1,4 +1,4 @@
-# Appendix A, Titles and Title Types
+# Appendix A, Titles and Title Types {#manual-A}
 
 # A.1 Title
 

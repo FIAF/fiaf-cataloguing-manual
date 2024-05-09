@@ -1,4 +1,4 @@
-# D.17.3 Item Other Relationship Types
+# D.17.3 Item Other Relationship Types {#manual-D.17.3}
 
 | Item Other Relationship Types | Term list |
 | --- | --- |

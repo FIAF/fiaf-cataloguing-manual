@@ -1,4 +1,4 @@
-# 2.3 Elements of a Manifestation
+# 2.3 Elements of a Manifestation {#manual-2.3}
 
 # 2.3.1 Identifier
 

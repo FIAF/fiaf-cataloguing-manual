@@ -1,4 +1,4 @@
-# D.7.15 Aperture
+# D.7.15 Aperture {#manual-D.7.15}
 
 Academy 1.33:1
 Full Height

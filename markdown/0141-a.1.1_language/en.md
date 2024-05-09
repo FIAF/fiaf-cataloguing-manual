@@ -1,4 +1,4 @@
-# A.1.1 Language[^127]
+# A.1.1 Language[^127] {#manual-A.1.1}
 
 Record titles for Works/Variants in the language and script in which they appear on the sources from which they are taken.
 

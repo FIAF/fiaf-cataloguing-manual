@@ -1,4 +1,4 @@
-# 2.4.1.1 Agent Activity
+# 2.4.1.1 Agent Activity {#manual-2.4.1.1}
 
 Describes the activity of the Agent(s) to make explicit the relationship(s) between the Agent(s) and the Manifestation.
 

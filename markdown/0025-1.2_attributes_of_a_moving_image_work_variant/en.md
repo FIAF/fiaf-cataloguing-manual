@@ -1,4 +1,4 @@
-# 1.2 Attributes of a Moving Image Work/Variant
+# 1.2 Attributes of a Moving Image Work/Variant {#manual-1.2}
 
 # 1.2.1 Work/Variant Description Type [^41]
 

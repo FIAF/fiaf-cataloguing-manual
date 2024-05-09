@@ -1,4 +1,4 @@
-# 0.4.2 Capitalisation and Articles
+# 0.4.2 Capitalisation and Articles {#manual-0.4.2}
 
 Some institutions render Work titles in capitals – all upper-case – as a simple typographical method of identifying these key items of information, while others only capitalise the first letter of a title, in accordance with ISBD. Either usage is permitted by these guidelines, although institutions may prefer to retain the conventional practice of capitalising only the first letter of a title and any proper names as dictated by the usage of the language in which the information is given.
 

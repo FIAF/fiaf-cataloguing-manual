@@ -1,4 +1,4 @@
-# D.7.11 Manifestation/Item Colour Type
+# D.7.11 Manifestation/Item Colour Type {#manual-D.7.11}
 
 Colour
 Colour + Black & White

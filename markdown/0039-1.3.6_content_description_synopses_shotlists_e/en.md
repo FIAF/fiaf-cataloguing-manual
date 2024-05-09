@@ -1,4 +1,4 @@
-# 1.3.6 Content description (synopses, shotlists, etc) [^59]
+# 1.3.6 Content description (synopses, shotlists, etc) [^59] {#manual-1.3.6}
 
 Write a concise, objective, non-critical summary of the content of the moving image Work and/or Variant. Content descriptions can be synposes, brief TV guide-like one sentence description, shotlists, etc. There can be more than one type of content description in the record.
 

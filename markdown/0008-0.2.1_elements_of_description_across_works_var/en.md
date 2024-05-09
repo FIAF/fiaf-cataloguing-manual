@@ -1,4 +1,4 @@
-# 0.2.1 Elements of description across Works, Variants, Manifestations, and Items
+# 0.2.1 Elements of description across Works, Variants, Manifestations, and Items {#manual-0.2.1}
 
 This section includes sample structures for how the elements can be applied across
 Works, Variants, Manifestations, and Items. Four models are provided, beginning with
