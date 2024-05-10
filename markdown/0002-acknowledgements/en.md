@@ -25,3 +25,5 @@ Thelma Ross (Co-author ; co-Chair, FIAF Rules Revision)
 \tableofcontents
 
 \newpage
+
+\setcounter{page}{1}

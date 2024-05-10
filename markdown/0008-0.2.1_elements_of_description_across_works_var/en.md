@@ -1,18 +1,9 @@
 # 0.2.1 Elements of description across Works, Variants, Manifestations, and Items {#manual-0.2.1}
 
-This section includes sample structures for how the elements can be applied across
-Works, Variants, Manifestations, and Items. Four models are provided, beginning with
-the more complete four-level model and ending with a simple one-level model. Mod-
-els should be applied according to an institution’s system and also determined by the
-amount of information known about an Item.
+This section includes sample structures for how the elements can be applied across Works, Variants, Manifestations, and Items. Four models are provided, beginning with the more complete four-level model and ending with a simple one-level model. Models should be applied according to an institution’s system and also determined by the amount of information known about an Item.
 
-The full list of elements of description for each entity is set out in the following charts
-and diagrams, and in Chapters 1-3. See Appendix I, Examples of records containing core
-elements in the different levels of hierarchy for examples of real records which contain
-these core elements (as well as others) across the hierarchies.
+The full list of elements of description for each entity is set out in the following charts and diagrams, and in Chapters 1-3. See Appendix I, Examples of records containing core elements in the different levels of hierarchy for examples of real records which contain these core elements (as well as others) across the hierarchies.
 
-11 Form = Fiction, Non-fiction, etc. Some institutions may incorporate these as a genre term, whilst others
-may have them as a separate category to genre.
 
 
 
@@ -297,5 +288,6 @@ servation recommendations: urgent transfer required, relocate to sub-zero, etc
 | Conservation recommendations | | | Urgent transfer required, relocate sub-zero, etc. |
 
 
-
+[^11]: Form = Fiction, Non-fiction, etc. Some institutions may incorporate these as a genre term, whilst others
+may have them as a separate category to genre.
 

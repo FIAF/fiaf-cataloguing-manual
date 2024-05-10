@@ -6,20 +6,21 @@ Users should recognise that using all capitals may create problems in the future
 
 When an “all capitals” practice is followed, institutions have the additional option of reducing to lower case words which are of minor importance to the substantive title (for filing purposes, etc.), such as sub-titles, a definite or indefinite article appearing as the first word of a title, etc. Experience has shown that this practice can make it easier for staff in institutions handling multi-lingual material to recognise, for filing purposes and interpretation, the different significance of words that are articles in one language but not in others.
 
-20 http://www.ifla.org/files/assets/cataloguing/isbd/isbd-cons_20110321.pdf
-21 http://www.fiafnet.org/~fiafnet/uk/publications/fep_cataloguingRules.html
-
 While the guidelines permit both cases, it is recommended where permitted now or in the future, to use the conventional practice of capitalising only the first letter of a title and other letters as dictated by the usage of the language in which the information is given. Leading articles should ideally be placed in separate fields in keeping with the way systems are being developed for alphabetical sorting. Alternatively some systems (for example, those containing MARC21 records) indicate the number of non-filing characters to skip in alphabetization.
 
 Examples:
 
-Alternative practices | ISBD practice:
-Die Hard | Die hard
-Die DREIGROSCHENOPER | Die Dreigroschenoper
-LES PATTERSON SAVES THE WORLD | Les Patterson saves the world
-Les MISERABLES | Les miserables
-American in Paris, An | An American in Paris
+```
+Alternative practices | ISBD practice:    
+Die Hard | Die hard    
+Die DREIGROSCHENOPER | Die Dreigroschenoper    
+LES PATTERSON SAVES THE WORLD | Les Patterson saves the world     
+Les MISERABLES | Les miserables    
+American in Paris, An | An American in Paris    
 
 MARC21 tag example:
 
 245 03 An American in Paris
+```
+
+

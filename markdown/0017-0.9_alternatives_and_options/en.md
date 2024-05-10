@@ -6,3 +6,4 @@ The necessity for judgment and interpretation by the cataloguer is recognised in
 
 In addition, adherence to these structures and standards may not be wholly appropriate or possible for some institutions, given the differences in current practice, available cataloguing tools, and other issues. An attempt has been made to design guidelines that can be applied where feasible, but which are not meant to be prescriptive.
 
+\newpage

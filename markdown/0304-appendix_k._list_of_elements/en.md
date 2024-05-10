@@ -1,5 +1,8 @@
-# Appendix K. List of Elements {#manual-K.}
+# Appendix K. List of Elements {#manual-K}
 
+
+
+\tiny
 
 | WORK Section | WORK: Element Name | MANIFEST. Section | MANIFESTATION: Element name | ITEM Section | ITEM: Item Name |
 | --- | --- | --- | --- | --- | --- | 
@@ -64,3 +67,4 @@
 | | | | | 3.1.5.21 | Source Device |
 | | | | | 3.1.5.22 | Source Software |
 | | | | | 3.1.5.23 | Transfer Speed |
+
