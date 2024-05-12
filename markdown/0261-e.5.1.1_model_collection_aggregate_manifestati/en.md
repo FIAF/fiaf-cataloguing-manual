@@ -3,7 +3,7 @@
 This model involves creation of a new aggregating Work record. Works link together in associative relationship “contains/contained in” and aggregate Manifestation links to aggregating Work in “part of” relationship.
 
 
-![](mermaid/e.5.1.1/en.svg)
+![](diagrams/E.5.1.1/en.svg)
 
 
 Sabrina
