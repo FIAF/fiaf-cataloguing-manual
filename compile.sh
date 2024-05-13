@@ -21,6 +21,9 @@ npm install d3@6
 npm install puppeteer
 npm install fontfaceobserver
 
+# npm install d3-annotation
+npm i d3-svg-annotation -S
+
 node diagrams/E.5.1.1/en.js
 
 
@@ -28,10 +31,10 @@ node diagrams/E.5.1.1/en.js
 
 # render pdf.
 
-echo "building pdf..."
-MARKDOWN=$(find markdown -type f -name '*.md' | sort)
-pandoc $MARKDOWN --pdf-engine=xelatex -o manual.pdf --template=config.tex
-# pandoc $MARKDOWN --pdf-engine=wkhtmltopdf -o manual.pdf --pdf-engine-opt=--enable-local-file-access
+# echo "building pdf..."
+# MARKDOWN=$(find markdown -type f -name '*.md' | sort)
+# pandoc $MARKDOWN --pdf-engine=xelatex -o manual.pdf --template=config.tex
+# # pandoc $MARKDOWN --pdf-engine=wkhtmltopdf -o manual.pdf --pdf-engine-opt=--enable-local-file-access
 
 # echo "finished."
 

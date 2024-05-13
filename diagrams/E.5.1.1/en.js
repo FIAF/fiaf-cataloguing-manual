@@ -1,5 +1,6 @@
 
 
+// mission here is to create svg to disk, then worry about insertion
 
 var jsdom = require('jsdom');
 const { JSDOM } = jsdom;
@@ -39,42 +40,81 @@ let svg = body.append('svg').attr('width', 800).attr('height', 800).attr('xmlns'
 svg.append("rect")
     .attr("x", 10)
     .attr("y", 10)
-    .attr("width", 500)
+    .attr("width", 800)
     .attr("height", 500)
-    .style("fill", "lime");
+    .style("fill", "white");
 
 
 
-        svg.selectAll('g')
-          .data([''])
-          .join('text')
-          .attr("class", "entity_text2")
-          .attr('x', d => 50)
-          .attr('y', d => 50)
-          .attr('font-family', 'Pacifico')
-          .attr('font-size', '16px')
-          .attr('font-weight', '100')
-          .attr('text-anchor', 'middle')
-          .attr('alignment-baseline', 'middle')
-          .attr('stroke', 'orange')
-          .attr('fill', 'orange')
-          .text(d => "hallo")
+const nodes = [
+
+
+    {'top': 'hello', 'cla':'sab', 'lines': [
+        {"text":"Sabrina","x":100, "y":50},
+        {"text":"(1954) (Work)","x":100, "y":50}
+    ]},
+
+    {'top': 'hello','cla':'aud', 'lines': [
+    
+        {"text":"The Audrey Hepburn Collection","x":300, "y":50},
+        {"text":"(2008) (Work)","x":300, "y":50}
+    ]},
+
+
+
+    {'top': 'hello', 'cla':'fun', 'lines': [
+        {"text":"Funny Face","x":500, "y":50},
+        {"text":"(1956) (Work)","x":500, "y":50}
+    ]},
+] 
+
+
+
+nodes.forEach(
+    d => { 
+        
+        
+        
+        
+        console.log(d);
+    
+    
+    
+    
+    
+
 
 
           svg.selectAll('g')
-          .data([''])
+          .data(d['lines'])
           .join('text')
-          .attr("class", "entity_text2")
-          .attr('x', d => 50)
-          .attr('y', d => 150)
+          .attr("class", d.cla) // class should be at box level
+          .attr('x', d => d.x)
+          .attr('y', (d,i) => (d.y)+(i*20))
           .attr('font-family', 'brownstd')
-          .attr('font-size', '16px')
+          .attr('font-size', '12px')
           .attr('font-weight', '100')
           .attr('text-anchor', 'middle')
           .attr('alignment-baseline', 'middle')
-          .attr('stroke', 'blue')
-          .attr('fill', 'blue')
-          .text(d => "hallo")
+          .attr('stroke', 'black')
+          .attr('fill', 'black')
+          .text(d => d.text)
+    })
+
+
+
+
+    // console.log(d3.select('#sab').node())
+
+//  get a bbox for each class
+
+// nodes.forEach(d => 
+//     { d.box = d3.select("#"+d.class).node().getBBox()}
+// )
+  
+
+// console.log(nodes)
+
 
 fs.writeFileSync('diagrams/E.5.1.1/en.svg', body.html());
 
