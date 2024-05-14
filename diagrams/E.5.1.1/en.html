@@ -14,7 +14,7 @@
         
         // define the svg.
 
-        let svg = d3.select('#graph').append('svg').attr('width', 800).attr('height', 200).attr('xmlns', 'http://www.w3.org/2000/svg');
+        let svg = d3.select('#graph').append('svg').attr('width', 800).attr('height', 400).attr('xmlns', 'http://www.w3.org/2000/svg');
 
         // this step is possibly redundant.
 
@@ -22,7 +22,7 @@
             .attr("x", 0)
             .attr("y", 0)
             .attr("width", 800)
-            .attr("height", 200)
+            .attr("height", 400)
             .style("fill", "white");
 
         // we assume here that text is already presplit on linebreaks.
@@ -46,6 +46,42 @@
                     { "text": "(1956) (Work)", "x": 500, "y": 50 }
                 ]
             },
+
+
+            {
+                'top': 'hello', 'cla': 'bre', 'lines': [
+                    { "text": "Breakfast at", "x": 100, "y": 150 },
+                    { "text": "Tiffanys", "x": 100, "y": 150 },
+                    { "text": "(1961) (Work)", "x": 100, "y": 150 }
+                ]
+            },
+
+
+            {
+                'top': 'hello', 'cla': 'dvd1', 'lines': [
+                    { "text": "The Audrey Hepburn Collection", "x": 300, "y": 250 },
+                    { "text": "(DVD Manifestation, 2008) (Collection Aggregate)", "x": 300, "y": 250 },
+                    
+                ]
+            },
+            
+            {
+                'top': 'hello', 'cla': 'dvd2', 'lines': [
+                    { "text": "The Audrey Hepburn Collection", "x": 300, "y": 350 },
+                    { "text": "(DVD Item)", "x": 300, "y": 350 },
+                    
+                ]
+            },
+
+        ]
+
+        let links = [
+
+            {"a":"aud", "b":"dvd1", "direct":"TD"},
+            {"a":"dvd1", "b":"dvd2", "direct":"TD"},
+            {"a":"sab", "b":"aud", "direct":"LR"},
+            {"a":"aud", "b":"fun", "direct":"LR"},
+            {"a":"bre", "b":"aud", "direct":"LR"},
         ]
 
         // write initial text. use css for text charateristics.
@@ -98,15 +134,60 @@
 
         svg.selectAll('g')
             .data(nodes)
+
+
             .join('rect')
+            .attr('class', d => d.cla+'_box')
             .attr('x', d => d.class_bbox.x-4)
             .attr('y', d => d.class_bbox.y-4)
             .attr('width', d => d.class_bbox.width+8)
             .attr('height', d => d.class_bbox.height+8)
             .attr('stroke', 'black')
-            .attr('stroke-width', '2px')
+            .attr('stroke-width', '1px')
             .attr('opacity', 1)
             .attr('fill', 'white')
+
+        // apply links between bounding boxes.
+
+        links.forEach(
+            d => {
+
+                x1 = parseFloat(d3.selectAll('.'+d.a+'_box').attr('x'))
+                y1 = parseFloat(d3.selectAll('.'+d.a+'_box').attr('y'))
+                h1 = parseFloat(d3.selectAll('.'+d.a+'_box').attr('height'))
+                w1 = parseFloat(d3.selectAll('.'+d.a+'_box').attr('width'))
+
+                x2 = parseFloat(d3.selectAll('.'+d.b+'_box').attr('x'))
+                y2 = parseFloat(d3.selectAll('.'+d.b+'_box').attr('y'))
+                h2 = parseFloat(d3.selectAll('.'+d.b+'_box').attr('height'))
+                w2 = parseFloat(d3.selectAll('.'+d.b+'_box').attr('width'))
+
+                const curve = d3.line().curve(d3.curveBumpX);
+
+                if (d.direct == "LR") {
+                svg.selectAll('g')
+                    .data([''])
+                    .join('path')
+                    .attr("class", "links_yes")
+                    .attr('d', d => curve([[x1+(w1), y1+(h1/2)], [x2, y2+(h2/2)]]))
+                    .attr('stroke', 'black')
+                    .attr('fill', 'none');
+                }
+
+
+
+                if (d.direct == "TD") {
+                svg.selectAll('g')
+                    .data([''])
+                    .join('path')
+                    .attr("class", "links_yes")
+                    .attr('d', d => curve([[x1+(w1/2), y1+h1], [x2+(w2/2), y2]]))
+                    .attr('stroke', 'black')
+                    .attr('fill', 'none');
+                }
+            
+            }
+        )
 
         // overwrite text
 
