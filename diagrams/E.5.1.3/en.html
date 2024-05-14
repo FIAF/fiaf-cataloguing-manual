@@ -14,7 +14,7 @@
         
         // define the svg.
 
-        let svg = d3.select('#graph').append('svg').attr('width', 600).attr('height', 400).attr('xmlns', 'http://www.w3.org/2000/svg');
+        let svg = d3.select('#graph').append('svg').attr('width', 600).attr('height', 600).attr('xmlns', 'http://www.w3.org/2000/svg');
 
         // this step is possibly redundant.
 
@@ -22,66 +22,115 @@
             .attr("x", 0)
             .attr("y", 0)
             .attr("width", 600)
-            .attr("height", 400)
+            .attr("height", 600)
             .style("fill", "white");
 
         // we assume here that text is already presplit on linebreaks.
 
         let nodes = [
             {
-                'top': 'hello', 'cla': 'sab', 'lines': [
-                    { "text": "Sabrina", "x": 100, "y": 50 },
-                    { "text": "(1954) (Work)", "x": 100, "y": 50 }
+                'top': 'hello', 'cla': 'a', 'lines': [
+                    { "text": "Pierrots", "x": 100, "y": 50 },
+                    { "text": "(Work, c.1902)", "x": 100, "y": 50 }
                 ]
             },
-            {
-                'top': 'hello', 'cla': 'aud', 'lines': [
-                    { "text": "The Audrey Hepburn Collection", "x": 300, "y": 50 },
-                    { "text": "(2008) (Work)", "x": 300, "y": 50 }
-                ]
-            },
-            {
-                'top': 'hello', 'cla': 'fun', 'lines': [
-                    { "text": "Funny Face", "x": 500, "y": 50 },
-                    { "text": "(1956) (Work)", "x": 500, "y": 50 }
-                ]
-            },
+      
 
 
             {
-                'top': 'hello', 'cla': 'bre', 'lines': [
-                    { "text": "Breakfast at", "x": 100, "y": 150 },
-                    { "text": "Tiffanys", "x": 100, "y": 150 },
-                    { "text": "(1961) (Work)", "x": 100, "y": 150 }
+                'top': 'hello', 'cla': 'b', 'lines': [
+                    { "text": "Victorian Cinema 3", "x": 300, "y": 50 },
+                    { "text": "(Work, 1998)", "x": 300, "y": 50 }
                 ]
             },
+      
+            {
+                'top': 'hello', 'cla': 'c', 'lines': [
+                    { "text": "Lady Cyclists", "x": 500, "y": 50 },
+                    { "text": "(Work, 1899)", "x": 500, "y": 50 }
+                ]
+            },
+      
+            {
+                'top': 'hello', 'cla': 'd', 'lines': [
+                    { "text": "Washing", "x": 500, "y": 150 },
+                    { "text": "the Sweep", "x": 500, "y": 150 },
+                    { "text": "(Work, 1898)", "x": 500, "y": 150 }
+                ]
+            },
+      
+
+
+            // {
+            //     'top': 'hello', 'cla': 'fun', 'lines': [
+            //         { "text": "Funny Face", "x": 300, "y": 50 },
+            //         { "text": "(1956) (Work)", "x": 300, "y": 50 }
+            //     ]
+            // },
+
+
+   
 
 
             {
-                'top': 'hello', 'cla': 'dvd1', 'lines': [
-                    { "text": "The Audrey Hepburn Collection", "x": 300, "y": 250 },
-                    { "text": "(DVD Manifestation, 2008) (Collection Aggregate)", "x": 300, "y": 250 },
+                'top': 'hello', 'cla': 'e', 'lines': [
+                    { "text": "Victorian Cinema 3", "x": 300, "y": 250 },
+                    { "text": "(Internet Manifestation, 2014) (Collection Aggregate)", "x": 300, "y": 250 },
                     
                 ]
             },
             
+
             {
-                'top': 'hello', 'cla': 'dvd2', 'lines': [
-                    { "text": "The Audrey Hepburn Collection", "x": 300, "y": 350 },
-                    { "text": "(DVD Item)", "x": 300, "y": 350 },
+                'top': 'hello', 'cla': 'f', 'lines': [
+                    { "text": "Pierrots", "x": 150, "y": 450 },
+                    { "text": "(Digital Item)", "x": 150, "y": 450 },
                     
                 ]
             },
+
+            {
+                'top': 'hello', 'cla': 'g', 'lines': [
+                    { "text": "Lady Cyclists", "x": 300, "y": 450 },
+                    { "text": "(Digital Item)", "x": 300, "y": 450 },
+                    
+                ]
+            },
+
+            {
+                'top': 'hello', 'cla': 'h', 'lines': [
+                    { "text": "Washing the Sweep", "x": 450, "y": 450 },
+                    { "text": "(Digital Item)", "x":450, "y": 450 },
+                    
+                ]
+            },
+
+
+            // {
+            //     'top': 'hello', 'cla': 'dvd2', 'lines': [
+            //         { "text": "The Audrey Hepburn Collection", "x": 300, "y": 350 },
+            //         { "text": "(DVD Item)", "x": 300, "y": 350 },
+                    
+            //     ]
+            // },
 
         ]
 
         let links = [
 
-            {"a":"aud", "b":"dvd1", "direct":"TD"},
-            {"a":"dvd1", "b":"dvd2", "direct":"TD"},
-            {"a":"sab", "b":"aud", "direct":"LR"},
-            {"a":"aud", "b":"fun", "direct":"LR"},
-            {"a":"bre", "b":"aud", "direct":"LR"},
+        {"a":"b", "b":"e", "direct":"TD"},
+        {"a":"e", "b":"f", "direct":"TD"},
+        {"a":"e", "b":"g", "direct":"TD"},
+        {"a":"e", "b":"h", "direct":"TD"},
+        // {"a":"fun", "b":"dvd1", "direct":"TD"},
+        // {"a":"bre", "b":"dvd1", "direct":"TD"},
+        //     {"a":"dvd1", "b":"dvd2", "direct":"TD"},
+            {"a":"a", "b":"b", "direct":"LR"},
+
+            {"a":"b", "b":"c", "direct":"LR"},
+            {"a":"b", "b":"d", "direct":"LR"},
+            // {"a":"aud", "b":"fun", "direct":"LR"},
+            // {"a":"bre", "b":"aud", "direct":"LR"},
         ]
 
         // write initial text. use css for text charateristics.
@@ -136,44 +185,14 @@
             .data(nodes)
             .join('rect')
             .attr('class', d => d.cla+'_box')
-            .attr('x', d => d.class_bbox.x-10)
-            .attr('y', d => d.class_bbox.y-10)
-            .attr('width', d => d.class_bbox.width+20)
-            .attr('height', d => d.class_bbox.height+20)
+            .attr('x', d => d.class_bbox.x-4)
+            .attr('y', d => d.class_bbox.y-4)
+            .attr('width', d => d.class_bbox.width+8)
+            .attr('height', d => d.class_bbox.height+8)
             .attr('stroke', 'black')
             .attr('stroke-width', '1px')
             .attr('opacity', 1)
             .attr('fill', 'white')
-
-
-        // define the arrowhead marker
-
-
-        svg.append('defs').append('marker')
-            .attr('id', 'arrowhead-start')
-            .attr('viewBox', '-0 -5 10 10')
-            .attr('refX', 0) // Adjust as needed
-            .attr('refY', 0)
-            .attr('orient', 'auto')
-            .attr('markerWidth', 8)
-            .attr('markerHeight', 8)
-            .attr('xoverflow', 'visible')
-            .append('svg:path')
-            .attr('d',  'M 10,-5 L 0 ,0 L 10,5')
-            .attr('fill', 'black');
-
-        svg.append('defs').append('marker')
-            .attr('id', 'arrowhead-end')
-            .attr('viewBox', '-0 -5 10 10')
-            .attr('refX', 10) // Adjust as needed
-            .attr('refY', 0)
-            .attr('orient', 'auto')
-            .attr('markerWidth', 8)
-            .attr('markerHeight', 8)
-            .attr('xoverflow', 'visible')
-            .append('svg:path')
-            .attr('d', 'M 0,-5 L 10 ,0 L 0,5')
-            .attr('fill', 'black');
 
         // apply links between bounding boxes.
 
@@ -191,7 +210,7 @@
                 w2 = parseFloat(d3.selectAll('.'+d.b+'_box').attr('width'))
 
                 // const curve = d3.line().curve(d3.curveBumpX);
-                const curve = d3.line().curve(d3.curveStep);
+                const curve = d3.line().curve(d3.curveLinear);
 
                 // curveStep
 
@@ -202,9 +221,7 @@
                     .attr("class", "links_yes")
                     .attr('d', d => curve([[x1+(w1), y1+(h1/2)], [x2, y2+(h2/2)]]))
                     .attr('stroke', 'black')
-                    .attr('fill', 'none')
-                    .attr('marker-start', 'url(#arrowhead-start)')
-                    .attr('marker-end', 'url(#arrowhead-end)');
+                    .attr('fill', 'none');
                 }
 
 
@@ -216,9 +233,7 @@
                     .attr("class", "links_yes")
                     .attr('d', d => curve([[x1+(w1/2), y1+h1], [x2+(w2/2), y2]]))
                     .attr('stroke', 'black')
-                    .attr('fill', 'none')
-                    .attr('marker-start', 'url(#arrowhead-start)')
-                    .attr('marker-end', 'url(#arrowhead-end)');
+                    .attr('fill', 'none');
                 }
             
             }
