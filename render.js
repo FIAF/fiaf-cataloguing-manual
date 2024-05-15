@@ -29,10 +29,11 @@ async function renderSVG(filepath) {
 }
 
 diagrams = [
+    'diagrams/A.2.5/en',
     'diagrams/E.5.1.1/en',
     'diagrams/E.5.1.2/en',
     'diagrams/E.5.1.3/en',
-    'diagrams/E.5.2.1/en'
+    'diagrams/E.5.2.1/en',
 ]
 
 
