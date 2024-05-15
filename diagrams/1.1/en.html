@@ -19,6 +19,60 @@
 // TODO, add yes/no markers
 
         
+
+
+
+
+
+sections = [
+    "Are the differences minor?",
+    "Examples: Rules of the Game",
+    "Blade Runner (1982/2007) Mr. Arkadin (1955/1956)",
+    "Edits to work for reasons of duration/censorship/augmentation",
+    "Subtitles/dubbing etc of same textual content to different languages",
+    "Are the differences major?",
+    "Removal/replacement of most contributors",
+    "Example: Chickens Come Home (1931)",
+    "Major changes in footage or continuity",
+    "Remakes of the same story/plot",
+    "Examples: Planet of the Apes (1968/2001)",
+    "Scarface (1932/1983)",
+    "The Man Who Knew Too Much (1934/1936)",
+    "Different language versions shot at the same time",
+    "Examples: Dracula (1931) English and Spanish",
+    "Anna Christie (1930/1931) English and German",
+    "Major changes in textual aspect",
+    "Example: 1910-13 Scott Arctic footage",
+    "Catalogue material as MANIFESTATION of original work"
+]
+``` &#8203;``【oaicite:0】``&#8203;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         // define the svg.
 
         let svg = d3.select('#graph').append('svg').attr('width', 600).attr('height', 800).attr('xmlns', 'http://www.w3.org/2000/svg');
@@ -31,27 +85,6 @@
             .attr("width", 600)
             .attr("height", 800)
             .style("fill", "white");
-
-
-
-test_input =   {
-                'class': 'z', 
-                
-                "x": 300, "y": 50,
-                'text': "Start:\nWorkflow for:\n1. No titles (intended to have a formal title but lacking one)\n2. Untitled (not intended to have a formal title)\n3. Unidentified/indeterminate", 
-
-
-            },
-
-
-test_input['test_split'] = test_input['text'].split('\n')
-
-// let splitText = text.split(separator);
-
-// console.log(splitText); // Output: ["apple", "banana", "cherry"]
-
-console.log(test_input)
-
 
         // we assume here that text is already presplit on linebreaks.
 
