@@ -13,263 +13,419 @@
     <script>
 
 
-// TODO, place text elements appropriatley
-// TODO, add custom boxes
-// TODO, add arrows with a more generalised system
-// TODO, add yes/no markers
-
-        
-
-
-
-
-
-sections = [
-    "Are the differences minor?",
-    "Examples: Rules of the Game",
-    "Blade Runner (1982/2007) Mr. Arkadin (1955/1956)",
-    "Edits to work for reasons of duration/censorship/augmentation",
-    "Subtitles/dubbing etc of same textual content to different languages",
-    "Are the differences major?",
-    "Removal/replacement of most contributors",
-    "Example: Chickens Come Home (1931)",
-    "Major changes in footage or continuity",
-    "Remakes of the same story/plot",
-    "Examples: Planet of the Apes (1968/2001)",
-    "Scarface (1932/1983)",
-    "The Man Who Knew Too Much (1934/1936)",
-    "Different language versions shot at the same time",
-    "Examples: Dracula (1931) English and Spanish",
-    "Anna Christie (1930/1931) English and German",
-    "Major changes in textual aspect",
-    "Example: 1910-13 Scott Arctic footage",
-    "Catalogue material as MANIFESTATION of original work"
-]
-``` &#8203;``【oaicite:0】``&#8203;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        // TODO, place text elements appropriatley
+        // TODO, add custom boxes
+        // TODO, add arrows with a more generalised system
+        // TODO, add yes/no markers
 
 
         // define the svg.
 
-        let svg = d3.select('#graph').append('svg').attr('width', 600).attr('height', 800).attr('xmlns', 'http://www.w3.org/2000/svg');
+        let svg = d3.select('#graph').append('svg').attr('width', 700).attr('height', 2000).attr('xmlns', 'http://www.w3.org/2000/svg');
 
         // this step is possibly redundant.
 
         svg.append("rect")
             .attr("x", 0)
             .attr("y", 0)
-            .attr("width", 600)
-            .attr("height", 800)
+            .attr("width", 700)
+            .attr("height", 2000)
             .style("fill", "white");
 
-        // we assume here that text is already presplit on linebreaks.
 
-        let nodes = [
-        {
-                'top': 'hello', 'cla': 'a', 'lines': [
-                    { "text": "Start:", "x": 300, "y": 50 },
-                    { "text": "Workflow for:", "x": 300, "y": 50 },
-                    { "text": "1. No titles (intended to have a formal title but lacking one)", "x": 300, "y": 50 },
-                    { "text": "2. Untitled (not intended to have a formal title)", "x": 300, "y": 50 },
-                    { "text": "3. Unidentified/indeterminate", "x": 300, "y": 50 }
-                ]
+
+
+
+
+
+
+        nodes = [
+            {
+                'entry': 'a',
+                'shape': 'rect',
+                "x": 350,
+                "y": 50,
+                "r": 20,
+                'text': "Does the material in question\nconstitute exactly the same\ncontent as the original release\nin the country of origin? ",
             },
 
 
             {
-                'top': 'hello', 'cla': 'b', 'lines': [
-                    { "text": "Is it a recognised", "x": 300, "y": 150 },
-                    { "text": "form/genre?", "x": 300, "y": 150 },
-                    
-                ]
+                'entry': 'b',
+                'shape': 'rect',
+                "x": 600,
+                "y": 200,
+                "r": 0,
+                'text': "Yes",
             },
 
 
             {
-                'top': 'hello', 'cla': 'c', 'lines': [
-                    { "text": "Does it have", "x": 200, "y": 250 },
-                    { "text": "a relationship to a", "x": 200, "y": 250 },
-                    { "text": "particular work/ variant,", "x": 200, "y": 250 },
-                    { "text": "or multi-part work?", "x": 200, "y": 250 },
-                    
-                ]
-            },
-
-
-            {
-                'top': 'hello', 'cla': 'd', 'lines': [
-                    { "text": "Is it related to", "x": 400, "y": 250 },
-                    { "text": "a common theme", "x": 400, "y": 250 },
-                    { "text": "or a person, family", "x": 400, "y": 250 },
-                    { "text": "or corporate body", "x": 400, "y": 250 },
-                    { "text": "as subject?", "x": 400, "y": 250 }
-                ]
-            },
-
-
-
-            {
-                'top': 'hello', 'cla': 'e', 'lines': [
-                    { "text": "Is title of", "x": 100, "y": 350 },
-                    { "text": "that related", "x": 100, "y": 350 },
-                    { "text": "work/ variant,", "x": 100, "y": 350 },
-                    { "text": "multi-part work", "x": 100, "y": 350 },
-                    { "text": "known?", "x": 100, "y": 350 }
-                ]
-            },
-
-
-
-            {
-                'top': 'hello', 'cla': 'f', 'lines': [
-                    { "text": "Is it lacking", "x": 450, "y": 350 },
-                    { "text": "form/genre,", "x": 450, "y": 350 },
-                    { "text": "theme,", "x": 450, "y": 350 },
-                    { "text": "or subject?", "x": 450, "y": 350 },
-                    
-                ]
+                'entry': 'c',
+                'shape': 'rect',
+                "x": 600,
+                "y": 250,
+                "r": 0,
+                'text': "Catalogue material as\nMANIFESTATION of\noriginal work",
             },
 
 
 
 
             {
-                'top': 'hello', 'cla': 'g', 'lines': [
-                    { "text": "Create partially", "x": 100, "y": 500 },
-                    { "text": "devised/supplied", "x": 100, "y": 500 },
-                    { "text": "title with title of", "x": 100, "y": 500 },
-                    { "text": "work/variant", "x": 100, "y": 500 },
-                    { "text": "or multi-part work", "x": 100, "y": 500 },
-                    { "text": "+ form term", "x": 100, "y": 500 },
-                    
-                ]
+                'entry': 'd',
+                'shape': 'rect',
+                "x": 100,
+                "y": 200,
+                "r": 0,
+                'text': "No",
             },
 
-            {
-                'top': 'hello', 'cla': 'h', 'lines': [
-                    { "text": "Create fully", "x": 250, "y": 500 },
-                    { "text": "devised/supplied", "x": 250, "y": 500 },
-                    { "text": "title with form term", "x": 250, "y": 500 },
-                    { "text": "+ additional", "x": 250, "y": 500 },
-                    { "text": "descriptive", "x": 250, "y": 500 },
-                    { "text": "information", "x": 250, "y": 500 },
-                    
-                ]
-            },
 
 
 
             {
-                'top': 'hello', 'cla': 'i', 'lines': [
-                    { "text": "Create fully", "x": 350, "y": 500 },
-                    { "text": "devised/supplied", "x": 350, "y": 500 },
-                    { "text": "title with theme", "x": 350, "y": 500 },
-                    { "text": "or subject term term", "x": 350, "y": 500 },
-                    { "text": "+ additional", "x": 350, "y": 500 },
-                    { "text": "descriptive", "x": 350, "y": 500 },
-                    { "text": "information", "x": 350, "y": 500 },
-                    
-                ]
+                'entry': 'e',
+                'shape': 'rect',
+                "x": 100,
+                "y": 275,
+                "r": 20,
+                'text': "Are the differences minor?",
             },
 
 
             {
-                'top': 'hello', 'cla': 'j', 'lines': [
-                    { "text": "Create fully", "x": 500, "y": 500 },
-                    { "text": "devised/supplied", "x": 500, "y": 500 },
-                    { "text": "title with descriptive", "x": 500, "y": 500 },
-                    { "text": "information covering", "x": 500, "y": 500 },
-                    { "text": "the “five Ws”: who,", "x": 500, "y": 500 },
-                    { "text": "what, when, where", "x": 500, "y": 500 },
-                
-                    
-                ]
+                'entry': 'f',
+                'shape': 'rect',
+                "x": 100,
+                "y": 350,
+                "r": 0,
+                'text': "Catalogue material as\nVARIANT of orignal work",
             },
+
+            {
+                'entry': 'g',
+                'shape': 'rect',
+                "x": 250,
+                "y": 425,
+                "r": 10,
+                'text': "Minor changes in performers/performance",
+            },
+
+
+            {
+                'entry': 'h',
+                'shape': 'rect',
+                "x": 250,
+                "y": 475,
+                "r": 0,
+                'text': "Removal/replacement/addition\nof some but not most\ncontributors",
+            },
+
+
+
+            {
+                'entry': 'i',
+                'shape': 'rect',
+                "x": 250,
+                "y": 570,
+                "r": 0,
+                'text': "Examples:\nChanges to crew/cast related\nto different language versions.\nChanges to crew/cast related\nto restorations/preservations.",
+            },
+
+
+
+            {
+                'entry': 'j',
+                'shape': 'rect',
+                "x": 250,
+                "y": 700,
+                "r": 10,
+                'text': "Minor changes in footage or constinuity",
+            },
+
+            {
+                'entry': 'k',
+                'shape': 'rect',
+                "x": 400,
+                "y": 750,
+                "r": 0,
+                'text': "Editing differences including\nfootage or continuity changes\nfrom original work.",
+            },
+
+
+
+            {
+                'entry': 'l',
+                'shape': 'rect',
+                "x": 400,
+                "y": 840,
+                "r": 0,
+                'text': "Examples:\n- Rules of the Game\n- Blade Runner (1982/2007)\n- Mr. Arkadin (1955/1956)",
+            },
+
+            {
+                'entry': 'm',
+                'shape': 'rect',
+                "x": 400,
+                "y": 950,
+                "r": 0,
+                'text': "Edits of work for reasons of\nduration/censorship/augmentation\netc",
+            },
+
+            {
+                'entry': 'n',
+                'shape': 'rect',
+                "x": 400,
+                "y": 1050,
+                "r": 0,
+                'text': "Examples:\nTelevion or airline versions\nof works edited for duration,\nlanguage, content, etc.\nPreservation/restoration/alternate\nending versions",
+            },
+            {
+                'entry': 'o',
+                'shape': 'rect',
+                "x": 250,
+                "y": 1200,
+                "r": 10,
+                'text': "Minor changes in textual aspect",
+            },
+
+            {
+                'entry': 'p',
+                'shape': 'rect',
+                "x": 400,
+                "y": 1250,
+                "r": 0,
+                'text': "Changes/additions/removal of\nsome dialogue, narration,\naudio or text",
+            },
+
+            {
+                'entry': 'q',
+                'shape': 'rect',
+                "x": 400,
+                "y": 1350,
+                "r": 0,
+                'text': "Examples:\nAddition/removal of\nexplanatory text,dubbing,\nsubtitles etc.\n- Star Wars Episode 2 (2002)\n(dubbed into 19 languages)\nSonorized versions of silent\nfilms\n- Cabirira 1914/1931",
+            },
+
+            {
+                'entry': 'r',
+                'shape': 'rect',
+                "x": 400,
+                "y": 1575,
+                "r": 0,
+                'text': "Subtitles/dubbing etc of same\ntextual content into different\nlanguages",
+            },
+
+            {
+                'entry': 's',
+                'shape': 'rect',
+                "x": 400,
+                "y": 1675,
+                "r": 0,
+                'text': "Examples:\n- Deep Impact (1998, English\nDialogue) / Impacto Profundo\n(1998, Portuguese dialogue,\nSpanish subtitles)",
+            },
+
+
+
+
+            {
+                'entry': 'z',
+                'shape': 'rect',
+                "x": 350,
+                "y": 275,
+                "r": 20,
+                'text': "Are the differences major?",
+            },
+
 
             // {
-            //     'top': 'hello', 'cla': 'aud', 'lines': [
-            //         { "text": "The Audrey Hepburn Collection", "x": 300, "y": 50 },
-            //         { "text": "(2008) (Work)", "x": 300, "y": 50 }
-            //     ]
+            //     'entry': 'b',
+            //     'shape': 'rhom',
+            //     "x": 350,
+            //     "y": 300,
+            //     "r": 0,
+            //     "text": "Is it a recognised\nform/genre?"
             // },
             // {
-            //     'top': 'hello', 'cla': 'fun', 'lines': [
-            //         { "text": "Funny Face", "x": 500, "y": 50 },
-            //         { "text": "(1956) (Work)", "x": 500, "y": 50 }
-            //     ]
+            //     'entry': 'c',
+            //     'shape': 'rhom',
+            //     "x": 200,
+            //     "y": 500,
+            //     "r": 0,
+            //     "text": "Does it have\na relationship to a\nparticular work/variant,\nor multi-part work?\n. ",
             // },
-
-
             // {
-            //     'top': 'hello', 'cla': 'bre', 'lines': [
-            //         { "text": "Breakfast at", "x": 100, "y": 150 },
-            //         { "text": "Tiffanys", "x": 100, "y": 150 },
-            //         { "text": "(1961) (Work)", "x": 100, "y": 150 }
-            //     ]
+            //     'entry': 'd',
+            //     'shape': 'rhom',
+            //     "x": 500,
+            //     "y": 500,
+            //     "r": 0,
+            //     "text": "Is it related to\na common theme\nor a person, family\nor corporate body\nas subject?"
             // },
-
-
             // {
-            //     'top': 'hello', 'cla': 'dvd1', 'lines': [
-            //         { "text": "The Audrey Hepburn Collection", "x": 300, "y": 250 },
-            //         { "text": "(DVD Manifestation, 2008) (Collection Aggregate)", "x": 300, "y": 250 },
-                    
-            //     ]
+            //     'entry': 'e',
+            //     'shape': 'rhom',
+            //     "x": 100,
+            //     "y": 750,
+            //     "r": 0,
+            //     "text": "Is title of\nthat related\nwork/ variant,\nmulti-part work\nknown?"
             // },
-            
             // {
-            //     'top': 'hello', 'cla': 'dvd2', 'lines': [
-            //         { "text": "The Audrey Hepburn Collection", "x": 300, "y": 350 },
-            //         { "text": "(DVD Item)", "x": 300, "y": 350 },
-                    
-            //     ]
+            //     'entry': 'f',
+            //     'shape': 'rhom',
+            //     "x": 600,
+            //     "y": 750,
+            //     "r": 0,
+            //     "text": "Is it lacking\nform/genre,\ntheme,\nor subject?"
             // },
-
+            // {
+            //     'entry': 'g',
+            //     'shape': 'rect',
+            //     "x": 125,
+            //     "y": 1000,
+            //     "r": 0,
+            //     "text": "Create partially\ndevised/supplied\ntitle with title of\nwork/variant\nor multi-part work\n+ form term"
+            // },
+            // {
+            //     'entry': 'h',
+            //     'shape': 'rect',
+            //     "x": 275,
+            //     "y": 1000,
+            //     "r": 0,
+            //     "text": "Create fully\ndevised/supplied\ntitle with form term\n+ additional\ndescriptive\ninformation"
+            // },
+            // {
+            //     'entry': 'i',
+            //     'shape': 'rect',
+            //     "x": 425,
+            //     "y": 1000,
+            //     "r": 0,
+            //     "text": "Create fully\ndevised/supplied\ntitle with theme\nor subject term term\n+ additional\ndescriptive\ninformation"
+            // },
+            // {
+            //     'entry': 'j',
+            //     'shape': 'rect',
+            //     "x": 575,
+            //     "y": 1000,
+            //     "r": 0,
+            //     "text": "Create fully\ndevised/supplied\ntitle with descriptive\ninformation covering\nthe “five Ws”: who,\nwhat, when, where"
+            // },
         ]
 
-        let links = [
 
-            // {"a":"aud", "b":"dvd1", "direct":"TD"},
-            // {"a":"dvd1", "b":"dvd2", "direct":"TD"},
-            // {"a":"sab", "b":"aud", "direct":"LR"},
-            // {"a":"aud", "b":"fun", "direct":"LR"},
-            // {"a":"bre", "b":"aud", "direct":"LR"},
+        nodes.forEach(d => d.lines = d.text.split('\n'))
+
+
+        // rewrite links, they should instead work like
+        // select class and side (t,b,l,r) and the determine midway
+
+
+        let links = [
+            { 'start_class': 'a', 'start_facet': 'b', 
+            'end_class': 'b', 'end_facet': 'l', 'label':'yes' },
+            { 'start_class': 'b', 'start_facet': 'b', 
+            'end_class': 'c', 'end_facet': 't', 'label':'yes' },
+            { 'start_class': 'a', 'start_facet': 'b', 
+            'end_class': 'd', 'end_facet': 'r', 'label':'yes' },
+            { 'start_class': 'd', 'start_facet': 'b', 
+            'end_class': 'e', 'end_facet': 't', 'label':'yes' },
+            { 'start_class': 'e', 'start_facet': 'b', 
+            'end_class': 'f', 'end_facet': 't', 'label':'yes' },
+
+            { 'start_class': 'f', 'start_facet': 'b', 
+            'end_class': 'g', 'end_facet': 'l', 'label':'yes' },
+            { 'start_class': 'g', 'start_facet': 'b', 
+            'end_class': 'h', 'end_facet': 't', 'label':'yes' },
+            { 'start_class': 'h', 'start_facet': 'b', 
+            'end_class': 'i', 'end_facet': 't', 'label':'yes' },
+            { 'start_class': 'f', 'start_facet': 'b', 
+            'end_class': 'j', 'end_facet': 'l', 'label':'yes' },
+
+            { 'start_class': 'j', 'start_facet': 'b', 
+            'end_class': 'k', 'end_facet': 'l', 'label':'yes' },
+
+            { 'start_class': 'k', 'start_facet': 'b', 
+            'end_class': 'l', 'end_facet': 't', 'label':'yes' },
+
+            { 'start_class': 'j', 'start_facet': 'b', 
+            'end_class': 'm', 'end_facet': 'l', 'label':'yes' },
+
+            { 'start_class': 'm', 'start_facet': 'b', 
+            'end_class': 'n', 'end_facet': 't', 'label':'yes' },
+
+            { 'start_class': 'f', 'start_facet': 'b', 
+            'end_class': 'o', 'end_facet': 'l', 'label':'yes' },
+
+
+            { 'start_class': 'o', 'start_facet': 'b', 
+            'end_class': 'p', 'end_facet': 'l', 'label':'yes' },
+
+            { 'start_class': 'p', 'start_facet': 'b', 
+            'end_class': 'q', 'end_facet': 't', 'label':'yes' },
+
+
+            { 'start_class': 'o', 'start_facet': 'b', 
+            'end_class': 'r', 'end_facet': 'l', 'label':'yes' },
+
+            { 'start_class': 'r', 'start_facet': 'b', 
+            'end_class': 's', 'end_facet': 't', 'label':'yes' },
+
+
+
+
+            // { 'start_class': 'b', 'start_facet': 'l', 
+            // 'end_class': 'c', 'end_facet': 't', 'label':'yes' },
+
+
+            // { 'start_class': 'b', 'start_facet': 'r', 
+            // 'end_class': 'd', 'end_facet': 't', 'label':'yes' },
+
+
+            // { 'start_class': 'c', 'start_facet': 'l', 
+            // 'end_class': 'e', 'end_facet': 't', 'label':'yes' },
+
+            // { 'start_class': 'c', 'start_facet': 'l', 
+            // 'end_class': 'e', 'end_facet': 't', 'label':'yes' },
+
+
+            // { 'start_class': 'c', 'start_facet': 'b', 
+            // 'end_class': 'h', 'end_facet': 't', 'label':'yes' },
+
+
+            // { 'start_class': 'e', 'start_facet': 'r', 
+            // 'end_class': 'h', 'end_facet': 't', 'label':'yes' },
+
+
+            // { 'start_class': 'e', 'start_facet': 'b', 
+            // 'end_class': 'g', 'end_facet': 't', 'label':'yes' },
+
+            // { 'start_class': 'd', 'start_facet': 'l', 
+            // 'end_class': 'i', 'end_facet': 't', 'label':'yes' },
+            // { 'start_class': 'd', 'start_facet': 'r', 
+            // 'end_class': 'f', 'end_facet': 't', 'label':'yes' },
+            // { 'start_class': 'f', 'start_facet': 'b', 
+            // 'end_class': 'j', 'end_facet': 't', 'label':'yes' },
+
+
+
+
+
         ]
 
         // write initial text. use css for text charateristics.
 
         nodes.forEach(
             d => {
+                let top_class = d.entry
+                let top_x = d.x
+                let top_y = d.y
                 let textElement = svg.selectAll('g')
                     .data(d['lines'])
                     .join('text')
-                    .attr("class", d.cla) // class should be at box level
-                    .attr('x', d => d.x)
-                    .attr('y', (d, i) => (d.y) + (i * 20))
+                    .attr("class", top_class) 
+                    .attr('x', d => top_x)
+                    .attr('y', (d, i) => top_y + (i * 20))
                     .attr('font-family', 'brownstd')
                     .attr('font-size', '12px')
                     .attr('font-weight', '100')
@@ -277,7 +433,7 @@ sections = [
                     .attr('alignment-baseline', 'middle')
                     .attr('stroke', 'black')
                     .attr('fill', 'black')
-                    .text(d => d.text);
+                    .text(d => d);
             })
 
         // function to collect bounding boxes by class.
@@ -304,99 +460,278 @@ sections = [
 
         // apply function
 
-        nodes.forEach((d) => d.class_bbox = get_box(d.cla))
+        nodes.forEach((d) => d.class_bbox = get_box(d.entry))
 
+      
         // apply bounding
+        // TODO, but what kind of bounding?
+
+        let nodes_rect = nodes.filter(d => d.shape == 'rect')
 
         svg.selectAll('g')
             .data(nodes)
             .join('rect')
-            .attr('class', d => d.cla+'_box')
-            .attr('x', d => d.class_bbox.x-10)
-            .attr('y', d => d.class_bbox.y-10)
-            .attr('width', d => d.class_bbox.width+20)
-            .attr('height', d => d.class_bbox.height+20)
+            .attr('class', d => d.entry + '_box')
+            .attr('x', d => {if (d.shape == 'rect') {return d.class_bbox.x - 10} else {return d.class_bbox.x - 10 - 30}})
+            .attr('y', d => {if (d.shape == 'rect') {return d.class_bbox.y - 10} else {return d.class_bbox.y - 10 - 30}})
+            .attr("rx", d => d.r)
+            .attr('width', d => {if (d.shape == 'rect') {return d.class_bbox.width + 20} else {return d.class_bbox.width + 20 + 60}})
+            .attr('height', d => {if (d.shape == 'rect') {return d.class_bbox.height + 20} else {return d.class_bbox.height + 20 + 60}})
             .attr('stroke', 'black')
             .attr('stroke-width', '1px')
-            .attr('opacity', 1)
+            .attr('opacity', d => {if (d.shape == 'rect') {return 1} else {return 0}})
             .attr('fill', 'white')
 
+        let nodes_rhom = nodes.filter(d => d.shape == 'rhom')
+
+
+
+        function calculate_rhom(rect_box) {
+
+            let distance = 40
+
+            let p1x = rect_box.x + (rect_box.width / 2)
+            let p1y = rect_box.y - distance
+            let p2x = rect_box.x + (rect_box.width) + distance
+            let p2y = rect_box.y + (rect_box.height / 2)
+            let p3x = rect_box.x + (rect_box.width / 2)
+            let p3y = rect_box.y + (rect_box.height) + distance
+            let p4x = rect_box.x - distance
+            let p4y = rect_box.y + (rect_box.height / 2)
+
+            let rhom_path = "M " + p1x + " " + p1y + " " + p2x + " " + p2y + " " + p3x + " " + p3y + " " + p4x + " " + p4y + " Z"
+
+            return rhom_path
+        }
+
+        // apply function
+
+        nodes_rhom.forEach((d) => d.pathway = calculate_rhom(d.class_bbox))
+
+
+
+
+
+        svg.selectAll('g')
+            .data(nodes_rhom)
+            .join('path')
+            .attr('class', d => d.entry + '_box')
+            .attr("d", d => d.pathway)
+            .style("stroke-width", 1)
+            .style("stroke-dasharray", "1,0")
+            .style("fill", "white")
+            .style("stroke", "black");
 
         // define the arrowhead marker
 
 
-        svg.append('defs').append('marker')
-            .attr('id', 'arrowhead-start')
-            .attr('viewBox', '-0 -5 10 10')
-            .attr('refX', 0) // Adjust as needed
-            .attr('refY', 0)
-            .attr('orient', 'auto')
-            .attr('markerWidth', 8)
-            .attr('markerHeight', 8)
-            .attr('xoverflow', 'visible')
-            .append('svg:path')
-            .attr('d',  'M 10,-5 L 0 ,0 L 10,5')
-            .attr('fill', 'black');
 
-        svg.append('defs').append('marker')
-            .attr('id', 'arrowhead-end')
-            .attr('viewBox', '-0 -5 10 10')
-            .attr('refX', 10) // Adjust as needed
-            .attr('refY', 0)
-            .attr('orient', 'auto')
-            .attr('markerWidth', 8)
-            .attr('markerHeight', 8)
-            .attr('xoverflow', 'visible')
-            .append('svg:path')
-            .attr('d', 'M 0,-5 L 10 ,0 L 0,5')
-            .attr('fill', 'black');
+        // svg.append('defs').append('marker')
+        //     .attr('id', 'arrowhead-start')
+        //     .attr('viewBox', '-0 -5 10 10')
+        //     .attr('refX', 0)
+        //     .attr('refY', 0)
+        //     .attr('orient', 'auto')
+        //     .attr('markerWidth', 8)
+        //     .attr('markerHeight', 8)
+        //     .attr('xoverflow', 'visible')
+        //     .append('svg:path')
+        //     .attr('d', 'M 10,-5 L 0 ,0 L 10,5')
+        //     .attr('fill', 'black');
+
+        // svg.append('defs').append('marker')
+        //     .attr('id', 'arrowhead-end')
+        //     .attr('viewBox', '-0 -5 10 10')
+        //     .attr('refX', 10)
+        //     .attr('refY', 0)
+        //     .attr('orient', 'auto')
+        //     .attr('markerWidth', 8)
+        //     .attr('markerHeight', 8)
+        //     .attr('xoverflow', 'visible')
+        //     .append('svg:path')
+        //     .attr('d', 'M 0,-5 L 10 ,0 L 0,5')
+        //     .attr('fill', 'black');
 
         // apply links between bounding boxes.
+
+        console.log('***', nodes)
 
         links.forEach(
             d => {
 
-                x1 = parseFloat(d3.selectAll('.'+d.a+'_box').attr('x'))
-                y1 = parseFloat(d3.selectAll('.'+d.a+'_box').attr('y'))
-                h1 = parseFloat(d3.selectAll('.'+d.a+'_box').attr('height'))
-                w1 = parseFloat(d3.selectAll('.'+d.a+'_box').attr('width'))
 
-                x2 = parseFloat(d3.selectAll('.'+d.b+'_box').attr('x'))
-                y2 = parseFloat(d3.selectAll('.'+d.b+'_box').attr('y'))
-                h2 = parseFloat(d3.selectAll('.'+d.b+'_box').attr('height'))
-                w2 = parseFloat(d3.selectAll('.'+d.b+'_box').attr('width'))
+                // calculate where the start point should be based on start_class and start_facet
 
-                // const curve = d3.line().curve(d3.curveBumpX);
-                const curve = d3.line().curve(d3.curveStep);
+                // console.log('@@@', d.start_class, d.end_class)
 
-                // curveStep
+                // collect x, y, w, h and then work out t,b,l,r, end then pick based on incoming facet
+                test1 = parseFloat(d3.selectAll('.' + d.start_class + '_box').attr('x'))
+                test2 = parseFloat(d3.selectAll('.' + d.end_class + '_box').attr('x'))
+                console.log('&&&', test1)
+                console.log('&&&', test2)
 
-                if (d.direct == "LR") {
+
+                start_x = parseFloat(d3.selectAll('.' + d.start_class + '_box').attr('x'))
+                start_y = parseFloat(d3.selectAll('.' + d.start_class + '_box').attr('y'))
+                start_h = parseFloat(d3.selectAll('.' + d.start_class + '_box').attr('height'))
+                start_w = parseFloat(d3.selectAll('.' + d.start_class + '_box').attr('width'))
+                console.log('start_x',start_x)
+
+                start_pos = {
+
+                    't': [start_x + (start_w / 2), start_y],
+                    'r': [start_x + (start_w), start_y + (start_h / 2)],
+                    'b': [start_x + (start_w / 2), start_y + (start_h)],
+                    'l': [start_x, start_y + (start_h / 2)]
+                }
+
+                end_x = parseFloat(d3.selectAll('.' + d.end_class + '_box').attr('x'))
+                end_y = parseFloat(d3.selectAll('.' + d.end_class + '_box').attr('y'))
+                end_h = parseFloat(d3.selectAll('.' + d.end_class + '_box').attr('height'))
+                end_w = parseFloat(d3.selectAll('.' + d.end_class + '_box').attr('width'))
+
+                console.log('end_x',end_x)
+                console.log('end_y',end_y)
+                console.log('end_h',end_h)
+                console.log('end_w',end_w)
+                end_pos = {
+
+                    't': [end_x + (end_w / 2), end_y],
+                    'r': [end_x + (end_w), end_y + (end_h / 2)],
+                    'b': [end_x + (end_w / 2), end_y + (end_h)],
+                    'l': [end_x, end_y + (end_h / 2)]
+                }
+
+                console.log('YES', start_pos[d.start_facet])
+                console.log('YES', end_pos[d.end_facet])
+                // x2 = parseFloat(d3.selectAll('.'+d.b+'_box').attr('x'))
+                // y2 = parseFloat(d3.selectAll('.'+d.b+'_box').attr('y'))
+                // h2 = parseFloat(d3.selectAll('.'+d.b+'_box').attr('height'))
+                // w2 = parseFloat(d3.selectAll('.'+d.b+'_box').attr('width'))
+
+                // // const curve = d3.line().curve(d3.curveBumpX);
+                const curve = d3.line().curve(d3.curveStepBefore);
+
+                // // curveStep
+
+                // if (d.direct == "LR") {
+                    let line_start = start_pos[d.start_facet]
+                    let line_end = end_pos[d.end_facet]
+
+
+
+                let arrow_up = 'M -5,0 L 0,-10 L 5,0'
+                let arrow_down = 'M -5,0 L 0,10 L 5,0'
+                let arrow_right = 'M 10,-5 L 0 ,0 L 10,5'
+                let arrow_left = 'M 0,-5 L 10 ,0 L 0,5'
+
+   
+
+                    let orient = {
+                        't':-90,
+                        'b':90,
+                        'l':180,
+                        'r':0
+                    }
+
+                svg.append('defs').append('marker')
+            .attr('id', 'arrowhead_t')
+            .attr('viewBox', '-0 -5 10 10')
+            .attr('refX', 0)
+            .attr('refY', 0)
+            .attr('orient', -90)
+            .attr('markerWidth', 8)
+            .attr('markerHeight', 8)
+            .attr('xoverflow', 'visible')
+            .append('svg:path')
+            .attr('d', 'M 10,-5 L 0 ,0 L 10,5')
+            .attr('fill', 'black');
+
+            svg.append('defs').append('marker')
+            .attr('id', 'arrowhead_b')
+            .attr('viewBox', '-0 -5 10 10')
+            .attr('refX', 0)
+            .attr('refY', 0)
+            .attr('orient', 90)
+            .attr('markerWidth', 8)
+            .attr('markerHeight', 8)
+            .attr('xoverflow', 'visible')
+            .append('svg:path')
+            .attr('d', 'M 10,-5 L 0 ,0 L 10,5')
+            .attr('fill', 'black');
+
+
+
+            svg.append('defs').append('marker')
+            .attr('id', 'arrowhead_l')
+            .attr('viewBox', '-0 -5 10 10')
+            .attr('refX', 0)
+            .attr('refY', 0)
+            .attr('orient', 180)
+            .attr('markerWidth', 8)
+            .attr('markerHeight', 8)
+            .attr('xoverflow', 'visible')
+            .append('svg:path')
+            .attr('d', 'M 10,-5 L 0 ,0 L 10,5')
+            .attr('fill', 'black');
+
+
+
+            svg.append('defs').append('marker')
+            .attr('id', 'arrowhead_r')
+            .attr('viewBox', '-0 -5 10 10')
+            .attr('refX', 0)
+            .attr('refY', 0)
+            .attr('orient', 0)
+            .attr('markerWidth', 8)
+            .attr('markerHeight', 8)
+            .attr('xoverflow', 'visible')
+            .append('svg:path')
+            .attr('d', 'M 10,-5 L 0 ,0 L 10,5')
+            .attr('fill', 'black');
+
+        // svg.append('defs').append('marker')
+        //     .attr('id', 'arrowhead-end')
+        //     .attr('viewBox', '-0 -5 10 10')
+        //     .attr('refX', 10)
+        //     .attr('refY', 0)
+        //     .attr('orient', 'auto')
+        //     .attr('markerWidth', 8)
+        //     .attr('markerHeight', 8)
+        //     .attr('xoverflow', 'visible')
+        //     .append('svg:path')
+        //     .attr('d', 'M 0,-5 L 10 ,0 L 0,5')
+        //     .attr('fill', 'black');
+
+
                 svg.selectAll('g')
                     .data([''])
                     .join('path')
                     .attr("class", "links_yes")
-                    .attr('d', d => curve([[x1+(w1), y1+(h1/2)], [x2, y2+(h2/2)]]))
+                    .attr('d', d => curve([line_start,line_end]))
                     .attr('stroke', 'black')
                     .attr('fill', 'none')
-                    .attr('marker-start', 'url(#arrowhead-start)')
-                    .attr('marker-end', 'url(#arrowhead-end)');
-                }
+                    // .attr('marker-start', 'url(#arrowhead_'+d.start_facet+')')
+                    // .attr('marker-end', 'url(#arrowhead_'+d.end_facet+')')
+                // }
 
 
 
-                if (d.direct == "TD") {
-                svg.selectAll('g')
-                    .data([''])
-                    .join('path')
-                    .attr("class", "links_yes")
-                    .attr('d', d => curve([[x1+(w1/2), y1+h1], [x2+(w2/2), y2]]))
-                    .attr('stroke', 'black')
-                    .attr('fill', 'none')
-                    .attr('marker-start', 'url(#arrowhead-start)')
-                    .attr('marker-end', 'url(#arrowhead-end)');
-                }
-            
+
+
+
+                // if (d.direct == "TD") {
+                // svg.selectAll('g')
+                //     .data([''])
+                //     .join('path')
+                //     .attr("class", "links_yes")
+                //     .attr('d', d => curve([[x1+(w1/2), y1+h1], [x2+(w2/2), y2]]))
+                //     .attr('stroke', 'black')
+                //     .attr('fill', 'none')
+                //     .attr('marker-start', 'url(#arrowhead-start)')
+                //     .attr('marker-end', 'url(#arrowhead-end)');
+                // }
+
             }
         )
 
@@ -404,12 +739,24 @@ sections = [
 
         nodes.forEach(
             d => {
+
+                // console.log('@@@', d)
+                let top_class = d.entry
+                // console.log('top_class', top_class)
+
+                let top_x = d.x
+                // console.log('top_x', top_x)
+
+                let top_y = d.y
+                // console.log('top_y', top_y)                
+
+
                 svg.selectAll('g')
                     .data(d['lines'])
                     .join('text')
-                    .attr("class", d.cla) // class should be at box level
-                    .attr('x', d => d.x)
-                    .attr('y', (d, i) => (d.y) + (i * 20))
+                    .attr("class", top_class) // class should be at box level
+                    .attr('x', d => top_x)
+                    .attr('y', (d, i) => (top_y) + (i * 20))
                     .attr('font-family', 'brownstd')
                     .attr('font-size', '12px')
                     .attr('font-weight', '100')
@@ -417,7 +764,7 @@ sections = [
                     .attr('alignment-baseline', 'middle')
                     .attr('stroke', 'black')
                     .attr('fill', 'black')
-                    .text(d => d.text);
+                    .text(d => d);
             })
 
     </script>
