@@ -18,10 +18,12 @@ fi
 # node diagrams/E.5.1.1/en.js
 
 node render.js
+# gm convert ./diagrams/1.1/en.svg -resize 500x ./diagrams/1.1/en.png
 
-# # render pdf.
 
-# echo "building pdf..."
-# MARKDOWN=$(find markdown -type f -name '*.md' | sort)
-# pandoc $MARKDOWN --pdf-engine=xelatex -o manual.pdf --template=config.tex
-# echo "finished."
+# render pdf.
+
+echo "building pdf..."
+MARKDOWN=$(find markdown -type f -name '*.md' | sort)
+pandoc $MARKDOWN --pdf-engine=xelatex -o manual.pdf --template=config.tex
+echo "finished."

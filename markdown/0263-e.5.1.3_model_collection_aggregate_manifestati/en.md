@@ -6,30 +6,7 @@ The original individual Works and aggregating Work link together in associative 
 
 This model may occur particularly with internet broadcasts and digital files, whereby an aggregate Internet Manifestation is available as an Internet broadcast, but is streamed in from individual digital files (i.e. individual Items) seamlessly and consecutively, not from a single aggregated digital file, i.e. a thematic compilation of three short films of the late 19th century is devised and entitled “Victorian Cinema 3”[^228]. The internet user views the whole aggregate Manifestation as one entity, but it is streamed from separate digital Items streamed seamlessly one after the other.
 
-Pierrots
-(Work, c.1902)
-
-Victorian Cinema 3
-(Work, 1998)
-
-Lady Cyclists
-(Work, 1899)
-
-Victorian Cinema 3
-(Internet Manifestation, 2014)
-
-Washing
-the Sweep
-(Work, 1898)
-
-Pierrots
-(Digital Item)
-
-Lady Cyclists
-(Digital Item)
-
-Washing the Sweep
-(Digital Item)
+![](diagrams/E.5.1.3/en.svg)
 
 In the above scenario each of the Items could be given the same location/package number and each could have the alternative title of “Victorian Cinema 3”. Similarly, the individual titles could also be added as alternative titles to the aggregating Work if an institution wishes, to aid searchability and access.
 

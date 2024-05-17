@@ -9,7 +9,7 @@ async function renderSVG(filepath) {
     const page = await browser.newPage();
 
     const indexPath = path.resolve(__dirname, filepath+'.html');
-    console.log(indexPath)
+    // console.log(indexPath)
     await page.goto('file://' + indexPath);
 
     await page.waitForSelector('svg');
@@ -24,11 +24,12 @@ async function renderSVG(filepath) {
 
     await browser.close();
 
-    console.log('SVG graph saved successfully!');
+    // console.log('SVG graph saved successfully!');
 
 }
 
 diagrams = [
+    'diagrams/1.1/en',
     'diagrams/A.2.5/en',
     'diagrams/E.5.1.1/en',
     'diagrams/E.5.1.2/en',

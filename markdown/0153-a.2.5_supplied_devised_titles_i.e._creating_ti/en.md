@@ -47,5 +47,10 @@ Not all the above information has to be in the archive title if not discernible,
   Tango. Orange genie. Commercial
   Jones Collection footage. No. 5
 
+
+![](diagrams/A.2.5/en.svg)
+
+\newpage
+
 [^158]: Based on OLAC (2009), Part 3a, pp. 8-9.
 
