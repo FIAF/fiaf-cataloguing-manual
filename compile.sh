@@ -13,17 +13,16 @@ fi
 # render diagrams.
 
 
-# npm install jsdom
-# npm install d3@6
-# node diagrams/E.5.1.1/en.js
+npm install puppeteer
+npm install d3@6
 
 node render.js
 # gm convert ./diagrams/1.1/en.svg -resize 500x ./diagrams/1.1/en.png
 
 
-# render pdf.
+# # render pdf.
 
-echo "building pdf..."
-MARKDOWN=$(find markdown -type f -name '*.md' | sort)
-pandoc $MARKDOWN --pdf-engine=xelatex -o manual.pdf --template=config.tex
-echo "finished."
+# echo "building pdf..."
+# MARKDOWN=$(find markdown -type f -name '*.md' | sort)
+# pandoc $MARKDOWN --pdf-engine=xelatex -o manual.pdf --template=config.tex
+# echo "finished."
