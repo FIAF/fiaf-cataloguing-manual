@@ -3,9 +3,11 @@
 This section includes sample structures for how the elements can be applied across Works, Variants, Manifestations, and Items. Four models are provided, beginning with the more complete four-level model and ending with a simple one-level model. Models should be applied according to an institution’s system and also determined by the amount of information known about an Item.
 
 The full list of elements of description for each entity is set out in the following charts and diagrams, and in Chapters 1-3. See Appendix I, Examples of records containing core elements in the different levels of hierarchy for examples of real records which contain these core elements (as well as others) across the hierarchies.
-
-
-
+\pagebreak
+\newgeometry{left=0in, top=0in, bottom=0in, right=0in}
+![](diagrams/0.2.1a/en.svg)
+\pagebreak
+\restoregeometry
 
 Extended hierarchy model: 4 levels
 
