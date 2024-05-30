@@ -21,7 +21,7 @@
 
         // define the svg.
 
-        let svg = d3.select('#graph').append('svg').attr('width', 1000).attr('height', 2000).attr('xmlns', 'http://www.w3.org/2000/svg');
+        let svg = d3.select('#graph').append('svg').attr('width', 620).attr('height', 850).attr('xmlns', 'http://www.w3.org/2000/svg');
 
         // this step is possibly redundant.
 
@@ -29,21 +29,158 @@
         svg.append("rect")
             .attr("x", 0)
             .attr("y", 0)
-            .attr("width", 5000)
-            .attr("height", 5000)
+            .attr("width", 800)
+            .attr("height", 1200)
+            .style("fill", "orange");
+
+            // svg.append("rect")
+            // .attr("x", 0)
+            // .attr("y", 0)
+            // .attr("width", 700)
+            // .attr("height", 200)
+            // .style("fill", "red");
+
+        svg.append("rect")
+            .attr("x", 0)
+            .attr("y", 0)
+            .attr("width", 620)
+            .attr("height", 850)
+            .style("fill", "#eeeeee");
+
+            svg.append("rect")
+            .attr("x", 0)
+            .attr("y", 0)
+            .attr('rx', 10)
+            .attr("width", 620)
+            .attr("height", 50)
+            .attr('opacity', 0.5)
+            .style("fill", "lightgreen");
+
+
+svg.selectAll('g')
+                    .data([''])
+                    .join('text')
+                    .attr("class", 'header_text') 
+                    .attr('x', 620/2)
+                    .attr('y', 50/2+10)
+                    .attr('font-family', 'brownstd')
+                    .attr('font-size', '32px')
+                    .attr('font-weight', '400')
+                    .attr('text-anchor', 'middle')
+                    
+                    .attr('dominant-baseline', 'middle')
+                    .attr('alignment-baseline', 'middle')
+                    .attr('stroke-width', '0px')
+                    .attr('stroke', 'orange')
+                    .attr('fill', 'black')
+                    .text("Extended hierarchy model: 4 levels");
+        //     })
+
+
+
+
+[{'y_axis':100},{'y_axis':200},{'y_axis':300},{'y_axis':400}].forEach((d,i) => {
+
+    let my_pos = i;
+
+
+    let hey = svg.selectAll('g').data([''])
+            .join('rect')
+            .attr("x", 150)
+            .attr("y", d => (my_pos*180)+(my_pos*10)+70)
+            .attr('rx', 10)
+            .attr("width", 400)
+            .attr("height", 160)
+            .attr('opacity', 0.5)
+            .style("fill", "purple");
+
+
+    let me = svg.selectAll('g').data([''])
+            .join('rect')
+            .attr("x", 0)
+            .attr("y", d => (my_pos*180)+(my_pos*10)+60)
+            .attr('rx', 10)
+            .attr("width", 180)
+            .attr("height", 180)
+            .attr('opacity', 0.5)
             .style("fill", "orange");
 
 
-        svg.append("rect")
-            .attr("x", 7)
-            .attr("y", 10)
-            .attr("width", 800)
-            .attr("height", 1000)
-            .style("fill", "aqua");
+
+            // okay add your text in here
+
+
+})
+
+
+        // svg.append("rect")
+        //     .attr("x", 0)
+        //     .attr("y", 200)
+        //     .attr('rx', 10)
+        //     .attr("width", 100)
+        //     .attr("height", 100)
+        //     .attr('opacity', 0.5)
+        //     .style("fill", "lightgreen");
+
+
+        //     svg.append("rect")
+        //     .attr("x", 0)
+        //     .attr("y", 350)
+        //     .attr('rx', 10)
+        //     .attr("width", 100)
+        //     .attr("height", 100)
+        //     .attr('opacity', 0.5)
+        //     .style("fill", "lightgreen");
+
+
+            // svg.append("rect")
+            // .attr("x", 0)
+            // .attr("y", 500)
+            // .attr('rx', 10)
+            // .attr("width", 100)
+            // .attr("height", 100)
+            // .attr('opacity', 0.5)
+            // .style("fill", "lightgreen");
+
+
+            // svg.append("rect")
+            // .attr("x", 0)
+            // .attr("y", 650)
+            // .attr('rx', 10)
+            // .attr("width", 100)
+            // .attr("height", 100)
+            // .attr('opacity', 0.5)
+            // .style("fill", "lightgreen");
+
+
+            // to plot the top layer, introduce set 
+            // rounded box
+            // and then insert text on centered axis
 
 
 
+// [{'yes':'yes'},
+// {'yes':'yes'},
+// {'yes':'yes'},
+// {'yes':'yes'}].forEach(d, i => 
 
+// {
+
+//     svg.append("rect")
+//             .attr("x", 0)
+//             .attr("y", 200)
+//             .attr('rx', 10)
+//             .attr("width", 100)
+//             .attr("height", 100)
+//             .attr('opacity', 0.5)
+//             .style("fill", "blue");
+
+
+
+// }
+
+
+// )
 
 
 
