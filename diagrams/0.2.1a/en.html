@@ -79,9 +79,16 @@ svg.selectAll('g')
 
 
 
-[{'y_axis':100},{'y_axis':200},{'y_axis':300},{'y_axis':400}].forEach((d,i) => {
+[
+    {'y_axis':100, 'header':'Work', 'desc':'abstract entity'},
+    {'y_axis':200, 'header':'Variant','desc':'abstract entity\noptional'},
+    {'y_axis':300, 'header':'Manifestation', 'desc':'realisation, release,\nexhibition or\ndistribution entity'},
+    {'y_axis':400, 'header':'Item', 'desc': 'physical or digital\nobject'}].forEach((d,i) => {
 
     let my_pos = i;
+
+    let header_text = d['header'];
+    let desc_text = d['desc'];
 
 
     let hey = svg.selectAll('g').data([''])
@@ -105,9 +112,41 @@ svg.selectAll('g')
             .attr('opacity', 0.5)
             .style("fill", "orange");
 
+            var head_text = svg.selectAll('g')
+                    .data([''])
+                    .join('text')
+                    .attr("class", 'header_text') 
+                    .attr('x', 180/2)
+                    .attr("y", d => (my_pos*180)+(my_pos*10)+60+(180/2))
+                    .attr('font-family', 'brownstd')
+                    .attr('font-size', '24px')
+                    .attr('font-weight', '400')
+                    .attr('text-anchor', 'middle')
+                    
+                    .attr('dominant-baseline', 'middle')
+                    .attr('alignment-baseline', 'middle')
+                    .attr('stroke-width', '0px')
+                    .attr('stroke', 'orange')
+                    .attr('fill', 'black')
+                    .text(header_text);
+        //     })
+
+
 
 
             // okay add your text in here
+
+
+
+desc_text.split('\n').forEach((line) => {
+
+head_text.append("tspan")
+    .text(line)
+    .attr('x', 180/2)
+    .attr('font-size', '12px')
+    .attr("dy", 20); // Move down 20 units for the next line
+})
+
 
 
 })
