@@ -29,8 +29,10 @@ async function renderSVG(filepath) {
 }
 
 diagrams = [
-
     'diagrams/0.2.1a/en',
+    'diagrams/0.2.1b/en',
+    'diagrams/0.2.1c/en',
+    'diagrams/0.2.1d/en',
     'diagrams/1.1/en',
     'diagrams/A.2.5/en',
     'diagrams/E.5.1.1/en',
@@ -38,6 +40,5 @@ diagrams = [
     'diagrams/E.5.1.3/en',
     'diagrams/E.5.2.1/en',
 ]
-
 
 diagrams.forEach(d => renderSVG(d))

@@ -1,0 +1,1205 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+
+<body>
+    <div id="graph"></div>
+    <script>
+
+
+        // TODO, place text elements appropriatley
+        // TODO, add custom boxes
+        // TODO, add arrows with a more generalised system
+        // TODO, add yes/no markers
+
+
+        // define the svg.
+
+        let svg = d3.select('#graph').append('svg').attr('width', 620).attr('height', 850).attr('xmlns', 'http://www.w3.org/2000/svg');
+
+        // this step is possibly redundant.
+
+
+        svg.append("rect")
+            .attr("x", 0)
+            .attr("y", 0)
+            .attr("width", 800)
+            .attr("height", 1200)
+            .style("fill", "orange");
+
+            // svg.append("rect")
+            // .attr("x", 0)
+            // .attr("y", 0)
+            // .attr("width", 700)
+            // .attr("height", 200)
+            // .style("fill", "red");
+
+        svg.append("rect")
+            .attr("x", 0)
+            .attr("y", 0)
+            .attr("width", 620)
+            .attr("height", 850)
+            .style("fill", "#eeeeee");
+
+            svg.append("rect")
+            .attr("x", 0)
+            .attr("y", 0)
+            .attr('rx', 10)
+            .attr("width", 620)
+            .attr("height", 50)
+            .attr('opacity', 0.5)
+            .style("fill", "purple");
+
+
+svg.selectAll('g')
+                    .data([''])
+                    .join('text')
+                    .attr("class", 'header_text') 
+                    .attr('x', 620/2)
+                    .attr('y', 50/2+10)
+                    .attr('font-family', 'brownstd')
+                    .attr('font-size', '32px')
+                    .attr('font-weight', '400')
+                    .attr('text-anchor', 'middle')
+                    
+                    .attr('dominant-baseline', 'middle')
+                    .attr('alignment-baseline', 'middle')
+                    .attr('stroke-width', '0px')
+                    .attr('stroke', 'orange')
+                    .attr('fill', 'black')
+                    .text("Extended hierarchy model: 4 levels");
+        //     })
+
+
+
+
+[
+    {'y_axis':100, 'header':'Work', 'desc':'abstract entity', 'body': '--- Type - Whole conditions (serial / standalone / component part)\n--- Identifier (international, in-house unique identifier number)\n--- Titles (original, alternative, series/serial)\n--- Country (production country/countries)\n--- Dates (copyright / production)\n--- Language(s): original language of conception/presentation\n--- Notes/History\n--- Content: Synopsis, Genre, Form, Subject\n--- Agents: Cast, Credits, Rights holders'
+
+
+
+
+
+},
+    {'y_axis':200, 'header':'Variant','desc':'abstract entity\noptional', 'body':'--- Type - Whole conditions (serial / standalone / component part)\n--- Identifier (international, in-house unique identifier number)\n--- Titles (original, alternative, series/serial)\n--- Country (production country/countries)\n--- Dates (copyright / production)\n--- Language(s)\n--- Notes/History\n--- Content: Synopsis, Genre, Form, Subject\n--- Agents: Cast, Credits, Rights holders'},
+    {'y_axis':300, 'header':'Manifestation', 'desc':'realisation, release,\nexhibition or\ndistribution entity', 'body':'--- Type: pre-release, theatrical, non-theatrical, transmission, home-viewing, internet, restoration, not-for-release, etc\n---Identifier (international, in-house unique identifier number)\n--- Titles\n--- Language(s): language of dialogue, subtitles, dubbing, intertitles, etc.\n--- Format: 35mm film, Digital Cinema Package (DCP), Blu-ray, etc\n--- Extent: physical, logical, temporal, e.g. duration, running time, length, etc.\n--- Event: release, transmission, distribution, creation, dates\n--- Rights context: platforms, territories, dates\n--- Agents: Creator, Broadcaster, Distributor, Publisher'},
+    {'y_axis':400, 'header':'Item', 'desc': 'physical or digital\nobject', 'body':'--- Identifier (inventory numbers)\n--- Titles (original, alternative)\n--- Element Type : instantiation type, e.g. original negative, dupe positive, Lavender,\nsound negative\n--- Item specifics: carrier, base, gauge, format, digital file type, sound, sound sys-\ntems, colour standards etc.\n--- Extent: physical, temporal, e.g. footage, file size, duration--- Access conditions: Condition report - pristine, not for projection, heavy scratch-\nes, etc; storage location - home location, current location; Conservation recom-\nmendations: urgent transfer required, relocate to sub-zero, etc\n--- Event(s) (with Dates): creation, acquisition, accession, de-accession, loan, transport\n--- Acquisition: source, method, funding context, conditions of access, dates\n--- Agents: donors, archive technicians/conservationists, etc.\n--- Holding institution: name of the Item holder'}].forEach((d,i) => {
+
+    let my_pos = i;
+
+    let header_text = d['header'];
+    let desc_text = d['desc'];
+    let body_text = d['body'];
+
+
+    let hey = svg.selectAll('g').data([''])
+            .join('rect')
+            .attr("x", 150)
+            .attr("y", d => (my_pos*180)+(my_pos*10)+70)
+            .attr('rx', 10)
+            .attr("width", 400)
+            .attr("height", 160)
+            .attr('opacity', 0.5)
+            .style("fill", "purple");
+
+
+    let me = svg.selectAll('g').data([''])
+            .join('rect')
+            .attr("x", 0)
+            .attr("y", d => (my_pos*180)+(my_pos*10)+60)
+            .attr('rx', 10)
+            .attr("width", 180)
+            .attr("height", 180)
+            .attr('opacity', 1)
+            .style("fill", "purple");
+
+            var head_text = svg.selectAll('g')
+                    .data([''])
+                    .join('text')
+                    .attr("class", 'header_text') 
+                    .attr('x', 180/2)
+                    .attr("y", d => (my_pos*180)+(my_pos*10)+60+(180/2))
+                    .attr('font-family', 'brownstd')
+                    .attr('font-size', '24px')
+                    .attr('font-weight', '400')
+                    .attr('text-anchor', 'middle')
+                    
+                    .attr('dominant-baseline', 'middle')
+                    .attr('alignment-baseline', 'middle')
+                    .attr('stroke-width', '0px')
+                    .attr('stroke', 'orange')
+                    .attr('fill', 'black')
+                    .text(header_text);
+        //     })
+
+
+
+
+            // okay add your text in here
+
+
+
+desc_text.split('\n').forEach((line) => {
+
+head_text.append("tspan")
+    .text(line)
+    .attr('x', 180/2)
+    .attr('font-size', '12px')
+    .attr("dy", 20); // Move down 20 units for the next line
+})
+
+
+
+
+var body_line = svg.selectAll('g')
+                    .data([''])
+                    .join('text')
+                    .attr("class", 'body_text') 
+                    .attr("x", 200)
+                    .attr("y", d => (my_pos*180)+(my_pos*10)+60+20)
+                    .attr('font-family', 'brownstd')
+                    .attr('font-size', '0px')
+                    .attr('font-weight', '400')
+                    .attr('text-anchor', 'left')
+                    .attr('opacity', 1)
+                    .attr('dominant-baseline', 'middle')
+                    .attr('alignment-baseline', 'middle')
+                    .attr('stroke-width', '0px')
+                    .attr('stroke', 'orange')
+                    .attr('fill', 'black')
+                    .text('BLAB');
+        
+                    // IF YOU DID SOME FANCY MATHS
+                    // YOU COULD FIGURE OUT HOW MANY LINES OF TEXT HAVE TO FIT
+                    // AND MOVE THE BLOCK DOWN ACCORDINGLY
+                    // OR SECOND OPTION
+                    // GET MIDDLE COORD FOR TEXT, MIDDLE FOR BLOCK
+                    // AND SYNC UP
+
+
+
+        body_text.split('\n').forEach((line) => {
+
+            body_line.append("tspan")
+    .text(line)
+    .attr('x', 200)
+    .attr('font-size', '8px')
+    .attr("dy", 10); // Move down 20 units for the next line
+})
+
+
+
+})
+
+
+        // svg.append("rect")
+        //     .attr("x", 0)
+        //     .attr("y", 200)
+        //     .attr('rx', 10)
+        //     .attr("width", 100)
+        //     .attr("height", 100)
+        //     .attr('opacity', 0.5)
+        //     .style("fill", "purple");
+
+
+        //     svg.append("rect")
+        //     .attr("x", 0)
+        //     .attr("y", 350)
+        //     .attr('rx', 10)
+        //     .attr("width", 100)
+        //     .attr("height", 100)
+        //     .attr('opacity', 0.5)
+        //     .style("fill", "purple");
+
+
+            // svg.append("rect")
+            // .attr("x", 0)
+            // .attr("y", 500)
+            // .attr('rx', 10)
+            // .attr("width", 100)
+            // .attr("height", 100)
+            // .attr('opacity', 0.5)
+            // .style("fill", "purple");
+
+
+            // svg.append("rect")
+            // .attr("x", 0)
+            // .attr("y", 650)
+            // .attr('rx', 10)
+            // .attr("width", 100)
+            // .attr("height", 100)
+            // .attr('opacity', 0.5)
+            // .style("fill", "purple");
+
+
+            // to plot the top layer, introduce set 
+            // rounded box
+            // and then insert text on centered axis
+
+
+
+// [{'yes':'yes'},
+// {'yes':'yes'},
+// {'yes':'yes'},
+// {'yes':'yes'}].forEach(d, i => 
+
+// {
+
+//     svg.append("rect")
+//             .attr("x", 0)
+//             .attr("y", 200)
+//             .attr('rx', 10)
+//             .attr("width", 100)
+//             .attr("height", 100)
+//             .attr('opacity', 0.5)
+//             .style("fill", "blue");
+
+
+
+// }
+
+
+// )
+
+
+
+
+        // nodes = [
+        //     {
+        //         'entry': 'a',
+        //         'shape': 'rect',
+        //         "x": 350,
+        //         "y": 50,
+        //         "r": 20,
+        //         'text': "Does the material in question\nconstitute exactly the same\ncontent as the original release\nin the country of origin? ",
+        //     },
+
+
+        //     {
+        //         'entry': 'b',
+        //         'shape': 'rect',
+        //         "x": 800,
+        //         "y": 200,
+        //         "r": 0,
+        //         'text': "Yes",
+        //     },
+
+
+        //     {
+        //         'entry': 'c',
+        //         'shape': 'rect',
+        //         "x": 800,
+        //         "y": 250,
+        //         "r": 0,
+        //         'text': "Catalogue material as\nMANIFESTATION of\noriginal work",
+        //     },
+
+
+
+
+        //     {
+        //         'entry': 'd',
+        //         'shape': 'rect',
+        //         "x": 100,
+        //         "y": 200,
+        //         "r": 0,
+        //         'text': "No",
+        //     },
+
+
+
+
+        //     {
+        //         'entry': 'e',
+        //         'shape': 'rect',
+        //         "x": 100,
+        //         "y": 275,
+        //         "r": 20,
+        //         'text': "Are the differences minor?",
+        //     },
+
+
+        //     {
+        //         'entry': 'f',
+        //         'shape': 'rect',
+        //         "x": 100,
+        //         "y": 350,
+        //         "r": 0,
+        //         'text': "Catalogue material as\nVARIANT of orignal work",
+        //     },
+
+        //     {
+        //         'entry': 'g',
+        //         'shape': 'rect',
+        //         "x": 250,
+        //         "y": 425,
+        //         "r": 10,
+        //         'text': "Minor changes in performers/performance",
+        //     },
+
+
+        //     {
+        //         'entry': 'h',
+        //         'shape': 'rect',
+        //         "x": 400,
+        //         "y": 475,
+        //         "r": 0,
+        //         'text': "Removal/replacement/addition\nof some but not most\ncontributors",
+        //     },
+
+
+
+        //     {
+        //         'entry': 'i',
+        //         'shape': 'rect',
+        //         "x": 400,
+        //         "y": 570,
+        //         "r": 0,
+        //         'text': "Examples:\nChanges to crew/cast related\nto different language versions.\nChanges to crew/cast related\nto restorations/preservations.",
+        //     },
+
+
+
+        //     {
+        //         'entry': 'j',
+        //         'shape': 'rect',
+        //         "x": 250,
+        //         "y": 700,
+        //         "r": 10,
+        //         'text': "Minor changes in footage or constinuity",
+        //     },
+
+        //     {
+        //         'entry': 'k',
+        //         'shape': 'rect',
+        //         "x": 400,
+        //         "y": 750,
+        //         "r": 0,
+        //         'text': "Editing differences including\nfootage or continuity changes\nfrom original work.",
+        //     },
+
+
+
+        //     {
+        //         'entry': 'l',
+        //         'shape': 'rect',
+        //         "x": 400,
+        //         "y": 840,
+        //         "r": 0,
+        //         'text': "Examples:\n- Rules of the Game\n- Blade Runner (1982/2007)\n- Mr. Arkadin (1955/1956)",
+        //     },
+
+        //     {
+        //         'entry': 'm',
+        //         'shape': 'rect',
+        //         "x": 400,
+        //         "y": 950,
+        //         "r": 0,
+        //         'text': "Edits of work for reasons of\nduration/censorship/augmentation\netc",
+        //     },
+
+        //     {
+        //         'entry': 'n',
+        //         'shape': 'rect',
+        //         "x": 400,
+        //         "y": 1050,
+        //         "r": 0,
+        //         'text': "Examples:\nTelevion or airline versions\nof works edited for duration,\nlanguage, content, etc.\nPreservation/restoration/alternate\nending versions",
+        //     },
+        //     {
+        //         'entry': 'o',
+        //         'shape': 'rect',
+        //         "x": 250,
+        //         "y": 1200,
+        //         "r": 10,
+        //         'text': "Minor changes in textual aspect",
+        //     },
+
+        //     {
+        //         'entry': 'p',
+        //         'shape': 'rect',
+        //         "x": 400,
+        //         "y": 1250,
+        //         "r": 0,
+        //         'text': "Changes/additions/removal of\nsome dialogue, narration,\naudio or text",
+        //     },
+
+        //     {
+        //         'entry': 'q',
+        //         'shape': 'rect',
+        //         "x": 400,
+        //         "y": 1350,
+        //         "r": 0,
+        //         'text': "Examples:\nAddition/removal of\nexplanatory text,dubbing,\nsubtitles etc.\n- Star Wars Episode 2 (2002)\n(dubbed into 19 languages)\nSonorized versions of silent\nfilms\n- Cabirira 1914/1931",
+        //     },
+
+        //     {
+        //         'entry': 'r',
+        //         'shape': 'rect',
+        //         "x": 400,
+        //         "y": 1575,
+        //         "r": 0,
+        //         'text': "Subtitles/dubbing etc of same\ntextual content into different\nlanguages",
+        //     },
+
+        //     {
+        //         'entry': 's',
+        //         'shape': 'rect',
+        //         "x": 400,
+        //         "y": 1675,
+        //         "r": 0,
+        //         'text': "Examples:\n- Deep Impact (1998, English\nDialogue) / Impacto Profundo\n(1998, Portuguese dialogue,\nSpanish subtitles)",
+        //     },
+
+
+
+
+        //     {
+        //         'entry': 'major-a',
+        //         'shape': 'rect',
+        //         "x": 550,
+        //         "y": 275,
+        //         "r": 20,
+        //         'text': "Are the differences major?",
+        //     },
+
+
+        //     {
+        //         'entry': 'major-b',
+        //         'shape': 'rect',
+        //         "x": 550,
+        //         "y": 350,
+        //         "r": 0,
+        //         'text': "Catalogue material as NEW WORK",
+        //     },
+
+        //     {
+        //         'entry': 'major-c',
+        //         'shape': 'rect',
+        //         "x": 700,
+        //         "y": 425,
+        //         "r": 10,
+        //         'text': "Major changes in performers/performance",
+        //     },
+
+        //     {
+        //         'entry': 'major-d',
+        //         'shape': 'rect',
+        //         "x": 850,
+        //         "y": 475,
+        //         "r": 0,
+        //         'text': "Each filming of a\nperformance-based work",
+        //     },
+
+        //     {
+        //         'entry': 'major-e',
+        //         'shape': 'rect',
+        //         "x": 850,
+        //         "y": 550,
+        //         "r": 0,
+        //         'text': "Example:\nFilmed stage performances of\nMacbeth or Hamlet",
+        //     },
+
+        //     {
+        //         'entry': 'major-f',
+        //         'shape': 'rect',
+        //         "x": 850,
+        //         "y": 650,
+        //         "r": 0,
+        //         'text': "Removal/replacement of most contributors",
+        //     },
+
+        //     {
+        //         'entry': 'major-g',
+        //         'shape': 'rect',
+        //         "x": 850,
+        //         "y": 700,
+        //         "r": 0,
+        //         'text': "Example:\n- Chickens Come Home\n(1931)",
+        //     },
+
+        //     {
+        //         'entry': 'major-h',
+        //         'shape': 'rect',
+        //         "x": 700,
+        //         "y": 800,
+        //         "r": 10,
+        //         'text': "Major changes in footage or continuity",
+        //     },
+
+        //     {
+        //         'entry': 'major-i',
+        //         'shape': 'rect',
+        //         "x": 850,
+        //         "y": 850,
+        //         "r": 0,
+        //         'text': "Remakes of the same\nstory/plot",
+        //     },
+
+        //     {
+        //         'entry': 'major-j',
+        //         'shape': 'rect',
+        //         "x": 850,
+        //         "y": 925,
+        //         "r": 0,
+        //         'text': "Examples:\n-Planet of the Apes\n(1968/2001)\n- Scarface (1932/1983)\n- The Man Who Knew Too Much\n(1934/1936)",
+        //     },
+
+        //     {
+        //         'entry': 'major-k',
+        //         'shape': 'rect',
+        //         "x": 850,
+        //         "y": 1075,
+        //         "r": 0,
+        //         'text': "Different language versions\nshot at the same time",
+        //     },
+
+        //     {
+        //         'entry': 'major-l',
+        //         'shape': 'rect',
+        //         "x": 850,
+        //         "y": 1150,
+        //         "r": 0,
+        //         'text': "Examples:\n- Dracula (1931) English and\nSpanish\n- Anna Christie (1930/1931)\nEnglish and German",
+        //     },
+
+        //     {
+        //         'entry': 'major-m',
+        //         'shape': 'rect',
+        //         "x": 700,
+        //         "y": 1275,
+        //         "r": 10,
+        //         'text': "Major changes in textual aspect",
+        //     },
+
+        //     {
+        //         'entry': 'major-n',
+        //         'shape': 'rect',
+        //         "x": 850,
+        //         "y": 1325,
+        //         "r": 0,
+        //         'text': "Complete change of dialogue\nor narration to an existing\nwork",
+        //     },
+
+        //     {
+        //         'entry': 'major-o',
+        //         'shape': 'rect',
+        //         "x": 850,
+        //         "y": 1425,
+        //         "r": 0,
+        //         'text': "Example:\n- What's Up, Tiger Lily?\n(1966)",
+        //     },
+
+        //     {
+        //         'entry': 'major-p',
+        //         'shape': 'rect',
+        //         "x": 850,
+        //         "y": 1525,
+        //         "r": 0,
+        //         'text': "Edits of the same footage by\ndifferent people into new\nsequences.",
+        //     },
+
+        //     {
+        //         'entry': 'major-q',
+        //         'shape': 'rect',
+        //         "x": 850,
+        //         "y": 1625,
+        //         "r": 0,
+        //         'text': "Example:\n1910-13 Scott\nArctic footage",
+        //     },
+
+
+        //     // {
+        //     //     'entry': 'b',
+        //     //     'shape': 'rhom',
+        //     //     "x": 350,
+        //     //     "y": 300,
+        //     //     "r": 0,
+        //     //     "text": "Is it a recognised\nform/genre?"
+        //     // },
+        //     // {
+        //     //     'entry': 'c',
+        //     //     'shape': 'rhom',
+        //     //     "x": 200,
+        //     //     "y": 500,
+        //     //     "r": 0,
+        //     //     "text": "Does it have\na relationship to a\nparticular work/variant,\nor multi-part work?\n. ",
+        //     // },
+        //     // {
+        //     //     'entry': 'd',
+        //     //     'shape': 'rhom',
+        //     //     "x": 500,
+        //     //     "y": 500,
+        //     //     "r": 0,
+        //     //     "text": "Is it related to\na common theme\nor a person, family\nor corporate body\nas subject?"
+        //     // },
+        //     // {
+        //     //     'entry': 'e',
+        //     //     'shape': 'rhom',
+        //     //     "x": 100,
+        //     //     "y": 750,
+        //     //     "r": 0,
+        //     //     "text": "Is title of\nthat related\nwork/ variant,\nmulti-part work\nknown?"
+        //     // },
+        //     // {
+        //     //     'entry': 'f',
+        //     //     'shape': 'rhom',
+        //     //     "x": 600,
+        //     //     "y": 750,
+        //     //     "r": 0,
+        //     //     "text": "Is it lacking\nform/genre,\ntheme,\nor subject?"
+        //     // },
+        //     // {
+        //     //     'entry': 'g',
+        //     //     'shape': 'rect',
+        //     //     "x": 125,
+        //     //     "y": 1000,
+        //     //     "r": 0,
+        //     //     "text": "Create partially\ndevised/supplied\ntitle with title of\nwork/variant\nor multi-part work\n+ form term"
+        //     // },
+        //     // {
+        //     //     'entry': 'h',
+        //     //     'shape': 'rect',
+        //     //     "x": 275,
+        //     //     "y": 1000,
+        //     //     "r": 0,
+        //     //     "text": "Create fully\ndevised/supplied\ntitle with form term\n+ additional\ndescriptive\ninformation"
+        //     // },
+        //     // {
+        //     //     'entry': 'i',
+        //     //     'shape': 'rect',
+        //     //     "x": 425,
+        //     //     "y": 1000,
+        //     //     "r": 0,
+        //     //     "text": "Create fully\ndevised/supplied\ntitle with theme\nor subject term term\n+ additional\ndescriptive\ninformation"
+        //     // },
+        //     // {
+        //     //     'entry': 'j',
+        //     //     'shape': 'rect',
+        //     //     "x": 575,
+        //     //     "y": 1000,
+        //     //     "r": 0,
+        //     //     "text": "Create fully\ndevised/supplied\ntitle with descriptive\ninformation covering\nthe “five Ws”: who,\nwhat, when, where"
+        //     // },
+        // ]
+
+
+        // nodes.forEach(d => d.lines = d.text.split('\n'))
+
+
+        // // rewrite links, they should instead work like
+        // // select class and side (t,b,l,r) and the determine midway
+
+
+        // let links = [
+        //     { 'start_class': 'a', 'start_facet': 'b', 
+        //     'end_class': 'b', 'end_facet': 'l', 'label':'yes' },
+        //     { 'start_class': 'b', 'start_facet': 'b', 
+        //     'end_class': 'c', 'end_facet': 't', 'label':'yes' },
+        //     { 'start_class': 'a', 'start_facet': 'b', 
+        //     'end_class': 'd', 'end_facet': 'r', 'label':'yes' },
+        //     { 'start_class': 'd', 'start_facet': 'b', 
+        //     'end_class': 'e', 'end_facet': 't', 'label':'yes' },
+        //     { 'start_class': 'e', 'start_facet': 'b', 
+        //     'end_class': 'f', 'end_facet': 't', 'label':'yes' },
+
+        //     { 'start_class': 'f', 'start_facet': 'b', 
+        //     'end_class': 'g', 'end_facet': 'l', 'label':'yes' },
+        //     { 'start_class': 'g', 'start_facet': 'b', 
+        //     'end_class': 'h', 'end_facet': 'l', 'label':'yes' },
+        //     { 'start_class': 'h', 'start_facet': 'b', 
+        //     'end_class': 'i', 'end_facet': 't', 'label':'yes' },
+        //     { 'start_class': 'f', 'start_facet': 'b', 
+        //     'end_class': 'j', 'end_facet': 'l', 'label':'yes' },
+
+        //     { 'start_class': 'j', 'start_facet': 'b', 
+        //     'end_class': 'k', 'end_facet': 'l', 'label':'yes' },
+
+        //     { 'start_class': 'k', 'start_facet': 'b', 
+        //     'end_class': 'l', 'end_facet': 't', 'label':'yes' },
+
+        //     { 'start_class': 'j', 'start_facet': 'b', 
+        //     'end_class': 'm', 'end_facet': 'l', 'label':'yes' },
+
+        //     { 'start_class': 'm', 'start_facet': 'b', 
+        //     'end_class': 'n', 'end_facet': 't', 'label':'yes' },
+
+        //     { 'start_class': 'f', 'start_facet': 'b', 
+        //     'end_class': 'o', 'end_facet': 'l', 'label':'yes' },
+
+
+        //     { 'start_class': 'o', 'start_facet': 'b', 
+        //     'end_class': 'p', 'end_facet': 'l', 'label':'yes' },
+
+        //     { 'start_class': 'p', 'start_facet': 'b', 
+        //     'end_class': 'q', 'end_facet': 't', 'label':'yes' },
+
+
+        //     { 'start_class': 'o', 'start_facet': 'b', 
+        //     'end_class': 'r', 'end_facet': 'l', 'label':'yes' },
+
+        //     { 'start_class': 'r', 'start_facet': 'b', 
+        //     'end_class': 's', 'end_facet': 't', 'label':'yes' },
+        //     { 'start_class': 'd', 'start_facet': 'b', 
+        //     'end_class': 'major-a', 'end_facet': 't', 'label':'yes' },
+
+        //     { 'start_class': 'major-a', 'start_facet': 'b', 
+        //     'end_class': 'major-b', 'end_facet': 't', 'label':'yes' },
+
+
+        //     { 'start_class': 'major-b', 'start_facet': 'b', 
+        //     'end_class': 'major-c', 'end_facet': 'l', 'label':'yes' },
+
+
+        //     { 'start_class': 'major-c', 'start_facet': 'b', 
+        //     'end_class': 'major-d', 'end_facet': 'l', 'label':'yes' },
+
+        //     { 'start_class': 'major-d', 'start_facet': 'b', 
+        //     'end_class': 'major-e', 'end_facet': 't', 'label':'yes' },
+
+        //     { 'start_class': 'major-c', 'start_facet': 'b', 
+        //     'end_class': 'major-f', 'end_facet': 'l', 'label':'yes' },
+
+        //     { 'start_class': 'major-f', 'start_facet': 'b', 
+        //     'end_class': 'major-g', 'end_facet': 't', 'label':'yes' },
+
+
+
+        //     { 'start_class': 'major-b', 'start_facet': 'b', 
+        //     'end_class': 'major-h', 'end_facet': 'l', 'label':'yes' },
+
+        //     { 'start_class': 'major-h', 'start_facet': 'b', 
+        //     'end_class': 'major-i', 'end_facet': 'l', 'label':'yes' },
+        //     { 'start_class': 'major-i', 'start_facet': 'b', 
+        //     'end_class': 'major-j', 'end_facet': 't', 'label':'yes' },
+
+
+        //     { 'start_class': 'major-h', 'start_facet': 'b', 
+        //     'end_class': 'major-k', 'end_facet': 'l', 'label':'yes' },
+        //     { 'start_class': 'major-k', 'start_facet': 'b', 
+        //     'end_class': 'major-l', 'end_facet': 't', 'label':'yes' },
+
+
+
+        //     { 'start_class': 'major-b', 'start_facet': 'b', 
+        //     'end_class': 'major-m', 'end_facet': 'l', 'label':'yes' },
+
+
+
+        //     { 'start_class': 'major-m', 'start_facet': 'b', 
+        //     'end_class': 'major-n', 'end_facet': 'l', 'label':'yes' },
+        //     { 'start_class': 'major-n', 'start_facet': 'b', 
+        //     'end_class': 'major-o', 'end_facet': 't', 'label':'yes' },
+
+
+
+        //     { 'start_class': 'major-m', 'start_facet': 'b', 
+        //     'end_class': 'major-p', 'end_facet': 'l', 'label':'yes' },
+        //     { 'start_class': 'major-p', 'start_facet': 'b', 
+        //     'end_class': 'major-q', 'end_facet': 't', 'label':'yes' },
+
+
+
+        //     // { 'start_class': 'b', 'start_facet': 'l', 
+        //     // 'end_class': 'c', 'end_facet': 't', 'label':'yes' },
+
+
+        //     // { 'start_class': 'b', 'start_facet': 'r', 
+        //     // 'end_class': 'd', 'end_facet': 't', 'label':'yes' },
+
+
+        //     // { 'start_class': 'c', 'start_facet': 'l', 
+        //     // 'end_class': 'e', 'end_facet': 't', 'label':'yes' },
+
+        //     // { 'start_class': 'c', 'start_facet': 'l', 
+        //     // 'end_class': 'e', 'end_facet': 't', 'label':'yes' },
+
+
+        //     // { 'start_class': 'c', 'start_facet': 'b', 
+        //     // 'end_class': 'h', 'end_facet': 't', 'label':'yes' },
+
+
+        //     // { 'start_class': 'e', 'start_facet': 'r', 
+        //     // 'end_class': 'h', 'end_facet': 't', 'label':'yes' },
+
+
+        //     // { 'start_class': 'e', 'start_facet': 'b', 
+        //     // 'end_class': 'g', 'end_facet': 't', 'label':'yes' },
+
+        //     // { 'start_class': 'd', 'start_facet': 'l', 
+        //     // 'end_class': 'i', 'end_facet': 't', 'label':'yes' },
+        //     // { 'start_class': 'd', 'start_facet': 'r', 
+        //     // 'end_class': 'f', 'end_facet': 't', 'label':'yes' },
+        //     // { 'start_class': 'f', 'start_facet': 'b', 
+        //     // 'end_class': 'j', 'end_facet': 't', 'label':'yes' },
+
+
+
+
+
+        // ]
+
+        // // write initial text. use css for text charateristics.
+
+        // nodes.forEach(
+        //     d => {
+        //         let top_class = d.entry
+        //         let top_x = d.x
+        //         let top_y = d.y
+        //         let textElement = svg.selectAll('g')
+        //             .data(d['lines'])
+        //             .join('text')
+        //             .attr("class", top_class) 
+        //             .attr('x', d => top_x)
+        //             .attr('y', (d, i) => top_y + (i * 20))
+        //             .attr('font-family', 'brownstd')
+        //             .attr('font-size', '12px')
+        //             .attr('font-weight', '100')
+        //             .attr('text-anchor', 'middle')
+        //             .attr('alignment-baseline', 'middle')
+        //             .attr('stroke', 'black')
+        //             .attr('fill', 'black')
+        //             .text(d => d);
+        //     })
+
+        // // function to collect bounding boxes by class.
+
+        // function get_box(classroom) {
+
+        //     var elements = d3.selectAll("." + classroom);
+        //     var minX = Infinity;
+        //     var minY = Infinity;
+        //     var maxX = -Infinity;
+        //     var maxY = -Infinity;
+
+        //     elements.each(function () {
+        //         var bbox = this.getBoundingClientRect();
+        //         minX = Math.min(minX, bbox.left - 8);
+        //         minY = Math.min(minY, bbox.top - 11);
+        //         maxX = Math.max(maxX, bbox.right - 8);
+        //         maxY = Math.max(maxY, bbox.bottom - 12);
+        //     });
+
+        //     return { 'x': minX, 'y': minY, 'width': maxX - minX, 'height': maxY - minY }
+
+        // }
+
+        // // apply function
+
+        // nodes.forEach((d) => d.class_bbox = get_box(d.entry))
+
+      
+        // // apply bounding
+        // // TODO, but what kind of bounding?
+
+        // let nodes_rect = nodes.filter(d => d.shape == 'rect')
+
+        // svg.selectAll('g')
+        //     .data(nodes)
+        //     .join('rect')
+        //     .attr('class', d => d.entry + '_box')
+        //     .attr('x', d => {if (d.shape == 'rect') {return d.class_bbox.x - 10} else {return d.class_bbox.x - 10 - 30}})
+        //     .attr('y', d => {if (d.shape == 'rect') {return d.class_bbox.y - 10} else {return d.class_bbox.y - 10 - 30}})
+        //     .attr("rx", d => d.r)
+        //     .attr('width', d => {if (d.shape == 'rect') {return d.class_bbox.width + 20} else {return d.class_bbox.width + 20 + 60}})
+        //     .attr('height', d => {if (d.shape == 'rect') {return d.class_bbox.height + 20} else {return d.class_bbox.height + 20 + 60}})
+        //     .attr('stroke', 'black')
+        //     .attr('stroke-width', '1px')
+        //     .attr('opacity', d => {if (d.shape == 'rect') {return 1} else {return 0}})
+        //     .attr('fill', 'white')
+
+        // let nodes_rhom = nodes.filter(d => d.shape == 'rhom')
+
+
+
+        // function calculate_rhom(rect_box) {
+
+        //     let distance = 40
+
+        //     let p1x = rect_box.x + (rect_box.width / 2)
+        //     let p1y = rect_box.y - distance
+        //     let p2x = rect_box.x + (rect_box.width) + distance
+        //     let p2y = rect_box.y + (rect_box.height / 2)
+        //     let p3x = rect_box.x + (rect_box.width / 2)
+        //     let p3y = rect_box.y + (rect_box.height) + distance
+        //     let p4x = rect_box.x - distance
+        //     let p4y = rect_box.y + (rect_box.height / 2)
+
+        //     let rhom_path = "M " + p1x + " " + p1y + " " + p2x + " " + p2y + " " + p3x + " " + p3y + " " + p4x + " " + p4y + " Z"
+
+        //     return rhom_path
+        // }
+
+        // // apply function
+
+        // nodes_rhom.forEach((d) => d.pathway = calculate_rhom(d.class_bbox))
+
+
+
+
+
+        // svg.selectAll('g')
+        //     .data(nodes_rhom)
+        //     .join('path')
+        //     .attr('class', d => d.entry + '_box')
+        //     .attr("d", d => d.pathway)
+        //     .style("stroke-width", 1)
+        //     .style("stroke-dasharray", "1,0")
+        //     .style("fill", "white")
+        //     .style("stroke", "black");
+
+        // // define the arrowhead marker
+
+
+
+        // // svg.append('defs').append('marker')
+        // //     .attr('id', 'arrowhead-start')
+        // //     .attr('viewBox', '-0 -5 10 10')
+        // //     .attr('refX', 0)
+        // //     .attr('refY', 0)
+        // //     .attr('orient', 'auto')
+        // //     .attr('markerWidth', 8)
+        // //     .attr('markerHeight', 8)
+        // //     .attr('xoverflow', 'visible')
+        // //     .append('svg:path')
+        // //     .attr('d', 'M 10,-5 L 0 ,0 L 10,5')
+        // //     .attr('fill', 'black');
+
+        // // svg.append('defs').append('marker')
+        // //     .attr('id', 'arrowhead-end')
+        // //     .attr('viewBox', '-0 -5 10 10')
+        // //     .attr('refX', 10)
+        // //     .attr('refY', 0)
+        // //     .attr('orient', 'auto')
+        // //     .attr('markerWidth', 8)
+        // //     .attr('markerHeight', 8)
+        // //     .attr('xoverflow', 'visible')
+        // //     .append('svg:path')
+        // //     .attr('d', 'M 0,-5 L 10 ,0 L 0,5')
+        // //     .attr('fill', 'black');
+
+        // // apply links between bounding boxes.
+
+        // console.log('***', nodes)
+
+        // links.forEach(
+        //     d => {
+
+
+        //         // calculate where the start point should be based on start_class and start_facet
+
+        //         // console.log('@@@', d.start_class, d.end_class)
+
+        //         // collect x, y, w, h and then work out t,b,l,r, end then pick based on incoming facet
+        //         test1 = parseFloat(d3.selectAll('.' + d.start_class + '_box').attr('x'))
+        //         test2 = parseFloat(d3.selectAll('.' + d.end_class + '_box').attr('x'))
+        //         console.log('&&&', test1)
+        //         console.log('&&&', test2)
+
+
+        //         start_x = parseFloat(d3.selectAll('.' + d.start_class + '_box').attr('x'))
+        //         start_y = parseFloat(d3.selectAll('.' + d.start_class + '_box').attr('y'))
+        //         start_h = parseFloat(d3.selectAll('.' + d.start_class + '_box').attr('height'))
+        //         start_w = parseFloat(d3.selectAll('.' + d.start_class + '_box').attr('width'))
+        //         console.log('start_x',start_x)
+
+        //         start_pos = {
+
+        //             't': [start_x + (start_w / 2), start_y],
+        //             'r': [start_x + (start_w), start_y + (start_h / 2)],
+        //             'b': [start_x + (start_w / 2), start_y + (start_h)],
+        //             'l': [start_x, start_y + (start_h / 2)]
+        //         }
+
+        //         end_x = parseFloat(d3.selectAll('.' + d.end_class + '_box').attr('x'))
+        //         end_y = parseFloat(d3.selectAll('.' + d.end_class + '_box').attr('y'))
+        //         end_h = parseFloat(d3.selectAll('.' + d.end_class + '_box').attr('height'))
+        //         end_w = parseFloat(d3.selectAll('.' + d.end_class + '_box').attr('width'))
+
+        //         console.log('end_x',end_x)
+        //         console.log('end_y',end_y)
+        //         console.log('end_h',end_h)
+        //         console.log('end_w',end_w)
+        //         end_pos = {
+
+        //             't': [end_x + (end_w / 2), end_y],
+        //             'r': [end_x + (end_w), end_y + (end_h / 2)],
+        //             'b': [end_x + (end_w / 2), end_y + (end_h)],
+        //             'l': [end_x, end_y + (end_h / 2)]
+        //         }
+
+        //         console.log('YES', start_pos[d.start_facet])
+        //         console.log('YES', end_pos[d.end_facet])
+        //         // x2 = parseFloat(d3.selectAll('.'+d.b+'_box').attr('x'))
+        //         // y2 = parseFloat(d3.selectAll('.'+d.b+'_box').attr('y'))
+        //         // h2 = parseFloat(d3.selectAll('.'+d.b+'_box').attr('height'))
+        //         // w2 = parseFloat(d3.selectAll('.'+d.b+'_box').attr('width'))
+
+        //         // // const curve = d3.line().curve(d3.curveBumpX);
+        //         const curve = d3.line().curve(d3.curveStepBefore);
+
+        //         // // curveStep
+
+        //         // if (d.direct == "LR") {
+        //             let line_start = start_pos[d.start_facet]
+        //             let line_end = end_pos[d.end_facet]
+
+
+
+        //         let arrow_up = 'M -5,0 L 0,-10 L 5,0'
+        //         let arrow_down = 'M -5,0 L 0,10 L 5,0'
+        //         let arrow_right = 'M 10,-5 L 0 ,0 L 10,5'
+        //         let arrow_left = 'M 0,-5 L 10 ,0 L 0,5'
+
+   
+
+        //             let orient = {
+        //                 't':-90,
+        //                 'b':90,
+        //                 'l':180,
+        //                 'r':0
+        //             }
+
+        //         svg.append('defs').append('marker')
+        //     .attr('id', 'arrowhead_t')
+        //     .attr('viewBox', '-0 -5 10 10')
+        //     .attr('refX', 0)
+        //     .attr('refY', 0)
+        //     .attr('orient', -90)
+        //     .attr('markerWidth', 8)
+        //     .attr('markerHeight', 8)
+        //     .attr('xoverflow', 'visible')
+        //     .append('svg:path')
+        //     .attr('d', 'M 10,-5 L 0 ,0 L 10,5')
+        //     .attr('fill', 'black');
+
+        //     svg.append('defs').append('marker')
+        //     .attr('id', 'arrowhead_b')
+        //     .attr('viewBox', '-0 -5 10 10')
+        //     .attr('refX', 0)
+        //     .attr('refY', 0)
+        //     .attr('orient', 90)
+        //     .attr('markerWidth', 8)
+        //     .attr('markerHeight', 8)
+        //     .attr('xoverflow', 'visible')
+        //     .append('svg:path')
+        //     .attr('d', 'M 10,-5 L 0 ,0 L 10,5')
+        //     .attr('fill', 'black');
+
+
+
+        //     svg.append('defs').append('marker')
+        //     .attr('id', 'arrowhead_l')
+        //     .attr('viewBox', '-0 -5 10 10')
+        //     .attr('refX', 0)
+        //     .attr('refY', 0)
+        //     .attr('orient', 180)
+        //     .attr('markerWidth', 8)
+        //     .attr('markerHeight', 8)
+        //     .attr('xoverflow', 'visible')
+        //     .append('svg:path')
+        //     .attr('d', 'M 10,-5 L 0 ,0 L 10,5')
+        //     .attr('fill', 'black');
+
+
+
+        //     svg.append('defs').append('marker')
+        //     .attr('id', 'arrowhead_r')
+        //     .attr('viewBox', '-0 -5 10 10')
+        //     .attr('refX', 0)
+        //     .attr('refY', 0)
+        //     .attr('orient', 0)
+        //     .attr('markerWidth', 8)
+        //     .attr('markerHeight', 8)
+        //     .attr('xoverflow', 'visible')
+        //     .append('svg:path')
+        //     .attr('d', 'M 10,-5 L 0 ,0 L 10,5')
+        //     .attr('fill', 'black');
+
+        // // svg.append('defs').append('marker')
+        // //     .attr('id', 'arrowhead-end')
+        // //     .attr('viewBox', '-0 -5 10 10')
+        // //     .attr('refX', 10)
+        // //     .attr('refY', 0)
+        // //     .attr('orient', 'auto')
+        // //     .attr('markerWidth', 8)
+        // //     .attr('markerHeight', 8)
+        // //     .attr('xoverflow', 'visible')
+        // //     .append('svg:path')
+        // //     .attr('d', 'M 0,-5 L 10 ,0 L 0,5')
+        // //     .attr('fill', 'black');
+
+
+        //         svg.selectAll('g')
+        //             .data([''])
+        //             .join('path')
+        //             .attr("class", "links_yes")
+        //             .attr('d', d => curve([line_start,line_end]))
+        //             .attr('stroke', 'black')
+        //             .attr('fill', 'none')
+        //             // .attr('marker-start', 'url(#arrowhead_'+d.start_facet+')')
+        //             // .attr('marker-end', 'url(#arrowhead_'+d.end_facet+')')
+        //         // }
+
+
+
+
+
+
+        //         // if (d.direct == "TD") {
+        //         // svg.selectAll('g')
+        //         //     .data([''])
+        //         //     .join('path')
+        //         //     .attr("class", "links_yes")
+        //         //     .attr('d', d => curve([[x1+(w1/2), y1+h1], [x2+(w2/2), y2]]))
+        //         //     .attr('stroke', 'black')
+        //         //     .attr('fill', 'none')
+        //         //     .attr('marker-start', 'url(#arrowhead-start)')
+        //         //     .attr('marker-end', 'url(#arrowhead-end)');
+        //         // }
+
+        //     }
+        // )
+
+        // // overwrite text
+
+        // nodes.forEach(
+        //     d => {
+
+        //         // console.log('@@@', d)
+        //         let top_class = d.entry
+        //         // console.log('top_class', top_class)
+
+        //         let top_x = d.x
+        //         // console.log('top_x', top_x)
+
+        //         let top_y = d.y
+        //         // console.log('top_y', top_y)                
+
+
+        //         svg.selectAll('g')
+        //             .data(d['lines'])
+        //             .join('text')
+        //             .attr("class", top_class) // class should be at box level
+        //             .attr('x', d => top_x)
+        //             .attr('y', (d, i) => (top_y) + (i * 20))
+        //             .attr('font-family', 'brownstd')
+        //             .attr('font-size', '12px')
+        //             .attr('font-weight', '100')
+        //             .attr('text-anchor', 'middle')
+        //             .attr('alignment-baseline', 'middle')
+        //             .attr('stroke', 'black')
+        //             .attr('fill', 'black')
+        //             .text(d => d);
+        //     })
+
+    </script>
+</body>
+
+</html>
