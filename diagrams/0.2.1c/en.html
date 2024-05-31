@@ -73,23 +73,20 @@ svg.selectAll('g')
                     .attr('stroke-width', '0px')
                     .attr('stroke', 'orange')
                     .attr('fill', 'black')
-                    .text("Extended hierarchy model: 4 levels");
+                    .text("Shallow hierarchy model: 2 levels");
         //     })
 
 
 
 
 [
-    {'y_axis':100, 'header':'Work', 'desc':'abstract entity', 'body': '--- Type - Whole conditions (serial / standalone / component part)\n--- Identifier (international, in-house unique identifier number)\n--- Titles (original, alternative, series/serial)\n--- Country (production country/countries)\n--- Dates (copyright / production)\n--- Language(s): original language of conception/presentation\n--- Notes/History\n--- Content: Synopsis, Genre, Form, Subject\n--- Agents: Cast, Credits, Rights holders'
+{
+'header':'Work-like', 'desc':'abstract entity,\nwith some context', 'body':'--- Type - Whole conditions (serial / standalone / component part)\n--- Titles (original, alternative, series/serial)\n--- Dates (copyright / production)\n--- Language(s): original language of conception/presentation\n--- Content: Synopsis, Genre, Form, Subject\n--- Agents: Cast, Credits, Rights holders\n--- Identifier (international, in-house unique identifier number)'},
 
+{'header':'Crossover data', 'desc': 'held in either level\nor both levels', 'body': '--- Identifier: international, in-house unique identifier number)\n--- Titles\n--- Type: pre-release, theatrical, non-theatrical, transmission, home-viewing, internet, restoration, not-for-release, etc\n--- Language: dialogue language, subtitles, dubbed, intertitles, etc.\n--- Format: 35mm film, Digital Cinema Package (DCP), Blu-ray, etc\n--- Extent: physical, logical, temporal, e.g. duration, running time, length, etc.\n--- Event: release, transmission, distribution, creation, dates\n--- Rights context: platforms, territories, dates\n--- Agents: Creator, Broadcaster, Distributor, Publisher'},
+{'header':'Item-like', 'desc':'physical or digital\nobject, with some\ncontext', 'body':'--- Identifier (inventory numbers)\n--- Titles (original, alternative)\n--- Element Type : instantiation type, e.g. original negative, dupe positive, Lavender, sound negative\n--- Item specifics: carrier, base, gauge, format, digital file type, sound, sound systems, colour standards etc.\n--- Extent: physical, temporal, e.g. footage, file size, duration\n--- Access conditions: Condition report - pristine, not for projection, heavy scratches, etc; storage location - home location, current location; Conservation recommendations: urgent transfer required, relocate to sub-zero, etc\n--- Event(s) (with Dates): creation, acquisition, accession, de-accession, loan, transport\n--- Acquisition: source, method, funding context, conditions of access, dates\n--- Agents: donors, archive technicians/conservationists, etc.\n--- Holding institution: name of the Item holder'}
 
-
-
-
-},
-    {'y_axis':200, 'header':'Variant','desc':'abstract entity\noptional', 'body':'--- Type - Whole conditions (serial / standalone / component part)\n--- Identifier (international, in-house unique identifier number)\n--- Titles (original, alternative, series/serial)\n--- Country (production country/countries)\n--- Dates (copyright / production)\n--- Language(s)\n--- Notes/History\n--- Content: Synopsis, Genre, Form, Subject\n--- Agents: Cast, Credits, Rights holders'},
-    {'y_axis':300, 'header':'Manifestation', 'desc':'realisation, release,\nexhibition or\ndistribution entity', 'body':'--- Type: pre-release, theatrical, non-theatrical, transmission, home-viewing, internet, restoration, not-for-release, etc\n---Identifier (international, in-house unique identifier number)\n--- Titles\n--- Language(s): language of dialogue, subtitles, dubbing, intertitles, etc.\n--- Format: 35mm film, Digital Cinema Package (DCP), Blu-ray, etc\n--- Extent: physical, logical, temporal, e.g. duration, running time, length, etc.\n--- Event: release, transmission, distribution, creation, dates\n--- Rights context: platforms, territories, dates\n--- Agents: Creator, Broadcaster, Distributor, Publisher'},
-    {'y_axis':400, 'header':'Item', 'desc': 'physical or digital\nobject', 'body':'--- Identifier (inventory numbers)\n--- Titles (original, alternative)\n--- Element Type : instantiation type, e.g. original negative, dupe positive, Lavender,\nsound negative\n--- Item specifics: carrier, base, gauge, format, digital file type, sound, sound sys-\ntems, colour standards etc.\n--- Extent: physical, temporal, e.g. footage, file size, duration--- Access conditions: Condition report - pristine, not for projection, heavy scratch-\nes, etc; storage location - home location, current location; Conservation recom-\nmendations: urgent transfer required, relocate to sub-zero, etc\n--- Event(s) (with Dates): creation, acquisition, accession, de-accession, loan, transport\n--- Acquisition: source, method, funding context, conditions of access, dates\n--- Agents: donors, archive technicians/conservationists, etc.\n--- Holding institution: name of the Item holder'}].forEach((d,i) => {
+].forEach((d,i) => {
 
     let my_pos = i;
 
