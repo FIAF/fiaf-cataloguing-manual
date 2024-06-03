@@ -12,6 +12,8 @@ jobs:
     steps:
     - name: checkout repo
       uses: actions/checkout@v3
+    - name: check branch
+      run: git branch
     - name: check results
       run: ls -al
     # - name: install pandoc
