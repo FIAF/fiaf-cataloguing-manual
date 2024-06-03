@@ -21,23 +21,89 @@
 
         // define the svg.
 
-        let svg = d3.select('#graph').append('svg').attr('width', 620).attr('height', 850).attr('xmlns', 'http://www.w3.org/2000/svg');
+        let svg = d3.select('#graph').append('svg').attr('width', 650).attr('height', 750).attr('xmlns', 'http://www.w3.org/2000/svg');
 
         // this step is possibly redundant.
 
+// // Assuming you have an SVG container with width and height defined
+// // var svg = d3.select("svg");
+
+// // Define the image URL
+// var imageUrl = "cover.png";
+
+// // Convert the image to a data URI
+// function getImageDataUri(url, callback) {
+//     var xhr = new XMLHttpRequest();
+//     xhr.onload = function () {
+//         var reader = new FileReader();
+//         reader.onloadend = function () {
+//             callback(reader.result);
+//         };
+//         reader.readAsDataURL(xhr.response);
+//     };
+//     xhr.open('GET', url);
+//     xhr.responseType = 'blob';
+//     xhr.send();
+// }
+
+// getImageDataUri(imageUrl, function (dataUri) {
+//     // Append the image to the SVG container
+//     svg.append("svg:image")
+//         // .attr("xlink:href", dataUri) // For SVG 1.1
+//         .attr("href", dataUri) // For SVG 2
+//         .attr("x", 50) // X position of the top-left corner of the image
+//         .attr("y", 50) // Y position of the top-left corner of the image
+//         .attr("width", 100) // Width of the image
+//         .attr("height", 100); // Height of the image
+// });
+
+
+
+
+//         svg.append("image")
+// .attr("href", "https://upload.wikimedia.org/wikipedia/en/2/24/Picnicathangingrock1.jpg")
+
+// .attr("x", 50) // X position of the top-left corner of the image
+//     .attr("y", 50)
+// .attr("width", 150)
+// .attr("height", 200);
 
         svg.append("rect")
             .attr("x", 0)
             .attr("y", 0)
-            .attr("width", 800)
+            .attr("width", 650)
             .attr("height", 1200)
-            .style("fill", "orange");
+            .style("fill", "aqua");
+
+            svg.append("svg:image")
+    // .attr("xlink:href", './cover.png') // For SVG 1.1
+    .attr("href", 'cover.png') // For SVG 2
+    .attr("x", 0) // X position of the top-left corner of the image
+    .attr("y", 0) // Y position of the top-left corner of the image
+    .attr("width", 612) // Width of the image
+    .attr("height", 612); // Height of the image
+
+
+
+   svg.append('text')
+                    // .attr("class", top_class) 
+                    .attr('x',100)
+                    .attr('y', 650)
+                    .attr('font-family', 'brownstd')
+                    .attr('font-size', '12px')
+                    .attr('font-weight', '100')
+                    .attr('text-anchor', 'middle')
+                    .attr('alignment-baseline', 'middle')
+                    .attr('stroke', 'black')
+                    .attr('fill', 'black')
+                    .text("HELLO");
+
 
             // svg.append("rect")
-            // .attr("x", 0)
-            // .attr("y", 0)
-            // .attr("width", 700)
-            // .attr("height", 200)
+            // .attr("x", 100)
+            // .attr("y", 100)
+            // .attr("width", 50)
+            // .attr("height", 50)
             // .style("fill", "red");
 
 //         svg.append("rect")

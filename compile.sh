@@ -17,7 +17,15 @@ npm install d3@6
 node render.js
 
 
+gm convert ./diagrams/title/en.svg ./diagrams/title/en.png
+
+
+
 # render pdf.
+
+
+
+
 
 echo "building pdf..."
 MARKDOWN=$(find markdown -type f -name '*.md' | sort)

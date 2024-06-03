@@ -5,7 +5,7 @@
 
 
 
-![](diagrams/title/en.svg)
+![](diagrams/title/en.png)
 
 
 <!-- \newgeometry{margin=0in} -->
