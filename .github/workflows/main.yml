@@ -11,26 +11,26 @@ jobs:
     steps:
     - name: checkout repo
       uses: actions/checkout@v3
-    - name: install pandoc
-      run: sudo apt install pandoc
-    - name: install xelatex
-      run: sudo apt install texlive-xetex
-    - name: download font
-      run: | 
-          curl -O https://font.download/dl/font/brownstd.zip
-          unzip brownstd.zip -d brownstd
-          mkdir -p ~/.fonts/brownstd
-          cp -r brownstd ~/.fonts/brownstd
-    - name: test markdown list
-      run: |
-        MARKDOWN=$(find markdown -type f -name '*.md' | sort)
-        pandoc $MARKDOWN --pdf-engine=xelatex -o manual.pdf
     - name: check results
       run: ls -al
-    - name: push pdf
-      run: |
-        git config user.name 'github-actions[bot]'
-        git config user.email 'github-actions[bot]@users.noreply.github.com'
-        git add manual.pdf
-        git commit -a -m "pdf generated"
-        git push
+    # - name: install pandoc
+    #   run: sudo apt install pandoc
+    # - name: install xelatex
+    #   run: sudo apt install texlive-xetex
+    # - name: download font
+    #   run: | 
+    #       curl -O https://font.download/dl/font/brownstd.zip
+    #       unzip brownstd.zip -d brownstd
+    #       mkdir -p ~/.fonts/brownstd
+    #       cp -r brownstd ~/.fonts/brownstd
+    # - name: test markdown list
+    #   run: |
+    #     MARKDOWN=$(find markdown -type f -name '*.md' | sort)
+    #     pandoc $MARKDOWN --pdf-engine=xelatex -o manual.pdf
+    # - name: push pdf
+    #   run: |
+    #     git config user.name 'github-actions[bot]'
+    #     git config user.email 'github-actions[bot]@users.noreply.github.com'
+    #     git add manual.pdf
+    #     git commit -a -m "pdf generated"
+    #     git push
