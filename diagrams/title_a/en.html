@@ -14,7 +14,7 @@
         
         // define svg.
         
-        let svg = d3.select('#graph').append('svg').attr('width', 650).attr('height', 750).attr('xmlns', 'http://www.w3.org/2000/svg');
+        let svg = d3.select('#graph').append('svg').attr('width', 612).attr('height', 612).attr('xmlns', 'http://www.w3.org/2000/svg');
 
         // add rect across region of svg, should be white.
         
@@ -23,7 +23,7 @@
             .attr("y", 0)
             .attr("width", 650)
             .attr("height", 1200)
-            .style("fill", "lime");
+            .style("fill", "orange");
 
         // add cover image, source higher-res copy if possible.
         
@@ -38,17 +38,17 @@
         // The FIAF Moving Image
         // Cataloguing Manual
         
-        svg.append('text')
-            .attr('x',100)
-            .attr('y', 650)
-            .attr('font-family', 'brownstd')
-            .attr('font-size', '12px')
-            .attr('font-weight', '100')
-            .attr('text-anchor', 'middle')
-            .attr('alignment-baseline', 'middle')
-            .attr('stroke', 'black')
-            .attr('fill', 'black')
-            .text("The FIAF Moving Image Cataloguing Manual");
+        // svg.append('text')
+        //     .attr('x',100)
+        //     .attr('y', 650)
+        //     .attr('font-family', 'brownstd')
+        //     .attr('font-size', '12px')
+        //     .attr('font-weight', '100')
+        //     .attr('text-anchor', 'middle')
+        //     .attr('alignment-baseline', 'middle')
+        //     .attr('stroke', 'black')
+        //     .attr('fill', 'black')
+        //     .text("The FIAF Moving Image Cataloguing Manual");
 
     </script>
 </body>

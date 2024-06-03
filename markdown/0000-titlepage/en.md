@@ -5,14 +5,15 @@
 
 
 
-![](diagrams/title/en.png)
+![](diagrams/title_a/en.png)
 
+![](diagrams/title_b/en.svg)
 
 <!-- \newgeometry{margin=0in} -->
-![](cover.png)
+<!-- ![](cover.png) -->
 
-# The FIAF Moving Image 
-# Cataloguing Manual
+<!-- # The FIAF Moving Image  -->
+<!-- # Cataloguing Manual -->
 
 \restoregeometry
 \newpage

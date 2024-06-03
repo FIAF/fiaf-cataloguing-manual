@@ -17,7 +17,7 @@ npm install d3@6
 node render.js
 
 
-gm convert ./diagrams/title/en.svg ./diagrams/title/en.png
+gm convert ./diagrams/title_a/en.svg ./diagrams/title_a/en.png
 
 
 
