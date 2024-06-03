@@ -15,7 +15,7 @@ jobs:
     - name: check branch
       run: git branch
     - name: install pandoc and 
-      run: sudo apt install pandoc graphicsmagick texlive-xetex      
+      run: sudo apt install pandoc graphicsmagick texlive-xetex librsvg2-bin      
     - name: check results
       run: ls -al
     - name: run compile script
