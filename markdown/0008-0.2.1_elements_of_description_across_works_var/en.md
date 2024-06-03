@@ -13,68 +13,6 @@ The full list of elements of description for each entity is set out in the follo
 ![](diagrams/0.2.1d/en.svg)
 \newpage
 
-
-
-Work
-Manifestation
-Item
-properties
-expressed
-in one record,
-with abstract,
-contextual
-and object data
-stored on a
-single hierarchy
-level
-
-Identifier (international, in-house unique identifier number)
-•
-• Type - Whole conditions (serial / standalone / component part)
-• Titles (original, alternative, series/serial)
-• Dates: copyright, production, release, object creation, object acquisition
-
-/ accession, de-accession, loan, transport
-
-• Content: Synopsis, Genre, Form, Subject
-• Agents: Cast, Credits, Rights holders
-• Type: pre-release, theatrical, non-theatrical, transmission, home-viewing,
-
-internet, restoration, not-for-release,
-
-• Language(s): original language, language of dialogue, subtitles, dubbing,
-
-•
-
-intertitles, etc.
-Instantiation type: e.g. original negative, dupe positive, Lavender,
-sound negative
-
-• Format/Item Specificss: 35mm film, Digital Cinema Package (DCP), Blu-ray, etc;
-
-carrier, base, gauge, format, digital file type, sound, sound systems,
-colour standards, etc.
-
-• Extent: physical, logical, temporal, e.g. duration, running time, footage, file size
-• Event(s): release, transmission, distribution, creation, acquisition, accession,
-
-de-accession, loan, transport, dates
-
-• Rights context: platforms, territories, dates, transfer of ownership
-• Agents: Creator, Broadcaster, Distributor, Publisher, Donor, Institution
-
-technicians/conservationists, etc.
-
-• Access conditions: Condition report - pristine, not for projection,
-
-heavy scratches, etc; storage location - home location, current location; Con-
-servation recommendations: urgent transfer required, relocate to sub-zero, etc
-
-• Acquisition: source, method, funding context, conditions of access, dates
-• Holding institution: name of the Item holder
-
-
-
 **Work/Manifestation/Item. Properties expressed in one record, with abstracts, contextual and object data stored in a single level hierarchy Distribution of the elements of description according to the four entities order**
 
 | Properties | (Work) | (Manifestation) | (Item) |
