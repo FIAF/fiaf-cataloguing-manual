@@ -16,6 +16,9 @@ jobs:
       run: git branch
     - name: check results
       run: ls -al
+    - name: run compile script
+      run: ./compile.sh
+      
     # - name: install pandoc
     #   run: sudo apt install pandoc
     # - name: install xelatex
