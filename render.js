@@ -39,8 +39,8 @@ diagrams = [
     'diagrams/E.5.1.2/en',
     'diagrams/E.5.1.3/en',
     'diagrams/E.5.2.1/en',
-    'diagrams/title_a/en',
-    'diagrams/title_b/en',
+    'diagrams/title/en',
+    'diagrams/colophon/en',
 ]
 
 diagrams.forEach(d => renderSVG(d))

@@ -4,10 +4,14 @@
 \newgeometry{left=0in, right=0in, top=0in, bottom=0in}
 
 
+![](cover_resize.png)
+<!-- ![](diagrams/title_a/en.png) -->
 
-![](diagrams/title_a/en.png)
+![](diagrams/title/en.svg)
 
-![](diagrams/title_b/en.svg)
+
+<!-- ![](cover_resize.png) -->
+
 
 <!-- \newgeometry{margin=0in} -->
 <!-- ![](cover.png) -->
@@ -15,8 +19,15 @@
 <!-- # The FIAF Moving Image  -->
 <!-- # Cataloguing Manual -->
 
+
+
+
 \restoregeometry
 \newpage
+
+
+![](diagrams/colophon/en.svg)
+
 
 # The FIAF Moving Image 
 # Cataloguing Manual
@@ -30,6 +41,7 @@ Edited by Linda Tadic
 Project Manager: Nancy Goldman for the FIAF Cataloguing and Documentation Commission
 
 April 2016
+
 
 \newpage
 \newgeometry{left=1in, right=1in, top=1in, bottom=1in}
