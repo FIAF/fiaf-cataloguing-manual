@@ -14,7 +14,7 @@
         
         // define svg.
         
-        let svg = d3.select('#graph').append('svg').attr('width', 580).attr('height', 300).attr('xmlns', 'http://www.w3.org/2000/svg');
+        let svg = d3.select('#graph').append('svg').attr('width', 580).attr('height', 400).attr('xmlns', 'http://www.w3.org/2000/svg');
 
                 
         // let svg = d3.select('#graph').append('svg').attr('width', 20).attr('height', 20).attr('xmlns', 'http://www.w3.org/2000/svg');
@@ -136,6 +136,38 @@
             .attr('fill', 'black')
             
             .text("Project Manager: Nancy Goldman")
+
+            svg.selectAll('g')
+                    .data([''])
+                    .join('text')
+
+            .attr('x',580)
+            .attr('y', 310)
+            .attr('font-family', 'brownstd')
+            .attr('font-size', '12px')
+            .attr('font-weight', '200')
+            .attr('text-anchor', 'end')
+            .attr('stroke', 'black')
+            .attr('stoke-width', '0px')
+            .attr('fill', 'black')
+            
+            .text("for the FIAF Cataloguing and Documentation Commission")
+
+            svg.selectAll('g')
+                    .data([''])
+                    .join('text')
+
+            .attr('x',580)
+            .attr('y', 310)
+            .attr('font-family', 'brownstd')
+            .attr('font-size', '12px')
+            .attr('font-weight', '200')
+            .attr('text-anchor', 'end')
+            .attr('stroke', 'black')
+            .attr('stoke-width', '0px')
+            .attr('fill', 'black')
+            
+            .text("April 2016")
 
 
 
