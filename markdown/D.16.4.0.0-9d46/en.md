@@ -7,10 +7,10 @@ For video, refer to AV Artifact Atlas for guidance on terms.
 
 http://avaa.bavc.org/artifactatlas/index.php/A/V_Artifact_Atlas
 
-Discolouration
-Magenta Bias
-Faded
-Print through in mould
-Drop-outs
+* Discolouration
+* Magenta Bias
+* Faded
+* Print through in mould
+* Drop-outs
 
 
