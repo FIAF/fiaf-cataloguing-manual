@@ -1,14 +1,14 @@
 # D.2 Variant Type[^201]
 
-Censored
-Dubbed
-Subtitled
-Abridged/Condensed (e.g. for television)
-Augmented (where additional content is added, such as director’s cuts with restored
+* Censored
+* Dubbed
+* Subtitled
+* Abridged/Condensed (e.g. for television)
+* Augmented (where additional content is added, such as director’s cuts with restored
 scenes, or alternate endings, commentaries)
-Preservation/Restoration
-Different sound track
-Sonorized
+* Preservation/Restoration
+* Different sound track
+* Sonorized
 *Colourized
 *Black and white copy of work originally issued in colour
 
