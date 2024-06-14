@@ -2,8 +2,7 @@ name: compile_manual
 on:
   push:
     branches:
-      - main
-      - v1.0
+      - '*'
 jobs:
   compile:
     runs-on: ubuntu-latest 
