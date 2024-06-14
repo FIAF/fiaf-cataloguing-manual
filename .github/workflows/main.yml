@@ -2,7 +2,7 @@ name: compile_manual
 on:
   push:
     branches:
-      - main
+      - '*'
 jobs:
   compile:
     runs-on: ubuntu-latest 
@@ -11,22 +11,14 @@ jobs:
     steps:
     - name: checkout repo
       uses: actions/checkout@v3
-    - name: install pandoc
-      run: sudo apt install pandoc
-    - name: install xelatex
-      run: sudo apt install texlive-xetex
-    - name: download font
-      run: | 
-          curl -O https://font.download/dl/font/brownstd.zip
-          unzip brownstd.zip -d brownstd
-          mkdir -p ~/.fonts/brownstd
-          cp -r brownstd ~/.fonts/brownstd
-    - name: test markdown list
-      run: |
-        MARKDOWN=$(find markdown -type f -name '*.md' | sort)
-        pandoc $MARKDOWN --pdf-engine=xelatex -o manual.pdf
+    - name: check branch
+      run: git branch
+    - name: install required apps 
+      run: sudo apt install pandoc graphicsmagick texlive-xetex librsvg2-bin      
+    - name: run compile script
+      run: ./compile.sh
     - name: check results
-      run: ls -al
+      run: ls -al      
     - name: push pdf
       run: |
         git config user.name 'github-actions[bot]'
