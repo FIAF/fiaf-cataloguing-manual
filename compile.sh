@@ -2,13 +2,17 @@
 
 # pull font if required.
 
-if [ ! -d "brownstd" ]; then
-    echo "pulling font..."
-    curl -O https://font.download/dl/font/brownstd.zip
-    unzip -n brownstd.zip -d brownstd
-    mkdir -p ~/.fonts/brownstd
-    cp -r brownstd ~/.fonts/brownstd
-fi
+# if [ ! -d "brownstd" ]; then
+#     echo "pulling font..."
+#     curl -O https://font.download/dl/font/brownstd.zip
+#     unzip -n brownstd.zip -d brownstd
+#     mkdir -p ~/.fonts/brownstd
+#     cp -r brownstd ~/.fonts/brownstd
+# fi
+
+
+mkdir -p ~/.fonts/brownstd
+cp -r brownstd ~/.fonts/brownstd
 
 # render diagrams.
 
