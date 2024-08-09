@@ -1,10 +1,14 @@
 # A.2.6.1 Numbered episodes of a series/serial {#manual-A.2.6.1}
 
-With series/serials that contain episode or part numbers and individual episode titles the same principles apply. The preferred title/title proper of the WVMI may incorporate all these for clarity and retrieval purposes, or an institution’s systems may allow for use of the episode title combined with separate specific Part field(s) for parts and numbers, or both. Alternatively, an institution may choose to use one form for Work/Variants and another for Manifestation and/or Items. With television series additional numbered season details may also be required as well as episode/part numbers.
+With series/serials that contain episode or part numbers and individual episode titles the same principles apply.
+The preferred title/title proper of the WVMI may incorporate all these for clarity and retrieval purposes, or an institution’s systems may allow for use of the episode title combined with separate specific Part field(s) for parts and numbers, or both.
+Alternatively, an institution may choose to use one form for Work/Variants and another for Manifestation and/or Items.
+With television series additional numbered season details may also be required as well as episode/part numbers.
 
 Any or either of the forms may be used in combination as an institution chooses, although this should be within the context of an institution establishing a clear standard in-house practice rather than individual cataloguer preference and choice.[^171]
 
-It is worth bearing in mind that serials are always intended to be viewed in a specified order. Therefore serial title, episode numbers, and episode titles are usually included on the Item itself or in secondary sources, and should be reflected in the record to aid in discovery and identification.
+It is worth bearing in mind that serials are always intended to be viewed in a specified order.
+Therefore serial title, episode numbers, and episode titles are usually included on the Item itself or in secondary sources, and should be reflected in the record to aid in discovery and identification.
 
     Example: Flash Gordon’s trip to Mars. Chapter 12. Ming the Merciless
     Work (Serial) – Flash Gordon’s trip to Mars

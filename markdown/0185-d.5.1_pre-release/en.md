@@ -1,8 +1,10 @@
 # D.5.1 Pre-Release {#manual-D.5.1}
 
-A moving image Manifestation type that may be used to represent any embodiments of a moving image Work that exist before the finalisation or release of the moving image Work. Also use for partially realised projects, i.e. productions that started filming but then project ceased before completion.
+A moving image Manifestation type that may be used to represent any embodiments of a moving image Work that exist before the finalisation or release of the moving image Work.
+Also use for partially realised projects, i.e. productions that started filming but then project ceased before completion.
 
-It applies to production material in general, including: original shooting elements (i.e. original camera negative, working print, original video, editing file) and/or the first recording/mixing of the sound (separate original soundtracks – dialogues, sound, music, – or the first mixed soundtrack).
+It applies to production material in general, including: original shooting elements (i.e.
+original camera negative, working print, original video, editing file) and/or the first recording/mixing of the sound (separate original soundtracks – dialogues, sound, music, – or the first mixed soundtrack).
 
 It may also include, censorship submission prints, working assembly prints, rushes, costume tests, lighting tests, make-up tests, etc. where an institution may need or prefer to group together all production material, i.e. an institution may usually create rushes and tests as separate individual associated records but, where these are acquired as part of a large collection of production material for one particular moving image it prefers, for practical reasons, to keep records together for ease of access or for restoration work purposes.
 
@@ -32,7 +34,8 @@ Manifestation Types can represent a unique instance (e.g. the original negative,
   Rushes/Dailies
   Sound mixes
 
-These describe the context, not the format. For example, a censorship print may exist as multiple Items (35mm print, ProRes, MP4)
+These describe the context, not the format.
+For example, a censorship print may exist as multiple Items (35mm print, ProRes, MP4)
 
 Some of these could also be achieved by creating separate Works, rather than capturing these as Manifestations of the film work.
 

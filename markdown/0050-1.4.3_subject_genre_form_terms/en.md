@@ -1,8 +1,12 @@
 # 1.4.3 Subject/Genre/Form terms {#manual-1.4.3}
 
-Provide access to the Work by means of subjects (or subject identifiers) that describe the content of the Work (i.e., what the Work is about). Use an existing data value standard such as Library of Congress Subject Headings (LCSH).[^77] Alternatively, or additionally, use standards such as Universal Decimal Classification (UDC), Dewey Decimal Classification (DDC), or equivalent in country in which you are working, or an in-house data value standard.
+Provide access to the Work by means of subjects (or subject identifiers) that describe the content of the Work (i.e., what the Work is about).
+Use an existing data value standard such as Library of Congress Subject Headings (LCSH).[^77] Alternatively, or additionally, use standards such as Universal Decimal Classification (UDC), Dewey Decimal Classification (DDC), or equivalent in country in which you are working, or an in-house data value standard.
 
-In addition, access to the Work can be provided by means of genre(s) and/or form(s) (or identifiers) of which the Work is an example (i.e., what the Work is). Form describes the format and/or purpose of a Work, e.g., “non-fiction”, “short” and “animation” are particular forms or identifiers. Genre describes categories of Works, characterized by similar plots, themes, settings, situations, and characters. Examples of genres are “westerns” and “thrillers”.[^78] Use an existing and widely used data value standard such as Library of Congress Thesaurus for Genre/Form Terms in Libraries and Archives (LCGFT)[^79], or equivalent in country where work is being done, or an in-house controlled vocabulary genre thesaurus.
+In addition, access to the Work can be provided by means of genre(s) and/or form(s) (or identifiers) of which the Work is an example (i.e., what the Work is).
+Form describes the format and/or purpose of a Work, e.g., “non-fiction”, “short” and “animation” are particular forms or identifiers.
+Genre describes categories of Works, characterized by similar plots, themes, settings, situations, and characters.
+Examples of genres are “westerns” and “thrillers”.[^78] Use an existing and widely used data value standard such as Library of Congress Thesaurus for Genre/Form Terms in Libraries and Archives (LCGFT)[^79], or equivalent in country where work is being done, or an in-house controlled vocabulary genre thesaurus.
 
   Examples:
 

@@ -1,10 +1,18 @@
 # 1.3.2 Title {#manual-1.3.2}
 
-Record at least one title, identifying phrase, or name for the moving image Work or Variant. If your institution is applying the use of “Type” qualifiers, use “Title Type” to state the function of a particular title. (see [1.3.2.1 Title Type](#manual-1.3.2.1) and [Appendix A, Titles and Title Types](#manual-A)).
+Record at least one title, identifying phrase, or name for the moving image Work or Variant.
+If your institution is applying the use of “Type” qualifiers, use “Title Type” to state the function of a particular title.
+(see [1.3.2.1 Title Type](#manual-1.3.2.1) and [Appendix A, Titles and Title Types](#manual-A)).
 
-Ideally, the record should at a minimum contain the “preferred title” (also referred to as “main” or “original” title) of the Work or Variant. Generally, it is the title of a moving image Work or Variant when first released, broadcast, published or transmitted (i.e. mounted online) in the country or countries of origin. It may differ from the title found on a particular manifestation of the Work or Variant; the actual title on the Manifestation is noted in the Manifestation Title element (see [2.3.2 Title](#manual-2.3.2)). See [A.2.0 Preferred](#manual-A.2) for additional information.
+Ideally, the record should at a minimum contain the “preferred title” (also referred to as “main” or “original” title) of the Work or Variant.
+Generally, it is the title of a moving image Work or Variant when first released, broadcast, published or transmitted (i.e.
+mounted online) in the country or countries of origin.
+It may differ from the title found on a particular manifestation of the Work or Variant; the actual title on the Manifestation is noted in the Manifestation Title element (see [2.3.2 Title](#manual-2.3.2)).
+See [A.2.0 Preferred](#manual-A.2) for additional information.
 
-For creating titles for untitled or unidentified entities see [A.2.5 Supplied/Devised Titles](#manual-A.2.5).Television programmes and other types of content that are part of a series/serial should have both the series/serial title and the episode title included in the Work record. This may be via use of a “Title type” qualifier. See [A.2.6 Titles of series/serials](#manual-A.2.6) for other options
+For creating titles for untitled or unidentified entities see [A.2.5 Supplied/Devised Titles](#manual-A.2.5).Television programmes and other types of content that are part of a series/serial should have both the series/serial title and the episode title included in the Work record.
+This may be via use of a “Title type” qualifier.
+See [A.2.6 Titles of series/serials](#manual-A.2.6) for other options
 
     Examples:
     

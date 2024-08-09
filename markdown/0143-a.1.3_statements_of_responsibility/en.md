@@ -3,7 +3,10 @@
 If the title on the Manifestation or Item includes a statement of responsibility, the
 name of a company, or a cast member, etc., do not include it as part of the title regardless of linguistic construction.
 
-If the predominant form of the title in reference works includes a possessive statement of responsibility (e.g., “Il Casanova di Federico Fellini”/”Fellini’s Casanova”), the cataloguer may include it as part of the title. In doubtful cases, do not include the possessive statement of responsibility as part of the title. In most cases the statement of responsibility or name was not intended to be part of the title, but was included for publicity purposes. Create alternative titles for cases where, in the judgment of the cataloguer, such titles would be helpful points of access.
+If the predominant form of the title in reference works includes a possessive statement of responsibility (e.g., “Il Casanova di Federico Fellini”/”Fellini’s Casanova”), the cataloguer may include it as part of the title.
+In doubtful cases, do not include the possessive statement of responsibility as part of the title.
+In most cases the statement of responsibility or name was not intended to be part of the title, but was included for publicity purposes.
+Create alternative titles for cases where, in the judgment of the cataloguer, such titles would be helpful points of access.
 
 Examples:
 

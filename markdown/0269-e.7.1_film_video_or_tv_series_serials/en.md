@@ -1,8 +1,10 @@
 # E.7.1 Film/Video or TV series/serials {#manual-E.7.1}
 
-On the surface these would seem to be aggregates as it could be argued they are made up of different components (episodes) brought together to make a “whole” (series/serial). However, it is not logical under the definitions of aggregates to structure and view TV or film/video serial/series as aggregating Works.
+On the surface these would seem to be aggregates as it could be argued they are made up of different components (episodes) brought together to make a “whole” (series/serial).
+However, it is not logical under the definitions of aggregates to structure and view TV or film/video serial/series as aggregating Works.
 
-The starting point of an aggregate is the Manifestation “embodying two or more Works/Variants.” Each episode of a film/video or TV series/serial has its own unique individual release/broadcast Manifestation, not a single aggregate one. There was never the original intention for all the episodes (independent individual Works/Variants) to be released/broadcast in one single Manifestation.
+The starting point of an aggregate is the Manifestation “embodying two or more Works/Variants.” Each episode of a film/video or TV series/serial has its own unique individual release/broadcast Manifestation, not a single aggregate one.
+There was never the original intention for all the episodes (independent individual Works/Variants) to be released/broadcast in one single Manifestation.
 
 A later subsequent DVD publication or digital file production may occur, warranting an aggregate Manifestation, but this does not happen with all series/serials.
 

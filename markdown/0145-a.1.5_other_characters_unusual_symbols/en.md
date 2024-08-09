@@ -23,7 +23,8 @@ An alternative title should also be added giving the numbers, symbols or charact
   Se7en [Preferred/Title Proper]
   Seven [Alternative]
 
-Where possible a word should be used as a substitute when creating the title if a symbol or graphic design used cannot be replicated, with a note explaining this. See [Notes 1.3.7](#manual-1.3.7).
+Where possible a word should be used as a substitute when creating the title if a symbol or graphic design used cannot be replicated, with a note explaining this.
+See [Notes 1.3.7](#manual-1.3.7).
 
   Example
   I [heart] Huckabees [Preferred/Title Proper]

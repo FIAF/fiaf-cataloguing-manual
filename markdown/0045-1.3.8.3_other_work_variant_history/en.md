@@ -1,6 +1,7 @@
 # 1.3.8.3 Other Work/Variant History {#manual-1.3.8.3}
 
-Any other relevant information or clarifications pertaining to the Work/Variant. For example:
+Any other relevant information or clarifications pertaining to the Work/Variant.
+For example:
 
 - any changes of director, crew, or cast part-way through production
 

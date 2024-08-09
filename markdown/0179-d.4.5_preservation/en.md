@@ -2,9 +2,12 @@
 
 A Preservation Event is associated with a new Variant, Manifestation or Items resulting from the preservation process in which the contents of one or more Items (or fragments thereof) from Manifestations of a Work were transferred with the intention of restoring or reconstructing the content as originally intended, or safeguarding it from decay.
 
-This includes statements about past or future treatments scheduled for the item.[^210] If desired and if applicable, record one or more general types of past or future treatment activities (e.g. “added leaders”, “cleaned ultrasonically”, “tears repair”, etc.). Selection should be made from a controlled list of values.
+This includes statements about past or future treatments scheduled for the item.[^210] If desired and if applicable, record one or more general types of past or future treatment activities (e.g. “added leaders”, “cleaned ultrasonically”, “tears repair”, etc.).
+Selection should be made from a controlled list of values.
 
-A Preservation Event has as typical Agent(s) the institution(s) or individual professionals that make preservation decisions. Selection should be made from a controlled list of values. See [D.8 Manifestation Agent Types](#manual-D.8) and [D.3 Work/Variant Agent Types](#manual-D.3).
+A Preservation Event has as typical Agent(s) the institution(s) or individual professionals that make preservation decisions.
+Selection should be made from a controlled list of values.
+See [D.8 Manifestation Agent Types](#manual-D.8) and [D.3 Work/Variant Agent Types](#manual-D.3).
 
 A Preservation Event can be in relationship with instances of “Other” relationships (such as technical reports, documentation material, promotional material for the specific project, etc.).
 
@@ -17,11 +20,13 @@ Preservation Event information consists of the following sub-elements:
 
 - Preservation type
 
-Record the general type of the preservation activity performed, for example, duplication, transfer, etc. Selection should be made from a controlled list of terms. See [D.12 Manifestation Preservation Types](#manual-D.12).
+Record the general type of the preservation activity performed, for example, duplication, transfer, etc. Selection should be made from a controlled list of terms.
+See [D.12 Manifestation Preservation Types](#manual-D.12).
 
 - Preservation Date
 
-Record the date or time span in which the preservation activity was performed. (Dates should be formatted according to ISO 8601 or some other recognised standard.)
+Record the date or time span in which the preservation activity was performed.
+(Dates should be formatted according to ISO 8601 or some other recognised standard.)
 
 Add in a note any information describing the preservation process in detail.
 

@@ -1,8 +1,11 @@
 # 1.3.8 History {#manual-1.3.8}
 
-Record historical information about events of interest in the creation of the original moving image Work/Variant that is of value for your users, such as censorship history, production versions, and the like. This historical information may be recorded in association with instances of Events or Agents.
+Record historical information about events of interest in the creation of the original moving image Work/Variant that is of value for your users, such as censorship history, production versions, and the like.
+This historical information may be recorded in association with instances of Events or Agents.
 
-If desired, institutions may include historical information that crosses over into being about the Manifestation(s) and/or Item(s). This may be done where there is value to the user in keeping all the information together for research or clarification purposes rather than across disparate Manifestation and Item records. This may also be applied where no History fields exist in an institution’s system at Manifestation or Item levels, or a no hierarchy one level structure is used.
+If desired, institutions may include historical information that crosses over into being about the Manifestation(s) and/or Item(s).
+This may be done where there is value to the user in keeping all the information together for research or clarification purposes rather than across disparate Manifestation and Item records.
+This may also be applied where no History fields exist in an institution’s system at Manifestation or Item levels, or a no hierarchy one level structure is used.
 
   Example:
   

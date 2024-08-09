@@ -2,11 +2,14 @@
 
 Where a complete newsreel issue has been acquired and the newsreel series has been identified, then titling follows the same principles and guidelines above.
 
-Newsreels and cinemagazines can often be acquired as incomplete. The incomplete Items acquired may have a different title than the Manifestation and Work to which they are related. Such Items should be linked to a Work/Manifestation reflecting the whole issue, (see “British Paramount News” examples given below).
+Newsreels and cinemagazines can often be acquired as incomplete.
+The incomplete Items acquired may have a different title than the Manifestation and Work to which they are related.
+Such Items should be linked to a Work/Manifestation reflecting the whole issue, (see “British Paramount News” examples given below).
 
 Newsreels and cinemagazines[^172] usually consisted of several separate reports that were all analytics/components of a particular issue, and also usually had inter-title headings within the newsreel itself.
 
-If an institution acquires only a part of a newsreel issue, then any inter-title heading that is on the acquired print may be used as the title of the Item, particularly in cases where the title of the newsreel issue as a whole (i.e. the Work/Manifestation) is unknown.
+If an institution acquires only a part of a newsreel issue, then any inter-title heading that is on the acquired print may be used as the title of the Item, particularly in cases where the title of the newsreel issue as a whole (i.e.
+the Work/Manifestation) is unknown.
 
 For example, British Paramount news No. 856 contains the inter-titled headed segments President Roosevelt opens World Fair; 70th birthday of US coast to coast railway; and, Princesses play with baby pandas.
 
@@ -35,7 +38,8 @@ At the Work level each of the titled analytics/components making up the whole, i
 
 Alternatively, the component titles can be listed in a Summary or Description field for the Work.
 
-Should the Item acquired incorporate more than one inter-titled component, for example only reel 2 of a 2 reel Item is acquired that includes both 70th birthday of US coast to coast railway and Princesses play with baby pandas, then a different approach may be taken. This would involve using the title of the appropriate Manifestation pertaining to the whole newsreel issue and adding qualifying details, optionally in square brackets, as a second element of the title to create a title for the Item, for example
+Should the Item acquired incorporate more than one inter-titled component, for example only reel 2 of a 2 reel Item is acquired that includes both 70th birthday of US coast to coast railway and Princesses play with baby pandas, then a different approach may be taken.
+This would involve using the title of the appropriate Manifestation pertaining to the whole newsreel issue and adding qualifying details, optionally in square brackets, as a second element of the title to create a title for the Item, for example
 
   British Paramount news No. 856. [Reel 2]
   OR

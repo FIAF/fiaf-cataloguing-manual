@@ -6,11 +6,14 @@ The actual length is a characteristic of a singular Item since it can be differe
 
 Record the total length in Arabic numerals, in metres or feet.
 
-For digital Manifestations, record the total storage of all files that comprise the Manifestation. Use Arabic numerals followed by MB, GB, or TB as appropriate.
+For digital Manifestations, record the total storage of all files that comprise the Manifestation.
+Use Arabic numerals followed by MB, GB, or TB as appropriate.
 
-The Unit of Measurement (feet, metres, GB, etc.) can be provided in a separate field. This could be two separate fields side by side – one for numbers and one for size measurement.
+The Unit of Measurement (feet, metres, GB, etc.) can be provided in a separate field.
+This could be two separate fields side by side – one for numbers and one for size measurement.
 
-If the length of a Manifestation is uncertain, use a question mark following the unit count or record the uncertain number preceded by “approximately.” In a note, give an explanation for the estimated footage or metre count, where known. Estimating the total storage size for a digital Manifestation can be particularly difficult, since storage can vary depending on technical characteristics of the file(s).
+If the length of a Manifestation is uncertain, use a question mark following the unit count or record the uncertain number preceded by “approximately.” In a note, give an explanation for the estimated footage or metre count, where known.
+Estimating the total storage size for a digital Manifestation can be particularly difficult, since storage can vary depending on technical characteristics of the file(s).
 
 If the length of a Manifestation is unknown, record the information using a value of “unknown.”
 

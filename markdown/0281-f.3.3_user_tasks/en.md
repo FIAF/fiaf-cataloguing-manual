@@ -20,7 +20,8 @@ clarify—i.e., to clarify the relationship between two or more such entities, o
 
 understand—i.e., to understand why a particular name or title, or form of name or title, has been chosen as the preferred name or title for the entity.
 
-These user tasks are listed because they are pertinent to moving image cataloguing and can be adapted to cover many of the search and discovery needs of those who might seek moving images. For example, Martha Yee (2007) provides one adaptation of the functions of the library catalogue for moving images:
+These user tasks are listed because they are pertinent to moving image cataloguing and can be adapted to cover many of the search and discovery needs of those who might seek moving images.
+For example, Martha Yee (2007) provides one adaptation of the functions of the library catalogue for moving images:
 
 To find, identify, select, and acquire: [^245]
 
@@ -36,13 +37,22 @@ To find, identify, select, and acquire: [^245]
 
 **Representation (or, principle of transcription)**
 
-The basic principle of transcription is an area in which archival moving image cataloguing frequently deviates from traditional library cataloguing. Whereas traditional library cataloguers typically transcribe descriptive data directly from the physical item, this is not always the case in archival moving image cataloguing. Because of this, earlier moving image cataloguing rules and standards (FIAF, AMIM) have suggested the term “preferred” rather than “chief” source of filmographic information for representing moving images. The importance of reflecting the original details of a moving image work is a primary principle of organisation for moving image archives. This underlies another practice of moving image cataloguing, which was also recommended in the 1991 FIAF Rules, namely choosing the original release title in country of origin as the preferred title for a work. Other titles (e.g., translated titles, re-release or reissue titles, titles on the item or accompanying material, etc.), are recorded at the appropriate entity level, or designated as belonging to the appropriate entity, and linking mechanisms from other titles to the original release title should be utilised.
+The basic principle of transcription is an area in which archival moving image cataloguing frequently deviates from traditional library cataloguing.
+Whereas traditional library cataloguers typically transcribe descriptive data directly from the physical item, this is not always the case in archival moving image cataloguing.
+Because of this, earlier moving image cataloguing rules and standards (FIAF, AMIM) have suggested the term “preferred” rather than “chief” source of filmographic information for representing moving images.
+The importance of reflecting the original details of a moving image work is a primary principle of organisation for moving image archives.
+This underlies another practice of moving image cataloguing, which was also recommended in the 1991 FIAF Rules, namely choosing the original release title in country of origin as the preferred title for a work.
+Other titles (e.g., translated titles, re-release or reissue titles, titles on the item or accompanying material, etc.), are recorded at the appropriate entity level, or designated as belonging to the appropriate entity, and linking mechanisms from other titles to the original release title should be utilised.
 
 Because, however, it is not always possible for a cataloguer to determine an original release title, guidelines are also provided for choice of the preferred title of the work when either: 1) the concept of original release title is not applicable (as in the case of unedited footage), or when 2) a cataloguer is unable, through research, to determine the original release title.
 
 **Rights Information**
 
-Because national and international rights regulations for moving image materials govern not only the copying of materials for subsequent use, but also the screening and/or viewing of such materials, information concerning rights is considered of paramount importance to most moving image archives. These guidelines include a separate area for the recording of information about the rights status of moving image materials for the entities that make up a moving image resource. The guidelines include provisions for recording both original and current rights information, as well as for indicating when the cataloguer has not been able to find any information. Since rights issues are complex legal matters, some moving image archives prefer to maintain separate legal files, or sometimes even to leave the resolution of rights issues entirely to the responsibility of the user or client. For these reasons, the recording of rights information has been designated “optional.” For a more extensive and expanded further exploration of rights and potential rights data to capture, see [Appendix H, Rights/Copyright/IPR Registration](#manual-H).
+Because national and international rights regulations for moving image materials govern not only the copying of materials for subsequent use, but also the screening and/or viewing of such materials, information concerning rights is considered of paramount importance to most moving image archives.
+These guidelines include a separate area for the recording of information about the rights status of moving image materials for the entities that make up a moving image resource.
+The guidelines include provisions for recording both original and current rights information, as well as for indicating when the cataloguer has not been able to find any information.
+Since rights issues are complex legal matters, some moving image archives prefer to maintain separate legal files, or sometimes even to leave the resolution of rights issues entirely to the responsibility of the user or client.
+For these reasons, the recording of rights information has been designated “optional.” For a more extensive and expanded further exploration of rights and potential rights data to capture, see [Appendix H, Rights/Copyright/IPR Registration](#manual-H).
 
 [^244]: FRBR Final Report, p. 82; RDA, 0.0, Purpose and Scope
 [^245]: Yee, 2007, p. 16.

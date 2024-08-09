@@ -6,7 +6,8 @@ The Item title is assigned in accordance with [3.1.2 Title](#manual-3.1.2) and [
 
 The following paragraphs relate to Archive systems that are using the CEN structure:
 
-Work level titles created in this way would be described as having the CEN attribute of “Analytic” and indication that the title is a supplied/devised title type. Further clarifications could then be put into synopsis/description or notes fields areas of the Work.
+Work level titles created in this way would be described as having the CEN attribute of “Analytic” and indication that the title is a supplied/devised title type.
+Further clarifications could then be put into synopsis/description or notes fields areas of the Work.
 
 Should the whole Work of which the Item is a part subsequently be identified, then the Analytic record can be either modified or deleted and the Item linked via a “part of” relationship to a whole issue Theatrical Manifestation, which is in turn “part of” a whole Work, or Monographic Work.[^173]
 

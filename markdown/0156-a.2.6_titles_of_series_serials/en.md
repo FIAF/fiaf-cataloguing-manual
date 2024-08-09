@@ -2,9 +2,11 @@
 
 The guidelines and principles laid out in this section can be applicable across all the categories of Works, Variants, Manifestations and Items (WVMI).
 
-For monographic Works that are an episode within a series or serial[^169], and have their own individual title, the individual episode title may be used as the preferred title for the Work or Variant, or the title proper for the Manifestation and Item. However, the series/serial title should also be indicated.
+For monographic Works that are an episode within a series or serial[^169], and have their own individual title, the individual episode title may be used as the preferred title for the Work or Variant, or the title proper for the Manifestation and Item.
+However, the series/serial title should also be indicated.
 
-The series/serial title may be indicated within (i) the title field itself, or (ii) reflected in a linked hierarchical relationship with an individual Serial Work level record, i.e. a Work assigned the Description Type “Serial[^170]; or (iii) added as a Title Type; or (iv) a combination. Individual institutions should select which is most appropriate for their own systems and for clarity of identification and retrieval.
+The series/serial title may be indicated within (i) the title field itself, or (ii) reflected in a linked hierarchical relationship with an individual Serial Work level record, i.e. a Work assigned the Description Type “Serial[^170]; or (iii) added as a Title Type; or (iv) a combination.
+Individual institutions should select which is most appropriate for their own systems and for clarity of identification and retrieval.
 
 
     Example:

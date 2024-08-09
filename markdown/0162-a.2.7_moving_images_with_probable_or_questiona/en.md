@@ -1,10 +1,15 @@
 # A.2.7 Moving images with probable or questionable titles[^175] {#manual-A.2.7}
 
-There are instances where the title from a Manifestation/Item may not be inherited by the Work or Variant. Such is the case when a Manifestation/Item contains a probable or questionable title.
+There are instances where the title from a Manifestation/Item may not be inherited by the Work or Variant.
+Such is the case when a Manifestation/Item contains a probable or questionable title.
 
-If the Manifestation/item contains a probable or questionable title, this title may be included as a component in constructing the supplied/devised title, or it may be used alone as the supplied/devised title for the Work. (See [A.2.5 Supplied/Devised Titles](#manual-A.2.5)). The probability or questionable nature of the title, and its source, should be made clear in a note.
+If the Manifestation/item contains a probable or questionable title, this title may be included as a component in constructing the supplied/devised title, or it may be used alone as the supplied/devised title for the Work.
+(See [A.2.5 Supplied/Devised Titles](#manual-A.2.5)).
+The probability or questionable nature of the title, and its source, should be made clear in a note.
 
-For example, an Item may have a probable or questionable title but the title is not the preferred title for the Work and the preferred title for the Work cannot be discovered. Some institutions may choose to record a probable or questionable title as the title proper, or preferred title, for the Manifestation/Item, but not as the preferred title for the Work or Variant. Some institutions may use the probable or questionable title as the preferred title for the Manifestation/item and Work (or Work and Variant).
+For example, an Item may have a probable or questionable title but the title is not the preferred title for the Work and the preferred title for the Work cannot be discovered.
+Some institutions may choose to record a probable or questionable title as the title proper, or preferred title, for the Manifestation/Item, but not as the preferred title for the Work or Variant.
+Some institutions may use the probable or questionable title as the preferred title for the Manifestation/item and Work (or Work and Variant).
 
 For example:[^176]
 
@@ -29,11 +34,14 @@ For example:[^176]
   Primary Title for Variant record: Preferred title – Nipote Modello
   Primary Title for Work record: Preferred title – Nipote Modello
 
-The treatment of probable or questionable titles may vary among institutions. Many institutions’ catalogues contain a mixture of Collection-, Work-, Variant-, and Manifestation-level records that function as the “parent” record or the topmost “node”, to which the units of moving image material are associated. In the absence of a Work or information about a Work, many institutions represent what they have.
+The treatment of probable or questionable titles may vary among institutions.
+Many institutions’ catalogues contain a mixture of Collection-, Work-, Variant-, and Manifestation-level records that function as the “parent” record or the topmost “node”, to which the units of moving image material are associated.
+In the absence of a Work or information about a Work, many institutions represent what they have.
 
 For purposes of discoverability, accessibility, and standardisation, it is recommended that a Work is always represented in the catalogue, even if it means utilising and repeating information more strictly related to a Variant, Manifestation or Item.
 
-The Work can take the title of the Item, Manifestation or Variant, until such time as further research or identification assists in establishing the preferred title for the Work. The crucial factor is coupling the title with a descriptive identifier denoting that it is “supplied” or “devised,” whether within the title itself or via a juxtaposed field such as “Title Type.” If there is no Title Type field than a Notes or other field could be utilised.
+The Work can take the title of the Item, Manifestation or Variant, until such time as further research or identification assists in establishing the preferred title for the Work.
+The crucial factor is coupling the title with a descriptive identifier denoting that it is “supplied” or “devised,” whether within the title itself or via a juxtaposed field such as “Title Type.” If there is no Title Type field than a Notes or other field could be utilised.
 
 Examples of partially and fully supplied titles for a variety of scenarios can be found in the “form terms” list provided in [D.18 List of form terms for Supplied/Devised titles](#manual-D.18).
 

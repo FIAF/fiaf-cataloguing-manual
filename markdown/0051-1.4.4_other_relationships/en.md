@@ -1,6 +1,7 @@
 # 1.4.4 Other relationships[^81] {#manual-1.4.4}
 
-If desired or appropriate, express relationships that are not covered by the Agent, Subject, and Event relationships, including all kinds of aggregation and re-use of Works and their Variants. (See [Appendix E, Aggregates](#manual-E).)
+If desired or appropriate, express relationships that are not covered by the Agent, Subject, and Event relationships, including all kinds of aggregation and re-use of Works and their Variants.
+(See [Appendix E, Aggregates](#manual-E).)
 
 Commonly-occurring relationships include:[^82]
 
@@ -44,7 +45,8 @@ Commonly-occurring relationships include:[^82]
 
   The wicked lady (United Kingdom, 1945, Leslie Arliss), costume
 
-Record one or more “Other” relationship type terms to express the nature of the relationship to the Work/Variant, choosing the most specific term possible from a controlled list of values , for example, “based on,” “contained in,” etc. . A suggested list, which is open and not exhaustive, can be found in [Appendix D.17.1 Work/Variant Other Relationship Types](#manual-D.17.1).
+Record one or more “Other” relationship type terms to express the nature of the relationship to the Work/Variant, choosing the most specific term possible from a controlled list of values , for example, “based on,” “contained in,” etc. .
+A suggested list, which is open and not exhaustive, can be found in [Appendix D.17.1 Work/Variant Other Relationship Types](#manual-D.17.1).
 
 Or, compose a term to describe the relationship between the Work being catalogued and the related Work.
 

@@ -1,6 +1,7 @@
 # D.5.2 Theatrical distribution {#manual-D.5.2}
 
-A moving image Manifestation type representing Manifestations distributed and exhibited in cinema theatres. The classic examples are 35mm positive prints, or the DCP (Digital Cinema Package).
+A moving image Manifestation type representing Manifestations distributed and exhibited in cinema theatres.
+The classic examples are 35mm positive prints, or the DCP (Digital Cinema Package).
 
 These Manifestation types can be more than one instance, created at the same time or in a different moment, from the same “reproduction” masters.
 

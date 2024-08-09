@@ -13,7 +13,8 @@ If other title information appearing on the Manifestation/Item is considered to 
   Claymation: three dimensional clay animation
   This Britain: Heritage of the sea
 
-Distinguish the other title information through the use of spacing or punctuation, or a separate or dedicated field. If a general material designation is used, place it after the preferred title and before other title information.[^141]
+Distinguish the other title information through the use of spacing or punctuation, or a separate or dedicated field.
+If a general material designation is used, place it after the preferred title and before other title information.[^141]
 
   Examples:
 
