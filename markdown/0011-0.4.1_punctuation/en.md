@@ -6,8 +6,7 @@ Please consult ISBD[^20] for general guidance and examples, or the FIAF Catalogu
 
 These guidelines do advocate consistent usage where punctuation is needed as a cataloguing construction, for example, to separate Form elements in the creation of Partially or Fully Supplied/Devised Titles e.g.
 
-Jaws.
-Rushes
+Jaws. Rushes
 
 For transcribed elements, record punctuation as found.
 For all other elements, record punctuation as found on the source(s) of information.
