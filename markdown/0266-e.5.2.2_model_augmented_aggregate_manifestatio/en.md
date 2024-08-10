@@ -27,7 +27,8 @@ Casablanca. Special Edition
 
 An institution can choose whether to create all components of the Augmented aggregate Manifestation as Works, or selected ones.
 
-However, in cases of Augmented Aggregates it is recommended to always create a corresponding aggregating Work, as the Work record will contain relevant fields for extra data such as new credits pertaining just to the aggregate. Similarly synopsis or notes fields can then be utilised to give full description of contents.
+However, in cases of Augmented Aggregates it is recommended to always create a corresponding aggregating Work, as the Work record will contain relevant fields for extra data such as new credits pertaining just to the aggregate.
+Similarly synopsis or notes fields can then be utilised to give full description of contents.
 
 More importantly, it is not always practical or feasible for many cataloguing systems to deal with creating records for non-moving image materials such as booklets, or text.
 

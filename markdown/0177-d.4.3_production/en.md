@@ -1,10 +1,12 @@
 # D.4.3 Production[^207] {#manual-D.4.3}
 
-A distinct event in the course of production of a Work or Variant, including the main production event OR events that are separated in space and/or time from the main production event, or known with a greater amount of detail. Examples are dates and locations where castings took place; dates and locations of shootings or other recordings; or dates and locations of particular post-production activities.
+A distinct event in the course of production of a Work or Variant, including the main production event OR events that are separated in space and/or time from the main production event, or known with a greater amount of detail.
+Examples are dates and locations where castings took place; dates and locations of shootings or other recordings; or dates and locations of particular post-production activities.
 
 May include year/date of shooting of non-professional, actuality or unedited footage.
 
-A Production Event may be associated with instances of Agent in the role of e.g. production company, location scout, etc. Selection should be made from a controlled list of values. See [D.8 Manifestation Agent Types](#manual-D.8) and [D.3 Work/Variant Agent Types](#manual-D.3).
+A Production Event may be associated with instances of Agent in the role of e.g. production company, location scout, etc. Selection should be made from a controlled list of values.
+See [D.8 Manifestation Agent Types](#manual-D.8) and [D.3 Work/Variant Agent Types](#manual-D.3).
 
 Record all the existing relationships of a Publication Event, if the information is known and considered of relevance.
 
@@ -18,7 +20,8 @@ Production Event information consists of the following sub-elements:
 
 - Production Event type
 
-Selection should be made from a controlled list of values. See [D.11 Production Event Types](#manual-D.11).
+Selection should be made from a controlled list of values.
+See [D.11 Production Event Types](#manual-D.11).
 
 - Location
 
@@ -30,7 +33,8 @@ The country or other large-scale geographic entity where the event took place
 
 - Year/Date
 
-The year/date or time-span during which the event took place. Dates should be formatted according to ISO 8601 or some other recognised standard.
+The year/date or time-span during which the event took place.
+Dates should be formatted according to ISO 8601 or some other recognised standard.
 
 - Event details
 

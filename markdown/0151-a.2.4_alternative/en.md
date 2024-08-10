@@ -2,7 +2,8 @@
 
 Ensures that users can search under any variation of the title that has been used for a Work, Variant, Manifestation or Item, and be led to the content or particular physical object that they seek.
 
-Alternative titles for the Work differ from uniform, preferred, and other title information and may be encountered in the course of cataloguing its Variants, Manifestations and Items. If the Work could reasonably be sought under the title(s) of one of these Variants/Manifestations, the alternative title should be indexed in such a way that a user who searches on it is led to the Work.
+Alternative titles for the Work differ from uniform, preferred, and other title information and may be encountered in the course of cataloguing its Variants, Manifestations and Items.
+If the Work could reasonably be sought under the title(s) of one of these Variants/Manifestations, the alternative title should be indexed in such a way that a user who searches on it is led to the Work.
 
 Alternative titles for the Manifestation differ from the title proper or other title information.[^146]
 
@@ -10,7 +11,8 @@ Alternative titles on a Manifestation can have a different nature, expressing th
 
 Ideally record in a note the source(s) for the alternative title(s).
 
-Some institutions may wish to name the type of alternative title. Record the Alternative Title Type by taking the most suitable term from a controlled list elaborated in-house or referring to an authoritative existing list.
+Some institutions may wish to name the type of alternative title.
+Record the Alternative Title Type by taking the most suitable term from a controlled list elaborated in-house or referring to an authoritative existing list.
 
 If no specific alternative title type is known, the information can be omitted.
 

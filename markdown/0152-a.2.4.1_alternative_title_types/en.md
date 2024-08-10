@@ -49,9 +49,11 @@ important (either for identification or for access).[^152]
 
 In most cases, a Parallel title correlates to Variants for different language versions.
 
-For archival moving image cataloguing, the concept of a parallel title includes any title qualifying as a preferred title but which is not used as the preferred Work title (e.g. parallel titles for international co-productions, a title which cannot be reproduced) and any title by which the Work is commonly known to users and researchers.
+For archival moving image cataloguing, the concept of a parallel title includes any title qualifying as a preferred title but which is not used as the preferred Work title (e.g.
+parallel titles for international co-productions, a title which cannot be reproduced) and any title by which the Work is commonly known to users and researchers.
 
-Parallel titles are recorded with wording and spelling as established by an appropriate principal source. Where this involves transcription between scripts, use an appropriate standard for transliterations.[^154]
+Parallel titles are recorded with wording and spelling as established by an appropriate principal source.
+Where this involves transcription between scripts, use an appropriate standard for transliterations.[^154]
 
   Example:
 
@@ -61,7 +63,8 @@ When a title is an international co-production, or is produced in a bi- or multi
 
 If it cannot be determined whether the Work was released simultaneously or the release order cannot be determined, the cataloguer should select one of the qualifying titles in accordance with a consistent policy (for example from a list of languages in the institution’s preferred order, or by reference to an authoritative source.) [^155] [^156]
 
-Historically, parallel titles have been placed within the title field itself, following the preferred title and an equal sign to represent the title frame (i.e., the fact that both titles appear onscreen). These guidelines recommend the use of separate fields that distinguish between the preferred title and any subsequent parallel title(s) but if this is not possible, the older approach is acceptable.
+Historically, parallel titles have been placed within the title field itself, following the preferred title and an equal sign to represent the title frame (i.e., the fact that both titles appear onscreen).
+These guidelines recommend the use of separate fields that distinguish between the preferred title and any subsequent parallel title(s) but if this is not possible, the older approach is acceptable.
 
   Example:
 
@@ -70,11 +73,13 @@ Historically, parallel titles have been placed within the title field itself, fo
   Der Fangschuss (Preferred Title)
   Coup de grâce (Parallel Title)
 
-Alternatively, an institution may opt to have fewer Title Types and simply use Preferred and Alternative Title Types (i.e., designating parallel titles as Alternative Title Types). For example, with co-productions, a Preferred title for the Work is established with all other language titles added both as Alternative title types to the Work and as the Title Proper/Other Title of an associated Variant and/or Manifestation.
+Alternatively, an institution may opt to have fewer Title Types and simply use Preferred and Alternative Title Types (i.e., designating parallel titles as Alternative Title Types).
+For example, with co-productions, a Preferred title for the Work is established with all other language titles added both as Alternative title types to the Work and as the Title Proper/Other Title of an associated Variant and/or Manifestation.
 
 A parallel title of a Manifestation corresponds to the title proper in another language or script.[^157]
 
-Record in a note the source of the parallel title, as appropriate. Institutions may choose to distinguish between distinct Parallel and Alternative title types or adopt a wider definition of “Alternative” which incorporates both.
+Record in a note the source of the parallel title, as appropriate.
+Institutions may choose to distinguish between distinct Parallel and Alternative title types or adopt a wider definition of “Alternative” which incorporates both.
 
 For parallel titles of a Manifestation distributed in distinct geographical regions, record the region(s) to which the parallel title applies.
 

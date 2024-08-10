@@ -1,10 +1,12 @@
 # A.2.2 Title Proper {#manual-A.2.2}
 
-The title of a moving image Manifestation or Item. This is a transcribed element, reflecting the title as it appears onscreen.
+The title of a moving image Manifestation or Item.
+This is a transcribed element, reflecting the title as it appears onscreen.
 
 *Manifestations*
 
-The title proper corresponds to that of the Manifestation of a Work/Variant, i.e. the title used for a theatrical 35mm release, the title used for a DVD release, the title used for a Television broadcast, the title used for an Internet release, etc. It may reflect the title used in secondary sources or the title as viewed by the cataloguer from a moving image Item belonging to the considered Manifestation. It is the chief name of any Manifestation and represents the primary access point.[^137]
+The title proper corresponds to that of the Manifestation of a Work/Variant, i.e. the title used for a theatrical 35mm release, the title used for a DVD release, the title used for a Television broadcast, the title used for an Internet release, etc. It may reflect the title used in secondary sources or the title as viewed by the cataloguer from a moving image Item belonging to the considered Manifestation.
+It is the chief name of any Manifestation and represents the primary access point.[^137]
 
 Ideally record in a note or dedicated field the source of the title proper.
 
@@ -16,7 +18,8 @@ Specify in a note or dedicated field if the title proper is not determinable or 
 
 Ascertaining the Title Proper of Items differs from ascertaining those for Works, Variants and Manifestations in that what is on or affixed to the Item or physical copy itself takes precedence.
 
-The title of an Item may differ, either slightly or wholly, from the title of the Manifestation and/or Work/Variant to which it is linked hierarchically. In particular, where an incomplete physical product of the Manifestation has been acquired (see [A.2.6.3 Analytics/Components of identified newsreels/cinemagazines](#manual-A.2.6.3)).
+The title of an Item may differ, either slightly or wholly, from the title of the Manifestation and/or Work/Variant to which it is linked hierarchically.
+In particular, where an incomplete physical product of the Manifestation has been acquired (see [A.2.6.3 Analytics/Components of identified newsreels/cinemagazines](#manual-A.2.6.3)).
 
 If it is not possible to establish a title from either the Item or its container then secondary sources or a supplied/devised title can be used.
 

@@ -19,13 +19,17 @@ Decision event information consists of the following sub-elements:
 
 - Decision type
 
-Record the type or status of the decision event. Usually the term adopted is “censorship” or “revision” for decisions mandated by law, “rating” for decisions under a voluntary scheme. Further types may include special forms of evaluation, e.g. for tax privileges, as long as these are distinct from awards.
+Record the type or status of the decision event.
+Usually the term adopted is “censorship” or “revision” for decisions mandated by law, “rating” for decisions under a voluntary scheme.
+Further types may include special forms of evaluation, e.g. for tax privileges, as long as these are distinct from awards.
 
-Selection should be made from a controlled list of terms. See [D.13 Manifestation Decision Types](#manual-D.13).
+Selection should be made from a controlled list of terms.
+See [D.13 Manifestation Decision Types](#manual-D.13).
 
 - Decision date
 
-Record the date on which the verdict was announced or on which the verdict was declared valid. Dates should be formatted according to ISO 8601 or some other recognised standard.
+Record the date on which the verdict was announced or on which the verdict was declared valid.
+Dates should be formatted according to ISO 8601 or some other recognised standard.
 
 - Regional scope
 

@@ -2,7 +2,8 @@
 
 The Types below reflect terms used in CEN standard EN15907.
 
-**Analytic (component part)**: content that is contained in another content. A component part may itself be either monographic or serial.
+**Analytic (component part)**: content that is contained in another content.
+A component part may itself be either monographic or serial.
 
   Examples:
 
@@ -22,14 +23,16 @@ The Types below reflect terms used in CEN standard EN15907.
 
 **Monographic**: Complete content in one part or intended to be completed in a finite number of parts.
 
-This is also applicable to television episodes. The record for the television series itself is catalogued as a Serial.
+This is also applicable to television episodes.
+The record for the television series itself is catalogued as a Serial.
 
   Examples:
 
     Coronation Street [1960-12-09]
     Spaced. Series 1 Episode 1. 1999-09-02
 
-**Serial**: Content issued in successive parts and intended to be continued indefinitely, or across a span of time. A Work record for a television series is catalogued as a “Serial.” Individual episodes may be catalogued as a Monographic record.
+**Serial**: Content issued in successive parts and intended to be continued indefinitely, or across a span of time.
+A Work record for a television series is catalogued as a “Serial.” Individual episodes may be catalogued as a Monographic record.
 
   Examples:
 

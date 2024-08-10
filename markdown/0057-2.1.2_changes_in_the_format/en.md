@@ -25,9 +25,11 @@ Example: change in format and publication context
   Il gattopardo (Luchino Visconti, 1963)
   Home video publication, DVD – aspect ratio 2,21 :1 – Medusa Video, Italia, 00/00/2009
 
-In-house copying of an institution’s holding onto a different format, e.g. a video transfer of a 35mm film does not necessitate creation of a new Manifestation. In this case there is also the option of simply creating an Item for the copy, and linking it to the same Manifestation as the source Item.
+In-house copying of an institution’s holding onto a different format, e.g. a video transfer of a 35mm film does not necessitate creation of a new Manifestation.
+In this case there is also the option of simply creating an Item for the copy, and linking it to the same Manifestation as the source Item.
 
-This option depends on an institution’s policy. Some may choose always to create a new Manifestation, whilst others may decide to create a new Manifestation where change in format and change in distribution/publication coincide but just create a new Item where change in format is as a result of in-house copying.
+This option depends on an institution’s policy.
+Some may choose always to create a new Manifestation, whilst others may decide to create a new Manifestation where change in format and change in distribution/publication coincide but just create a new Item where change in format is as a result of in-house copying.
 
 It is for an institution to decide on which approach it prefers and apply consistently.
 

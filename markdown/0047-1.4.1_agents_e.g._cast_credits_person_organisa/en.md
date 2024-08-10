@@ -1,10 +1,15 @@
 # 1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) {#manual-1.4.1}
 
-An Agent is defined as an entity that is involved in the creation, realisation, curation or exploitation of a Work/Variant and who is considered to have major responsibility for, or be of major importance to, the Work/Variant. Typical distinctions between Agent types are Person, Corporate Body, Family and Person Group.[^71] This includes cast and credits for the Work/Variant.
+An Agent is defined as an entity that is involved in the creation, realisation, curation or exploitation of a Work/Variant and who is considered to have major responsibility for, or be of major importance to, the Work/Variant.
+Typical distinctions between Agent types are Person, Corporate Body, Family and Person Group.[^71] This includes cast and credits for the Work/Variant.
 
 Agent(s) may also have relationships to an instance of a specific Event or of an “Other” relationship in connection with the Work/Variant.
 
-Because responsibility for moving image materials is most often complex and highly diverse, institutions - particularly those with special interests - should determine the types of activities they wish to include. These activities may vary from institution to institution according to the types of moving image material held. For example, an institution holding primarily television material may consider the activity of producer more important than that of director. Institutions whose collections are primarily composed of motion picture material may value equally the activities of directors and producers. Provide access to Agents when they have made an important contribution to the particular Work or Variant, even when the type of responsibility (credit function) is one that may not be considered major in other Works/Variants or types of Works/Variants.[^72]
+Because responsibility for moving image materials is most often complex and highly diverse, institutions - particularly those with special interests - should determine the types of activities they wish to include.
+These activities may vary from institution to institution according to the types of moving image material held.
+For example, an institution holding primarily television material may consider the activity of producer more important than that of director.
+Institutions whose collections are primarily composed of motion picture material may value equally the activities of directors and producers.
+Provide access to Agents when they have made an important contribution to the particular Work or Variant, even when the type of responsibility (credit function) is one that may not be considered major in other Works/Variants or types of Works/Variants.[^72]
 
 Agents may be described in two ways: as discrete index points, and/or merged into one field where the credits are listed in order of role importance or as transcribed from the Work.
 

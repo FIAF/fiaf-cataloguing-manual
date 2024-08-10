@@ -1,6 +1,7 @@
 # B.3 Elements {#manual-B.3}
 
-Provide additional or explanatory information for any WVMI elements, particularly in cases where this information is not recorded elsewhere in dedicated fields. This is offered for users that do not have the option of structuring this information as described in these guidelines.
+Provide additional or explanatory information for any WVMI elements, particularly in cases where this information is not recorded elsewhere in dedicated fields.
+This is offered for users that do not have the option of structuring this information as described in these guidelines.
 
 **Title**
 
@@ -18,7 +19,8 @@ The source or function of a title, the date the title was viewed and who viewed 
 
   Title from title screen.
 
-  Title supplied by donor, Mrs. Pare Lorentz (Elizabeth Meyer).
+  Title supplied by donor, Mrs.
+Pare Lorentz (Elizabeth Meyer).
 
   Title from Moving Picture World 3:122.
 
@@ -50,15 +52,20 @@ Relevant information which further explains the year/date and the source(s) of i
 
  Examples:
 
-  Personal record. Eugene Meyer family. Family camping trip through the Canadian
+  Personal record.
+Eugene Meyer family.
+Family camping trip through the Canadian
   Rockies -- US, 1926.
 
-  [Note] Date from notes accompanying item, attached to inventory, and from Merlo Pusey’s Eugene Meyer, (New York: Knopf, 1974), p.195. [^188]
+  [Note] Date from notes accompanying item, attached to inventory, and from Merlo Pusey’s Eugene Meyer, (New York: Knopf, 1974), p.195.
+[^188]
 
   French language edition ©1982.
-  Copyright date recorded as copyright 1987. Resource described is a translation of the French language edition.[^189]
+Copyright date recorded as copyright 1987.
+Resource described is a translation of the French language edition.[^189]
 
-  Title of work is clearly, Ten nights in a bar room; however, several versions of this film were produced between 1910-1931. It is probable that this work is the 1921 version, but due to vagueness of available plot summaries and disappearance of copyright descriptive material for the 1921 version, date cannot be verified at this time.[^190]
+  Title of work is clearly, Ten nights in a bar room; however, several versions of this film were produced between 1910-1931.
+It is probable that this work is the 1921 version, but due to vagueness of available plot summaries and disappearance of copyright descriptive material for the 1921 version, date cannot be verified at this time.[^190]
 
 **Language**[^191]
 
@@ -67,14 +74,15 @@ Give the language or languages of the spoken, sung, or written content of the WV
  Examples:
 
  In Arabic with English subtitles.
- English language credits and narration.
- Main title, credits, and preface in French; dialogue in special languages created by Anthony Burgess.
- Sound track dubbed in English.
- English translation voice-over.
+English language credits and narration.
+Main title, credits, and preface in French; dialogue in special languages created by Anthony Burgess.
+Sound track dubbed in English.
+English translation voice-over.
 
 **Content description**
 
-A note appearing in conjunction with a content description. Cite the source(s) of information for the summary of the content of a Work/Variant.
+A note appearing in conjunction with a content description.
+Cite the source(s) of information for the summary of the content of a Work/Variant.
 
 **Format changes**
 

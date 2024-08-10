@@ -1,8 +1,6 @@
 # 1.1.2 Boundaries between Works and Variants/Manifestations {#manual-1.1.2}
 
-The boundaries between a moving image Work and its Variant(s) (i.e. where a Variant
-rather than a new Work may be created) may be drawn on the basis of one or more of
-the following alterations to the content given below. [^33]
+The boundaries between a moving image Work and its Variant(s) (i.e. where a Variant rather than a new Work may be created) may be drawn on the basis of one or more of the following alterations to the content given below. [^33]
 
 <b>Change in footage and/or change in continuity (secondary editing)</b>
 

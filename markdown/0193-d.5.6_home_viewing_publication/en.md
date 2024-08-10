@@ -1,6 +1,7 @@
 # D.5.6 Home viewing publication {#manual-D.5.6}
 
-A published Manifestation for viewing in the home or similar small-scale private context, of any type of work. For example, a Blu-ray release of a feature film, for viewing in the home; or a DVD compilation release of a set of non-fiction film works.
+A published Manifestation for viewing in the home or similar small-scale private context, of any type of work.
+For example, a Blu-ray release of a feature film, for viewing in the home; or a DVD compilation release of a set of non-fiction film works.
 
   Example:
 

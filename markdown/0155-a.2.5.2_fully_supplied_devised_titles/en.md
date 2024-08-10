@@ -32,7 +32,9 @@ If the content being described consists of two or more forms, record the one or 
 
   CBS bloopers, commercials and other content
 
-It is recommended that institutions stipulate within the supplied/devised title that the footage is unedited (e.g. “unedited footage” or “unedited content”), as an overall way of characterising the form of the content. This may not be appropriate in all cases.[^165]
+It is recommended that institutions stipulate within the supplied/devised title that the footage is unedited (e.g.
+“unedited footage” or “unedited content”), as an overall way of characterising the form of the content.
+This may not be appropriate in all cases.[^165]
 
   EXAMPLES:
 
@@ -68,7 +70,8 @@ If no name has been recorded, but the subject of the content is a person, family
   Eddie Cantor and others. Unedited footage
   World Series, 1956. Game no. 7. Unedited footage
 
-For unidentified moving images, use the term “unidentified” in the title. Use numbers to distinguish separate content when there is more than one unidentified segment in a particular descriptor category.
+For unidentified moving images, use the term “unidentified” in the title.
+Use numbers to distinguish separate content when there is more than one unidentified segment in a particular descriptor category.
 
   EXAMPLES:
 

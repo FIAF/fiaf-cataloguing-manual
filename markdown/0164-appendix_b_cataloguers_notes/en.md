@@ -1,10 +1,15 @@
 # Appendix B, Cataloguer’s Notes {#manual-B}
 
-A cataloguer’s note is any annotation that might be helpful to those using or revising the cataloguing data. It includes information that does not readily fit into dedicated fields or other areas of the description. The extent and specificity of notes will depend upon factors such as staff, viewing facilities, documentation, system designs, etc.[^178]
+A cataloguer’s note is any annotation that might be helpful to those using or revising the cataloguing data.
+It includes information that does not readily fit into dedicated fields or other areas of the description.
+The extent and specificity of notes will depend upon factors such as staff, viewing facilities, documentation, system designs, etc.[^178]
 
-Take information recorded in notes from any suitable source. When creating the note, apply the guidelines in Chapter 0. Preliminary Notes on capitalisation, quotations, references, etc.
+Take information recorded in notes from any suitable source.
+When creating the note, apply the guidelines in Chapter 0.
+Preliminary Notes on capitalisation, quotations, references, etc.
 
-Institutions may establish more rigorous, local guidelines as to the order of information in the notes area. For example, when recording notes which further describe data elements already catalogued, some institutions may stipulate the order of notes follow a particular sequence wherever possible, e.g., title, statement of responsibility, edition/version/variation, production, distribution, etc.; or, when uniformity of presentation assists in the recognition of the type of information being presented or gives economy of space without loss of clarity.[^179]
+Institutions may establish more rigorous, local guidelines as to the order of information in the notes area.
+For example, when recording notes which further describe data elements already catalogued, some institutions may stipulate the order of notes follow a particular sequence wherever possible, e.g., title, statement of responsibility, edition/version/variation, production, distribution, etc.; or, when uniformity of presentation assists in the recognition of the type of information being presented or gives economy of space without loss of clarity.[^179]
 
   Examples:[^180]
 

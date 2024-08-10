@@ -14,8 +14,10 @@ or where possible following the who/what/where/when ordering principles in creat
 
 The Item title would then be utilised to create the Manifestation and Work level records as well.
 
-In such cases the Work would be assigned the attribute Monographic. Analytic is only used for a whole component rather than a fragment of a whole.
+In such cases the Work would be assigned the attribute Monographic.
+Analytic is only used for a whole component rather than a fragment of a whole.
 
-Square brackets around a whole devised title are optional, as this can alternatively be inferred by use of a Supplied/Devised Title Type designation. Many electronic systems can be punctuation sensitive, so presence of square brackets [], particularly at the start of a title, could impact on searchability.
+Square brackets around a whole devised title are optional, as this can alternatively be inferred by use of a Supplied/Devised Title Type designation.
+Many electronic systems can be punctuation sensitive, so presence of square brackets [], particularly at the start of a title, could impact on searchability.
 
 [^174]: See [A.2.5 Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](#manual-A.2.5) and examples of titling

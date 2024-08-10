@@ -1,6 +1,7 @@
 # F.3.1 Entities {#manual-F.3.1}
 
-Functional Requirements for Bibliographic Records (FRBR) was published in 1998 by the International Federation of Libraries Association. It is based on the entity-attribute-relationship model of analysis, and has been incorporated into the structure of both RDA and EN 15907.
+Functional Requirements for Bibliographic Records (FRBR) was published in 1998 by the International Federation of Libraries Association.
+It is based on the entity-attribute-relationship model of analysis, and has been incorporated into the structure of both RDA and EN 15907.
 
 FRBR identifies and defines three groups of entities:[^230]
 
@@ -24,7 +25,8 @@ FRBR identifies and defines three groups of entities:[^230]
   - Event
   - Place
 
-This manual focuses almost exclusively on the Group 1 entities, their attributes and relationships. Although it also briefly provides guidelines for the description of the Group 2 and Group 3 entities, we recommend the use of other manuals and appropriate existing national or international standards for more detail in these areas.
+This manual focuses almost exclusively on the Group 1 entities, their attributes and relationships.
+Although it also briefly provides guidelines for the description of the Group 2 and Group 3 entities, we recommend the use of other manuals and appropriate existing national or international standards for more detail in these areas.
 
 [^230]: FRBR Final Report, pp. 12-16; Taylor, p. 4.
 

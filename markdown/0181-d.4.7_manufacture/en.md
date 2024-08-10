@@ -19,15 +19,16 @@ Manufacture event information consists of the following sub-elements:
 
 - Manufacture type
 
-Record the general type of the manufacture activity performed, for example, film printing, tele-cine, video copying, etc. Selection should be made from a controlled list of terms. See [D.14 Manifestation Manufacture Types](#manual-D.14).
+Record the general type of the manufacture activity performed, for example, film printing, tele-cine, video copying, etc. Selection should be made from a controlled list of terms.
+See [D.14 Manifestation Manufacture Types](#manual-D.14).
 
 - Date of Manufacture
 
-Record the date or time span on which the Manufacture Event took place. (Dates
-should be formatted according to ISO 8601 or some other recognised standard.)
+Record the date or time span on which the Manufacture Event took place. (Dates should be formatted according to ISO 8601 or some other recognised standard.)
 
 - Region of Manufacture/embodiment
 
-Record the country or other political or physical geographic entity where the Manufacture Event took place (e.g. the region/place where the laboratory was located). (For the treatment of the geographical names, see Getty Thesaurus of Geographic Names (TGN), or some other recognised standard.)
+Record the country or other political or physical geographic entity where the Manufacture Event took place (e.g. the region/place where the laboratory was located).
+(For the treatment of the geographical names, see Getty Thesaurus of Geographic Names (TGN), or some other recognised standard.)
 
 If known and considered of relevance, record the name of the city or smaller geographic entity where the Manufacture Event took place.

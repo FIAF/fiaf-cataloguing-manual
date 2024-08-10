@@ -1,8 +1,13 @@
 # 1.3.6 Content description (synopses, shotlists, etc) [^59] {#manual-1.3.6}
 
-Write a concise, objective, non-critical summary of the content of the moving image Work and/or Variant. Content descriptions can be synposes, brief TV guide-like one sentence description, shotlists, etc. There can be more than one type of content description in the record.
+Write a concise, objective, non-critical summary of the content of the moving image Work and/or Variant.
+Content descriptions can be synposes, brief TV guide-like one sentence description, shotlists, etc. There can be more than one type of content description in the record.
 
-The content description should be written in a style that is easy to read. It should not include technical terms, abbreviations, or allusions significant to a specialist audience. Avoid slang expressions and colloquialisms fashionable at the time of writing,and, where several cataloguers are viewing independently, they should, ideally, try to achieve a common written style. Descriptions should be objective and not include subjective commentary on the quality of the content. If acceptable summaries are already available in secondary sources, cataloguers may use these, instead of taking the time to prepare summaries of their own.[^60] If using summaries exactly as written, put the summary in quotes and note the source of the summary.
+The content description should be written in a style that is easy to read.
+It should not include technical terms, abbreviations, or allusions significant to a specialist audience.
+Avoid slang expressions and colloquialisms fashionable at the time of writing,and, where several cataloguers are viewing independently, they should, ideally, try to achieve a common written style.
+Descriptions should be objective and not include subjective commentary on the quality of the content.
+If acceptable summaries are already available in secondary sources, cataloguers may use these, instead of taking the time to prepare summaries of their own.[^60] If using summaries exactly as written, put the summary in quotes and note the source of the summary.
 
   Example:[^61]
 
@@ -36,7 +41,9 @@ A content description may also be a shotlist or listing of the contents of an ag
 
 The content description can be based on a viewing of the work, accompanying documentation, or secondary sources, but the source should be clearly noted.
 
-For unedited Works, where time and resources permit, each scene should be summarized. If there are shots of particular significance or interest – of, for example, prominent people or places – these should be recorded. Otherwise a general description of scenes and sequences will suffice.[^63]
+For unedited Works, where time and resources permit, each scene should be summarized.
+If there are shots of particular significance or interest – of, for example, prominent people or places – these should be recorded.
+Otherwise a general description of scenes and sequences will suffice.[^63]
 
 If applicable, add information about the content of the moving image Variant where it differs from the content of the Work.
 
