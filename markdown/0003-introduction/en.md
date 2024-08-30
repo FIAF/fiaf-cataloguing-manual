@@ -13,6 +13,8 @@ However, it is difficult to discuss rules without mentioning data elements where
 Thus, the Manual by default provides both a metadata structure (fields or elements) and rules in how to input the values the fields contain.
 It reflects current and recommended cataloguing practices at international film archives represented on the Commission with the goal of interoperability with related cataloguing and metadata standards.
 
+Torbjørn have added this paragraph.
+
 The cataloguing of moving images encompasses the complex, professional tasks of gathering and arranging data within systems upon which an institution depends.
 Indeed, accurate, well-organised descriptions of both filmographic and technical information about an institution’s collection serve as the basis for informed internal use such as preservation, collections development, and outreach or exhibition.
 They further constitute the key to accessing collections by external users such as scholars, researchers and the general public – both now and for future generations.[^1]
