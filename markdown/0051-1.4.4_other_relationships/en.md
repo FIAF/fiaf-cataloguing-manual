@@ -15,7 +15,7 @@ Commonly-occurring relationships include:[^82]
 
 - Work(s) that the moving image Work forms part of (e.g. series/serials, aggregations/compilations)
 
-  Fantômas contre Fantômas (Serial in 4 episodes, Louis Feuillade 1914, production Société des Etablissements Gaumont).
+  Fantômas contre Fantômas (Serial in 5 episodes, Louis Feuillade 1914, production Société des Etablissements Gaumont).
   
   Fiddlesticks, Ub Iwerks, 1930, episode of the animation series Flip the Frog (Celebrity Pictures, distr. Metro Goldwyn-Mayer, 1930-1933 (38 issues).
 
