@@ -1,16 +1,5 @@
 # D.7.7 Item Base – Film or Video {#manual-D.7.7}
-
-Acetate  
-Acrylic  
-CTA  
-Diacetate  
-Mainly safety  
-Mainly nitrate  
-Mixed  
+Acetate   
 Mylar  
 Nitrate  
-Polyester  
-PVC  
-Safety  
-Video  
-Vinyl
+Polyester 
