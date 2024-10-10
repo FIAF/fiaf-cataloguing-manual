@@ -1,8 +1,5 @@
 # 3.1.5.12 Frame Rate {#manual-3.1.5.12}
 
-Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in [D.7.18 Item Frame Rate/Transfer Speed](#manual-D.7.18).
-
 Frame rate is the native frame rate for the Item.
 Information related to the frame rate used during a digitisation process is added to Transfer Speed (see [3.1.5.23 Transfer Speed](#manual-3.1.5.23)).
 
