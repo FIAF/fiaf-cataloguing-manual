@@ -11,7 +11,6 @@ For digital files, enter the numerical measurement indicating the size of the di
 
 As above, the Unit of Measurement (feet, metres, GB, etc.) may be provided in a separate field.
 This could be two separate fields side by side – one for numbers and one for size measurement.
-A suggested list, which is open and not exhaustive, can be found in [D.7.9 Item File Size – Digital](#manual-D.7.9).
 
 If the length of an Item is uncertain, use a question mark following the unit count or record the uncertain number preceded by “approximately.” In a note, give an explanation for the estimated footage or metre count, where known.
 
