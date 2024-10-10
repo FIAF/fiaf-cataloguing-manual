@@ -2,7 +2,7 @@
 
 The audio compression standard used in the audio file, whether it is contained in a wrapper with a video file or as a standalone audio file.
 
-Other lists include:
+Examples for value lists:
 
 PBCore essenceTrackEncoding vocabulary: http://metadataregistry.org/concept/list/vocabulary_id/156.html
 
