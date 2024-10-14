@@ -8,19 +8,19 @@ Fields and data in black are additional elements and data, that also mainly corr
 
 Core concepts ([0.2 Core elements of description](#manual-0.2))
 
-Title
-Series/Serial
-Cast
-Credits
-Country of reference
-Original format
-Original Length
-Original duration
-Language
-Year of reference
-Identifier
-Subject/genre/form
-Content description
+Title  
+Series/Serial  
+Cast  
+Credits  
+Country of reference  
+Original format  
+Original Length  
+Original duration  
+Language  
+Year of reference  
+Identifier  
+Subject/genre/form  
+Content description  
 
 **3-Level Hierarchy Model**
 
@@ -29,7 +29,7 @@ Content description
 | Title [Title] | Title type |
 | The Ladykillers | Original |
 |The Lady killers | Help search |
-| Work type: Film | Filmographic level: Monographic |
+|Filmographic level: Monographic |
 | Production country [Country of reference] : United Kingdom | |
 | Date(s) [Year of reference] | Date type |
 | 1955 | Copyright |
