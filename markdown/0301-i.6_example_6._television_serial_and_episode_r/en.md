@@ -8,7 +8,6 @@
 | Hill St Blues | Alternative |
 | Level | Work |
 | Filmographic level | Serial |
-| Work type | TV |
 | Category | Fiction |
 | Production country | United States of America
 | Date start | 1981-01-15 |
