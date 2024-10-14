@@ -7,7 +7,6 @@
 | Shots of 1932 | Acquisition |
 | Brown Family Film | Devised |
 | Level | Work |
-| Work type | Film |
 | Category | Non Fiction |
 | Country | United Kingdom |
 | Date | 1932 |
