@@ -2,6 +2,7 @@
 Acetate    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diacetate    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Triacetate    
-Mylar  
-Nitrate  
-Polyester 
+Ozaphan  
+Nitrate     
+Polyester    
+Magnetic Tape
