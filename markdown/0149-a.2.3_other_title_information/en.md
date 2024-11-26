@@ -9,9 +9,9 @@ If other title information appearing on the Manifestation/Item is considered to 
   Examples:
 
   Dr. Strangelove, or, How I learned to stop worrying and love the bomb  
-  Film d’amore e d’anarchia, ovvero, Stamattina alle 10 in Via del Fiore nella nota casa di tolleranza  
-  Claymation: three dimensional clay animation  
-  This Britain: Heritage of the sea  
+  Film d’amore e d’anarchia, ovvero, Stamattina alle 10 in Via del Fiore nella nota casa di tolleranza   
+  Claymation: three dimensional clay animation   
+  This Britain: Heritage of the sea   
 
 Distinguish the other title information through the use of spacing or punctuation, or a separate or dedicated field.
 If a general material designation is used, place it after the preferred title and before other title information.[^141]
