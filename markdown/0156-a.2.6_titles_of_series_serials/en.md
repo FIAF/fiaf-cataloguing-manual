@@ -21,7 +21,7 @@ Individual institutions should select which is most appropriate for their own sy
                     Item – Mary Tyler Moore show. Chuckles bites the dust
         OR
         Work (Monographic) – Chuckles bites the dust (Preferred title)
-            Mary Tyler Moore show (Series title)
+                             Mary Tyler Moore show (Series title)
                 Manifestation – Chuckles bites the dust
                     Item – Chuckles bites the dust
 
