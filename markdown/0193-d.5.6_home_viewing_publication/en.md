@@ -13,7 +13,7 @@ For example, a Blu-ray release of a feature film, for viewing in the home; or a 
 
   Example:
 
-  Fellini Satyricon (Italy, 1963, Federico Fellini)
+  Fellini Satyricon (Italy, 1969, Federico Fellini)
   Manifestation 1: Home Video Publication – VHS (Italy – 1987 – De Laurentiis/ Ricordi Video (publisher)
 
   The Queen (United Kingdom, 2006, Stephen Frears)[^218]
