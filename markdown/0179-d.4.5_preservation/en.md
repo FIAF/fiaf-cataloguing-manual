@@ -11,7 +11,7 @@ See [D.8 Manifestation Agent Types](#manual-D.8) and [D.3 Work/Variant Agent Typ
 
 A Preservation Event can be in relationship with instances of “Other” relationships (such as technical reports, documentation material, promotional material for the specific project, etc.).
 
-Record all the existing relationships of a Publication Event, if the information is known and considered of relevance.
+Record all the existing relationships of a Preservation Event, if the information is known and considered of relevance.
 
 Preservation Event information consists of the following sub-elements:
 
