@@ -8,7 +8,6 @@
 | Hill St Blues | Alternative |
 | Level | Work |
 | Filmographic level | Serial |
-| Work type | TV |
 | Category | Fiction |
 | Production country | United States of America
 | Date start | 1981-01-15 |
@@ -46,8 +45,7 @@
 | Title | Can World War III Be an Attitude? |
 | Title type | Original |
 | Level | Work |
-| Filmographic level | Monographic |
-| Work type | TV | 
+| Filmographic level | Monographic | 
 | Category | Fiction |
 | Production country | United States of America |
 | Date start | 1981-01-24 |
