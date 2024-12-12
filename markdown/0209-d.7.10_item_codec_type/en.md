@@ -6,14 +6,15 @@ EBUVideoCompressionCode (https://www.ebu.ch/metadata/cs/web/ebu_VideoCompression
 
 **VIDEO**
 
-AVC
-D10
-NIL ProRes 422 (HQ)
-S10
-JPEG2000
-MPEG-4 H264/AVC Main Profile
+AVC   
+D10   
+NIL    
+ProRes 422 (HQ)    
+S10    
+JPEG2000    
+MPEG-4 H264/AVC Main Profile    
 
 **AUDIO**
 
-AIFF
+AIFF    
 WAV
