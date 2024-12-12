@@ -56,7 +56,7 @@ Describe or demonstrate Work-to-Work relationships through linking to the Work i
 
 Remember, a Work based on a pre-existing Work should be identified as a Variant of the same Work unless it has been so significantly changed as to have become a new related Work.[^83] See [1.1.1 Boundaries between Works](#manual-1.1.1) and [1.1.2 Boundaries between Works and Variants/Manifestations](#manual-1.1.2) for determining when a Work should be identified as a new, but related Work and when it should be identified as a Variant of the original Work.
 
-[^81]: EN 15907 8.5 HasAsSubject; YCR, 1.2.7 Relationships With Other Moving Image Works or Other Kinds of Works
+[^81]: EN 15907 8.6 HasAsSubject; YCR, 1.2.7 Relationships With Other Moving Image Works or Other Kinds of Works
 [^82]: OLAC TF, Part I, Moving Image Work Definition and Boundaries, Commonly-Occurring Relationships, p. 16.
 [^83]: YCR, 1.1.7 Works based on previous works, pp. 24-25.
 
