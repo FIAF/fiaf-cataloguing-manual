@@ -6,15 +6,7 @@ Models should be applied according to an institution’s system and also determi
 
 The full list of elements of description for each entity is set out in the following charts and diagrams, and in Chapters 1-3.
 See Appendix I, Examples of records containing core elements in the different levels of hierarchy for examples of real records which contain these core elements (as well as others) across the hierarchies.
-\newpage
-![](diagrams/0.2.1a/en.svg)
-\newpage
-![](diagrams/0.2.1b/en.svg)
-\newpage
-![](diagrams/0.2.1c/en.svg)
-\newpage
-![](diagrams/0.2.1d/en.svg)
-\newpage
+
 
 **Work/Manifestation/Item.
 Properties expressed in one record, with abstracts, contextual and object data stored in a single level hierarchy Distribution of the elements of description according to the four entities order**

@@ -10,6 +10,3 @@ This distinction applies to cataloguing structures using a 4-level hierarchy: Wo
 When using a 3-level hierarchy - Work, Manifestation, and Item – minor changes will indicate new Manifestations rather than new Variants.
 In all cases, major changes warrant the creation of new Work records.
 
-
-
-![](diagrams/1.1/en.svg)
