@@ -1,7 +1,5 @@
 # Acknowledgements {#manual-ACKNOWLEDGEMENTS}
 
-\pagenumbering{gobble}
-
 This manual is a result of the combined efforts of many professionals to whom we owe our gratitude.
 
 Contributors to early, formative discussions that informed the basis for our approach include Anna Bohn, Marco Rendina, Rosario López de Prado, Anne-Marie Grapton, Andrea Leigh, and Kelley McGrath.
@@ -26,11 +24,3 @@ Lastly, we are indebted to Linda Tadic, who did a superb job of editing the manu
 Natasha Fairbairn (Co-author)     
 Maria Assunta Pimpinelli (Co-author ; co-Chair, FIAF Rules Revision)     
 Thelma Ross (Co-author ; co-Chair, FIAF Rules Revision)
-
-\newpage
-
-\tableofcontents
-
-\newpage
-
-\setcounter{page}{1}
