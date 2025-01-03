@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# add new page to force a new page.
+for f in /manual/markdown/0001-dedication/*.md; do
+  echo "\newpage" >> "$f"
+done
+
 # render de pdf.
 MARKDOWN_DE=$(find markdown -type f -name 'de.md' | sort)
 pandoc $MARKDOWN_DE --pdf-engine=xelatex -o /render/manual_de.pdf
