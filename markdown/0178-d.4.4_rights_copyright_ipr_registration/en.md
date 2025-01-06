@@ -24,8 +24,7 @@ The date on which the registration was filed or the date on which registration b
 
 - Registration agency
 
-Name of the agency issuing the registration certificate (e.g. “UK Intellectual Property
-Office,” name of a legal deposit library, etc.).
+Name of the agency issuing the registration certificate (e.g. “UK Intellectual Property Office,” name of a legal deposit library, etc.).
 
 - Regional scope
 

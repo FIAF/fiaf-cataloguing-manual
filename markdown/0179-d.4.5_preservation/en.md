@@ -6,8 +6,7 @@ This includes statements about past or future treatments scheduled for the item.
 Selection should be made from a controlled list of values.
 
 A Preservation Event has as typical Agent(s) the institution(s) or individual professionals that make preservation decisions.
-Selection should be made from a controlled list of values.
-See [D.8 Manifestation Agent Types](#manual-D.8) and [D.3 Work/Variant Agent Types](#manual-D.3).
+Selection should be made from a controlled list of values. See [D.8 Manifestation Agent Types](#manual-D.8) and [D.3 Work/Variant Agent Types](#manual-D.3).
 
 A Preservation Event can be in relationship with instances of “Other” relationships (such as technical reports, documentation material, promotional material for the specific project, etc.).
 
@@ -20,8 +19,7 @@ Preservation Event information consists of the following sub-elements:
 
 - Preservation type
 
-Record the general type of the preservation activity performed, for example, duplication, transfer, etc. Selection should be made from a controlled list of terms.
-See [D.12 Manifestation Preservation Types](#manual-D.12).
+Record the general type of the preservation activity performed, for example, duplication, transfer, etc. Selection should be made from a controlled list of terms. See [D.12 Manifestation Preservation Types](#manual-D.12).
 
 - Preservation Date
 
