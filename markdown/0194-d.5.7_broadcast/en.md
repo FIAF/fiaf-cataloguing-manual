@@ -1,7 +1,6 @@
 # D.5.7 Broadcast {#manual-D.5.7}
 
-A moving image Manifestation type for TV transmission.
-It encompasses professional video and digital formats, i.e. Digital Betacam, HDCam, etc.
+A moving image Manifestation type for TV transmission. It encompasses professional video and digital formats, i.e. Digital Betacam, HDCam, etc.
 
   Example:
 

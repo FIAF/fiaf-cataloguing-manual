@@ -8,8 +8,7 @@ A Manufacture Event may be associated with instances of Agent, e.g. a laboratory
 
 A Manufacture Event may be associated with instances of “Other” relationship(s).
 
-Record all the existing relationships for the Manufacture Event, if the information is
-known and considered of relevance.
+Record all the existing relationships for the Manufacture Event, if the information is known and considered of relevance.
 
 Manufacture event information consists of the following sub-elements:
 
@@ -19,8 +18,7 @@ Manufacture event information consists of the following sub-elements:
 
 - Manufacture type
 
-Record the general type of the manufacture activity performed, for example, film printing, tele-cine, video copying, etc. Selection should be made from a controlled list of terms.
-See [D.14 Manifestation Manufacture Types](#manual-D.14).
+Record the general type of the manufacture activity performed, for example, film printing, tele-cine, video copying, etc. Selection should be made from a controlled list of terms. See [D.14 Manifestation Manufacture Types](#manual-D.14).
 
 - Date of Manufacture
 

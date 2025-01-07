@@ -1,7 +1,6 @@
 # D.5.3 Non-theatrical distribution {#manual-D.5.3}
 
-A moving image Manifestation screened or exhibited outside the public theatrical context.
-For example, industrial film, training film, medical film, where screening often takes place within a private institutional context; film club screenings; educational screenings.
+A moving image Manifestation screened or exhibited outside the public theatrical context. For example, industrial film, training film, medical film, where screening often takes place within a private institutional context; film club screenings; educational screenings.
 
   Example:
 

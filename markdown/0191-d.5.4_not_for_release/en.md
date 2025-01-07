@@ -1,7 +1,6 @@
 # D.5.4 Not for release {#manual-D.5.4}
 
-Any moving image Manifestation where the viewing activity was private, due to the nature of the work or the nature of the viewing.
-For example, amateur film / home movies, where screening usually takes place in a private familial context only; or an uncut manifestation of a feature film screened for crew only.
+Any moving image Manifestation where the viewing activity was private, due to the nature of the work or the nature of the viewing. For example, amateur film / home movies, where screening usually takes place in a private familial context only; or an uncut manifestation of a feature film screened for crew only.
 
     Example:
 

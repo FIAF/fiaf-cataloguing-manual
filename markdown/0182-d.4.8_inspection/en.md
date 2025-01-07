@@ -18,21 +18,16 @@ Inspection Event information consists of the following sub-elements:
 
 The general type of inspection activity performed.
 
-If desired and if applicable, record one or more general type(s) of the inspection activity performed (e.g. projection prep, inventory).
-Selection should be made from a controlled list of terms.
-This includes statements about past or future inspections scheduled for the item.[^213]
+If desired and if applicable, record one or more general type(s) of the inspection activity performed (e.g. projection prep, inventory). Selection should be made from a controlled list of terms. This includes statements about past or future inspections scheduled for the item.[^213]
 
 - Inspection date
 
-The date or time span in which the inspection activity was performed.
-(Dates should be formatted according to ISO 8601 or some other recognised standard.)
+The date or time span in which the inspection activity was performed. (Dates should be formatted according to ISO 8601 or some other recognised standard.)
 
 - Inspection detail
 
 Information describing the condition of the Item in greater detail.
 
-If desired and if applicable, record information about the condition of the Item, including nature and extent of damage.
-Selection should be made from a controlled list of terms.
-(See [D.16 Manifestation/Item Condition, Preservation and Restoration.](#manual-D.16))
+If desired and if applicable, record information about the condition of the Item, including nature and extent of damage. Selection should be made from a controlled list of terms. (See [D.16 Manifestation/Item Condition, Preservation and Restoration.](#manual-D.16))
 
 [^213]: YCR 6.5, 6.6
