@@ -1,4 +1,4 @@
-# Danksagung {#manual-ACKNOWLEDGEMENTS}
+# Danksagung {#manual-acknowledgements}
 
 Dieses Handbuch ist das Ergebnis der gemeinsamen Bemühungen vieler Fachleute, denen unsere Dankbarkeit gebührt.
 

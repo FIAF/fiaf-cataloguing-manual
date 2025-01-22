@@ -1,10 +1,9 @@
 #!/bin/bash
 
-# copy markdown files locally for inclusion in docker container.
-cp -r ../markdown ./
-
-# create render dir.
-mkdir -p ./render
+# add new page to force a new page.
+for f in ./markdown/0001-dedication/*.md; do
+  echo "\newpage" >> "$f"
+done
 
 # render de pdf.
 MARKDOWN_DE=$(find markdown -type f -name 'de.md' | sort)

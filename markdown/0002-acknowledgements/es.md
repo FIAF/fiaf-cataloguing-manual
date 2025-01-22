@@ -1,4 +1,4 @@
-# Agradecimientos {#manual-ACKNOWLEDGEMENTS}
+# Agradecimientos {#manual-acknowledgements}
 
 Este manual es el resultado de los esfuerzos combinados de muchos profesionales a quienes debemos nuestra gratitud.
 

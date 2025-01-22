@@ -1,5 +1,4 @@
- 
-0.2 Elementos núcleo de la descripción9
+# 0.2 Elementos núcleo de la descripción[^1] {#manual-0.2}
 
 Estos puntos núcleo de
 

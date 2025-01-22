@@ -1,4 +1,4 @@
-# Zahvala {#manual-ACKNOWLEDGEMENTS}
+# Zahvala {#manual-acknowledgements}
 
 Ovaj je priručnik rezultat udruženih napora brojnih stručnjaka kojima ovim putem zahvaljujemo.
 

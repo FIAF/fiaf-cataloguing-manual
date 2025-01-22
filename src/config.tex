@@ -1,10 +1,42 @@
+\documentclass{article}
+\usepackage{geometry}
+\usepackage{graphicx} % Add this line to handle graphics
+% \usepackag?e{hyperref} 
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{tocloft}
 
-\documentclass{article} 
+\makeatletter
+\renewcommand{\@seccntformat}[1]{}
+\makeatother
 
-\usepackage{hyperref} % library for hyperlinks
-\usepackage{longtable} % library for tables
-\usepackage{fontspec} % library for fonts
-\setmainfont{BrownStd} % define specific font
+% \setlength{\cftsecindent}{0em}
+% \renewcommand{\contentsname}{Table of Contents}
+
+% % Remove section numbers from table of contents entries
+% \setlength{\cftsecindent}{0em}
+% \renewcommand{\thesection}{}
+
+
+\usepackage[hidelinks]{hyperref}
+
+
+\usepackage{fontspec} 
+\setmainfont{BrownStd} 
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+% % Remove indentation for sections
+% \makeatletter
+% \renewcommand{\section}{\@startsection
+%   {section}%
+%   {0}%
+%   {0pt}%
+%   {-\baselineskip}%
+%   {0.5\baselineskip}%
+%   {\normalfont\Large\bfseries}}
+% \makeatother
 
 % Set paragraph indent to zero
 \setlength{\parindent}{0pt}
@@ -12,6 +44,54 @@
 % Ensure empty lines between paragraphs result in full paragraph breaks
 \setlength{\parskip}{\baselineskip}
 
+
+% \geometry{left=1in, right=1in, top=1in, bottom=1in}
+
+
+\usepackage{tabularray}
+
+\SetTblrInner{
+  colsep=10pt,
+  hline{1,Z}={1pt},
+  hline{2}={0.5pt},
+  column{1}={leftsep=2pt},
+  column{Z}={rightsep=2pt}
+  }
+
+
+% Change the title of the table of contents
+\renewcommand{\contentsname}{Table of Contents}
+
+
+
+% \addtocontents{toc}{\protect\setcounter{page}{5}}
+
+% % Change the title of the table of contents
+% \renewcommand{\contentsname}{Table of Contents}
+
+% Remove section numbers from table of contents entries
+\setlength{\cftsecindent}{0em}
+\setlength{\cftsubsecindent}{0em} % If you have subsections
+\setlength{\cftsubsubsecindent}{0em} % If you have subsubsections
+% \renewcommand{\thesection}{}
+\setlength{\parindent}{0pt}
+
+% Remove section numbers from table of contents entries
+\setlength{\cftsecindent}{0em}
+\renewcommand{\thesection}{}
+
+\thispagestyle{empty}
+
 \begin{document}
+
+% \newgeometry{margin=0in}
+\restoregeometry
+% \section{Section Title}
+
+
+
 $body$
+
+
+
 \end{document}

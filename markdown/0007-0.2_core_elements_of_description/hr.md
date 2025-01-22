@@ -1,5 +1,4 @@
- 
-0.2 Ključni elementi opisa9
+# 0.2 Ključni elementi opisa[^1] {#manual-0.2}
 
 U priručniku su navedene ključne točke opisa sa pripadajućim pojmovima. Riječ je o idealnom
 

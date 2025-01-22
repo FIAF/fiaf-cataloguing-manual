@@ -1,15 +1,10 @@
- 
-0.2 Kernelemente der Beschreibung9
+# 0.2 Kernelemente der Beschreibung[^9] {#manual-0.2}
 
-Die Kernelemente sind hier mit den im Handbuch korrespondierenden Begriffen aufgeführt. Sie stellen
-ein ideales Minimum an Metadaten für die Katalogisierung von Bewegtbildern dar.
+Die Kernelemente sind hier mit den im Handbuch korrespondierenden Begriffen aufgeführt. 
+Sie stellen ein ideales Minimum an Metadaten für die Katalogisierung von Bewegtbildern dar.
 
-Kernkonzept
-
-Übergeordnetes Element
-
-Untergeordnetes Element
-
+| Kernkonzept | Übergeordnetes Element | Untergeordnetes Element |
+| -- | -- | -- |
 Titel
 
 Serie/Reihe10
@@ -74,14 +69,7 @@ Originalsprache
 1.3.5.1 Begriffe für Sprachen + 1.3.5.2
 Verwendungstyp [Werk]
 
-9 Adaptiert vom element set aus CEN TC 372 EN 15744.
-10 EN 15744 definiert folgendermaßen: "Eine Serie ist eine Gruppe separater Items, die dadurch miteinander
-verbunden sind, dass jedes Item zusätzlich zu seinem eigenen Titel einen Sammeltitel trägt, der für die Gruppe
-als Ganzes gilt. Eine Reihe ist eine Art von Werk mit "kurzem Thema", das sich hauptsächlich durch die
-episodische Entwicklung einer Geschichte auszeichnet". Dieses Kernkonzept bezieht sich auf den Namen eines
-anderen Werkes, von dem ein Werk "Teil" sein kann, wenn letzteres in dem Kontext/der Absicht konzipiert
-wurde, ein Element einer Serie oder Reihe zu sein. Es wird hier nicht als Werk-/Variantenbeschreibungstyp
-verwendet (Siehe D.1 Beschreibungstyp von Werk und Variante).
+
 
 6
 
@@ -138,3 +126,12 @@ HINWEIS: Für den Datenaustausch ist die Angabe der Herkunft des Datensatzes wic
 Institution, die den Datensatz liefert). Diese Daten befinden sich in der Regel in einem speziellen Feld
 auf der Werksebene und werden automatisch von elektronischen Systemen generiert. Dies entspricht
 CEN EN 15907, 6.2 - Herkunft des Datensatzes.
+
+[^9]: Adaptiert vom element set aus CEN TC 372 EN 15744.
+10 EN 15744 definiert folgendermaßen: "Eine Serie ist eine Gruppe separater Items, die dadurch miteinander
+verbunden sind, dass jedes Item zusätzlich zu seinem eigenen Titel einen Sammeltitel trägt, der für die Gruppe
+als Ganzes gilt. Eine Reihe ist eine Art von Werk mit "kurzem Thema", das sich hauptsächlich durch die
+episodische Entwicklung einer Geschichte auszeichnet". Dieses Kernkonzept bezieht sich auf den Namen eines
+anderen Werkes, von dem ein Werk "Teil" sein kann, wenn letzteres in dem Kontext/der Absicht konzipiert
+wurde, ein Element einer Serie oder Reihe zu sein. Es wird hier nicht als Werk-/Variantenbeschreibungstyp
+verwendet (Siehe D.1 Beschreibungstyp von Werk und Variante).

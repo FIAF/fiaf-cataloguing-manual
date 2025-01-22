@@ -1,4 +1,4 @@
-# Remerciements {#manual-ACKNOWLEDGEMENTS}
+# Remerciements {#manual-acknowledgements}
 
 Ce manuel est le résultat des efforts conjugués de nombreux professionnels auxquels nous devons notre reconnaissance.
 

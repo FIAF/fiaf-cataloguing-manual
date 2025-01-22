@@ -4,8 +4,8 @@
 cp -r ../markdown ./
 
 # build docker image.
-docker build -t fiaf_manual .
+#docker build -t fiaf_manual .
 
 # run container.
-docker run -d -i -v ./render:/render fiaf_manual 
+#docker run -d -i -v ./render:/render fiaf_manual 
 

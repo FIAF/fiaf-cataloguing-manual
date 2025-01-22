@@ -1,12 +1,11 @@
 # 0.2 Core elements of description[^9] {#manual-0.2}
 
 These core points of description are listed with their corresponding terms as presented in the manual.
-They represent an ideal minimum set of metadata for moving image
-cataloguing.
+They represent an ideal minimum set of metadata for moving image cataloguing.
 
 | CORE CONCEPT | TOP-LEVEL ELEMENT | SUB-ELEMENT|
 | -- | -- | -- |
-|Title | 1.3.2 Title [Work] |
+|Title | 1.3.2 Title [Work] | -- |
 | Series / Serial[^10] | 1.3.2 Title [Work] | 1.3.2.1 Title Type = Series/Serial [Work] |
 | Cast | 1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) [Work] | 1.4.1.1 Agent Activity = Cast [Work] |
 | Credits (including Production Companies) | 1.4.1 Agents [Work] | 1.4.1.1 Agent Activity = Credit (use term for actual role) [Work] |
@@ -20,7 +19,7 @@ cataloguing.
 | Subject/Genre/Form[^11] | 1.4.3 Subject/Genre/Form terms [Work] | |
 | Content Description | 1.3.6 Content description (synopses, shotlists, etc) | |
 
-*The concept of “original” in this manual indicates the first known manifestation of the Work, which is not determined by its release status.
+The concept of “original” in this manual indicates the first known manifestation of the Work, which is not determined by its release status.
 The concept of “original” must be flexible enough to be applied to released and unreleased Works.
 For a released Work, we tend to refer to the “original” Work as the first known release of the first known manifestation.
 For Works that are not released (e.g., a home movie), the “original” Work is simply the first known manifestation.
@@ -35,5 +34,6 @@ This corresponds to CEN EN 15907, 6.2 – Record Source.
 
 [^9]: Adapted from CEN TC 372 EN 15744 element set
 [^10]: EN15744 definitions “A series is a group of separate items related to one another by the fact that each item bears, in addition to its own title, a collective title applying to the group as a whole. A serial is a type of “short subject” work which is characterized principally by the episodic development of a story”. This Core Concept is referencing the name of another Work that a Work may be “part of”, where the latter has been conceived within the context/intention of being an element of a Series or Serial. It is not being used here as a Work/Variant Description Type. (See D.1 Work/Variant Description Types)
+[^11]: Form = Fiction, Non-fiction, etc. Some institutions may incorporate these as a genre term, whilst others may have them as a separate category to genre.
 
 

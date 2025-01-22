@@ -1,5 +1,4 @@
- 
-0.2 Éléments de description de base9
+# 0.2 Éléments de description de base[^1] {#manual-0.2}
 
 Ces éléments de description basiques sont listés avec les termes correspondants à ceux utilisés dans
 ce manuel. Ils représentent un ensemble minimal idéal de métadonnées pour cataloguer les images animées.

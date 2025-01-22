@@ -1,3 +1,3 @@
-# Dédicace {#manual-DEDICATION}
+# Dédicace {#manual-dedication}
 
 Ce manuel est dédié à **Christian Dimitriu** (1945-2016), dont la contribution à l'archivage des images animées et à la FIAF est incommensurable ; à **Ronny Loewy** (1946-2012), dont la connaissance des normes de métadonnées des images animées a été une source d'information primordiale et essentielle lors de l'élaboration de cette publication ; ainsi qu’à **Laurent Bismuth** (1965-2021), un ardent défenseur de la norme CEN 15907, dont les connaissances et l'expertise en matière de catalogage et les contributions aux discussions lors de la rédaction de cette publication ont été inestimables.
