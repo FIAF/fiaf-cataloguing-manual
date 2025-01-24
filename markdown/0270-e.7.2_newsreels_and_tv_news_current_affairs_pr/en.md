@@ -16,6 +16,6 @@ The component parts do not.
 
 It is possible that only individual components of newsreels/news programmes may be acquired by an institution.
 In such cases it is simply a matter of a partial/incomplete acquisition, in the same way that only 2 reels of a 3 reel feature film might be acquired.
-The acquisition Item record would be linked as “part of” the whole Manifestation ([A.2.6.3 Analytic/Components of identified newsreels/cinemagazines](#manual-A.2.6.3)).
+The acquisition Item record would be linked as “part of” the whole Manifestation (see [A.2.6.3 Analytic/Components of identified newsreels/cinemagazines](#manual-A.2.6.3)).
 
 
