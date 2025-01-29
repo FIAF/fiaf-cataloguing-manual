@@ -7,13 +7,16 @@ A suggested list, which is open and not exhaustive, can be found in [D.6 Manifes
 
 If usage type(s) cannot be determined, indicate a value of “unknown”.
 
-Examples:
+```{=latex}
+\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
 
-Caccia tragica (Italy, Giuseppe De Santis, 1947)
-Not for release (archival) – 35mm – Italian (spoken), Romanian (intertitles)
+Caccia tragica (Italy, Giuseppe De Santis, 1947) \\
+Not for release (archival) – 35mm – Italian (spoken), Romanian (intertitles) \\ \\
 
-New York stories, (USA, Woody Allen, Francis Ford Coppola, Martin Scorsese, 1989
-Home video publication – DVD, English (spoken); – Italian, German; English, Italian, German, French, Spanish (subtitles) – Buena Vista (publisher), 2002/05/16
+New York stories, (USA, Woody Allen, Francis Ford Coppola, Martin Scorsese, 1989 \\
+Home video publication – DVD, English (spoken); – Italian, German; English, Italian, German, French, Spanish (subtitles) – Buena Vista (publisher), 2002/05/16 \\ \\
 
-The Bridge. Episode 1 (Sweden, Denmark, Charlotte Sieling, 2011)
-TV broadcast – United Kingdom, 2012-04-21 - Swedish (Dialogue (original)), Danish (Dialogue (original)), English (Subtitles)
+The Bridge. Episode 1 (Sweden, Denmark, Charlotte Sieling, 2011) \\
+TV broadcast – United Kingdom, 2012-04-21 - Swedish (Dialogue (original)), Danish (Dialogue (original)), English (Subtitles) 
+\end{tcolorbox}
+```
