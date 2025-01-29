@@ -14,7 +14,7 @@ mkdir -p ./render
 MARKDOWN_EN=$(find markdown -type f -name 'en.md' | sort)
 # pandoc $MARKDOWN_EN --pdf-engine=xelatex -o ./render/manual_en.pdf --template=config.tex
 
-pandoc --pdf-engine=xelatex $MARKDOWN_EN -o ./render/manual_en.pdf --include-in-header=config.tex
+pandoc --self-contained --lua-filter ./pikchr.lua --pdf-engine=xelatex $MARKDOWN_EN -o ./render/manual_en.pdf --include-in-header=config.tex
 
 
 # # render es pdf.
