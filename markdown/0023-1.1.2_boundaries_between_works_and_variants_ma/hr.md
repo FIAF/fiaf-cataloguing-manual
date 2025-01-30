@@ -34,12 +34,12 @@ Shortened Variant Große Freiheit Nr. 7 (109 minutes)
 Works censored or edited for television broadcast, for showing on airplanes, for showing
 in different parts of the country/world, etc.
 
-Annie Leibovitz, Life through a Lens (USA, 2007-01-03), broadcast in TV series American
+Annie Leibovitz, Life through a Lens (United States of America, 2007-01-03), broadcast in TV series American
 Masters
 Shortened Variant (for British television): Annie Leibovitz, Life through a Lens (UK, 2008-
 06-10), broadcast in TV series Imagine
 
-Last Tango in Paris (USA, 1972, Bernardo Bertolucci)
+Last Tango in Paris (United States of America, 1972, Bernardo Bertolucci)
 Censored Variant: Ultimo tango a Parigi (Italy, 1988, Broadcast)
 
 •	 dodavanje novog materijala djelu
@@ -57,9 +57,9 @@ del Comune di Bologna, 2006., str. 154. (Dossier Mr. Arkadin).
 24
 
 Blackmail (UK, 1929, Alfred Hitchcock)
-Augmented Variant: UK - 1929 (longer, with some scenes shot on purpose)
+Augmented Variant: United Kingdom - 1929 (longer, with some scenes shot on purpose)
 
-Little Shop of Horrors (USA, 1986, Frank Oz)
+Little Shop of Horrors (United States of America, 1986, Frank Oz)
 Augmented Variant: alternate ending of 23 minutes included in the 2012
 Warner Home Video - Blu Ray, DVD edition
 
@@ -83,15 +83,15 @@ sions, which were released on the same date as the English language version.37
 Cabiria (Italy, 1914, Giovanni Pastrone)
 Sonorized Variant: Italy, 1931
 
-A dog’s life (USA, 1918, Charles Chaplin)
+A dog’s life (United States of America, 1918, Charles Chaplin)
 Sonorized Variant: Vita da cani – sonorized with Italian intertitles – 193?
 
-The yellow mask (USA, 1930, Harry Lachman)
+The yellow mask (United States of America, 1930, Harry Lachman)
 Augmented Variant: Il principe corsaro, 1931: only with music, songs and sound effects,
 plus new Italian intertitles, but without dialogue, according to a 1930 law, which involved
 the first spoken foreign films distributed in Italy.
 
-Hallelujah! (USA, 1929, King Vidor)
+Hallelujah! (United States of America, 1929, King Vidor)
 Augmented Variant: Alleluia! – addition of music, songs, sound effects, and new Italian
 intertitles, but without dialogue; Italy, 1930
 
@@ -128,7 +128,7 @@ Nikolaus Wostry (from the credits on the DVD)
 
 Kita-kitsune Monogatari (Japan, 1978, Koreyoshi Kurahara); original narrator voice: Eiji
 Okada; augmented variant with added prologue and English narration: The Glacier Fox in
-Search of the Northern Sun – USA – 1979: narrator voice: Arthur Hill.
+Search of the Northern Sun – United States of America – 1979: narrator voice: Arthur Hill.
 
 Primjeri:
 
@@ -137,11 +137,11 @@ Language versions may credit the individuals responsible for dubbing or subtitle
 Senso (Italy, 1954, Luchino Visconti)
 Subtitled Variant: french subtitles – 1955: subtitles by Georges Sadoul
 
-Cinderella (USA, 1950, Clyde Geronimi, Wilfred Jackson, Hamilton Luske)
+Cinderella (United States of America, 1950, Clyde Geronimi, Wilfred Jackson, Hamilton Luske)
 Dubbed variant: Cendrillon, French (spoken language) – France - 1991: Dominique Poulain,
 voice of Cinderella)
 
-Sons of the Desert (USA, 1933, William A. Seiter):
+Sons of the Desert (United States of America, 1933, William A. Seiter):
 Dubbed Variant 1: I figli del deserto ̶ Italian (spoken language) - 1935: Carlo Cassola, voice
 of Oliver Hardy;
 Dubbed Variant 2: I figli del deserto ̶ Italian (spoken language) 1946: Alberto Sordi, voice

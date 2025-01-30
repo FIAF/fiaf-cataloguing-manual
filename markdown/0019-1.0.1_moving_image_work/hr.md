@@ -51,10 +51,10 @@ poput romana, drama itd.
 Primjeri:
 
 Hamlet (UK, 1948, Laurence Olivier)
-Hamlet (USA, 1996, Kenneth Branagh)
+Hamlet (United States of America, 1996, Kenneth Branagh)
 
 Les misérables (France, 1958, Jean-Paul Le Chanois)
-Les misérables (USA, 1998, Bille August)
+Les misérables (United States of America, 1998, Bille August)
 
 Trollflöjten (Sweden, 1975, Ingmar Bergman)
 Il flauto magico (Italy, 1976, Giulio Gianini and Emanuele Luzzati)
@@ -71,7 +71,7 @@ Tosce i Hamleta.
 
 Primjeri:
 
-Simon and Garfunkel: The Concert in Central Park (USA, 1982, Michael Lindsay-Hogg)
+Simon and Garfunkel: The Concert in Central Park (United States of America, 1982, Michael Lindsay-Hogg)
 Olympia 1. Teil – Fest der Völker (Germany, 1938, Leni Riefenstahl)
 Olympia 2. Teil – Fest der Schönheit (Germany, 1938, Leni Riefenstahl)
 Marathon (Spain, 1992, Carlos Saura)

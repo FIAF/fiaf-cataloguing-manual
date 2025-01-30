@@ -35,7 +35,7 @@ The man who knew too much (Großbritannien, 1934, Alfred Hitchcock)
 The man who knew too much (Großbritannien, 1936, Alfred Hitchcock)
 
 Infernal Affairs (Hongkong, 2002, Andrew Lau und Alan Mak)
-Departed (USA, 2006, Martin Scorsese)
+Departed (United States of America, 2006, Martin Scorsese)
 
 Die Dreigroschenoper (Deutschland, 1931, Georg Wilhelm Pabst)
 Die Dreigroschenoper (Deutschland,1962, Wolfgang Staudte)
@@ -53,7 +53,7 @@ Le Coup de grâce (Frankreich/Deutschland, 1976, Volker Schlöndorff, Französis
 Die Dreigroschenoper (Deutschland, 1931, Georg Wilhelm Pabst, Deutsch)
 L’opéra de quat’sous (Frankreich, 1931, Georg Wilhelm Pabst, Französisch)
 
-La canzone dell’amore (USA, 1930, Gennaro Righelli, Englisch)
+La canzone dell’amore (United States of America, 1930, Gennaro Righelli, Englisch)
 Liebeslied (Deutschland, 1930, Constantin J. Davis, Deutsch)
 La dernière berceuse (Frankreich, 1930, Jean Cassagne, Französisch)
 

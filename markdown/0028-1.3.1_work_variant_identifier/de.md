@@ -58,6 +58,6 @@ Werk Identifikator – ISAN Nummer: ISAN 0000-0001-6B16-0000-Y-0000-0000-9
 Metropolis (Deutschland, 1927, Fritz Lang)
 Werk Identifikator – VIAF Nummer: 219448355
 
-The Boxer (USA, Irland, 1997, Jim Sheridan)
+The Boxer (United States of America, Irland, 1997, Jim Sheridan)
 Werk Identifikator – EIDR Nummer: 10.5240/5896-B203-017D-11A5-EB7F-W
 Werk Identifikator – ISAN Nummer: 0000-0000-60A5-0000-E-0000-0000-W

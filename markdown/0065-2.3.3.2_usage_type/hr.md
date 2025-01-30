@@ -18,7 +18,7 @@ Primjeri:
 Caccia tragica (Italy, Giuseppe De Santis, 1947)
 Not for release (archival) – 35 mm – Italian (spoken), Romanian (intertitles)
 
-New York stories, (USA, Woody Allen, Francis Ford Coppola, Martin Scorsese, 1989
+New York stories, (United States of America, Woody Allen, Francis Ford Coppola, Martin Scorsese, 1989
 Home video publication – DVD, English (spoken); - Italian, German; English, Italian, German,
 French, Spanish (subtitles) – Buena Vista (publisher), 2002/05/16
 

@@ -4,7 +4,7 @@
 
 Supernatural. The Complete Sixth Season
 Supernatural. Season 6
-USA, 2011
+United States of America, 2011
 
 Numéro de notice: 12345
 
@@ -85,7 +85,7 @@ Bêtisier
 Supernatural: Let it Bleed
 Let it Bleed
 Saison 6. Épisode 21
-USA, 2011. Première diffusion : 2011-05-20, Vendredi, 21:00-22:00, USA, The CW.
+United States of America, 2011. Première diffusion : 2011-05-20, Vendredi, 21:00-22:00, United States of America, The CW.
 
 Numéro de notice: 6789
 

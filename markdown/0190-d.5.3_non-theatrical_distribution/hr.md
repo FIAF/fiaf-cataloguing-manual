@@ -14,10 +14,10 @@ Manifestation: Non-theatrical distribution (USA – Delta Airlines)218
 Che cos’è la geografia (Italy, 1953) (genre: Educational Film)
 Manifestation 1: Non-theatrical distribution – 16 mm – silent with Italian intertitles – b/n – 20’
 
-United Nations peacekeeping: situation report, USA, 1978 (United Nations Film)
+United Nations peacekeeping: situation report, United States of America, 1978 (United Nations Film)
 (genre: Educational film)
 Manifestation 1: Non-theatrical distribution – 16 mm – sound – colour
 
-Stevie Wonder salutes Nelson Mandela, USA, 1985 (United Nations Film)
+Stevie Wonder salutes Nelson Mandela, United States of America, 1985 (United Nations Film)
 (genre: educational film)
 Manifestation 1: Non-theatrical distribution – 16 mm – sound – colour – 8’

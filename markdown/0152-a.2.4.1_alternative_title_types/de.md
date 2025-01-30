@@ -120,7 +120,7 @@ Quelle).160161
 Beispiel:
 
 Der Fangschuss = Coup de grâce
-[Das Werk ist eine deutsch-französische Koproduktion. Das Werk wurde in den USA unter dem
+[Das Werk ist eine deutsch-französische Koproduktion. Das Werk wurde in den United States of America unter dem
 französischen Titel veröffentlicht.]
 
 Der Fangschuss

@@ -85,7 +85,7 @@ In diesen Fällen sollte ein Vermerk verfasst werden, der das Datum näher erlä
 Beispiel:58
 
 [Persönlicher Eintrag. Familie Eugene Meyer. Familien-Campingtour durch die kanadischen Rockies].
-USA, 1926.
+United States of America, 1926.
 
 57 FIAF, 3.5.4, S. 64.
 58 [Anmerkung] Jahr aus Notizen, die dem Bestandsverzeichnis beigefügt sind, und aus Merlo Pusey's Eugene

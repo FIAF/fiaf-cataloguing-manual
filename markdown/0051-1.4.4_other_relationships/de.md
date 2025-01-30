@@ -10,7 +10,7 @@ Zu den häufig auftretenden Beziehungen gehören:85
 ● Werk, auf dem das Werk basiert (z.B. Bewegtbilder, die aus Romanen, Theaterstücken usw.
 adaptiert wurden)
 
-The Grapes of Wrath (USA, 1940, John Ford), nach dem gleichnamigen Roman von John Steinbeck
+The Grapes of Wrath (United States of America, 1940, John Ford), nach dem gleichnamigen Roman von John Steinbeck
 (1939).
 
 ● Werk, von dem das Werk eine Aufführung
@@ -37,7 +37,7 @@ Serien)
 The Godfather Part I
 The Godfather Part II
 The Godfather Part III
-Francis Ford Coppola (USA, 1972- 1974-1990)
+Francis Ford Coppola (United States of America, 1972- 1974-1990)
 
 ● Werk über das Werk (z.B. Dokumentarfilm über die Entstehung eines Spielfilms oder einer
 Fernsehsendung)
@@ -56,7 +56,7 @@ von Metropolis (Deutschland, 1927, Fritz Lang).
 
 ● Werk, das Werbematerial zu einem anderen Werk ist (z.B. Trailer)
 
-Wuthering Heights (Filmtrailer) (USA, 1939) ist der Trailer zu Wuthering Heights (USA, 1939, William
+Wuthering Heights (Filmtrailer) (United States of America, 1939) ist der Trailer zu Wuthering Heights (United States of America, 1939, William
 Wyler)
 
 Filmbegleitende Materialien, zu denen das Werk in Beziehung steht (z.B. Bücher, Artikel,

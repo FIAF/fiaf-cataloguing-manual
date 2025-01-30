@@ -23,9 +23,9 @@ skraćivanje ili dodatci postojećem sadržaju
 
 Primjer: A release of a dubbed film abridged or augmented.
 Il gattopardo (Italy, France, 1963, Luchino Visconti)
-Dubbed/Abridged: The leopard, English (spoken language) – 1963 – USA – 161´ (Theatrical
-distribution in USA, the 20th Century Fox cut 45 minutes);
-Subtitled: The leopard, English (spoken language) – 1980 ̶ USA (reintegrates the original
+Dubbed/Abridged: The leopard, English (spoken language) – 1963 – United States of America – 161´ (Theatrical
+distribution in United States of America, the 20th Century Fox cut 45 minutes);
+Subtitled: The leopard, English (spoken language) – 1980 ̶ United States of America (reintegrates the original
 running time of 187´)41.
 
 Promjene na razini izgovorenog ili pisanog teksta

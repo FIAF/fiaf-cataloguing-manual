@@ -35,7 +35,7 @@ Chacun son cinéma ou ce petit coup au cœur quand la lumière s’éteint et qu
 mence. (France, 2007): Compilation film of 33 three-minute films by various directors for the
 Cannes Film Festival’s 60th anniversary.
 
-1’09”01 September 11 (France, Egypt, Great Britain, Mexico, USA, 2002): 11 short films in
+1’09”01 September 11 (France, Egypt, Great Britain, Mexico, United States of America, 2002): 11 short films in
 which different directors give their impressions of the themes and events of the September 11
 2001 and the attacks on the World Trade Centre and the Pentagon.
 
@@ -61,7 +61,7 @@ u polju za sinopsis djela.
 
 Primjeri:
 
-Aria (USA, UK, 1987)
+Aria (United States of America, UK, 1987)
 
 Ten directors interpret various operatic arias:
 

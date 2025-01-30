@@ -15,7 +15,7 @@ Manifestation 2: Internet – digital file – [201-?] – Cineteca Italiana (in
 cinestore.cinetecamilano.it/index.php?option=com_content&view=arti- cle&id=21:amor-ped
 estre&catid=30&Itemid=104&lang=it- – 4’)
 
-A film Johnnie (USA, 1914, George Nichols)
+A film Johnnie (United States of America, 1914, George Nichols)
 Translated Variant: Danish intertitles – 35 mm silent – tinted – Denmark 191[?] – Title: Chaplin
 fridsstöraren
 
@@ -36,18 +36,18 @@ Manifestation 1: Internet – digital file – [200-?] – Deutsches Filminstitu
 lisher)
 http://www.filmportal.de/node/42289/video/1219949 – 2h 26’ 18’’
 
-Hollywood Stadium mystery (USA, 1938, David Howard)
+Hollywood Stadium mystery (United States of America, 1938, David Howard)
 Manifestation 1: Theatrical distribution – English (spoken language) – film – 35 mm b/n – 1938
 – USA
-Manifestation 2: Internet – digital file – 619,3 MB – [200-?] – USA – archive.org (Internet pub-
+Manifestation 2: Internet – digital file – 619,3 MB – [200-?] – United States of America – archive.org (Internet pub-
 lisher) – https://archive.org/details/Hollywood_Stadium_Mystery_1938
-Manifestation: Internet – digital file – 512 KB MPEG4 – [200-?] – USA – archive.org (internet
+Manifestation: Internet – digital file – 512 KB MPEG4 – [200-?] – United States of America – archive.org (internet
 publisher) – https://archive.org/details/Hollywood_Stadium_Mystery_1938
 
-Cat-Women of the Moon (USA, 1953, Arthur Hilton)
+Cat-Women of the Moon (United States of America, 1953, Arthur Hilton)
 Manifestation 1: Theatrical distribution – English (spoken language) – film – 35 mm – b/n –
 1953 – USA
-Manifestation 2: Internet – English (spoken language) digital file – DivX – [200-?] – USA https://
+Manifestation 2: Internet – English (spoken language) digital file – DivX – [200-?] – United States of America https://
 archive.org/details/Cat_Women_of_the_Moon; – 442,1 MB
 Manifestation 3: Internet – English (spoken language) - digital file – 512 Kb MPEG4 – [200-?] –
 USA - https://archive.org/details/Cat_Women_of_the_Moon – 259,6 MB

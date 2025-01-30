@@ -34,7 +34,7 @@ doivent être formatées conformément à la norme ISO 8601 ou à d’autres nor
 
 ∼ Organisme d’enregistrement
 
-Nom de l’organisme émetteur du certificat d’enregistrement (par exemple « UK Intellectual Property
+Nom de l’organisme émetteur du certificat d’enregistrement (par exemple « United KingdomIntellectual Property
 Office », « bureau de la propriété intellectuelle (BDPI) », nom d’une bibliothèque titulaire du dépôt légal,
 etc.).
 

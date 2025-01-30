@@ -65,7 +65,7 @@ Hinweise zur Unterscheidung von Werk/Variante/Manifestation/Exemplar mit ähnlic
 Titeln
 
 Beispiele:
-sex, lies and videotape (USA, 1989)
+sex, lies and videotape (United States of America, 1989)
 Titel im Original in Kleinbuchstaben dargestellt.
 
 Le cœur de la France (Frankreich, 1967, Roger Leenhardt)

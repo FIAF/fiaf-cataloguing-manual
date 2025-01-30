@@ -7,7 +7,7 @@ Supernatural. The Complete Sixth Season
 
 Record number: 12345 Supernatural. Season 6
 
-USA, 2011
+United States of America, 2011
 
 Kripke Enterprises Scrap Metal & Entertainment, Wonderland Sound and Vision
 
@@ -88,7 +88,7 @@ Gag Reel
 
 Season 6. Episode 21
 
-USA, 2011. First Broadcast: 2011-05-20, Friday, 21:00 – 22:00, USA, The CW.
+United States of America, 2011. First Broadcast: 2011-05-20, Friday, 21:00 – 22:00, United States of America, The CW.
 
 Fiction, Horror, Fantasy
 

@@ -47,5 +47,5 @@ Examples of partially and fully supplied titles for a variety of scenarios can b
 
 [^175]: Based on AMIM2, 1F2.1.
 [^176]: Many archives place information found on the Manfestation/Item in quotes to indicate the data is transcribed from the physical item itself or the audiovisual content of the entity. This practice is not recommended unless required by local cataloguing rules or local system requirements.
-[^177]: This example has since been identified as the film Grandpa’s Girl (USA, 1924 – Gil Pratt)
+[^177]: This example has since been identified as the film Grandpa’s Girl (United States of America, 1924 – Gil Pratt)
 

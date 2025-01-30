@@ -24,7 +24,7 @@ jegliches Ausscheiden von Darsteller*innen oder Mitgliedern des Stabs im Zusamme
 ●
 der Produktion
 
-Foolish Wives (USA, 1922, Erich von Stroheim
+Foolish Wives (United States of America, 1922, Erich von Stroheim
 Der Schauspieler Rudolph Christians starb während der Dreharbeiten; er wurde durch Robert Edenson
 ersetzt, der sonst hauptsächlich als Double eingesetzt wird
 

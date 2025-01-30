@@ -20,7 +20,7 @@ smrti članova filmske ili glumačke ekipe koji sudjeluju u produkciji
 
 Primjer:
 
-Foolish Wives (USA, 1922, Erich von Stroheim)
+Foolish Wives (United States of America, 1922, Erich von Stroheim)
 Actor Rudolph Christians died in mid-shooting; replaced by Robert Edenson who is used
 mainly as a double.
 

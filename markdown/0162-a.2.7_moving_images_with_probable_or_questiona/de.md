@@ -38,7 +38,7 @@ Titel des Datensatzes für die Variante: Originaltitel – Nipote Modello
 um anzuzeigen, dass die Daten aus dem physischen Objekt selbst oder dem audiovisuellen Inhalt der Einheit
 stammen. Diese Praxis wird nicht empfohlen, es sei denn, sie ist durch lokale Katalogisierungsregeln oder lokale
 Systemanforderungen vorgeschrieben.
-182 Dieses Beispiel wurde inzwischen als der Film Grandpa’s Girl (USA, 1924 – Gil Pratt) identifiziert.
+182 Dieses Beispiel wurde inzwischen als der Film Grandpa’s Girl (United States of America, 1924 – Gil Pratt) identifiziert.
 
 116
 

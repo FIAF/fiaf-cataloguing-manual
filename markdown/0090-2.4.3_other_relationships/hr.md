@@ -49,7 +49,7 @@ Primjer:
 Blow-up (UK - Italy, 1966, Michelangelo Antonioni) and
 Blow-up censorship cuts (35 mm) of the Italian theatrical release (1967).
 
-Othello, Orson Welles, USA – Italy – Morocco - France, 1952 and
+Othello, Orson Welles, United States of America – Italy – Morocco - France, 1952 and
 Otello, dailies and rushes, positive silent and some with sound, 35 mm, containing shots
 included in only a very limited extent in the first theatrical release (their title proper in
 Italian is: Otello).

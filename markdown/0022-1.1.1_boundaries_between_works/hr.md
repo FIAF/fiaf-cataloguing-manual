@@ -27,11 +27,11 @@ The man who knew too much (UK, 1936, Alfred Hitchcock)
 T’amerò sempre (Italy, 1933, Mario Camerini)
 T’amerò sempre (Italy, 1943, Mario Camerini)
 
-Planet of the apes (USA, 1968, Franklin J. Schaffner)
-Planet of the apes (USA, 2001, Tim Burton)
+Planet of the apes (United States of America, 1968, Franklin J. Schaffner)
+Planet of the apes (United States of America, 2001, Tim Burton)
 
-Scarface (USA, 1932, Howard Hawks)
-Scarface (USA, 1983, Brian De Palma)
+Scarface (United States of America, 1932, Howard Hawks)
+Scarface (United States of America, 1983, Brian De Palma)
 
 Die Dreigroschenoper (Germany, 1931, Georg Wilhelm Pabst)
 Die Dreigroschenoper (Germany, 1962, Wolfgang Staudte)
@@ -43,14 +43,14 @@ postavom
 
 Primjeri:
 
-Dracula (USA, 1931, Tod Browning, Spanish and English)
+Dracula (United States of America, 1931, Tod Browning, Spanish and English)
 
 33  Navedene vrste izmjena preuzete su iz dokumenta autorice Yee „The Concept of Work for Moving Image Materials”.
 34  Varijanta je posljedica sekundarne montaže.
 
 22
 
-Anna Christie (USA, 1930, Clarence Brown, English; 1931, German)
+Anna Christie (United States of America, 1930, Clarence Brown, English; 1931, German)
 
 Der Fangschuß (France/Germany, 1976, Volker Schlöndorff, German)
 Le Coup de grâce (France/Germany, 1976, Volker Schlöndorff, French)
@@ -58,7 +58,7 @@ Le Coup de grâce (France/Germany, 1976, Volker Schlöndorff, French)
 Die Dreigroschenoper (Germany, 1931, Georg Wilhelm Pabst, German)
 L’opéra de quat’sous (France, 1931, Georg Wilhelm Pabst, French)
 
-La canzone dell’amore (USA, 1930, Gennaro Righelli, English)
+La canzone dell’amore (United States of America, 1930, Gennaro Righelli, English)
 Liebeslied (Germany, 1930, Constantin J. Davis, German)
 La dernière berceuse (France, 1930, Jean Cassagne, French)
 

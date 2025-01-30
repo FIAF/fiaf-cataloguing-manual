@@ -58,11 +58,11 @@ Beispiele:
 Große Freiheit Nr. 7 (Deutschland, 1944) (112 minutes)
 Gekürzte Variante: Große Freiheit Nr. 7 (109 minutes)
 
-Annie Leibovitz, Life through a Lens (USA, 03.01.2007), ausgestrahlt in der TV-Serie American Masters
+Annie Leibovitz, Life through a Lens (United States of America, 03.01.2007), ausgestrahlt in der TV-Serie American Masters
 Gekürzte Variante (fürs britische Fernsehen): Annie Leibovitz, Life through a Lens (Großbritannien,
 10.06.2008), ausgestrahlt in der TV-Serie Imagine
 
-Last Tango in Paris (USA, 1972, Bernardo Bertolucci)
+Last Tango in Paris (United States of America, 1972, Bernardo Bertolucci)
 Zensierte Variante: Ultimo tango a Parigi (Italien, 1988, Fernsehausstrahlung)
 
 ●
@@ -76,7 +76,7 @@ Blackmail (Großbritannien, 1929, Alfred Hitchcock)
 Erweiterte Variante: Großbritannien – 1929 (länger, mit einigen speziell für diese Fassung gedrehten
 Szenen)
 
-Little Shop of Horrors (USA, 1986, Frank Oz)
+Little Shop of Horrors (United States of America, 1986, Frank Oz)
 Erweiterte Variante: alternatives Ende von 23 Minuten, enthalten in der 2012 Warner Home Video-
 Blu-ray/DVD-Ausgabe
 
@@ -103,7 +103,7 @@ Beispiele:
 Senso (Italien, 1954, Luchino Visconti)
 Untertitelte Variante: französische Untertitel - 1955: Untertitel von Georges Sadoul
 
-(USA,
+(United States of America,
 
 Luske)
 Cinderella
@@ -123,7 +123,7 @@ Clyde
 Star Wars Episode II: Attack of the Clones (2002) wurde in 19 verschiedenen Sprachfassungen
 synchronisiert, die am selben Tag wie die englische Fassung veröffentlicht wurden.35
 
-The Yellow Mask (USA, 1930, Harry Lachman)
+The Yellow Mask (United States of America, 1930, Harry Lachman)
 Erweiterte Variante: Il principe corsaro - 1931: nur mit Musik, Liedern und Geräuscheffekten sowie
 neuen italienischen Zwischentiteln, aber ohne Dialog (gemäß einem Gesetz von 1930, das die ersten in
 Italien vertriebenen ausländischen Tonfilme betraf).
@@ -170,11 +170,11 @@ oder die Untertitel zuständig sind.
 Senso (Italy, 1954, Luchino Visconti)
 OmU mit französischen Untertiteln – 1955: Untertitel von Georges Sadoul
 
-Cinderella (USA, 1950, Clyde Geronimi, Wilfred Jackson, Hamilton Luske)
+Cinderella (United States of America, 1950, Clyde Geronimi, Wilfred Jackson, Hamilton Luske)
 Synchronfassung: Cendrillon, Französisch (gesprochene Sprache) – France – 1991: Dominique Poulain,
 Stimme von Cendrillon)
 
-Sons of the Desert (USA, 1933, William A. Seiter):
+Sons of the Desert (United States of America, 1933, William A. Seiter):
 Synchronfassung 1: I figli del deserto – Italienisch (gesprochene Sprache) -1935: Carlo Cassola, Stimme
 von Oliver Hardy
 Synchronfassung 2: I figli del deserto – Italian (spoken language) 1946: Alberto Sordi, Stimme von

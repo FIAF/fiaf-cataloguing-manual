@@ -49,7 +49,7 @@ Work History
 Drama series following the activities of an American city police precinct and its per-
 sonnel.
 USA. MTM Enterprises for NBC Television.
-USA, NBC, transmitted 15/01/1981-12/05/1987 [7 seasons; 146 x hour]
+United States of America, NBC, transmitted 15/01/1981-12/05/1987 [7 seasons; 146 x hour]
 UK, Channel 4, transmitted 22/01/1981-
 
 Parts reference

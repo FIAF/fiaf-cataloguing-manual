@@ -23,9 +23,9 @@ Kürzungen oder Ergänzungen zu bestehenden Inhalten
 Beispiel: eine Veröffentlichung eines synchronisierten Films, gekürzt oder erweitert
 
 Il gattopardo (Italien, Frankreich, 1963, Luchino Visconti)
-Variante 1: Synchronisiert/gekürzt: The Leopard, Englisch (gesprochene Sprache) -1963 - USA - 161'
-(Kinofassung in den USA, die 20th Century Fox hat 45 Minuten gekürzt);
-Variante 2: Untertitelt: The Leopard, Englisch (gesprochene Sprache) -1980 - USA (Wiederherstellung
+Variante 1: Synchronisiert/gekürzt: The Leopard, Englisch (gesprochene Sprache) -1963 - United States of America - 161'
+(Kinofassung in den United States of America, die 20th Century Fox hat 45 Minuten gekürzt);
+Variante 2: Untertitelt: The Leopard, Englisch (gesprochene Sprache) -1980 - United States of America (Wiederherstellung
 der ursprünglichen Laufzeit von 187').39
 
 Änderung des textlichen und gesprochenen Wortes

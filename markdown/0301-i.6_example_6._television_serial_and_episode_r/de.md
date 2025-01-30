@@ -64,7 +64,7 @@ Dramaserie über die Aktivitäten eines amerikanischen Polizeireviers und seiner
 
 USA. MTM Enterprises for NBC Television.
 
-USA, NBC, gesendet 15/01/1981-12/05/1987 [7 seasons; 146 x hour]
+United States of America, NBC, gesendet 15/01/1981-12/05/1987 [7 seasons; 146 x hour]
 
 UK, Channel 4, gesendet 22/01/1981-
 

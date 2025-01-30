@@ -26,7 +26,7 @@ separate Objekte
 
 für gelbe,
 
-Der Zauberer von Oz (USA, 1939, Victor Fleming)
+Der Zauberer von Oz (United States of America, 1939, Victor Fleming)
 Gelbes-Trennungsnegativ
 Cyan-Trennungsnegativ
 Magenta-Trennungsnegativ
@@ -43,7 +43,7 @@ besseren Aufbewahrung auf derselben Spule/Band/DVD usw. gespeichert sind).
 Selezione Fregoli 2002
 Zusammenstellung von 16 kurzen Fregoli-Filmen, die für die Projektion zusammengeschnitten wurden.
 
-Laughing gas (USA, 1914, Charlie Chaplin), Those love pangs (USA, 1914, Charlie Chaplin)
+Laughing gas (United States of America, 1914, Charlie Chaplin), Those love pangs (United States of America, 1914, Charlie Chaplin)
 (zwei kurze Komödien von Charlie Chaplin, die aus Gründen der Aufbewahrung auf einer Filmrolle
 zusammengefügt wurden).
 

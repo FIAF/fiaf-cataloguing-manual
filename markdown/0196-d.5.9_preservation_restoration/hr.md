@@ -15,7 +15,7 @@ The great white silence (2010) (United Kingdom, Herbert Pointing, 1924) (DVD –
 Edition – BFI)
 
 Metropolis (Germany, Fritz Lang, 1927)
-The Complete Metropolis – Blu Ray – (2010 restoration – Kino International, USA, 2010)221
+The Complete Metropolis – Blu Ray – (2010 restoration – Kino International, United States of America, 2010)221
 
 Nosferatu. Eine Symphonie des Grauens (Germany, 1922, Friedrich Wilhelm Murnau) Blu-ray
 of the preservation/Restoration Variant: 2005 – 2006 restoration – Murnau Stiftung/Transit

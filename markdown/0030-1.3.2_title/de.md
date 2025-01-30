@@ -20,7 +20,7 @@ und Reihen).
 
 Beispiele:
 
-Gone with the wind (USA, 1939, Victor Fleming)
+Gone with the wind (United States of America, 1939, Victor Fleming)
 Gone with the wind – Originaltitel
 
 Via col vento – Verleihtitel – Synchronisiert (Italienisch)

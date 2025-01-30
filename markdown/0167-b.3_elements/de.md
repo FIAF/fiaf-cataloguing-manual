@@ -64,7 +64,7 @@ Relevante Informationen, die das Jahr/Datum und die Informationsquelle näher er
 Beispiele:
 
 Persönlicher Eintrag. Familie Eugene Meyer. Familien-Campingreise durch die kanadischen Rocky
-Mountains - USA, 1926.
+Mountains - United States of America, 1926.
 
 [Notiz] [Datum aus den Begleitnotizen zum Artikel, die dem Inventar beigefügt sind, und aus Merlo
 Pusey's Eugene Meyer, (New York: Knopf, 1974), S. 195.193

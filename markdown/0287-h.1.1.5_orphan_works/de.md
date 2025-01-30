@@ -25,7 +25,7 @@ der
 
 251 Die urheberrechtliche Schutzfrist in Deutschland, Österreich und Schweiz beträgt 70 Jahre, beginnend mit dem Tod des
 Urhebers bzw. längstlebenden Urhebers.
-252 Hinweise zu den Urheberrechtsbestimmungen in den USA finden Sie in der Tabelle von Peter Hirtle “Copyright terms and
+252 Hinweise zu den Urheberrechtsbestimmungen in den United States of America finden Sie in der Tabelle von Peter Hirtle “Copyright terms and
 the public domain in the United States,” jährliches update. http://copyright.cornell.edu/resources/publicdomain.cfm.
 
 196

@@ -71,7 +71,7 @@ prikazom ili jedinicom.
 178 U brojnim se arhivima informacije o prikazu/jedinici stavljaju u navodne znakove kako bi se naznačilo da je podatak prepisan
 sa same fizičke jedinice ili iz audiovizualnog sadržaja entiteta. Takva se praksa ne preporučuje osim kada je zadana lokalnim
 pravilima katalogizacije ili lokalnim zahtjevima sustava.
-179 Taj je primjer u međuvremenu identificiran kao film Grandpa’s Girl (USA, 1924 – Gil Pratt)
+179 Taj je primjer u međuvremenu identificiran kao film Grandpa’s Girl (United States of America, 1924 – Gil Pratt)
 
 111
 

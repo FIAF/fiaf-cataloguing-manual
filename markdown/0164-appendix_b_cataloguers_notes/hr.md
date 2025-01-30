@@ -42,10 +42,10 @@ naslovima.
 
 Primjeri:
 
-sex, lies and videotape (USA, 1989)
+sex, lies and videotape (United States of America, 1989)
 Title represented onscreen in lower-case.
 
-Herr der Ringe Die Zwei Türme (Germany, New Zealand, USA, 2002, Peter Jackson)
+Herr der Ringe Die Zwei Türme (Germany, New Zealand, United States of America, 2002, Peter Jackson)
 Part II of trilogy. Majority German financing nationality confirmed, thus German title assigned
 as Preferred title and The Lord of the Rings The Fellowship of the Ring as Alternative.
 

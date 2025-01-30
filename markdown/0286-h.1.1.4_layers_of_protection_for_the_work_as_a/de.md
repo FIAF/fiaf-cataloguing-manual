@@ -10,7 +10,7 @@ Schutzrechte" oder Leistungsschutzrechte bezeichnet, und oft sind diese Rechte i
 
 Dieser mehrschichtige Ansatz ist nicht immer gesetzlich verankert. Im Vereinigten Königreich beispielsweise
 ist nur die Aufzeichnung urheberrechtlich geschützt. Prominente Beispiele für diesen mehrschichtigen
-Ansatz sind die USA, wo ein Film als originäres Ausdruckswerk geschützt ist, das sich von der Aufzeichnung
+Ansatz sind die United States of America, wo ein Film als originäres Ausdruckswerk geschützt ist, das sich von der Aufzeichnung
 unterscheidet, sowie Frankreich und Deutschland, wo sowohl das Werk als auch die Aufzeichnung getrennt
 geschützt sind.
 

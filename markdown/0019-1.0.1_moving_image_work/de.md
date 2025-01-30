@@ -53,10 +53,10 @@ Textwerken wie Romanen, Theaterstücken usw. adaptiert wurden
 Beispiele:
 
 Hamlet (Großbritannien, 1948, Laurence Olivier)
-Hamlet (USA, 1996, Kenneth Branagh)
+Hamlet (United States of America, 1996, Kenneth Branagh)
 
 Les misérables (Frankreich, 1958, Jean-Paul Le Chanois)
-Les misérables (USA, 1998, Bille August)
+Les misérables (United States of America, 1998, Bille August)
 
 Tosca (Italien, 1939, Karl Koch)
 Tosca (Italien, 1973, Luigi Magni)
@@ -67,7 +67,7 @@ Filmwerke von Ereignissen wie Konzerten, Theateraufführungen, Sportveranstaltun
 
 Beispiele:
 
-Simon and Garfunkel: The Concert in Central Park (USA, 1982, Michael Lindsay-Hogg)
+Simon and Garfunkel: The Concert in Central Park (United States of America, 1982, Michael Lindsay-Hogg)
 
 Olympia 1. Teil – Fest der Völker (Deutschland, 1938, Leni Riefenstahl)
 Olympia 2. Teil – Fest der Schönheit (Germany, 1938, Leni Riefenstahl)

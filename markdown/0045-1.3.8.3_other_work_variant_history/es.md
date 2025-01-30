@@ -18,7 +18,7 @@ por su asistente Karl Koch, con Luchino Visconti como asistente.
 cualquier desaparición de miembros del reparto o equipo cinematográfico asociado
 con la producción
 
-Foolish Wives (USA, 1922, Erich von Stroheim)
+Foolish Wives (United States of America, 1922, Erich von Stroheim)
 El actor Rudolph Christians falleció a mitad de la filmación; fue reemplazado por
 Robert Edenson quien es utilizado principalmente como doble.
 • Explicaciones relativas al lapso de tiempo entre la producción y el estreno, por

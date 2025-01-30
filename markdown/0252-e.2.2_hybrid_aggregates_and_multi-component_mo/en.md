@@ -16,7 +16,7 @@ Other multi-component moving images often have a common theme, and usually compr
 
  Chacun son cinéma ou ce petit coup au cœur quand la lumière s’éteint et que le film commence. (France, 2007): Compilation film of 33 three-minute films by various directors for the Cannes Film Festival’s 60th anniversary.
 
- 11’09”01 September 11 (France, Egypt, Great Britain, Mexico, USA, 2002): 11 short films in which different directors give their impressions of the themes and events of the date September 11 2001 and the attacks on the World Trade Centre and the Pentagon.
+ 11’09”01 September 11 (France, Egypt, Great Britain, Mexico, United States of America, 2002): 11 short films in which different directors give their impressions of the themes and events of the date September 11 2001 and the attacks on the World Trade Centre and the Pentagon.
 
  Ro.Go.Pa.G. (Italy, France, 1963): 4 episodes by 4 different directors, no common theme: R. Rossellini (Illibatezza), J.L. Godard (Il mondo nuovo), P. Pasolini (La ricotta), U. Gregoretti (Il pollo ruspante).
 
@@ -28,7 +28,7 @@ With these there was no original intention for the components to be independent[
 The different component titles may be added as alternative titles to the Work record to assist in retrieval or access, and/or details of individual component titles and content given in the synopsis field on the Work.
 For example:
 
- Aria (USA, UK, 1987)
+ Aria (United States of America, UK, 1987)
 
  Ten directors interpret various operatic arias:
 

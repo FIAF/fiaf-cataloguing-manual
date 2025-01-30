@@ -68,7 +68,7 @@ factor crucial es acoplar el título con el identificador descriptivo que denota
 176 Muchos archivos colocan entre comillas la información que se localiza en la Manifestación/Ítem para indicar que los datos se han transcrito del Ítem físico mismo
 o del contenido audiovisual de la entidad. Esta práctica no se recomienda, a menos que sea requerido por reglas locales de catalogación o sea requerido por los sistemas
 locales.
-177 Este ejemplo fue identificado como la película Grandpa’s Girl (USA, 1924 – Gil Pratt)
+177 Este ejemplo fue identificado como la película Grandpa’s Girl (United States of America, 1924 – Gil Pratt)
 
 o “construido”, ya sea dentro del título mismo o vía un campo yuxtapuesto tal como el “Tipo de
 Título”. Si no existiera un campo de “Tipo de Título” que un campo de Notas, u otro campo que

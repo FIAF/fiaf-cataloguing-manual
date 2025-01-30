@@ -62,7 +62,7 @@ Il cinema ritrovato 2006. 20. edizione: sabato 1 luglio-sabato 8 luglio / Cinete
 restauración; para ofrecer diferentes finales o tomas alternativas
 
 Blackmail (Reino Unido, 1929, Alfred Hitchcock)
-Variante más larga: UK – 1929 (con algunas escenas filmadas a propósito)
+Variante más larga: United Kingdom– 1929 (con algunas escenas filmadas a propósito)
 
 Little Shop of Horrors (EUA, 1986, Frank Oz)
 Variante con final alternativo: con edición de 23 minutos, incluido en 2012

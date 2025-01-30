@@ -42,10 +42,10 @@ tienen nombres similares
 
 Ejemplos:
 
-sex, lies and videotape (USA, 1989)
+sex, lies and videotape (United States of America, 1989)
 Título presentado en pantalla con letras minúsculas.
 
-Herr der Ringe Die Zwei Türme (Germany, New Zealand, USA, 2002, Peter Jackson)
+Herr der Ringe Die Zwei Türme (Germany, New Zealand, United States of America, 2002, Peter Jackson)
 Part II of trilogy. Se confirmó que la obtención financiera mayoritaria fue alemana, por
 lo que el título en alemán se asignó como el título Preferido y The Lord of the Rings
 The Fellowship of the Ring como el título Alternativo.

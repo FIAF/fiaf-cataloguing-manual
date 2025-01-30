@@ -9,7 +9,7 @@ Record number: 12345
 
 Supernatural. Season 6
 
-USA, 2011
+United States of America, 2011
 
 Kripke Enterprises Scrap Metal & Entertainment, Wonderland Sound and Vision
 
@@ -125,7 +125,7 @@ Record number: 6789
 
 Season 6. Episode 21
 
-USA, 2011. Erstausstrahlung: 2011-05-20, Freitag, 21:00 – 22:00, USA, The CW.
+United States of America, 2011. Erstausstrahlung: 2011-05-20, Freitag, 21:00 – 22:00, United States of America, The CW.
 
 Fiktion, Horror, Fantasy
 

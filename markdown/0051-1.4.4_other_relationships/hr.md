@@ -14,7 +14,7 @@ drama itd.)
 
 Primjer:
 
-The grapes of wrath (USA, 1940, John Ford), based on the homonymous novel by John
+The grapes of wrath (United States of America, 1940, John Ford), based on the homonymous novel by John
 Steinbeck (1939).
 
 •
@@ -49,7 +49,7 @@ Primjer:
 The Godfather Part I
 The Godfather Part II
 The Godfather Part III
-Francis Ford Coppola (USA, 1972- 1974 -1990)
+Francis Ford Coppola (United States of America, 1972- 1974 -1990)
 
 •
 
@@ -68,7 +68,7 @@ of Metropolis (Fritz Lang, 1927).
 
 Primjer:
 
-Wuthering Heights (Film Trailer) (USA, 1939) is the trailer for Wuthering Heights (USA,
+Wuthering Heights (Film Trailer) (United States of America, 1939) is the trailer for Wuthering Heights (United States of America,
 1939, William Wyler)
 
 •

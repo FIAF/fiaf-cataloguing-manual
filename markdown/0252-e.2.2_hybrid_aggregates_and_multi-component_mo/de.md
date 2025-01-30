@@ -43,7 +43,7 @@ Chacun son cinéma ou ce petit coup au cœur quand la lumière s'éteint et que 
 (Frankreich, 2007): Zusammenstellung von 33 dreiminütigen Filmen verschiedener Regisseur*innen
 anlässlich des 60-jährigen Bestehens der Filmfestspiele von Cannes.
 
-1'09"01 September 11 (Frankreich, Ägypten, Großbritannien, Mexiko, USA, 2002): 11 Kurzfilme, in
+1'09"01 September 11 (Frankreich, Ägypten, Großbritannien, Mexiko, United States of America, 2002): 11 Kurzfilme, in
 denen verschiedene Regisseur*innen ihre Eindrücke von den Themen und Ereignissen des 11.
 September 2001 und den Anschlägen auf das World Trade Center und das Pentagon wiedergeben.
 
@@ -66,7 +66,7 @@ dem Werkeintrag als alternative Titel hinzugefügt werden, um das Auffinden oder
 erleichtern, und/oder es können Einzelheiten zu den einzelnen Komponententiteln und dem Inhalt
 im Feld "Synopsis" des Werks angegeben werden. Zum Beispiel:
 
-Aria (USA, UK, 1987)
+Aria (United States of America, UK, 1987)
 Zehn Regisseur*innen interpretieren verschiedene Opernarien: Die On-Screen Titel [und Quellen]
 für die Segmente (die im Original/auf der Leinwand nicht nummeriert sind) sind:
 [1] Un ballo in maschera. Nicolas Roeg/Un ballo in maschera [Auszüge aus "Un ballo in maschera"

@@ -87,7 +87,7 @@ Tod des/der letzten Urheber*in (oder der "verbundenen Personen" im Vereinigten K
 Vereinigten Königreich beispielsweise erlischt das Urheberrecht des Werks 70 Jahre nach dem letzten
 Todesdatum dieser "verbundenen Personen": Regie, Drehbuch, Dialoge, Musikkomposition.
 
-In den USA, wo ein Werk häufig ein Werk in Unternehmenseigentum ist, läuft die aktuelle urheberrechtliche
+In den United States of America, wo ein Werk häufig ein Werk in Unternehmenseigentum ist, läuft die aktuelle urheberrechtliche
 Schutzfrist für ein veröffentlichtes Werk 95 Jahre nach der ersten Veröffentlichung oder 120 Jahre nach der
 Schöpfung ab, je nachdem, was zuerst eintritt.251 Zwischen 1923 und 2002 gab es jedoch Zeiträume, in
 denen andere Formalitäten eingehalten werden mussten, um das Urheberrecht aufrechtzuerhalten: In

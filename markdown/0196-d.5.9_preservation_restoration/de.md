@@ -8,7 +8,7 @@ Einige Institutionen verwenden diesen Begriff, um sich auf von der Institution d
     The great white silence (2010) (Großbritannien, Herbert Pointing, 1924) (DVD - Dual Format Edition - BFI)
 
     Metropolis (Deutschland, Fritz Lang, 1927)
-    The Complete Metropolis - Blu Ray - (2010 Restaurierung - Kino International, USA, 2010)[^220]
+    The Complete Metropolis - Blu Ray - (2010 Restaurierung - Kino International, United States of America, 2010)[^220]
 
     Nosferatu. Eine Symphonie des Grauens (Deutschland, 1922, Friedrich Wilhelm Murnau) Blu-Ray der Konservierungs-/Restaurierungsvariante: 2005-2006 Restaurierung - Murnau Stiftung/Transit Classics - Deluxe Edition - 2014 - EAN 888430505797[^221]
 

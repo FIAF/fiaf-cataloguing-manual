@@ -13,7 +13,7 @@ werden, um die Quelle des Identifikators zu bestimmen.
 
 Beispiele:
 
-The Boxer (USA, Irland, 1997, Jim Sheridan)
+The Boxer (United States of America, Irland, 1997, Jim Sheridan)
 
 Werk Identifikator: 10.5240/5896-B203-017D-11A5-EB7F-W
 Identifikatortyp: EIDR

@@ -10,7 +10,7 @@ Las relaciones de ocurrencia común incluyen:82
 
 imágenes en movimiento adaptadas de novelas, obras de teatro, etc.)
 
-The grapes of wrath (USA, 1940, John Ford), basada en la novela homónima de
+The grapes of wrath (United States of America, 1940, John Ford), basada en la novela homónima de
 John Steinbeck (1939).
 
 • Obras(s) en las que las imágenes en movimiento son una representación escénica de
@@ -45,7 +45,7 @@ con, por ejemplo, secuelas, precuelas, seriales).
 The Godfather Part I
 The Godfather  Part II
 The Godfather  Part III
-Francis Ford Coppola (USA, 1972- 1974-1990)
+Francis Ford Coppola (United States of America, 1972- 1974-1990)
 
 • Obra(s) acerca de la Obra de imágenes en movimiento (por ejemplo, los documentales
 
@@ -61,7 +61,7 @@ restauración de Metropolis (Fritz Lang, 1927).
 
 ejemplo, Trailers)
 
-Wuthering Heights (Trailer) (USA, 1939) es el trailer de Wuthering Heights (EUA,
+Wuthering Heights (Trailer) (United States of America, 1939) es el trailer de Wuthering Heights (EUA,
 1939, William Wyler)
 
 • Obras sin imágenes en movimiento con las que tiene una relación la Obra de

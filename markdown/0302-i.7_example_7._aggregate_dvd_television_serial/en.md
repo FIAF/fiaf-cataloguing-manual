@@ -2,7 +2,7 @@
 
 Supernatural. The Complete Sixth Season
 Supernatural. Season 6
-USA, 2011
+United States of America, 2011
 
 Record number: 12345
 
@@ -65,7 +65,7 @@ Supernatural. Let it Bleed
 Record number: 6789
 Let it Bleed
 Season 6. Episode 21
-USA, 2011. First Broadcast: 2011-05-20, Friday, 21:00 – 22:00, USA, The CW.
+United States of America, 2011. First Broadcast: 2011-05-20, Friday, 21:00 – 22:00, United States of America, The CW.
 
 Fiction, Horror, Fantasy
 Angels, Demons, Kidnapping, Possession, Betrayal, Relationships, Trust, Purgatory

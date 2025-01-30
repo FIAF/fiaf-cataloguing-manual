@@ -15,7 +15,7 @@ Beispiele:
 Caccia tragica (Italien, Giuseppe De Santis, 1947)
 Nicht zur Veröffentlichung - 35mm - Italienisch (gesprochen), Rumänisch (Zwischentitel)
 
-New Yorker Geschichten, (USA, Woody Allen, Francis Ford Coppola, Martin Scorsese, 1989
+New Yorker Geschichten, (United States of America, Woody Allen, Francis Ford Coppola, Martin Scorsese, 1989
 Homevideo-Veröffentlichung - DVD, Englisch (gesprochen); - Italienisch, Deutsch; Englisch, Deutsch,
 Französisch, Spanisch (Untertitel) - Buena Vista (Verlag), 2002/05/16
 
