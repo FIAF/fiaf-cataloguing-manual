@@ -9,6 +9,8 @@ See Appendix I, Examples of records containing core elements in the different le
 
 \newpage
 ```pikchr
+
+
 $line_width = 3.5
 $line_height = 0.2
 
@@ -62,49 +64,49 @@ box ht $line_height wid $line_width rad 5px \
 "- Agents: Cast, Credits, Rights holders " \ 
 ljust color none fill lightgreen at ($text_x, $work_y-0.8)
 
-box ht 3.5 wid 3.5 rad 5px "WORK" "abstract entity" fill lightgreen at (0, $work_y)
+box ht 3.75 wid 3.5 rad 5px "WORK" "abstract entity" fill lightgreen at (0, $work_y)
 
 # VARIANT
 
-box ht 3.5 wid 8 rad 5px "" ljust color none fill lightgreen at ($text_x-1, $variant_y)
+box ht 3.5 wid 6 rad 5px "" ljust color none fill lightgreen at ($text_x, $variant_y)
 
 box ht $line_height wid $line_width rad 5px \
 "- Type - Whole conditions (serial / standalone / component part)" \ 
-ljust color none fill lightgreen at ($text_x, $variant_y+0.8)
+ljust color none fill lightgreen at ($text_x+1, $variant_y+0.8)
 
 box ht $line_height wid $line_width rad 5px \
 "- Identifier (international, in-house unique identifier number)" \ 
-ljust color none fill lightgreen at ($text_x, $variant_y+0.6)
+ljust color none fill lightgreen at ($text_x+1, $variant_y+0.6)
 
 box ht $line_height wid $line_width rad 5px \
 "- Titles (original, alternative, series/serial)" \ 
-ljust color none fill lightgreen at ($text_x, $variant_y+0.4)
+ljust color none fill lightgreen at ($text_x+1, $variant_y+0.4)
 
 box ht $line_height wid $line_width rad 5px \
 "- Country (production country/countries)" \ 
-ljust color none fill lightgreen at ($text_x, $variant_y+0.2)
+ljust color none fill lightgreen at ($text_x+1, $variant_y+0.2)
 
 box ht $line_height wid $line_width rad 5px \
 "- Dates (copyright / production)" \ 
-ljust color none fill lightgreen at ($text_x, $variant_y)
+ljust color none fill lightgreen at ($text_x+1, $variant_y)
 
 box ht $line_height wid $line_width rad 5px \
 "- Language(s)" \ 
-ljust color none fill lightgreen at ($text_x, $variant_y-0.2)
+ljust color none fill lightgreen at ($text_x+1, $variant_y-0.2)
 
 box ht $line_height wid $line_width rad 5px \
 "- Notes/History" \ 
-ljust color none fill lightgreen at ($text_x, $variant_y-0.4)
+ljust color none fill lightgreen at ($text_x+1, $variant_y-0.4)
 
 box ht $line_height wid $line_width rad 5px \
 "- Content: Synopsis, Genre, Form, Subject" \ 
-ljust color none fill lightgreen at ($text_x, $variant_y-0.6)
+ljust color none fill lightgreen at ($text_x+1, $variant_y-0.6)
 
 box ht $line_height wid $line_width rad 5px \
 "- Agents: Cast, Credits, Rights holders " \ 
-ljust color none fill lightgreen at ($text_x, $variant_y-0.8)
+ljust color none fill lightgreen at ($text_x+1, $variant_y-0.8)
 
-box ht 3.5 wid 3.5 rad 5px "VARIANT" "abstract entity" "optional" fill lightgreen at (0, $variant_y)
+box ht 3.75 wid 3.5 rad 5px "VARIANT" "abstract entity" "optional" fill lightgreen at (0+1, $variant_y)
 
 # MANIFESTATION
 
@@ -149,7 +151,7 @@ box ht $line_height wid $line_width rad 5px \
 "- Agents: Creator, Broadcaster, Distributor, Publisher" \ 
 ljust color none fill lightgreen at ($text_x, $manifestation_y-0.9)
 
-box ht 3.5 wid 3.5 rad 5px "MANIFESTATION" "realisation, release, exhibition" "or distribution entity " fill lightgreen at (0, $manifestation_y)
+box ht 3.75 wid 3.5 rad 5px "MANIFESTATION" "realisation, release, exhibition" "or distribution entity " fill lightgreen at (0, $manifestation_y)
 
 # ITEM
 
@@ -219,7 +221,28 @@ box ht $line_height wid $line_width rad 5px \
 "- Holding institution: name of the Item holde" \ 
 ljust color none fill lightgreen at ($text_x, $item_y-1.5)
 
-box ht 3.5 wid 3.5 rad 5px "ITEM" "physical or digital" "object" fill lightgreen at (0, $item_y)
+box ht 3.75 wid 3.5 rad 5px "ITEM" "physical or digital" "object" fill lightgreen at (0, $item_y)
+
+# ARROWS
+
+A1a: box ht 0.5 wid 0.5 rad 5px "" invis at (0-1, $work_y-1)
+A1b: box ht 0.5 wid 0.5 rad 5px "" invis at (0-1, $work_y-7)
+arrow from A1a to A1b thick thick color red
+
+A2a: box ht 0.5 wid 0.5 rad 5px "" invis at (0-1, $manifestation_y-1)
+A2b: box ht 0.5 wid 0.5 rad 5px "" invis at (0-1, $manifestation_y-3)
+arrow from A2a to A2b thick thick color red
+
+A3a: box ht 0.5 wid 0.5 rad 5px "" invis at (0+1, $work_y-1)
+A3b: box ht 0.5 wid 0.5 rad 5px "" invis at (0+1, $work_y-3)
+arrow from A3a to A3b dotted thick thick color blue
+
+A4a: box ht 0.5 wid 0.5 rad 5px "" invis at (0+1, $variant_y-1)
+A4b: box ht 0.5 wid 0.5 rad 5px "" invis at (0+1, $variant_y-3)
+arrow from A4a to A4b dotted thick thick color blue
+
+
+
 ```
 
 \newpage
