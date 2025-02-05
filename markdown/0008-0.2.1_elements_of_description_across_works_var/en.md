@@ -419,50 +419,43 @@ box ht 0.5 wid 8.5 rad 5px "Shallow hierarchy model: 2 levels" bold fill lightpi
 
 box ht 3.5 wid 8 rad 5px "" ljust color none fill lightpink at ($text_x-1, $work_y)
 
-B2: box ht $line_height wid $line_width rad 5px \
+box ht $line_height wid $line_width rad 5px \
 "- Type - Whole conditions (serial / standalone / component part)" \ 
 ljust color none fill lightpink at ($text_x, $work_y+0.6)
 
-B2: box ht $line_height wid $line_width rad 5px \
+box ht $line_height wid $line_width rad 5px \
 "- Titles (original, alternative, series/serial)" \ 
 ljust color none fill lightpink at ($text_x, $work_y+0.4)
 
-
-B2: box ht $line_height wid $line_width rad 5px \
+box ht $line_height wid $line_width rad 5px \
 "- Dates (copyright / production)" \ 
 ljust color none fill lightpink at ($text_x, $work_y+0.2)
 
-
-B2: box ht $line_height wid $line_width rad 5px \
+box ht $line_height wid $line_width rad 5px \
 "- Language(s): original language of conception/presentation" \ 
 ljust color none fill lightpink at ($text_x, $work_y)
 
-
-B2: box ht $line_height wid $line_width rad 5px \
+box ht $line_height wid $line_width rad 5px \
 "- Content: Synopsis, Genre, Form, Subject" \ 
 ljust color none fill lightpink at ($text_x, $work_y-0.2)
 
-
-B2: box ht $line_height wid $line_width rad 5px \
+box ht $line_height wid $line_width rad 5px \
 "- Agents: Cast, Credits, Rights holders " \ 
 ljust color none fill lightpink at ($text_x, $work_y-0.4)
 
-
-B2: box ht $line_height wid $line_width rad 5px \
+box ht $line_height wid $line_width rad 5px \
 "- Identifier (international, in-house unique identifier number)" \ 
 ljust color none fill lightpink at ($text_x, $work_y-0.6)
 
-box ht 3.5 wid 3.5 rad 5px "WORK-like" "abstract entity," "with some context" fill lightpink at (0, $work_y)
+box ht 3.75 wid 3.5 rad 5px "WORK-like" "abstract entity," "with some context" fill lightpink at (0, $work_y)
 
-# MANIFESTATION
+# CROSSOVER
 
 box ht 3.5 wid 8 rad 5px "" ljust color none fill lightpink at ($text_x-1, $manifestation_y)
-
 
 box ht $line_height wid $line_width rad 5px \
 "- Identifier (international, in-house unique identifier number)" \ 
 ljust color none fill lightpink at ($text_x, $manifestation_y+0.9)
-
 
 box ht $line_height wid $line_width rad 5px \
 "- Titles" \ 
@@ -499,7 +492,7 @@ box ht $line_height wid $line_width rad 5px \
 "- Agents: Creator, Broadcaster, Distributor, Publisher" \ 
 ljust color none fill lightpink at ($text_x, $manifestation_y-0.9)
 
-box ht 3.5 wid 3.5 rad 5px "Crossover data" "held in either level" "or both levels" fill lightpink at (0, $manifestation_y)
+box ht 3.75 wid 3.5 rad 5px "Crossover data" "held in either level" "or both levels" fill lightpink at (0, $manifestation_y)
 
 # ITEM
 
@@ -573,7 +566,27 @@ box ht $line_height wid $line_width rad 5px \
 "- Holding institution: name of the Item holde" \ 
 ljust color none fill lightpink at ($text_x, $item_y-1.6)
 
-box ht 3.5 wid 3.5 rad 5px "ITEM-like" "physical or digital" "object, with some" "context" fill lightpink at (0, $item_y)
+box ht 3.75 wid 3.5 rad 5px "ITEM-like" "physical or digital" "object, with some" "context" fill lightpink at (0, $item_y)
+
+# ARROWS
+
+A1a: box ht 0.5 wid 0.5 rad 5px "" invis at (0-1, $work_y-1)
+A1b: box ht 0.5 wid 0.5 rad 5px "" invis at (0-1, $work_y-3)
+arrow from A1a to A1b thick thick color red
+
+A2a: box ht 0.5 wid 0.5 rad 5px "" invis at (0-1, $manifestation_y-1)
+A2b: box ht 0.5 wid 0.5 rad 5px "" invis at (0-1, $manifestation_y-3)
+arrow from A2a to A2b thick thick color red
+
+A3a: box ht 0.5 wid 0.5 rad 5px "" invis at (0+1, $work_y-1)
+A3b: box ht 0.5 wid 0.5 rad 5px "" invis at (0+1, $work_y-3)
+arrow from A3b to A3a dotted thick thick color blue
+
+A4a: box ht 0.5 wid 0.5 rad 5px "" invis at (0+1, $manifestation_y-1)
+A4b: box ht 0.5 wid 0.5 rad 5px "" invis at (0+1, $manifestation_y-3)
+arrow from A4b to A4a dotted thick thick color blue
+
+
 
 
 ```
