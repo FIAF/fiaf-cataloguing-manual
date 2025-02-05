@@ -583,6 +583,7 @@ box ht 3.5 wid 3.5 rad 5px "ITEM-like" "physical or digital" "object, with some"
 \newpage
 ```pikchr
 
+
 $line_width = 3.5
 $line_height = 0.2
 
@@ -601,27 +602,27 @@ box ht $line_height wid $line_width rad 5px \
 "- Identifier (international, in-house unique identifier number)" \ 
 ljust color none fill 0xcbc3e3 at ($text_x, $item_y+2.3)
 
-B2: box ht $line_height wid $line_width rad 5px \
+box ht $line_height wid $line_width rad 5px \
 "- Type - Whole conditions (serial / standalone / component part)" \ 
 ljust color none fill 0xcbc3e3 at ($text_x, $item_y+2.1)
 
-B2: box ht $line_height wid $line_width rad 5px \
+box ht $line_height wid $line_width rad 5px \
 "- Titles (original, alternative, series/serial)" \ 
 ljust color none fill 0xcbc3e3 at ($text_x, $item_y+1.9)
 
-B2: box ht $line_height wid $line_width rad 5px \
+box ht $line_height wid $line_width rad 5px \
 "- Dates: copyright, production, release, object creation, object acquisition" \ 
 ljust color none fill 0xcbc3e3 at ($text_x, $item_y+1.7)
 
-B2: box ht $line_height wid $line_width rad 5px \
+box ht $line_height wid $line_width rad 5px \
 " accession, de-accession, loan, transport" \ 
 ljust color none fill 0xcbc3e3 at ($text_x, $item_y+1.5)
 
-B2: box ht $line_height wid $line_width rad 5px \
+box ht $line_height wid $line_width rad 5px \
 "- Content: Synopsis, Genre, Form, Subject" \ 
 ljust color none fill 0xcbc3e3 at ($text_x, $item_y+1.3)
 
-B2: box ht $line_height wid $line_width rad 5px \
+box ht $line_height wid $line_width rad 5px \
 "- Agents: Cast, Credits, Rights holders " \ 
 ljust color none fill 0xcbc3e3 at ($text_x, $item_y+1.1)
 
@@ -632,7 +633,7 @@ box ht $line_height wid $line_width rad 5px  \
 "  transmission, home-viewing, internet, restoration, not-for-release, etc" \ 
 ljust color none fill 0xcbc3e3 at ($text_x, $item_y+0.7)
 
-B2: box ht $line_height wid $line_width rad 5px \
+box ht $line_height wid $line_width rad 5px \
 "- Language(s): original language of conception/presentation" \ 
 ljust color none fill 0xcbc3e3 at ($text_x, $item_y+0.5)
 
@@ -693,12 +694,14 @@ box ht $line_height wid $line_width rad 5px \
 ljust color none fill 0xcbc3e3 at ($text_x, $item_y-2.3)
 
 
-box ht 5 wid 3.5 rad 5px \
+box ht 5.5 wid 3.5 rad 5px \
 "WORK / MANIFESTATION / ITEM" \
 "properties expressed in one record," \
 "with abstract, contextual and object data" \
 "stored on a single hierarchy level" \
 fill 0xcbc3e3 at (0, $item_y)
+
+
 ```
 
 \newpage
