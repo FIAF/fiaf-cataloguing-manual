@@ -11,7 +11,7 @@ Such associative relationships are more prevalent and varied at the Work level, 
 Or, hold separate sound and image Items that would both be needed to make a new print.
 Similarly, in the case of restorations where separate Items or elements have been used to create a new restored Item.
 
-  The Wizard of Oz (USA, 1939, Victor Fleming)
+  The Wizard of Oz (United States of America, 1939, Victor Fleming)
 
   Yellow Separation Negative
   Cyan Separation Negative
@@ -28,8 +28,8 @@ Similarly, in the case of restorations where separate Items or elements have bee
 
   Compilation of 16 short Fregoli films, spliced together for projection convenience.
 
-  Laughing gas (USA, 1914, Charlie Chaplin)
-  Those love pangs (USA, 1914, Charlie Chaplin)
+  Laughing gas (United States of America, 1914, Charlie Chaplin)
+  Those love pangs (United States of America, 1914, Charlie Chaplin)
   (two Charlie Chaplin short comedies spliced together on one reel - for storage convenience).
 
 - Item that is the source of a moving image Item (e.g. In-house copying of an Item to create a new Item for preservation or access)

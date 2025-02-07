@@ -10,8 +10,11 @@ Some collection aggregates do not have their own new title, e.g., in 2008, Odeon
 The treatment of the aggregate title may differ from institution to institution, especially in cases where multiple Works are contained in the collection aggregate and recording all titles in a single title field would be unwieldy.
 There is the option of an institution using a devised/supplied title (see [A.2.5 Supplied/Devised Titles](#manual-A.2.5)).
 
-  Examples
+```{=latex}
+\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Example]
+Bond of fear ; Blackout \\
+Bond of fear; [other segment] \\
+Odeon Entertainment double feature: Bond of fear and Blackout [DVD double feature]
+\end{tcolorbox}
+```
 
-  Bond of fear ; Blackout
-  Bond of fear; [other segment]
-  [Odeon Entertainment double feature: Bond of fear and Blackout [DVD double feature]]

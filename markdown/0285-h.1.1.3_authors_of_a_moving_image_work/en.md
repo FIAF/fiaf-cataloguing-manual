@@ -12,7 +12,7 @@ For this reason, the recommendation below is to capture both Production Company 
 
 Principal Director: as credited onscreen.
 
-France: distinct from the UK model, in France it is those natural persons (not legal persons) who make a creative contribution to the film that are considered authors, so production company / producer are not authors.
+France: distinct from the United Kingdommodel, in France it is those natural persons (not legal persons) who make a creative contribution to the film that are considered authors, so production company / producer are not authors.
 
 Director
 
@@ -38,7 +38,7 @@ These first owners of the intellectual property rights (or their heirs, in the e
 
 Again, the definitions of what makes a work ‘out of copyright’ differ across territories and periods, so it is impractical to offer a universally compliant cataloguing approach.
 However, in many contexts, the lapse occurs at a stated period after the death of the last of the Authors (or the ‘connected persons’ in the UK).
-For example, in the UK framework, the work is out of copyright at 70 years following the last death of these ‘connected persons’: Director, Screenplay author, Dialogue author, Music composer.
+For example, in the United Kingdomframework, the work is out of copyright at 70 years following the last death of these ‘connected persons’: Director, Screenplay author, Dialogue author, Music composer.
 
 In the US, where a moving image Work is often a Work of corporate ownership, the current copyright term for a published Work expires 95 years after initial publication or 120 years after creation, whichever expires first.
 However, between 1923-2002 there were periods where other formalities needed to be followed in order to retain copyright: during some periods, a Item required “notice” (a copyright symbol or statement) on the work; in other periods, the Work had to be renewed in the 28th year after initial publication.[^246]

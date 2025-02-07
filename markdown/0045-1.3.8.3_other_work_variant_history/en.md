@@ -10,7 +10,7 @@ For example:
 
 - any demise of members of the cast or crew associated with the production
 
-    Foolish Wives (USA, 1922, Erich von Stroheim)Actor Rudolph Christians died in mid-shooting; replaced by Robert Edenson who is used mainly as a double.
+    Foolish Wives (United States of America, 1922, Erich von Stroheim)Actor Rudolph Christians died in mid-shooting; replaced by Robert Edenson who is used mainly as a double.
 
 - explanations regarding length of time between production and release, e.g., due to funding issues, an initial banning, delayed release due to sensitivity over subject matter and world events, etc.
 

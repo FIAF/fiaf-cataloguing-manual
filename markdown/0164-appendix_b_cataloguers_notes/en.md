@@ -26,10 +26,10 @@ In general, make the following notes, if they are considered to be important:[^1
 
 Examples:
 
-  sex, lies and videotape (USA, 1989)
+  sex, lies and videotape (United States of America, 1989)
   Title represented onscreen in lower-case.
 
-  Herr der Ringe Die Zwei Türme (Germany, New Zealand, USA, 2002, Peter Jackson)Part II of trilogy. Majority German financing nationality confirmed, thus German title assigned as Preferred title and The Lord of the Rings The Fellowship of the Ring as Alternative.
+  Herr der Ringe Die Zwei Türme (Germany, New Zealand, United States of America, 2002, Peter Jackson)Part II of trilogy. Majority German financing nationality confirmed, thus German title assigned as Preferred title and The Lord of the Rings The Fellowship of the Ring as Alternative.
   
   Le cœur de la France (France, 1967, Roger Leenhardt)
   The word “cœur  ” does not actually appear in the title, but is represented by a heart-shaped symbol.

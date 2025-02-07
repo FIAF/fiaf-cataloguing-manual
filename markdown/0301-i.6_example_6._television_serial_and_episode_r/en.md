@@ -14,7 +14,7 @@
 | Date end | 1987-05-12 |
 | Date type | Television broadcast |
 | Genre | Police drama |
-| Work History | Drama series following the activities of an American city police precinct and its personnel. USA. MTM Enterprises for NBC Television. USA, NBC, transmitted 15/01/1981-12/05/1987 [7 seasons; 146 x hour] UK, Channel 4, transmitted 22/01/1981- |
+| Work History | Drama series following the activities of an American city police precinct and its personnel. USA. MTM Enterprises for NBC Television. United States of America, NBC, transmitted 15/01/1981-12/05/1987 [7 seasons; 146 x hour] UK, Channel 4, transmitted 22/01/1981- |
 | Parts reference | Parts title |
 | 193074 | Politics As Usual |
 | 193075 | Can World War III Be an Attitude? |
@@ -85,7 +85,7 @@
 | Date | 1981-01-24 |
 | Broadcast channel | NBC TV |
 | Coverage | Network |
-| Country | USA |
+| Country | United States of America |
 | Colour | Colour |
 | Sound | Sound |
 | Language | Usage |

@@ -3,7 +3,7 @@
 An aggregate is a Manifestation, but “the process of aggregating the Works/Variants itself is an intellectual or artistic effort and therefore meets the criteria for a Work.
 In the process of creating an aggregate Manifestation, an aggregating Work is produced.
 This effort may be relatively minor or represent a major effort resulting in an aggregate that is significantly more than a sum of its parts...
-The aggregating Work may or may not be deemed important enough to be recorded.[^226]”
+The aggregating Work may or may not be deemed important enough to be recorded.[^E.5_1]”
 
 An institution may therefore be able to choose whether to create a new aggregating Work or not, although this flexibility may be restricted by other factors.
 
@@ -13,7 +13,7 @@ Under FRBR and CEN an aggregate Manifestation is allowed to have a many-to-many 
 
 However, many database systems are structured in a way that does not allow this and will only permit links or relationships between Manifestation records and a single Work/Variant record at all times, i.e., a one-to-many Work/Variant-Manifestation relationship.
 
-There are also potential implications for those organisations using international identifiers or registration numbers, e.g., ISAN gives a number to what they define “compilation”: “a compilation work is a collection of two or more separate works (each identified with its own ISAN) in a single distribution package”[^227].
+There are also potential implications for those organisations using international identifiers or registration numbers, e.g., ISAN gives a number to what they define “compilation”: “a compilation work is a collection of two or more separate works (each identified with its own ISAN) in a single distribution package”[^E.5_2].
 
 This may have a bearing and impact on decisions relating to whether to produce an aggregating Work or not.
 
@@ -26,10 +26,9 @@ It is recognised that the ability to do this may be dependent on sufficient info
 Where this is insufficient the titles of the individual Works/Variants making up the aggregate may be added as alternative title types to the aggregating Work.
 This will assist in accessibility and identification.
 
-For how aggregate records may be structured in a 1-level hierarchy system see I.7 Example 7.
-Aggregate DVD Television Serial and Episode records in 1-level Hierarchy Models.
+For how aggregate records may be structured in a 1-level hierarchy system see [I.7 Example 7. Aggregate DVD Television Serial and Episode records in 1-level Hierarchy Models](#manual-I.7).
 Whilst this relates to a television example the same principles can be applied in the case of film collection and augmented collection aggregates.
 
-[^226]: Working Group on Aggregates. Final Report of the Working Group on Aggregates, September 12, 2011, http://www.ifla.org/files/assets/cataloguing/frbrrg/AggregatesFinalReport.pdf
-[^227]: Definition of “Compilation” in http://www.isan.org/resources/glossary.html#index_A (ISAN Glossary of Terms)
+[^E.5_1]: Working Group on Aggregates. Final Report of the Working Group on Aggregates, September 12, 2011, [http://www.ifla.org/files/assets/cataloguing/frbrrg/AggregatesFinalReport.pdf](http://www.ifla.org/files/assets/cataloguing/frbrrg/AggregatesFinalReport.pdf)
+[^E.5_2]: Definition of “Compilation” in [http://www.isan.org/resources/glossary.html#index_A](http://www.isan.org/resources/glossary.html#index_A) (ISAN Glossary of Terms)
 

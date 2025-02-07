@@ -16,7 +16,7 @@ See [A.2.6 Titles of series/serials](#manual-A.2.6) for other options
 
     Examples:
     
-    Gone with the wind (USA, 1939, Victor Fleming)
+    Gone with the wind (United States of America, 1939, Victor Fleming)
     Gone with the wind – Preferred Title of the Work
     Via col vento – Variant title – Dubbed (Italian)
     Gejaagd door de win – Variant title – Dubbed (Dutch)

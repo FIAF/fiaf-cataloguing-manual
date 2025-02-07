@@ -1,0 +1,23 @@
+ 
+D.5.7 Emitiranje
+
+Vrsta prikaza pokretnih slika za televizijski prijenos. Obuhvaća profesionalne video i digitalne for-
+
+mate, tj. digibeta, HDCam itd.
+
+Primjeri:
+
+The Queen (United Kingdom, 2006, Stephen Frears)
+Manifestation 2: TV Broadcast (UK 2007-09-02)
+
+It happened one night (United States of America, 1934, Frank Capra)
+Manifestation 1: Theatrical distribution (United States of America, 1934): 35 mm – black and white – 105 minutes
+– Columbia Pictures Corp. (producer, distributor) ̶
+Manifestation 2: Broadcast (broadcast on Turner Classic Movies – 2013-11-01, 08:00) black
+and white – mono – 105 minutes.
+
+Lazarus rising, (in the series Supernatural), Season 4 Episode 1 (United States of America, 2008, Kim Manners)
+Manifestation 1: TV Broadcast (United States of America, 2008-09-18, 21:00 – 21:55, The CW) colour – stereo – 55
+minutes (slot); 40 minutes (actual running time)
+Manifestation 2: TV Broadcast (UK, 2009-01-25, 21:00 – 22:00, ITV2) colour – stereo – 60 min-
+utes (slot); 40 minutes (actual running time)

@@ -1,18 +1,13 @@
 # D.4.2 Award(s) or Nomination(s)[^205] {#manual-D.4.2}
 
 The bestowal of an award relating to the Work/Variant or Manifestation.
-This excludes awards for Agents alone (e.g.
-“for lifetime achievement”), but includes awards for individual achievements within the context of a Work or Variant (e.g.
-“Best screenplay”).
-Awards will usually be associated at the level of the Work, except for cases where features of a particular Variant are explicitly mentioned (e.g.
-“Best audio commentary for the visually impaired”) or the award relates to a particular Manifestation (such as a DVD edition).
+This excludes awards for Agents alone (e.g. “for lifetime achievement”), but includes awards for individual achievements within the context of a Work or Variant (e.g. “Best screenplay”).
+Awards will usually be associated at the level of the Work, except for cases where features of a particular Variant are explicitly mentioned (e.g. “Best audio commentary for the visually impaired”) or the award relates to a particular Manifestation (such as a DVD edition).
 
 An Award(s) or Nomination(s) Event may be associated with instances of Agent in the role of e.g. publisher, distributor, broadcaster[^206], etc. See [D.8 Manifestation Agent Types](#manual-D.8) and [D.3 Work/Variant Agent Types](#manual-D.3).
-If the award was given for the achievement of a specific Agent within the context of the Work/Variant or Manifestation, identify the Agent.
-Also used to identify Agents that have sponsored the award.
+If the award was given for the achievement of a specific Agent within the context of the Work/Variant or Manifestation, identify the Agent. Also used to identify Agents that have sponsored the award.
 
-An Award(s) or Nomination(s) Event may be associated with instances of other Events during which award winners were selected (e.g.
-film festival).
+An Award(s) or Nomination(s) Event may be associated with instances of other Events during which award winners were selected (e.g. film festival).
 
 Record all the existing relationships of a Publication Event, if the information is known and considered of relevance.
 
@@ -25,10 +20,8 @@ Award(s) or Nomination(s) Event information consists of the following sub-elemen
 
 - Award(s)/Nomination(s) date
 
-Record the date the award was bestowed on an Agent associated with the Work,
-Variant or Manifestation.
-(Dates should be formatted according to ISO 8601 or some
-other recognised standard.)
+Record the date the award was bestowed on an Agent associated with the Work, Variant or Manifestation.
+(Dates should be formatted according to ISO 8601 or some other recognised standard.)
 
 - Nomination only
 
@@ -37,8 +30,7 @@ This element can be realised in a system as a “flag.” If there was only a no
 
 - Award name
 
-The name of the award or trophy, possibly including a numeric designation (e.g.
-2nd Prize)
+The name of the award or trophy, possibly including a numeric designation (e.g. 2nd Prize)
 
 - Achievement
 

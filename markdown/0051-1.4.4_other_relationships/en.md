@@ -7,7 +7,7 @@ Commonly-occurring relationships include:[^82]
 
 - Work(s) that the moving image Work is based on (e.g. moving images adapted from novels, plays, etc.)
 
-  The grapes of wrath (USA, 1940, John Ford), based on the homonymous novel by John Steinbeck (1939).
+  The grapes of wrath (United States of America, 1940, John Ford), based on the homonymous novel by John Steinbeck (1939).
 
 - Work(s) that the moving image Work is a performance of (moving image recordings made of live stage presentations of music, plays, dance, etc.
 
@@ -23,7 +23,7 @@ Commonly-occurring relationships include:[^82]
 
   The Godfather Part I
   The Godfather Part II
-  The Godfather Part III Francis Ford Coppola (USA, 1972- 1974-1990)
+  The Godfather Part III Francis Ford Coppola (United States of America, 1972- 1974-1990)
 
 - Work(s) about the moving image Work (e.g. documentary about the making of a feature film or TV programme)
 
@@ -33,7 +33,7 @@ Commonly-occurring relationships include:[^82]
 
 - Work(s) that are promotional material of the moving image Work (e.g. Trailers)
 
-  Wuthering Heights (Film Trailer) (USA, 1939) is the trailer for Wuthering Heights (USA, 1939, William Wyler)
+  Wuthering Heights (Film Trailer) (United States of America, 1939) is the trailer for Wuthering Heights (United States of America, 1939, William Wyler)
 
 - Non-moving image Works that the moving image Work has a relationship with (e.g. Books, articles, scripts, posters, documents, etc)
 

@@ -14,87 +14,101 @@ There could then be a clarifying note on the Manifestation where necessary, i.e.
 
 See example below for The thick of it DVD boxed set:
 
-The Thick of It
-(Work- Serial)
+```pikchr
+B1: box rad 5px "The Thick of It" "(Work - Serial)" fit at (2,4) 
 
-The Thick of It.
-The Complete Series 1-3
-& Specials (DVD Manifes-
-tation) (Collection Aggre-
-gate)
+B2: box rad 5px "The Thick of It" "The Complete Series 1-3 & Specials" "(DVD Manifestation) (Collection Aggregate)" fit at (0,3) 
 
-The Thick of It. The
-Complete Series 1-3 &
-Specials (DVD Item)
+B3: box rad 5px "The Thick of It" "The Complete Series 1-3 & Specials" "(DVD Item)" fit at (0,0) 
 
-The Thick of It. Episode 1
-(Work – Monographic)
+B4: box rad 5px "The Thick of It" "Episode 1" "(Work - Monographic)" fit at (2,2) 
 
-The Thick of It. Episode 1
-(TV transmission)
-Manifestation
+B5: box rad 5px "The Thick of It. Episode 1" "(TV transmission)" "Manifestation" fit at (2,1) 
 
-The Thick of It. Episode 1
-(VHS Cassette Item)
+B6: box rad 5px "The Thick of It. Episode 1" "(VHS Cassette Item)" fit at (2,0) 
 
-The Thick of It. Episode 2
-(Work – Monographic)
+B7: box rad 5px "The Thick of It" "Episode 2" "(Work - Monographic)" fit at (4,2) 
 
-The Thick of It. Episode 2
-(TV transmission
-Manifestation)
+B8: box rad 5px "The Thick of It. Episode 2" "(TV transmission)" "Manifestation" fit at (4,1) 
 
-The Thick of It. Episode 2
-(VHS Cassette Item)
+B9: box rad 5px "The Thick of It. Episode 2" "(VHS Cassette Item)" fit at (4,0) 
+
+arrow <-> left from B1.w then left until even with B2 then down to B2.n
+
+arrow <-> from B2.s to B3.n
+
+arrow <-> from B2.s to B3.n
+
+arrow <-> from B1.s to B4.n
+
+arrow <-> from B4.s to B5.n
+
+arrow <-> from B5.s to B6.n
+
+arrow <-> right from B1.e then right until even with B7 then down to B7.n
+
+arrow <-> from B7.s to B8.n
+
+arrow <-> from B8.s to B9.n
+
+
+```
+
+
 
 Alternatively, a model similar to [E.5.1.2 Model: Collection Aggregate Manifestation within many-to-many Works/Variants-Manifestation](#manual-E.5.1.2) can be used, whereby a single Aggregate Manifestation links to the many individual Works/Variants in “part of” relationship:
 
-ER (Work – Serial)
+```pikchr
+B1: box rad 5px "ER (Work - Serial)" fit at (1,3) 
 
-ER. One Day
-(Season 1, Episode 1)
-(Work – Monographic)
+B2: box rad 5px "ER. One Day" "(Season 1, Episode 1)" "(Work – Monographic)" fit at (0,2) 
 
-ER. Going Home
-(Season 1, Episode 2)
-(Work – Monographic)
+B3: box rad 5px "ER. Going Home" "(Season 1, Episode 2)" "(Work – Monographic)" fit at (2,2) 
 
-Etc.
+B4: box rad 5px "etc." invis fit at (4,2) 
 
-ER. The Complete First and Second Season
-(DVD Manifestation (Collection Aggregate)
+B5: box rad 5px "ER. The Complete First and Second Season" "(Season 1, Episode 2)" "(DVD Manifestation (Collection Aggregate)" fit at (1,1) 
 
-ER. The Complete First and Second Season
-(DVD Item)
+B6: box rad 5px "ER. The Complete First and Second Season" "(Season 1, Episode 2)" "(DVD Item)" fit at (1,0) 
+
+arrow left 0.2 from B1.w then left until even with B2 then down to B2.n
+
+arrow down 0.2 from B2.s then right until even with B5 then down to B5.n
+
+arrow right 0.2 from B1.e then right until even with B3 then down to B3.n
+
+arrow down 0.2 from B3.s then right until even with B5 then down to B5.n
+
+arrow down 0.34 from B4.s then right until even with B5 then down to B5.n
+
+arrow <-> from B5.s to B6.n
+```
 
 Where this Serial Work–Monographic Work hierarchy structure does not exist, then a new aggregating Work may be created and linked via an associated contains/contained in relationship in line with models for any other Collection Aggregate.
 
-Example:
+```pikchr
+B1: box rad 5px "ER – The Complete First" "and Second Season" "(Work – Monographic)" fit at (0,3) 
 
-ER – The Complete First
-and Second Season
-(Work – Monographic)
+B2: box rad 5px "ER – The Complete First" "and Second Season" "(DVD Manifestation – 4 disc set)" "(Collection Aggregate)" fit at (0,0) 
 
-ER. Day One
-(Season 1, Episode 1)
-(Work – Monographic)
+B3: box rad 5px "ER. Day One" "(Season 1, Episode 1)"  "(Work – Monographic)" fit at (3,3) 
 
-ER. Day One
-(TV transmission Manifestation)
-22/09/1994
+B4: box rad 5px "ER. Day One" "(TV transmission Manifestation)"  "22/09/1994" fit at (3,2) 
 
-ER. Going Home
-(Season 1, Episode 2)
-(Work – Monographic)
+B5: box rad 5px "ER. Going Home" "(Season 1, Episode 2)"  "(Work – Monographic)" fit at (3,1) 
 
-ER – The Complete First
-and Second Season
-(DVD Manifestation – 4 disc set)
-(Collection Aggregate)
+B6: box rad 5px "ER. Going Home" "(TV transmission Manifestation)"  "29/09/1994" fit at (3,0) 
 
-ER. Going Home
-(TV transmission Manifestation)
-29/09/1994
+arrow <-> from B1.s to B2.n
+
+arrow <-> from B3.s to B4.n
+
+arrow <-> from B5.s to B6.n
+
+arrow <-> from B1.e to B3.w
+
+arrow right 0.2 from B1.e then down until even with B5 then right to B5.w
+```
 
 For how this might be modelled in a flat or single hierarchy system see [I.7 Example 7. Aggregate DVD Television Serial and Episode records in 1-level Hierarchy Models](#manual-I.7)
 

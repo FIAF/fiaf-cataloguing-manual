@@ -2,8 +2,7 @@
 
 Institutions should develop standard lists of terms to indicate the specific carrier type or refer to authoritative existing lists.
 
-For optical media, only add commercially produced media here.
-If the optical media is “writable” and is being used to store a digital file, put the digital file format in the General Carrrier Type, and the optical storage media in Specific.
+For optical media, only add commercially produced media here. If the optical media is “writable” and is being used to store a digital file, put the digital file format in the General Carrrier Type, and the optical storage media in Specific.
 
   Examples include, but are not limited to:
 
@@ -14,8 +13,7 @@ If the optical media is “writable” and is being used to store a digital file
   PBCore instantiationPhysical (http://metadataregistry.org/concept/list/vocabulary_id/145.html) (for physical carriers)
   PBCore instantiationDigital (http://pbcore.org/pbcoreinstantiation/instantiationdigital/) (for broad digital formats)
 
-Additional sources of information include several SMPTE standards, engineering guidelines, and recommended practices.
-These are some of the most common terms, but not a complete or definitive list.
+Additional sources of information include several SMPTE standards, engineering guidelines, and recommended practices. These are some of the most common terms, but not a complete or definitive list.
 
 | Film Gauge | Video | Audio | Optical | Digital File | Digital File Encoding |
 | --- | --- | --- | --- | --- | --- |
@@ -28,9 +26,7 @@ These are some of the most common terms, but not a complete or definitive list.
 | 17.5mm | D5 | 16mm magnetic track | | | |
 | 70mm | DVCPRO HD | | | | |
 
-
-For digital files, list the physical carrier on which the file is stored.
-For all other materials, use this element to provide more specific information on the physical carrier.
+For digital files, list the physical carrier on which the file is stored. For all other materials, use this element to provide more specific information on the physical carrier.
 
 Institutions should develop standard lists of terms to indicate the specific carrier type or refer to authoritative existing lists.
 

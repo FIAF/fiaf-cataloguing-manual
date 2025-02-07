@@ -1,6 +1,4 @@
-# Acknowledgements {#manual-ACKNOWLEDGEMENTS}
-
-\pagenumbering{gobble}
+# Acknowledgements {#manual-acknowledgements}
 
 This manual is a result of the combined efforts of many professionals to whom we owe our gratitude.
 
@@ -26,11 +24,3 @@ Lastly, we are indebted to Linda Tadic, who did a superb job of editing the manu
 Natasha Fairbairn (Co-author)     
 Maria Assunta Pimpinelli (Co-author ; co-Chair, FIAF Rules Revision)     
 Thelma Ross (Co-author ; co-Chair, FIAF Rules Revision)
-
-\newpage
-
-\tableofcontents
-
-\newpage
-
-\setcounter{page}{1}
