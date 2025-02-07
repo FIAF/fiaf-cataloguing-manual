@@ -13,7 +13,6 @@ There is the option of an institution using a devised/supplied title (see [A.2.5
 ```{=latex}
 \begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Example]
 Bond of fear ; Blackout \\
-Bond of fear; [other segment] \\
 Odeon Entertainment double feature: Bond of fear and Blackout [DVD double feature]
 \end{tcolorbox}
 ```
