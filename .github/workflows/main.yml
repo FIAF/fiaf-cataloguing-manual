@@ -16,15 +16,22 @@ jobs:
       run: git branch
     - name: install required apps 
       run: sudo apt install pandoc texlive-xetex  
+
+
+      
     - name: check dir
       run: ls -al  
     - name: install font 
-      run: cp -r /manual/font/ /usr/share/fonts/BrownStd    
+      run: cp -r /src/font/ /usr/share/fonts/BrownStd    
+
+      
+    - name: check dir
+      run: ls src/render 
       
     - name: run compile script
-      run: ./local.sh
-    - name: check results
-      run: ls -al      
+      run: ./src/local.sh
+    # - name: check results
+    #   run: ls -al      
 #     - name: push pdf
 #       run: |
 #         git config user.name 'github-actions[bot]'
