@@ -18,23 +18,21 @@ jobs:
       run: sudo apt install pandoc texlive-xetex  
     - name: install font 
       run: cp -r src/font/ /usr/share/fonts/BrownStd    
-
-      
-    - name: check dir
-      run: ls src/ 
-
     - name: remove render dir
       run: rm -rf src/render 
-
-    - name: check dir
-      run: ls src/ 
-      
     - name: remake render dir
       run: mkdir src/render
       
     - name: check dir
-      run: ls src/ 
+      run: ls src/render 
+
       
+    - name: run script
+      run: cd src && ./local.sh 
+    
+    - name: check dir
+      run: ls src/render 
+    
       
     # - name: run compile script
     #   run: ./src/local.sh
