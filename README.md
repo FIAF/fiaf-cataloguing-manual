@@ -2,6 +2,10 @@
 
 Markdown representation of the FIAF Cataloguing Manual.
 
+### Renders
+
+[FIAF Cataloguing Manual (English)](/src/render/manual_en.pdf)
+
 ### Edit guide
 
 Required updates should be identified by an "issue" before work is undertaken. Issue list can be found [here](https://github.com/FIAF/fiaf-cataloguing-manual/issues).
