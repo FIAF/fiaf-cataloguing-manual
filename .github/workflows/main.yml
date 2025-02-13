@@ -1,25 +1,28 @@
-# name: compile_manual
-# on:
-#   push:
-#     branches:
-#       - 'main'
-#       - 'develop'
-# jobs:
-#   compile:
-#     runs-on: ubuntu-latest 
-#     permissions:
-#       contents: write  
-#     steps:
-#     - name: checkout repo
-#       uses: actions/checkout@v3
-#     - name: check branch
-#       run: git branch
-#     - name: install required apps 
-#       run: sudo apt install pandoc graphicsmagick texlive-xetex librsvg2-bin      
-#     - name: run compile script
-#       run: ./compile.sh
-#     - name: check results
-#       run: ls -al      
+name: compile_manual
+on:
+  push:
+    branches:
+      - 'main'
+      - 'develop'
+jobs:
+  compile:
+    runs-on: ubuntu-latest 
+    # permissions:
+      # contents: write  
+    steps:
+    - name: checkout repo
+      uses: actions/checkout@v3
+    - name: check branch
+      run: git branch
+    - name: install required apps 
+      run: sudo apt install pandoc texlive-xetex    
+    - name: install font 
+      run: cp -r /manual/font/ /usr/share/fonts/BrownStd    
+      
+    - name: run compile script
+      run: ./local.sh
+    - name: check results
+      run: ls -al      
 #     - name: push pdf
 #       run: |
 #         git config user.name 'github-actions[bot]'
@@ -27,3 +30,5 @@
 #         git add manual.pdf
 #         git commit -a -m "pdf generated"
 #         git push
+
+
