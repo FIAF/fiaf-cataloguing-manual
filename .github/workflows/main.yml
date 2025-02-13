@@ -16,22 +16,24 @@ jobs:
       run: git branch
     - name: install required apps 
       run: sudo apt install pandoc texlive-xetex  
-
-
-      
-    - name: check dir
-      run: ls src/
-
-      
     - name: install font 
       run: cp -r src/font/ /usr/share/fonts/BrownStd    
 
       
     - name: check dir
-      run: ls src/render 
+      run: ls src/ 
+
+    - name: remove render dir
+      run: rm -rf src/render 
+
+    - name: check dir
+      run: ls src/ 
       
-    - name: run compile script
-      run: ./src/local.sh
+
+
+      
+    # - name: run compile script
+    #   run: ./src/local.sh
     # - name: check results
     #   run: ls -al      
 #     - name: push pdf
