@@ -14,7 +14,7 @@ The boundaries between one Work and another (i.e where a new Work would be creat
   Examples:
 
   The man who knew too much (UK, 1934, Alfred Hitchcock)  
-  The man who knew too much (UK, 1936, Alfred Hitchcock)
+  The man who knew too much (USA, 1956, Alfred Hitchcock)
 
   T’amerò sempre (Italy, 1933, Mario Camerini)  
   T’amerò sempre (Italy, 1943, Mario Camerini)
