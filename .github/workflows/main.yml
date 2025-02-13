@@ -23,21 +23,10 @@ jobs:
     - name: remake render dir
       run: mkdir src/render
       
-    - name: check dir
-      run: ls src/render 
-
-      
-    - name: run script
-      run: cd src && ./local.sh 
-    
-    - name: check dir
-      run: ls src/render 
-    
-      
-    # - name: run compile script
-    #   run: ./src/local.sh
-    # - name: check results
-    #   run: ls -al      
+    # currently an issue with "hyperspecific"
+    # - name: run script
+    #   run: cd src && ./local.sh 
+  
 #     - name: push pdf
 #       run: |
 #         git config user.name 'github-actions[bot]'
