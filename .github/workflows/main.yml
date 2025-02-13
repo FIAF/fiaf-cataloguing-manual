@@ -29,8 +29,12 @@ jobs:
     - name: check dir
       run: ls src/ 
       
-
-
+    - name: remake render dir
+      run: mkdir src/render
+      
+    - name: check dir
+      run: ls src/ 
+      
       
     # - name: run compile script
     #   run: ./src/local.sh
