@@ -20,9 +20,11 @@ jobs:
 
       
     - name: check dir
-      run: ls -al  
+      run: ls src/
+
+      
     - name: install font 
-      run: cp -r /src/font/ /usr/share/fonts/BrownStd    
+      run: cp -r src/font/ /usr/share/fonts/BrownStd    
 
       
     - name: check dir
