@@ -10,30 +10,45 @@ Any or either of the forms may be used in combination as an institution chooses,
 It is worth bearing in mind that serials are always intended to be viewed in a specified order.
 Therefore serial title, episode numbers, and episode titles are usually included on the Item itself or in secondary sources, and should be reflected in the record to aid in discovery and identification.
 
-    Example: Flash Gordon’s trip to Mars. Chapter 12. Ming the Merciless
-    Work (Serial) – Flash Gordon’s trip to Mars
-        Work (Monographic) – Ming the Merciless
-            Manifestation – Ming the Merciless
-                Item – Ming the Merciless
-    [with “Chapter 12” element being added to a separate relevant Part field]
-    OR
-    Work (Serial) – Flash Gordon’s trip to Mars
-        Work (Monographic) – Flash Gordon’s trip to Mars. Chapter 12. Ming the Merciless
-            Manifestation – Flash Gordon’s trip to Mars. Chapter 12. Ming the Merciless
-                Item – Flash Gordon’s trip to Mars. Chapter 12. Ming the Merciless
-    OR
-    Work (Serial) – Flash Gordon’s trip to Mars
-        Work (Monographic) – Ming the Merciless
-            Manifestation – Flash Gordon’s trip to Mars. Chapter 12. Ming the Merciless
-                Item – Flash Gordon’s trip to Mars. Chapter 12. Ming the Merciless
+```{=latex}
+\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
+Flash Gordon’s trip to Mars. Chapter 12. Ming the Merciless \\ \\
+Work (Serial) – Flash Gordon’s trip to Mars \\ \\
+\indent\hspace{1cm} Work (Monographic) – Ming the Merciless \\ \\
+\indent\hspace{2cm} Manifestation – Ming the Merciless \\ \\
+\indent\hspace{3cm} Item – Ming the Merciless \\ \\
+\indent\hspace{2 cm}[with “Chapter 12” element being added to a separate relevant Part field] \\ \\
+OR \\ \\
+Work (Serial) – Flash Gordon’s trip to Mars \\ \\
+\indent\hspace{1cm} Work (Monographic) – Flash Gordon’s trip to Mars. \\
+\indent\hspace{1cm} Chapter 12. Ming the Merciless \\ \\
+\indent\hspace{2cm} Manifestation – Flash Gordon’s trip to Mars. \\
+\indent\hspace{2cm} Chapter 12. Ming the Merciless \\ \\
+\indent\hspace{3cm} Item – Flash Gordon’s trip to Mars. \\
+\indent\hspace{3cm} Chapter 12. Ming the Merciless \\ \\
+OR \\ \\
+Work (Serial) – Flash Gordon’s trip to Mars \\ \\
+\indent\hspace{1cm} Work (Monographic) – Ming the Merciless \\ \\
+\indent\hspace{2cm} Manifestation – Flash Gordon’s trip to Mars. \\
+\indent\hspace{2cm} Chapter 12. Ming the Merciless \\ \\
+\indent\hspace{3cm} Item – Flash Gordon’s trip to Mars. \\
+\indent\hspace{3cm} Chapter 12. Ming the Merciless
+
+\end{tcolorbox}
+```
 
 The same principle can be applied to episodes of a series/serial that do not have their own individual titles but have numbered parts.
 
-    Example:
-    Work (Serial) – Pride and prejudice
-        Work (Monographic) – Pride and prejudice. Part One
-            Manifestation – Pride and prejudice. Part One
-                Item – Pride and prejudice. Part One
+
+```{=latex}
+\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
+Work (Serial) – Pride and prejudice \\ \\
+Work (Monographic) – Pride and prejudice. Part One \\ \\
+\indent\hspace{1cm} Manifestation – Pride and prejudice. Part One \\ \\
+\indent\hspace{2cm} Item – Pride and prejudice. Part One
+
+\end{tcolorbox}
+```
 
 Reflect the Part term used in any source of information, for example, “part,” “chapter,” “episode,” etc. Equally, if the number is in numerals then use those, and if alphabetical, i.e. One, Two, Three, etc., use those.
 

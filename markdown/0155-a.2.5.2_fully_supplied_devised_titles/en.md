@@ -19,32 +19,41 @@ Optionally (or additionally), establish a link with the form index adopted by th
 
 Institutions should rely upon in-house lists of standardised form terms, or utilise established standardised lists such as Library of Congress Genre/Form Terms for Library and Archival Materials (LCGFT), or rely upon the list provided in [D.18 List of form terms for Supplied/Devised titles](#manual-D.18).
 
-  EXAMPLES:
-
-  Announcements
-  Bloopers
-  Commercials
-  Home movies
+```{=latex}
+\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
+Announcements \\
+Bloopers \\
+Commercials \\
+Home movies
+\end{tcolorbox}
+```
 
 If the content being described consists of two or more forms, record the one or two most predominate forms followed by the phrase “and other content,”[^164] or “and other segments” or something similar as long as consistency is achieved.
 
-  EXAMPLE:
 
-  CBS bloopers, commercials and other content
+```{=latex}
+\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
+CBS bloopers, commercials and other content
+\end{tcolorbox}
+```
+
 
 It is recommended that institutions stipulate within the supplied/devised title that the footage is unedited (e.g.
 “unedited footage” or “unedited content”), as an overall way of characterising the form of the content.
 This may not be appropriate in all cases.[^165]
 
-  EXAMPLES:
 
-  Animals. Unedited footage
-  Boulder transmission line tests. Unedited footage
-  Cattle herd. Stock footage
-  Kennedy presidential campaign. Arrival, Boston. Unedited footage
-  Trains, night clubs, Santa Ana Freeway. Stock shots
-  Unedited. Kleine Collection footage
+```{=latex}
+\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
+ Animals. Unedited footage \\
+  Boulder transmission line tests. Unedited footage \\
+  Cattle herd. Stock footage \\
+  Kennedy presidential campaign. Arrival, Boston. Unedited footage \\
+  Trains, night clubs, Santa Ana Freeway. Stock shots \\
+  Unedited. Kleine Collection footage \\
   Unedited. Jones Collection footage. No. 5
+\end{tcolorbox}
+```
 
 Where ascertainable, supply standardised or controlled terms or phrases that most precisely and succinctly characterise what the content is about (e.g. persons, corporate bodies, objects, activities, events, geographical area).
 
@@ -54,49 +63,59 @@ Record or index the name(s) in the form by which the creator/collector/assembler
 
 If no name has been recorded, but the subject of the content is a person, family or corporate body, express the title in a way that clearly indicates that the subject of the content is the named person, family or corporate body.[^168]
 
-  EXAMPLES:
-  Compilation on Emmanuelle Devos
-  Early balloon footage.
-  World War I patriotic marches. No. 3
-  Ads and tours of Seattle industry
-  Ponselle, Rosa. Screentests.
-  Theodore Roosevelt. 1905 inaugural ceremony. Speeches
-  James Cagney, ca. 1965. Interviews
-  ABC Network fall season preview. 1964-65 season. Unedited footage optionally: Unedited footage. ABC Network fall season preview. 1964-65 season
-  Academy Awards, 17th. Best actor and actress. Unedited footage optionally, Unedited footage. Academy Awards, 17th. Best actor and actress optionally, Unedited 17th Academy Awards footage. Best actor and actress
-  Academy Awards. Award presentation, Conrad Nagel. Unedited footage
-  Anna Held. Unedited footage
-  CBS logo reel
-  Eddie Cantor and others. Unedited footage
+
+```{=latex}
+\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
+  Compilation on Emmanuelle Devos \\
+  Early balloon footage. \\
+  World War I patriotic marches. No. 3 \\
+  Ads and tours of Seattle industry \\
+  Ponselle, Rosa. Screentests. \\
+  Theodore Roosevelt. 1905 inaugural ceremony. Speeches \\
+  James Cagney, ca. 1965. Interviews \\
+  ABC Network fall season preview. 1964-65 season. Unedited footage  \\
+\indent\hspace{1cm} optionally: Unedited footage. ABC Network fall season preview. 1964-65 season  \\
+  Academy Awards, 17th. Best actor and actress. Unedited footage  \\
+\indent\hspace{1cm} optionally, Unedited footage. Academy Awards, 17th. Best actor and actress  \\
+\indent\hspace{1cm} optionally, Unedited 17th Academy Awards footage. Best actor and actress \\
+  Academy Awards. Award presentation, Conrad Nagel. Unedited footage \\
+  Anna Held. Unedited footage \\
+  CBS logo reel \\
+  Eddie Cantor and others. Unedited footage \\
   World Series, 1956. Game no. 7. Unedited footage
+\end{tcolorbox}
+```
 
 For unidentified moving images, use the term “unidentified” in the title.
 Use numbers to distinguish separate content when there is more than one unidentified segment in a particular descriptor category.
 
-  EXAMPLES:
 
-  Unidentified cartoon
-  Unidentified cartoon. Warner Brothers 
-    optionally: Unidentified Warner Brothers cartoon
-  Unidentified short about Africa
-  Unidentified film. James Cagney/Joe E. Brown
-  Unidentified equestrian film
-  Unidentified films. Excerpts
-  Unidentified film. Kay Kyser musical 
-    optionally: Unidentified Kay Kyser musical
-  Unidentified film. Warner Brothers. 
-    Outtakes optionally: Unidentified Warner Brothers outtakes
-  Unidentified film. Western
-    optionally: Unidentified Western
-  Unidentified newsreel. Excerpts. Auto race subjects, 1930s
-  Unidentified newsreel. Native American ritual dances, fifth wheel car, Fremont
-  High game
-  Unidentified newsreel, Russian
-    optionally: Unidentified Russian newsreel
-  Unidentified shorts
-  Unidentified television programme. Wrestling. DuMont prod. no. 1757
-  Travelogue. Greenland expedition. Unidentified excerpts
-  Unidentified television series. Quiz show. Unidentified episodes
+```{=latex}
+\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
+Unidentified cartoon \\
+Unidentified cartoon. Warner Brothers  \\
+\indent\hspace{1cm} optionally: Unidentified Warner Brothers cartoon \\
+Unidentified short about Africa \\
+Unidentified film. James Cagney/Joe E. Brown \\
+Unidentified equestrian film \\
+Unidentified films. Excerpts \\
+Unidentified film. Kay Kyser musical  \\
+\indent\hspace{1cm} optionally: Unidentified Kay Kyser musical \\
+Unidentified film. Warner Brothers. Outtakes \\
+\indent\hspace{1cm} optionally: Unidentified Warner Brothers outtakes \\
+Unidentified film. Western \\
+\indent\hspace{1cm} optionally: Unidentified Western \\
+Unidentified newsreel. Excerpts. Auto race subjects, 1930s \\
+Unidentified newsreel. Native American ritual dances, fifth wheel car, Fremont \\
+High game \\
+Unidentified newsreel, Russian \\
+\indent\hspace{1cm} optionally: Unidentified Russian newsreel \\
+Unidentified shorts \\
+Unidentified television programme. Wrestling. DuMont prod. no. 1757 \\
+Travelogue. Greenland expedition. Unidentified excerpts \\
+Unidentified television series. Quiz show. Unidentified episodes
+\end{tcolorbox}
+```
 
 For a more comprehensive list of form terms to use with for FULLY or PARTIALLY Supplied/Devised titles, see [D.18 List of form terms for Supplied/Devised titles](#manual-D.18).
 

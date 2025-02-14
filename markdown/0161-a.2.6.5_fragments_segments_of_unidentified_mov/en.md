@@ -4,13 +4,21 @@ Similar principles apply to any unidentified and incomplete segments or fragment
 
 For example, a reel of a silent fiction film with no title given on either the print or can, or any indication of what it is, other than it is clearly part of a longer film, should be assigned a relevant Item title in accordance with the guidelines in [A.2.5 Supplied/Devised Titles](#manual-A.2.5), for example:
 
-    Unidentified silent film segment
+```{=latex}
+\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
+Unidentified silent film segment
+\end{tcolorbox}
+```
 
 or where possible following the who/what/where/when ordering principles in creating a devised title.[^174]
 
-    Medieval battle segment. Unidentified silent film
-    OR
-    Unidentified silent film. Medieval battle segment
+```{=latex}
+\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
+Medieval battle segment. Unidentified silent film \\
+OR \\
+Unidentified silent film. Medieval battle segment
+\end{tcolorbox}
+```
 
 The Item title would then be utilised to create the Manifestation and Work level records as well.
 

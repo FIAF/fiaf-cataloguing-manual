@@ -8,23 +8,25 @@ In doubtful cases, do not include the possessive statement of responsibility as 
 In most cases the statement of responsibility or name was not intended to be part of the title, but was included for publicity purposes.
 Create alternative titles for cases where, in the judgment of the cataloguer, such titles would be helpful points of access.
 
-Examples:
 
-  Work
-  Preferred title: Victor/Victoria
-  Alternative title: Blake Edwards’ Victor/Victoria (title from onscreen)
+```{=latex}
+\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Example]
+Work \\
+\indent\hspace{1cm} Preferred title: Victor/Victoria \\
+\indent\hspace{1cm} Alternative title: Blake Edwards’ Victor/Victoria (title from onscreen) \\
+Work \\
+\indent\hspace{1cm} Preferred title: Il Casanova di Federico Fellini \\
+\indent\hspace{1cm} Alternative (Parallel) title: Fellini’s Casanova \\
+\indent\hspace{1cm} Alternative title: Casanova \\
+Variant \\
+\indent\hspace{1cm} Preferred title for English language version: Fellini’s Casanova \\ 
+\indent\hspace{1cm} (Research indicates that the possessive form of proper name \\
+\indent\hspace{1cm} is part of the English release title.) \\
+\indent\hspace{1cm} Alternative (Parallel) title for English language version: Il Casanova di Federico Fellini \\
+\indent\hspace{1cm} Alternative title: Casanova \\
+Work/Variant/Manifestation/Item \\
+\indent\hspace{1cm} Preferred title: Fisherman’s luck? \\
+\indent\hspace{1cm} Alternative (Part) title: Gandy Goose in Fisherman’s luck?
 
-  Work
-  Preferred title: Il Casanova di Federico Fellini
-  Alternative (Parallel) title: Fellini’s Casanova
-  Alternative title: Casanova
-
-  Variant
-  Preferred title for English language version: Fellini’s Casanova (Research indicates that the possessive form of proper name is part of the English release title.)
-
-  Alternative (Parallel) title for English language version: Il Casanova di Federico Fellini
-  Alternative title: Casanova
-
-  Work/Variant/Manifestation/Item
-  Preferred title: Fisherman’s luck?
-  Alternative (Part) title: Gandy Goose in Fisherman’s luck?
+\end{tcolorbox}
+```

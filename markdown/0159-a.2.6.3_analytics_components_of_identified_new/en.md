@@ -17,22 +17,30 @@ Should an institution only acquire a reel of the segment President Roosevelt ope
 
 Where it is known with which particular newsreel issue or series the acquired segment belongs then there is also the option to incorporate the newsreel series/issue title within the title assigned to the segment, for example:
 
-  British Paramount news No. 856. President Roosevelt opens World Fair
-  OR
-  British Paramount news. President Roosevelt opens World Fair
+```{=latex}
+\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
+British Paramount news No. 856. President Roosevelt opens World Fair \\
+OR \\
+British Paramount news. President Roosevelt opens World Fair
+\end{tcolorbox}
+```
 
 Within a hierarchical structure, the Item President Roosevelt opens World Fair would be linked as “part of” the Theatrical Manifestation British Paramount news No. 856, i.e. the whole newsreel issue, which in turn would be linked to the Work record for the whole issue also with the title British Paramount news No. 856.
 
-  Example:
-  Work (Series) – British Paramount news
-  Work (Monographic) – British Paramount news. No. 856
-    Manifestation – British Paramount news. No. 856
-      Item – President Roosevelt opens World Fair
-  OR
-  Work (Series) – British Paramount news
-  Work (Monographic) – British Paramount news. No. 856
-    Manifestation – British Paramount news. No. 856
-      Item – British Paramount news. No. 856. President Roosevelt opens World Fair
+```{=latex}
+\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
+Work (Series) – British Paramount news \\ \\ 
+Work (Monographic) – British Paramount news. No. 856 \\ \\ 
+\indent\hspace{1cm} Manifestation – British Paramount news. No. 856 \\ \\ 
+\indent\hspace{2cm} Item – President Roosevelt opens World Fair \\ \\ 
+OR \\ \\ 
+Work (Series) – British Paramount news \\ \\ 
+Work (Monographic) – British Paramount news. No. 856 \\ \\ 
+\indent\hspace{1cm} Manifestation – British Paramount news. No. 856 \\ \\ 
+\indent\hspace{2cm} Item – British Paramount news. No. 856. \
+\indent\hspace{2cm} President Roosevelt opens World Fair
+\end{tcolorbox}
+```
 
 At the Work level each of the titled analytics/components making up the whole, i.e. the separate news reports, can be added as additional alternative titles.
 
@@ -41,19 +49,27 @@ Alternatively, the component titles can be listed in a Summary or Description fi
 Should the Item acquired incorporate more than one inter-titled component, for example only reel 2 of a 2 reel Item is acquired that includes both 70th birthday of US coast to coast railway and Princesses play with baby pandas, then a different approach may be taken.
 This would involve using the title of the appropriate Manifestation pertaining to the whole newsreel issue and adding qualifying details, optionally in square brackets, as a second element of the title to create a title for the Item, for example
 
-  British Paramount news No. 856. [Reel 2]
-  OR
-  British Paramount news No.856. Reel 2
-
-  British Paramount news No.856. [Incomplete]
-  OR
-  British Paramount news No.856. Incomplete
+```{=latex}
+\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
+British Paramount news No. 856. [Reel 2] \\
+OR \\
+British Paramount news No.856. Reel 2 \\
+\\
+British Paramount news No.856. [Incomplete] \\
+OR \\
+British Paramount news No.856. Incomplete
+\end{tcolorbox}
+```
 
 with any inter-title designations on the print then added as alternative type titles, for example:
 
-  Preferred Title: British Paramount news No. 856. [Reel 2]
-    Alternative Title : 70th birthday of US coast to coast railway
-    Alternative Title : Princesses play with baby pandas
+```{=latex}
+\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
+Preferred Title: British Paramount news No. 856. [Reel 2] \\
+\indent\hspace{1cm}  Alternative Title : 70th birthday of US coast to coast railway \\
+\indent\hspace{1cm}  Alternative Title : Princesses play with baby pandas
+\end{tcolorbox}
+```
 
 If deemed necessary or helpful for the purposes of discovery, the alternative titles added to Items should also be added to the Work level record.
 
