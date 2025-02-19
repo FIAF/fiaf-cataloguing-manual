@@ -23,27 +23,25 @@ Due to the different nature/function of Preservation Event types, they collect d
 
 Selection should be made from a controlled list of values.
 
-A Preservation Event has as typical Agent(s) the institution(s) or individual professionals that make preservation decisions.
-Selection should be made from a controlled list of values. See [D.8 Manifestation Agent Types](#manual-D.8) and [D.3 Work/Variant Agent Types](#manual-D.3).
+A Preservation Event has as typical Agent(s) the institution(s), a reference to the Lab or unit in the organisation where activity was carried out or individual professionals that make preservation work or decisions. The organization may decide to extend this scope to the software used in the restoration process (in accordance with METS and PREMIS) or to the machine used – e.g., a film cleaning machine, sound follower, or scanner.
+Selection should be made from a controlled list of values and linking to the defined Agents. See [D.8 Manifestation Agent Types](#manual-D.8) and [D.3 Work/Variant Agent Types](#manual-D.3).
 
 A Preservation Event can be in relationship with instances of “Other” relationships (such as technical reports, documentation material, promotional material for the specific project, etc.).
 
 Record all the existing relationships of a Preservation Event, if the information is known and considered of relevance.
 
-Preservation Event information consists of the following sub-elements:
+Possible values for the elements individual for each suggested Preservation Event types: 
+- Conservation / Repair
+- Image Digitisation
+- Sound Digitisation
+- Reconstruction
+- Image Restoration
+- Image Grading
+- Sound Restoration and Mastering
+- Duplication: Printing / Recording.
+have been suggested in the Annex no:... and [D.12 Manifestation Preservation Types](#manual-D.12).
 
-  - Preservation type
-  - Preservation Date
-
-- Preservation type
-
-Record the general type of the preservation activity performed, for example, duplication, transfer, etc. Selection should be made from a controlled list of terms. See [D.12 Manifestation Preservation Types](#manual-D.12).
-
-- Preservation Date
-
-Record the date or time span in which the preservation activity was performed.
-(Dates should be formatted according to ISO 8601 or some other recognised standard.)
-
+Some Preservation Events types, such as Conservation or Digitisation, are recurring activities. Therefore, a single Item may be linked to more than one Conservation or Digitisation type Preservation Event. 
 Add in a note any information describing the preservation process in detail.
 
 This can include:[^211]
@@ -53,6 +51,8 @@ This can include:[^211]
   - Relevant research (documenting sources of information related to content or production techniques)
   - Technical, aesthetic or ethical decisions
   - Recommendations for further work (details concerning limitations due to source material, resources, technology, etc.)
+
+Some information may be generated automatically from the Manifestation Preservation file. Possible methods of extracting/generating data can be found in Annex no: column… 
 
 [^209]: EN 15907, 6.15 Preservation event, pp. 28-29
 [^210]: YCR 6.5, 6.6
