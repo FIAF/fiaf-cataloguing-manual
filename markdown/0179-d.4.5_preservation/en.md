@@ -2,7 +2,25 @@
 
 A Preservation Event is associated with a new Variant, Manifestation or Items resulting from the preservation process in which the contents of one or more Items (or fragments thereof) from Manifestations of a Work were transferred with the intention of restoring or reconstructing the content as originally intended, or safeguarding it from decay.
 
-This includes statements about past or future treatments scheduled for the item.[^210] If desired and if applicable, record one or more general types of past or future treatment activities (e.g. “added leaders”, “cleaned ultrasonically”, “tears repair”, etc.).
+Preservation Events aim to document the decision-making process, observations, key steps and decisions, involved film elements (Items and Manifestations) and additional secondary sources, and Agents. 
+The number of generated Preservation Events depends on the archive's/organization's workflow, particularly on whether they decide to store the intermediate products of the restoration project, as Preservation Events will connect the individual phases of work on the final restored manifestation. This is illustrated in the diagram below.
+[DIAGRAM]
+
+Thanks to this structure, we can:
+- Track the history of film elements changes
+- Verify the original format and other characteristics
+- Understand the impact of operations and workflow
+- Identify which film elements/objects/files were created as a result of these operations.
+
+This includes statements about past or future treatments scheduled for the item.[^210] 
+Due to the different nature/function of Preservation Event types, they collect different information. What they have in common is the presence of the following fields:
+- Type of an Preservation event, 
+- Name of the Project (and link) under which conservation was carried out,
+- Object Name / Source material to identify the subject of the preservation activity,
+- Preservation Date/Activity Start Date and/or End Date Record the date or time span in which the preservation activity was performed. (Dates should be formatted according to ISO 8601 or some other recognised standard.) 
+- Source material. A film element that has undergone a preservation activity or as a step in the digital restoration process.
+- Result material (Selection should be made from a controlled list of terms. See D.12 Manifestation Preservation Types).
+
 Selection should be made from a controlled list of values.
 
 A Preservation Event has as typical Agent(s) the institution(s) or individual professionals that make preservation decisions.
