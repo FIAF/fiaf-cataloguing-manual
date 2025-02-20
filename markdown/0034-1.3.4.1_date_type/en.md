@@ -5,7 +5,7 @@ If your system supports it, apply a “Date Type” qualifier to make the date o
 Date Type terms should be derived from a controlled vocabulary.
 For a list of initial terms, see [Appendix D.4 Event Types](#manual-D.4).
 
-For Works and Variants, the date is typically related to events such as its creation, availability (i.e. publication, release, distribution, broadcast or transmission) or registration (e.g. for copyright or intellectual property purposes).
+For Works and Variants, the date is typically related to events such as its creation, availability (i.e. publication, release, distribution, broadcast or transmission) or registration (e.g. for copyright or intellectual property purposes), or bestowal of an award. 
 
 More than one year or date may be associated with a Work or its Variants.
 For example, in the case of a Work comprising segments produced in different years (for example, a home movie); list the years, if known, e.g., 1955, 1956, 1959.[^55]
