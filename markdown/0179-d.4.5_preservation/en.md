@@ -16,10 +16,10 @@ This includes statements about past or future treatments scheduled for the item.
 Due to the different nature/function of Preservation Event types, they collect different information. What they have in common is the presence of the following fields:
 - Type of an Preservation event, 
 - Name of the Project (and link) under which conservation was carried out,
-- Object Name / Source material to identify the subject of the preservation activity,
-- Preservation Date/Activity Start Date and/or End Date Record the date or time span in which the preservation activity was performed. (Dates should be formatted according to ISO 8601 or some other recognised standard.) 
+- Object Name/Source material to identify the subject of the preservation activity,
+- Preservation Date to record the date or time span in which the preservation activity was performed. (Dates should be formatted according to ISO 8601 or some other recognised standard.) 
 - Source material. A film element that has undergone a preservation activity or as a step in the digital restoration process.
-- Result material (Selection should be made from a controlled list of terms. See D.12 Manifestation Preservation Types).
+- Result material (Selection should be made from a controlled list of terms. See [D.12 Manifestation Preservation Types](#manual-D.12)).
 
 Selection should be made from a controlled list of values.
 
