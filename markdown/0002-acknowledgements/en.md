@@ -8,7 +8,7 @@ Many professionals from the FIAF Cataloguing Rules Revision Working Group gracio
 A special thanks to Laurent Bismuth, Georg Eckes, and Detlev Balzer for their thoughtful suggestions for improvement.
 We also appreciate Detlev for hosting the FIAF Cataloguing and Documentation Commission (CDC) wiki on his filmstandards.org website.
 
-Several of the illuminating charts and examples, and other formatting needs (such as URLs) were kindly handled by Marian Hausner Mats Skärstrand, and Michael Campos-Quinn.
+Several of the illuminating charts and examples, and other formatting needs (such as URLs) were kindly handled by Marian Hausner, Mats Skärstrand, and Michael Campos-Quinn.
 Marian Hausner also did a painstaking job constructing the bibliography.
 
 This work could not have been done without the support and guidance of the British Film Institute who contributed institutional policies and documents for our use.
