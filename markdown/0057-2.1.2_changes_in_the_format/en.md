@@ -29,7 +29,7 @@ In-house copying of an institution’s holding onto a different format, e.g. a v
 In this case there is also the option of simply creating an Item for the copy, and linking it to the same Manifestation as the source Item.
 
 This option depends on an institution’s policy.
-Some may choose always to create a new Manifestation, whilst others may decide to create a new Manifestation where change in format and change in distribution/publication coincide but just create a new Item where change in format is as a result of in-house copying.
+Some may choose always to create a new Manifestation (i.e. a Preservation Manifestation) in such cases , whilst others may decide to create a new Manifestation where change in format and change in distribution/publication coincide but simply create a new Item linked to an existing Manifestation where change in format is as a result of in-house copying.
 
 It is for an institution to decide on which approach it prefers and apply consistently.
 
