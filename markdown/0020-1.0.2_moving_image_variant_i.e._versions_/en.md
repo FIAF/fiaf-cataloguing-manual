@@ -14,5 +14,6 @@ For example, an institution may have a television recording of a motion picture 
 Therefore, this entity is optional.
 If employed, each instance of a Variant is related to a Work and can have one-to-many relationships with instances of Manifestation(s), Event(s), Agent(s) and Other Relation(s).
 If no Variant of a Work exists or is known to exist, then this entity can be omitted, connecting an instance of a Work with one or more instances of Manifestation.
+Therefore, this entity is optional. If employed, each instance of a Variant is related to a Work and can have one-to-many relationships with instances of Manifestation(s), and many-to-many relationships with Event(s), Agent(s) and Other Relation(s). If no Variant of a Work exists or is known to exist, then this entity can be omitted, connecting an instance of a Work with one or more instances of Manifestation.
 
 [^30]: Adapted from EN 15907, 4.2 Variant
