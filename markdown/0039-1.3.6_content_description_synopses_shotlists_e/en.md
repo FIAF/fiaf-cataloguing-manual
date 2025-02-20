@@ -1,7 +1,7 @@
 # 1.3.6 Content description (synopses, shotlists, etc) [^59] {#manual-1.3.6}
 
 Write a concise, objective, non-critical summary of the content of the moving image Work and/or Variant.
-Content descriptions can be synposes, brief TV guide-like one sentence description, shotlists, etc. There can be more than one type of content description in the record.
+Content descriptions can be synposes, brief TV guide-like one sentence description, shotlists, etc. There can be more than one type of content description in the record, e.g. it is possible to have both a shotlist and a synopsis.
 
 The content description should be written in a style that is easy to read.
 It should not include technical terms, abbreviations, or allusions significant to a specialist audience.
@@ -17,7 +17,7 @@ If acceptable summaries are already available in secondary sources, cataloguers 
   
   Donald Graham, millionaire ex-convict, plans revenge on society figure John Cabin Brand, whom he blames for the death of his daughter.
 
-A content description may also be a shotlist or listing of the contents of an aggregate Work/Variant (see [Appendix E, Aggregates](#manual-E)).
+A content description may also be a shotlist or listing of the contents of an aggregate Work/Variant (see [Appendix E, Aggregates](#manual-E)). Shotlists are the ideal content description to have or aim to have, particularly for non-fiction moving images, but it is recognised that resources and accessibility mean this is not always possible or practical for an archive or institution.
 
   Example:[^62]
 
