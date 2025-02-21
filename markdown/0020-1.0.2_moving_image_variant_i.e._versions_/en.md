@@ -11,8 +11,6 @@ The determination of a Variant requires human analysis, and as such is an interp
 It is not always easy to establish what the Variants may be.
 For example, an institution may have a television recording of a motion picture broadcast but no way of comparing it with an original theatrical copy as to whether it has been altered in terms of subtle censorship of content or duration
 
-Therefore, this entity is optional.
-If employed, each instance of a Variant is related to a Work and can have one-to-many relationships with instances of Manifestation(s), Event(s), Agent(s) and Other Relation(s).
-If no Variant of a Work exists or is known to exist, then this entity can be omitted, connecting an instance of a Work with one or more instances of Manifestation.
+**Therefore, this entity is optional.** If employed, each instance of a Variant is related to a Work and can have one-to-many relationships with instances of Manifestation(s), and many-to-many relationships with Event(s), Agent(s) and Other Relation(s). If no Variant of a Work exists or is known to exist, then this entity can be omitted, connecting an instance of a Work with one or more instances of Manifestation.
 
 [^30]: Adapted from EN 15907, 4.2 Variant
