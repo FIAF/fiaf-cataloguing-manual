@@ -15,7 +15,7 @@ Thanks to this structure, we can:
 This includes statements about past or future treatments scheduled for the item.[^210] 
 Due to the different nature/function of Preservation Event types, they collect different information. What they have in common is the presence of the following fields:
 - Type of an Preservation event, 
-- Name of the Project (and link) under which conservation was carried out,
+- Name of the Project under which conservation was carried out,
 - Object Name/Source material to identify the subject of the preservation activity,
 - Preservation Date to record the date or time span in which the preservation activity was performed. (Dates should be formatted according to ISO 8601 or some other recognised standard.) 
 - Source material. A film element that has undergone a preservation activity or as a step in the digital restoration process.
