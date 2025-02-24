@@ -1,7 +1,7 @@
 # 1.3.4 Year/Date of reference {#manual-1.3.4}
 
 A year or fuller date (e.g., day/month/year) is essential to identifying a moving image Work and, where applicable, its Variants.
-A common use of year/date is chronological ordering of lists of Works and their Variants.[^54] 
+A common use of year/date is chronological ordering of lists of Works and their Variants.^[EN 15907, 6.6 Year of Reference, p. 20] 
 As explained below, these guidelines recommend, where possible, applying two qualifiers to a Date element: Date Type, and Date Precision.
 
 There is no primary or “preferred” year or date except within the context of the type of Work and, where applicable, its Variants.
@@ -18,4 +18,3 @@ Mixing date formats causes confusion in data retrieval and for users!
 
 Where full dates are not known use Year-Month YYYY-MM or just Year YYYY, as systems permit.
 
-[^54]: EN 15907, 6.6 Year of Reference, p. 20

@@ -1,12 +1,10 @@
 # 1.3.2 Title {#manual-1.3.2}
 
 Record at least one title, identifying phrase, or name for the moving image Work or Variant.
-If your institution is applying the use of “Type” qualifiers, use “Title Type” to state the function of a particular title.
-(see [1.3.2.1 Title Type](#manual-1.3.2.1) and [Appendix A, Titles and Title Types](#manual-A)).
+If your institution is applying the use of “Type” qualifiers, use “Title Type” to state the function of a particular title (see [1.3.2.1 Title Type](#manual-1.3.2.1) and [Appendix A, Titles and Title Types](#manual-A)).
 
 Ideally, the record should at a minimum contain the “preferred title” (also referred to as “main” or “original” title) of the Work or Variant.
-Generally, it is the title of a moving image Work or Variant when first released, broadcast, published or transmitted (i.e.
-mounted online) in the country or countries of origin.
+Generally, it is the title of a moving image Work or Variant when first released, broadcast, published or transmitted (i.e. mounted online) in the country or countries of origin.
 It may differ from the title found on a particular manifestation of the Work or Variant; the actual title on the Manifestation is noted in the Manifestation Title element (see [2.3.2 Title](#manual-2.3.2)).
 See [A.2.0 Preferred](#manual-A.2) for additional information.
 
@@ -14,31 +12,59 @@ For creating titles for untitled or unidentified entities see [A.2.5 Supplied/De
 This may be via use of a “Title type” qualifier.
 See [A.2.6 Titles of series/serials](#manual-A.2.6) for other options
 
-    Examples:
-    
-    Gone with the wind (United States of America, 1939, Victor Fleming)
-    Gone with the wind – Preferred Title of the Work
-    Via col vento – Variant title – Dubbed (Italian)
-    Gejaagd door de win – Variant title – Dubbed (Dutch)
-    Autant en emporte le vent – Variant title – Dubbed – (French)
-    風と共に去りぬ – Variant title – Dubbed (Japanese)
+```{=latex}
+\begin{tcolorbox}[colframe=gray!50!white, colback=gray!10!white, coltitle=black, title=Example]
 
-Аленький цветочек (USSR, 1952, Lev Atamanov)[^47]
-    Аленький цветочек – Title of the Work
-    Alenkiy tsvetochek: Alternative (transliterated) title of Work/ Variant (Preferred title if systems don’t use Cyrillic)
-    Feuerrotes Blümchen – Variant title – Dubbed (German)
-    The Scarlet Flower – Variant title – Dubbed (English)
+Gone with the wind (United States of America, 1939, Victor Fleming) \\
+Gone with the wind – Preferred Title of the Work \\
+Via col vento – Variant title – Dubbed (Italian) \\
+Gejaagd door de win – Variant title – Dubbed (Dutch) \\
+Autant en emporte le vent – Variant title – Dubbed – (French) \\
+風と共に去りぬ – Variant title – Dubbed (Japanese)
+
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colframe=gray!50!white, colback=gray!10!white, coltitle=black, title=Example]
+
+Аленький цветочек (USSR, 1952, Lev Atamanov) \\
+Аленький цветочек – Title of the Work \\
+Alenkiy tsvetochek: Alternative (transliterated) title of Work/ Variant (Preferred title if systems don’t use Cyrillic) \\
+Feuerrotes Blümchen – Variant title – Dubbed (German) \\
+The Scarlet Flower – Variant title – Dubbed (English)
     
-    La passeggiata (Italy, 1953, Renato Rascel)
-    La passeggiata – Preferred Title of the Work
-La prospettiva – Alternative title (Working title)[^48]
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colframe=gray!50!white, colback=gray!10!white, coltitle=black, title=Example]
+
+La passeggiata (Italy, 1953, Renato Rascel) \\
+La passeggiata – Preferred Title of the Work \\
+La prospettiva – Alternative title (Working title)
     
-    Anathan (Japan, 1953, Joseph von Sternberg)
-    Anathan – Preferred Title of the Work
-    The saga of Anathan – Alternative Title of the Work/Variant
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colframe=gray!50!white, colback=gray!10!white, coltitle=black, title=Example]
+
+Anathan (Japan, 1953, Joseph von Sternberg) \\
+Anathan – Preferred Title of the Work \\
+The saga of Anathan – Alternative Title of the Work/Variant
     
-    Mary Tyler Moore show – Series title
-    Chuckles bites the dust – Preferred title
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colframe=gray!50!white, colback=gray!10!white, coltitle=black, title=Example]
+
+Mary Tyler Moore show – Series title \\
+Chuckles bites the dust – Preferred title
+    
+\end{tcolorbox}
+```
 
 See [Appendix A.1 Title](#manual-A.1) for fuller titling details and information.
 

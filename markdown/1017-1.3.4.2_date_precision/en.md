@@ -11,12 +11,121 @@ Date Precision: Approximate
 
 An institution may choose to use a precision qualifier for imprecise dates.
 
-If ISO formatting and/or the Date Precision qualifier are not applied, then use consis-
-
-tent terms and formatting to note date approximations.
+If ISO formatting and/or the Date Precision qualifier are not applied, then use consistent terms and formatting to note date approximations.
 
 Examples:[^56]
 
+```{=latex}
+\begin{tcolorbox}[colframe=gray!50!white, colback=gray!10!white, coltitle=black, title=Example]
+
+1971 or 1972 One year or the other
+
+\end{tcolorbox}
+```
+
+
+```{=latex}
+\begin{tcolorbox}[colframe=gray!50!white, colback=gray!10!white, coltitle=black, title=Example]
+
+\[1969?\] Probable Year
+
+\end{tcolorbox}
+```
+
+
+```{=latex}
+\begin{tcolorbox}[colframe=gray!50!white, colback=gray!10!white, coltitle=black, title=Example]
+
+1969?
+
+\end{tcolorbox}
+```
+
+
+
+```{=latex}
+\begin{tcolorbox}[colframe=gray!50!white, colback=gray!10!white, coltitle=black, title=Example]
+
+Circa 1969 (with qualifying note to indicate date is probably 1969)
+
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colframe=gray!50!white, colback=gray!10!white, coltitle=black, title=Example]
+
+\[Circa 1960\] Approximate Year
+
+\end{tcolorbox}
+```
+
+
+```{=latex}
+\begin{tcolorbox}[colframe=gray!50!white, colback=gray!10!white, coltitle=black, title=Example]
+
+Circa 1960
+
+\end{tcolorbox}
+```
+
+
+```{=latex}
+\begin{tcolorbox}[colframe=gray!50!white, colback=gray!10!white, coltitle=black, title=Example]
+
+1960 circa
+
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colframe=gray!50!white, colback=gray!10!white, coltitle=black, title=Example]
+
+191- Decade certain
+
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colframe=gray!50!white, colback=gray!10!white, coltitle=black, title=Example]
+
+Decade 1910
+
+\end{tcolorbox}
+```
+
+
+```{=latex}
+\begin{tcolorbox}[colframe=gray!50!white, colback=gray!10!white, coltitle=black, title=Example]
+
+1910 decade 
+
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colframe=gray!50!white, colback=gray!10!white, coltitle=black, title=Example]
+
+\[191-?\] Probable decade
+
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colframe=gray!50!white, colback=gray!10!white, coltitle=black, title=Example]
+
+1910 decade (with qualifying note to indicate that date is probable decade date)
+
+\end{tcolorbox}
+```
+
+
+```{=latex}
+\begin{tcolorbox}[colframe=gray!50!white, colback=gray!10!white, coltitle=black, title=Example]
+
+1910 decade (with qualifying note to indicate that date is probable decade date)
+
+\end{tcolorbox}
+```
 1971 or 1972 One year or the other
 
 [1969?] Probable Year
