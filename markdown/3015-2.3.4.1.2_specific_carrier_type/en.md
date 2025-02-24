@@ -1,4 +1,4 @@
-# 2.3.4.1.2 Specific Carrier Type {#manual-2.3.4.1.2}
+\subsection{3.3.4.1.2 Specific Carrier Type}
 
 Record the specific carrier type, by indicating
 

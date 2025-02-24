@@ -1,4 +1,4 @@
-# 2.3.4.1 Carrier type of a Manifestation {#manual-2.3.4.1}
+\subsection{3.3.4.1 Carrier type of a Manifestation}
 
 Carrier type is the medium on or the encoding format in which the Manifestation is fixed.
 

@@ -1,4 +1,4 @@
-# 3.1 Elements of a moving image Item {#manual-3.1}
+\subsection{4.1 Elements of a moving image Item}
 
 A majority of the physical and digital description elements of moving image Items are intended to be inherited from the Manifestations, as they serve as the exemplars of Manifestations.
 In some databases, selection of a physical carrier type initiates provision of element fields relevant to that type at a Manifestation level, or an Item level, or both (e.g. in a 2 Level hierarchy.

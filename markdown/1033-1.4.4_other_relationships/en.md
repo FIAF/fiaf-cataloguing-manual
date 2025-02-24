@@ -1,4 +1,7 @@
-# 1.4.4 Other relationships[^81] {#manual-1.4.4}
+\subsection{1.4.4 Other relationships}
+
+
+[^81] {#manual-1.4.4}
 
 If desired or appropriate, express relationships that are not covered by the Agent, Subject, and Event relationships, including all kinds of aggregation and re-use of Works and their Variants.
 (See [Appendix E, Aggregates](#manual-E).)

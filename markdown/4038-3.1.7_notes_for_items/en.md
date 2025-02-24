@@ -1,4 +1,4 @@
-#3.1.7 Notes for Items {#manual-3.1.7}
+\subsection{4.1.7 Notes for Items}
 
 Notes for Items are an annotation providing additional information relating specifically to Item attributes and relationships.[^119] See [Appendix B, Cataloguer’s Notes](#manual-B).
 

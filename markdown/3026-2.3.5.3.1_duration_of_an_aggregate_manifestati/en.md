@@ -1,4 +1,4 @@
-# 2.3.5.3.1 Duration of an Aggregate Manifestation {#manual-2.3.5.3.1}
+\subsection{3.3.5.3.1 Duration of an Aggregate Manifestation}
 
 For Aggregate Manifestations record the duration of the whole, i.e. the total running time of all the units that constitute the Aggregate.
 In addition there is the option to qualify this with details of the duration of each individual unit in either a Notes field, or in multiple occurrences of the duration fields, depending on what systems used permit or an institution decides.

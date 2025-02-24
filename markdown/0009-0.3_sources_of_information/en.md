@@ -1,4 +1,4 @@
-# 0.3 Sources of Information {#manual-0.3}
+\subsection{0.3 Sources of Information}
 
 Information entered in a record must be derived from a source.
 Acceptable sources of information for moving image Works, Variants, Manifestations and Items include primary and secondary sources.
@@ -28,15 +28,18 @@ f) other published descriptions of the resource ^[Ibid.]
 
 g) any other available source (e.g., a reference source)^[Ibid.]
 
+Examples:
 
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
-
+\begin{tcolorbox}[colback=gray!10!white]
 Credit information derived from: \\
-AFI Catalog of Feature Films: 1930-1939. \\
-\\
-Title derived from film opening credits.
+AFI Catalog of Feature Films: 1930-1939.
+\end{tcolorbox}
+```
 
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Title derived from film opening credits.
 \end{tcolorbox}
 ```
 

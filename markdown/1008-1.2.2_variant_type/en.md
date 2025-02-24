@@ -1,4 +1,8 @@
-# 1.2.2 Variant Type^[EN 15907, 4.2.2 Attributes of a Variant, variant type; YCR, 2.1.1 Nature of modification (change in content) of expression, p. 48] {#manual-1.2.2}
+
+\subsection{1.2.2 Variant Type}
+
+
+1.2.2 Variant Type^[EN 15907, 4.2.2 Attributes of a Variant, variant type; YCR, 2.1.1 Nature of modification (change in content) of expression, p. 48] {#manual-1.2.2}
 
 Identify and describe the kind of change from a Work that gives rise to any instance(s) of a Variant.
 Selection should be made from a controlled list of values.

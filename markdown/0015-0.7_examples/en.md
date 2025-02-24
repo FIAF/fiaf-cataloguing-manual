@@ -1,4 +1,4 @@
-# 0.7 Examples {#manual-0.7}
+\subsection{0.7 Examples}
 
 The examples given throughout the guidelines are illustrative and not prescriptive (unless stated otherwise).
 They follow The Chicago manual of style^[University of Chicago. 2003. The Chicago manual of style. Chicago, Ill: University of Chicago Press.] for the sake of consistency.

@@ -1,4 +1,4 @@
-# 3.1.2 Title {#manual-3.1.2}
+\subsection{4.1.2 Title}
 
 Record at least one title, identifying phrase, or name for the moving image Item Title.
 

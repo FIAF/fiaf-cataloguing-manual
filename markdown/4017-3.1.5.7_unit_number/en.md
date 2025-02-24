@@ -1,4 +1,4 @@
-# 3.1.5.7 Unit number {#manual-3.1.5.7}
+\subsection{4.1.5.7 Unit number}
 
 For full instructions see [2.3.5.1 Logical extent of a Manifestation](#manual-2.3.5.1)
 

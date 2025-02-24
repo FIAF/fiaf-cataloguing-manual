@@ -1,4 +1,5 @@
-# 3.1.5.1 Carrier Type {#manual-3.1.5.1}
+\subsection{4.1.5.1 Carrier Type}
+
 
 Carrier type is the medium on or the encoding format in which the Item is fixed.
 

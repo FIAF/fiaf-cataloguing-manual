@@ -1,4 +1,4 @@
-# 2.4.2 Events {#manual-2.4.2}
+\subsection{3.4.2 Events}
 
 An Event characterises occurrences in the life cycle of a moving image Manifestation.
 Instances of any Event type can have Agent and “Other” relationships.

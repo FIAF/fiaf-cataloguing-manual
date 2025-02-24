@@ -1,4 +1,4 @@
-# 1.3.4.2 Date Precision {#manual-1.3.4.2}
+\subsection{1.3.4.2 Date Precision}
 
 Where possible, provide a “Date Precision” qualifier to note if the date is precise, approximate, estimated, or a range.
 EDTF also provides codes to denote precision.
@@ -126,29 +126,7 @@ Decade 1910
 
 \end{tcolorbox}
 ```
-1971 or 1972 One year or the other
 
-[1969?] Probable Year
-
-1969?
-
-Circa 1969 (with qualifying note to indicate date is probably 1969)
-
-[Circa 1960] Approximate Year
-
-Circa 1960
-
-1960 circa
-
-191- Decade certain
-
-Decade 1910
-
-1910 decade 
-
-[191-?] Probable decade
-
-1910 decade (with qualifying note to indicate that date is probable decade date)
 
 Decade 1910 (as above)
 

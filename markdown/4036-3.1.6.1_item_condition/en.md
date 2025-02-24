@@ -1,4 +1,4 @@
-# 3.1.6.1 Item condition {#manual-3.1.6.1}
+\subsection{4.1.6.1 Item condition}
 
 Observations about conditions will typically happen in the course of an Event such as inspection of an Item.
 These observations should aim to be as clear and concise as possible, avoiding abbreviations and initials, and as far as possible using controlled vocabulary.

@@ -1,4 +1,5 @@
-# 1. Moving Image Works and Variants 
+\section{1. Moving Image Works}
+
 
 [1.0 Definitions](#manual-1.0)       
 &nbsp;&nbsp;&nbsp;&nbsp;[1.0.1 Moving Image Work](#manual-1.0.1)        
@@ -33,7 +34,11 @@
 
 \newpage
 
-# 1.0 Definitions ^[For a discussion of other definitions of the “Work” and Variant entities, see [F.3 Relationship of FIAF Cataloguing Rules to Functional Requirements of Bibliographic Records](#manual-F.3)
+\subsection{1.0 Definition}
+
+
+
+1.0 Definitions ^[For a discussion of other definitions of the “Work” and Variant entities, see [F.3 Relationship of FIAF Cataloguing Rules to Functional Requirements of Bibliographic Records](#manual-F.3)
 ] {#manual-1.0}
 
 Brief definitions of the standard CEN terms Work/Variant/Manifestation/Item used in the Manual were provided at the end of the Introduction (see [Introduction](#manual-introduction)).

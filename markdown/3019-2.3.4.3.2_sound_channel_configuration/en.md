@@ -1,4 +1,4 @@
-# 2.3.4.3.2 Sound Channel Configuration {#manual-2.3.4.3.2}
+\subsection{3.3.4.3.2 Sound Channel Configuration}
 
 If the Manifestation has sound, note here the track configuration (e.g., mono, stereo, etc.).
 Selection should be made from a controlled list of terms.

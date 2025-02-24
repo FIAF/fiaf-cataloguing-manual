@@ -1,4 +1,4 @@
-# 2.1.1 Changes in the publication context {#manual-2.1.1}
+\subsection{3.1.1 Changes in the publication context}
 
 If the embodiment of a Work/Variant involves contextual changes, related to the publication or release process, the resulting product is a new Manifestation, e.g., a change from theatrical release to home video distribution; a change of release country and different dubbed/subtitled language; a change of broadcast company/streaming platform; a re-release or repeat broadcast on a different date, etc.
 

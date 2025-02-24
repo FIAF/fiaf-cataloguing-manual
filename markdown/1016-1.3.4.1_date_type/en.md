@@ -1,4 +1,4 @@
-# 1.3.4.1 Date Type {#manual-1.3.4.1}
+\subsection{1.3.4.1 Date Type}
 
 The year or date should be associated with an event in the life cycle of the Work or its Variants (see [1.4.2 Events](#manual-1.4.2)).
 If your system supports it, apply a “Date Type” qualifier to make the date or year purpose clear.

@@ -1,4 +1,4 @@
-# 1.1.3 Boundaries between Variants {#manual-1.1.3}
+\subsection{1.1.3 Boundaries between Variants}
 
 It is possible for a moving image Variant to be modified in such a way as to create a new Variant related to the previous one.[^36] The boundaries between one Variant and an-
 other may be drawn on the basis of the following alterations to the content:[^37]

@@ -1,4 +1,4 @@
-# 3.1.5.9 Projection characteristics {#manual-3.1.5.9}
+\subsection{4.1.5.9 Projection characteristics}
 
 For full instructions, see [2.3.4.2 Projection characteristics of a Manifestation](#manual-2.3.4.2)
 

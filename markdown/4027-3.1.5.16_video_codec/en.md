@@ -1,4 +1,4 @@
-# 3.1.5.16 Video Codec {#manual-3.1.5.16}
+\subsection{4.1.5.16 Video Codec}
 
 The video compression standard used in the digital video Item, for example, D10, MP4, etc.
 

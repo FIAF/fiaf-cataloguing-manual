@@ -1,4 +1,4 @@
-# 3.1.5.5 Sound System {#manual-3.1.5.5}
+\subsection{4.1.5.5 Sound System}
 
 See also [2.3.4.3 Sound characteristics of a Manifestation](#manual-2.3.4.3)
 

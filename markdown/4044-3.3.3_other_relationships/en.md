@@ -1,4 +1,4 @@
-# 3.3.3 Other Relationships {#manual-3.3.3}
+\subsection{4.3.3 Other Relationships}
 
 Express relationships that are not covered by the Agent and Event relationships.
 These may include compilations of convenience, i.e. where an institution has transferred copies

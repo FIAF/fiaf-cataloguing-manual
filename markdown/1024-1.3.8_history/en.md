@@ -1,4 +1,4 @@
-# 1.3.8 History {#manual-1.3.8}
+\subsection{1.3.8 History}
 
 Record historical information about events of interest in the creation of the original moving image Work/Variant that is of value for your users, such as censorship history, production versions, and the like.
 This historical information may be recorded in association with instances of Events or Agents.

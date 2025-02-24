@@ -1,4 +1,4 @@
-# 1.3.4 Year/Date of reference {#manual-1.3.4}
+\subsection{1.3.4 Year/Date of reference}
 
 A year or fuller date (e.g., day/month/year) is essential to identifying a moving image Work and, where applicable, its Variants.
 A common use of year/date is chronological ordering of lists of Works and their Variants.^[EN 15907, 6.6 Year of Reference, p. 20] 

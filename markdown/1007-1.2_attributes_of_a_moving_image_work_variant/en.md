@@ -1,6 +1,9 @@
-# 1.2 Attributes of a Moving Image Work/Variant {#manual-1.2}
+\subsection{1.2 Attributes of a Moving Image Work/Variant}
 
-# 1.2.1 Work/Variant Description Type ^[EN 15907, 4.1.2 Attributes—description Level, p. 8; BFI CID Stylistics Manual, A.1.3 Filmographic Level, pp. 7-8]
+\subsection{1.2.1 Work/Variant Description Type}
+
+
+1.2.1 Work/Variant Description Type ^[EN 15907, 4.1.2 Attributes—description Level, p. 8; BFI CID Stylistics Manual, A.1.3 Filmographic Level, pp. 7-8]
 
 The description type establishes the general focus of the Work being catalogued, whether it is a complete Work in one part, a Work made up of several parts, or a physical group or collection of Works.
 Providing this information helps the cataloguer and user understand the context of the Work/Variant being described, and whether it has any relationships with other Works/Variants.

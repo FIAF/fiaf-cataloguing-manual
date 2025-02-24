@@ -1,4 +1,7 @@
-# 2.3.5.3 Duration of a Manifestation[^100] {#manual-2.3.5.3}
+\subsection{3.3.5.3 Duration of a Manifestation}
+
+
+[^100] {#manual-2.3.5.3}
 
 This is the total duration/running time under normal or specific playback conditions (e.g. a specific frame rate).
 It represents the concept of “ideal” duration/running time (i.e., the duration reported on the moving image Manifestation itself – i.e., on the container, on the accompanying material, on the wrapper of metadata in a digital file or reported by authoritative secondary sources such as filmographies, censorship visas, etc.).

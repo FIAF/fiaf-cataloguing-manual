@@ -1,4 +1,5 @@
-# 3.1.5 Item Specifics/Extent (e.g. physical/Digital description) {#manual-3.1.5}
+\subsection{4.1.5 Item Specifics/Extent (e.g. physical/Digital description)}
+
 
 All moving image Item descriptions should contain details of the physical/digital characteristics of the Items, their location, treatment and condition.
 

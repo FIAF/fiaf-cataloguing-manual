@@ -1,4 +1,4 @@
-# 0.6 Abbreviations {#manual-0.6}
+\subsection{0.6 Abbreviations}
 
 For transcribed data elements, transcribe abbreviations as found.
 For all other elements, generally do not abbreviate words.

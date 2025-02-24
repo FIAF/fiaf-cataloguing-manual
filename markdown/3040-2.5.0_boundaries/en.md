@@ -1,4 +1,4 @@
-# 2.5 Boundaries between Manifestations and Events {#manual-2.5}
+\subsection{3.5 Boundaries between Manifestations and Events}
 
 As mentioned previously, there is no rule within EN15907 as to the categories of Manifestation Type there can be, only that its values come from a controlled vocabulary list. The only one stipulated value that exists is that of a category of ‘Unknown’.
 

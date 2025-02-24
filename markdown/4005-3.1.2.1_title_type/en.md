@@ -1,4 +1,4 @@
-# 3.1.2.1 Title Type {#manual-3.1.2.1}
+\subsection{4.1.2.1 Title Type}
 
 Items can have more than just the title transcribed from the opening credits.
 There can be title information written on leader, cans, and video containers.

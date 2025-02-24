@@ -1,4 +1,4 @@
-# 1.4.1.1 Agent Activity {#manual-1.4.1.1}
+\subsection{1.4.1.1 Agent Activity}
 
 This describes the activity or role of the Agent in relation to the moving image Work/Variant (e.g. credit terms).
 

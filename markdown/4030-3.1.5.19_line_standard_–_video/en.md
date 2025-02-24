@@ -1,4 +1,4 @@
-# 3.1.5.19 Line standard – Video {#manual-3.1.5.19}
+\subsection{4.1.5.19 Line standard – Video}
 
 Describes the number of scan lines which make up the image and indicates the res- olution, for example, 405, 525, 1080.
 Selection should be made from a controlled list of terms.

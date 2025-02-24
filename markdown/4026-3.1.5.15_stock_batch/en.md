@@ -1,4 +1,4 @@
-# 3.1.5.15 Stock batch {#manual-3.1.5.15}
+\subsection{4.1.5.15 Stock batch}
 
 The stock batch number of the media the Item is captured on.
 This can be a video, audio, optical media, or digital tape stock.

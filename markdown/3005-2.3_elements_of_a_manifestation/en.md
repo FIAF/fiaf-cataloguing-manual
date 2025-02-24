@@ -1,6 +1,6 @@
-# 2.3 Elements of a Manifestation {#manual-2.3}
+\subsection{3.3 Elements of a Manifestation}
 
-# 2.3.1 Identifier
+\subsection{3.3.1 Identifier}
 
 Create an unambiguous reference to the Manifestation, such as a specific standard number issued by an official body (i.e.
 V-ISAN^[The V-ISAN represents the third segment of the ISAN number, which consists of a 96-bits number structured as follows: the first is the root, which identifies the work, the second is the episode section, which identifies the part within a multi-part work, the third is the so-called version section, which identifies variants and Manifestations (particularly as far as format changes and “media embodiments”, such as Blu-Ray, digital files, tapes, etc.., are concerned): see [http://www.isan.org/docs/isan_user_guide.pdf](http://www.isan.org/docs/isan_user_guide.pdf), Version 2.2.2. February 2012, 13/49.] or DOI^[DOI (= Digital Object Identifier): see [http://www.doi.org/](http://www.doi.org/).]), or a system-automated assigned ID number.
