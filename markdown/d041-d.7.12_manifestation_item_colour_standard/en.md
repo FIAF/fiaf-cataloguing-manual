@@ -1,4 +1,4 @@
-# D.7.12 Manifestation/Item Colour Standard {#manual-D.7.12}
+\subsection{D.7.12 Manifestation/Item Colour Standard}
 
 Pathécolor
 Technicolor

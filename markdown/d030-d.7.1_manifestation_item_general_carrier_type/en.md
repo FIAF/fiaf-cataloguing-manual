@@ -1,4 +1,4 @@
-# D.7.1 Manifestation/Item General Carrier Type {#manual-D.7.1}
+\subsection{D.7.1 Manifestation/Item General Carrier Type}
 
 Film
 Video Tape

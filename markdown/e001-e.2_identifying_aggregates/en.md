@@ -1,6 +1,6 @@
-# E.2 Identifying Aggregates {#manual-E.2}
+\subsection{E.2 Identifying Aggregates}
 
-# E.2.1 Aggregate or Carrier
+\subsection{E.2.1 Aggregate or Carrier}
 
 It is important to distinguish between actual intended compilation or multi-component moving images, e.g. Victorian cinema no. 8 (containing various short films from the 1890s edited together onto a new reel for a particular theatrical showing or publication), and an unintentional compilation, reflecting simple use of a single carrier, i.e. two short Charlie Chaplin films that happen to be acquired on one reel or transferred onto one tape for storage convenience.
 

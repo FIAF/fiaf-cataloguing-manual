@@ -1,4 +1,6 @@
-# D.4.6 Decision[^212] {#manual-D.4.6}
+\subsection{D.4.6 Decision}
+
+[^212] {#manual-D.4.6}
 
 A Decision Event is an event in which a Manifestation of a certain Work/Variant is evaluated by a censorship body or an accredited rating agency.
 

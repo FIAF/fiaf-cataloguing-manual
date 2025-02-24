@@ -1,4 +1,4 @@
-# A.2.6 Titles of series/serials {#manual-A.2.6}
+\subsection{A.2.6 Titles of series/serials}
 
 The guidelines and principles laid out in this section can be applicable across all the categories of Works, Variants, Manifestations and Items (WVMI).
 

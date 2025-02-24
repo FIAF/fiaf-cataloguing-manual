@@ -1,4 +1,4 @@
-# D.7 Manifestation/Item Physical Description {#manual-D.7}
+\subsection{D.7 Manifestation/Item Physical Description}
 
 Many of the physical description elements are considered specific to Manifestations and are inherited properties of the Items associated with the Manifestations.
 This approach is recommended where possible so that the data only need be captured once in order to eliminate redundancies.

@@ -1,4 +1,4 @@
-# A.2.6.2 Episodes of a series/serial with no individual title or numbered parts {#manual-A.2.6.2}
+\subsection{A.2.6.2 Episodes of a series/serial with no individual title or numbered parts}
 
 For episodes of a series/serial that have neither individual episode titles nor numbered parts, a date can be added to the title field, with the option of utilising square brackets for clarity.
 It is recommended to use the release/production/transmission date of the Manifestation to which the Item or Work/Variant pertains.

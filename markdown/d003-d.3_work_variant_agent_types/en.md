@@ -1,4 +1,6 @@
-# D.3 Work/Variant Agent Types[^202] {#manual-D.3}
+\subsection{D.3 Work/Variant Agent Types}
+
+[^202] {#manual-D.3}
 
 Examples:
 

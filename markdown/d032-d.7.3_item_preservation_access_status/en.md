@@ -1,4 +1,4 @@
-# D.7.3 Item Preservation/Access status {#manual-D.7.3}
+\subsection{D.7.3 Item Preservation/Access status}
 
 Master   
 Viewing   

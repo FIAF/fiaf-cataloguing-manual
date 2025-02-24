@@ -1,4 +1,4 @@
-# E.2.2 “Hybrid” Aggregates and multi-component moving images (e.g. Anthology/Portmanteau films or TV programmes) {#manual-E.2.2}
+\subsection{E.2.2 “Hybrid” Aggregates and multi-component moving images (e.g. Anthology/Portmanteau films or TV programmes)}
 
 Multi-component Works are ones conceived and created from their inception to consist of multiple individual components that make up a whole, for example anthologies, portmanteau films and television programmes (e.g., Dead of night, Quartet, From beyond the grave).
 

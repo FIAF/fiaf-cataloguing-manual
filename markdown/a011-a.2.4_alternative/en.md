@@ -1,4 +1,6 @@
-# A.2.4 Alternative[^145] {#manual-A.2.4}
+\subsection{A.2.4 Alternative}
+
+[^145] {#manual-A.2.4}
 
 Ensures that users can search under any variation of the title that has been used for a Work, Variant, Manifestation or Item, and be led to the content or particular physical object that they seek.
 

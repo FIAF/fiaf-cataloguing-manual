@@ -1,6 +1,6 @@
-# D.17 Other Relationships for Works, Variants, Manifestations, Items {#manual-D.17}
+\subsection{D.17 Other Relationships for Works, Variants, Manifestations, Items}
 
-# D.17.1 Work/Variant Other Relationship Types
+\subsection{D.17.1 Work/Variant Other Relationship Types}
 
 | Work/Variant Other Relationship Types | Term list |
 | --- | --- |

@@ -1,7 +1,7 @@
-# D.15 Manifestation/Item Acquisition, Accessioning and Source {#manual-D.15}
+\subsection{D.15 Manifestation/Item Acquisition, Accessioning and Source}
 
 
-# D.15.1 Item Acquisition type
+\subsection{D.15.1 Item Acquisition type}
 
 * Donation
 * Exchange

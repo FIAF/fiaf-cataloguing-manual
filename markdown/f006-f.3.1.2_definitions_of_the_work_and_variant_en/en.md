@@ -1,4 +1,4 @@
-# F.3.1.2 Definitions of the “Work” and ”Variant” Entities {#manual-F.3.1.2}
+\subsection{F.3.1.2 Definitions of the “Work” and ”Variant” Entities}
 
 The FIAF Cataloguing and Documentation Commission has chosen to model this manual on definitions of “Work” and “Variant” adopted by the European Standards Committee, rather than the FRBR and RDA definitions of “Work” and “Expression,” to make these concepts more practical for describing moving images.
 FRBR and RDA consider “works” and “expressions” to be abstract entities that only acquire physical characteristics at the “manifestation or “item” level.

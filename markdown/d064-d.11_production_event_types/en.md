@@ -1,4 +1,4 @@
-# D.11 Production Event Types {#manual-D.11}
+\subsection{D.11 Production Event Types}
 
 * Casting
 * Outdoor shooting

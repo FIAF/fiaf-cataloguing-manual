@@ -1,4 +1,4 @@
-# D.7.17 Item Bit Depth {#manual-D.7.17}
+\subsection{D.7.17 Item Bit Depth}
 
 10
 16

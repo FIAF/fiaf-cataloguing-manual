@@ -1,4 +1,4 @@
-# D.14 Manifestation Manufacture Types {#manual-D.14}
+\subsection{D.14 Manifestation Manufacture Types}
 
 * Film printing
 * Telecine

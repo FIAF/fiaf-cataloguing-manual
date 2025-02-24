@@ -1,4 +1,4 @@
-# B.4 Relationships {#manual-B.4}
+\subsection{B.4 Relationships}
 
 **Agent**
 

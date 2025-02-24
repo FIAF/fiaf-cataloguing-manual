@@ -1,4 +1,4 @@
-# D.16.2 Item Copy Condition Perforations – Film {#manual-D.16.2}
+\subsection{D.16.2 Item Copy Condition Perforations – Film}
 
 Foil Patches
 Torn

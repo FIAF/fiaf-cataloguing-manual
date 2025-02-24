@@ -1,4 +1,4 @@
-# E.3.3 Parallel Aggregates {#manual-E.3.3}
+\subsection{E.3.3 Parallel Aggregates}
 
 Identical moving image Works/Variants but in different languages released on one Manifestation.
 

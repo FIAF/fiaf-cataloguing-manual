@@ -1,5 +1,5 @@
 \newpage
-# E.5.1.3 Model: Collection Aggregate Manifestation with no aggregated Item, only unaggregated individual Items {#manual-E.5.1.3}
+\subsection{E.5.1.3 Model: Collection Aggregate Manifestation with no aggregated Item, only unaggregated individual Items}
 
 This model involves creation of a new aggregating Work record.
 

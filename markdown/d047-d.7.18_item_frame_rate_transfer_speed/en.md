@@ -1,4 +1,4 @@
-# D.7.18 Item Frame Rate/Transfer Speed {#manual-D.7.18}
+\subsection{D.7.18 Item Frame Rate/Transfer Speed}
 
 16fps
 23.98 fps

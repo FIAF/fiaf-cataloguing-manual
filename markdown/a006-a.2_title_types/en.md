@@ -1,4 +1,4 @@
-# A.2 Title Types {#manual-A.2}
+\subsection{A.2 Title Types}
 
 This manual recommends a title + title type approach for the treatment of various titles that may be associated with any Moving Image Work, Variant, Manifestation or Item (WVMI).
 
@@ -30,7 +30,7 @@ Primary Title Types [^131]
 [^130]: FIAF Cataloguing Rules, p. xiii
 [^131]: For simplicity’s sake, this table does not present sub-types of Title Types, i.e., sub-types of Alternative and Supplied/Devised titles. Suggested sub-types and definitions can be found under the headings for the primary Title Types.
 
-# A.2.0 Preferred
+\subsection{A.2.0 Preferred}
 
 The title of a moving image Work or Variant when first released, broadcast, published or transmitted (i.e. mounted online) in the country or countries of origin ( see [1.3.3 Country of reference](#manual-1.3.3).
 

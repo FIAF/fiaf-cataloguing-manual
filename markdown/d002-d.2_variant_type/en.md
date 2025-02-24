@@ -1,4 +1,7 @@
-# D.2 Variant Type[^201] {#manual-D.2}
+\subsection{D.2 Variant Type}
+
+
+[^201] {#manual-D.2}
 
 * Censored
 * Dubbed

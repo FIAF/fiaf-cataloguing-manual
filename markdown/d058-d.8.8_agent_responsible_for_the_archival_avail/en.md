@@ -1,4 +1,4 @@
-# D.8.8 Agent responsible for the archival availability {#manual-D.8.8}
+\subsection{D.8.8 Agent responsible for the archival availability}
 
 (Optionally, this information can be specified directly at the Item level)
 

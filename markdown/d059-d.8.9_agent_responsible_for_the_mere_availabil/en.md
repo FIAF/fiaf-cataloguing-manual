@@ -1,4 +1,4 @@
-# D.8.9 Agent responsible for the mere availability {#manual-D.8.9}
+\subsection{D.8.9 Agent responsible for the mere availability}
 
 (Optionally, this information can be specified directly at the Item level)
 

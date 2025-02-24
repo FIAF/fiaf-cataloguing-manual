@@ -1,4 +1,4 @@
-# Appendix D, Value Lists {#manual-D}
+\section{Appendix D, Value Lists}
 
 The value lists provided in this appendix are not definitive and are usually limited to a minimum of five examples if more comprehensive lists are available.
 If no pre-existing and authoritative lists are available, a non-exhaustive but more comprehensive set of terms is provided.[^198] The example terms have come from a variety of institutions.

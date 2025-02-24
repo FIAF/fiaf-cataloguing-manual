@@ -1,7 +1,7 @@
 \newpage
-# Appendix A, Titles and Title Types {#manual-A}
+\section{Appendix A, Titles and Title Types}
 
-# A.1 Title
+\subsection{A.1 Title}
 
 The following general guidelines for recording Titles largely apply across all the WVMI (Work, Variant, Manifestation, Item) entities, and all Title Types.
 Certain guidelines are specified as applying to one or more of the WVMI entities where pertinent.

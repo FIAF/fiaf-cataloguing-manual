@@ -1,4 +1,4 @@
-# D.7.4 Manifestation/Item Sound Type {#manual-D.7.4}
+\subsection{D.7.4 Manifestation/Item Sound Type}
 
 Sound  
 Silent  

@@ -1,4 +1,4 @@
-# D.7.16 Item Stock {#manual-D.7.16}
+\subsection{D.7.16 Item Stock}
 
 This is a preliminary list, and not exhaustive.
 

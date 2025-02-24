@@ -1,4 +1,4 @@
-# D.8.11 Agent not identified {#manual-D.8.11}
+\subsection{D.8.11 Agent not identified}
 
 (Optionally, this information can be specified directly at the Item level)
 

@@ -1,4 +1,4 @@
-# D.13 Manifestation Decision Types {#manual-D.13}
+\subsection{D.13 Manifestation Decision Types}
 
 Censorship
 Revision

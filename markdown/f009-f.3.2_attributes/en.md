@@ -1,4 +1,4 @@
-# F.3.2 Attributes {#manual-F.3.2}
+\subsection{F.3.2 Attributes}
 
 This manual provides a granular nomenclature for describing the attributes of the moving image entities, Work, Variant, Manifestation and Item (WVMI).
 The guidelines do not specify the attributes for entities related to the WVMI entities, for example, Agents (i.e., Persons, Families, Corporate Bodies, etc.).

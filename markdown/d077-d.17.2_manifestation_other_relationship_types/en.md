@@ -1,4 +1,4 @@
-# D.17.2 Manifestation Other Relationship Types {#manual-D.17.2}
+\subsection{D.17.2 Manifestation Other Relationship Types}
 
 | Other Relationship Types (strictly pertaining to the Manifestation) | Term list |
 | --- | --- |

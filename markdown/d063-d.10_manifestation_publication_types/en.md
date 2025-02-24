@@ -1,4 +1,4 @@
-# D.10 Manifestation Publication Types {#manual-D.10}
+\subsection{D.10 Manifestation Publication Types}
 
 * Release
 * Publication

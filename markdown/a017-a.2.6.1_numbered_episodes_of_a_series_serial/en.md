@@ -1,4 +1,4 @@
-# A.2.6.1 Numbered episodes of a series/serial {#manual-A.2.6.1}
+\subsection{A.2.6.1 Numbered episodes of a series/serial}
 
 With series/serials that contain episode or part numbers and individual episode titles the same principles apply.
 The preferred title/title proper of the WVMI may incorporate all these for clarity and retrieval purposes, or an institution’s systems may allow for use of the episode title combined with separate specific Part field(s) for parts and numbers, or both.

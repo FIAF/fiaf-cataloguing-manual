@@ -1,5 +1,5 @@
 \newpage
-# Appendix B, Cataloguer’s Notes {#manual-B}
+\section{Appendix B, Cataloguer’s Notes}
 
 A cataloguer’s note is any annotation that might be helpful to those using or revising the cataloguing data.
 It includes information that does not readily fit into dedicated fields or other areas of the description.

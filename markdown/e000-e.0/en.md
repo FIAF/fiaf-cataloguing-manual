@@ -1,6 +1,6 @@
-# Appendix E, Aggregates (Compilations, Multi-component productions) {#manual-E}
+\section{Appendix E, Aggregates (Compilations, Multi-component productions)}
 
-# E.1 Definition
+\subsection{E.1 Definition}
 
 A moving image aggregate is a Manifestation embodying two or more distinct Works/Variants.[^222]
 

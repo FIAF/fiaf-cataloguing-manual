@@ -1,4 +1,4 @@
-# D.7.6 Manifestation Unit Types {#manual-D.7.6}
+\subsection{D.7.6 Manifestation Unit Types}
 
 Reel
 Roll

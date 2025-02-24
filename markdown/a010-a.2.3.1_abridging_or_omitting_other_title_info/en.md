@@ -1,4 +1,4 @@
-# A.2.3.1 Abridging or omitting other title information {#manual-A.2.3.1}
+\subsection{A.2.3.1 Abridging or omitting other title information}
 
 If other title information is lengthy or of very minor importance, either give it in a note or omit it.
 See Appendix B, Cataloguer’s Notes.

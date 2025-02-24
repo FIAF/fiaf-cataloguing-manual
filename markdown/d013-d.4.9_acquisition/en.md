@@ -1,4 +1,4 @@
-# D.4.9 Acquisition {#manual-D.4.9}
+\subsection{D.4.9 Acquisition}
 
 The acquisition of a particular Item for an institution’s collection.
 

@@ -1,4 +1,4 @@
-# F.3.1.4. Boundaries between entities {#manual-F.3.1.4.}
+\subsection{F.3.1.4 Boundaries between entities}
 
 The traditional practice within moving image archives of incorporating variation information into a record enabled this one record to carry within it all the details relative to the differing components of a whole.[^239] Within the framework of the FRBR and RDA models, and the EN 15907 schema, the work record represents this “one record,” incorporating certain descriptive details, but the placement of the variation information changes.
 Different editions, versions, or variations are represented by the variant and manifestation entities, and the differences are recorded at the appropriate level or on the particular entity record, or designated in some way as belonging to the specific entity.

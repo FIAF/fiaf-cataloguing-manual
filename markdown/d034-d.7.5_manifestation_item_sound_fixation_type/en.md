@@ -1,4 +1,4 @@
-# D.7.5 Manifestation/Item Sound Fixation Type {#manual-D.7.5}
+\subsection{D.7.5 Manifestation/Item Sound Fixation Type}
 
 Needle sound
 Optical

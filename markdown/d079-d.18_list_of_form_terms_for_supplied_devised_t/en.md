@@ -1,4 +1,7 @@
-# D.18 List of form terms for Supplied/Devised titles[^221] {#manual-D.18}
+\subsection{D.18 List of form terms for Supplied/Devised titles}
+
+
+[^221] {#manual-D.18}
 
 | FORM TERM | USE | EXAMPLES |
 | --- | --- | --- |

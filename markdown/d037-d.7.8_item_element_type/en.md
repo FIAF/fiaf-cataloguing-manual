@@ -1,4 +1,4 @@
-# D.7.8 Item Element Type {#manual-D.7.8}
+\subsection{D.7.8 Item Element Type}
 
 Colour Positive
 Colour Negative

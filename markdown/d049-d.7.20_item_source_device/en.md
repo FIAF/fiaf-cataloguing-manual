@@ -1,4 +1,4 @@
-# D.7.20 Item Source Device {#manual-D.7.20}
+\subsection{D.7.20 Item Source Device}
 
 Examples of hardware required to play the source item.
 

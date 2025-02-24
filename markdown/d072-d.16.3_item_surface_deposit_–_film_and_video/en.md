@@ -1,4 +1,4 @@
-# D.16.3 Item Surface Deposit – Film and Video {#manual-D.16.3}
+\subsection{D.16.3 Item Surface Deposit – Film and Video}
 
 Mould
 Rust
