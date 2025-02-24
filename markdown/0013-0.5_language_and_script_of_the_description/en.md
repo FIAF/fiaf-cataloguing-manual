@@ -13,10 +13,10 @@ Use a recognised standard for transliteration such as [ISO 9 for Cyrillic charac
 Give an explanatory note for the addition, if necessary.
 Optionally, enclose the cataloguer’s description in square brackets.
 
-    Example:
-
-    Original Chinese Title: 精武英雄    
-    Transliterated Pinyin Title: Jīng wǔ yīngxióng    
-    English Translated Title: Fist of Legend
-
-
+```{=latex}
+\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
+    Original Chinese Title: 精武英雄    \\
+    Transliterated Pinyin Title: Jīng wǔ yīngxióng    \\
+    English Translated Title: Fist of Legend 
+\end{tcolorbox}
+```

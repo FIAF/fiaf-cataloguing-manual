@@ -1,4 +1,4 @@
-# 1.0.2 Moving Image Variant (i.e., Versions) [^30] {#manual-1.0.2}
+# 1.0.2 Moving Image Variant (i.e., Versions) ^[Adapted from EN 15907, 4.2 Variant] {#manual-1.0.2}
 
 A moving image Variant is an entity that may be used to indicate any change to content-related characteristics that do not significantly change the overall content of a Work as a whole.
 Such Variants can be produced by minor additions, deletions or substitutions to the content.

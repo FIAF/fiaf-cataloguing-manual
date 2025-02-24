@@ -13,19 +13,19 @@ While the guidelines permit both cases, it is recommended where permitted now or
 Leading articles should ideally be placed in separate fields in keeping with the way systems are being developed for alphabetical sorting.
 Alternatively some systems (for example, those containing MARC21 records) indicate the number of non-filing characters to skip in alphabetization.
 
-Examples:
-
-```
-Alternative practices | ISBD practice:    
-Die Hard | Die hard    
-Die DREIGROSCHENOPER | Die Dreigroschenoper    
-LES PATTERSON SAVES THE WORLD | Les Patterson saves the world     
-Les MISERABLES | Les miserables    
-American in Paris, An | An American in Paris    
-
-MARC21 tag example:
-
+```{=latex}
+\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
+Alternative practices | ISBD practice:   \\ 
+Die Hard | Die hard    \\
+Die DREIGROSCHENOPER | Die Dreigroschenoper    \\
+LES PATTERSON SAVES THE WORLD | Les Patterson saves the world     \\
+Les MISERABLES | Les miserables    \\
+American in Paris, An | An American in Paris    \\
+\\
+MARC21 tag example:\\
+\\
 245 03 An American in Paris
+\end{tcolorbox}
 ```
 
 

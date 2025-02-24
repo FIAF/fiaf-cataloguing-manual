@@ -1,3 +1,4 @@
+\newpage
 # Introduction {#manual-introduction}
 
 The archival moving image field has changed dramatically in recent years, with technological advances revolutionising cataloguing, preservation, and access practices.
@@ -11,13 +12,13 @@ It reflects current and recommended cataloguing practices at international film 
 
 The cataloguing of moving images encompasses the complex, professional tasks of gathering and arranging data within systems upon which an institution depends.
 Indeed, accurate, well-organised descriptions of both filmographic and technical information about an institution’s collection serve as the basis for informed internal use such as preservation, collections development, and outreach or exhibition.
-They further constitute the key to accessing collections by external users such as scholars, researchers and the general public – both now and for future generations.[^1]
+They further constitute the key to accessing collections by external users such as scholars, researchers and the general public – both now and for future generations.^[FIAF, 1991, p. ix.]
 
 Cataloguing archival moving images combines general archival processing methodologies and traditional library cataloguing.
 The process of archiving moving images applies practices held in common with archiving other materials such as papers and manuscripts.
 The materials’ origin or provenance is a key element to understanding their significance.
 Their historical context shows their relationship(s) to other works and, in cases of works with multiple manifestations, the development of individual works.
-Knowledge of this historical context and development of materials can be useful in their preservation.[^2] An attempt has been made throughout the guidelines to address capturing provenance and preservation information.
+Knowledge of this historical context and development of materials can be useful in their preservation.^[Adapted from AMIM2, p.1.] An attempt has been made throughout the guidelines to address capturing provenance and preservation information.
 
 This manual is intended to address some of the limitations moving image archives face when using guidelines and systems developed primarily for general libraries.
 
@@ -31,9 +32,9 @@ The FIAF Manual is intended to provide guidance in creating metadata or catalogu
 This revision of the 1991 guidelines recognises that institutions use a variety of systems and data structures and may find it difficult to implement far-ranging changes in their cataloguing practices.
 The revisions suggested in this manual will help archives harmonise their practices with related standards, models, and schema, including:
 
-1. The conceptual model Functional Requirements for Bibliographic Records (FRBR), published in 1998 by the International Federation of Libraries Association. FRBR is one of the models underlying RDA: Resource Description and Access[^3], and it provides “a framework that identifies and clearly defines the entities of interest to users of bibliographic records, the attributes of each entity, and the types of relationships that operate between entities.”[^4]
+1. The conceptual model Functional Requirements for Bibliographic Records (FRBR), published in 1998 by the International Federation of Libraries Association. FRBR is one of the models underlying RDA: Resource Description and Access^[The other two conceptual models are FRAD (Functional Requirements for Authority Data), [http://www.ifla.org/node/7923](http://www.ifla.org/node/7923) and FRSAD Functional Requirements for Subject Authority Data, [http://www.ifla.org/node/1297](http://www.ifla.org/node/1297).], and it provides “a framework that identifies and clearly defines the entities of interest to users of bibliographic records, the attributes of each entity, and the types of relationships that operate between entities.”^[FRBR Final Reports, p. 3.]
     
-2. RDA: Resource Description and Access (RDA), co-published in 2010 by the American Library Association, the Canadian Library Association, and Chartered Institute of Library and Information Professionals. RDA was developed as a new standard for resource description and access designed for the digital world, and applies FRBR concepts and terminologies. It is intended to eventually supplant Anglo-American Cataloguing Rules (AACR2), which has been the descriptive cataloguing standard in English-speaking communities since the 1960s. Like AACR2, RDA covers all types of content and media.[^5]
+2. RDA: Resource Description and Access (RDA), co-published in 2010 by the American Library Association, the Canadian Library Association, and Chartered Institute of Library and Information Professionals. RDA was developed as a new standard for resource description and access designed for the digital world, and applies FRBR concepts and terminologies. It is intended to eventually supplant Anglo-American Cataloguing Rules (AACR2), which has been the descriptive cataloguing standard in English-speaking communities since the 1960s. Like AACR2, RDA covers all types of content and media.^[RDA 0.0 and 0.1, p. 0-1.]
 
 3. The European Standards Committee (CEN) Cinematographic Works Standard (CWS) (EN 15744 and EN 15907). This two-part standard defines the metadata essential for facilitating data exchange between databases and consistent identification of moving images. The metadata schema (EN 15907), which is based in part upon the FRBR conceptual model, was approved in 2010 and disseminated through four workshops held from October 2010 – June 2011. Brief definitions of key elements in the FRBR-based CEN model are at the end of the Introduction.
 
@@ -41,7 +42,7 @@ For further information about the relationship of this set of guidelines to FRBR
 Although these guidelines are structured to correspond closely with the above standards/models/schema, and use associated terminology, note that neither they nor these guidelines are system-specific.
 They cover the fundamentals for cataloguers for the construction and management of data and records in whatever system or standards used by an institution.
 
-While these guidelines are intended to be applicable to all forms of moving image materials, archives with extensive broadcasting collections may wish to look to broadcasting-specific metadata schemas such as EBUCore[^6] and PBCore[^7] for additional guidance.
+While these guidelines are intended to be applicable to all forms of moving image materials, archives with extensive broadcasting collections may wish to look to broadcasting-specific metadata schemas such as EBUCore^[[https://tech.ebu.ch/MetadataEbuCore](https://tech.ebu.ch/MetadataEbuCore)] and PBCore^[[http://pbcore.org/](http://pbcore.org/)] for additional guidance.
 
 
 <u>**FRBR-based CEN Terms in Brief**</u>
@@ -71,13 +72,5 @@ For example: The original release time of a film is 1:30:00, but the Item held a
 The physical product of a Manifestation of a Work or Variant, i.e. the physical copy of a Work or Variant.
 An Item may consist of one or more components, i.e. the whole Item may consist of 1 reel or 5 reels, 2 VHS tapes or 1 DVD.
 An Item record may contain fields or scope for separate barcodes and condition information for each component of the item (each reel for example) if required.The Item may be whole or incomplete or a fragment.
-In the case of purely digital media, an Item is defined as the availability of the computer file, irrespective of the number of backup copies that may exist.[^8]
+In the case of purely digital media, an Item is defined as the availability of the computer file, irrespective of the number of backup copies that may exist.^[Taken from EN15907. Item – Definition from the standard. [http://filmstandards.org/fsc/index.php/EN_15907_Item](http://filmstandards.org/fsc/index.php/EN_15907_Item)]
 
-[^1]: FIAF, 1991, p. ix.
-[^2]: Adapted from AMIM2, p.1.
-[^3]: The other two conceptual models are FRAD (Functional Requirements for Authority Data), [http://www.ifla.org/node/7923](http://www.ifla.org/node/7923) and FRSAD Functional Requirements for Subject Authority Data, [http://www.ifla.org/node/1297](http://www.ifla.org/node/1297).
-[^4]: FRBR Final Reports, p. 3.
-[^5]: RDA 0.0 and 0.1, p. 0-1.
-[^6]: [https://tech.ebu.ch/MetadataEbuCore](https://tech.ebu.ch/MetadataEbuCore)
-[^7]: [http://pbcore.org/](http://pbcore.org/)
-[^8]: Taken from EN15907. Item – Definition from the standard. [http://filmstandards.org/fsc/index.php/EN_15907_Item](http://filmstandards.org/fsc/index.php/EN_15907_Item)
