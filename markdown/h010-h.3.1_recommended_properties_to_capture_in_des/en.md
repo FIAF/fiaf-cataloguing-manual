@@ -1,6 +1,6 @@
-# H.3.1 Recommended properties to capture in describing the rights context of a moving image Item {#manual-H.3.1}
+\subsection{H.3.1 Recommended properties to capture in describing the rights context of a moving image Item}
 
-# H.3.1.2 Acquisition
+\subsection{H.3.1.2 Acquisition}
 
 See also [D.4.9 Acquisition](#manual-D.4.9)
 

@@ -1,4 +1,4 @@
-# Appendix I, Examples of records containing core elements in the different levels of hierarchy {#manual-I}
+\section{Appendix I, Examples of records containing core elements in the different levels of hierarchy}
 
 These include examples of feature films, a documentary, a short fiction film, a home movie, a television series and episode, and an aggregate television DVD and episode.
 It is recognised that field names in different institutions’ systems will not necessarily use identical terms to those of the core concepts or this manual (see [0.2 Core elements of description](#manual-0.2)).

@@ -1,4 +1,4 @@
-# Appendix K. List of Elements {#manual-K}
+\section{Appendix K. List of Elements}
 
 
 

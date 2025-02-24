@@ -1,4 +1,4 @@
-# I.1 Example 1. Feature film in 3-level, 2-level and 1-level hierarchies {#manual-I.1}
+\subsection{I.1 Example 1. Feature film in 3-level, 2-level and 1-level hierarchies}
 
 Example 1 depicts 3-level, 2-level and 1 level model hierarchies (see [0.2.1 Elements of description across Works, Variants, Manifestations, and Items](#manual-0.2.1)) for the same film.
 
