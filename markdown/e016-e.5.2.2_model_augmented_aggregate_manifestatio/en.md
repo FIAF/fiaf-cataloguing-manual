@@ -1,4 +1,5 @@
 \subsection{E.5.2.2 Model: Augmented Aggregate Manifestation within a many-to-many Work/Variants-Manifestations database system}
+\label{sec:manual-E.5.2.2}
 
 Single Aggregate Manifestation links to all individual Works/Variants in “part of” relationship.
 

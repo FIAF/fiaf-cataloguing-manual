@@ -1,4 +1,5 @@
 \subsection{E.5.1 Collection Aggregates Modelling}
+\label{sec:manual-E.5.1}
 
 Many collection aggregates have their own new title, e.g., The Audrey Hepburn collection (consisting of Breakfast at Tiffany’s, Funny face and Sabrina); Heroes of the sky (consisting of Angels one five, The Dambusters, Aces high); Portrait of a miner (consisting of various Mining review shorts).
 These should be the titles of the aggregate Manifestation, and also any new aggregating Work record.

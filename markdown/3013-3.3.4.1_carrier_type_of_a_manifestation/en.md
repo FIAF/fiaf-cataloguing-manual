@@ -1,4 +1,5 @@
 \subsection{3.3.4.1 Carrier type of a Manifestation}
+\label{sec:manual-3.3.4.1}
 
 Carrier type is the medium on or the encoding format in which the Manifestation is fixed.
 

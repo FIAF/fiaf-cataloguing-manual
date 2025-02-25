@@ -1,4 +1,5 @@
 \subsection{D.4.2 Award(s) or Nomination(s)}
+\label{sec:manual-D.4.2}
 
 
 [^205] {#manual-D.4.2}

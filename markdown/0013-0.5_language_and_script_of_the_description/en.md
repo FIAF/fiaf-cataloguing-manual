@@ -1,4 +1,5 @@
 \subsection{0.5 Language and script of the description}
+\label{sec:manual-0.5}
 
 The language of the original Work can be different from the language of a Manifestation or Item.
 For example, the original Work title can be in the original creation language, but the item being catalogued is a Variant with the title and key credits in a different language.

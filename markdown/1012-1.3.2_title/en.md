@@ -1,4 +1,5 @@
 \subsection{1.3.2 Title}
+\label{sec:manual-1.3.2}
 
 Record at least one title, identifying phrase, or name for the moving image Work or Variant.
 If your institution is applying the use of “Type” qualifiers, use “Title Type” to state the function of a particular title (see [1.3.2.1 Title Type](#manual-1.3.2.1) and [Appendix A, Titles and Title Types](#manual-A)).

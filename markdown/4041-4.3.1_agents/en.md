@@ -1,4 +1,5 @@
 \subsection{4.3.1 Agent(s)}
+\label{sec:manual-4.3.1}
 
 An Agent for moving image Items is defined as an entity that is involved in the acquisition, movement (for loans, inspection, storage, etc.), or preservation of a moving image Item and who is considered to have major responsibility for, or be of major importance to, the moving image Item.
 Typical distinctions between Agent types are Person, Corporate Body, Family and Person Group.[^121]

@@ -1,4 +1,5 @@
 \subsection{3.3.3.2 Usage type}
+\label{sec:manual-3.3.3.2}
 
 More than one language can occur in different forms, depending on how the content is expressed: the usage type of the languages defines the form with which the language is expressed, for example, spoken, sung, written, etc.
 

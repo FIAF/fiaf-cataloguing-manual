@@ -1,4 +1,5 @@
 \subsection{D.6 Language Usage Types}
+\label{sec:manual-D.6}
 
   Dialogue language(s)
     Spoken language

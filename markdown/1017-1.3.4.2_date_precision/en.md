@@ -1,4 +1,5 @@
 \subsection{1.3.4.2 Date Precision}
+\label{sec:manual-1.3.4.2}
 
 Where possible, provide a “Date Precision” qualifier to note if the date is precise, approximate, estimated, or a range.
 EDTF also provides codes to denote precision.

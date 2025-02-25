@@ -1,4 +1,5 @@
 \subsection{I.5 Example 5. Home Movie in 3-level Hierarchy Model}
+\label{sec:manual-I.5}
 
 | | |
 | --- | --- |

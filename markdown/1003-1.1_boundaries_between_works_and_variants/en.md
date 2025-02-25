@@ -1,4 +1,5 @@
 \subsection{1.1 Boundaries between Works and Variants}
+\label{sec:manual-1.1}
 
 This section looks at instances of when an entity constitutes a new Work or a Variant of a Work.
 

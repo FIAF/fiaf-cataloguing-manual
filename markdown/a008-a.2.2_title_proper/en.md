@@ -1,4 +1,5 @@
 \subsection{A.2.2 Title Proper}
+\label{sec:manual-A.2.2}
 
 The title of a moving image Manifestation or Item.
 This is a transcribed element, reflecting the title as it appears onscreen.

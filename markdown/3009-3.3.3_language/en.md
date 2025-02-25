@@ -1,4 +1,5 @@
 \subsection{3.3.3 Language}
+\label{sec:manual-3.3.3}
 
 “Language” should ideally be presented as a set of two elements: the language term, and its usage in a particular Manifestation.
 Language can be present in a Manifestation as written, spoken or sung.

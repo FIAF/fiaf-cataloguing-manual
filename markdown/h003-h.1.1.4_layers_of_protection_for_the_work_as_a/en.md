@@ -1,4 +1,5 @@
 \subsection{H.1.1.4 Layers of protection for the ‘work’ as abstraction, and the ‘fixation’ or ‘recording’ of the work in a concrete form}
+\label{sec:manual-H.1.1.4}
 
 The complexity and variation in the intellectual property rights surrounding a moving image work also extends to multiple layers of protection, in some legal frameworks.
 Bluntly described, these multiple layers protect the ‘work’ as an abstraction (with the rights held by the ‘authors’, as defined above) and, separately, the ‘fixation’ or ‘recording’ of the work as a film.

@@ -1,4 +1,5 @@
 \subsection{3.3.5.3.3 Duration of a Broadcast Manifestation associated with a Work/Variant}
+\label{sec:manual-3.3.5.3.3}
 
 When recording duration for Broadcast Manifestations there are two potential sets of data: a Slot Duration and an Actual Running Time.
 If the system allows, note the type of duration in the Duration Type element (see [2.3.5.3.5 Duration Type](#manual-2.3.5.3.5)).

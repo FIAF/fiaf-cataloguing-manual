@@ -1,4 +1,5 @@
 \subsection{E.2.4 Other compilations}
+\label{sec:manual-E.2.4}
 
 The nature of some compilations means that creating Works for each component is neither relevant nor practical, i.e. compilation reels of unidentified or untitled content (not usual in the bibliographic world but common in moving image archives).
 

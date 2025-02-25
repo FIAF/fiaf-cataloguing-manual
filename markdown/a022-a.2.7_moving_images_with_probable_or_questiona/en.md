@@ -1,4 +1,5 @@
 \subsection{A.2.7 Moving images with probable or questionable titles}
+\label{sec:manual-A.2.7}
 
 
 [^175] {#manual-A.2.7}

@@ -1,4 +1,5 @@
 \subsection{1.3.3 Country of reference}
+\label{sec:manual-1.3.3}
 
 Where known and applicable, record the geographic origin of the moving image Work/Variant.
 This should be the country or countries where the principal offices or production facilities of the production company or companies are located.^[EN 15907, 6.5 Country of Reference, p. 19] 

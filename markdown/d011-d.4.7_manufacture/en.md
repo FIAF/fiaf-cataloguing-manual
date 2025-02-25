@@ -1,4 +1,5 @@
 \subsection{D.4.7 Manufacture}
+\label{sec:manual-D.4.7}
 
 A Manufacture Event represents a “common” event within which the embodiment of a Manifestation occurs, owing to the instances of a number of physical items that bear the same characteristics.
 

@@ -1,4 +1,5 @@
 \subsection{F.3.1.1 Existing standards for describing Entities}
+\label{sec:manual-F.3.1.1}
 
 Existing standards for describing Entities include:
 

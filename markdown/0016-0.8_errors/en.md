@@ -1,4 +1,5 @@
 \subsection{0.8 Errors}
+\label{sec:manual-0.8}
 
 As these guidelines recognise the importance of researched information in the catalogue entry, unintentional errors or inaccuracies from the Item should not be reproduced at the Work or Variant levels.
 

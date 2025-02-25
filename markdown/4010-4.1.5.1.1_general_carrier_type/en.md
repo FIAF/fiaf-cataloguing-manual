@@ -1,4 +1,5 @@
 \subsection{4.1.5.1.1 General Carrier Type}
+\label{sec:manual-4.1.5.1.1}
 
 
 The broad media type of the Item (e.g., film, video, audio, optical, digital file).

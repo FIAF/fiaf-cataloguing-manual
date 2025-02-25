@@ -1,4 +1,5 @@
 \subsection{D.7.19 Item Resolution}
+\label{sec:manual-D.7.19}
 
 Standard Definition
 High Definition

@@ -1,4 +1,5 @@
 \subsection{4.1.5.17 Audio Codec}
+\label{sec:manual-4.1.5.17}
 
 The audio compression standard used in the audio file, whether it is contained in a wrapper with a video file or as a standalone audio file.
 

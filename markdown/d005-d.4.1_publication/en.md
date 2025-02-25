@@ -1,4 +1,5 @@
 \subsection{D.4.1 Publication}
+\label{sec:manual-D.4.1}
 
 For Works/Variants, a Publication Event corresponds to the first verified release or availability of the Work or Variant, whether theatrical, straight-to-video, broadcast or online transmission, etc.
 

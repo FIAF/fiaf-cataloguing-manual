@@ -1,4 +1,5 @@
 \subsection{D.17.3 Item Other Relationship Types}
+\label{sec:manual-D.17.3}
 
 | Item Other Relationship Types | Term list |
 | --- | --- |

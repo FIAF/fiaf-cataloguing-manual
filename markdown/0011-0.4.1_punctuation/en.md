@@ -1,4 +1,5 @@
 \subsection{0.4.1 Punctuation}
+\label{sec:manual-0.4.1}
 
 These guidelines do not mandate the use of any particular data presentation standard, such as ISBD punctuation.
 However, ISBD punctuation is recommended if punctuation guidance is desired.

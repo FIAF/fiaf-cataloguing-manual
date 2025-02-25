@@ -1,4 +1,5 @@
 \subsection{D.5.2.3 Theatrical distribution (country unknown)}
+\label{sec:manual-D.5.2.3}
 
 Refers to a known public theatrical release, where the country cannot be ascertained.
 

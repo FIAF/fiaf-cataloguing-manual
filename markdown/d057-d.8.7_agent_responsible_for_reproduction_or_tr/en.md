@@ -1,4 +1,5 @@
 \subsection{D.8.7 Agent responsible for reproduction or transfer}
+\label{sec:manual-D.8.7}
 
 (Optionally, this information can be specified directly at the Item level)
 

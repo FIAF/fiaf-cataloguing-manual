@@ -1,4 +1,5 @@
 \subsection{1.1.1 Boundaries between Works}
+\label{sec:manual-1.1.1}
 
 These guidelines recognise that real world cataloguing needs and data structures necessitate practical applications of conceptual modelling.
 To that end, the recommendations made in this chapter about determining boundaries for Works and Variants are based on an approach that emphasizes effective, efficient and economic data creation and maintenance: information that is common to all realisations of a Work or Variant is recorded once and is comprised of the shared information that will not change (for example, title, original creation date, creator, etc.).

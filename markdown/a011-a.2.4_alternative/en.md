@@ -1,4 +1,5 @@
 \subsection{A.2.4 Alternative}
+\label{sec:manual-A.2.4}
 
 [^145] {#manual-A.2.4}
 

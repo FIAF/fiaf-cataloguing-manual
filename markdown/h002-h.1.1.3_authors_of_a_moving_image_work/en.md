@@ -1,4 +1,5 @@
 \subsection{H.1.1.3 Authors of a moving image Work}
+\label{sec:manual-H.1.1.3}
 
 The Authors of a moving image work are the first owners of the intellectual property rights.
 As the defined authors of the moving image work differ substantially across territories, the following examples illustrate these differences, and emphasise the usefulness of a broad data capture policy.

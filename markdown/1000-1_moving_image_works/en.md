@@ -35,6 +35,7 @@
 \newpage
 
 \subsection{1.0 Definition}
+\label{sec:manual-1.0}
 
 
 

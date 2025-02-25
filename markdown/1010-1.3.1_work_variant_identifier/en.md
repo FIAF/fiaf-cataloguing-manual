@@ -1,4 +1,5 @@
 \subsection{1.3.1 Work/Variant Identifier}
+\label{sec:manual-1.3.1}
 
 Create an unambiguous reference to the Work/Variant using a unique identifier and indicate the type of identifier.
 The identifier should be a numerical or alphanumerical reference.

@@ -1,4 +1,5 @@
 \subsection{3.3.4.4 Colour characteristics of a Manifestation}
+\label{sec:manual-3.3.4.4}
 
 The presence of colour(s), tone(s), etc. in a Manifestation.[^94]
 

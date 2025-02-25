@@ -1,4 +1,5 @@
 \subsection{3.4.1.1 Agent Activity}
+\label{sec:manual-3.4.1.1}
 
 Describes the activity of the Agent(s) to make explicit the relationship(s) between the Agent(s) and the Manifestation.
 

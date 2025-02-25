@@ -1,4 +1,5 @@
 \subsection{D.7.2 Manifestation/Item Specific Carrier Type}
+\label{sec:manual-D.7.2}
 
 Institutions should develop standard lists of terms to indicate the specific carrier type or refer to authoritative existing lists.
 

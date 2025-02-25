@@ -1,4 +1,5 @@
 \subsection{1.3.8.3 Other Work/Variant History}
+\label{sec:manual-1.3.8.3}
 
 Any other relevant information or clarifications pertaining to the Work/Variant.
 For example:

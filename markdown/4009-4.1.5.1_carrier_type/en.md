@@ -1,4 +1,5 @@
 \subsection{4.1.5.1 Carrier Type}
+\label{sec:manual-4.1.5.1}
 
 
 Carrier type is the medium on or the encoding format in which the Item is fixed.

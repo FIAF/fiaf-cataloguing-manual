@@ -1,4 +1,5 @@
 \subsection{3.3.4.1.2 Specific Carrier Type}
+\label{sec:manual-3.3.4.1.2}
 
 Record the specific carrier type, by indicating
 

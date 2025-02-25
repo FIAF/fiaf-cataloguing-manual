@@ -1,4 +1,5 @@
 \subsection{A.2.5.1 Partially Supplied/Devised Titles}
+\label{sec:manual-A.2.5.1}
 
 
 

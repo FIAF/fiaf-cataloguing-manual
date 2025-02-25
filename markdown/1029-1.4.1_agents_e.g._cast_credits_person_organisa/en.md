@@ -1,4 +1,5 @@
 \subsection{1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.)}
+\label{sec:manual-1.4.1}
 
 An Agent is defined as an entity that is involved in the creation, realisation, curation or exploitation of a Work/Variant and who is considered to have major responsibility for, or be of major importance to, the Work/Variant.
 Typical distinctions between Agent types are Person, Corporate Body, Family and Person Group.[^71] This includes cast and credits for the Work/Variant.

@@ -1,4 +1,5 @@
 \subsection{D.4.6 Decision}
+\label{sec:manual-D.4.6}
 
 [^212] {#manual-D.4.6}
 

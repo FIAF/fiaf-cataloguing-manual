@@ -1,4 +1,5 @@
 \subsection{3.4 Relationships of a Manifestation}
+\label{sec:manual-3.4}
 
 A relationship associates an instance of Manifestation with another instance of an entity.
 

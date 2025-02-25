@@ -1,4 +1,5 @@
 \subsection{D.3 Work/Variant Agent Types}
+\label{sec:manual-D.3}
 
 [^202] {#manual-D.3}
 

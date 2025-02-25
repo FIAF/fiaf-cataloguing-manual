@@ -1,4 +1,5 @@
 \subsection{3.1.2 Changes in the format}
+\label{sec:manual-3.1.2}
 
 If the embodiment of a Work/Variant involves changes in format, the resulting product is a new Manifestation, e.g., a change from 70mm to 35mm.
 

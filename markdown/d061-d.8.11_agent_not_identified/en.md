@@ -1,4 +1,5 @@
 \subsection{D.8.11 Agent not identified}
+\label{sec:manual-D.8.11}
 
 (Optionally, this information can be specified directly at the Item level)
 

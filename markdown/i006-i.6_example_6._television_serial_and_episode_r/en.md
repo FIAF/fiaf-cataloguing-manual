@@ -1,4 +1,5 @@
 \subsection{I.6 Example 6. Television Serial and Episode records in 3-level Hierarchy Model (with Monographic Work in “part of” relationship with Serial Work)}
+\label{sec:manual-I.6}
 
 | | |
 | --- | --- |

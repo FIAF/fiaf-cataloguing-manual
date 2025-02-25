@@ -1,4 +1,5 @@
 \subsection{4.1.2.1 Title Type}
+\label{sec:manual-4.1.2.1}
 
 Items can have more than just the title transcribed from the opening credits.
 There can be title information written on leader, cans, and video containers.

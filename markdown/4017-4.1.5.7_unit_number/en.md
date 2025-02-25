@@ -1,4 +1,5 @@
 \subsection{4.1.5.7 Unit number}
+\label{sec:manual-4.1.5.7}
 
 For full instructions see [2.3.5.1 Logical extent of a Manifestation](#manual-2.3.5.1)
 

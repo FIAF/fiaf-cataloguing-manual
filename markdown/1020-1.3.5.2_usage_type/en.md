@@ -1,4 +1,5 @@
 \subsection{1.3.5.2 Usage type}
+\label{sec:manual-1.3.5.2}
 
 Record the usage type of a language (e.g. spoken, intertitles, subtitles, etc.) by taking the most suitable term from a controlled list elaborated in-house or referring to an existing authoritative list.
 See [D.6 Language Usage Types](#manual-D.6).

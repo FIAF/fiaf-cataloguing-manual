@@ -1,4 +1,5 @@
 \subsection{D.5.7 Broadcast}
+\label{sec:manual-D.5.7}
 
 A moving image Manifestation type for TV transmission. It encompasses professional video and digital formats, i.e. Digital Betacam, HDCam, etc.
 

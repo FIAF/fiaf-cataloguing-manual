@@ -1,4 +1,5 @@
 \subsection{D.7.16 Item Stock}
+\label{sec:manual-D.7.16}
 
 This is a preliminary list, and not exhaustive.
 

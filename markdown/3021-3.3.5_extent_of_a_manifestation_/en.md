@@ -1,4 +1,5 @@
 \subsection{3.3.5 Extent of a Manifestation}
+\label{sec:manual-3.3.5}
 
 [^96]
 The concept of extent as applied to Manifestations is the “ideal” logical, physical, or temporal (duration) units and not a description of a real physical object.

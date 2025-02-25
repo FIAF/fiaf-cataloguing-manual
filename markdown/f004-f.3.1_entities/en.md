@@ -1,4 +1,5 @@
 \subsection{F.3.1 Entities}
+\label{sec:manual-F.3.1}
 
 Functional Requirements for Bibliographic Records (FRBR) was published in 1998 by the International Federation of Libraries Association.
 It is based on the entity-attribute-relationship model of analysis, and has been incorporated into the structure of both RDA and EN 15907.

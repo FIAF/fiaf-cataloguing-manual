@@ -1,4 +1,5 @@
 \subsection{D.1 Work/Variant Description Types}
+\label{sec:manual-D.1}
 
 The Types below reflect terms used in CEN standard EN15907.
 

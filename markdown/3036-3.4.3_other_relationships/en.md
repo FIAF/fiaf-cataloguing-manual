@@ -1,4 +1,5 @@
 \subsection{3.4.3 “Other” relationships}
+\label{sec:manual-3.4.3}
 
 Expresses relationships that are not covered by the Agent and Event relationships.
 Aggregation relationships are expressed at the Work/Variant level (see [Appendix E, Aggregates](#manual-E)).

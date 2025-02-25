@@ -1,4 +1,5 @@
 \subsection{E.7.2 Newsreels and TV news/current affairs programmes}
+\label{sec:manual-E.7.2}
 
 These also do not constitute aggregates.
 

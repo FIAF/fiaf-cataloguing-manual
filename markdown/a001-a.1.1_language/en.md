@@ -1,4 +1,5 @@
 \subsection{A.1.1 Language}
+\label{sec:manual-A.1.1}
 
 [^127] {#manual-A.1.1}
 

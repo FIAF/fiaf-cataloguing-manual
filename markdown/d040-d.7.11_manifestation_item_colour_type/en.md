@@ -1,4 +1,5 @@
 \subsection{D.7.11 Manifestation/Item Colour Type}
+\label{sec:manual-D.7.11}
 
 Colour
 Colour + Black & White

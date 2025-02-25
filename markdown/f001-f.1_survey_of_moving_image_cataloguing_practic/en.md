@@ -1,4 +1,5 @@
 \subsection{F.1 Survey of Moving Image Cataloguing Practice in Film Archives (2005-2006)}
+\label{sec:manual-F.1}
 
 Specific areas the community wanted revised:[^229]
 

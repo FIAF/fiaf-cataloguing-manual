@@ -1,4 +1,5 @@
 \subsection{D.7.10 Item Codec type}
+\label{sec:manual-D.7.10}
 
 See also:
 PBCore essenceTrackEncoding (http://metadataregistry.org/concept/list/vocabulary_id/156.html)

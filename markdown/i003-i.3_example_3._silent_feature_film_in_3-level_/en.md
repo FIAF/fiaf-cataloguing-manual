@@ -1,4 +1,5 @@
 \subsection{I.3 Example 3. Silent feature film in 3-level Hierarchy Model with multiple Manifestations and items}
+\label{sec:manual-I.3}
 
 **WORK RECORD**
 

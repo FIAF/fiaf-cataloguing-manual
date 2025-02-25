@@ -1,4 +1,5 @@
 \subsection{D.8.5 Manufacturer}
+\label{sec:manual-D.8.5}
 
 (Optionally, this information can be specified directly at the Item level)
 

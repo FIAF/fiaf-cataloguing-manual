@@ -1,4 +1,5 @@
 \subsection{D.8.9 Agent responsible for the mere availability}
+\label{sec:manual-D.8.9}
 
 (Optionally, this information can be specified directly at the Item level)
 

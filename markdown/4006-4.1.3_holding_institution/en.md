@@ -1,4 +1,5 @@
 \subsection{4.1.3 Holding institution}
+\label{sec:manual-4.1.3}
 
 [^114] {#manual-3.1.3}
 

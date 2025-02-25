@@ -1,4 +1,5 @@
 \subsection{B.4 Relationships}
+\label{sec:manual-B.4}
 
 **Agent**
 

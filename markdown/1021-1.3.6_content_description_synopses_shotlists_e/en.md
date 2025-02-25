@@ -1,4 +1,5 @@
 \subsection{1.3.6 Content description (synopses, shotlists, etc)}
+\label{sec:manual-1.3.6}
 
 
 [^59] {#manual-1.3.6}

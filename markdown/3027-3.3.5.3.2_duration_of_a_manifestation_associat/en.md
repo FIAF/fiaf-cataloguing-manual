@@ -1,4 +1,5 @@
 \subsection{3.3.5.3.2 Duration of a Manifestation associated with a Work/Variant of the silent era}
+\label{sec:manual-3.3.5.3.2}
 
 When recording duration of Manifestations of a Work/Variant of the silent era, take into account that the rate of frames per second varied over the years and between Variants/Manifestations.
 Also take into account the so-called “stretch frame” practice, adopted after the silent era, which “increases the number of frames printed on a film to enable films shot at silent speeds to be projected at sound speed and retain the original temporal characteristics.”[^102]

@@ -1,6 +1,7 @@
 \section{Appendix H, Rights/Copyright/IPR Registration}
 
 \subsection{H.1 Rights in a moving image Work}
+\label{sec:manual-H.1}
 
 The intellectual property rights in a moving image work are known by various terms such as Copyright, Ayant droit, Droit d’Auteur, IP or simply Rights.
 These IP rights are complex entities, reflecting the complexity of a moving image work’s creation; and they vary across legal frameworks and across historical periods.

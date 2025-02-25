@@ -1,4 +1,5 @@
 \subsection{0.6 Abbreviations}
+\label{sec:manual-0.6}
 
 For transcribed data elements, transcribe abbreviations as found.
 For all other elements, generally do not abbreviate words.

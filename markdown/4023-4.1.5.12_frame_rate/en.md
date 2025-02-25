@@ -1,4 +1,5 @@
 \subsection{4.1.5.12 Frame Rate}
+\label{sec:manual-4.1.5.12}
 
 Selection should be made from a controlled list of terms.
 A suggested list, which is open and not exhaustive, can be found in [D.7.18 Item Frame Rate/Transfer Speed](#manual-D.7.18).

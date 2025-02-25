@@ -1,4 +1,5 @@
 \subsection{4.1.5.3 Sound}
+\label{sec:manual-4.1.5.3}
 
 Technical specifications relating to the fixation of sound in a moving image Manifestation/Item (see [2.3.4.3 Sound characteristics of a moving image Manifestation](#manual-2.3.4.3)).
 This element is for high-level description of sound on the item; i.e., noting whether it has sound, is silent, etc.

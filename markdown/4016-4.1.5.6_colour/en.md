@@ -1,4 +1,5 @@
 \subsection{4.1.5.6 Colour}
+\label{sec:manual-4.1.5.6}
 
 For full instructions, see [2.3.4.4 Colour characteristics of a Manifestation](#manual-2.3.4.4).
 

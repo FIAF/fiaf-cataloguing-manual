@@ -1,4 +1,5 @@
 \subsection{1.0.2 Moving Image Variant (i.e., Versions)}
+\label{sec:manual-1.0.2}
 
 1.0.2 Moving Image Variant (i.e., Versions) ^[Adapted from EN 15907, 4.2 Variant] {#manual-1.0.2}
 

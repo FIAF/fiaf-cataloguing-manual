@@ -1,4 +1,5 @@
 \subsection{4.3 Relationships of an Item}
+\label{sec:manual-4.3}
 
 A relationship associates an instance of an Item with another instance of an entity.
 

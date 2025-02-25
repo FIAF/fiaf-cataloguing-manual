@@ -1,4 +1,5 @@
 \subsection{D.4.4 Rights/Copyright/IPR Registration}
+\label{sec:manual-D.4.4}
 
 
 [^208] {#manual-D.4.4}

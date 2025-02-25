@@ -1,4 +1,5 @@
 \subsection{D.8.10 Agent unclear or undetermined}
+\label{sec:manual-D.8.10}
 
 (Optionally, this information can be specified directly at the Item level)
 

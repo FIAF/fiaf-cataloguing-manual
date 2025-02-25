@@ -1,4 +1,5 @@
 \subsection{0.2 Core elements of description}[^9]
+\label{sec:manual-0.2}
 
 TODO: footnote 9 is attached above
 

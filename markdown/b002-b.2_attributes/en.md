@@ -1,4 +1,5 @@
 \subsection{B.2 Attributes}
+\label{sec:manual-B.2}
 
 Provide additional or explanatory information for any WVMI attributes as desired, particularly in cases where this information is not recorded elsewhere in dedicated fields.
 

@@ -1,4 +1,5 @@
 \subsection{1.1.2 Boundaries between Works and Variants/Manifestations}
+\label{sec:manual-1.1.2}
 
 The boundaries between a moving image Work and its Variant(s) (i.e. where a Variant rather than a new Work may be created) may be drawn on the basis of one or more of the following alterations to the content given below. ^[The types of alterations given here are adapted from Yee, “The Concept of Work for Moving Image Materials.”]
 

@@ -1,4 +1,5 @@
 \subsection{4.1.5.8 Extent}
+\label{sec:manual-4.1.5.8}
 
 The actual physical/digital extent is a characteristic of a singular Item, since it can be different for multiple Items exemplifying the same moving image Manifestation.
 

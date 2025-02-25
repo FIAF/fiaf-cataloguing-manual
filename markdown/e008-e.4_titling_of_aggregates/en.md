@@ -1,4 +1,5 @@
 \subsection{E.4 Titling of Aggregates}
+\label{sec:manual-E.4}
 
 The title of the aggregating Work should reflect that of the Manifestation.
 The component titles may additionally be added to the aggregating Work as alternative title types (see [A.2.4 Alternative](#manual-A.2.4)).

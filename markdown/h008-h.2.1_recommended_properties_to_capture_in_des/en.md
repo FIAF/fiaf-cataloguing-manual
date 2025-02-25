@@ -1,4 +1,5 @@
 \subsection{H.2.1 Recommended properties to capture in describing the rights context of a Manifestation}
+\label{sec:manual-H.2.1}
 
 1. Relationship to rights being documented:
 

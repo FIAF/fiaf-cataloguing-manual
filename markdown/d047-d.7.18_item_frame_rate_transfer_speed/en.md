@@ -1,4 +1,5 @@
 \subsection{D.7.18 Item Frame Rate/Transfer Speed}
+\label{sec:manual-D.7.18}
 
 16fps
 23.98 fps

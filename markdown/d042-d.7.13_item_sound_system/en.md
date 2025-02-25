@@ -1,4 +1,5 @@
 \subsection{D.7.13 Item Sound System}
+\label{sec:manual-D.7.13}
 
 Dolby SR
 Dolby Digital

@@ -1,4 +1,5 @@
 \subsection{1.3.1.1 Identifier Type}
+\label{sec:manual-1.3.1.1}
 
 If an institution’s system allows, a "Type" can be applied with an Identifier to define the source of the Identifier. 
 

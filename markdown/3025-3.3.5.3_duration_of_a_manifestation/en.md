@@ -1,4 +1,5 @@
 \subsection{3.3.5.3 Duration of a Manifestation}
+\label{sec:manual-3.3.5.3}
 
 
 [^100] {#manual-2.3.5.3}

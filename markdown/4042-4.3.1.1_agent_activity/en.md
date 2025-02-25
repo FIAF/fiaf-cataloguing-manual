@@ -1,4 +1,5 @@
 \subsection{4.3.1.1 Agent Activity}
+\label{sec:manual-4.3.1.1}
 
 Describes the activity of the Agent to make explicit the relationship(s) between the Agent and the Item.
 

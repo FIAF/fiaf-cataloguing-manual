@@ -1,4 +1,5 @@
 \subsection{3.3.2 Title}
+\label{sec:manual-3.3.2}
 
 Record at least one title, identifying phrase, or name for the Manifestation Title.
 This is a transcribed element, reflecting the actual title as it appears on screen.

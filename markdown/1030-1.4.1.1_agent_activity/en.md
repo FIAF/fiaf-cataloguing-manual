@@ -1,4 +1,5 @@
 \subsection{1.4.1.1 Agent Activity}
+\label{sec:manual-1.4.1.1}
 
 This describes the activity or role of the Agent in relation to the moving image Work/Variant (e.g. credit terms).
 

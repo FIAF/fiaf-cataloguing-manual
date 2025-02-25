@@ -1,4 +1,5 @@
 \subsection{A.2.5 Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)}
+\label{sec:manual-A.2.5}
 
 A title “made up” or assigned by the cataloguer.
 This is often applied to untitled or unidentified entities or production material.

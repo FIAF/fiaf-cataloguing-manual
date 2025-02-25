@@ -1,4 +1,5 @@
 \subsection{D.8.8 Agent responsible for the archival availability}
+\label{sec:manual-D.8.8}
 
 (Optionally, this information can be specified directly at the Item level)
 

@@ -1,4 +1,5 @@
 \subsection{0.9 Alternatives and options}
+\label{sec:manual-0.9}
 
 Certain of the individual guidelines or parts of guidelines in this manual are introduced by the words, “alternatively” or “optionally.” Optional provisions arise from the recognition that different solutions to a problem and differing levels of detail and specificity are appropriate in different contexts.
 Some alternatives and options should be decided as a matter of cataloguing policy for a particular catalogue or archive and should therefore be exercised either always or never.

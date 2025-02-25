@@ -1,4 +1,5 @@
 \subsection{A.2.1 Identifying (i.e. Uniform or Display)}
+\label{sec:manual-A.2.1}
 
 [^132] {#manual-A.2.1}
 

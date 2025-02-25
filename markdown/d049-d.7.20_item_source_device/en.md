@@ -1,4 +1,5 @@
 \subsection{D.7.20 Item Source Device}
+\label{sec:manual-D.7.20}
 
 Examples of hardware required to play the source item.
 

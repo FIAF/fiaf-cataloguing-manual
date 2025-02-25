@@ -1,4 +1,5 @@
 \subsection{D.4 Event Types}
+\label{sec:manual-D.4}
 
 | Work | Variant | Manifestation | Item |
 | --- | --- | --- | --- |

@@ -1,4 +1,5 @@
 \subsection{D.16.4 Item Image – Film and Video}
+\label{sec:manual-D.16.4}
 
 For film, this relates to the inherent qualities of the Emulsion rather than the physical
 condition of the Emulsion.

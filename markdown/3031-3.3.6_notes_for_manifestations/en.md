@@ -1,4 +1,5 @@
 \subsection{3.3.6 Notes for Manifestations}
+\label{sec:manual-3.3.6}
 
 Notes for Manifestations are annotations providing additional information relating specifically to Manifestation attributes and relationships.[^104] See [Appendix B, Cataloguer’s Notes](#manual-B).
 

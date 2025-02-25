@@ -1,4 +1,5 @@
 \subsection{3.3.4.3 Sound characteristics of a Manifestation}
+\label{sec:manual-3.3.4.3}
 
 Sound characteristics are technical specifications relating to the placement of sound on a Manifestation.[^92]
 

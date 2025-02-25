@@ -1,4 +1,5 @@
 \subsection{3.3.4.2 Projection characteristics of a Manifestation}
+\label{sec:manual-3.3.4.2}
 
 The projection characteristics of a Manifestation include aspect ratio and aperture or image format.
 

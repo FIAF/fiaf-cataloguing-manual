@@ -1,4 +1,5 @@
 \subsection{1.4.2 Events (e.g., IPR registration, screenings, awards, etc.)}
+\label{sec:manual-1.4.2}
 
 [^76] {#manual-1.4.2}
 

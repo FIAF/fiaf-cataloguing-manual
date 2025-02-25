@@ -1,4 +1,5 @@
 \subsection{D.2 Variant Type}
+\label{sec:manual-D.2}
 
 
 [^201] {#manual-D.2}

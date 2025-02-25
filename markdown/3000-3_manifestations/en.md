@@ -29,6 +29,7 @@
 2.4.6 Variant
 
 \subsection{3.0 Definition}
+\label{sec:manual-3.0}
 
 A moving image Manifestation is the embodiment of a moving image Work/Variant.
 Manifestations usually include all analogue, digital and online media associated with a particular embodiment of a Work/Variant.

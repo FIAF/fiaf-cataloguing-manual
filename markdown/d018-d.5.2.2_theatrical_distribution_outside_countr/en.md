@@ -1,4 +1,5 @@
 \subsection{D.5.2.2 Theatrical distribution (outside country of origin)}
+\label{sec:manual-D.5.2.2}
 
 Refers to a public theatrical screening of a manifestation outside the country where it was made. In many cases in BFI cataloguing this will refer to the first documented United Kingdomscreening of a non-UK film.
 

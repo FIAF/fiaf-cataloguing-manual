@@ -1,5 +1,6 @@
 
 \subsection{1.2.2 Variant Type}
+\label{sec:manual-1.2.2}
 
 
 1.2.2 Variant Type^[EN 15907, 4.2.2 Attributes of a Variant, variant type; YCR, 2.1.1 Nature of modification (change in content) of expression, p. 48] {#manual-1.2.2}

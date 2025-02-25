@@ -1,4 +1,5 @@
 \subsection{A.2.3.1 Abridging or omitting other title information}
+\label{sec:manual-A.2.3.1}
 
 If other title information is lengthy or of very minor importance, either give it in a note or omit it.
 See Appendix B, Cataloguer’s Notes.

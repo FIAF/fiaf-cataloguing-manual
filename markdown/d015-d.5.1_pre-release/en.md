@@ -1,4 +1,5 @@
 \subsection{D.5.1 Pre-Release}
+\label{sec:manual-D.5.1}
 
 A moving image Manifestation type that may be used to represent any embodiments of a moving image Work that exist before the finalisation or release of the moving image Work. Also use for partially realised projects, i.e. productions that started filming but then project ceased before completion.
 
