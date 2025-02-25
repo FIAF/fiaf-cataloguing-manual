@@ -22,52 +22,75 @@ Works include:
 
 - moving image realisations based on new scripts or adapted from pre-existing textual works such as novels, plays, etc.
 
+Examples:
 
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
-    Hamlet (UK, 1948, Laurence Olivier) \\  
-    Hamlet (United States of America, 1996, Kenneth Branagh) \\
-\\
-    Les misérables (France, 1958, Jean-Paul Le Chanois)    \\
-    Les misérables (United States of America, 1998, Bille August) \\
-\\
-    Trollflöjten (Sweden, 1975, Ingmar Bergman)    \\
-    Il flauto magico (Italy, 1976, Giulio Gianini and Emanuele Luzzati) \\
-\\
-    Tosca (Italy, 1939, Karl Koch)    \\
-    Tosca (Italy, 1973, Luigi Magni)
+\begin{tcolorbox}[colback=gray!10!white]
+Hamlet (UK, 1948, Laurence Olivier) \\  
+Hamlet (United States of America, 1996, Kenneth Branagh) 
 \end{tcolorbox}
 ```
 
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Les misérables (France, 1958, Jean-Paul Le Chanois)    \\
+Les misérables (United States of America, 1998, Bille August) 
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Trollflöjten (Sweden, 1975, Ingmar Bergman)    \\
+Il flauto magico (Italy, 1976, Giulio Gianini and Emanuele Luzzati)
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Tosca (Italy, 1939, Karl Koch)    \\
+Tosca (Italy, 1973, Luigi Magni)
+\end{tcolorbox}
+```
 
 - moving image realisations of scheduled performances or events such as concerts, original theatre performances, sports events, etc.^[Adapted from the definition of a Cinematographic Work in EN 15907, 4.1.1, p.8.] These are distinguished from cinematically staged theatrical or musical events for the purpose of creating a unique moving image work such as the Tosca and Hamlet
 examples provided above.
 
-```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
+Examples:
 
-Simon and Garfunkel: The Concert in Central Park (United States of America, 1982, Michael Lindsay-Hogg) \\
-\\
-Olympia 1. Teil – Fest der Völker (Germany, 1938, Leni Riefenstahl)\\
-\\
-Olympia 2. Teil – Fest der Schönheit (Germany, 1938, Leni Riefenstahl) \\
-\\ 
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Simon and Garfunkel: The Concert in Central Park (United States of America, 1982, Michael Lindsay-Hogg)
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Olympia 1. Teil – Fest der Völker (Germany, 1938, Leni Riefenstahl) \\
+Olympia 2. Teil – Fest der Schönheit (Germany, 1938, Leni Riefenstahl)
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
 Marathon (Spain, 1992, Carlos Saura)
 \end{tcolorbox}
 ```
 
-
 - moving images created by use of automatic devices such as surveillance cameras, scientific or medical instruments, etc. ^[Ibid.]
 
+Examples:
 
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
-   Birmingham Town Hall Car Park. Camera 7. (United Kingdom, 2015, NCP) \\
-\\
-    University College Hospital. Endoscopy – Colonscope. Patient HX3456. 2010 (United Kingdom, 2010, University College Hospital)
+\begin{tcolorbox}[colback=gray!10!white]
+Birmingham Town Hall Car Park. Camera 7. (United Kingdom, 2015, NCP) 
 \end{tcolorbox}
 ```
 
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+University College Hospital. Endoscopy – Colonscope. Patient HX3456. 2010 (United Kingdom, 2010, University College Hospital)
+\end{tcolorbox}
+```
 
 [^29]: These are invented examples for illustrative purposes
 

@@ -1,5 +1,6 @@
 \newpage
-# Introduction {#manual-introduction}
+\section{Introduction}
+\label{sec:manual-introduction}
 
 The archival moving image field has changed dramatically in recent years, with technological advances revolutionising cataloguing, preservation, and access practices.
 To help cataloguers and archivists respond to these changes, FIAF presents the _FIAF Moving Image Cataloguing Manual (FIAF Manual)_, a revision of the 1991 *FIAF Cataloguing Rules for Film Archives (FIAF Rules)*.

@@ -8,95 +8,126 @@ Variations in information describing the Work result in Variants or Manifestatio
 
 The boundaries between one Work and another (i.e where a new Work would be created rather than a Variant) are drawn on the basis of the following alterations to the content:^[The types of alterations given here are adapted from Yee, “The Concept of Work for Moving Image Materials.”]
 
-<b>Change in footage and/or changes in continuity (primary editing)^[Secondary editing results in a Variant.]</b>
+**Change in footage and/or changes in continuity (primary editing)^[Secondary editing results in a Variant.]**
 
 - remakes of the same story/plot
 
+Examples:
 
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
+\begin{tcolorbox}[colback=gray!10!white]
 The man who knew too much (UK, 1934, Alfred Hitchcock) \\ 
-The man who knew too much (USA, 1956, Alfred Hitchcock)\\
-\\
-T’amerò sempre (Italy, 1933, Mario Camerini)  \\
-T’amerò sempre (Italy, 1943, Mario Camerini)\\
-\\
-Planet of the apes (United States of America, 1968, Franklin J. Schaffner)  \\
-Planet of the apes (United States of America, 2001, Tim Burton)\\
-\\
-Scarface (United States of America, 1932, Howard Hawks)  \\
-Scarface (United States of America, 1983, Brian De Palma)\\
-\\
-Die Dreigroschenoper (Germany, 1931, Georg Wilhelm Pabst)  \\
-Die Dreigroschenoper (Germany,1962, Wolfgang Staudte)
-
+The man who knew too much (USA, 1956, Alfred Hitchcock)
 \end{tcolorbox}
 ```
 
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+T’amerò sempre (Italy, 1933, Mario Camerini) \\
+T’amerò sempre (Italy, 1943, Mario Camerini)
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Planet of the apes (United States of America, 1968, Franklin J. Schaffner)  \\
+Planet of the apes (United States of America, 2001, Tim Burton)
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Scarface (United States of America, 1932, Howard Hawks)  \\
+Scarface (United States of America, 1983, Brian De Palma)
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Die Dreigroschenoper (Germany, 1931, Georg Wilhelm Pabst)  \\
+Die Dreigroschenoper (Germany,1962, Wolfgang Staudte)
+\end{tcolorbox}
+```
 
 - different language versions shot at the same time, released simultaneously,
 sometimes with different casts
 
-
+Examples:
 
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
-Dracula (United States of America, 1931, Tod Browning, Spanish and English) \\
-\\
-Anna Christie (United States of America, 1930, Clarence Brown, English; 1931, German) \\
-\\ 
+\begin{tcolorbox}[colback=gray!10!white]
+Dracula (United States of America, 1931, Tod Browning, Spanish and English)
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Anna Christie (United States of America, 1930, Clarence Brown, English; 1931, German)
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
 Der Fangschuß (France/Germany, 1976, Volker Schlöndorff, German)  \\
-Le Coup de grâce (France/Germany, 1976, Volker Schlöndorff, French) \\
-\\
+Le Coup de grâce (France/Germany, 1976, Volker Schlöndorff, French)
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
 Die Dreigroschenoper (Germany, 1931, Georg Wilhelm Pabst, German)  \\
-L’opéra de quat’sous (France, 1931, Georg Wilhelm Pabst, French) \\
- \\
+L’opéra de quat’sous (France, 1931, Georg Wilhelm Pabst, French)
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
 La canzone dell’amore (United States of America, 1930, Gennaro Righelli, English)  \\
 Liebeslied (Germany, 1930, Constantin J. Davis, German)  \\
 La dernière berceuse (France, 1930, Jean Cassagne, French)
-
 \end{tcolorbox}
 ```
-
 
 - editing of the same raw footage by different people into different sequences
 
+Example:
 
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
-
- Several separate Works made from the footage taken on Captain Robert Falcon Scott’s Antarctic expedition, 1910-13.
-
+\begin{tcolorbox}[colback=gray!10!white]
+Several separate Works made from the footage taken on Captain Robert Falcon Scott’s Antarctic expedition, 1910-13.
 \end{tcolorbox}
 ```
 
-
-<b>Change in textual or spoken word aspect</b>
+**Change in textual or spoken word aspect**
 
 - complete alteration of dialogue and/or narration of an existing work
 
+Example:
+
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
-
-
-  Example: What’s Up Tiger Lily (1966)
+\begin{tcolorbox}[colback=gray!10!white]
+What’s Up Tiger Lily (1966)
 \end{tcolorbox}
 ```
 
-
-<b>Change in performance/performers</b>
+**Change in performance/performers**
 
 - each cinematographic realisation of a dramatic work
 
 
+Examples:
+
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
-
-  Moving image representations of theatrical performances of Shakespeare’s Macbeth, where there is removal and/or replacement of substantially most of the contributors (e.g., cast and/or crew), associated with a work \\
-  \\
-  Chickens Come Home (1931) where the film was first shot in English,then re-shot with Spanish dialogue and additional Spanish-speaking actors. \\
-  \\
-  If much of the original textual or spoken word material remains, most of the original footage remains in roughly the same continuity, however abridged, and substantially most of the contributors are the same, the existence of alterations more often than not constitute a Variant, rather than a new Work.
-
+\begin{tcolorbox}[colback=gray!10!white]
+Moving image representations of theatrical performances of Shakespeare’s Macbeth, where there is removal and/or replacement of substantially most of the contributors (e.g., cast and/or crew), associated with a work
 \end{tcolorbox}
 ```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Chickens Come Home (1931) where the film was first shot in English,then re-shot with Spanish dialogue and additional Spanish-speaking actors.
+\end{tcolorbox}
+```
+
+If much of the original textual or spoken word material remains, most of the original footage remains in roughly the same continuity, however abridged, and substantially most of the contributors are the same, the existence of alterations more often than not constitute a Variant, rather than a new Work.
+

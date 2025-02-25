@@ -1,4 +1,4 @@
-\section{Appendix K. List of Elements}
+\section{Appendix K, List of Elements}
 
 
 

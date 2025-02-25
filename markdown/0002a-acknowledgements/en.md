@@ -1,5 +1,6 @@
 \newpage
-# Acknowledgements {#manual-acknowledgements}
+\section{Acknowledgements}
+\label{sec:manual-acknowledgements}
 
 This manual is a result of the combined efforts of many professionals to whom we owe our gratitude.
 
