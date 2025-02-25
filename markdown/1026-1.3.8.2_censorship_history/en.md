@@ -11,14 +11,19 @@ Document information related to the censorship history of a Work/Variant, includ
 
 - the outcome of the act of rating or censorship
 
-  Example:
+Example:
   
-  À bout de souffle (France, 1960, Jean-Luc Godard)
-  
-  In Italy, this film has three different theatrical distributions, corresponding to three different visas (“visto di censura”) from the official censorship body (Ufficio di revisione cinematografica).[^68]
-  Censored Variant: Theatrical distribution in Italy – censorship visa n. 32329 – date: 1960-07-05 – Length 2463m – original French – not for under 16 years
-  Dubbed, Censored Variant: Theatrical distribution in Italy – censorship visa n. 57609 – date: 1971-01-23 – Length 2440m. – Italian
-  Dubbed, Censored Variant: Theatrical distribution in Italy– censorship visa n. 64662 – date: 1974-05-20 – Length 2430m. – Italian dubbed
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+À bout de souffle (France, 1960, Jean-Luc Godard) \\
+\\
+In Italy, this film has three different theatrical distributions, corresponding to three different visas (“visto di censura”) from the official censorship body (Ufficio di revisione cinematografica). \\
+Censored Variant: Theatrical distribution in Italy – censorship visa n. 32329 – date: 1960-07-05 – Length 2463m – original French – not for under 16 years \\
+Dubbed, Censored Variant: Theatrical distribution in Italy – censorship visa n. 57609 – date: 1971-01-23 – Length 2440m. – Italian \\
+Dubbed, Censored Variant: Theatrical distribution in Italy– censorship visa n. 64662 – date: 1974-05-20 – Length 2430m. – Italian dubbed
+\end{tcolorbox}
+```
+
 
 [^67]: EN 15907, 6.13 Decision event, pp. 26-27.
 [^68]: http://www.italiataglia.it/tagli_rassegna/_bout_de_souffle_

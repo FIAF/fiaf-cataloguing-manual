@@ -33,7 +33,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[1.4.6 Manifestations](#manual-1.4.6)    
 
 \newpage
-
 \subsection{1.0 Definition}
 \label{sec:manual-1.0}
 

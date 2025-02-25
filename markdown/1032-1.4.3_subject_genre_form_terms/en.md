@@ -9,6 +9,8 @@ Form describes the format and/or purpose of a Work, e.g., “non-fiction”, “
 Genre describes categories of Works, characterized by similar plots, themes, settings, situations, and characters.
 Examples of genres are “westerns” and “thrillers”.[^78] Use an existing and widely used data value standard such as Library of Congress Thesaurus for Genre/Form Terms in Libraries and Archives (LCGFT)[^79], or equivalent in country where work is being done, or an in-house controlled vocabulary genre thesaurus.
 
+TODO this is an example table
+
   Examples:
 
   Main title A trip down Market Street before the fire / [Miles Brothers]. [^80]

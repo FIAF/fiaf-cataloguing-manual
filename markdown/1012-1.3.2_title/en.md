@@ -13,57 +13,49 @@ For creating titles for untitled or unidentified entities see [A.2.5 Supplied/De
 This may be via use of a “Title type” qualifier.
 See [A.2.6 Titles of series/serials](#manual-A.2.6) for other options
 
-```{=latex}
-\begin{tcolorbox}[colframe=gray!50!white, colback=gray!10!white, coltitle=black, title=Example]
+Examples:
 
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
 Gone with the wind (United States of America, 1939, Victor Fleming) \\
 Gone with the wind – Preferred Title of the Work \\
 Via col vento – Variant title – Dubbed (Italian) \\
 Gejaagd door de win – Variant title – Dubbed (Dutch) \\
 Autant en emporte le vent – Variant title – Dubbed – (French) \\
-風と共に去りぬ – Variant title – Dubbed (Japanese)
-
+風と共に去りぬ – Variant title – Dubbed (Japanese)    
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colframe=gray!50!white, colback=gray!10!white, coltitle=black, title=Example]
-
+\begin{tcolorbox}[colback=gray!10!white]
 Аленький цветочек (USSR, 1952, Lev Atamanov) \\
 Аленький цветочек – Title of the Work \\
 Alenkiy tsvetochek: Alternative (transliterated) title of Work/ Variant (Preferred title if systems don’t use Cyrillic) \\
 Feuerrotes Blümchen – Variant title – Dubbed (German) \\
-The Scarlet Flower – Variant title – Dubbed (English)
-    
+The Scarlet Flower – Variant title – Dubbed (English)   
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colframe=gray!50!white, colback=gray!10!white, coltitle=black, title=Example]
-
+\begin{tcolorbox}[colback=gray!10!white]
 La passeggiata (Italy, 1953, Renato Rascel) \\
 La passeggiata – Preferred Title of the Work \\
-La prospettiva – Alternative title (Working title)
-    
+La prospettiva – Alternative title (Working title)   
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colframe=gray!50!white, colback=gray!10!white, coltitle=black, title=Example]
-
+\begin{tcolorbox}[colback=gray!10!white]
 Anathan (Japan, 1953, Joseph von Sternberg) \\
 Anathan – Preferred Title of the Work \\
-The saga of Anathan – Alternative Title of the Work/Variant
-    
+The saga of Anathan – Alternative Title of the Work/Variant  
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colframe=gray!50!white, colback=gray!10!white, coltitle=black, title=Example]
-
+\begin{tcolorbox}[colback=gray!10!white]
 Mary Tyler Moore show – Series title \\
-Chuckles bites the dust – Preferred title
-    
+Chuckles bites the dust – Preferred title  
 \end{tcolorbox}
 ```
 

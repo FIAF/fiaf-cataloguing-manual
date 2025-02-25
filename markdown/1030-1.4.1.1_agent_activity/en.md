@@ -17,44 +17,61 @@ Record in a note any additional details that cannot be expressed through control
 If a name is known to be fictitious, or requires clarification, make a note giving the actual name.
 
 Give the Agent(s) and Agent Activity in the terms and language in which they appear, either in the sources of information or in the language of the institution, or both.
-If more than one Agent is associated with a particular role connected with a Work/Variant or
-
-
-Event, where possible or desirable, record the names in the order indicated by the sequence, layout, or typography of the names on the source of information.
+If more than one Agent is associated with a particular role connected with a Work/Variant or Event, where possible or desirable, record the names in the order indicated by the sequence, layout, or typography of the names on the source of information.
 Preserving the ordering of the credited persons should be determined by the requirements of individual institutions.[^75]
 
-  Examples:
+Examples:
 
-  Les Enfants du paradis
-  réalisation, Marcel Carné
-  scenario et dialogue, Jacques Prevert
-  musique, Maurice Thiriet
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Les Enfants du paradis \\
+réalisation, Marcel Carné \\
+scenario et dialogue, Jacques Prevert \\
+musique, Maurice Thiriet
+\end{tcolorbox}
+```
 
-  OR
+OR
 
-  Enfants du paradis, Les
-  director, Marcel Carné
-  script and dialogue, Jacques Prevert
-  music, Maurice Thiriet
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Enfants du paradis, Les \\
+director, Marcel Carné \\
+script and dialogue, Jacques Prevert \\
+music, Maurice Thiriet
+\end{tcolorbox}
+```
 
-  Star wars
-  Director, George Lucas
-  Executive Producer, George Lucas
-  Producer, Gary Kurtz
-  Screenplay, George Lucas
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Star wars \\
+Director, George Lucas \\
+Executive Producer, George Lucas \\
+Producer, Gary Kurtz \\
+Screenplay, George Lucas
+\end{tcolorbox}
+```
 
 If Agents are added as index points rather than listed or described in order of importance, an organisation may choose to put the Agent Activity or role term(s) at the end of the name.
 
-  Examples:
+Examples:
 
-  Les Enfants du paradis
-  Carné, Marcel, réalisation
-  Prevert, Jacques, scenario, dialogue
-  Thiriet, Maurice, musique
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Les Enfants du paradis \\
+Carné, Marcel, réalisation \\
+Prevert, Jacques, scenario, dialogue \\
+Thiriet, Maurice, musique
+\end{tcolorbox}
+```
 
-  Star wars
-  Lucas, George, director, executive producer, screenplay
-  Kurtz, Gary, producer
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Star wars \\
+Lucas, George, director, executive producer, screenplay \\
+Kurtz, Gary, producer
+\end{tcolorbox}
+```
 
 [^73]: http://www.fiafnet.org/publications/GlossaryMasterComboMarch2015.html.htm
 [^74]: List of relator terms are a combination of those found in YCR, 1.3.2. Other creators, pp. 42-43; and, OLAC TF, Part II, Core Attributes and Relationships, Commonly-Occurring Roles, pp. 16-18.

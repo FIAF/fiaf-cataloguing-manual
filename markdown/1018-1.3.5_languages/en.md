@@ -1,3 +1,4 @@
+
 \subsection{1.3.5 Language(s)}
 \label{sec:manual-1.3.5}
 
@@ -10,3 +11,4 @@ Institutions using cataloguing structures that do not distinguish Variant level 
 
 Indicate the language(s) (e.g., Italian) and usage(s) (e.g., Italian intertitles) in which the moving image Variant/Manifestation is written, spoken or sung, if applicable.
 More than one language can occur in different forms, depending on how the content is expressed (e.g., French dialogue and English subtitles).
+

@@ -13,35 +13,52 @@ Avoid slang expressions and colloquialisms fashionable at the time of writing,an
 Descriptions should be objective and not include subjective commentary on the quality of the content.
 If acceptable summaries are already available in secondary sources, cataloguers may use these, instead of taking the time to prepare summaries of their own.[^60] If using summaries exactly as written, put the summary in quotes and note the source of the summary.
 
-  Example:[^61]
+Examples:[^61]
 
-  An historical drama set in 16th century England in which King Henry VIII divorces his wife, Catherine of Aragon, and marries Anne Boleyn, a former lady-in-waiting, who is in love with Sir Thomas Wyatt. After several years, Henry becomes infatuated with Lady Jane Seymour and arranges to have the innocent Anne found in a compromising situation with Sir Thomas. Anne is tried for infidelity, found guilty, and executed.
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+An historical drama set in 16th century England in which King Henry VIII divorces his wife, Catherine of Aragon, and marries Anne Boleyn, a former lady-in-waiting, who is in love with Sir Thomas Wyatt. After several years, Henry becomes infatuated with Lady Jane Seymour and arranges to have the innocent Anne found in a compromising situation with Sir Thomas. Anne is tried for infidelity, found guilty, and executed.
+\end{tcolorbox}
+```
 
-  Example
-  
-  Donald Graham, millionaire ex-convict, plans revenge on society figure John Cabin Brand, whom he blames for the death of his daughter.
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Donald Graham, millionaire ex-convict, plans revenge on society figure John Cabin Brand, whom he blames for the death of his daughter.
+\end{tcolorbox}
+```
 
 A content description may also be a shotlist or listing of the contents of an aggregate Work/Variant (see [Appendix E, Aggregates](#manual-E)). Shotlists are the ideal content description to have or aim to have, particularly for non-fiction moving images, but it is recognised that resources and accessibility mean this is not always possible or practical for an archive or institution.
 
-  Example:[^62]
+Examples:[^62]
 
-  Title: Pathe News [Excerpts No. 6]
-  Contents: “Newest U.S. Submarine Goes into Commission,” Pathe News No. 60 [1921] (160 ft.) -- “Span of New Memorial Bridge to Connect N.H. and Maine,” Pathe News No. 57 [1923] (72 ft.) -- “Celebrate 300th Anniversary of Settling of Portsmouth,”Pathe News No. 69 [1923] (99 ft.) -- “World’s Largest Sub Takes First Plunge,” Pathe News No. 93 [1927], (c) 21Nov27; MP4478 (134 ft.) -- “New Memorial Bridge between N.H. and Maine!” Pathe News No. 70 [1923] (105 ft.) -- “Launch Largest Submarine Cruiser,” Pathe Sound News No. 1 [1930], (c) 29Dec29; MP1025 (80 ft.).
-  
-  Title: Victorian Cinema: 4: Bamforth/Riley/Hepworth
-  Contents:
-  Weary Willie (1898) (78ft),
-  Catching the Milk Thief (1899) (140ft)
-  The Tramp and the Baby’s Bottle (1899) (214ft),
-  Women’s Rights (1899) (289ft),
-  A Kiss in the Tunnel (1899) (367ft),
-  Boy’s Cricket Match and Fight (1900) (475ft),
-  [… real example shortened]
-  End
-  
-  Title: Magnificent Reproductions of the Great Yorkshire Show in Bradford (1901)
-  
-  Mitchell & Kenyon 641: Panning shot across a road to the Yorkshire Agricultural Society building with a diffuse crowd of people in front of the building. As the shot passes the building, a number of people can be seen sitting down, including mothers with babies and some older people (00.36). Cut to a close-up shot of the building, with a sign reading “The Yorkshire Agricultural Society. Established 1837” (00.45). Cut to a horse-drawn cart spraying some sort of liquid on the path as it moves along. Lettering on the back of the cart reads “Bradford City Council no. 30” (00.58). Cut to wide steps, with a number of smartly dressed men walking down them (presumably entering the show) (01.14). Cut to a shot of the blades of a windmill as they turn (01.23). Cut to a general shot of the show, with crowds and various stalls (02.07). A marquee in the background has the sign “R. Hornsby & Sons Ltd., Grantham”. Another sign reads “Marshall. Sons & Co.”. Chimneys and houses can be seen in the background (02.27min).
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Title: Pathe News \[Excerpts No. 6\] \\
+Contents: “Newest U.S. Submarine Goes into Commission,” Pathe News No. 60 \[1921\] (160 ft.) -- “Span of New Memorial Bridge to Connect N.H. and Maine,” Pathe News No. 57 \[1923\] (72 ft.) -- “Celebrate 300th Anniversary of Settling of Portsmouth,”Pathe News No. 69 \[1923\] (99 ft.) -- “World’s Largest Sub Takes First Plunge,” Pathe News No. 93 \[1927\], (c) 21Nov27; MP4478 (134 ft.) -- “New Memorial Bridge between N.H. and Maine!” Pathe News No. 70 \[1923\] (105 ft.) -- “Launch Largest Submarine Cruiser,” Pathe Sound News No. 1 \[1930\], (c) 29Dec29; MP1025 (80 ft.).
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Title: Victorian Cinema: 4: Bamforth/Riley/Hepworth \\
+Contents: \\
+Weary Willie (1898) (78ft), \\
+Catching the Milk Thief (1899) (140ft) \\
+The Tramp and the Baby’s Bottle (1899) (214ft), \\
+Women’s Rights (1899) (289ft), \\
+A Kiss in the Tunnel (1899) (367ft), \\
+Boy’s Cricket Match and Fight (1900) (475ft), \\
+\[… real example shortened\] \\
+End
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Title: Magnificent Reproductions of the Great Yorkshire Show in Bradford (1901) \\
+Mitchell \& Kenyon 641: Panning shot across a road to the Yorkshire Agricultural Society building with a diffuse crowd of people in front of the building. As the shot passes the building, a number of people can be seen sitting down, including mothers with babies and some older people (00.36). Cut to a close-up shot of the building, with a sign reading “The Yorkshire Agricultural Society. Established 1837” (00.45). Cut to a horse-drawn cart spraying some sort of liquid on the path as it moves along. Lettering on the back of the cart reads “Bradford City Council no. 30” (00.58). Cut to wide steps, with a number of smartly dressed men walking down them (presumably entering the show) (01.14). Cut to a shot of the blades of a windmill as they turn (01.23). Cut to a general shot of the show, with crowds and various stalls (02.07). A marquee in the background has the sign “R. Hornsby \& Sons Ltd., Grantham”. Another sign reads “Marshall. Sons \& Co.”. Chimneys and houses can be seen in the background (02.27min).
+\end{tcolorbox}
+```
 
 The content description can be based on a viewing of the work, accompanying documentation, or secondary sources, but the source should be clearly noted.
 

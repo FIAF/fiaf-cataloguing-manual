@@ -11,43 +11,108 @@ Commonly-occurring relationships include:[^82]
 
 - Work(s) that the moving image Work is based on (e.g. moving images adapted from novels, plays, etc.)
 
-  The grapes of wrath (United States of America, 1940, John Ford), based on the homonymous novel by John Steinbeck (1939).
+Example:
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+The grapes of wrath (United States of America, 1940, John Ford), based on the homonymous novel by John Steinbeck (1939).
+\end{tcolorbox}
+```
 
 - Work(s) that the moving image Work is a performance of (moving image recordings made of live stage presentations of music, plays, dance, etc.
 
-  Pink Floyd: live at Pompeii (Belgium,West Germany, France, 1972, Adrian Maben ), concert filmed in the old Pompeii amphitheatre.
+Example:
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Pink Floyd: live at Pompeii (Belgium,West Germany, France, 1972, Adrian Maben ), concert filmed in the old Pompeii amphitheatre.
+\end{tcolorbox}
+```
 
 - Work(s) that the moving image Work forms part of (e.g. series/serials, aggregations/compilations)
 
-  Fantômas contre Fantômas (Serial in 5 episodes, Louis Feuillade 1914, production Société des Etablissements Gaumont).
-  
-  Fiddlesticks, Ub Iwerks, 1930, episode of the animation series Flip the Frog (Celebrity Pictures, distr. Metro Goldwyn-Mayer, 1930-1933 (38 issues).
+Examples:
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Fantômas contre Fantômas (Serial in 5 episodes, Louis Feuillade 1914, production Société des Etablissements Gaumont).
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Fiddlesticks, Ub Iwerks, 1930, episode of the animation series Flip the Frog (Celebrity Pictures, distr. Metro Goldwyn-Mayer, 1930-1933 (38 issues).
+\end{tcolorbox}
+```
 
 - Work(s) that the moving image Work has a sequential relationship with (e.g. sequels, prequels, serials)
 
-  The Godfather Part I
-  The Godfather Part II
-  The Godfather Part III Francis Ford Coppola (United States of America, 1972- 1974-1990)
+Example:
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+The Godfather Part I \\
+The Godfather Part II \\
+The Godfather Part III Francis Ford Coppola (United States of America, 1972- 1974-1990)
+\end{tcolorbox}
+```
 
 - Work(s) about the moving image Work (e.g. documentary about the making of a feature film or TV programme)
 
-  La ciociara quarant’anni dopo (Italy, 2001, Stefano Landini), documentary on the restoration of La ciociara (Italy, 1960, Vittorio De Sica).
+Examples:
 
-  Reise nach Metropoli (Germany, 2009, Artem Demenok), documentary on the restoration of Metropolis (Fritz Lang, 1927).
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+La ciociara quarant’anni dopo (Italy, 2001, Stefano Landini), documentary on the restoration of La ciociara (Italy, 1960, Vittorio De Sica).
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Reise nach Metropoli (Germany, 2009, Artem Demenok), documentary on the restoration of Metropolis (Fritz Lang, 1927).
+\end{tcolorbox}
+```
 
 - Work(s) that are promotional material of the moving image Work (e.g. Trailers)
 
-  Wuthering Heights (Film Trailer) (United States of America, 1939) is the trailer for Wuthering Heights (United States of America, 1939, William Wyler)
+Example:
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Wuthering Heights (Film Trailer) (United States of America, 1939) is the trailer for Wuthering Heights (United States of America, 1939, William Wyler)
+\end{tcolorbox}
+```
 
 - Non-moving image Works that the moving image Work has a relationship with (e.g. Books, articles, scripts, posters, documents, etc)
 
-  Kes (United Kingdom, 1969, Ken Loach), book “Life after Kes: an anthology of the film Kes”, by Simon W. Golding. GET Publishing, 2005. ISBN. 0954879333
+Examples:
 
-  Land and freedom (United Kingdom, 1995, Ken Loach), script Land and freedom (c.1993) (script for ‘Land and freedom’, with opening sequence different from earlier scripts).
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Kes (United Kingdom, 1969, Ken Loach), book “Life after Kes: an anthology of the film Kes”, by Simon W. Golding. GET Publishing, 2005. ISBN. 0954879333
+\end{tcolorbox}
+```
 
-  Carry on camping (United Kingdom, 1969, Gerald Thomas), archival documents - general production correspondence including notes from the pre-production meeting, studio agreement, final screen credits, and draft trailer script).
 
-  The wicked lady (United Kingdom, 1945, Leslie Arliss), costume
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Land and freedom (United Kingdom, 1995, Ken Loach), script Land and freedom (c.1993) (script for ‘Land and freedom’, with opening sequence different from earlier scripts).
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Carry on camping (United Kingdom, 1969, Gerald Thomas), archival documents - general production correspondence including notes from the pre-production meeting, studio agreement, final screen credits, and draft trailer script).
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+The wicked lady (United Kingdom, 1945, Leslie Arliss), costume
+\end{tcolorbox}
+```
+
+
 
 Record one or more “Other” relationship type terms to express the nature of the relationship to the Work/Variant, choosing the most specific term possible from a controlled list of values , for example, “based on,” “contained in,” etc. .
 A suggested list, which is open and not exhaustive, can be found in [Appendix D.17.1 Work/Variant Other Relationship Types](#manual-D.17.1).

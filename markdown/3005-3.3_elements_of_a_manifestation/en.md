@@ -9,29 +9,37 @@ These should be different identifiers than those for Works/Variants, since they 
 If one or more identifiers are available, record each according to its standardised syntax, where allowable.
 The following examples reflect both 3 and 4 level hierarchies, i.e. ones that use Variants and ones that do not have Variants but utilise Manifestations instead.
 
+Examples:
+
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
+\begin{tcolorbox}[colback=gray!10!white]
+Lola rennt (Germany, 1998, Tom Tykwer) \\
+Work identifier: ISAN 0000-0000-606A-0000-0-0000-0000-3 \\
+Variant identifier (original German): ISAN 0000-0000-606A-0000-0-0000-0002-0 \\
+Manifestation identifier: Home video publication (2007) – Run Lola Run – DVD – English – V-ISAN: ISAN 0000-0000-606A-0000-0-0000-0001-1 (DVD-31943)
+\end{tcolorbox}
+```
 
-Lola rennt (Germany, 1998, Tom Tykwer)\\
-Work identifier: ISAN 0000-0000-606A-0000-0-0000-0000-3\\
-Variant identifier (original German): ISAN 0000-0000-606A-0000-0-0000-0002-0\\
-Manifestation identifier: Home video publication (2007) – Run Lola Run – DVD –
-English – V-ISAN: ISAN 0000-0000-606A-0000-0-0000-0001-1 (DVD-31943)\\
-\\
-Shichinin no samurai (Japan, 1954, Akira Kurosawa)\\
-Work identifier: ISAN 0000-0001-61AE-0000-1-0000-0001-W\\
-Variant identifier (Dubbed Spanish – Castellano): Los Siete Samurai: ISAN
-0000-0001-61AE-0000-1-0000-0001-W\\
-\\
-Les chevaliers du ciel (France, 2005, Gérard Pirès)\\
-Manifestation identifier: Home video publication – DVD – Fox Pathé Europa (pub-
-lisher) – 2006 – ISAN 0000-0001-8CFA-0000-I-0000-000-\\
-\\
-8 1/2 (Italy, 1962, Federico Fellini) Otto e mezzo – Alternative title of the Work\\
-Work identifier: ISAN 0000-0000-161F-0000-W-0000-0000-F\\
-Manifestation identifier: V- ISAN 0000-0000-161F-0000-W-0000-0002-B –
-Italian (spoken); Japanese (subtitles) – DVD – Blu-ray – 2013/01/11 – Japan)
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Shichinin no samurai (Japan, 1954, Akira Kurosawa) \\
+Work identifier: ISAN 0000-0001-61AE-0000-1-0000-0001-W \\
+Variant identifier (Dubbed Spanish – Castellano): Los Siete Samurai: ISAN 0000-0001-61AE-0000-1-0000-0001-W
+\end{tcolorbox}
+```
 
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Les chevaliers du ciel (France, 2005, Gérard Pirès) \\
+Manifestation identifier: Home video publication – DVD – Fox Pathé Europa (publisher) – 2006 – ISAN 0000-0001-8CFA-0000-I-0000-000-
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+8 1/2 (Italy, 1962, Federico Fellini) Otto e mezzo – Alternative title of the Work \\
+Work identifier: ISAN 0000-0000-161F-0000-W-0000-0000-F \\
+Manifestation identifier: V- ISAN 0000-0000-161F-0000-W-0000-0002-B – Italian (spoken); Japanese (subtitles) – DVD – Blu-ray – 2013/01/11 – Japan)
 \end{tcolorbox}
 ```
 

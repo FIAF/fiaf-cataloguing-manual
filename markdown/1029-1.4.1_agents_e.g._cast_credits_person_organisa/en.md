@@ -22,13 +22,25 @@ It is also recommended where possible to register key Agents with any of the afo
 
 Optionally, if the Agent is credited under a name that is not identical with the preferred name from an authority file, record the name as used in the current instance of the related entity.
 
-  Examples:
+Examples:
 
-  Bob Robertson (pseudonym/screen name used by the director Sergio Leone at the beginning of the career)
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Bob Robertson (pseudonym/screen name used by the director Sergio Leone at the beginning of the career)
+\end{tcolorbox}
+```
 
-  Terence Hill (pseudonym/screen name used by the actor Mario Girotti in the most known part of his career)
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Terence Hill (pseudonym/screen name used by the actor Mario Girotti in the most known part of his career)
+\end{tcolorbox}
+```
 
-  Sofia Lazzaro (first pseudonym/screen name used by the actress Sophia Loren, whose birth name is Sofia Villani Scicolone).
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Sofia Lazzaro (first pseudonym/screen name used by the actress Sophia Loren, whose birth name is Sofia Villani Scicolone).
+\end{tcolorbox}
+```
 
 [^71]: EN 15907, 5.1 Agent
 [^72]: 1991 FIAF Cataloguing Rules for Film Archives – Statements of Responsibility, p. 35.

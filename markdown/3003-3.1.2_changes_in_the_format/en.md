@@ -15,16 +15,24 @@ Include and describe any of the distinguishing physical changes according to the
 
 The example below shows a number of possible Manifestations of the original Italian version of Il gattopardo (Italy, France, Luchino Visconti, 1963).
 
-Example: change in format
+Example of change in format:
 
-  Il gattopardo (Italy, France, Luchino Visconti, 1963) [^85]
-  Theatrical release, 35mm, Cinemascope – aspect ratio 2,35 : 1
-  Theatrical release, 70mm, Cinemascope – aspect ratio 2,20 : 1
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Il gattopardo (Italy, France, Luchino Visconti, 1963) \\
+Theatrical release, 35mm, Cinemascope – aspect ratio 2,35 : 1 \\
+Theatrical release, 70mm, Cinemascope – aspect ratio 2,20 : 1
+\end{tcolorbox}
+```
 
-Example: change in format and publication context
+Example of change in format and publication context:
 
-  Il gattopardo (Luchino Visconti, 1963)
-  Home video publication, DVD – aspect ratio 2,21 :1 – Medusa Video, Italia, 00/00/2009
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Il gattopardo (Luchino Visconti, 1963) \\
+Home video publication, DVD – aspect ratio 2,21 :1 – Medusa Video, Italia, 00/00/2009
+\end{tcolorbox}
+```
 
 In-house copying of an institution’s holding onto a different format, e.g. a video transfer of a 35mm film does not necessitate creation of a new Manifestation.
 In this case there is also the option of simply creating an Item for the copy, and linking it to the same Manifestation as the source Item.
