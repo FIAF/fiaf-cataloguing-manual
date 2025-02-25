@@ -5,34 +5,52 @@ Where numbers, symbols (e.g. ½, &, +, %) or other characters (e.g. £, $, °) e
 
 An alternative title should also be added giving the numbers, symbols or characters in writing (in the language of origin) to assist in searching and sorting for list production.
 
+Examples:
+
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
-
+\begin{tcolorbox}[colback=gray!10!white]
 8½ [Preferred/Title Proper] \\
-Otto e mezzo [Alternative] \\
+Otto e mezzo [Alternative]
+\end{tcolorbox}
+```
 
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
 Catch-22 [Preferred/Title Proper] \\
-Catch Twenty-two [Alternative] \\
+Catch Twenty-two [Alternative]
+\end{tcolorbox}
+```
 
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
 37°2 le matin [Preferred/Title Proper] \\
 Trente sept deux degrees le matin [Alternative] \\
 Trente-sept deux le matin [Alternative] \\
-37.2 degrees in the morning [Alternative] \\
+37.2 degrees in the morning [Alternative]
+\end{tcolorbox}
+```
 
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
 The £25,000 kiss [Preferred/Title Proper] \\
-The twenty five thousand pounds kiss [Alternative] \\
+The twenty five thousand pounds kiss [Alternative]
+\end{tcolorbox}
+```
 
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
 Se7en [Preferred/Title Proper] \\
 Seven [Alternative]
-
 \end{tcolorbox}
 ```
 
 Where possible a word should be used as a substitute when creating the title if a symbol or graphic design used cannot be replicated, with a note explaining this.
 See [Notes 1.3.7](#manual-1.3.7).
 
+Example:
+
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
+\begin{tcolorbox}[colback=gray!10!white]
 I [heart] Huckabees [Preferred/Title Proper] \\
 I love Huckabees [Alternative or Non-preferred] \\
 (Onscreen title shows a heart symbol for the middle word.) [Note]

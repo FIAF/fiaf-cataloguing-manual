@@ -9,12 +9,18 @@ In doubtful cases, do not include the possessive statement of responsibility as 
 In most cases the statement of responsibility or name was not intended to be part of the title, but was included for publicity purposes.
 Create alternative titles for cases where, in the judgment of the cataloguer, such titles would be helpful points of access.
 
+Examples:
 
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Example]
+\begin{tcolorbox}[colback=gray!10!white]
 Work \\
 \indent\hspace{1cm} Preferred title: Victor/Victoria \\
-\indent\hspace{1cm} Alternative title: Blake Edwards’ Victor/Victoria (title from onscreen) \\
+\indent\hspace{1cm} Alternative title: Blake Edwards’ Victor/Victoria (title from onscreen)
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
 Work \\
 \indent\hspace{1cm} Preferred title: Il Casanova di Federico Fellini \\
 \indent\hspace{1cm} Alternative (Parallel) title: Fellini’s Casanova \\
@@ -23,11 +29,17 @@ Variant \\
 \indent\hspace{1cm} Preferred title for English language version: Fellini’s Casanova \\ 
 \indent\hspace{1cm} (Research indicates that the possessive form of proper name \\
 \indent\hspace{1cm} is part of the English release title.) \\
-\indent\hspace{1cm} Alternative (Parallel) title for English language version: Il Casanova di Federico Fellini \\
-\indent\hspace{1cm} Alternative title: Casanova \\
+\indent\hspace{1cm} Alternative (Parallel) title for English language version: \\
+\indent\hspace{1cm} Il Casanova di Federico Fellini \\
+\indent\hspace{1cm} Alternative title: Casanova 
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
 Work/Variant/Manifestation/Item \\
 \indent\hspace{1cm} Preferred title: Fisherman’s luck? \\
 \indent\hspace{1cm} Alternative (Part) title: Gandy Goose in Fisherman’s luck?
-
 \end{tcolorbox}
 ```
+

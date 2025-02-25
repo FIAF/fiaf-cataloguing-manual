@@ -12,35 +12,61 @@ Such associative relationships are more prevalent and varied at the Work level, 
 Or, hold separate sound and image Items that would both be needed to make a new print.
 Similarly, in the case of restorations where separate Items or elements have been used to create a new restored Item.
 
-  The Wizard of Oz (United States of America, 1939, Victor Fleming)
+Examples:
 
-  Yellow Separation Negative
-  Cyan Separation Negative
-  Magenta Separation Negative
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+The Wizard of Oz (United States of America, 1939, Victor Fleming) \\
+Yellow Separation Negative, Cyan Separation Negative, Magenta Separation Negative
+\end{tcolorbox}
+```
 
-  Local hero (United Kingdom, 1983, Bill Forsyth)
-
-  DPX sequence
-  WAV audio file
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Local hero (United Kingdom, 1983, Bill Forsyth) \\
+DPX sequence, WAV audio file
+\end{tcolorbox}
+```
 
 - An Item that contains other Items (e.g. two or more separate Items are held on the same reel/tape/DVD etc. for convenient storage).
 
-  Selezione Fregoli 2002
+Examples:
 
-  Compilation of 16 short Fregoli films, spliced together for projection convenience.
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Selezione Fregoli 2002 \\
+Compilation of 16 short Fregoli films, spliced together for projection convenience.
+\end{tcolorbox}
+```
 
-  Laughing gas (United States of America, 1914, Charlie Chaplin)
-  Those love pangs (United States of America, 1914, Charlie Chaplin)
-  (two Charlie Chaplin short comedies spliced together on one reel - for storage convenience).
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Laughing gas (United States of America, 1914, Charlie Chaplin) \\
+Those love pangs (United States of America, 1914, Charlie Chaplin) \\
+(two Charlie Chaplin short comedies spliced together on one reel - for storage convenience).
+\end{tcolorbox}
+```
 
 - Item that is the source of a moving image Item (e.g. In-house copying of an Item to create a new Item for preservation or access)
 
-  35mm CTA Duplicating Postive copy of Carnival (c.1927) made from a 35mm
+Example:
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+  35mm CTA Duplicating Postive copy of Carnival (c.1927) made from a 35mm \\
   Nitrate Negative copy of Carnival (c.1927)
+\end{tcolorbox}
+```
 
 - Non-moving image Works/Items (e.g. Objects, documents, etc. relating to a specific Item)
 
+Example:
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
   Shots of 1932 (United Kingdom, 1932) (home movie) 9.5mm Safety film Item related to paper donor agreement
+\end{tcolorbox}
+```
 
 Record one or more “Other” relationship type terms to express the nature of the relationship to the Item, choosing the most specific term possible from existing relator terms lists, for example, “accompanied by,” “contained in,” etc. Selection should be made from a controlled list of values.
 A suggested list, which is open and not exhaustive, can be found in [D.17.3 Item Other Relationship Types](#manual-D.17.3).
@@ -50,3 +76,4 @@ In a note, add any additional information concerning the relationship considered
 If the cataloguing system allows, attach a digital file that reproduces any associated “document”.
 
 [^125]: See Appendix [E.2 Identifying Aggregates](#manual-E.2)
+

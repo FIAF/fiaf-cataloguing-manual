@@ -9,18 +9,31 @@ However, the series/serial title should also be indicated.
 The series/serial title may be indicated within (i) the title field itself, or (ii) reflected in a linked hierarchical relationship with an individual Serial Work level record, i.e. a Work assigned the Description Type “Serial[^170]; or (iii) added as a Title Type; or (iv) a combination.
 Individual institutions should select which is most appropriate for their own systems and for clarity of identification and retrieval.
 
+Example:
+
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
+\begin{tcolorbox}[colback=gray!10!white]
 Work (Serial) – Mary Tyler Moore show \\ \\
 \indent\hspace{1cm} Work (Monographic) – Chuckles bites the dust \\ \\
 \indent\hspace{2cm} Manifestation – Chuckles bites the dust \\ \\
-\indent\hspace{3cm} Item – Chuckles bites the dust \\ \\
-OR \\ \\
+\indent\hspace{3cm} Item – Chuckles bites the dust
+\end{tcolorbox}
+```
+
+OR
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
 Work (Serial) – Mary Tyler Moore show \\ \\
 \indent\hspace{1cm} Work (Monographic) – Mary Tyler Moore show. Chuckles bites the dust \\ \\
 \indent\hspace{2cm} Manifestation – Mary Tyler Moore show. Chuckles bites the dust \\ \\
-\indent\hspace{3cm} Item – Mary Tyler Moore show. Chuckles bites the dust \\ \\
-OR \\ \\
+\indent\hspace{3cm} Item – Mary Tyler Moore show. Chuckles bites the dust
+\end{tcolorbox}
+```
+OR
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
 Work (Monographic) – Chuckles bites the dust (Preferred title) \\
 \indent\hspace{4cm} Mary Tyler Moore show (Series title) \\ \\
 \indent\hspace{1cm} Manifestation – Chuckles bites the dust \\ \\                    

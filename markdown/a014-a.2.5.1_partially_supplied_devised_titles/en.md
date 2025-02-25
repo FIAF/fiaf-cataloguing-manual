@@ -62,28 +62,47 @@ Some archives place the entire sequence of components in the title field in brac
 
 Other archives place only the qualifying form term in square or round brackets.
 
-```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
-Le Cercle Rouge. Theatrical trailer \\
-OR Le Cercle Rouge (Theatrical trailer) \\
-OR [Le Cercle Rouge. Theatrical trailer] \\
-OR Title: Le Cercle Rouge, Form: Theatrical trailer \\
- \\
-The misfits. TV trailers \\
-OR The misfits (TV Trailers) \\
-OR [The Misfits. TV trailers] \\
-OR Title: The Misfits, Form: TV trailers \\
- \\
-L’armée des ombres. Rushes \\
-OR L’armée des ombres (Rushes) \\
-OR L’armée des ombres [Rushes] \\
-OR Title: L’armée des ombres, Form: Rushes \\
- \\
-Le samourai. Excerpt \\
-OR Le samourai (Excerpt) \\
-OR [Le samourai. Excerpt] \\
-OR Title: Le samourai, Form: Excerpt 
+Example:
 
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Le Cercle Rouge. Theatrical trailer \\
+The misfits. TV trailers \\
+L’armée des ombres. Rushes \\
+Le samourai. Excerpt
+\end{tcolorbox}
+```
+
+OR
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Le Cercle Rouge (Theatrical trailer) \\
+The misfits (TV Trailers) \\
+L’armée des ombres (Rushes) \\
+Le samourai (Excerpt)
+\end{tcolorbox}
+```
+
+OR
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+[Le Cercle Rouge. Theatrical trailer] \\   
+\indent\hspace{0cm}[The Misfits. TV trailers] \\   
+L’armée des ombres [Rushes] \\   
+\indent\hspace{0cm}[Le samourai. Excerpt]
+\end{tcolorbox}
+```
+
+OR
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Title: Le Cercle Rouge, Form: Theatrical trailer \\
+Title: The Misfits, Form: TV trailers \\
+Title: L’armée des ombres, Form: Rushes \\
+Title: Le samourai, Form: Excerpt
 \end{tcolorbox}
 ```
 
@@ -99,31 +118,73 @@ Optionally (or additionally), this data can also be indexed in specific fields d
 
 Use numbers to distinguish separate content when there is more than one unidentified segment in a particular descriptor category.
 
+Example:
 
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
-  The Mighty Boosh. Unidentified episode \\
-  OR \\
-  Series Title: The Mighty Boosh \\
-  Episode Title: Unidentified episode \\
- \\
-  Flash Gordon conquers the universe. Unidentified episode. \\
-  OR \\
-  Series Title: Flash Gordon conquers the universe \\
-  Episode Title: Unidentified episode \\
- \\
-  This hour has seven days. Unidentified episode. International espionage. 196? \\
-  OR \\
-  Series Title: This hour has seven days \\
-  Episode Title: Unidentified episode \\
-  Summary/Content description: International espionage \\
-  Year: 196? \\
- \\
-  Heckle and Jeckle. Unidentified cartoon. \\
-  OR \\
-  Series Title: Heckle and Jeckle \\
-  Episode Title: Unidentified episode
+\begin{tcolorbox}[colback=gray!10!white]
+The Mighty Boosh. Unidentified episode
+\end{tcolorbox}
+```
 
+OR
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Series Title: The Mighty Boosh \\
+Episode Title: Unidentified episode
+\end{tcolorbox}
+```
+
+Example:
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Flash Gordon conquers the universe. Unidentified episode.
+\end{tcolorbox}
+```
+
+OR
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Series Title: Flash Gordon conquers the universe \\
+Episode Title: Unidentified episode
+\end{tcolorbox}
+```
+
+Example:
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+This hour has seven days. Unidentified episode. International espionage. 196?
+\end{tcolorbox}
+```
+
+OR
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Series Title: This hour has seven days \\
+Episode Title: Unidentified episode \\
+Summary/Content description: International espionage \\
+Year: 196?
+\end{tcolorbox}
+```
+
+Example:
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Heckle and Jeckle. Unidentified cartoon.
+\end{tcolorbox}
+```
+
+OR
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Series Title: Heckle and Jeckle \\
+Episode Title: Unidentified episode
 \end{tcolorbox}
 ```
 

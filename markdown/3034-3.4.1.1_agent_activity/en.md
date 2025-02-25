@@ -23,12 +23,13 @@ Give the Agent(s) and Agent Activity in the terms and language in which they app
 If more than one Agent is associated with a particular role connected with a Manifestation or Event, where possible or desirable, record the names in the order indicated by the sequence, layout, or typography of the names on the source of information.
 Preserving the ordering of the credited persons should be determined by the requirements of individual institutions.^[FIAF, 1.6.2, pp. 36-37.]
 
+Example:
+
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Example]
+\begin{tcolorbox}[colback=gray!10!white]
 Broadcaster: CBS   \\
 Broadcast Channel: BBC1   \\
 Distributor: GUO Film Distributors   \\
 Publisher: Buena Vista International
 \end{tcolorbox}
 ```
-

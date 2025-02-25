@@ -15,30 +15,33 @@ Add whatever additions to the title are necessary to identify the Work/Variant a
 Use multiple additions where necessary.
 If multiple additions must be made to the title field in order to identify the Work/Variant, distinguish each addition (e.g., through the use of punctuation such as space colon space, or space full stop space).
 
+Example:
+
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Example]
-
+\begin{tcolorbox}[colback=gray!10!white]
 Blade runner. Final Cut. 1982
-
 \end{tcolorbox}
 ```
-
-
 
 Possible qualifiers include content terms (see for example D.18 List of form terms for
 Supplied/Devised titles), corporate bodies that are not principal creators of the Work/Variant but are closely associated with the Work/Variant and useful for identification of it, place of publication/release/distribution/broadcast, and date of publication/release/distribution/broadcast.[^136]
 
+Example Works:
 
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Example]
+\begin{tcolorbox}[colback=gray!10!white]
+A Star is born (Motion picture : 1954) \\
+A Star is born (Television programme : 1961)
+\end{tcolorbox}
+```
 
-Works \\
-\indent\hspace{1cm} A Star is born (Motion picture : 1954) \\
-\indent\hspace{1cm} A Star is born (Television programme : 1961) \\
-Variants \\
-\indent\hspace{1cm} Police story III – Supercop. English subtitled version \\
-\indent\hspace{1cm} Blade runner (Motion picture. 1982. 2007 version) \\
-\indent\hspace{1cm} Blade runner (Motion picture. 1987. 25th anniversary edition)
+Example Variants:
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Police story III – Supercop. English subtitled version \\
+Blade runner (Motion picture. 1982. 2007 version) \\
+Blade runner (Motion picture. 1987. 25th anniversary edition)
 \end{tcolorbox}
 ```
 

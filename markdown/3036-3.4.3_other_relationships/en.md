@@ -8,26 +8,58 @@ Commonly-occurring relationships include:
 
 - Manifestations that the moving image Manifestation forms part of (e.g. series/serials)
 
-  Le cryptogramme rouge (35mm print, m 984, m 48’ (18fps)
-  3° episode of the serial Les vampires (L. Feuillade, 1915).
+Example:
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Le cryptogramme rouge (35mm print, m 984, m 48’ (18fps) \\
+3° episode of the serial Les vampires (L. Feuillade, 1915).
+\end{tcolorbox}
+```
 
 - Manifestation(s) that the moving image Manifestation has a sequential relationship with (e.g. series/serials)
 
 - Manifestation(s) that are promotional material(s) (i.e. trailers) for a particular Manifestation
 
-  Rashomon (Japan, 1950, A. Kurosawa) “has as promotional material”: Rashomon, Italian trailer (35mm), of the Italian theatrical release (1952).
+Example:
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Rashomon (Japan, 1950, A. Kurosawa) “has as promotional material”: Rashomon, Italian trailer (35mm), of the Italian theatrical release (1952).
+\end{tcolorbox}
+```
 
 - Non-moving image Works/Manifestation(s), about or relating to the moving image Manifestation (e.g. objects, articles, documents such as a review relating to a DVD home video publication, advertising materials referring to a specific theatrical distribution, related materials such as censorship visas, laboratory technical papers, etc.)
 
-  Metro. Issue 157. June 2008. “DVD review: Blade Runner: The Final Cut”, by Steven Aoun.
-  
-  Der Dritte Mann (German film poster for the German-language Release Manifestation of the film The third man (United Kingdom, 1949, Carol Reed)
+Examples:
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Metro. Issue 157. June 2008. “DVD review: Blade Runner: The Final Cut”, by Steven Aoun.
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Der Dritte Mann (German film poster for the German-language Release Manifestation of the film The third man (United Kingdom, 1949, Carol Reed)
+\end{tcolorbox}
+```
 
 - Pre-release Manifestation(s) relating to a Release Manifestation
 
-  Blow-up (UK-Italy, 1966, Michelangelo Antonioni )and Blow-up censorship cuts (35mm) of the Italian theatrical release (1967).
-  
-  Othello, Orson Welles, USA- Italy-Morocco-France, 1952 and Otello, dailies and rushes, positive silent and some with sound, 35mm, containing shots included in only a very limited extent in the first theatrical release (their title proper in Italian is: Otello).
+Examples:
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Blow-up (UK-Italy, 1966, Michelangelo Antonioni )and Blow-up censorship cuts (35mm) of the Italian theatrical release (1967).
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Othello, Orson Welles, USA- Italy-Morocco-France, 1952 and Otello, dailies and rushes, positive silent and some with sound, 35mm, containing shots included in only a very limited extent in the first theatrical release (their title proper in Italian is: Otello).
+\end{tcolorbox}
+```
 
 Record one or more “Other” relationship type to express the nature of the relationship to the Manifestation, choosing the most specific term possible from existing relator terms lists, for example, “commentary on,” “review of,” etc. 
 Selection should be made from a controlled list of values.

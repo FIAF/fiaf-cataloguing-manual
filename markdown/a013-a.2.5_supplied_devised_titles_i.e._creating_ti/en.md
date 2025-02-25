@@ -52,12 +52,34 @@ The above elements can be combined with a form qualifier if relevant: i.e. Comme
 
 Not all the above information has to be in the archive title if not discernible, but incorporating as many as possible using a consistent will aid identification.
 
+Examples:
+
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
-Lawrence of Arabia. Rushes \\
-Tram journey through Southampton 1902 \\
-Warships. 1920s \\
-Tango. Orange genie. Commercial \\
+\begin{tcolorbox}[colback=gray!10!white]
+Lawrence of Arabia. Rushes
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Tram journey through Southampton 1902
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Warships. 1920s
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Tango. Orange genie. Commercial
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
 Jones Collection footage. No. 5
 \end{tcolorbox}
 ```

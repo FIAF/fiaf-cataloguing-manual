@@ -9,15 +9,16 @@ Within the hierarchical structure this new Manifestation would link to the Work 
 
 The new Manifestation/Item title could be added to the Work level as an Alternative title type.
 
+Example:
+
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
+\begin{tcolorbox}[colback=gray!10!white]
 Work (Serial) – Panorama \\ \\
 Work (Monographic) – Panorama [2011-01-23] \\ \\
 \indent\hspace{1cm} Manifestation 1 – Panorama [2011-01-23] \\ \\
 \indent\hspace{2cm} Item – Panorama [2011-01-23] \\ \\
 \indent\hspace{1cm} Manifestation 2 – Panorama [2011-05-03] \\ \\
 \indent\hspace{2cm} Item – Panorama [2011-05-03]
-
 \end{tcolorbox}
 ```
 
@@ -25,15 +26,16 @@ In the above example the Manifestations “Panorama [2011-01-23] and “Panorama
 
 Alternatively, the cataloguer can supply the type of unit and number, with the option of utilising square brackets for clarity.
 
+Example:
+
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
+\begin{tcolorbox}[colback=gray!10!white]
 Work (Serial) – Panorama \\ \\
 Work (Monographic) – Panorama. [Episode 1] \\ \\
 \indent\hspace{1cm} Manifestation – Panorama. [Episode 1]\\ \\
 \indent\hspace{2cm} Item – Panorama. [Episode 1] \\ \\
 \indent\hspace{1cm} Manifestation – Panorama. [Episode 1] (repeat broadcast) \\ \\
 \indent\hspace{2cm} Item – Panorama. [Episode 1] (repeat broadcast)
-
 \end{tcolorbox}
 ```
 

@@ -23,8 +23,10 @@ important (either for identification or for access).[^152]
 
 - Help/Search: Titles which may or may not have been used in verified sources but which clearly help when searching. Use the “Help/Search” title type for stylistic variations including, abbreviations (e.g., Dr./Doctor), numerals (e.g., 45/forty five), acronyms (e.g., FIAF/International Federation of Film Archives) symbols and other characters (e.g., &/and, £/pound), different spelling (Southsea/South Sea).[^153]
 
+Example:
+
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
+\begin{tcolorbox}[colback=gray!10!white]
 The fast \& the furious 5 \\
 The fast and the furious 5 \\
 The fast \& the furious 5 Rio heist \\
@@ -39,17 +41,16 @@ The fast \& the furious five Rio heist
 \end{tcolorbox}
 ```
 
-
 - Series/Serial title: the series/serial title of a Work that constitutes an episode/part
 
+Example:
 
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
+\begin{tcolorbox}[colback=gray!10!white]
 Mary Tyler Moore show = Series/Serial Title \\
 Chuckles bites the dust = Preferred Title
 \end{tcolorbox}
 ```
-
 
   (see [1.3.2 Title](#manual-1.3.2))
 
@@ -63,15 +64,14 @@ parallel titles for international co-productions, a title which cannot be reprod
 Parallel titles are recorded with wording and spelling as established by an appropriate principal source.
 Where this involves transcription between scripts, use an appropriate standard for transliterations.[^154]
 
+Example:
 
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
+\begin{tcolorbox}[colback=gray!10!white]
 Chandralekha [No English language title translation available; \\
 archive holds Indian release copy – title is romanized.]
-
 \end{tcolorbox}
 ```
-
 
 When a title is an international co-production, or is produced in a bi- or multi-lingual country of origin, and is released simultaneously under separate titles in the languages of the country of origin or countries of co-production as well as in other languages, record all the parallel titles in the languages of the countries of co-production and in the language of the copy the institution holds, if it is in an additional language.
 
@@ -80,18 +80,16 @@ If it cannot be determined whether the Work was released simultaneously or the r
 Historically, parallel titles have been placed within the title field itself, following the preferred title and an equal sign to represent the title frame (i.e., the fact that both titles appear onscreen).
 These guidelines recommend the use of separate fields that distinguish between the preferred title and any subsequent parallel title(s) but if this is not possible, the older approach is acceptable.
 
+Example:
 
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
+\begin{tcolorbox}[colback=gray!10!white]
 Der Fangschuss = Coup de grâce [Work is a German-French co-production. The Work was released in the U.S. under the French title.] \\
 \\
 Der Fangschuss (Preferred Title) \\
 Coup de grâce (Parallel Title)
-
 \end{tcolorbox}
 ```
-
-
 
 Alternatively, an institution may opt to have fewer Title Types and simply use Preferred and Alternative Title Types (i.e., designating parallel titles as Alternative Title Types).
 For example, with co-productions, a Preferred title for the Work is established with all other language titles added both as Alternative title types to the Work and as the Title Proper/Other Title of an associated Variant and/or Manifestation.

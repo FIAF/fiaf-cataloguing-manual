@@ -8,44 +8,106 @@ This is offered for users that do not have the option of structuring this inform
 
 The source or function of a title, the date the title was viewed and who viewed it, variations in titles, inaccuracies, deletions, etc., or other information relating to a title, if this information is not recorded elsewhere in dedicated fields.186
 
- Examples:[^187]
+Work Examples:[^187]
 
- Works
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Commonly known in moving image reference sources under title Mon oncle.
+\end{tcolorbox}
+```
 
-  Commonly known in moving image reference sources under title Mon oncle.
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Title from publisher’s catalogue.
+\end{tcolorbox}
+```
 
-  Title from publisher’s catalogue.
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+ Title devised by cataloguer.
+\end{tcolorbox}
+```
 
-  Title devised by cataloguer.
-
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
   Title from title screen.
+\end{tcolorbox}
+```
 
-  Title supplied by donor, Mrs.
-Pare Lorentz (Elizabeth Meyer).
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+  Title supplied by donor, Mrs. Pare Lorentz (Elizabeth Meyer).
+\end{tcolorbox}
+```
 
-  Title from Moving Picture World 3:122.
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Title from Moving Picture World 3:122.
+\end{tcolorbox}
+```
 
-  The word “Love” in the title is represented by the drawing of a heart.
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+The word “Love” in the title is represented by the drawing of a heart.
+\end{tcolorbox}
+```
 
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
   Parallel title, Mad about money, is American release title.
+\end{tcolorbox}
+```
 
- Variants/Manifestations/Items
+Variant/Manifestation/Item Examples:
 
-  Title on containers of parts 3 and 5–6 varies slightly.
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Title on containers of parts 3 and 5–6 varies slightly.
+\end{tcolorbox}
+```
 
-  Subtitle varies.
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Subtitle varies.
+\end{tcolorbox}
+```
 
-  Title from container.
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Title from container.
+\end{tcolorbox}
+```
 
-  Title from descriptive insert.
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Title from descriptive insert.
+\end{tcolorbox}
+```
 
-  Caption title.
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Caption title.
+\end{tcolorbox}
+```
 
-  Title from menu.
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Title from menu.
+\end{tcolorbox}
+```
 
-  Tentative title taken from label on nitrate can.
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Tentative title taken from label on nitrate can.
+\end{tcolorbox}
+```
 
-  Incorrect title spliced on film: Days of glory.
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Incorrect title spliced on film: Days of glory.
+\end{tcolorbox}
+```
+
 
 **Year of reference**
 

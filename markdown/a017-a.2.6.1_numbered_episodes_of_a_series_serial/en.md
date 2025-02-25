@@ -11,43 +11,56 @@ Any or either of the forms may be used in combination as an institution chooses,
 It is worth bearing in mind that serials are always intended to be viewed in a specified order.
 Therefore serial title, episode numbers, and episode titles are usually included on the Item itself or in secondary sources, and should be reflected in the record to aid in discovery and identification.
 
+Example:
+
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
+\begin{tcolorbox}[colback=gray!10!white]
 Flash Gordon’s trip to Mars. Chapter 12. Ming the Merciless \\ \\
 Work (Serial) – Flash Gordon’s trip to Mars \\ \\
 \indent\hspace{1cm} Work (Monographic) – Ming the Merciless \\ \\
 \indent\hspace{2cm} Manifestation – Ming the Merciless \\ \\
 \indent\hspace{3cm} Item – Ming the Merciless \\ \\
-\indent\hspace{2 cm}[with “Chapter 12” element being added to a separate relevant Part field] \\ \\
-OR \\ \\
+\indent\hspace{2 cm}[with “Chapter 12” element being added to a separate relevant Part field]
+\end{tcolorbox}
+```
+
+OR
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
 Work (Serial) – Flash Gordon’s trip to Mars \\ \\
 \indent\hspace{1cm} Work (Monographic) – Flash Gordon’s trip to Mars. \\
 \indent\hspace{1cm} Chapter 12. Ming the Merciless \\ \\
 \indent\hspace{2cm} Manifestation – Flash Gordon’s trip to Mars. \\
 \indent\hspace{2cm} Chapter 12. Ming the Merciless \\ \\
 \indent\hspace{3cm} Item – Flash Gordon’s trip to Mars. \\
-\indent\hspace{3cm} Chapter 12. Ming the Merciless \\ \\
-OR \\ \\
+\indent\hspace{3cm} Chapter 12. Ming the Merciless
+\end{tcolorbox}
+```
+
+OR
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
 Work (Serial) – Flash Gordon’s trip to Mars \\ \\
 \indent\hspace{1cm} Work (Monographic) – Ming the Merciless \\ \\
 \indent\hspace{2cm} Manifestation – Flash Gordon’s trip to Mars. \\
 \indent\hspace{2cm} Chapter 12. Ming the Merciless \\ \\
 \indent\hspace{3cm} Item – Flash Gordon’s trip to Mars. \\
 \indent\hspace{3cm} Chapter 12. Ming the Merciless
-
 \end{tcolorbox}
 ```
 
 The same principle can be applied to episodes of a series/serial that do not have their own individual titles but have numbered parts.
 
+Example:
 
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
+\begin{tcolorbox}[colback=gray!10!white]
 Work (Serial) – Pride and prejudice \\ \\
 Work (Monographic) – Pride and prejudice. Part One \\ \\
 \indent\hspace{1cm} Manifestation – Pride and prejudice. Part One \\ \\
 \indent\hspace{2cm} Item – Pride and prejudice. Part One
-
 \end{tcolorbox}
 ```
 

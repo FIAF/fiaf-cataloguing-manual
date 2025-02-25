@@ -20,8 +20,10 @@ Optionally (or additionally), establish a link with the form index adopted by th
 
 Institutions should rely upon in-house lists of standardised form terms, or utilise established standardised lists such as Library of Congress Genre/Form Terms for Library and Archival Materials (LCGFT), or rely upon the list provided in [D.18 List of form terms for Supplied/Devised titles](#manual-D.18).
 
+Examples:
+
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
+\begin{tcolorbox}[colback=gray!10!white]
 Announcements \\
 Bloopers \\
 Commercials \\
@@ -31,28 +33,59 @@ Home movies
 
 If the content being described consists of two or more forms, record the one or two most predominate forms followed by the phrase “and other content,”[^164] or “and other segments” or something similar as long as consistency is achieved.
 
+Example:
 
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
+\begin{tcolorbox}[colback=gray!10!white]
 CBS bloopers, commercials and other content
 \end{tcolorbox}
 ```
-
 
 It is recommended that institutions stipulate within the supplied/devised title that the footage is unedited (e.g.
 “unedited footage” or “unedited content”), as an overall way of characterising the form of the content.
 This may not be appropriate in all cases.[^165]
 
+Examples:
 
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
- Animals. Unedited footage \\
-  Boulder transmission line tests. Unedited footage \\
-  Cattle herd. Stock footage \\
-  Kennedy presidential campaign. Arrival, Boston. Unedited footage \\
-  Trains, night clubs, Santa Ana Freeway. Stock shots \\
-  Unedited. Kleine Collection footage \\
-  Unedited. Jones Collection footage. No. 5
+\begin{tcolorbox}[colback=gray!10!white]
+Animals. Unedited footage
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Boulder transmission line tests. Unedited footage
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Cattle herd. Stock footage
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Kennedy presidential campaign. Arrival, Boston. Unedited footage
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Trains, night clubs, Santa Ana Freeway. Stock shots
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Unedited. Kleine Collection footage
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Unedited. Jones Collection footage. No. 5
 \end{tcolorbox}
 ```
 
@@ -64,35 +97,37 @@ Record or index the name(s) in the form by which the creator/collector/assembler
 
 If no name has been recorded, but the subject of the content is a person, family or corporate body, express the title in a way that clearly indicates that the subject of the content is the named person, family or corporate body.[^168]
 
+Examples:
 
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
-  Compilation on Emmanuelle Devos \\
-  Early balloon footage. \\
-  World War I patriotic marches. No. 3 \\
-  Ads and tours of Seattle industry \\
-  Ponselle, Rosa. Screentests. \\
-  Theodore Roosevelt. 1905 inaugural ceremony. Speeches \\
-  James Cagney, ca. 1965. Interviews \\
+\begin{tcolorbox}[colback=gray!10!white]
+Compilation on Emmanuelle Devos \\
+Early balloon footage. \\
+World War I patriotic marches. No. 3 \\
+Ads and tours of Seattle industry \\
+Ponselle, Rosa. Screentests. \\
+Theodore Roosevelt. 1905 inaugural ceremony. Speeches \\
+James Cagney, ca. 1965. Interviews  \\
   ABC Network fall season preview. 1964-65 season. Unedited footage  \\
-\indent\hspace{1cm} optionally: Unedited footage. ABC Network fall season preview. 1964-65 season  \\
-  Academy Awards, 17th. Best actor and actress. Unedited footage  \\
+\indent\hspace{1cm} optionally: Unedited footage. ABC Network fall season preview. 1964-65 season \\
+Academy Awards, 17th. Best actor and actress. Unedited footage  \\
 \indent\hspace{1cm} optionally, Unedited footage. Academy Awards, 17th. Best actor and actress  \\
 \indent\hspace{1cm} optionally, Unedited 17th Academy Awards footage. Best actor and actress \\
-  Academy Awards. Award presentation, Conrad Nagel. Unedited footage \\
-  Anna Held. Unedited footage \\
-  CBS logo reel \\
-  Eddie Cantor and others. Unedited footage \\
-  World Series, 1956. Game no. 7. Unedited footage
+Academy Awards. Award presentation, Conrad Nagel. Unedited footage \\
+Anna Held. Unedited footage \\
+CBS logo reel \\
+Eddie Cantor and others. Unedited footage \\
+World Series, 1956. Game no. 7. Unedited footage
 \end{tcolorbox}
 ```
 
 For unidentified moving images, use the term “unidentified” in the title.
 Use numbers to distinguish separate content when there is more than one unidentified segment in a particular descriptor category.
 
+Examples:
 
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
+\begin{tcolorbox}[colback=gray!10!white]
 Unidentified cartoon \\
 Unidentified cartoon. Warner Brothers  \\
 \indent\hspace{1cm} optionally: Unidentified Warner Brothers cartoon \\

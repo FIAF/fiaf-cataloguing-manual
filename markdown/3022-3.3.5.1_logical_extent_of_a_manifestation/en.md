@@ -5,8 +5,10 @@ Logical extent is the number of discrete logical units which make up the Manifes
 
 For digital Manifestations, there can be two extents: one for the number of files, and one for the extent of the carrier (e.g., 2 LTO6 tapes).
 
+Example:
+
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Example]
+\begin{tcolorbox}[colback=gray!10!white]
 A home video publication: DVD in 2 discs \\
 A theatrical print: in 6 reels \\
 A hard-disk stored film in 3 files

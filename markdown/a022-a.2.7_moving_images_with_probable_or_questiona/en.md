@@ -15,24 +15,32 @@ For example, an Item may have a probable or questionable title but the title is 
 Some institutions may choose to record a probable or questionable title as the title proper, or preferred title, for the Manifestation/Item, but not as the preferred title for the Work or Variant.
 Some institutions may use the probable or questionable title as the preferred title for the Manifestation/item and Work (or Work and Variant).
 
+Example concerning an Archive holding a copy of the Italian version of an unidentified American silent comedy, with Italian intertitles:
+
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
-Archive contains a copy of the Italian version of an unidentified American silent comedy, with Italian intertitles. \\
-\\
+\begin{tcolorbox}[colback=gray!10!white]
 Primary Title on Item: Title proper – Nipote Modello \\
 Primary Title for Manifestation: Title proper – Nipote Modello \\
 Primary Title for Variant: Preferred title – Nipote Modello \\
-Primary Title for Work: Supplied/devised title – Unidentified film. Silent American comedy \\
-\\
-OR \\
-\\
+Primary Title for Work: Supplied/devised title – Unidentified film. Silent American comedy
+\end{tcolorbox}
+```
+
+or
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
 Primary Title on Item: Title proper – Nipote Modello \\
 Primary Title for Manifestation/Item record: Title proper – Nipote Modello \\
 Primary Title for Variant record: Preferred title – Nipote Modello \\
-Primary Title for Work: Supplied/devised title – Unidentified silent American Comedy. Nipote Modello \\
-\\
-OR \\
-\\
+Primary Title for Work: Supplied/devised title – Unidentified silent American Comedy. Nipote Modello
+\end{tcolorbox}
+```
+
+or
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
 Primary Title on Item: Title proper – Nipote Modello \\
 Primary Title for Manifestation/Item record: Title proper – Nipote Modello \\
 Primary Title for Variant record: Preferred title – Nipote Modello \\

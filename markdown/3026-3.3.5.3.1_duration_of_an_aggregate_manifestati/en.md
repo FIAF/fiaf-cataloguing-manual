@@ -6,9 +6,11 @@ In addition there is the option to qualify this with details of the duration of 
 
 Example:
 
-DVD “The Audrey Hepburn Collection” contains 3 films, all with extra features.
-The running times for each of those 3 units are given on the container.
-
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+DVD “The Audrey Hepburn Collection” contains 3 films, all with extra features. The running times for each of those 3 units are given on the container. \\
 The total running time of these may be added as duration, with an additional clarifying note detailing the running times of the individual units.
+\end{tcolorbox}
+```
 
 For more information about Aggregates see [Appendix E, Aggregates](#manual-E).

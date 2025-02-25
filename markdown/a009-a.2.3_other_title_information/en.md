@@ -9,12 +9,28 @@ Other title information includes subtitles, avant-titres, etc., but does not inc
 
 If other title information appearing on the Manifestation/Item is considered to be important (either for identification or for access), transcribe it as it appears on the source of information, following the principle of transcription and according to the general guidelines on transcription given in [F.3 Relationship of FIAF Cataloguing Rules to Functional Requirements of Bibliographic Records (FRBR), Resource Description and Access (RDA) and The European Standards Committee (CEN) Cinematographic Works Standard EN 15907](#manual-F.3), section entitled “Representation (or principle of transcription).
 
+Examples:
 
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
-Dr. Strangelove, or, How I learned to stop worrying and love the bomb \\  
-Film d’amore e d’anarchia, ovvero, Stamattina alle 10 in Via del Fiore nella nota casa di tolleranza \\  
-Claymation: three dimensional clay animation \\
+\begin{tcolorbox}[colback=gray!10!white]
+Dr. Strangelove, or, How I learned to stop worrying and love the bomb
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Film d’amore e d’anarchia, ovvero, Stamattina alle 10 in Via del Fiore nella nota casa di tolleranza
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Claymation: three dimensional clay animation
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
 This Britain: Heritage of the sea
 \end{tcolorbox}
 ```
@@ -22,9 +38,16 @@ This Britain: Heritage of the sea
 Distinguish the other title information through the use of spacing or punctuation, or a separate or dedicated field.
 If a general material designation is used, place it after the preferred title and before other title information.[^141]
 
+Examples:
+
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Examples]
-Claymation [motion picture]: three dimensional clay animation \\ 
+\begin{tcolorbox}[colback=gray!10!white]
+Claymation [motion picture]: three dimensional clay animation
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
 This Britain [motion picture]: Heritage of the sea
 \end{tcolorbox}
 ```
