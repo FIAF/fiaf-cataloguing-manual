@@ -164,7 +164,7 @@ Content description
 | Title [Title] | Title type |
 | The Ladykillers | Original |
 |The Lady killers | Help search |
-| Filmographic level: Monographic |
+| Work type: Film | Filmographic level: Monographic |
 | Production country [Country of reference] : United Kingdom | |
 | Date(s) [Year of reference] | Date type |
 | 1955 | Copyright |
@@ -286,7 +286,7 @@ Content description
 | Title [Title] | Title type |
 | The Ladykillers | Original |
 | The Lady killers | Help search |
-| Filmographic level: Monographic |
+| Work type: Film | Filmographic level: Monographic |
 | Production country [Country of reference]: United Kingdom | |
 | Date(s) [Year of reference] | Date type |
 | 1955 | Copyright |
