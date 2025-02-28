@@ -1,4 +1,5 @@
-# 0.4.2 Capitalisation and Articles {#manual-0.4.2}
+\subsection{0.4.2 Capitalisation and Articles}
+\label{sec:manual-0.4.2}
 
 Some institutions render Work titles in capitals – all upper-case – as a simple typographical method of identifying these key items of information, while others only capitalise the first letter of a title, in accordance with ISBD.
 Either usage is permitted by these guidelines, although institutions may prefer to retain the conventional practice of capitalising only the first letter of a title and any proper names as dictated by the usage of the language in which the information is given.
@@ -15,17 +16,23 @@ Alternatively some systems (for example, those containing MARC21 records) indica
 
 Examples:
 
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Alternative practices | ISBD practice:   \\ 
+Die Hard | Die hard    \\
+Die DREIGROSCHENOPER | Die Dreigroschenoper    \\
+LES PATTERSON SAVES THE WORLD | Les Patterson saves the world     \\
+Les MISERABLES | Les miserables    \\
+American in Paris, An | An American in Paris 
+\end{tcolorbox}
 ```
-Alternative practices | ISBD practice:    
-Die Hard | Die hard    
-Die DREIGROSCHENOPER | Die Dreigroschenoper    
-LES PATTERSON SAVES THE WORLD | Les Patterson saves the world     
-Les MISERABLES | Les miserables    
-American in Paris, An | An American in Paris    
 
-MARC21 tag example:
-
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+MARC21 tag example:\\
 245 03 An American in Paris
+\end{tcolorbox}
 ```
+
 
 

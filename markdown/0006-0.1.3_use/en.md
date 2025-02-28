@@ -1,4 +1,5 @@
-# 0.1.3 Use {#manual-0.1.3}
+\subsection{0.1.3 Use}
+\label{sec:manual-0.1.3}
 
 Instead of defining levels of cataloguing, this manual outlines core elements for moving image description.
 The core elements provide the basis for identification of a resource and for facilitating the exchange of data from one system to another.

@@ -1,4 +1,7 @@
-# 0.2 Core elements of description[^9] {#manual-0.2}
+\subsection{0.2 Core elements of description}[^9]
+\label{sec:manual-0.2}
+
+TODO: footnote 9 is attached above
 
 These core points of description are listed with their corresponding terms as presented in the manual.
 They represent an ideal minimum set of metadata for moving image cataloguing.

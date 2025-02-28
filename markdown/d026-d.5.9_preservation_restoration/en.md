@@ -1,0 +1,18 @@
+\subsection{D.5.9 Preservation/Restoration}
+\label{sec:manual-D.5.9}
+
+Refers to manifestations which represent the outcome(s) of restoration events/activities, usually involving selection and aggregation of materials from diverse source elements to replicate an ‘original’ or ‘ideal’ manifestation.
+Some institutions may use this to refer to restorations undertaken by the institution (not to be confused with the Variant, resulting from reconstruction made by aggregating different sources, see [1.1.2 Boundaries between Works and Variants/Manifestations](#manual-1.1.2).
+
+  Example:
+
+  The great white silence (2010) (United Kingdom, Herbert Pointing, 1924) (DVD –Dual Format Edition – BFI)
+
+  Metropolis (Germany, Fritz Lang, 1927)
+  The Complete Metropolis – Blu Ray – (2010 restoration – Kino International, United States of America, 2010)[^219]
+
+  Nosferatu. Eine Symphonie des Grauens (Germany, 1922, Friedrich Wilhelm Murnau) Blu-Ray of the preservation/Restoration Variant: 2005-2006 restoration – Murnau Stiftung/Transit Classics – Deluxe Edition – 2014 – EAN 888430505797[^220]
+
+[^219]: http://www.silentera.com/video/metropolisHV.html.
+[^220]: http://www.murnau-stiftung.de/movie/674 and http://www.schnittberichte.com/news.php?ID=7433
+

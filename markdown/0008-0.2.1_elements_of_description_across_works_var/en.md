@@ -1,4 +1,5 @@
-# 0.2.1 Elements of description across Works, Variants, Manifestations, and Items {#manual-0.2.1}
+\subsection{0.2.1 Elements of description across Works, Variants, Manifestations, and Items}
+\label{sec:manual-0.2.1}
 
 This section includes sample structures for how the elements can be applied across Works, Variants, Manifestations, and Items.
 Four models are provided, beginning with the more complete four-level model and ending with a simple one-level model.

@@ -1,4 +1,5 @@
-# 0.5 Language and script of the description {#manual-0.5}
+\subsection{0.5 Language and script of the description}
+\label{sec:manual-0.5}
 
 The language of the original Work can be different from the language of a Manifestation or Item.
 For example, the original Work title can be in the original creation language, but the item being catalogued is a Variant with the title and key credits in a different language.
@@ -13,10 +14,12 @@ Use a recognised standard for transliteration such as [ISO 9 for Cyrillic charac
 Give an explanatory note for the addition, if necessary.
 Optionally, enclose the cataloguer’s description in square brackets.
 
-    Example:
+Example:
 
-    Original Chinese Title: 精武英雄    
-    Transliterated Pinyin Title: Jīng wǔ yīngxióng    
-    English Translated Title: Fist of Legend
-
-
+```{=latex}
+\begin{tcolorbox}[colback=gray!10!white]
+Original Chinese Title: 精武英雄    \\
+Transliterated Pinyin Title: Jīng wǔ yīngxióng    \\
+English Translated Title: Fist of Legend 
+\end{tcolorbox}
+```
