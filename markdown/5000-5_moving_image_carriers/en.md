@@ -1,2 +1,11 @@
 \newpage
 \section{5. Carriers}
+
+A carrier of an Item is each individual reel, tape, or file that makes up the Item, e.g. a 4 reel film will have 4 Carrier records associated with the one Item, one for each reel.
+
+Carriers  level in hierarchy (either as child of Item or related?) , i.e. individual reels, tapes, etc. Logically implicit in EN15907 but not  referenced
+
+Carriers are not mentioned in EN15907, and historically these have often been referenced, or data added in fields, within an Item or holdings record itself. However, it is recognised that since 2011 developments in standards such as RDA [add footnote to https://www.rdaregistry.info/Elements/i/#P40009], and some moving image database systems have meant that some institutions require to utilise this additional level of record, linked to a relevant Item as either an associated or even child record. 
+
+The same logic and structures of EN15907 can be applied to child Carrier records of an Item, i.e. that they too can be linked to Agents (e.g. names of individual technicians doing preservation work on a reel), Events (e.g. Preservation Event), etc. If not structured as a child record of an Item then they could equally constitute an "Other relation" relationship - again, this is not specified in the Other relation section of EN15907 standard itself regarding Items, but is logically implicit.
+
