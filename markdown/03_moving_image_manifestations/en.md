@@ -1,3 +1,8 @@
+
+
+
+
+
 \newpage
 \section{3. Moving Image Manifestations}
 
@@ -80,7 +85,7 @@ The example below shows a number of possible Manifestations of the original Ital
 Example of change in format:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Il gattopardo (Italy, France, Luchino Visconti, 1963) \\
 Theatrical release, 35mm, Cinemascope – aspect ratio 2,35 : 1 \\
 Theatrical release, 70mm, Cinemascope – aspect ratio 2,20 : 1
@@ -90,7 +95,7 @@ Theatrical release, 70mm, Cinemascope – aspect ratio 2,20 : 1
 Example of change in format and publication context:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Il gattopardo (Luchino Visconti, 1963) \\
 Home video publication, DVD – aspect ratio 2,21 :1 – Medusa Video, Italia, 00/00/2009
 \end{tcolorbox}
@@ -138,7 +143,7 @@ The following examples reflect both 3 and 4 level hierarchies, i.e. ones that us
 Examples:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Lola rennt (Germany, 1998, Tom Tykwer) \\
 Work identifier: ISAN 0000-0000-606A-0000-0-0000-0000-3 \\
 Variant identifier (original German): ISAN 0000-0000-606A-0000-0-0000-0002-0 \\
@@ -147,7 +152,7 @@ Manifestation identifier: Home video publication (2007) – Run Lola Run – DVD
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Shichinin no samurai (Japan, 1954, Akira Kurosawa) \\
 Work identifier: ISAN 0000-0001-61AE-0000-1-0000-0001-W \\
 Variant identifier (Dubbed Spanish – Castellano): Los Siete Samurai: ISAN 0000-0001-61AE-0000-1-0000-0001-W
@@ -155,14 +160,14 @@ Variant identifier (Dubbed Spanish – Castellano): Los Siete Samurai: ISAN 0000
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Les chevaliers du ciel (France, 2005, Gérard Pirès) \\
 Manifestation identifier: Home video publication – DVD – Fox Pathé Europa (publisher) – 2006 – ISAN 0000-0001-8CFA-0000-I-0000-000-
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 8 1/2 (Italy, 1962, Federico Fellini) Otto e mezzo – Alternative title of the Work \\
 Work identifier: ISAN 0000-0000-161F-0000-W-0000-0000-F \\
 Manifestation identifier: V- ISAN 0000-0000-161F-0000-W-0000-0002-B – Italian (spoken); Japanese (subtitles) – DVD – Blu-ray – 2013/01/11 – Japan)
@@ -227,21 +232,21 @@ If usage type(s) cannot be determined, indicate a value of “unknown”.
 Examples:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Caccia tragica (Italy, Giuseppe De Santis, 1947) \\
 Not for release (archival) – 35mm – Italian (spoken), Romanian (intertitles)
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 New York stories, (United States of America, Woody Allen, Francis Ford Coppola, Martin Scorsese, 1989 \\
 Home video publication – DVD, English (spoken); – Italian, German; English, Italian, German, French, Spanish (subtitles) – Buena Vista (publisher), 2002/05/16
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 The Bridge. Episode 1 (Sweden, Denmark, Charlotte Sieling, 2011) \\
 TV broadcast – United Kingdom, 2012-04-21 - Swedish (Dialogue (original)), Danish (Dialogue (original)), English (Subtitles) 
 \end{tcolorbox}
@@ -408,7 +413,7 @@ For digital Manifestations, there can be two extents: one for the number of file
 Example:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 A home video publication: DVD in 2 discs \\
 A theatrical print: in 6 reels \\
 A hard-disk stored film in 3 files
@@ -492,7 +497,7 @@ In addition there is the option to qualify this with details of the duration of 
 Example:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 DVD “The Audrey Hepburn Collection” contains 3 films, all with extra features. The running times for each of those 3 units are given on the container. \\
 The total running time of these may be added as duration, with an additional clarifying note detailing the running times of the individual units.
 \end{tcolorbox}
@@ -605,7 +610,7 @@ Preserving the ordering of the credited persons should be determined by the requ
 Example:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Broadcaster: CBS   \\
 Broadcast Channel: BBC1   \\
 Distributor: GUO Film Distributors   \\
@@ -634,7 +639,7 @@ Commonly-occurring relationships include:
 Example:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Le cryptogramme rouge (35mm print, m 984, m 48’ (18fps) \\
 3° episode of the serial Les vampires (L. Feuillade, 1915).
 \end{tcolorbox}
@@ -647,7 +652,7 @@ Le cryptogramme rouge (35mm print, m 984, m 48’ (18fps) \\
 Example:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Rashomon (Japan, 1950, A. Kurosawa) “has as promotional material”: Rashomon, Italian trailer (35mm), of the Italian theatrical release (1952).
 \end{tcolorbox}
 ```
@@ -657,13 +662,13 @@ Rashomon (Japan, 1950, A. Kurosawa) “has as promotional material”: Rashomon,
 Examples:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Metro. Issue 157. June 2008. “DVD review: Blade Runner: The Final Cut”, by Steven Aoun.
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Der Dritte Mann (German film poster for the German-language Release Manifestation of the film The third man (United Kingdom, 1949, Carol Reed)
 \end{tcolorbox}
 ```
@@ -673,13 +678,13 @@ Der Dritte Mann (German film poster for the German-language Release Manifestatio
 Examples:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Blow-up (UK-Italy, 1966, Michelangelo Antonioni )and Blow-up censorship cuts (35mm) of the Italian theatrical release (1967).
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Othello, Orson Welles, USA- Italy-Morocco-France, 1952 and Otello, dailies and rushes, positive silent and some with sound, 35mm, containing shots included in only a very limited extent in the first theatrical release (their title proper in Italian is: Otello).
 \end{tcolorbox}
 ```

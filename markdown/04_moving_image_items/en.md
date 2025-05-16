@@ -510,14 +510,14 @@ Similarly, in the case of restorations where separate Items or elements have bee
 Examples:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 The Wizard of Oz (United States of America, 1939, Victor Fleming) \\
 Yellow Separation Negative, Cyan Separation Negative, Magenta Separation Negative
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Local hero (United Kingdom, 1983, Bill Forsyth) \\
 DPX sequence, WAV audio file
 \end{tcolorbox}
@@ -528,14 +528,14 @@ DPX sequence, WAV audio file
 Examples:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Selezione Fregoli 2002 \\
 Compilation of 16 short Fregoli films, spliced together for projection convenience.
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Laughing gas (United States of America, 1914, Charlie Chaplin) \\
 Those love pangs (United States of America, 1914, Charlie Chaplin) \\
 (two Charlie Chaplin short comedies spliced together on one reel - for storage convenience).
@@ -547,7 +547,7 @@ Those love pangs (United States of America, 1914, Charlie Chaplin) \\
 Example:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
   35mm CTA Duplicating Postive copy of Carnival (c.1927) made from a 35mm \\
   Nitrate Negative copy of Carnival (c.1927)
 \end{tcolorbox}
@@ -558,7 +558,7 @@ Example:
 Example:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
   Shots of 1932 (United Kingdom, 1932) (home movie) 9.5mm Safety film Item related to paper donor agreement
 \end{tcolorbox}
 ```

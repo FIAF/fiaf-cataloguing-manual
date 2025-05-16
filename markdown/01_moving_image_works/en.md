@@ -4,6 +4,12 @@
 
 TODO: update all links with nameref
 
+TODO: Check that label sec for sections are unique
+
+TODO: footnote syntax, after or before period
+
+TODO: example syntax, italics or bulletpoints.
+
 \newpage
 \subsection[Definitions]{Definitions 
     \footnote {For a discussion of other definitions of the “Work” and Variant entities, see \nameref{sec:moving_image_works}.} 
@@ -41,28 +47,28 @@ Works include:
 Examples:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Hamlet (UK, 1948, Laurence Olivier) \\  
 Hamlet (United States of America, 1996, Kenneth Branagh) 
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Les misérables (France, 1958, Jean-Paul Le Chanois)    \\
 Les misérables (United States of America, 1998, Bille August) 
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Trollflöjten (Sweden, 1975, Ingmar Bergman)    \\
 Il flauto magico (Italy, 1976, Giulio Gianini and Emanuele Luzzati)
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Tosca (Italy, 1939, Karl Koch)    \\
 Tosca (Italy, 1973, Luigi Magni)
 \end{tcolorbox}
@@ -73,20 +79,20 @@ Tosca (Italy, 1973, Luigi Magni)
 Examples:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Simon and Garfunkel: The Concert in Central Park (United States of America, 1982, Michael Lindsay-Hogg)
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Olympia 1. Teil – Fest der Völker (Germany, 1938, Leni Riefenstahl) \\
 Olympia 2. Teil – Fest der Schönheit (Germany, 1938, Leni Riefenstahl)
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Marathon (Spain, 1992, Carlos Saura)
 \end{tcolorbox}
 ```
@@ -96,13 +102,13 @@ Marathon (Spain, 1992, Carlos Saura)
 Examples^[These are invented examples for illustrative purposes]:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Birmingham Town Hall Car Park. Camera 7. (United Kingdom, 2015, NCP) 
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 University College Hospital. Endoscopy – Colonscope. Patient HX3456. 2010 (United Kingdom, 2010, University College Hospital)
 \end{tcolorbox}
 ```
@@ -233,35 +239,35 @@ The boundaries between one Work and another (i.e where a new Work would be creat
 Examples:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 The man who knew too much (UK, 1934, Alfred Hitchcock) \\ 
 The man who knew too much (USA, 1956, Alfred Hitchcock)
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 T’amerò sempre (Italy, 1933, Mario Camerini) \\
 T’amerò sempre (Italy, 1943, Mario Camerini)
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Planet of the apes (United States of America, 1968, Franklin J. Schaffner)  \\
 Planet of the apes (United States of America, 2001, Tim Burton)
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Scarface (United States of America, 1932, Howard Hawks)  \\
 Scarface (United States of America, 1983, Brian De Palma)
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Die Dreigroschenoper (Germany, 1931, Georg Wilhelm Pabst)  \\
 Die Dreigroschenoper (Germany,1962, Wolfgang Staudte)
 \end{tcolorbox}
@@ -273,33 +279,33 @@ sometimes with different casts.*
 Examples:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Dracula (United States of America, 1931, Tod Browning, Spanish and English)
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Anna Christie (United States of America, 1930, Clarence Brown, English; 1931, German)
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Der Fangschuß (France/Germany, 1976, Volker Schlöndorff, German)  \\
 Le Coup de grâce (France/Germany, 1976, Volker Schlöndorff, French)
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Die Dreigroschenoper (Germany, 1931, Georg Wilhelm Pabst, German)  \\
 L’opéra de quat’sous (France, 1931, Georg Wilhelm Pabst, French)
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 La canzone dell’amore (United States of America, 1930, Gennaro Righelli, English)  \\
 Liebeslied (Germany, 1930, Constantin J. Davis, German)  \\
 La dernière berceuse (France, 1930, Jean Cassagne, French)
@@ -311,7 +317,7 @@ La dernière berceuse (France, 1930, Jean Cassagne, French)
 Example:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Several separate Works made from the footage taken on Captain Robert Falcon Scott’s Antarctic expedition, 1910-13.
 \end{tcolorbox}
 ```
@@ -323,7 +329,7 @@ Several separate Works made from the footage taken on Captain Robert Falcon Scot
 Example:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 What’s Up Tiger Lily (1966)
 \end{tcolorbox}
 ```
@@ -335,13 +341,13 @@ What’s Up Tiger Lily (1966)
 Examples:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Moving image representations of theatrical performances of Shakespeare’s Macbeth, where there is removal and/or replacement of substantially most of the contributors (e.g., cast and/or crew), associated with a work
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Chickens Come Home (1931) where the film was first shot in English,then re-shot with Spanish dialogue and additional Spanish-speaking actors.
 \end{tcolorbox}
 ```
@@ -361,19 +367,19 @@ The boundaries between a moving image Work and its Variant(s) (i.e. where a Vari
 Examples^[Il cinema ritrovato 2006. 20. edizione: sabato 1 luglio-sabato 8 luglio / Cineteca del Comune di Bologna. – Bologna : Cineteca del Comune di Bologna, 2006, p. 154 (Dossier Mr. Arkadin)]:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 The rules of the game (1939): exists only as a Variant of the original Work, made partially from alternate takes to those used in the original release.
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Various re-edited releases of Blade Runner (1982, 1986, 1992, 2007)
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Mr. Arkadin (France-Spain-Switzerland, 1955, Orson Welles): eight different Variants between 1955 and 1956, each one with differences in footage and editing. Among them, three have the title Confidential Report.
 \end{tcolorbox}
 ```
@@ -383,27 +389,27 @@ Mr. Arkadin (France-Spain-Switzerland, 1955, Orson Welles): eight different Vari
 Examples:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Große Freiheit Nr. 7 (Germany, 1944) (112 minutes)  \\
 Shortened Variant Große Freiheit Nr. 7 (109 minutes)
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Works censored or edited for television broadcast, for showing on airplanes, for showing in different parts of the country/world, etc.
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Annie Leibovitz, Life through a Lens (United States of America, 2007-01-03), broadcast in TV series American Masters  \\ 
 Shortened Variant (for British television): Annie Leibovitz, Life through a Lens (UK, 2008-06-10), broadcast in TV series Imagine
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Last Tango in Paris (United States of America, 1972, Bernardo Bertolucci)   \\
 Censored Variant: Ultimo tango a Parigi (Italy, 1988, Broadcast)
 \end{tcolorbox}
@@ -414,21 +420,21 @@ Censored Variant: Ultimo tango a Parigi (Italy, 1988, Broadcast)
 Examples:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Blackmail (UK, 1929, Alfred Hitchcock)  \\
 Augmented Variant: United Kingdom– 1929 (longer, with some scenes shot on purpose)
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Little Shop of Horrors (United States of America, 1986, Frank Oz)   \\
 Augmented Variant: alternate ending of 23 minutes, included in the 2012 Warner Home Video – Blu-ray, DVD edition
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Nosferatu. Eine Symphonie des Grauens (Germany, 1922, Friedrich Wilhelm Murnau)   \\
 Preservation/Restoration Variant: restoration by Friedrich-Wilhelm Murnau-Stiftung; Luciano Berriatùa (restorer) – Germany – 2005/6 (reconstruction based on different sources)
 \end{tcolorbox}
@@ -441,42 +447,42 @@ Preservation/Restoration Variant: restoration by Friedrich-Wilhelm Murnau-Stiftu
 Examples^[Some institutions may have the 19 foreign language versions as 19 separate Manifestations, rather than create 19 Variant records, particularly if the data relating to specific different dubbing credits is unavailable or deemed of minor importance.]:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 The addition or removal of explanatory text, dubbing, subtitles, etc.  \\
 Star Wars Episode II: Attack of the Clones (2002) was dubbed into 19 foreign language versions, which were released on the same date as the English language version.
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Cabiria (Italy, 1914, Giovanni Pastrone)  \\
 Sonorized Variant: Italy, 1931
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 A dog’s life (United States of America, 1918, Charles Chaplin)  \\
 Sonorized Variant: Vita da cani – sonorized with Italian intertitles – 193? 
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 The yellow mask (United States of America, 1930, Harry Lachman)  \\
 Augmented Variant: Il principe corsaro – 1931: only with music, songs and sound effects, plus new Italian intertitles, but without dialogue, according to a 1930 law, which involved the first spoken foreign films distributed in Italy.
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Hallelujah! (United States of America, 1929, King Vidor)  \\
 Augmented Variant: Alleluia! – addition of music, songs, sound effects, and new Italian intertitles, but without dialogue; Italy, 1930 
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 La presa di Roma (Italy, 1905)  \\
 Preservation/restoration Variant: addition of stills and explanation texts; Italy, 2007. Restoration by Centro Sperimentale di Cinematografia-Cineteca Nazionale
 \end{tcolorbox}
@@ -489,21 +495,21 @@ Preservation/restoration Variant: addition of stills and explanation texts; Ital
 Examples of restored versions of works which include credits for the responsible individuals and institutions:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Nosferatu. Eine Symphonie des Grauens (Germany, 1922, Friedrich Wilhelm Murnau)   \\
 Preservation/augmented Variant – 2005/6: restoration by the Friedrich-Wilhelm Murnau-Stiftung; Luciano Berriatùa (restorer)
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Die freudlose Gasse (Germany, 1925, Georg Wilhelm Pabst);  \\
 Preservation/augmented Variant – Germany – 2008. Digitale Restaurierung: Filmarchiv Austria, Wien, Stephanie Gratzer in Zusammenarbeit mit der Galerie Krems; Wissenschaftliche Beratung: Stephan Droessler, Nikolaus Wostry; Projectleitung: Ernst Kleininger, Nikolaus Wostry (from the credits on the DVD)
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Kita-kitsune Monogatari (Japan, 1978, Koreyoshi Kurahara); original narrator voice: Eiji Okada; Augmented variant with added prologue and English narration: The Glacier Fox in Search of the Northern Sun – United States of America – 1979: narrator voice: Arthur Hill.
 \end{tcolorbox}
 ```
@@ -511,21 +517,21 @@ Kita-kitsune Monogatari (Japan, 1978, Koreyoshi Kurahara); original narrator voi
 Examples of language versions which credit the individuals responsible for dubbing or subtitles:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Senso (Italy, 1954, Luchino Visconti)  \\
 Subtitled Variant: French subtitles – 1955: subtitles by Georges Sadoul
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Cinderella (United States of America, 1950, Clyde Geronimi, Wilfred Jackson, Hamilton Luske)   \\
 Dubbed variant: Cendrillon, French (spoken language) – France – 1991: Dominique Poulain, voice of Cinderella)
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Sons of the Desert (United States of America, 1933, William A. Seiter):  \\
 Dubbed Variant 1:I figli del deserto – Italian (spoken language) -1935: Carlo Cassola, voice of Oliver Hardy;  \\
 Dubbed Variant 2:, I figli del deserto – Italian (spoken language) 1946: Alberto Sordi, voice of Oliver Hardy.  
@@ -539,7 +545,7 @@ Boundaries for this decision are akin to the concepts of “versions with major 
 Example:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Our herring industry (GB, 1932) is the shortened version of Drifters (GB, 1929).
 \end{tcolorbox}
 ```
@@ -563,7 +569,7 @@ It is possible for a moving image Variant to be modified in such a way as to cre
 Example^[Cornick, Michael. (2008). Modern Film Censorship: Television, Airlines, and Home Entertainment. p. 44]:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 In 2007, some in-flight showings of The Queen (2006) distributed to Delta and other airlines had all references to the word “God” edited out by an overzealous and inexperienced employee.
 \end{tcolorbox}
 ```
@@ -573,7 +579,7 @@ In 2007, some in-flight showings of The Queen (2006) distributed to Delta and ot
 Example^[[https://en.wikipedia.org/wiki/The_Leopard](https://en.wikipedia.org/wiki/The_Leopard)]: a release of a dubbed film abridged or augmented
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Il gattopardo (Italy, France,1963, Luchino Visconti)  \\
 Dubbed/ Abridged: The leopard, English (spoken language) -1963 – United States of America – 161’ (Theatrical distribution in United States of America, the 20th Century Fox cut 45 minutes); Subtitled: The leopard, English (spoken language) -1980 – United States of America (reintegrates the original running time of 187’).
 \end{tcolorbox}
@@ -586,7 +592,7 @@ Dubbed/ Abridged: The leopard, English (spoken language) -1963 – United States
 Example of a release of a foreign film (dubbed), subtitled in a different language: 
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Die kleine und die grosse Liebe (Germany, 1938, Joseph von Backy) \\
 Dubbed/Subtitled Variant: Il piccolo e il grande amore, Italian (spoken language), English (subtitles) – Italy – 1938
 \end{tcolorbox}
@@ -599,7 +605,7 @@ Dubbed/Subtitled Variant: Il piccolo e il grande amore, Italian (spoken language
 Example^[Information from IMDb and Wikipedia]:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 The re-dubbed North American English version of the Japanese movie, Godzilla 2000: Millennium (1999), includes the following credits unique to this Variant: \\
 Dubbing Director: Mike Schlesinger \\
 Media: Cinema/TV/VHS/DVD \\
@@ -682,28 +688,28 @@ It is critical that each Identifier be unique.
 Examples^[Pietro Fosco is the pseudonym of Giovanni Pastrone used in the ISAN registration.]:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Cabiria (Italy, 1914, Piero Fosco)  \\
 Work identifier – ISAN number: ISAN 0000-0000-7B37-0000-J-0000-0000-H
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Volver (Spain, 2006, Pedro Almodovar)  \\
 Work identifier – ISAN number: ISAN 0000-0001-6B16-0000-Y-0000-0000-9
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Metropolis (Germany, 1927, Fritz Lang)  \\
 Work identifier – VIAF number: 219448355 
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 The boxer (United States, Ireland, 1997, Jim Sheridan)  \\
 Work identifier – EIDR number: 10.5240/5896-B203-017D-11A5-EB7F-W  \\
 Work identifier – ISAN number: 0000-0000-60A5-0000-E-0000-0000-W
@@ -719,7 +725,7 @@ If an institution’s system allows, a "Type" can be applied with an Identifier 
 Example:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 The boxer (United States, Ireland, 1997, Jim Sheridan) \\
 Work identifier: 10.5240/5896-B203-017D-11A5-EB7F-W \\
 Identifier type: EIDR \\
@@ -747,7 +753,7 @@ See [A.2.6 Titles of series/serials](#manual-A.2.6) for other options
 Examples:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Gone with the wind (United States of America, 1939, Victor Fleming) \\
 Gone with the wind – Preferred Title of the Work \\
 Via col vento – Variant title – Dubbed (Italian) \\
@@ -758,7 +764,7 @@ Autant en emporte le vent – Variant title – Dubbed – (French) \\
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Аленький цветочек (USSR, 1952, Lev Atamanov) \\
 Аленький цветочек – Title of the Work \\
 Alenkiy tsvetochek: Alternative (transliterated) title of Work/ Variant (Preferred title if systems don’t use Cyrillic) \\
@@ -768,7 +774,7 @@ The Scarlet Flower – Variant title – Dubbed (English)
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 La passeggiata (Italy, 1953, Renato Rascel) \\
 La passeggiata – Preferred Title of the Work \\
 La prospettiva – Alternative title (Working title)   
@@ -776,7 +782,7 @@ La prospettiva – Alternative title (Working title)
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Anathan (Japan, 1953, Joseph von Sternberg) \\
 Anathan – Preferred Title of the Work \\
 The saga of Anathan – Alternative Title of the Work/Variant  
@@ -784,7 +790,7 @@ The saga of Anathan – Alternative Title of the Work/Variant
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Mary Tyler Moore show – Series title \\
 Chuckles bites the dust – Preferred title  
 \end{tcolorbox}
@@ -893,79 +899,79 @@ Examples^[FIAF, 3.5.4, p. 64]:
 TODO this is a table not examples.
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 1971 or 1972 One year or the other
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 \[1969?\] Probable Year
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 1969?
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Circa 1969 (with qualifying note to indicate date is probably 1969)
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 \[Circa 1960\] Approximate Year
 
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Circa 1960
 
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 1960 circa
 
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 191- Decade certain
 
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Decade 1910
 
 \end{tcolorbox}
 ```
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 1910 decade 
 
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 
 \[191-?\] Probable decade
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 
 1910 decade (with qualifying note to indicate that date is probable decade date)
 
@@ -973,7 +979,7 @@ Decade 1910
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 
 1910 decade (with qualifying note to indicate that date is probable decade date)
 
@@ -1031,7 +1037,8 @@ In instances such as these, a note should be given which further explains the Da
 Example:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
+
 [Personal record. Eugene Meyer family. Family camping trip through the Canadian Rockies]. -- US, 1926. \\
 \[Note\] Year from notes accompanying item, attached to inventory, and from Merlo Pusey’s Eugene Meyer, (New York: Knopf, 1974), p.195
 \end{tcolorbox}
@@ -1086,33 +1093,33 @@ Avoid slang expressions and colloquialisms fashionable at the time of writing,an
 Descriptions should be objective and not include subjective commentary on the quality of the content.
 If acceptable summaries are already available in secondary sources, cataloguers may use these, instead of taking the time to prepare summaries of their own.[^60] If using summaries exactly as written, put the summary in quotes and note the source of the summary.
 
-Examples:[^61]
+Examples^[FIAF 7.2.12. Summary]:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 An historical drama set in 16th century England in which King Henry VIII divorces his wife, Catherine of Aragon, and marries Anne Boleyn, a former lady-in-waiting, who is in love with Sir Thomas Wyatt. After several years, Henry becomes infatuated with Lady Jane Seymour and arranges to have the innocent Anne found in a compromising situation with Sir Thomas. Anne is tried for infidelity, found guilty, and executed.
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Donald Graham, millionaire ex-convict, plans revenge on society figure John Cabin Brand, whom he blames for the death of his daughter.
 \end{tcolorbox}
 ```
 
 A content description may also be a shotlist or listing of the contents of an aggregate Work/Variant (see [Appendix E, Aggregates](#manual-E)). Shotlists are the ideal content description to have or aim to have, particularly for non-fiction moving images, but it is recognised that resources and accessibility mean this is not always possible or practical for an archive or institution.
 
-Examples:[^62]
+Examples^[FIAF 7.2.16. Contents]:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Title: Pathe News \[Excerpts No. 6\] \\
 Contents: “Newest U.S. Submarine Goes into Commission,” Pathe News No. 60 \[1921\] (160 ft.) -- “Span of New Memorial Bridge to Connect N.H. and Maine,” Pathe News No. 57 \[1923\] (72 ft.) -- “Celebrate 300th Anniversary of Settling of Portsmouth,”Pathe News No. 69 \[1923\] (99 ft.) -- “World’s Largest Sub Takes First Plunge,” Pathe News No. 93 \[1927\], (c) 21Nov27; MP4478 (134 ft.) -- “New Memorial Bridge between N.H. and Maine!” Pathe News No. 70 \[1923\] (105 ft.) -- “Launch Largest Submarine Cruiser,” Pathe Sound News No. 1 \[1930\], (c) 29Dec29; MP1025 (80 ft.).
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Title: Victorian Cinema: 4: Bamforth/Riley/Hepworth \\
 Contents: \\
 Weary Willie (1898) (78ft), \\
@@ -1127,7 +1134,7 @@ End
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Title: Magnificent Reproductions of the Great Yorkshire Show in Bradford (1901) \\
 Mitchell \& Kenyon 641: Panning shot across a road to the Yorkshire Agricultural Society building with a diffuse crowd of people in front of the building. As the shot passes the building, a number of people can be seen sitting down, including mothers with babies and some older people (00.36). Cut to a close-up shot of the building, with a sign reading “The Yorkshire Agricultural Society. Established 1837” (00.45). Cut to a horse-drawn cart spraying some sort of liquid on the path as it moves along. Lettering on the back of the cart reads “Bradford City Council no. 30” (00.58). Cut to wide steps, with a number of smartly dressed men walking down them (presumably entering the show) (01.14). Cut to a shot of the blades of a windmill as they turn (01.23). Cut to a general shot of the show, with crowds and various stalls (02.07). A marquee in the background has the sign “R. Hornsby \& Sons Ltd., Grantham”. Another sign reads “Marshall. Sons \& Co.”. Chimneys and houses can be seen in the background (02.27min).
 \end{tcolorbox}
@@ -1137,30 +1144,25 @@ The content description can be based on a viewing of the work, accompanying docu
 
 For unedited Works, where time and resources permit, each scene should be summarized.
 If there are shots of particular significance or interest – of, for example, prominent people or places – these should be recorded.
-Otherwise a general description of scenes and sequences will suffice.[^63]
+Otherwise a general description of scenes and sequences will suffice^[Irish Film Archive, p. 23.].
 
 If applicable, add information about the content of the moving image Variant where it differs from the content of the Work.
 
-[^59]: Adapted from YCR, 1.2.16 Summary of genre, form, and subject matter of work, p. 38.
-[^60]: FIAF 7.2.12. Summary
-[^61]: Ibid.
-[^62]: FIAF 7.2.16. Contents
-[^63]: Irish Film Archive, p. 23.
+\paragraph[Content Description Type]{Content Description Type 
+    \label{sec:content_description_type}
+    } \
 
-\subsection{1.3.6.1 Content Description Type}
-\label{sec:manual-1.3.6.1}
+Include a qualifying keyword or otherwise denote the type of summary (e.g. Synopsis, Shotlist, Review).^[EN 15907, 6.17.3 Elements, Description type, p. 30.]
 
-Include a qualifying keyword or otherwise denote the type of summary (e.g. Synopsis, Shotlist, Review).[^64]
+\subsubsection[Notes]{Notes
+    \label{sec:notes}
+    }
 
-[^64]: EN 15907, 6.17.3 Elements, Description type, p. 30.
-\subsection{1.3.7 Notes}
-\label{sec:manual-1.3.7}
+Notes for moving image Works/Variants are annotations providing additional information or clarification relating specifically to Works/Variants attributes and relationships.^[Based on RDA 2.20.1.Basic Instructions on Making Notes on Manifestations or Items] See [Appendix B, Cataloguer’s Notes](#manual-B).
 
-Notes for moving image Works/Variants are annotations providing additional information or clarification relating specifically to Works/Variants attributes and relationships.[^65] See [Appendix B, Cataloguer’s Notes](#manual-B).
-
-[^65]: Based on RDA 2.20.1.Basic Instructions on Making Notes on Manifestations or Items
-\subsection{1.3.8 History}
-\label{sec:manual-1.3.8}
+\subsubsection[History]{History
+    \label{sec:history}
+    }
 
 Record historical information about events of interest in the creation of the original moving image Work/Variant that is of value for your users, such as censorship history, production versions, and the like.
 This historical information may be recorded in association with instances of Events or Agents.
@@ -1169,29 +1171,30 @@ If desired, institutions may include historical information that crosses over in
 This may be done where there is value to the user in keeping all the information together for research or clarification purposes rather than across disparate Manifestation and Item records.
 This may also be applied where no History fields exist in an institution’s system at Manifestation or Item levels, or a no hierarchy one level structure is used.
 
-Example:
+Example^[Abridged version of fuller Work History note from BFI CID record for the film]:
   
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Christopher Columbus (United Kingdom, 1949, David MacDonald) \\
 There are three documented versions. Version one: which has the shortened reels 3A and 3B; Version two: which has the shorter ending; Version three: which has the long ending (this script is based on the full length reels 3A and 3B and on the short ending, as this is the export version.
 The short ending (version two) has Columbus reinstated by the King and Queen, him leaving their presence and telling Juana he will be remembered longer than the monarchs as he walks down a corridor. The longer version (version three) has a more American feel with two sailors informing Columbus of the great nation his discovery will give rise to, complete with quotes from Jefferson, Lincoln and Roosevelt.
 \end{tcolorbox}
 ```
 
-[^66]: Abridged version of fuller Work History note from BFI CID record for the film
-\subsection{1.3.8.1 Custodial history}
-\label{sec:manual-1.3.8.1}
+\paragraph[Custodial History]{Custodial History
+    \label{sec:custodial_history}
+    } \
 
 If desired, write a brief custodial history of the Work/Variant if known, particularly for rare and unique materials.
 Indicate the current holding institution of the original or master material if known.
 
 Information on the provenance of the specific Items in an archive’s collection should be included in the Item sections.
 
-\subsection{1.3.8.2 Censorship history}
-\label{sec:manual-1.3.8.2}
+\paragraph[Censorship History]{Censorship History
+    \label{sec:censorship_history}
+    } \
 
-Document information related to the censorship history of a Work/Variant, including:[^67]
+Document information related to the censorship history of a Work/Variant, including:^[EN 15907, 6.13 Decision event, pp. 26-27.]
 
 - any events in which a Manifestation/Item of a Work/Variant was evaluated by a censorship body or an accredited rating agency 
 
@@ -1201,10 +1204,10 @@ Document information related to the censorship history of a Work/Variant, includ
 
 - the outcome of the act of rating or censorship
 
-Example:
+Example^[http://www.italiataglia.it/tagli_rassegna/_bout_de_souffle_]:
   
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 À bout de souffle (France, 1960, Jean-Luc Godard) \\
 \\
 In Italy, this film has three different theatrical distributions, corresponding to three different visas (“visto di censura”) from the official censorship body (Ufficio di revisione cinematografica). \\
@@ -1214,11 +1217,9 @@ Dubbed, Censored Variant: Theatrical distribution in Italy– censorship visa n.
 \end{tcolorbox}
 ```
 
-
-[^67]: EN 15907, 6.13 Decision event, pp. 26-27.
-[^68]: http://www.italiataglia.it/tagli_rassegna/_bout_de_souffle_
-\subsection{1.3.8.3 Other Work/Variant History}
-\label{sec:manual-1.3.8.3}
+\paragraph[Other Work/Variant History]{Other Work/Variant History
+    \label{sec:other_work_variant_history}
+    } \
 
 Any other relevant information or clarifications pertaining to the Work/Variant.
 For example:
@@ -1228,7 +1229,7 @@ For example:
 Example:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Tosca (Italy, 1939, Karl Koch) The film was started by Jean Renoir, but after beginning, Renoir escaped to France because of World War II. The film was completed by his assistant Karl Koch, with Luchino Visconti as assistant.
 \end{tcolorbox}
 ```
@@ -1238,7 +1239,7 @@ Tosca (Italy, 1939, Karl Koch) The film was started by Jean Renoir, but after be
 Example:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Foolish Wives (United States of America, 1922, Erich von Stroheim) Actor Rudolph Christians died in mid-shooting; replaced by Robert Edenson who is used mainly as a double.
 \end{tcolorbox}
 ```
@@ -1248,36 +1249,36 @@ Foolish Wives (United States of America, 1922, Erich von Stroheim) Actor Rudolph
 Examples:
   
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 La porta del cielo (Italy, 1945, Vittorio De Sica) The shooting of the film lasted almost one year (February – November 1944) throughout the period of Nazi occupation of Rome and served as an excuse to hide and protect Jewish people, anti-fascists, etc...
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 La grande illusion (France, 1937, Jean Renoir) The shooting of the film lasted two years (1935-1936) and the first projection was in 1937.
 \end{tcolorbox}
 ```
 
 - any other information relevant to the history of the Work and its production
 
-Example:
+Example^[Abridged version of fuller Work History note from BFI CID record for the film.]:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Christopher Columbus (United Kingdom, 1949, David MacDonald) Location shooting in Barbados was fraught with difficulties. The re-created ship stuck on launch, was then later rammed, suffered mechanical failure and finally caught fire. The stand-in ship was then lost at sea twice. Location shooting was hampered by the heat and the local gaol had to be used to keep the Technicolor film cool. There was also a troublesome parrot that would shout “tea break” during a dramatic scene.
 \end{tcolorbox}
 ```
 
-[^69]: Abridged version of fuller Work History note from BFI CID record for the film.
-\subsection{1.4 Relationships of a Work/Variant (links/associations with other entities/records)}
-\label{sec:manual-1.4}
+\subsection[Relationships of a Work/Variant (links/associations with other entities/records)]{Relationships of a Work/Variant (links/associations with other entities/records)
+    \label{sec:relationships_of_a_work_variant}
+    }
 
 A relationship associates an instance of a Work/Variant with another instance of an entity.
 Entities are described in subsequent sections, but examples of entities are people or companies associated with a Work/Variant (eg, studio, director, cast), events (copyright registration), subjects (other Works/Variants are about the same subject), and records.
 
 Relationships can be implemented in many ways, depending on the purpose, the modelling paradigm, or architectural constraints of the chosen platform.
-These guidelines are intended to be data structure neutral.[^70] Therefore, these guidelines cannot prescribe exactly how to demonstrate relationships.
+These guidelines are intended to be data structure neutral.^[EN 15907 8.1 Relationships. General] Therefore, these guidelines cannot prescribe exactly how to demonstrate relationships.
 Instead they recommend that certain relationships be established without instruction on how precisely those links be made manifest, i.e., whether by physical associative record linking or “see also” text conventions.
 
 A Work may have relationships with the following:
@@ -1298,13 +1299,12 @@ A Variant may have relationships with the following:
 - Manifestation(s)
 - Other (including other Variants)
 
-[^70]: EN 15907 8.1 Relationships. General
-
-\subsection{1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.)}
-\label{sec:manual-1.4.1}
+\subsubsection[Agents (e.g. Cast, Credits, Person, Organisation, etc.)]{Agents (e.g. Cast, Credits, Person, Organisation, etc.)
+    \label{sec:agents}
+    }
 
 An Agent is defined as an entity that is involved in the creation, realisation, curation or exploitation of a Work/Variant and who is considered to have major responsibility for, or be of major importance to, the Work/Variant.
-Typical distinctions between Agent types are Person, Corporate Body, Family and Person Group.[^71] This includes cast and credits for the Work/Variant.
+Typical distinctions between Agent types are Person, Corporate Body, Family and Person Group.^[EN 15907, 5.1 Agent] This includes cast and credits for the Work/Variant.
 
 Agent(s) may also have relationships to an instance of a specific Event or of an “Other” relationship in connection with the Work/Variant.
 
@@ -1312,7 +1312,7 @@ Because responsibility for moving image materials is most often complex and high
 These activities may vary from institution to institution according to the types of moving image material held.
 For example, an institution holding primarily television material may consider the activity of producer more important than that of director.
 Institutions whose collections are primarily composed of motion picture material may value equally the activities of directors and producers.
-Provide access to Agents when they have made an important contribution to the particular Work or Variant, even when the type of responsibility (credit function) is one that may not be considered major in other Works/Variants or types of Works/Variants.[^72]
+Provide access to Agents when they have made an important contribution to the particular Work or Variant, even when the type of responsibility (credit function) is one that may not be considered major in other Works/Variants or types of Works/Variants.^[1991 FIAF Cataloguing Rules for Film Archives – Statements of Responsibility, p. 35.]
 
 Agents may be described in two ways: as discrete index points, and/or merged into one field where the credits are listed in order of role importance or as transcribed from the Work.
 
@@ -1327,38 +1327,36 @@ Optionally, if the Agent is credited under a name that is not identical with the
 Examples:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Bob Robertson (pseudonym/screen name used by the director Sergio Leone at the beginning of the career)
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Terence Hill (pseudonym/screen name used by the actor Mario Girotti in the most known part of his career)
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Sofia Lazzaro (first pseudonym/screen name used by the actress Sophia Loren, whose birth name is Sofia Villani Scicolone).
 \end{tcolorbox}
 ```
 
-[^71]: EN 15907, 5.1 Agent
-[^72]: 1991 FIAF Cataloguing Rules for Film Archives – Statements of Responsibility, p. 35.
-
-\subsection{1.4.1.1 Agent Activity}
-\label{sec:manual-1.4.1.1}
+\paragraph[Agents Activity]{Agents Activity
+    \label{sec:agents_activity}
+    } \
 
 This describes the activity or role of the Agent in relation to the moving image Work/Variant (e.g. credit terms).
 
 Record one or more Agent Activity terms, for example, “animator,” “cast,” “choreographer,” etc., to express the nature of the agent’s relationship to the Work or Variant.
 Choose the single most specific term, if possible.
 Selection should be made from a con-
-trolled list of terms, such as the [FIAF Glossary of Filmographic Terms](https://www.fiafnet.org/pages/E-Resources/Glossary.html)[^73].
+trolled list of terms, such as the [FIAF Glossary of Filmographic Terms](https://www.fiafnet.org/pages/E-Resources/Glossary.html)^[http://www.fiafnet.org/publications/GlossaryMasterComboMarch2015.html.htm].
 
 If no suggested terms apply, compose a term to describe the relationship between the Agent and the Work/Variant being catalogued.
-If the relationship is ambiguous, use a value to indicate this, for example, “unknown” or “on-screen participant” to indicate a person appearing on screen in a capacity that is indeterminate or not covered by typical terms.[^74] Optionally, when the role performed by an Agent is probable but not certain, provide the function name followed by a question mark.
+If the relationship is ambiguous, use a value to indicate this, for example, “unknown” or “on-screen participant” to indicate a person appearing on screen in a capacity that is indeterminate or not covered by typical terms.^[List of relator terms are a combination of those found in YCR, 1.3.2. Other creators, pp. 42-43; and, OLAC TF, Part II, Core Attributes and Relationships, Commonly-Occurring Roles, pp. 16-18.] Optionally, when the role performed by an Agent is probable but not certain, provide the function name followed by a question mark.
 
 Besides the principal Agent Activity suggested, institutions, particularly those with special interests, should create and apply in-house value lists of other specific Agent Types, which may vary from institution to institution.
 
@@ -1367,12 +1365,12 @@ If a name is known to be fictitious, or requires clarification, make a note givi
 
 Give the Agent(s) and Agent Activity in the terms and language in which they appear, either in the sources of information or in the language of the institution, or both.
 If more than one Agent is associated with a particular role connected with a Work/Variant or Event, where possible or desirable, record the names in the order indicated by the sequence, layout, or typography of the names on the source of information.
-Preserving the ordering of the credited persons should be determined by the requirements of individual institutions.[^75]
+Preserving the ordering of the credited persons should be determined by the requirements of individual institutions.^[FIAF, 1.6.2, pp. 36-37.]
 
 Examples:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Les Enfants du paradis \\
 réalisation, Marcel Carné \\
 scenario et dialogue, Jacques Prevert \\
@@ -1383,7 +1381,7 @@ musique, Maurice Thiriet
 OR
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Enfants du paradis, Les \\
 director, Marcel Carné \\
 script and dialogue, Jacques Prevert \\
@@ -1392,7 +1390,7 @@ music, Maurice Thiriet
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Star wars \\
 Director, George Lucas \\
 Executive Producer, George Lucas \\
@@ -1406,7 +1404,7 @@ If Agents are added as index points rather than listed or described in order of 
 Examples:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Les Enfants du paradis \\
 Carné, Marcel, réalisation \\
 Prevert, Jacques, scenario, dialogue \\
@@ -1415,21 +1413,17 @@ Thiriet, Maurice, musique
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Star wars \\
 Lucas, George, director, executive producer, screenplay \\
 Kurtz, Gary, producer
 \end{tcolorbox}
 ```
 
-[^73]: http://www.fiafnet.org/publications/GlossaryMasterComboMarch2015.html.htm
-[^74]: List of relator terms are a combination of those found in YCR, 1.3.2. Other creators, pp. 42-43; and, OLAC TF, Part II, Core Attributes and Relationships, Commonly-Occurring Roles, pp. 16-18.
-[^75]: FIAF, 1.6.2, pp. 36-37.
-
-\subsection{1.4.2 Events (e.g., IPR registration, screenings, awards, etc.)}
-\label{sec:manual-1.4.2}
-
-[^76] {#manual-1.4.2}
+\subsubsection[Events (e.g., IPR registration, screenings, awards, etc.)]{Events (e.g., IPR registration, screenings, awards, etc.) 
+    \footnote {EN 15907 5.2 Event} 
+    \label{sec:events}
+    } 
 
 An Event characterises occurrences in the lifecycle of a moving image Work or its Variants.
 Instances of any Event type can have Agent and “Other” relationships.
@@ -1438,23 +1432,23 @@ Record one or more Event type, for example, “publication,” “copyright/IPR 
 Selection should be made from a controlled list of terms.
 A suggested list, which is open and not exhaustive, can be found in [D.4 Event Types](#manual-D.4).
 
-[^76]: EN 15907 5.2 Event
-\subsection{1.4.3 Subject/Genre/Form terms}
-\label{sec:manual-1.4.3}
+\subsubsection[Subject/Genre/Form Terms]{Subject/Genre/Form Terms
+    \label{sec:subject_genre_form_terms}
+    } 
 
 Provide access to the Work by means of subjects (or subject identifiers) that describe the content of the Work (i.e., what the Work is about).
-Use an existing data value standard such as Library of Congress Subject Headings (LCSH).[^77] Alternatively, or additionally, use standards such as Universal Decimal Classification (UDC), Dewey Decimal Classification (DDC), or equivalent in country in which you are working, or an in-house data value standard.
+Use an existing data value standard such as Library of Congress Subject Headings (LCSH).^[Adapted from YCR, 1.3.3. Subjects, pp. 43-45] Alternatively, or additionally, use standards such as Universal Decimal Classification (UDC), Dewey Decimal Classification (DDC), or equivalent in country in which you are working, or an in-house data value standard.
 
 In addition, access to the Work can be provided by means of genre(s) and/or form(s) (or identifiers) of which the Work is an example (i.e., what the Work is).
 Form describes the format and/or purpose of a Work, e.g., “non-fiction”, “short” and “animation” are particular forms or identifiers.
 Genre describes categories of Works, characterized by similar plots, themes, settings, situations, and characters.
-Examples of genres are “westerns” and “thrillers”.[^78] Use an existing and widely used data value standard such as Library of Congress Thesaurus for Genre/Form Terms in Libraries and Archives (LCGFT)[^79], or equivalent in country where work is being done, or an in-house controlled vocabulary genre thesaurus.
+Examples of genres are “westerns” and “thrillers”.^[Frequently Asked Questions about Library of Congress Genre/Form Terms for Library and Archival Materials (LCGFT), Revised June 6, 2011, http://www.loc.gov/catdir/cpso/genre_form_faq.pdf] Use an existing and widely used data value standard such as Library of Congress Thesaurus for Genre/Form Terms in Libraries and Archives (LCGFT)^[http://id.loc.gov/authorities/genreForms], or equivalent in country where work is being done, or an in-house controlled vocabulary genre thesaurus.
 
 TODO this is an example table
 
   Examples:
 
-  Main title A trip down Market Street before the fire / [Miles Brothers]. [^80]
+  Main title A trip down Market Street before the fire / [Miles Brothers]. ^[For full record see http://lccn.loc.gov/00694408]
 
   Published/Created United States. [United States : Miles Brothers, 1906].
 
@@ -1511,38 +1505,32 @@ TODO this is an example table
   Genres
   1. Drama. 2. Features.
 
-[^77]: Adapted from YCR, 1.3.3. Subjects, pp. 43-45
-[^78]: Frequently Asked Questions about Library of Congress Genre/Form Terms for Library and Archival Materials (LCGFT), Revised June 6, 2011, http://www.loc.gov/catdir/cpso/genre_form_faq.pdf
-[^79]: http://id.loc.gov/authorities/genreForms
-[^80]: For full record see http://lccn.loc.gov/00694408
-
-\subsection{1.4.4 Other relationships}
-\label{sec:manual-1.4.4}
-
-
-[^81] {#manual-1.4.4}
+\subsubsection[Other relationships]{Other relationships 
+    \footnote {EN 15907 8.5 HasAsSubject; YCR, 1.2.7 Relationships With Other Moving Image Works or Other Kinds of Works} 
+    \label{sec:other_relationships}
+    } 
 
 If desired or appropriate, express relationships that are not covered by the Agent, Subject, and Event relationships, including all kinds of aggregation and re-use of Works and their Variants.
 (See [Appendix E, Aggregates](#manual-E).)
 
-Commonly-occurring relationships include:[^82]
+Commonly-occurring relationships include:^[OLAC TF, Part I, Moving Image Work Definition and Boundaries, Commonly-Occurring Relationships, p. 16.]
 
 - Work(s) that the moving image Work is based on (e.g. moving images adapted from novels, plays, etc.)
 
 Example:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 The grapes of wrath (United States of America, 1940, John Ford), based on the homonymous novel by John Steinbeck (1939).
 \end{tcolorbox}
 ```
 
-- Work(s) that the moving image Work is a performance of (moving image recordings made of live stage presentations of music, plays, dance, etc.
+- Work(s) that the moving image Work is a performance of (moving image recordings made of live stage presentations of music, plays, dance, etc.)
 
 Example:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Pink Floyd: live at Pompeii (Belgium,West Germany, France, 1972, Adrian Maben ), concert filmed in the old Pompeii amphitheatre.
 \end{tcolorbox}
 ```
@@ -1552,13 +1540,13 @@ Pink Floyd: live at Pompeii (Belgium,West Germany, France, 1972, Adrian Maben ),
 Examples:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Fantômas contre Fantômas (Serial in 5 episodes, Louis Feuillade 1914, production Société des Etablissements Gaumont).
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Fiddlesticks, Ub Iwerks, 1930, episode of the animation series Flip the Frog (Celebrity Pictures, distr. Metro Goldwyn-Mayer, 1930-1933 (38 issues).
 \end{tcolorbox}
 ```
@@ -1568,7 +1556,7 @@ Fiddlesticks, Ub Iwerks, 1930, episode of the animation series Flip the Frog (Ce
 Example:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 The Godfather Part I \\
 The Godfather Part II \\
 The Godfather Part III Francis Ford Coppola (United States of America, 1972- 1974-1990)
@@ -1580,13 +1568,13 @@ The Godfather Part III Francis Ford Coppola (United States of America, 1972- 197
 Examples:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 La ciociara quarant’anni dopo (Italy, 2001, Stefano Landini), documentary on the restoration of La ciociara (Italy, 1960, Vittorio De Sica).
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Reise nach Metropoli (Germany, 2009, Artem Demenok), documentary on the restoration of Metropolis (Fritz Lang, 1927).
 \end{tcolorbox}
 ```
@@ -1596,7 +1584,7 @@ Reise nach Metropoli (Germany, 2009, Artem Demenok), documentary on the restorat
 Example:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Wuthering Heights (Film Trailer) (United States of America, 1939) is the trailer for Wuthering Heights (United States of America, 1939, William Wyler)
 \end{tcolorbox}
 ```
@@ -1606,26 +1594,25 @@ Wuthering Heights (Film Trailer) (United States of America, 1939) is the trailer
 Examples:
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Kes (United Kingdom, 1969, Ken Loach), book “Life after Kes: an anthology of the film Kes”, by Simon W. Golding. GET Publishing, 2005. ISBN. 0954879333
 \end{tcolorbox}
 ```
 
-
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Land and freedom (United Kingdom, 1995, Ken Loach), script Land and freedom (c.1993) (script for ‘Land and freedom’, with opening sequence different from earlier scripts).
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 Carry on camping (United Kingdom, 1969, Gerald Thomas), archival documents - general production correspondence including notes from the pre-production meeting, studio agreement, final screen credits, and draft trailer script).
 \end{tcolorbox}
 ```
 
 ```{=latex}
-\begin{tcolorbox}[colback=gray!10!white]
+\begin{tcolorbox}
 The wicked lady (United Kingdom, 1945, Leslie Arliss), costume
 \end{tcolorbox}
 ```
@@ -1641,20 +1628,18 @@ In a note, add any additional information concerning the relationship considered
 
 Describe or demonstrate Work-to-Work relationships through linking to the Work identifier of the related Work, through the usage of relator terms, or according to the confines of the institution’s data structure.
 
-Remember, a Work based on a pre-existing Work should be identified as a Variant of the same Work unless it has been so significantly changed as to have become a new related Work.[^83] See [1.1.1 Boundaries between Works](#manual-1.1.1) and [1.1.2 Boundaries between Works and Variants/Manifestations](#manual-1.1.2) for determining when a Work should be identified as a new, but related Work and when it should be identified as a Variant of the original Work.
+Remember, a Work based on a pre-existing Work should be identified as a Variant of the same Work unless it has been so significantly changed as to have become a new related Work.^[YCR, 1.1.7 Works based on previous works, pp. 24-25.] See [1.1.1 Boundaries between Works](#manual-1.1.1) and [1.1.2 Boundaries between Works and Variants/Manifestations](#manual-1.1.2) for determining when a Work should be identified as a new, but related Work and when it should be identified as a Variant of the original Work.
 
-[^81]: EN 15907 8.6 HasAsSubject; YCR, 1.2.7 Relationships With Other Moving Image Works or Other Kinds of Works
-[^82]: OLAC TF, Part I, Moving Image Work Definition and Boundaries, Commonly-Occurring Relationships, p. 16.
-[^83]: YCR, 1.1.7 Works based on previous works, pp. 24-25.
-
-
-\subsection{1.4.5 Variants}
-\label{sec:manual-1.4.5}
+\subsubsection[Variants]{Variants  
+    \label{sec:variants}
+    } 
 
 Express the relationship between a moving image Work and a moving image Variant (e.g., Part/part of).
 Describe or demonstrate Work-to-Variant relationships through linking to the Work identifier, through the usage of relator terms, or according to the confines of your data structure.
-\subsection{1.4.6 Manifestations}
-\label{sec:manual-1.4.6}
+
+\subsubsection[Manifestations]{Manifestations  
+    \label{sec:manifestations}
+    } 
 
 Express the relationship between a moving image Work or Variant and a moving image Manifestation (e.g., Part/part of).
 Describe or demonstrate Work-to-Manifestation relationships through linking to the Work identifier, through the usage of relator terms, or according to the confines of your data structure.
