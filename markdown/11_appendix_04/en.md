@@ -90,7 +90,7 @@ Hollywood interviews (unedited production material for series Hollywood) \\
 BFI London Film Festival Awards 2010 – production material, etc. \\
 Fifties features (videotape collection of production material, with each of the tapes given an identifying acquisition title: \\
 B1-3 Sylvia Syms I/V \\
-B4-6 Sylvia Syms I/V & Jill Craigie I/V \\
+B4-6 Sylvia Syms I/V \& Jill Craigie I/V \\
 \end{tcolorbox}
 ```
 
@@ -677,292 +677,315 @@ A moving image Manifestation type representing Manifestations distributed and ex
 These Manifestation types can be more than one instance, created at the same time or in a different moment, from the same “reproduction” masters.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  Example:
-
-  L’aigle à deux têtes (France, 1948, Jean Cocteau)
-
-  Manifestation 1 : Theatrical distribution (France – 1948 – 22/09/1948 – first projection) – 35mm French – Les Films Ariane (producer, distributor)
-  Manifestation 2 : Home Video Publication (France – 2010) – TF1 Vidéo (Boulogne-Billancourt)[^214] (publisher)
-
-  Dubbed Variant
-  Manifestation 1: Theatrical distribution (Italy – 1949 – censorship visa) – 35mm – Italian (dubbed) – title “L’aquila a due teste” – Italfrancofilm (distributor)
-  Manifestation 2: Home Video Publication (Italy – 2009 – 25/09/2009) - DVD – French and dubbed Italian (spoken languages), Italian subtitles – Gruppo Editoriale Minerva Raro Video (publisher) – DVD edition by Gabrielle Lucantonio.
-
-[^214]: http://cinema.encyclopedie.films.bifi.fr/index.php?pk=47676&_ga=1.256088331.1431169682.1413365901
-
-
-\subsection{D.5.2.1 Theatrical distribution (country of origin)}
-\label{sec:manual-D.5.2.1}
+Example^[http://cinema.encyclopedie.films.bifi.fr/index.php?pk=47676&_ga=1.256088331.1431169682.1413365901]:
+
+```{=latex}
+\begin{tcolorbox}
+L’aigle à deux têtes (France, 1948, Jean Cocteau)
+
+Manifestation 1 : Theatrical distribution (France – 1948 – 22/09/1948 – first projection) – 35mm French – Les Films Ariane (producer, distributor)
+Manifestation 2 : Home Video Publication (France – 2010) – TF1 Vidéo (Boulogne-Billancourt) (publisher)
+
+Dubbed Variant
+Manifestation 1: Theatrical distribution (Italy – 1949 – censorship visa) – 35mm – Italian (dubbed) – title “L’aquila a due teste” – Italfrancofilm (distributor)
+Manifestation 2: Home Video Publication (Italy – 2009 – 25/09/2009) - DVD – French and dubbed Italian (spoken languages), Italian subtitles – Gruppo Editoriale Minerva Raro Video (publisher) – DVD edition by Gabrielle Lucantonio.
+\end{tcolorbox}
+```
+
+\paragraph[Theatrical distribution (country of origin)]{Theatrical distribution (country of origin)
+    \label{sec:theatrical_distribution_country_of_origin}
+    } \
 
 Refers to a public theatrical screening of the film in the country where the film was (primarily) made. For multi-national co-productions, the country of origin is the country where the primary production company is based.
 
-    Example:
+Example:
 
-    Mujeres al borde de un ataque de nervios (Spain, 1988-03-23)
+```{=latex}
+\begin{tcolorbox}
+Mujeres al borde de un ataque de nervios (Spain, 1988-03-23)
+\end{tcolorbox}
+```
 
-
-\subsection{D.5.2.2 Theatrical distribution (outside country of origin)}
-\label{sec:manual-D.5.2.2}
+\paragraph[Theatrical distribution (outside country of origin)]{Theatrical distribution (outside country of origin)
+    \label{sec:theatrical_distribution_outside_country_of_origin}
+    } \
 
 Refers to a public theatrical screening of a manifestation outside the country where it was made. In many cases in BFI cataloguing this will refer to the first documented United Kingdomscreening of a non-UK film.
 
-    Example:
+Example:
 
-    Women on the Verge of a Nervous Breakdown (UK, 1989-06-16)
+```{=latex}
+\begin{tcolorbox}
+Women on the Verge of a Nervous Breakdown (UK, 1989-06-16)
+\end{tcolorbox}
+```
 
-
-\subsection{D.5.2.3 Theatrical distribution (country unknown)}
-\label{sec:manual-D.5.2.3}
+\paragraph[Theatrical distribution (country unknown)]{Theatrical distribution (country unknown)
+    \label{sec:theatrical_distribution_country_unknown}
+    } \
 
 Refers to a known public theatrical release, where the country cannot be ascertained.
 
-    Example:
+Example:
 
-    Kiss Me Kate (1953, country unknown)
+```{=latex}
+\begin{tcolorbox}
+Kiss Me Kate (1953, country unknown)
+\end{tcolorbox}
+```
 
-\subsection{D.5.3 Non-theatrical distribution}
-\label{sec:manual-D.5.3}
+\subsubsection[Non-theatrical distribution]{Non-theatrical distribution
+    \label{sec:non_theatrical_distribution}
+    } 
 
 A moving image Manifestation screened or exhibited outside the public theatrical context. For example, industrial film, training film, medical film, where screening often takes place within a private institutional context; film club screenings; educational screenings.
 
-  Example:
+Example^[http://the-numbers.com/movies/2006/QUEEN.php/] ^[Cornick, Michael. (2008). Modern Film Censorship: Television, Airlines, and Home Entertainment. p. 44]:
 
-  The Queen (United Kingdom, 2006, Stephen Frears)[^215]
-  Variant: Censored for airplanes (UK and USA?)
-  Manifestation: Non-theatrical distribution (USA – Delta Airlines).[^216]
+```{=latex}
+\begin{tcolorbox}
+The Queen (United Kingdom, 2006, Stephen Frears)
+Variant: Censored for airplanes (UK and USA?)
+Manifestation: Non-theatrical distribution (USA – Delta Airlines).
+\end{tcolorbox}
+```
 
-  Che cos’è la geografia (Italy, 1953) (genre: Educational Film)
-  Manifestation 1: Non-theatrical distribution – 16mm- silent with Italian intertitles –b/n – 20’
+```{=latex}
+\begin{tcolorbox}
+Che cos’è la geografia (Italy, 1953) (genre: Educational Film)
+Manifestation 1: Non-theatrical distribution – 16mm- silent with Italian intertitles –b/n – 20’
+\end{tcolorbox}
+```
 
-  United Nations peacekeeping: situation report, United States of America, 1978 (United Nations Film)(genre: Educational film)
-  Manifestation 1: Non-theatrical distribution – 16mm- sound– colour
+```{=latex}
+\begin{tcolorbox}
+United Nations peacekeeping: situation report, United States of America, 1978 (United Nations Film)(genre: Educational film)
+Manifestation 1: Non-theatrical distribution – 16mm- sound– colour
+\end{tcolorbox}
+```
 
-  Stevie Wonder salutes Nelson Mandela, United States of America, 1985 (United Nations Film) (genre: educational film)
-  Manifestation 1: Non-theatrical distribution– 16mm- sound– color – 8’
+```{=latex}
+\begin{tcolorbox}
+Stevie Wonder salutes Nelson Mandela, United States of America, 1985 (United Nations Film) (genre: educational film)
+Manifestation 1: Non-theatrical distribution– 16mm- sound– color – 8’
+\end{tcolorbox}
+```
 
-[^215]: http://the-numbers.com/movies/2006/QUEEN.php/
-[^216]: Cornick, Michael. (2008). Modern Film Censorship: Television, Airlines, and Home Entertainment. p. 44
-
-\subsection{D.5.4 Not for release}
-\label{sec:manual-D.5.4}
+\subsubsection[Not for release]{Not for release
+    \label{sec:not_for_release}
+    } 
 
 Any moving image Manifestation where the viewing activity was private, due to the nature of the work or the nature of the viewing. For example, amateur film / home movies, where screening usually takes place in a private familial context only; or an uncut manifestation of a feature film screened for crew only.
 
-    Example:
+Example^[See FIAF Rules 1992 complete record: Example 29.]:
 
-    Albert Einstein at country home, Caputh, near Berlin, May 1931. (genre: home movie)
+```{=latex}
+\begin{tcolorbox}
+Albert Einstein at country home, Caputh, near Berlin, May 1931. (genre: home movie)
+Manifestation 1: Not for release– film – 16mm 
+\end{tcolorbox}
+```
 
-Manifestation 1: Not for release– film – 16mm [^217]
+```{=latex}
+\begin{tcolorbox}
+Incontro con Paolo e Vittorio Taviani, Italy, 2004 (genre: event record)
+Manifestation 1 (Original): Not for release – MiniDV – 2004 – Italy –CSC-Cineteca Nazionale
+\end{tcolorbox}
+```
 
-    Incontro con Paolo e Vittorio Taviani, Italy, 2004 (genre: event record)
-    Manifestation 1 (Original): Not for release – MiniDV – 2004 – Italy –CSC-Cineteca Nazionale
+```{=latex}
+\begin{tcolorbox}
+Viaggio in Congo (Italy, 1912, Guido Piacenza) shots not edited)
+Augmented / Preservation Variant – (ordering of the shots and addition of explaining intertitles based on the personal diary records of the director) (ordering and editing, including new explaining intertitles, based on personal diary records of the director)
+Manifestation 1: Not for release (archival access) – film 35mm – b/n – silent
+\end{tcolorbox}
+```
 
-    Viaggio in Congo (Italy, 1912, Guido Piacenza) shots not edited)
-    Augmented / Preservation Variant – (ordering of the shots and addition of explaining intertitles based on the personal diary records of the director) (ordering and editing, including new explaining intertitles, based on personal diary records of the director)
-
-    Manifestation 1: Not for release (archival access) – film 35mm – b/n – silent
-
-[^217]: See FIAF Rules 1992 complete record: Example 29.
-
-\subsection{D.5.5 Unreleased}
-\label{sec:manual-D.5.5}
+\subsubsection[Unreleased]{Unreleased
+    \label{sec:unreleased}
+    } 
 
 Refers to Manifestations which do not represent a release/distribution event, but where the work was intended for release (therefore, distinct from “Not for release”, see above), e.g. the film was made, completed and intended for release, but was not then released due to censorship or political impediments, or other reason.
 
-  Examples:
+Examples:
 
-  Robinson Warszawksi (Poland, 1948, Jerzy Zarzycki)
-  Film was never released. It ran into censorship problems for portraying the heroism of non-Communist underground movement that also fought against the Nazis. Film was re-edited with major plot changes and released as Miasto Nieujarzmione in 1950.
+```{=latex}
+\begin{tcolorbox}
+Robinson Warszawksi (Poland, 1948, Jerzy Zarzycki)
+Film was never released. It ran into censorship problems for portraying the heroism of non-Communist underground movement that also fought against the Nazis. Film was re-edited with major plot changes and released as Miasto Nieujarzmione in 1950.
+\end{tcolorbox}
+```
 
-  Primavera (Italy, ca. 1920, Licurgo Tioli) (Italian silent film, which is not included in the censorship records and according to the sources, was never released/distributed, but it exists as a nitrate tinted 35mm print at the CSC-Cineteca Nazionale in Rome).
+```{=latex}
+\begin{tcolorbox}
+Primavera (Italy, ca. 1920, Licurgo Tioli) (Italian silent film, which is not included in the censorship records and according to the sources, was never released/distributed, but it exists as a nitrate tinted 35mm print at the CSC-Cineteca Nazionale in Rome).
+\end{tcolorbox}
+```
 
-\subsection{D.5.6 Home viewing publication}
-\label{sec:manual-D.5.6}
+\subsubsection[Home viewing publication]{Home viewing publication
+    \label{sec:home_viewing_publication}
+    } 
 
 A published Manifestation for viewing in the home or similar small-scale private context, of any type of work. For example, a Blu-ray release of a feature film, for viewing in the home; or a DVD compilation release of a set of non-fiction film works.
 
-  Example:
+Example:
 
-  A day in the life. Four portraits of post-war Britain (UK, DVD/Blu-ray, 2010)
+```{=latex}
+\begin{tcolorbox}
+A day in the life. Four portraits of post-war Britain (UK, DVD/Blu-ray, 2010)
+end{tcolorbox}
+```
 
-  The most used formats are VHS, DVD, and Laserdisc, but this definition can also include 9.5mm Pathé Baby or 8mm packages in use from the 1950s-1980s (e.g.. the 1977 Star Wars home video in 8mm).
+The most used formats are VHS, DVD, and Laserdisc, but this definition can also include 9.5mm Pathé Baby or 8mm packages in use from the 1950s-1980s (e.g.. the 1977 Star Wars home video in 8mm).
 
-  NOTE: When the production process involves changes related to the publication, marketing, etc. (e.g., a change in publisher, a repackaging, a new distributor and so on), the resulting product may be considered a new Manifestation as well (see [2.1 Boundaries between Manifestations](#manual-2.1)).
+NOTE: When the production process involves changes related to the publication, marketing, etc. (e.g., a change in publisher, a repackaging, a new distributor and so on), the resulting product may be considered a new Manifestation as well (see [2.1 Boundaries between Manifestations](#manual-2.1)).
 
-  Example:
+Example ^[http://the-numbers.com/movies/2006/QUEEN.php/]:
 
-  Fellini Satyricon (Italy, 1969, Federico Fellini)
-  Manifestation 1: Home Video Publication – VHS (Italy – 1987 – De Laurentiis/ Ricordi Video (publisher)
+```{=latex}
+\begin{tcolorbox}
+Fellini Satyricon (Italy, 1969, Federico Fellini)
+Manifestation 1: Home Video Publication – VHS (Italy – 1987 – De Laurentiis/ Ricordi Video (publisher)
+\end{tcolorbox}
+```
 
-  The Queen (United Kingdom, 2006, Stephen Frears)[^218]
-  Manifestation 1: Theatrical distribution (UK – 2006 – first projection) – 35mm – English
-  Manifestation 2: TV Broadcast (UK 2007-09-02)
-  Manifestation 3: Home video – DVD (UK distribution – 2007-03-12)
-  Manifestation 4: Home video – DVD Blue Ray (USA – 2007-04-24)
+```{=latex}
+\begin{tcolorbox}
+The Queen (United Kingdom, 2006, Stephen Frears)
+Manifestation 1: Theatrical distribution (UK – 2006 – first projection) – 35mm – English
+Manifestation 2: TV Broadcast (UK 2007-09-02)
+Manifestation 3: Home video – DVD (UK distribution – 2007-03-12)
+Manifestation 4: Home video – DVD Blue Ray (USA – 2007-04-24)
+\end{tcolorbox}
+```
 
-[^218]: http://the-numbers.com/movies/2006/QUEEN.php/
-
-
-
-\subsection{D.5.7 Broadcast}
-\label{sec:manual-D.5.7}
+\subsubsection[Broadcast]{Broadcast
+    \label{sec:broadcast}
+    } 
 
 A moving image Manifestation type for TV transmission. It encompasses professional video and digital formats, i.e. Digital Betacam, HDCam, etc.
 
-  Example:
+Example:
 
-  The Queen (United Kingdom, 2006, Stephen Frears)
-  Manifestation 2: TV Broadcast (UK 2007-09-02)
+```{=latex}
+\begin{tcolorbox}
+The Queen (United Kingdom, 2006, Stephen Frears)
+Manifestation 2: TV Broadcast (UK 2007-09-02)
+\end{tcolorbox}
+```
 
-  It happened one night (United States of America, 1934, Frank Capra)
-  Manifestation 1: Theatrical distribution (United States of America, 1934): 35mm – black and white – 105 minutes – Columbia Pictures Corp. (producer, distributor) –
-  Manifestation 2: Broadcast (broadcast on Turner Classic Movies – 2013-11-01, 08:00) black and white – mono – 105 minutes.
+```{=latex}
+\begin{tcolorbox}
+It happened one night (United States of America, 1934, Frank Capra)
+Manifestation 1: Theatrical distribution (United States of America, 1934): 35mm – black and white – 105 minutes – Columbia Pictures Corp. (producer, distributor) –
+Manifestation 2: Broadcast (broadcast on Turner Classic Movies – 2013-11-01, 08:00) black and white – mono – 105 minutes.
+\end{tcolorbox}
+```
 
-  Lazarus rising, (in the series Supernatural), Season 4 Episode 1 (United States of America, 2008, Kim Manners)
-  Manifestation 1: TV Broadcast (USA 2008-09-18, 21:00-21:55, The CW) colour – stereo – 55 minutes (slot); 40 minutes (actual running time)
-  Manifestation 2: TV Broadcast (UK, 2009-01-25, 21:00-22:00, ITV2) colour – stereo – 60 minutes (slot); 40 minutes (actual running time)
+```{=latex}
+\begin{tcolorbox}
+Lazarus rising, (in the series Supernatural), Season 4 Episode 1 (United States of America, 2008, Kim Manners)
+Manifestation 1: TV Broadcast (USA 2008-09-18, 21:00-21:55, The CW) colour – stereo – 55 minutes (slot); 40 minutes (actual running time)
+Manifestation 2: TV Broadcast (UK, 2009-01-25, 21:00-22:00, ITV2) colour – stereo – 60 minutes (slot); 40 minutes (actual running time)
+\end{tcolorbox}
+```
 
-\subsection{D.5.8 Internet}
-\label{sec:manual-D.5.8}
+\subsubsection[Internet]{Internet
+    \label{sec:internet}
+    } 
 
 A moving image Manifestation distributed on the Internet (stream or download) for works of any type, those conceived as Internet works or those conceived in other type but subsequently distributed on the internet (for free or pay).
 
-  Example:
+Example:
 
-  Amor pedestre (Italy, 1914, Marcel Fabre)
-  Manifestation 1: Theatrical distribution – Italian intertitles – film – 35mm – silent – tinted – 1914 – Italy
-  Manifestation 2: Internet – digital file – [201-?] – Cineteca Italiana (internet publisher) (http://cinestore.cinetecamilano.it/index.php?option=com_content&view=article&id=21:amor-pedestre&catid=30&Itemid=104&lang=it- – 4’)
+```{=latex}
+\begin{tcolorbox}
+Amor pedestre (Italy, 1914, Marcel Fabre)
+Manifestation 1: Theatrical distribution – Italian intertitles – film – 35mm – silent – tinted – 1914 – Italy
+Manifestation 2: Internet – digital file – [201-?] – Cineteca Italiana (internet publisher) 
+\end{tcolorbox}
+```
 
-  A film Johnnie (United States of America, 1914, George Nichols)
-  Translated Variant: Danish intertitles -35mm silent – tinted – Denmark 191[?] -Title: Chaplin fridsstöraren
-  Preservation Variant: (of Translated Variant)
-  Manifestation 1: Internet – digital file – [201-?] – European Film Gateway (internet publisher) http://www.europeanfilmgateway.eu/it/node/33/detail/A+film+Johnnie/video:MTU4Yzg1OWUtZGJhZC00ZGUxLTg2MWYtZDEyM2Y0YTA3ODQ0X1VtVndiM05wZEc5eWVWTmxjblpwWTJWU1pYTnZkWEpqWlhNdlVtVndiM05wZEc5eWVWTmxjblpwWTJWU1pYTnZkWEpqWlZSNWNHVT06OmF2Q3JlYXRpb24uZGZpLmRrL0RGSV9hdkNyZWF0aW9uXzQwNjM0/paging:dmlkZW8tMS00LWltYWdlLTEtNC1zb3VuZC0xLTQtcGVyc29uLTEtNC10ZXh0LTEtNA== 13’)
+```{=latex}
+\begin{tcolorbox}
+A film Johnnie (United States of America, 1914, George Nichols)
+Translated Variant: Danish intertitles -35mm silent – tinted – Denmark 191[?] -Title: Chaplin fridsstöraren
+Preservation Variant: (of Translated Variant)
+Manifestation 1: Internet – digital file – [201-?] – European Film Gateway (internet publisher) http://www.europeanfilmgateway.eu/it/node/33/detail/A+film+Johnnie/video:MTU4Yzg1OWUtZGJhZC00ZGUxLTg2MWYtZDEyM2Y0YTA3ODQ0X1VtVndiM05wZEc5eWVWTmxjblpwWTJWU1pYTnZkWEpqWlhNdlVtVndiM05wZEc5eWVWTmxjblpwWTJWU1pYTnZkWEpqWlZSNWNHVT06OmF2Q3JlYXRpb24uZGZpLmRrL0RGSV9hdkNyZWF0aW9uXzQwNjM0/paging:dmlkZW8tMS00LWltYWdlLTEtNC1zb3VuZC0xLTQtcGVyc29uLTEtNC10ZXh0LTEtNA== 13’)
+\end{tcolorbox}
+```
 
-  Brennende Grenze (Germany, 1926-27, Erich Waschneck)
-  Manifestation 1: Internet –digital file – [200-?] –Deutsches Filminstitut – DIF (internet publisher) http://www.filmportal.de/node/42289/video/1219949 – 2h 26’ 18’’
+```{=latex}
+\begin{tcolorbox}
+Brennende Grenze (Germany, 1926-27, Erich Waschneck)
+Manifestation 1: Internet –digital file – [200-?] –Deutsches Filminstitut – DIF (internet publisher) http://www.filmportal.de/node/42289/video/1219949 – 2h 26’ 18’’
+\end{tcolorbox}
+```
 
-  Hollywood Stadium mystery (USA 1938, David Howard )
-  Manifestation 1: Theatrical distribution – English (spoken language) – film – 35mm b/n – 1938 -USA
-  Manifestation 2: Internet – digital file – 619.3 MB – [200-?] – United States of America – archive.org (internet publisher) – https://archive.org/details/Hollywood_Stadium_Mystery_1938
-  Manifestation: Internet – digital file – 512Kb MPEG4 – [200-?] – United States of America – archive.org (internet publisher) – https://archive.org/details/Hollywood_Stadium_Mystery_1938
+```{=latex}
+\begin{tcolorbox}
+Hollywood Stadium mystery (USA 1938, David Howard )
+Manifestation 1: Theatrical distribution – English (spoken language) – film – 35mm b/n – 1938 -USA
+Manifestation 2: Internet – digital file – 619.3 MB – [200-?] – United States of America – archive.org (internet publisher)  
+Manifestation: Internet – digital file – 512Kb MPEG4 – [200-?] – United States of America – archive.org (internet publisher) 
+\end{tcolorbox}
+```
 
-  Cat-Women of the Moon (United States of America, 1953, Arthur Hilton)
-  Manifestation 1 : Theatrical distribution: English (spoken language) – film – 35mm – b/n – 1953 – USA
-  Manifestation 2: Internet – English (spoken language) digital file – DivX – [200-?] – United States of America -https://archive.org/details/Cat_Women_of_the_Moon; – 442.1 MB
-  Manifestation 3: Internet – English (spoken language) – digital file – 512Kb MPEG4 – [200-?] – United States of America – https://archive.org/details/Cat_Women_of_the_Moon – 259.6 MB
+```{=latex}
+\begin{tcolorbox}
+Cat-Women of the Moon (United States of America, 1953, Arthur Hilton)
+Manifestation 1 : Theatrical distribution: English (spoken language) – film – 35mm – b/n – 1953 – USA
+Manifestation 2: Internet – English (spoken language) digital file – DivX – [200-?] – United States of America; – 442.1 MB
+Manifestation 3: Internet – English (spoken language) – digital file – 512Kb MPEG4 – [200-?] – United States of America; – 259.6 MB
+\end{tcolorbox}
+```
 
-  A Syrian love story (United Kingdom, Sweden, Denmark, 2015, Sean McAllister)
-  Manifestation 1: Theatrical distribution: Arabic, English, French (spoken language); English subtitles – Digital – Digital Cinema Package (DCP) – colour – 2015-09-18 – United Kingdom
-  Manifestation 2: Internet: Arabic, English, French (spoken language); English subtitles – digital file
+```{=latex}
+\begin{tcolorbox}
+A Syrian love story (United Kingdom, Sweden, Denmark, 2015, Sean McAllister)
+Manifestation 1: Theatrical distribution: Arabic, English, French (spoken language); English subtitles – Digital – Digital Cinema Package (DCP) – colour – 2015-09-18 – United Kingdom
+Manifestation 2: Internet: Arabic, English, French (spoken language); English subtitles – digital file
+\end{tcolorbox}
+```
 
-\subsection{D.5.9 Preservation/Restoration}
-\label{sec:manual-D.5.9}
+\subsubsection[Preservation/Restoration]{Preservation/Restoration
+    \label{sec:preservation_restoration}
+    } 
 
 Refers to manifestations which represent the outcome(s) of restoration events/activities, usually involving selection and aggregation of materials from diverse source elements to replicate an ‘original’ or ‘ideal’ manifestation.
 Some institutions may use this to refer to restorations undertaken by the institution (not to be confused with the Variant, resulting from reconstruction made by aggregating different sources, see [1.1.2 Boundaries between Works and Variants/Manifestations](#manual-1.1.2).
 
-  Example:
+Example ^[http://www.silentera.com/video/metropolisHV.html] ^[http://www.murnau-stiftung.de/movie/674 and http://www.schnittberichte.com/news.php?ID=7433]:
 
-  The great white silence (2010) (United Kingdom, Herbert Pointing, 1924) (DVD –Dual Format Edition – BFI)
+```{=latex}
+\begin{tcolorbox}
+The great white silence (2010) (United Kingdom, Herbert Pointing, 1924) (DVD –Dual Format Edition – BFI)
+\end{tcolorbox}
+```
 
-  Metropolis (Germany, Fritz Lang, 1927)
-  The Complete Metropolis – Blu Ray – (2010 restoration – Kino International, United States of America, 2010)[^219]
+```{=latex}
+\begin{tcolorbox}
+Metropolis (Germany, Fritz Lang, 1927)
+The Complete Metropolis – Blu Ray – (2010 restoration – Kino International, United States of America, 2010)
+\end{tcolorbox}
+```
 
-  Nosferatu. Eine Symphonie des Grauens (Germany, 1922, Friedrich Wilhelm Murnau) Blu-Ray of the preservation/Restoration Variant: 2005-2006 restoration – Murnau Stiftung/Transit Classics – Deluxe Edition – 2014 – EAN 888430505797[^220]
+```{=latex}
+\begin{tcolorbox}
+Nosferatu. Eine Symphonie des Grauens (Germany, 1922, Friedrich Wilhelm Murnau) Blu-Ray of the preservation/Restoration Variant: 2005-2006 restoration – Murnau Stiftung/Transit Classics – Deluxe Edition – 2014 – EAN 888430505797
+\end{tcolorbox}
+```
 
-[^219]: http://www.silentera.com/video/metropolisHV.html.
-[^220]: http://www.murnau-stiftung.de/movie/674 and http://www.schnittberichte.com/news.php?ID=7433
-
-
-\subsection{D.5.10 Unknown}
-\label{sec:manual-D.5.10}
+\subsubsection[Unknown]{Unknown
+    \label{sec:unknown}
+    } 
 
 Use only when there is insufficient contextual information to enable informed use of any specific Manifestation type from the list above.
 For example, to be used when undertaking data cleaning of obsolete legacy Manifestations, when no information is available and it is not practical to examine the primary source to establish context.
 
-\subsection{D.6 Language Usage Types}
-\label{sec:manual-D.6}
+\subsection[Language Usage Types]{Language Usage Types
+    \label{sec:language_usage_types}
+    } 
 
   Dialogue language(s)
     Spoken language
@@ -976,16 +999,18 @@ For example, to be used when undertaking data cleaning of obsolete legacy Manife
   Language(s) of summaries on containers
   Language(s) of accompanying material
 
-\subsection{D.7 Manifestation/Item Physical Description}
-\label{sec:manual-D.7}
+\subsection[Manifestation/Item Physical Description]{Manifestation/Item Physical Description
+    \label{sec:manifestation_item_physical_description}
+    } 
 
 Many of the physical description elements are considered specific to Manifestations and are inherited properties of the Items associated with the Manifestations.
 This approach is recommended where possible so that the data only need be captured once in order to eliminate redundancies.
 However, it is understood that many elements may be repeated at the Item level due to systems designs.
 Therefore, the list of elements below indicates those that can be conceivably recorded at the Manifestation level only, at the Manifestation or Item level, and at the Item level only.
 
-\subsection{D.7.1 Manifestation/Item General Carrier Type}
-\label{sec:manual-D.7.1}
+\subsubsection[Manifestation/Item General Carrier Type]{Manifestation/Item General Carrier Type
+    \label{sec:manifestation_item_general_carrier_type}
+    } 
 
 Film
 Video Tape
@@ -994,21 +1019,26 @@ Digital Tape
 Digital Disc
 Digital File
 
-\subsection{D.7.2 Manifestation/Item Specific Carrier Type}
-\label{sec:manual-D.7.2}
+\subsubsection[Manifestation/Item Specific Carrier Type]{Manifestation/Item Specific Carrier Type
+    \label{sec:manifestation_item_specific_carrier_type}
+    } 
 
 Institutions should develop standard lists of terms to indicate the specific carrier type or refer to authoritative existing lists.
 
 For optical media, only add commercially produced media here. If the optical media is “writable” and is being used to store a digital file, put the digital file format in the General Carrrier Type, and the optical storage media in Specific.
 
-  Examples include, but are not limited to:
+Examples include, but are not limited to:
 
-  YEE (http://myee.bol.ucla.edu/catrul.doc 5.3.3 (physical carriers)
-  AMIM2 5D, pp. 18-19 (for gauges/width values)
-  AMIM2 5B7, pp. 10-11 (including both “tape” and “disc” based video formats).
-  RDA 3.20; YEE (http://myee.bol.ucla.edu/catrul.doc 5.3.14 (for encoding formats).
-  PBCore instantiationPhysical (http://metadataregistry.org/concept/list/vocabulary_id/145.html) (for physical carriers)
-  PBCore instantiationDigital (http://pbcore.org/pbcoreinstantiation/instantiationdigital/) (for broad digital formats)
+```{=latex}
+\begin{tcolorbox}
+YEE (http://myee.bol.ucla.edu/catrul.doc 5.3.3 (physical carriers)
+AMIM2 5D, pp. 18-19 (for gauges/width values)
+AMIM2 5B7, pp. 10-11 (including both “tape” and “disc” based video formats).
+RDA 3.20; YEE (http://myee.bol.ucla.edu/catrul.doc 5.3.14 (for encoding formats).
+PBCore instantiationPhysical (http://metadataregistry.org/concept/list/vocabulary_id/145.html) (for physical carriers)
+PBCore instantiationDigital (http://pbcore.org/pbcoreinstantiation/instantiationdigital/) (for broad digital formats)
+\end{tcolorbox}
+```
 
 Additional sources of information include several SMPTE standards, engineering guidelines, and recommended practices. These are some of the most common terms, but not a complete or definitive list.
 
@@ -1036,8 +1066,9 @@ HDD (abbreviated for “external hard drive”)
 DVD-R
 Blu-Ray
 
-\subsection{D.7.3 Item Preservation/Access status}
-\label{sec:manual-D.7.3}
+\subsubsection[Item Preservation/Access status]{Item Preservation/Access status
+    \label{sec:item_preservation_access_status}
+    } 
 
 Master   
 Viewing   
@@ -1046,8 +1077,9 @@ On Loan
 Status pending   
 Removed   
 
-\subsection{D.7.4 Manifestation/Item Sound Type}
-\label{sec:manual-D.7.4}
+\subsubsection[Manifestation/Item Sound Type]{Manifestation/Item Sound Type
+    \label{sec:manifestation_item_sound_type}
+    } 
 
 Sound  
 Silent  
@@ -1058,8 +1090,9 @@ Combined as Sound
 Mixed  
 Temporary  
 
-\subsection{D.7.5 Manifestation/Item Sound Fixation Type}
-\label{sec:manual-D.7.5}
+\subsubsection[Manifestation/Item Sound Fixation Type]{Manifestation/Item Sound Fixation Type
+    \label{sec:manifestation_item_sound_fixation_type}
+    } 
 
 Needle sound
 Optical
@@ -1067,8 +1100,9 @@ Magnetic
 Analogue sound
 Digital
 
-\subsection{D.7.6 Manifestation Unit Types}
-\label{sec:manual-D.7.6}
+\subsubsection[Manifestation Unit Types]{Manifestation Unit Types
+    \label{sec:manifestation_unit_types}
+    } 
 
 Reel
 Roll
@@ -1079,8 +1113,10 @@ Disc
 File
 Digital tape
 
-\subsection{D.7.7 Item Base – Film or Video}
-\label{sec:manual-D.7.7}
+\subsubsection[Item Base – Film or Video]{Item Base – Film or Video
+    \label{sec:item_base_film_or_video}
+    } 
+
 Acetate    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diacetate    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Triacetate    
@@ -1089,8 +1125,9 @@ Nitrate
 Polyester    
 Magnetic Tape
 
-\subsection{D.7.8 Item Element Type}
-\label{sec:manual-D.7.8}
+\subsubsection[Item Element Type]{Item Element Type
+    \label{sec:item_element_type}
+    } 
 
 Colour Positive
 Colour Negative
@@ -1107,16 +1144,16 @@ Image negative
 Sound negative
 DCP
 
-\subsection{D.7.9 Item File Size – Digital}
-\label{sec:manual-D.7.9}
+\subsubsection[Item File Size – Digital]{Item File Size – Digital
+    \label{sec:item_file_size_digital}
+    } 
 
 GB (Gigabyte)
 KB
 
-
-
-\subsection{D.7.10 Item Codec type}
-\label{sec:manual-D.7.10}
+\subsubsection[Item Codec type]{Item Codec type
+    \label{sec:item_codec_type}
+    } 
 
 See also:
 PBCore essenceTrackEncoding (http://metadataregistry.org/concept/list/vocabulary_id/156.html)
@@ -1137,8 +1174,9 @@ MPEG-4 H264/AVC Main Profile
 AIFF    
 WAV
 
-\subsection{D.7.11 Manifestation/Item Colour Type}
-\label{sec:manual-D.7.11}
+\subsubsection[Manifestation/Item Colour Type]{Manifestation/Item Colour Type
+    \label{sec:manifestation_item_colour_type}
+    } 
 
 Colour
 Colour + Black & White
@@ -1149,8 +1187,9 @@ Black and white (toned)
 Black and white (tinted and toned)
 Sepia
 
-\subsection{D.7.12 Manifestation/Item Colour Standard}
-\label{sec:manual-D.7.12}
+\subsubsection[Manifestation/Item Colour Standard]{Manifestation/Item Colour Standard
+    \label{sec:manifestation_item_colour_standard}
+    } 
 
 Pathécolor
 Technicolor
@@ -1164,10 +1203,9 @@ Eastmancolor
 RGB
 YUV
 
-
-
-\subsection{D.7.13 Item Sound System}
-\label{sec:manual-D.7.13}
+\subsubsection[Item Sound System]{Item Sound System
+    \label{sec:item_sound_system}
+    } 
 
 Dolby SR
 Dolby Digital
@@ -1176,8 +1214,9 @@ Combined Magnetic Sound
 Combined Optical Sound
 VA RCA Duplex
 
-\subsection{D.7.14 Aspect Ratio}
-\label{sec:manual-D.7.14}
+\subsubsection[Aspect Ratio]{Aspect Ratio
+    \label{sec:aspect_ratio}
+    } 
 
 Examples of “aspect ratio” value lists include, but are not limited to the Technical Glossary of Common Audiovisual Terms (National Film and Sound Archive Australia) and the PBCore essenceTrackAspect Ratio http://metadataregistry.org/concept/list/vocabulary_id/129.html
 
@@ -1187,8 +1226,9 @@ Examples of “aspect ratio” value lists include, but are not limited to the T
 2.7:1
 4:3
 
-\subsection{D.7.15 Aperture}
-\label{sec:manual-D.7.15}
+\subsubsection[Aperture]{Aperture
+    \label{sec:aperture}
+    } 
 
 Academy 1.33:1
 Full Height
@@ -1201,8 +1241,9 @@ Pillarbox (bars added at the sides)
 Letterbox/Widescreen (bars added at the top and bottom)
 Windowbox (bars added at the side and the top and bottom)
 
-\subsection{D.7.16 Item Stock}
-\label{sec:manual-D.7.16}
+\subsubsection[Item Stock]{Item Stock
+    \label{sec:item_stock}
+    } 
 
 This is a preliminary list, and not exhaustive.
 
@@ -1253,16 +1294,18 @@ Seagate
 Toshiba
 Western Digital
 
-\subsection{D.7.17 Item Bit Depth}
-\label{sec:manual-D.7.17}
+\subsubsection[Item Bit Depth]{Item Bit Depth
+    \label{sec:item_bit_depth}
+    } 
 
 10
 16
 24
 32
 
-\subsection{D.7.18 Item Frame Rate/Transfer Speed}
-\label{sec:manual-D.7.18}
+\subsubsection[Item Frame Rate/Transfer Speed]{Item Frame Rate/Transfer Speed
+    \label{sec:item_frame_rate_transfer_speed}
+    } 
 
 16fps
 23.98 fps
@@ -1272,8 +1315,9 @@ Western Digital
 48fps
 Variable
 
-\subsection{D.7.19 Item Resolution}
-\label{sec:manual-D.7.19}
+\subsubsection[Item Resolution]{Item Resolution
+    \label{sec:item_resolution}
+    } 
 
 Standard Definition
 High Definition
@@ -1282,8 +1326,9 @@ High Definition
 6k
 8k
 
-\subsection{D.7.20 Item Source Device}
-\label{sec:manual-D.7.20}
+\subsubsection[Item Source Device]{Item Source Device
+    \label{sec:item_source_device}
+    } 
 
 Examples of hardware required to play the source item.
 
@@ -1291,14 +1336,70 @@ DVSI
 VT20
 HDCAM SRW5500/2
 
-\subsection{D.7.21 Item Line Standard}
-\label{sec:manual-D.7.21}
+\subsubsection[Item Line Standard]{Item Line Standard
+    \label{sec:item_line_standard}
+    } 
 
 405
 525
 625
 720
 1080
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 \subsection{D.8 Manifestation Agent Types}
 
