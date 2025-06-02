@@ -1399,52 +1399,59 @@ HDCAM SRW5500/2
 
 
 
+\subsection[Manifestation Agent Types]{Manifestation Agent Types
+    \label{sec:manifestation_agent_types}
+    } 
 
-
-\subsection{D.8 Manifestation Agent Types}
-
-\subsection{D.8.1 Distributor (theatrical)}
+\subsubsection[Distributor (theatrical)]{Distributor (theatrical)
+    \label{sec:distributor_theatrical}
+    } 
 
 Agent responsible for the theatrical distribution of a Manifestation
 
-\subsection{D.8.2 Distributor (non-theatrical)}
-\label{sec:manual-D.8.2}
+\subsubsection[Distributor (non-theatrical)]{Distributor (non-theatrical)
+    \label{sec:distributor_non_theatrical}
+    } 
 
 Agent responsible for the non-theatrical distribution
 
-
-
-\subsection{D.8.3 Broadcaster}
-\label{sec:manual-D.8.3}
+\subsubsection[Broadcaster]{Broadcaster
+    \label{sec:broadcaster}
+    } 
 
 Agent responsible for the broadcasting of a Manifestation, namely the network or station on which it aired or the network which makes it available on demand
 
-\subsection{D.8.4 Publisher}
-\label{sec:manual-D.8.4}
+\subsubsection[Publisher]{Publisher
+    \label{sec:publisher}
+    } 
 
 Agent responsible for the home video publication or for the web publication of a moving image Manifestation: i.e. the publishing company, which often is the same as the distribution company
 
-\subsection{D.8.5 Manufacturer}
-\label{sec:manual-D.8.5}
+\subsubsection[Manufacturer]{Manufacturer
+    \label{sec:manufacturer}
+    } 
 
 (Optionally, this information can be specified directly at the Item level)
 
 Agent responsible for the activities of manufacturing a Manifestation: i.e. a laboratory.
 
-\subsection{D.8.6 Agent responsible for preservation}
-\label{sec:manual-D.8.6}
+\subsubsection[Agent responsible for preservation]{Agent responsible for preservation
+    \label{sec:agent_responsible_for_preservation}
+    } 
 
 Agent responsible for the preservation of a Manifestation: namely the rights-owner(s), the distributor(s) or an archive.
 
-\subsection{D.8.7 Agent responsible for reproduction or transfer}
-\label{sec:manual-D.8.7}
+\subsubsection[Agent responsible for reproduction or transfer]{Agent responsible for reproduction or transfer
+    \label{sec:agent_responsible_for_reproduction_or_transfer}
+    } 
 
 (Optionally, this information can be specified directly at the Item level)
 
 Agent responsible for the activities of duplication/reproduction/transfer (dupes and masters): namely the rights-owner(s), the distributor(s) or an archive. (name: personal, corporate).
 
-\subsection{D.8.8 Agent responsible for the archival availability}
-\label{sec:manual-D.8.8}
+\subsubsection[Agent responsible for the archival availability]{Agent responsible for the archival availability
+    \label{sec:agent_responsible_for_the_archival_availability}
+    } 
 
 (Optionally, this information can be specified directly at the Item level)
 
@@ -1452,8 +1459,9 @@ The institution responsible for the availability of a moving image Manifestation
 
 For example, in a scenario where a Manifestation or Event occurs within the context of a film being shown for educational, research, cultural event purposes, etc. e.g. where an Archive has a public mediatheque which streams a large number of films and TV programmes on its premises for free which are for educational and cultural purposes, not financial ones.
 
-\subsection{D.8.9 Agent responsible for the mere availability}
-\label{sec:manual-D.8.9}
+\subsubsection[Agent responsible for the mere availability]{Agent responsible for the mere availability
+    \label{sec:agent_responsible_for_the_mere_availability}
+    } 
 
 (Optionally, this information can be specified directly at the Item level)
 
@@ -1461,30 +1469,32 @@ Agent responsible for making available a Manifestation not intended for public r
 
 For example,  in a scenario where a Manifestation not intended for public release is shown within a private environment, such as a production company showing a “blooper” reel (off-cuts of amusing things that went wrong during shooting the film) at a cast and crew party on the production company or studio premises. Or a private press preview showing.
 
-
-
-\subsection{D.8.10 Agent unclear or undetermined}
-\label{sec:manual-D.8.10}
+\subsubsection[Agent unclear or undetermined]{Agent unclear or undetermined
+    \label{sec:agent_unclea_or_undetermined}
+    } 
 
 (Optionally, this information can be specified directly at the Item level)
 
 Indicate if the Agent is unclear or undetermined, i.e. has not yet been determined.
 Also, if the Agent could be one of two or more possibilities then name them and qualify that there is uncertainty as to which is correct.
 
-\subsection{D.8.11 Agent not identified}
-\label{sec:manual-D.8.11}
+\subsubsection[Agent not identified]{Agent not identified
+    \label{sec:agent_not_identified}
+    } 
 
 (Optionally, this information can be specified directly at the Item level)
 
 Indicate if the Agent cannot be identified, i.e. not identified after extensive research to determine the Agent.
 
-\subsection{D.9 Work/Variant Publication Types}
-\label{sec:manual-D.9}
+\subsection[Work/Variant Publication Types]{Work/Variant Publication Types
+    \label{sec:work_variant_publication_types}
+    } 
 
 These are not pertinent as both Works and Variants have Manifestations and it is the latter that are published.
 
-\subsection{D.10 Manifestation Publication Types}
-\label{sec:manual-D.10}
+\subsection[Manifestation Publication Types]{Manifestation Publication Types
+    \label{sec:manifestation_publication_types}
+    } 
 
 * Release
 * Publication
@@ -1499,33 +1509,35 @@ These are not pertinent as both Works and Variants have Manifestations and it is
 * Broadcast
 * Unknown
 
-\subsection{D.11 Production Event Types}
-\label{sec:manual-D.11}
+\subsection[Production Event Types]{Production Event Types
+    \label{sec:production_event_types}
+    } 
 
 * Casting
 * Outdoor shooting
 * Indoor shooting
 * Post-Production
 
-
-
-\subsection{D.12 Manifestation Preservation Types}
-\label{sec:manual-D.12}
+\subsection[Manifestation Preservation Types]{Manifestation Preservation Types
+    \label{sec:manifestation_preservation_types}
+    } 
 
 Duplication
 Transfer
 Reproduction
 Digitisation
 
-\subsection{D.13 Manifestation Decision Types}
-\label{sec:manual-D.13}
+\subsection[Manifestation Decision Types]{Manifestation Decision Types
+    \label{sec:manifestation_decision_types}
+    } 
 
 Censorship
 Revision
 Rating
 
-\subsection{D.14 Manifestation Manufacture Types}
-\label{sec:manual-D.14}
+\subsection[Manifestation Manufacture Types]{Manifestation Manufacture Types
+    \label{sec:manifestation_manufacture_types}
+    } 
 
 * Film printing
 * Telecine
@@ -1534,10 +1546,13 @@ Rating
 * Mastering
 * Uploading
 
-\subsection{D.15 Manifestation/Item Acquisition, Accessioning and Source}
+\subsection[Manifestation/Item Acquisition, Accessioning and Source]{Manifestation/Item Acquisition, Accessioning and Source
+    \label{sec:manifestation_item_acquisition_accessioning_and_source}
+    } 
 
-
-\subsection{D.15.1 Item Acquisition type}
+\subsubsection[Item Acquisition type]{Item Acquisition type
+    \label{sec:item_acquisition_type}
+    } 
 
 * Donation
 * Exchange
@@ -1545,18 +1560,21 @@ Rating
 * Purchase
 * Off-air recording
 
-\subsection{D.15.2 Item Acquisition source type}
-\label{sec:manual-D.15.2}
+\subsubsection[Item Acquisition source type]{Item Acquisition source type
+    \label{sec:item_acquisition_source_type}
+    } 
 
 Donor
 Agent
 Intermediary
 
+\subsection[Manifestation/Item Condition, Preservation and Restoration]{Manifestation/Item Condition, Preservation and Restoration
+    \label{sec:manifestation_item_condition_preservation_and_restoration}
+    } 
 
-
-\subsection{D.16 Manifestation/Item Condition, Preservation and Restoration}
-
-\subsection{D.16.1 Item Copy Condition Base/Emulsion – Film and Video}
+\subsubsection[Item Copy Condition Base/Emulsion – Film and Video]{Item Copy Condition Base/Emulsion – Film and Video
+    \label{sec:item_copy_condition_base_emulsion_film_and_video}
+    } 
 
 * Brittle
 * Buckled
@@ -1566,16 +1584,18 @@ Intermediary
 * Warped
 * Hydrolysis
 
-\subsection{D.16.2 Item Copy Condition Perforations – Film}
-\label{sec:manual-D.16.2}
+\subsubsection[Item Copy Condition Perforations – Film]{Item Copy Condition Perforations – Film
+    \label{sec:item_copy_condition_perforations_film}
+    } 
 
 Foil Patches
 Torn
 Pulled
 Missing
 
-\subsection{D.16.3 Item Surface Deposit – Film and Video}
-\label{sec:manual-D.16.3}
+\subsubsection[Item Surface Deposit – Film and Video]{Item Surface Deposit – Film and Video
+    \label{sec:item_surface_deposit_film_and_video}
+    } 
 
 Mould
 Rust
@@ -1583,8 +1603,9 @@ Oil deposits
 Dirt
 Drying marks
 
-\subsection{D.16.4 Item Image – Film and Video}
-\label{sec:manual-D.16.4}
+\subsubsection[Image – Film and Video]{Image – Film and Video
+    \label{sec:image_film_and_video}
+    } 
 
 For film, this relates to the inherent qualities of the Emulsion rather than the physical
 condition of the Emulsion.
@@ -1599,26 +1620,30 @@ http://avaa.bavc.org/artifactatlas/index.php/A/V_Artifact_Atlas
 * Print through in mould
 * Drop-outs
 
-
-
-\subsection{D.16.5 Item Decomposition – Film and Video}
-\label{sec:manual-D.16.5}
+\subsubsection[Item Decomposition – Film and Video]{Item Decomposition – Film and Video
+    \label{sec:item_decomposition_film_and_video}
+    } 
 
 Powder
 Sticky
 Sticky at head
 
-\subsection{D.16.6 Item Shrinkage - Film}
-\label{sec:manual-D.16.6}
+\subsubsection[Item Shrinkage - Film]{Item Shrinkage - Film
+    \label{sec:item_shrinkage_film}
+    } 
 
 Description of the level of any shrinkage that has occurred to the Item, ideally in percentages.
 1-1.5%
 1.5-2%
 2-2.5%
 
-\subsection{D.17 Other Relationships for Works, Variants, Manifestations, Items}
+\subsection[Other Relationships for Works, Variants, Manifestations, Items]{Other Relationships for Works, Variants, Manifestations, Items
+    \label{sec:other_relationships_for_works_variants_manifestations_items}
+    } 
 
-\subsection{D.17.1 Work/Variant Other Relationship Types}
+\subsubsection[Work/Variant Other Relationship Types]{Work/Variant Other Relationship Types
+    \label{sec:work_variant_other_relationship_types}
+    } 
 
 | Work/Variant Other Relationship Types | Term list |
 | --- | --- |
@@ -1632,10 +1657,9 @@ Description of the level of any shrinkage that has occurred to the Item, ideally
 | “Has a relationship to an archival document” |Script, production papers, author/agent personal papers, etc. |
 | “Has a relationship to a Work “about” the Work/Variant in question” | Review, study, article, commentary, “making of” documentary, restoration report, etc. |
 
-
-
-\subsection{D.17.2 Manifestation Other Relationship Types}
-\label{sec:manual-D.17.2}
+\subsubsection[Manifestation Other Relationship Types]{Manifestation Other Relationship Types
+    \label{sec:manifestation_other_relationship_types}
+    } 
 
 | Other Relationship Types (strictly pertaining to the Manifestation) | Term list |
 | --- | --- |
@@ -1646,8 +1670,9 @@ Description of the level of any shrinkage that has occurred to the Item, ideally
 | “Has a relationship to a Work “about” the Manifestation in question” (not only moving image Works) | Review, study, article, commentary, restoration report, etc. |
 | “Has a relationship to a pre-release Manifestation” | Censorship cuts, Make-up tests, Costume tests, Screen tests general, Camera negative --- Assembly edit --- Rushes/Dailies --- Sound mixes |
 
-\subsection{D.17.3 Item Other Relationship Types}
-\label{sec:manual-D.17.3}
+\subsubsection[Item Other Relationship Types]{Item Other Relationship Types
+    \label{sec:item_other_relationship_types}
+    } 
 
 | Item Other Relationship Types | Term list |
 | --- | --- |
@@ -1663,13 +1688,10 @@ Description of the level of any shrinkage that has occurred to the Item, ideally
 | “Has a relationship to an archival document” | Censorship visa, laboratory report, projection instructions (in general papers in the can/container or related to the specific item and held in separate archive), acquisition contract, DCP key |
 | “Has a relationship to a Work “about” the Item in question” | Inspection report, restoration report, etc. (in general papers in the can or related to the specific item and held in separate archive) |
 
-
-
-\subsection{D.18 List of form terms for Supplied/Devised titles}
-\label{sec:manual-D.18}
-
-
-[^221] {#manual-D.18}
+\subsection[List of form terms for Supplied/Devised titles]{List of form terms for Supplied/Devised titles
+    \footnote {Adapted from UCLA Film & Television Archive, Cataloging Procedure Manual—Voyager, Section 5, Filmographic Record – Body of the Description, http://old.cinema.ucla.edu/CPM%20Voyager/CPMV05.html#5.2} 
+    \label{sec:list_of_form_terms_for_supplied_devised_titles}
+    } 
 
 | FORM TERM | USE | EXAMPLES |
 | --- | --- | --- |
@@ -1708,4 +1730,3 @@ Description of the level of any shrinkage that has occurred to the Item, ideally
 | unedited newsfilm | For unedited footage shot for a news programme or news series; includes television and newsreels. | - Movietone News. Lowell Thomas Remembers. Unedited newsfilm. |
 | unedited sound track | For unedited sound track recorded for a particular moving image. | - Stargate: The Ark of Truth. Unedited sound track |
 
-[^221]: Adapted from UCLA Film & Television Archive, Cataloging Procedure Manual—Voyager, Section 5, Filmographic Record – Body of the Description, http://old.cinema.ucla.edu/CPM%20Voyager/CPMV05.html#5.2
