@@ -1035,7 +1035,7 @@ YEE (http://myee.bol.ucla.edu/catrul.doc 5.3.3 (physical carriers)
 AMIM2 5D, pp. 18-19 (for gauges/width values)
 AMIM2 5B7, pp. 10-11 (including both “tape” and “disc” based video formats).
 RDA 3.20; YEE (http://myee.bol.ucla.edu/catrul.doc 5.3.14 (for encoding formats).
-PBCore instantiationPhysical (http://metadataregistry.org/concept/list/vocabulary_id/145.html) (for physical carriers)
+PBCore instantiationPhysical http://metadataregistry.org/concept/list/vocabulary\_id/145.html (for physical carriers)
 PBCore instantiationDigital (http://pbcore.org/pbcoreinstantiation/instantiationdigital/) (for broad digital formats)
 \end{tcolorbox}
 ```
@@ -1689,7 +1689,7 @@ Description of the level of any shrinkage that has occurred to the Item, ideally
 | “Has a relationship to a Work “about” the Item in question” | Inspection report, restoration report, etc. (in general papers in the can or related to the specific item and held in separate archive) |
 
 \subsection[List of form terms for Supplied/Devised titles]{List of form terms for Supplied/Devised titles
-    \footnote {Adapted from UCLA Film & Television Archive, Cataloging Procedure Manual—Voyager, Section 5, Filmographic Record – Body of the Description, http://old.cinema.ucla.edu/CPM%20Voyager/CPMV05.html#5.2} 
+    \footnote {Adapted from UCLA Film \& Television Archive, Cataloging Procedure Manual—Voyager, Section 5, Filmographic Record – Body of the Description, http://old.cinema.ucla.edu/CPM%20Voyager/CPMV05.html#5.2} 
     \label{sec:list_of_form_terms_for_supplied_devised_titles}
     } 
 
