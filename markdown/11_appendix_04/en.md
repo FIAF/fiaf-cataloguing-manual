@@ -833,7 +833,7 @@ Example:
 ```{=latex}
 \begin{tcolorbox}
 A day in the life. Four portraits of post-war Britain (UK, DVD/Blu-ray, 2010)
-end{tcolorbox}
+\end{tcolorbox}
 ```
 
 The most used formats are VHS, DVD, and Laserdisc, but this definition can also include 9.5mm Pathé Baby or 8mm packages in use from the 1950s-1980s (e.g.. the 1977 Star Wars home video in 8mm).
