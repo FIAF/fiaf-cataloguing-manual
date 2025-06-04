@@ -1,14 +1,11 @@
 name: compile_manual
 on:
-  push:
-    branches:
-      - 'main'
-      - 'develop'
+  push
 jobs:
   compile:
     runs-on: ubuntu-latest 
-    # permissions:
-      # contents: write  
+    permissions:
+      contents: write  
     steps:
     - name: checkout repo
       uses: actions/checkout@v3
@@ -22,17 +19,12 @@ jobs:
       run: rm -rf src/render 
     - name: remake render dir
       run: mkdir src/render
-      
-    # currently an issue with "hyperspecific"
-    # - name: run script
-    #   run: cd src && ./local.sh 
-  
-#     - name: push pdf
-#       run: |
-#         git config user.name 'github-actions[bot]'
-#         git config user.email 'github-actions[bot]@users.noreply.github.com'
-#         git add manual.pdf
-#         git commit -a -m "pdf generated"
-#         git push
-
-
+    - name: run script
+      run: cd src && ./local.sh 
+    - name: push pdf
+      run: |
+        git config user.name 'github-actions[bot]'
+        git config user.email 'github-actions[bot]@users.noreply.github.com'
+        git add *
+        git commit -a -m "pdf generated"
+        git push
