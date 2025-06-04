@@ -72,7 +72,167 @@ Record in a note any additional details that cannot be expressed through control
 
 If more than one Agent is associated with a particular role connected with a Work/Variant or related Event, where possible or desirable, record the names in the order indicated by the sequence, layout, or typography of the names on the source of information. Preserving the ordering of the credited persons should be determined by the requirements of individual institutions.^[FIAF, 1.6.2, pp. 36-37.] 
 
+Examples:   
+
+ 
+
+Les Enfants du paradis 
+
+réalisation, Marcel Carné           scenario et dialogue, Jacques Prevert 
+
+musique, Maurice Thiriet 
 
 
-    
 
+
+OR  Enfants du paradis, Les 
+
+director, Marcel Carné 
+
+script and dialogue, Jacques Prevert 
+
+music, Maurice Thiriet 
+
+
+ 
+
+Star wars 
+
+Director, George Lucas 
+
+Executive Producer, George Lucas 
+
+Producer, Gary Kurtz 
+
+Screenplay, George Lucas 
+
+
+ If Agents are added as index points rather than listed or described in order of importance, an organisation may choose to put the Agent Activity or role term(s) at the end of the name. 
+
+
+  
+
+Examples:  
+
+ 
+
+Les Enfants du paradis 
+
+Carné, Marcel, réalisation          Prevert, Jacques, scenario, dialogue 
+
+Thiriet, Maurice, musique  
+
+ 
+
+Star wars 
+
+Lucas, George, director, executive producer, screenplay 
+
+Kurtz, Gary, producer 
+
+
+\subsection[Agents for Manifestations]{Agents for Manifestations
+    \label{sec:agents_for_manifestations}
+    } 
+
+
+An Agent for moving image Manifestations is defined as an entity that is involved in the exploitation (release, distribution, broadcasting), publishing, manufacturing or preservation of a Manifestation and who is considered to have major responsibility for, or be of major importance to, the Manifestation. Typical distinctions between agent types are Person, Corporate Body, Family and Person Group.^[EN 15907, 5.1 Agent] 
+
+ 
+
+Work/Variant Agent(s) tend to be involved in the original creation of the Work/Variant so are not repeated in the Manifestation record. Only “new” Agents that contributed to the Manifestation as described above are included in the Manifestation record.  
+
+
+
+
+An institution should determine the types of activities they wish to include. These activities may vary from institution to institution according to the types of moving image material held. For example, an institution holding television material would probably consider, for Manifestations, the function of broadcaster more important than that of distributor. The opposite would be the case for institutions whose collections are composed of motion picture material. Provide access to Agents when they have made an important contribution to the particular Manifestation, even when the type of responsibility (credit function) is one that may not be considered major in other Manifestations.^[YCR, 1.3.2. Other creators, p. 42.] 
+
+ 
+
+In the case of aggregate Manifestations, if desirable and applicable, record multiple instances of Agent associated with the aggregated content. 
+
+
+\subsubsection[Agent Activity – Manifestations]{Agent Activity – Manifestations
+    \label{sec:agent_activity_manifestations}
+    } 
+
+
+Describes the activity of the Agent(s) to make explicit the relationship(s) between the Agent(s) and the Manifestation. 
+
+ 
+
+Record one or more Agent activity terms, for example, “distributor,” “broadcaster,” “broadcast channel”, “streaming channel” etc., to express the nature of the agent’s relationship to the Manifestation. Selection should be made from a controlled list of terms. A suggested list, which is open and not exhaustive, can be found in D.8 Manifestation Agent Types. 
+
+ 
+
+Choose the single most specific term in each case, if possible. If no suggested terms apply, compose a term to describe the relationship between the creator and the Manifestation being catalogued. If the relationship is ambiguous, use a value to indicate this, for example, “unknown” to indicate a person performing in a capacity that is uncertain or not covered by typical terms.135 Optionally, when the activity performed by an Agent is probable but not certain, provide the function name followed by a question mark. 
+
+ 
+
+Besides the principal Agent Activities suggested, institutions, particularly those with special interests, should create and apply in-house value lists of other specific Agent activities, which may vary from institution to institution. 
+
+
+
+
+  
+
+Examples: 
+
+ 
+
+Broadcaster: CBS 
+
+ 
+
+Broadcast Channel: BBC1 
+
+ 
+
+Distributor: GUO Film Distributors 
+
+Publisher: Buena Vista International 
+
+ 
+
+Streaming platform: Netflix 
+
+
+
+\subsection[Agents for Items]{Agents for Items
+    \label{sec:agents_for_items}
+    } 
+
+
+An Agent for moving image Items is defined as an entity that is involved in the acquisition, movement (for loans, inspection, storage, etc.), or preservation of a moving image Item and who is considered to have major responsibility for, or be of major importance to, the moving image Item. Full names pertaining to in-house staff are advisable for clarity, rather than initials of individuals. 
+
+ 
+
+Agent(s) may also have relationships to an instance of a specific Event or of an “Other” relationship in connection with the Item. 
+
+ 
+
+An institution should determine the types of functions they wish to include in this area. These functions may vary from institution to institution according to the types of moving image material held and range of activities. 
+
+
+
+\subsubsection[Agent Activity – Items]{Agent Activity – Items
+    \label{sec:agent_activity_items}
+    } 
+
+
+Describes the activity of the Agent to make explicit the relationship(s) between the Agent and the Item. 
+
+ 
+
+Record one or more Agent activity terms, for example, “preservationist,” “curator,” “acquisition source”, “relevant in-house job title” etc., to express the nature of the Agent’s relationship to the Item. Selection should be made from a controlled list of terms. 
+
+ 
+
+Choose the single most specific term, if possible. If no suggested terms apply, compose a term to describe the relationship between the Agent and the Item. If the relationship is ambiguous, use a value to indicate this, for example, “unknown.” Optionally, when the role performed by an Agent is probable but not certain, provide the function name followed by a question mark, or by a qualifying note. 
+
+
+Besides the principal Agent Activities suggested, institutions, particularly those with special interests, should create and apply in-house value lists of other specific Agent activities, which may vary from institution to institution. 
+
+ 
+
+Record in a note any additional details that cannot be expressed through controlled terms. 
