@@ -52,71 +52,59 @@ A complete example would look like this:
 
 ```md
 \subsubsection[Extent of a Manifestation]{Extent of a Manifestation 
-    \footnote {Partially based on EN 15907, 6.8 except for the physical components/units number, which is not provided for in the standard.} 
+    \footnote {Partially based on EN 15907, 6.8 except for the physical components/units number.} 
     \label{sec:extent_of_a_manifestation}
     }  
 ```
 
+**Footnotes**
 
+When used outside a header, in general text, the syntax for footnotes is a "^" symbol followed immediately by the footnote text in square brackets.
 
-
-
- see \nameref{sec:moving_image_works}.} 
-
-To save on manually incrementing section numbers when editing, the conversion process automatically generates section numbers based on declaring the type of section.
-
-These are:
-
-```
-\section{Moving Image Manifestations}
+```md
+^[FOOTNOTE TEXT]
 ```
 
-This will render as `1 Moving Image Manifestations`.
+As with the section numbering, this will render dynamically and will automatically update the sequence numbering when footnotes are added or removed.
 
-```
-\subsection{Elements of a Manifestation}
-```
+**Links**
 
-This will render as `1.1 Elements of a Manifestation`.
+There are two different syntaxes for external links (linking to resources outside the PDF) and internal links (linking to sections of the PDF).
 
-```
-\subsubsection{Format of a Moving Image Manifestation}
-```
+External links can be expressed with the regular Markdown syntax for links, highlighted text in square brackets, followed immediately by the link address in regular brackets.
 
-This will render as `1.1.1 Format of a Moving Image Manifestation`.
-```
-\paragraph{Carrier Type of a Manifestation}
+```md
+[FIAF Cataloguing Manual](https://www.fiafnet.org/pages/E-Resources/Cataloguing-Manual.html)
 ```
 
-This will render as `1.1.1.1 Carrier Type of a Manifestation`.
+Internal links use the following non-standard syntax, `\nameref{sec:LABEL}` with the label name to the relevant section.
 
-```
-\subparagraph{General Carrier Type}
-```
-
-This will render as `1.1.1.1.1 General Carrier Type`.
-
-Note that only sections, subsections and subsubsections will be listed in the Table of Contents.
-
-We also should add a label, for internal links. This can be expressed as 
-
-```
-\label{sec:moving_image_manifestations}
+```md
+\nameref{sec:moving_image_works}
 ```
 
-elaborate example
+**Tables**
 
-\newpage
-\section[Definitions]{Definitions 
-    \footnote {For a discussion of other definitions of the “Work” and Variant entities, see \nameref{sec:moving_image_works}.} 
-    \label{sec:moving_image_works_definition}
-    } 
+Formatting tables follows the standard markdown syntax: column headers are separated by "|" symbols, as are the rows, with the requirement for a row between headers and cells with cell dividers separated by "-".
+
+An example would the follow markdown
+
+```md
+| A | B | C |
+| - | - | - |
+| 1 | 2 | 3 |
+| 4 | 5 | 6 |
+```
+
+which will render as
+
+| A | B | C |
+| - | - | - |
+| 1 | 2 | 3 |
+| 4 | 5 | 6 |
 
 
-Footnote example
+**Diagrams**
 
-^[Adapted from the definition of a Cinematographic Work in EN 15907, 4.1.1, p.8.] 
-
-
-% links to the section with the variable name Alice showing the name of the Section, here: "Alice in Wonderland"
-\nameref{sec:Alice}
+Diagrams are currently rendered by a distinct process which produces discrete image files, which are then inserted into the document when the PDF is rendered. 
+Please contact the manual administrator for the creation of new diagrams.
