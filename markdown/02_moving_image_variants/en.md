@@ -1,6 +1,8 @@
 
 \newpage
-\section[Moving Image Variants]{Moving Image Variants \label{sec:moving_image_variants}} 
+\section[Moving Image Variants]{Moving Image Variants 
+    \label{sec:moving_image_variants}
+    } 
 
 \newpage
 \subsection[Definitions]{Definitions 

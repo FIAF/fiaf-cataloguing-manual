@@ -1,14 +1,9 @@
 
 \newpage
-\section[Moving Image Works]{Moving Image Works \label{sec:moving_image_works}} 
+\section[Moving Image Works]{Moving Image Works 
+    \label{sec:moving_image_works}
+    } 
 
-TODO: update all links with nameref
-
-TODO: Check that label sec for sections are unique
-
-TODO: footnote syntax, after or before period
-
-TODO: example syntax, italics or bulletpoints.
 
 \newpage
 \subsection[Definitions]{Definitions 

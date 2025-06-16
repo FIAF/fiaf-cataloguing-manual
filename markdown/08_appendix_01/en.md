@@ -2,7 +2,9 @@
 \appendix
 
 \newpage
-\section[Titles and Title Types]{Titles and Title Types \label{sec:titles_and_title_types}} 
+\section[Titles and Title Types]{Titles and Title Types 
+    \label{sec:titles_and_title_types}
+    } 
 
 \newpage
 \subsection[Title]{Title 

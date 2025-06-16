@@ -2,7 +2,9 @@
 \newpage \tableofcontents
 
 \newpage
-\section[Preliminary Notes]{Preliminary Notes \label{sec:preliminary_notes}} 
+\section[Preliminary Notes]{Preliminary Notes 
+    \label{sec:preliminary_notes}
+    } 
 
 \newpage
 \subsection[Purpose, scope, and use]{Purpose, scope, and use 

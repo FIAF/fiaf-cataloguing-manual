@@ -1,6 +1,8 @@
 
 \newpage
-\section[Moving Image Items]{Moving Image Items \label{sec:moving_image_items}} 
+\section[Moving Image Items]{Moving Image Items 
+    \label{sec:moving_image_items}
+    } 
 
 \newpage
 \subsection[Definitions]{Definitions 

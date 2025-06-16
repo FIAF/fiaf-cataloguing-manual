@@ -1,6 +1,8 @@
 
 \newpage
-\section[Moving Image Manifestations]{Moving Image Manifestations \label{sec:moving_image_manifestations}} 
+\section[Moving Image Manifestations]{Moving Image Manifestations 
+    \label{sec:moving_image_manifestations}
+    } 
 
 \newpage
 \subsection[Definitions]{Definitions 

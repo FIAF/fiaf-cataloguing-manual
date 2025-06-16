@@ -1,6 +1,8 @@
 
 \newpage
-\section[Moving Image Agents]{Moving Image Agents \label{sec:moving_image_agents}} 
+\section[Moving Image Agents]{Moving Image Agents 
+    \label{sec:moving_image_agents}
+    } 
 
 For recording the attributes of Agents (e.g. first name, last name, nationality, etc.), refer to authoritative sources such as AACR2, applicable RDA chapters for recording attributes of Persons, Families, and Corporate Bodies,^[ RDA 2.20.7.3] Functional requirements for authority data: a conceptual model, ^[Patton, Glenn E. 2009. Functional requirements for authority data: a conceptual model. München: K.G. Saur.]  or tools such as the Virtual International Authority File (VIAF) (viaf.org), Library of Congress Linked Data Service (id.loc.gov), Getty Union List of Artists Names (ULAN), the [Library of Congress Name Authority File](https://authorities.loc.gov/cgi-bin/Pwebrecon.cgi?RefCodes=3&ref=1&hd=1,1&SEQ=20130523194229&Search_Arg=Ethnology-United%20States&Search_Code=SHED_&CNT=100&PID=mYzkzT0fYryqza3XpBkr08lSvjsf&SID=8), or International Standard Name Identifier (ISNI) 126.127 
 

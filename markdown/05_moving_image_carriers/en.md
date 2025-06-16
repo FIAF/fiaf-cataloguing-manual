@@ -1,6 +1,8 @@
 
 \newpage
-\section[Moving Image Carriers]{Moving Image Carriers \label{sec:moving_image_carriers}} 
+\section[Moving Image Carriers]{Moving Image Carriers 
+    \label{sec:moving_image_carriers}
+    } 
 
 \newpage
 \subsection[Definitions]{Definitions 
