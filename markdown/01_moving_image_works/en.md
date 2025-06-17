@@ -110,7 +110,7 @@ University College Hospital. Endoscopy – Colonscope. Patient HX3456. 2010 (Uni
 
 \subsubsection[Moving Image Variant]{Moving Image Variant 
     \footnote {Adapted from EN 15907, 4.2 Variant.} 
-    \label{sec:moving_image_variant}
+    \label{sec:work_moving_image_variant}
     } 
 
 A moving image Variant is an entity that may be used to indicate any change to content-related characteristics that do not significantly change the overall content of a Work as a whole.
@@ -641,7 +641,7 @@ Examples: Censored; Dubbed; Subtitled; Edited for TV. See [D.2 Variant Type](#ma
 
 
 \subsection[Elements of a Work/Variant]{Elements of a Work/Variant 
-    \label{sec:variant_type}
+    \label{sec:elements_of_a_work_variant}
     } 
 
 This section describes the metadata elements that can be used to describe a Work/Variant.
@@ -712,7 +712,7 @@ Work identifier – ISAN number: 0000-0000-60A5-0000-E-0000-0000-W
 ```
 
 \paragraph[Identifier Type]{Identifier Type
-    \label{sec:identifier_type}
+    \label{sec:work_identifier_type}
     } \
 
 If an institution’s system allows, a "Type" can be applied with an Identifier to define the source of the Identifier. 
@@ -730,7 +730,7 @@ Identifier type: ISAN
 ```
 
 \subsubsection[Title]{Title
-    \label{sec:title}
+    \label{sec:work_title}
     } 
 
 Record at least one title, identifying phrase, or name for the moving image Work or Variant.
@@ -800,7 +800,7 @@ For guidance on wording, order, spelling, punctuation, accentuation and capitali
 For sources of information for the Title, see [0.3 Sources of Information](#manual-0.3)
 
 \paragraph[Title Type]{Title Type
-    \label{sec:title_type}
+    \label{sec:work_title_type}
     } \
 
 Where relevant for an institution, if the Work/Variant or Manifestation includes multiple titles, such as a title in another language for a dubbed or subtitled variant, record the relevant Variant titles and associate a “Title Type” to each title for differentiation between the various types of titles (see [Appendix A, Titles and Title Types](#manual-A)).
@@ -1066,7 +1066,7 @@ Optionally, record the language code as found in ISO 639, where allowable.
 If no language can be determined, the information can be omitted or indicated by a value of “unknown”.
 
 \paragraph[Usage Type]{Usage Type
-    \label{sec:usage_type}
+    \label{sec:work_usage_type}
     } \
 
 Record the usage type of a language (e.g. spoken, intertitles, subtitles, etc.) by taking the most suitable term from a controlled list elaborated in-house or referring to an existing authoritative list. See [D.6 Language Usage Types](#manual-D.6).
@@ -1295,7 +1295,7 @@ A Variant may have relationships with the following:
 - Other (including other Variants)
 
 \subsubsection[Agents (e.g. Cast, Credits, Person, Organisation, etc.)]{Agents (e.g. Cast, Credits, Person, Organisation, etc.)
-    \label{sec:agents}
+    \label{sec:work_agents}
     }
 
 An Agent is defined as an entity that is involved in the creation, realisation, curation or exploitation of a Work/Variant and who is considered to have major responsibility for, or be of major importance to, the Work/Variant.
@@ -1417,7 +1417,7 @@ Kurtz, Gary, producer
 
 \subsubsection[Events (e.g., IPR registration, screenings, awards, etc.)]{Events (e.g., IPR registration, screenings, awards, etc.) 
     \footnote {EN 15907 5.2 Event} 
-    \label{sec:events}
+    \label{sec:work_events}
     } 
 
 An Event characterises occurrences in the lifecycle of a moving image Work or its Variants.
@@ -1502,7 +1502,7 @@ TODO this is an example table
 
 \subsubsection[Other relationships]{Other relationships 
     \footnote {EN 15907 8.5 HasAsSubject; YCR, 1.2.7 Relationships With Other Moving Image Works or Other Kinds of Works} 
-    \label{sec:other_relationships}
+    \label{sec:work_other_relationships}
     } 
 
 If desired or appropriate, express relationships that are not covered by the Agent, Subject, and Event relationships, including all kinds of aggregation and re-use of Works and their Variants.

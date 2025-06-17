@@ -116,7 +116,7 @@ Properties expressed in one record, with abstracts, contextual and object data s
 | Conservation recommendations | | | Urgent transfer required, relocate sub-zero, etc. |
 
 \subsection[Sources of Information]{Sources of Information
-    \label{sec:sources_of_information}
+    \label{sec:prelim_sources_of_information}
     } 
 
 Information entered in a record must be derived from a source.

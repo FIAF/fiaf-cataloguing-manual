@@ -108,7 +108,7 @@ Teaching version includes questions for discussion about the novel’s theme and
 ```
 
 \subsection[Attributes]{Attributes 
-    \label{sec:attributes}
+    \label{sec:note_attributes}
     } 
 
 Provide additional or explanatory information for any WVMI attributes as desired, particularly in cases where this information is not recorded elsewhere in dedicated fields.

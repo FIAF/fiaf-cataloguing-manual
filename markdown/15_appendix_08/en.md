@@ -2,7 +2,7 @@
 
 \newpage
 \section[Rights/Copyright/IPR Registration]{Rights/Copyright/IPR Registration 
-    \label{sec:rights_copyright_ipr_registration}
+    \label{sec:appendix_rights_copyright_ipr_registration}
     } 
 
 \subsection[Rights in a moving image Work]{Rights in a moving image Work 
@@ -135,7 +135,7 @@ Sound Recordings – if commissioned for pre-existing music
 Films – such as archival footage; special effect footage
 
 \subsubsection[Recommended properties to capture in describing the rights context of a moving image Work]{Recommended properties to capture in describing the rights context of a moving image Work 
-    \label{sec:recommended_properties_to_capture}
+    \label{sec:recommended_properties_to_capture1}
     } 
 
 1. Copyright holder and Copyright Date, as displayed on screen (often associated with a © symbol)
@@ -215,7 +215,7 @@ In that case, the cataloguer should document not only rights in but also rights 
 Given the context above, it may be useful for an archive to capture whether it is an acquirer of the manifestation rights being documented, a granter of the rights, or simply a documenter of the rights.
 
 \subsubsection[Recommended properties to capture in describing the rights context of a Manifestation]{Recommended properties to capture in describing the rights context of a Manifestation 
-    \label{sec:recommended_properties_to_capture}
+    \label{sec:recommended_properties_to_capture2}
     } 
 
 1. Relationship to rights being documented:
@@ -271,7 +271,7 @@ In Italy, since 2004, the Cineteca Nazionale can legally use the copies acquired
 Below, a set of properties are recommended for describing the rights around the Acquisition, and separately around the Loan, of moving image items.
 
 \subsubsection[Recommended properties to capture in describing the rights context of a moving image Item]{Recommended properties to capture in describing the rights context of a moving image Item 
-    \label{sec:recommended_properties_to_capture}
+    \label{sec:recommended_properties_to_capture3}
     } 
 
 \paragraph[Acquisition]{Acquisition 

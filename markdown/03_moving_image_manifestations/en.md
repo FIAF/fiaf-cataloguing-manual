@@ -106,7 +106,7 @@ Statements made about Language, Format and/or Extent may have an added value of 
     } 
 
 \subsubsection[Identifier]{Identifier
-    \label{sec:identifier}
+    \label{sec:manifest_identifier}
     } 
 
 Create an unambiguous reference to the Manifestation, such as a specific standard number issued by an official body (i.e.
@@ -151,13 +151,13 @@ Manifestation identifier: V- ISAN 0000-0000-161F-0000-W-0000-0002-B – Italian
 ```
 
 \paragraph[Identifier Type]{Identifier Type
-    \label{sec:identifier_type}
+    \label{sec:manifest_identifier_type}
     } \
 
 If an institution’s system allows, as with the Work/Variant Identifiers a “Type” can be applied with an Identifier to define the source of the Identifier.
 
 \subsubsection[Title]{Title
-    \label{sec:title}
+    \label{sec:manifest_title}
     } 
 
 Record at least one title, identifying phrase, or name for the Manifestation Title.
@@ -180,13 +180,13 @@ For guidance on wording, order, spelling, punctuation, accentuation and capitali
 For sources of information for the Manifestation Title, see [Section 0.3 Sources of Information](#manual-0.3).
 
 \paragraph[Title Type]{Title Type
-    \label{sec:title_type}
+    \label{sec:manifest_title_type}
     } \
 
 Where relevant for an institution, if the Manifestation includes multiple titles, such as a title in another language for a dubbed or subtitled variant, record the relevant titles and associate a “Title Type” to each title for differentiation between the various types of titles (see [Appendix A, Titles and Title Types](#manual-A)).
 
 \subsubsection[Language]{Language
-    \label{sec:language}
+    \label{sec:manifest_language}
     } 
 
 “Language” should ideally be presented as a set of two elements: the language term, and its usage in a particular Manifestation.
@@ -205,7 +205,7 @@ Optionally, record the language code as found in ISO 639.
 If no language can be determined, the information can be omitted or indicated by a value of “not known”.
 
 \paragraph[Usage Type]{Usage Type
-    \label{sec:usage_type}
+    \label{sec:item_usage_type}
     } \
 
 More than one language can occur in different forms, depending on how the content is expressed: the usage type of the languages defines the form with which the language is expressed, for example, spoken, sung, written, etc.
@@ -282,7 +282,7 @@ Carrier type is the medium on or the encoding format in which the Manifestation 
 Its description consists of a general carrier type, which describes the basic properties of the Manifestation’s physical format, for example, film, video tape, digital file, etc., and a specific carrier type, which corresponds to the gauge, in case of films and tapes, and for digital files, to the physical carrier on which the file is stored.
 
 \subparagraph[General Carrier Type]{General Carrier Type
-    \label{sec:general_carrier_type}
+    \label{sec:manifest_general_carrier_type}
     } \
 
 The broad media type of the Manifestation (e.g., film, video, audio, optical, digital file).
@@ -293,7 +293,7 @@ A suggested list, which is open and not exhaustive, can be found in [D.7.2 Manif
 For reasons of clarity and to avoid redundancy, optionally, institutions can decide to skip the general carrier type description, since it is already implicit in the specific carrier type.
 
 \subparagraph[Specific Carrier Type]{Specific Carrier Type
-    \label{sec:specific_carrier_type}
+    \label{sec:manifest_specific_carrier_type}
     } \
 
 Record the specific carrier type, by indicating
@@ -357,7 +357,7 @@ Describes the technical or proprietary system used to record the sound on a Mani
 A suggested list, which is open and not exhaustive, can be found in [D.7.13 Item Sound System](#manual-D.7.13).
 
 \subparagraph[Sound Channel Configuration]{Sound Channel Configuration
-    \label{sec:sound_channel_configuration}
+    \label{sec:manifest_sound_channel_configuration}
     } \
 
 If the Manifestation has sound, note here the track configuration (e.g., mono, stereo, etc.).
@@ -519,7 +519,7 @@ This may also involve two potential sets of data: a whole slot start and end tim
 It is for an institution to choose whether to record both sets of data in each instance or limit to either just slot or actual broadcast/running times.
 
 \subparagraph[Duration Precision]{Duration Precision
-    \label{sec:duration_precision}
+    \label{sec:manifest_duration_precision}
     } \
 
 In this qualifier, note whether the duration is exact, approximate, or estimated.
@@ -558,7 +558,7 @@ A Manifestation may have relationships with the following:
 - Variant
 
 \subsubsection[Agent(s)]{Agent(s)
-    \label{sec:agents}
+    \label{sec:manifest_agents}
     }
 
 An Agent for moving image Manifestations is defined as an entity that is involved in the exploitation (release, distribution, broadcasting), publishing, manufacturing or preservation of a Manifestation and who is considered to have major responsibility for, or be of major importance to, the Manifestation.
@@ -578,7 +578,7 @@ Provide access to Agents when they have made an important contribution to the pa
 In the case of aggregate Manifestations, if desirable and applicable, record multiple instances of Agent associated with the aggregated content.
 
 \paragraph[Agent Activity]{Agent Activity
-    \label{sec:agent_activity}
+    \label{sec:manifest_agent_activity}
     } \
 
 Describes the activity of the Agent(s) to make explicit the relationship(s) between the Agent(s) and the Manifestation.
@@ -615,7 +615,7 @@ Publisher: Buena Vista International
 ```
 
 \subsubsection[Events]{Events
-    \label{sec:events}
+    \label{sec:manifest_events}
     }
 
 An Event characterises occurrences in the life cycle of a moving image Manifestation.
@@ -626,7 +626,7 @@ Selection should be made from a controlled list of terms.
 A suggested list, which is open and not exhaustive, can be found in [D.4 Event Types](#manual-D.4).
 
 \subsubsection[“Other” Relationships]{“Other” Relationships
-    \label{sec:other_relationships}
+    \label{sec:manifest_other_relationships}
     }
 
 Expresses relationships that are not covered by the Agent and Event relationships.

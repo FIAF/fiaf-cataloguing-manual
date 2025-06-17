@@ -1,13 +1,13 @@
 
 \newpage
 \section[Moving Image Variants]{Moving Image Variants 
-    \label{sec:moving_image_variants}
+    \label{sec:variant_moving_image_variants}
     } 
 
 \newpage
 \subsection[Definitions]{Definitions 
     \footnote {For a discussion of other definitions of the “Work” and Variant entities, see \nameref{sec:moving_image_works}.} 
-    \label{sec:moving_image_works_definition}
+    \label{sec:moving_image_variants_definition}
     } 
 
 Brief definitions of the standard CEN terms Work/Variant/Manifestation/Item used in the Manual were provided at the end of the Introduction (see [Introduction](#manual-introduction)).

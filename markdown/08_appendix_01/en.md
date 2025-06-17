@@ -8,7 +8,7 @@
 
 \newpage
 \subsection[Title]{Title 
-    \label{sec:title}
+    \label{sec:appendix_title}
     } 
 
 The following general guidelines for recording Titles largely apply across all the WVMI (Work, Variant, Manifestation, Item) entities, and all Title Types.
@@ -19,7 +19,7 @@ If those guidelines refer to an appendix, apply the additional instructions in t
 
 \subsubsection[Language]{Language 
     \footnote {Adapted from RDA 5.4 Language and Script} 
-    \label{sec:language}
+    \label{sec:title_language}
     } 
 
 Record titles for Works/Variants in the language and script in which they appear on the sources from which they are taken.
@@ -1379,7 +1379,7 @@ Examples of partially and fully supplied titles for a variety of scenarios can b
 
 \subsection[Titling of Aggregates]{Titling of Aggregates 
     \footnote {Based on AMIM2, 1F2.1.} 
-    \label{sec:titling_of_aggregates}
+    \label{sec:title_titling_of_aggregates}
     } 
 
 Titling of aggregates follows the same principles as that of other types of entities as detailed in Appendix A.1 and A.2 sections above.

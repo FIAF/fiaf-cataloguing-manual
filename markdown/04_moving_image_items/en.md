@@ -35,7 +35,7 @@ Only elements that are considered Item-specific have guidelines for the recordin
 Physical/digital description elements that are considered Manifestation-specific, but which may be repeated at the Item level, contain hyperlinks to the relevant sections in the Manifestation chapter.
 
 \subsubsection[Identifier]{Identifier 
-    \label{sec:identifier}
+    \label{sec:item_identifier}
     } 
 
 Create an unambiguous numerical or alphanumerical reference to the moving image Item, such as a call number, barcode, shelf mark or similar, to uniquely identify the copy.^[EN 15907, “Inventory number,” p. 12] This may be in addition to separate Acquisition and Accession number(s) or identifier(s).
@@ -48,14 +48,14 @@ For example, a film Item may have a barcode for the can and a shelf number for i
 Note the type of Identifier using Identifier Type.
 
 \paragraph[Identifier Type]{Identifier Type 
-    \label{sec:identifier_type}
+    \label{sec:item_identifier_type}
     } \
 
 If an institution’s system allows, a “Type” can be applied with an Identifier to define the source of the Identifier.
 Examples: Barcode, Shelf mark, Accession number.
 
 \subsubsection[Title]{Title 
-    \label{sec:title}
+    \label{sec:item_title}
     } 
 
 Record at least one title, identifying phrase, or name for the moving image Item Title.
@@ -77,7 +77,7 @@ For guidance on wording, order, spelling, punctuation, accentuation and capitali
 For sources of information for the Title, see [Section 0.3 Sources of Information](#manual-0.3).
 
 \paragraph[Title Type]{Title Type 
-    \label{sec:title_type}
+    \label{sec:item_title_type}
     } \
 
 Items can have more than just the title transcribed from the opening credits.
@@ -98,7 +98,7 @@ Optionally, if available, record a suitable repository identifier or a registere
 
 \subsubsection[Item Element Type]{Item Element Type 
     \footnote {Based on EN 15907, Instantiation type} 
-    \label{sec:item_element_type}
+    \label{sec:item_item_element_type}
     } 
 
 Record the nature or function of the moving image Item, describing its place in the photochemical or digital production or duplication process, for example, “original negative,” “duplicate negative,” etc. Selection should be made from a controlled list of terms.
@@ -131,7 +131,7 @@ Carrier type is the medium on or the encoding format in which the Item is fixed.
 Its description consists of a general carrier type, which describes the basic proper- ties of the Item’s physical format, for example, film, video tape, digital file, etc., and a specific carrier type, which corresponds to the gauge, in case of films and tapes, and for digital files, to the physical carrier on which the file is stored.
 
 \subparagraph[General Carrier Type]{General Carrier Type 
-    \label{sec:general_carrier_type}
+    \label{sec:item_general_carrier_type}
     } \
 
 The broad media type of the Item (e.g., film, video, audio, optical, digital file).
@@ -144,7 +144,7 @@ A suggested list can be found in [D.7.1 Manifestation/Item General Carrier Type]
 For reasons of clarity and to avoid redundancy, optionally, institutions can decide to skip the general carrier type description for film and video, since it is already implicit in the specific carrier type.
 
 \subparagraph[Specific Carrier Type]{Specific Carrier Type 
-    \label{sec:specific_carrier_type}
+    \label{sec:item_specific_carrier_type}
     } \
 
 Record the specific carrier type, by indicating
@@ -184,7 +184,7 @@ A suggested list, which is open and not exhaustive, can be found in [D.7.4 Manif
 Record only if this information is not captured at the Manifestation level or if required at the Item level by the system in use.
 
 \paragraph[Sound Channel Configuration]{Sound Channel Configuration  
-    \label{sec:sound_channel_configuration}
+    \label{sec:item_sound_channel_configuration}
     } \
 
 If the Item has sound, note here the track configuration (e.g., mono, stereo, etc.) Selection should be made from a controlled list of terms.
@@ -276,7 +276,7 @@ Alternatively, provide for a distinguishing “precision” field specifying if 
 If the Item is a video or audio tape where the tape stock maximum duration is identified (e.g., Fuji M321-SP 30M is a Betacam SP tape of 30 minutes duration), that maximum duration can be noted in the “precision” field as “stock maximum.” This information can be helpful since it implies the Item can- not be longer than the maximum duration of the stock.
 
 \subparagraph[Duration Precision]{Duration Precision    
-    \label{sec:duration_precision}
+    \label{sec:item_duration_precision}
     } \
 
 In this qualifier, note whether the duration is exact, approximate, estimated, or stock maximum.
@@ -482,7 +482,7 @@ An Item may have relationships with the following:
 - Manifestation
 
 \subsubsection[Agent(s)]{Agent(s)    
-    \label{sec:agents}
+    \label{sec:items_agents}
     } 
 
 An Agent for moving image Items is defined as an entity that is involved in the acquisition, movement (for loans, inspection, storage, etc.), or preservation of a moving image Item and who is considered to have major responsibility for, or be of major importance to, the moving image Item.
@@ -494,7 +494,7 @@ Because responsibility for moving image materials is most often complex and high
 These functions may vary from institution to institution according to the types of moving image material held.
 
 \paragraph[Agent Activity]{Agent Activity    
-    \label{sec:agent_activity}
+    \label{sec:item_agent_activity}
     } \
 
 Describes the activity of the Agent to make explicit the relationship(s) between the Agent and the Item.
@@ -519,7 +519,7 @@ If more than one Agent is associated with a particular role connected with an It
 Preserving the ordering of the credited persons should be determined by the requirements of individual institutions.^[FIAF, 1.6.2, pp. 36-37.]
 
 \subsubsection[Events]{Events    
-    \label{sec:Events}
+    \label{sec:items_events}
     } 
 
 An Event characterises occurrences in the life cycle of a moving image Item.
@@ -530,7 +530,7 @@ Selection should be made from a controlled list of terms.
 A suggested list, which is open and not exhaustive, can be found in [D.4 Event Types](#manual-D.4).
 
 \subsubsection[Other Relationships]{Other Relationships    
-    \label{sec:other_relationships}
+    \label{sec:item_other_relationships}
     } 
 
 Express relationships that are not covered by the Agent and Event relationships.
