@@ -401,7 +401,7 @@ Record the source software used in playing a digital file.
 Selection should be made from a controlled list of terms.
 A suggested list, which is open and not exhaustive, can be found in [D.7.18 Item Frame Rate/Transfer Speed – Digital](#manual-D.7.18).
 
-If the Transfer Speed is the same as the Frame Rate \nameref{sec:frame_rate}, these values should be the same.
+If the Transfer Speed is the same as the \nameref{sec:frame_rate}, these values should be the same.
 However, silent films might be transferred at a higher speed than the original frame rate.
 For example, a silent film that was shot at a 16fps frame rate could be transferred at 23.98 fps.
 It is important to note the transfer speed so an institu- tion can identify how the transferred Item compares to the source Item.
