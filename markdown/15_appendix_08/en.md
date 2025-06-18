@@ -275,7 +275,7 @@ Below, a set of properties are recommended for describing the rights around the 
     } 
 
 \paragraph[Acquisition]{Acquisition 
-    \label{sec:acquisition}
+    \label{sec:copyright_acquisition}
     } \
 
 See also [D.4.9 Acquisition](#manual-D.4.9)
