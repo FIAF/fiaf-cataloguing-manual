@@ -76,7 +76,7 @@ The concept of “original” must be flexible enough to be applied to released 
 For a released Work, we tend to refer to the “original” Work as the first known release of the first known manifestation.
 For Works that are not released (e.g., a home movie), the “original” Work is simply the first known manifestation.
 
-See [Appendix I.1 Example 1. Feature film in 3-level, 2-level and 1-level hierarchies](#manual-I.1) as an illustration.
+See [Appendix I.1 Example 1. Feature film in 3-level, 2-level and 1-level hierarchies]\nameref{sec:example_one} as an illustration.
 
 Please see [Appendix G, Elements of Description](#manual-G) comparison for a list of all elements described in this manual.
 

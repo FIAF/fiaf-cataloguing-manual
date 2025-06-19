@@ -329,7 +329,7 @@ Record details on the manufacturer (i.e. laboratory, studio, etc….), place of 
 
 **“Other relationships”**
 
-Record any additional information concerning all those relationships that are not covered by the Agent and Event relationships, the so-called “Other relationships” (see [D.17 Other Relationships for Works, Variants, Manifestations, Items](#manual-D.17)).
+Record any additional information concerning all those relationships that are not covered by the Agent and Event relationships, the so-called “Other relationships” (see [D.17 Other Relationships for Works, Variants, Manifestations, Items]\nameref{sec:work_variant_other_relationship_types}).
 
 
 

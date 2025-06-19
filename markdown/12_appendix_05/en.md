@@ -114,7 +114,7 @@ Special Stills Photographer: Snowdon Un ballo in maschera, John Swannell La verg
 Supervising Co-ordinating Editor: Marie-Thérèse Boiché
 
 Each component title should not usually be created as a new Work, as this is not how the content was conceived (i.e., it was designed to be packaged and viewed together and is not separable) and none of them would then have any Manifestation record as an individual Work.
-Those institutions that have the ability or desire to separate them out to tie separate descriptions (e.g., credits) to each component part (i.e. representing the parent-child relationship), may represent them as Analytic Works (see [D.1 Work/Variant Description Types](#manual-D.1)).
+Those institutions that have the ability or desire to separate them out to tie separate descriptions (e.g., credits) to each component part (i.e. representing the parent-child relationship), may represent them as Analytic Works (see [D.1 Work/Variant Description Types]\nameref{sec:work_variant_description_types}).
 
 Should an institution acquire some or all of the components on different physical Items, then these should be linked to the Manifestation for the whole.
 In such cases it is simply a matter of a partial/incomplete acquisition, in the same way that only 2 reels of a 3 reel feature film might be acquired.
@@ -200,20 +200,20 @@ Identical moving image Works/Variants but in different languages released on one
 
 For Aggregate Manifestations record the length/duration of the whole, i.e. the total of all the units/running times that constitute the Aggregate.
 In addition there is the option to qualify this with details of the duration of each individual unit in either a Notes field, or in multiple occurrences of the duration fields, depending on what systems used permit or an institution decides.
-(See [2.3.5.2.1 Physical extent of an Aggregate Manifestation](#manual-2.3.5.2.1) and [2.3.5.3.1 Duration of an Aggregate Manifestation](#manual-2.3.5.3.1))
+(See [2.3.5.2.1 Physical extent of an Aggregate Manifestation]\nameref{sec:physical_extent_of_an_aggregate_manifestation} and [2.3.5.3.1 Duration of an Aggregate Manifestation](#manual-2.3.5.3.1))
 
 \subsubsection[Titling of Aggregates]{Titling of Aggregates 
     \label{sec:titling_of_aggregates}
     } 
 
 The title of the aggregating Work should reflect that of the Manifestation.
-The component titles may additionally be added to the aggregating Work as alternative title types (see [A.2.4 Alternative](#manual-A.2.4)).
+The component titles may additionally be added to the aggregating Work as alternative title types (see [A.2.4 Alternative]\nameref{sec:alternative}).
 They may also be added to any Items as alternative title types.
 
 Titling of aggregates follows the same principles as that of other types of entities (see [Appendix A, Titles and Title Types](#manual-A)).
 
 The title of the aggregate Manifestation forms the basis, but that title may be a “title proper” or a fully or partially devised/supplied title.
-(See [A.2.2 Title Proper](#manual-A.2.2) or [A.2.5 Supplied/Devised Titles](#manual-A.2.5)).
+(See [A.2.2 Title Proper]\nameref{sec:title_proper} or [A.2.5 Supplied/Devised Titles]\nameref{sec:supplied_devised_titles}).
 
 Aggregates may be formed by an archive or institution itself for in-house or other event purposes.
 In these instances the title type should indicate it is a devised/supplied title in both the aggregate Manifestation and aggregating Work, as well as the Item.
@@ -263,7 +263,7 @@ The individual component titles may also be added as alternative title types to 
 Some collection aggregates do not have their own new title, e.g., in 2008, Odeon Entertainment released a DVD double-bill of classic British thrillers, Bond of fear (1956) and Blackout (1950), with no collection title.
 
 The treatment of the aggregate title may differ from institution to institution, especially in cases where multiple Works are contained in the collection aggregate and recording all titles in a single title field would be unwieldy.
-There is the option of an institution using a devised/supplied title (see [A.2.5 Supplied/Devised Titles](#manual-A.2.5)).
+There is the option of an institution using a devised/supplied title (see [A.2.5 Supplied/Devised Titles]\nameref{sec:supplied_devised_titles}).
 
 ```{=latex}
 \begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Example]
@@ -546,7 +546,7 @@ arrow <-> from B8.s to B9.n
 
 ```
 
-Alternatively, a model similar to [E.5.1.2 Model: Collection Aggregate Manifestation within many-to-many Works/Variants-Manifestation](#manual-E.5.1.2) can be used, whereby a single Aggregate Manifestation links to the many individual Works/Variants in “part of” relationship:
+Alternatively, a model similar to [E.5.1.2 Model: Collection Aggregate Manifestation within many-to-many Works/Variants-Manifestation]\nameref{sec:collection_aggregate_manifestation_within_a_many_to_many} can be used, whereby a single Aggregate Manifestation links to the many individual Works/Variants in “part of” relationship:
 
 ```pikchr
 B1: box rad 5px "ER (Work - Serial)" fit at (1,3) 
@@ -610,7 +610,7 @@ It is also possible for particular individual episodes from different moving ima
 
 These also do not constitute aggregates.
 
-The nature of news/newsreels is that the different stories do not constitute “independently created Works/Variants” and are more akin to multi-component moving images (see [Section E.2.2](#manual-E.2.2)), in that each component is meant to create the whole via filmed links that are an integral planned part and structure of an original single Work concept.
+The nature of news/newsreels is that the different stories do not constitute “independently created Works/Variants” and are more akin to multi-component moving images (see [Section E.2.2]\nameref{sec:hybrid_aggregates_and_multi_component_moving_images}), in that each component is meant to create the whole via filmed links that are an integral planned part and structure of an original single Work concept.
 
 The process of creation of these is with one whole programme in mind made up of different filmed elements – the same as planned different location shooting (and crews) of different scenes in a feature film that are then edited together to create the whole.
 It is never envisaged that the individual news stories would ever have an independent individual release/broadcast on their own.
@@ -624,7 +624,7 @@ The component parts do not.
 
 It is possible that only individual components of newsreels/news programmes may be acquired by an institution.
 In such cases it is simply a matter of a partial/incomplete acquisition, in the same way that only 2 reels of a 3 reel feature film might be acquired.
-The acquisition Item record would be linked as “part of” the whole Manifestation (see [A.2.6.3 Analytic/Components of identified newsreels/cinemagazines](#manual-A.2.6.3)).
+The acquisition Item record would be linked as “part of” the whole Manifestation (see [A.2.6.3 Analytic/Components of identified newsreels/cinemagazines]\nameref{sec:analytics_components_of_identified_newsreels_cinemagazines}).
 
 
 

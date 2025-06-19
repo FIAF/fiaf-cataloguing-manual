@@ -24,12 +24,12 @@ In the case of purely digital media, an Item is defined as the availability of t
 
 A majority of the physical and digital description elements of moving image Items are intended to be inherited from the Manifestations, as they serve as the exemplars of Manifestations.
 In some databases, selection of a physical carrier type initiates provision of element fields relevant to that type at a Manifestation level, or an Item level, or both (e.g. in a 2 Level hierarchy.
-See “Shallow hierarchy model: 2 levels” in [0.2.1 Elements of description across Works, Variants, Manifestations, and Items](#manual-0.2.1)).
+See “Shallow hierarchy model: 2 levels” in [0.2.1 Elements of description across Works, Variants, Manifestations, and Items]\nameref{sec:elements_of_description}).
 
 Ideally the information need only be recorded once irrespective of where in the data structure an institution must place it.
 Therefore guidelines for the treatment of physical/digital description elements are explained fully in the Manifestation chapter.
 
-This chapter contains Item-specific physical/digital description elements beginning at Section 3.1.5 (see [3.1.5 Item Specifics/Extent (e.g. physical/Digital description)](#manual-3.1.5).
+This chapter contains Item-specific physical/digital description elements beginning at Section 3.1.5 (see [3.1.5 Item Specifics/Extent (e.g. physical/Digital description)]\nameref{sec:item_specifics_extent}.
 For example, properties such as Extent and Format at the Manifestation level represent the “ideal,” and item-specific information will capture where it differs from this ideal.
 Only elements that are considered Item-specific have guidelines for the recording of data.
 Physical/digital description elements that are considered Manifestation-specific, but which may be repeated at the Item level, contain hyperlinks to the relevant sections in the Manifestation chapter.
@@ -60,7 +60,7 @@ Examples: Barcode, Shelf mark, Accession number.
 
 Record at least one title, identifying phrase, or name for the moving image Item Title.
 
-If multiple titles are recorded, where allowable, associate a “Title Type” to a title for differentiation between the various types of titles (see [A.2 Title Types](#manual-A.2)).
+If multiple titles are recorded, where allowable, associate a “Title Type” to a title for differentiation between the various types of titles (see [A.2 Title Types]\nameref{sec:title_types}).
 
 In most cases the title of an Item will be the same as that of the Manifestation to which it pertains.
 
@@ -68,13 +68,13 @@ The title of an Item can sometimes differ, either slightly or wholly from the ti
 In particular, this may be the case where an incomplete physical product of the Manifestation has been acquired.
 For example, if a film in the collection is missing the first reel where opening title credits usually appear, the Item will not have a title to be transcribed.
 
-For creating titles for untitled or unidentified entities see [A.2.5 Supplied/Devised Titles](#manual-A.2.5)
+For creating titles for untitled or unidentified entities see [A.2.5 Supplied/Devised Titles]\nameref{sec:supplied_devised_titles}
 
 For the treatment of Aggregates (e.g. compilations of whole Manifestations) as applied to Items, see Appendix [E.4 Titling of Aggregates] for titling of Aggregates.
 
-For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see [Chapter 0. Preliminary Notes](#manual-0.0).
+For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see [Chapter 0. Preliminary Notes]\nameref{sec:purpose}.
 
-For sources of information for the Title, see [Section 0.3 Sources of Information](#manual-0.3).
+For sources of information for the Title, see [Section 0.3 Sources of Information]\nameref{sec:prelim_sources_of_information}.
 
 \paragraph[Title Type]{Title Type 
     \label{sec:item_title_type}
@@ -118,7 +118,7 @@ Each Item should have its own description, whether the physical/digital characte
 
 Institutions may record as much technical information as they wish or need, but the Physical and Digital Description elements of an Item should ideally consist of the elements listed in the sub-sections below where discernible.
 
-Further data relating to the condition, preservation, location, and, acquisition, accessioning, and source of the Item are also recommended elements for the Item (see [3.1.6 Access conditions](#manual-3.1.6)).
+Further data relating to the condition, preservation, location, and, acquisition, accessioning, and source of the Item are also recommended elements for the Item (see [3.1.6 Access conditions]\nameref{sec:access_conditions}).
 
 These may be either added to the Item description itself or, where this is not possible, related to other separate files or databases, via physical link or text indication.
 
@@ -169,7 +169,7 @@ A suggested list, which is open and not exhaustive, can be found in [D.7.2 Manif
     } \
 
 Description of the preservation or access status of the Item, for example Master, Viewing, etc. Select term from a controlled list.
-A suggested list, which is open and not exhaustive, can be found in [D.7.3 Item Preservation/Access status](#manual-D.7.3).
+A suggested list, which is open and not exhaustive, can be found in [D.7.3 Item Preservation/Access status]\nameref{sec:item_preservation_access_status}.
 
 \paragraph[Sound]{Sound  
     \label{sec:sound}
@@ -212,7 +212,7 @@ Record only if this information is not captured at the Manifestation level or if
     \label{sec:unit_number}
     } \
 
-For full instructions see [2.3.5.1 Logical extent of a Manifestation](#manual-2.3.5.1)
+For full instructions see [2.3.5.1 Logical extent of a Manifestation]\nameref{sec:logical_extent_of_a_manifestation}
 
 The number of discrete logical units that make up the moving image Item.
 Item unit number(s) may differ from that of the associated Manifestation.
@@ -225,7 +225,7 @@ The unit number in Manifestation relates to the ideal, whereas the Item unit num
 The actual physical/digital extent is a characteristic of a singular Item, since it can be different for multiple Items exemplifying the same moving image Manifestation.
 
 For film, record footage for the film reel in feet or metres.
-This footage represents actual length, rather than the “ideal” length, which is recorded for Manifestations (see [2.3.5.2 Physical extent of a Manifestation](#manual-2.3.5.2)).
+This footage represents actual length, rather than the “ideal” length, which is recorded for Manifestations (see [2.3.5.2 Physical extent of a Manifestation]\nameref{sec:physical_extent_of_a_manifestation}).
 If your system allows, provide the Unit of Measurement – feet or metres – in another element.
 Having separate numeric fields can facilitate calculations in determining the amount of footage that will be preserved.
 
@@ -233,7 +233,7 @@ For digital files, enter the numerical measurement indicating the size of the di
 
 As above, the Unit of Measurement (feet, metres, GB, etc.) may be provided in a separate field.
 This could be two separate fields side by side – one for numbers and one for size measurement.
-A suggested list, which is open and not exhaustive, can be found in [D.7.9 Item File Size – Digital](#manual-D.7.9).
+A suggested list, which is open and not exhaustive, can be found in [D.7.9 Item File Size – Digital]\nameref{sec:item_file_size_digital}.
 
 If the length of an Item is uncertain, use a question mark following the unit count or record the uncertain number preceded by “approximately.” In a note, give an explanation for the estimated footage or metre count, where known.
 
@@ -245,7 +245,7 @@ Alternatively, provide for a distinguishing “precision” field specifying if 
     \label{sec:projection_characteristics}
     } \
 
-For full instructions, see [2.3.4.2 Projection characteristics of a Manifestation](#manual-2.3.4.2)
+For full instructions, see [2.3.4.2 Projection characteristics of a Manifestation]\nameref{sec:projection_characteristics_of_a_manifestation}
 
 The projection characteristics of a Manifestation/Item include aspect ratio and aperture or image format.
 
@@ -265,7 +265,7 @@ Duration in minutes of the moving image(s) contained in the Item, not the total 
 Optionally, include minutes and seconds, or, for a higher level of precision and to enable calculations, use the format HH:MM:SS.
 This numeric format will help to calculate estimated digital storage in analogue-to-digital transfer projects.
 
-This duration represents actual temporal extent, rather than the “ideal” temporal extent, which is recorded for Manifestations (see [2.3.5.3 Duration of a Manifestation](#manual-2.3.5.3)).
+This duration represents actual temporal extent, rather than the “ideal” temporal extent, which is recorded for Manifestations (see [2.3.5.3 Duration of a Manifestation]\nameref{sec:duration_of_a_manifestation}).
 Actual duration is a characteristic of a singular Item, since it can differ among multiple Items exemplifying the same Manifestation.
 
 If the duration/running time of an Item is uncertain, use a question mark following the unit count or record the uncertain number preceded by “approximately.” If necessary, in a note, give an explanation for the estimated duration/running time, where known.
@@ -305,7 +305,7 @@ Note that in digital cinema, a film can have Variable frame rates.
 
 The physical material or video format on which the Item is captured, for example, de- scribing the flexible transparent material that supports a film items’ emulsion or a magnet- ic track, (e.g., acetate, nitrate, CTA, etc.).
 Select from controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in [D.7.7 Item Base – Film or Video](#manual-D.7.7).
+A suggested list, which is open and not exhaustive, can be found in [D.7.7 Item Base – Film or Video]\nameref{sec:item_base_film_or_video}.
 
 \paragraph[Stock]{Stock    
     \label{sec:stock}
@@ -313,7 +313,7 @@ A suggested list, which is open and not exhaustive, can be found in [D.7.7 Item 
 
 Describes the specific stock/brand on which the Item is captured, for example, Eastman Kodak, Fuji, 3M, etc. This element should be used for all media: film, video, audio, optical, digital tape, external hard drives.
 Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in [D.7.16 Item Stock](#manual-D.7.16).
+A suggested list, which is open and not exhaustive, can be found in [D.7.16 Item Stock]\nameref{sec:item_stock}.
 
 \paragraph[Stock Batch]{Stock Batch    
     \label{sec:stock_batch}
@@ -333,7 +333,7 @@ Video and digital cinema formats contained in wrappers have separate audio files
 For example, DCPs (contained in MXF files) are comprised of a JPEG2000 video file and a WAV audio file (along with textual information in an XML file), The audio codec is described separately.
 
 Select from controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in [D.7.10 Item Code type – Digital](#manual-D.7.10).
+A suggested list, which is open and not exhaustive, can be found in [D.7.10 Item Code type – Digital]\nameref{sec:item_codec_type}.
 Other lists include:
 
 PBCore essenceTrackEncoding vocabulary: http://metadataregistry.org/concept/list/vocabulary_id/156.html
@@ -347,7 +347,7 @@ EBUCore Video Compression Code: https://www.ebu.ch/metadata/cs/web/ebu_VideoComp
 The audio compression standard used in the audio file, whether it is contained in a wrapper with a video file or as a standalone audio file.
 
 Select from controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in [D.7.10 Item Codec type](#manual-D.7.10).
+A suggested list, which is open and not exhaustive, can be found in [D.7.10 Item Codec type]\nameref{sec:item_codec_type}.
 Other lists include:
 
 PBCore essenceTrackEncoding vocabulary: http://metadataregistry.org/concept/list/vocabulary_id/156.html
@@ -386,7 +386,7 @@ Record the source playback device used in transfer projects.
 This can be a video deck, film printer, or hardware.
 
 Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in [D.7.20 Item Source Device – Digital](#manual-D.7.20).
+A suggested list, which is open and not exhaustive, can be found in [D.7.20 Item Source Device – Digital]\nameref{sec:item_source_device}.
 
 \paragraph[Source Software]{Source Software    
     \label{sec:source_software}
@@ -424,14 +424,14 @@ These observations should aim to be as clear and concise as possible, avoiding a
 For example, establish whether to use “scratched”, “scratches” or “scratch marks” and be as consistent as possible.
 This enables better searching and accessibility of data.
 
-Record these actions as an Event (see [3.3.2 Events](#manual-3.3.2)), with the person or entity performing the action as an Agent (see [3.3.1 Agent(s)](#manual-3.3.1)).
+Record these actions as an Event (see [3.3.2 Events]\nameref{sec:items_events}), with the person or entity performing the action as an Agent (see [3.3.1 Agent(s)](#manual-3.3.1)).
 
 Ideally, elements covering information and details regarding the condition of an acquired Item would include those listed below.
 
 This could be recorded using single or multiple specific headed fields (i.e., covering Base, Emulsion, Image, Perforations, etc.), and then sub-sections of the latter, to incorporate data ranging from graded scales designations (either numerical or alphabetical, for example 1-5, A-G, Perfect – Very Poor) with clear definitions of what each designation means; condition terms selected from a controlled list; free text additional qualification or clarification in observations or comments sections; identification of technical assessor; and, dates.
 
 Record the condition of the Item including its base and/or emulsion and/or perforations, where applicable.
-Selection should be made from a controlled list of terms, for example, “brittle”, “buckled”, “tears,” etc. A suggested list, which is open and not exhaustive, can be found in [D.16 Manifestation/Item Condition, Preservation and Restoration](#manual-D.16).
+Selection should be made from a controlled list of terms, for example, “brittle”, “buckled”, “tears,” etc. A suggested list, which is open and not exhaustive, can be found in [D.16 Manifestation/Item Condition, Preservation and Restoration]\nameref{sec:item_copy_condition_base_emulsion_film_and_video}.
 
 Capture the date on which the condition of the Item was recorded (using ISO standard^[ISO 8601]).
 The identification of the individual who carried out the technical assessment and has recorded the condition should also be given.
@@ -535,7 +535,7 @@ A suggested list, which is open and not exhaustive, can be found in [D.4 Event T
 
 Express relationships that are not covered by the Agent and Event relationships.
 These may include compilations of convenience, i.e. where an institution has transferred copies
-of two or more films onto one reel/tape/DVD etc. for convenient storage.^[See Appendix [E.2 Identifying Aggregates](#manual-E.2)]
+of two or more films onto one reel/tape/DVD etc. for convenient storage.^[See Appendix [E.2 Identifying Aggregates]\nameref{sec:aggregate_or_carrier}]
 
 - Item(s) associated with the moving image Item
 
@@ -601,7 +601,7 @@ Example:
 ```
 
 Record one or more “Other” relationship type terms to express the nature of the relationship to the Item, choosing the most specific term possible from existing relator terms lists, for example, “accompanied by,” “contained in,” etc. Selection should be made from a controlled list of values.
-A suggested list, which is open and not exhaustive, can be found in [D.17.3 Item Other Relationship Types](#manual-D.17.3).
+A suggested list, which is open and not exhaustive, can be found in [D.17.3 Item Other Relationship Types]\nameref{sec:item_other_relationship_types}.
 
 In a note, add any additional information concerning the relationship considered relevant.
 

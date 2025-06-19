@@ -14,7 +14,7 @@
 The following general guidelines for recording Titles largely apply across all the WVMI (Work, Variant, Manifestation, Item) entities, and all Title Types.
 Certain guidelines are specified as applying to one or more of the WVMI entities where pertinent.
 
-When recording a title, apply the guidelines on capitalisation, numbers, diacritical marks, initial articles, spacing of initials and acronyms, and abbreviations, in [Chapter 0. Preliminary Notes](#manual-0.0).
+When recording a title, apply the guidelines on capitalisation, numbers, diacritical marks, initial articles, spacing of initials and acronyms, and abbreviations, in [Chapter 0. Preliminary Notes]\nameref{sec:purpose}.
 If those guidelines refer to an appendix, apply the additional instructions in that appendix, as applicable.^[Adapted from RDA 6.2.1.3 General Guidelines on Recording Titles of Works]
 
 \subsubsection[Language]{Language 
@@ -187,9 +187,9 @@ The underlying philosophy is to associate as many titles to the respective entit
 The different titles types have been combined in a single section to aid in real-world cataloguing, where one may have an item-in-hand but be making assessments about the title of the Work or Variant associated with the Item, as well as physical characteristics that are particular to the Item but which do not signal a change in the content itself.
 This is often the case for archival moving images where titles can be readily changed, misidentified by a well-meaning collector, or completely eliminated before the material reaches an institution.^[FIAF Cataloguing Rules, p. xiii]
 
-For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see [Chapter 0. Preliminary Notes](#manual-0.0).
+For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see [Chapter 0. Preliminary Notes]\nameref{sec:purpose}.
 
-For sources of information for the Title, see [0.3 Sources of Information](#manual-0.3).
+For sources of information for the Title, see [0.3 Sources of Information]\nameref{sec:prelim_sources_of_information}.
 
 Primary Title Types ^[For simplicity’s sake, this table does not present sub-types of Title Types, i.e., sub-types of Alternative and Supplied/Devised titles. Suggested sub-types and definitions can be found under the headings for the primary Title Types.]
 
@@ -206,17 +206,17 @@ Primary Title Types ^[For simplicity’s sake, this table does not present sub-t
     \label{sec:preferred}
     } 
 
-The title of a moving image Work or Variant when first released, broadcast, published or transmitted (i.e. mounted online) in the country or countries of origin ( see [1.3.3 Country of reference](#manual-1.3.3).
+The title of a moving image Work or Variant when first released, broadcast, published or transmitted (i.e. mounted online) in the country or countries of origin ( see [1.3.3 Country of reference]\nameref{sec:country_of_reference}.
 
 The preferred title is the chief name (also referred to as “main” or “original” title) of any moving image Work or Variant.
 The preferred title may include part title and series/serial information for moving image materials issued in multiple parts, e.g., episodes in a film or TV serial.
-See [A.2.7 Moving images with probable or questionable titles](#manual-A.2.7).
+See [A.2.7 Moving images with probable or questionable titles]\nameref{sec:moving_images_with_probable_or_questionable_titles}.
 
 In cases where the preferred Work/Variant title cannot be determined but there is a title on the Manifestation/Item, the title on the Manifestation/Item being catalogued may be used as the preferred title for the Work or Variant.
 
 If the preferred title is ascertained at some point and is different from the Manifestation/Item title, the Manifestation/Item title may then be added to the Work or Variant as an alternative title.
 
-When no title at all can be found for a Work or Variant, follow the procedure set out in the [A.2.5 Supplied/Devised Titles](#manual-A.2.5) section.
+When no title at all can be found for a Work or Variant, follow the procedure set out in the [A.2.5 Supplied/Devised Titles]\nameref{sec:supplied_devised_titles} section.
 
 \subsubsection[Identifying (i.e. Uniform or Display)]{Identifying (i.e. Uniform or Display) 
     \footnote {Term “Identifying title” corresponds with EN 15907. This is the equivalent of “Uniform title” in FRBR and “Preferred title” in RDA.} 
@@ -229,7 +229,7 @@ An identifying title is designed to identify the entity it represents quickly an
 This type of title will not be necessary in all systems, such as those utilising unique identifiers (e.g., ISAN or EIDR), or those that index other distinguishing elements in separate fields that will display with the title in search results, e.g., Year of reference.
 In those cases the Identifying and Preferred title will often be one and the same.
 
-Where separate fields do not exist, create an identifying title using the preferred title of the Work/Variant as the starting point (if no title, see [A.2.5.1 Partially Supplied/Devised Titles](#manual-A.2.5.1)).^[Both YCR (0.9.3 Normalized human-readable identifiers or headings) and EN 15907 (6.4 Identifying Title) recommend the construction of a human-readable identifier for result list displays, with disambiguation using data such as Genre, Year, etc.]
+Where separate fields do not exist, create an identifying title using the preferred title of the Work/Variant as the starting point (if no title, see [A.2.5.1 Partially Supplied/Devised Titles]\nameref{sec:partially_supplied_devised_titles}).^[Both YCR (0.9.3 Normalized human-readable identifiers or headings) and EN 15907 (6.4 Identifying Title) recommend the construction of a human-readable identifier for result list displays, with disambiguation using data such as Genre, Year, etc.]
 
 Add whatever additions to the title are necessary to identify the Work/Variant and distinguish it from other Works/Variants with the same title.^[YCR, 0.9.3 Normalized human-readable identifiers or headings, p. 8] These types of additions are traditionally made within the title field itself (in parentheses or brackets) although other punctuation separators, e.g. full stop may also be used.
 Use multiple additions where necessary.
@@ -281,7 +281,7 @@ It is the chief name of any Manifestation and represents the primary access poin
 
 Ideally record in a note or dedicated field the source of the title proper.
 
-If it is impossible to determine the title proper or if the Manifestation is the embodiment of a Work not intended to have a formal title, construct a supplied/devised title (see [A.2.5 Supplied/Devised Titles](#manual-A.2.5)).
+If it is impossible to determine the title proper or if the Manifestation is the embodiment of a Work not intended to have a formal title, construct a supplied/devised title (see [A.2.5 Supplied/Devised Titles]\nameref{sec:supplied_devised_titles}).
 
 Specify in a note or dedicated field if the title proper is not determinable or if the Manifestation embodies a Work not intended to have a formal title.
 
@@ -290,7 +290,7 @@ Specify in a note or dedicated field if the title proper is not determinable or 
 Ascertaining the Title Proper of Items differs from ascertaining those for Works, Variants and Manifestations in that what is on or affixed to the Item or physical copy itself takes precedence.
 
 The title of an Item may differ, either slightly or wholly, from the title of the Manifestation and/or Work/Variant to which it is linked hierarchically.
-In particular, where an incomplete physical product of the Manifestation has been acquired (see [A.2.6.3 Analytics/Components of identified newsreels/cinemagazines](#manual-A.2.6.3)).
+In particular, where an incomplete physical product of the Manifestation has been acquired (see [A.2.6.3 Analytics/Components of identified newsreels/cinemagazines]\nameref{sec:analytics_components_of_identified_newsreels_cinemagazines}).
 
 If it is not possible to establish a title from either the Item or its container then secondary sources or a supplied/devised title can be used.
 
@@ -306,7 +306,7 @@ Ideally, the title proper of an Item is determined by the following:
 
   iii) In the absence of either (i) or (ii), and if catalogued within a WVMI structure, then replicate the title of the Manifestation to which the Item will be linked.
 
-  iv) In the absence of either (i) or (ii), and either not catalogued within a WVMI structure, or Work and Manifestation have not yet been identified, then a supplied/devised title should be created. In the latter instance, any subsequently created Work and Manifestation to be linked to the Item record should have the same title and a supplied/devised title type (See [A.2.5 Supplied/Devised Titles](#manual-A.2.5)).
+  iv) In the absence of either (i) or (ii), and either not catalogued within a WVMI structure, or Work and Manifestation have not yet been identified, then a supplied/devised title should be created. In the latter instance, any subsequently created Work and Manifestation to be linked to the Item record should have the same title and a supplied/devised title type (See [A.2.5 Supplied/Devised Titles]\nameref{sec:supplied_devised_titles}).
 
 \subsubsection[Other Title information]{Other Title information 
     \footnote {Adapted from FIAF, 1.4. Other title information, p. 25.} 
@@ -317,7 +317,7 @@ Other Work/Variant/Manifestation/Item title (WVMI) information is defined as a w
 
 Other title information includes subtitles, avant-titres, etc., but does not include alternative titles.^[FIAF glossary and FIAF 1992, 1.4: “Other title information: a word or phrase, or a group of characters appearing in conjunction with, and subordinate to, the title proper of the item. Other title information also occurs in conjunction with and subordinate to: parallel titles, variations of the title proper, episode titles, contents titles, titles of series, or of subseries. Other title information qualifies, explains or completes that title to which it applies, or is indicative of the character, contents, etc. of the item or the Works contained in it, or is indicative of the motive for, or the occasion of, the item’s production. The term includes subtitles and avant-tîtres.” Differently, in the RDA glossary and RDA 2.3.4: “Other title information is information that appears in conjunction with, and is subordinate to, the title proper of a resource. It may include any phrase appearing in conjunction with the title proper that is indicative of the character, content, etc. of the resource or the motives for, or occasion of, its production of publication. Other title information includes subtitles, avant-titres, etc., but does not include variations on the title proper such as spine titles, sleeve titles, etc. (see 2.3.6 ) or designations and/or names of parts, sections, or supplements (see 2.3.1.7 ).”] Cataloguers may constitute subordinate phrases as part of the Work or Variant title when, in their judgment, such phrases form an integral part of the preferred title.
 
-If other title information appearing on the Manifestation/Item is considered to be important (either for identification or for access), transcribe it as it appears on the source of information, following the principle of transcription and according to the general guidelines on transcription given in [F.3 Relationship of FIAF Cataloguing Rules to Functional Requirements of Bibliographic Records (FRBR), Resource Description and Access (RDA) and The European Standards Committee (CEN) Cinematographic Works Standard EN 15907](#manual-F.3), section entitled “Representation (or principle of transcription).
+If other title information appearing on the Manifestation/Item is considered to be important (either for identification or for access), transcribe it as it appears on the source of information, following the principle of transcription and according to the general guidelines on transcription given in [F.3 Relationship of FIAF Cataloguing Rules to Functional Requirements of Bibliographic Records (FRBR), Resource Description and Access (RDA) and The European Standards Committee (CEN) Cinematographic Works Standard EN 15907]\nameref{sec:relationship_of_fiaf_cataloguing_rules_to_functional_requirements}, section entitled “Representation (or principle of transcription).
 
 Examples:
 
@@ -467,7 +467,7 @@ Chuckles bites the dust = Preferred Title
 \end{tcolorbox}
 ```
 
-  (see [1.3.2 Title](#manual-1.3.2))
+  (see [1.3.2 Title]\nameref{sec:work_title})
 
 - Parallel title : the title in another language or script.
 
@@ -680,7 +680,7 @@ Unidentified episode).
 Unedited footage from a known, named television programme (e.g.
 a compilation of outtakes from 60 Minutes) is another case where a Work may have a partially supplied/devised title.
 
-Institutions should rely upon in-house lists of standardised form terms to be used as additions to/indexed as an attribute of such related titles, or utilise established standardised lists such as Library of Congress Genre/Form Terms for Library and Archival Materials (LCGFT), or rely upon the “form terms” list provided in [D.18 List of form terms for Supplied/Devised titles](#manual-D.18).
+Institutions should rely upon in-house lists of standardised form terms to be used as additions to/indexed as an attribute of such related titles, or utilise established standardised lists such as Library of Congress Genre/Form Terms for Library and Archival Materials (LCGFT), or rely upon the “form terms” list provided in [D.18 List of form terms for Supplied/Devised titles]\nameref{sec:list_of_form_terms_for_supplied_devised_titles}.
 
 **General guidelines for Partially Supplied/Devised titles**^[This section, including form terms and examples, is based on or taken from FIAF 1.4.3 Additions to titles;Yee/UCLA 5.1.2; AMIM2 1F1.1]
 
@@ -860,7 +860,7 @@ Where ascertainable, when the content being described consists of one specific f
 
 Optionally (or additionally), establish a link with the form index adopted by the archive.
 
-Institutions should rely upon in-house lists of standardised form terms, or utilise established standardised lists such as Library of Congress Genre/Form Terms for Library and Archival Materials (LCGFT), or rely upon the list provided in [D.18 List of form terms for Supplied/Devised titles](#manual-D.18).
+Institutions should rely upon in-house lists of standardised form terms, or utilise established standardised lists such as Library of Congress Genre/Form Terms for Library and Archival Materials (LCGFT), or rely upon the list provided in [D.18 List of form terms for Supplied/Devised titles]\nameref{sec:list_of_form_terms_for_supplied_devised_titles}.
 
 Examples:
 
@@ -995,7 +995,7 @@ Unidentified television series. Quiz show. Unidentified episodes
 \end{tcolorbox}
 ```
 
-For a more comprehensive list of form terms to use with for FULLY or PARTIALLY Supplied/Devised titles, see [D.18 List of form terms for Supplied/Devised titles](#manual-D.18).
+For a more comprehensive list of form terms to use with for FULLY or PARTIALLY Supplied/Devised titles, see [D.18 List of form terms for Supplied/Devised titles]\nameref{sec:list_of_form_terms_for_supplied_devised_titles}.
 
 \subsubsection[Titles of series/serials]{Titles of series/serials 
     \label{sec:titles_of_series_serials}
@@ -1006,7 +1006,7 @@ The guidelines and principles laid out in this section can be applicable across 
 For monographic Works that are an episode within a series or serial^[Serial = something which is a continuing story, for which it is necessary to have seen previous episodes to follow the story line, e.g. Pride and Prejudice, The Black Arrow, Brideshead Revisited. Series = something which contains programmes or episodes which are complete in themselves (although they may have characters in common) for which it is not essential to have seen previous episodes in order to understand the story line/content, e.g. Cadfael. Midsomer Murders, World in Action.. BFI SIFT Inputting Manual.], and have their own individual title, the individual episode title may be used as the preferred title for the Work or Variant, or the title proper for the Manifestation and Item.
 However, the series/serial title should also be indicated.
 
-The series/serial title may be indicated within (i) the title field itself, or (ii) reflected in a linked hierarchical relationship with an individual Serial Work level record, i.e. a Work assigned the Description Type “Serial^[See Appendix [D.1 Work/Variant Description Types](#manual-D.1) for EN 15907/BFI definitions of Serial as Description Type.]; or (iii) added as a Title Type; or (iv) a combination.
+The series/serial title may be indicated within (i) the title field itself, or (ii) reflected in a linked hierarchical relationship with an individual Serial Work level record, i.e. a Work assigned the Description Type “Serial^[See Appendix [D.1 Work/Variant Description Types]\nameref{sec:work_variant_description_types} for EN 15907/BFI definitions of Serial as Description Type.]; or (iii) added as a Title Type; or (iv) a combination.
 Individual institutions should select which is most appropriate for their own systems and for clarity of identification and retrieval.
 
 Example:
@@ -1266,7 +1266,7 @@ Square brackets may be used within titles for encasing necessary extra qualifyin
 
 Where only an analytic/component of a copy pertaining to a whole Work has been acquired as an Item, and the Serial Work to which it belongs is unable to be identified (i.e., the Item acquired is clearly a section of newsreel but the newsreel series has not been identified), then the title assigned to that Item should also be used to create the title for the Manifestation and Work records, which will then be related to each other hierarchically.
 
-The Item title is assigned in accordance with [3.1.2 Title](#manual-3.1.2) and [A.2.5 Supplied/Devised Titles](#manual-A.2.5).
+The Item title is assigned in accordance with [3.1.2 Title]\nameref{sec:item_title} and [A.2.5 Supplied/Devised Titles]\nameref{sec:supplied_devised_titles}.
 
 The following paragraphs relate to Archive systems that are using the CEN structure:
 
@@ -1281,7 +1281,7 @@ Should the whole Work of which the Item is a part subsequently be identified, th
 
 Similar principles apply to any unidentified and incomplete segments or fragments of films or television programmes that have been acquired.
 
-For example, a reel of a silent fiction film with no title given on either the print or can, or any indication of what it is, other than it is clearly part of a longer film, should be assigned a relevant Item title in accordance with the guidelines in [A.2.5 Supplied/Devised Titles](#manual-A.2.5), for example:
+For example, a reel of a silent fiction film with no title given on either the print or can, or any indication of what it is, other than it is clearly part of a longer film, should be assigned a relevant Item title in accordance with the guidelines in [A.2.5 Supplied/Devised Titles]\nameref{sec:supplied_devised_titles}, for example:
 
 Example:
 
@@ -1291,7 +1291,7 @@ Unidentified silent film segment
 \end{tcolorbox}
 ```
 
-or where possible following the who/what/where/when ordering principles in creating a devised title.^[See [A.2.5 Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](#manual-A.2.5) and examples of titling]
+or where possible following the who/what/where/when ordering principles in creating a devised title.^[See [A.2.5 Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)]\nameref{sec:supplied_devised_titles} and examples of titling]
 
 Example:
 
@@ -1326,7 +1326,7 @@ There are instances where the title from a Manifestation/Item may not be inherit
 Such is the case when a Manifestation/Item contains a probable or questionable title.
 
 If the Manifestation/item contains a probable or questionable title, this title may be included as a component in constructing the supplied/devised title, or it may be used alone as the supplied/devised title for the Work.
-(See [A.2.5 Supplied/Devised Titles](#manual-A.2.5)).
+(See [A.2.5 Supplied/Devised Titles]\nameref{sec:supplied_devised_titles}).
 The probability or questionable nature of the title, and its source, should be made clear in a note.
 
 For example, an Item may have a probable or questionable title but the title is not the preferred title for the Work and the preferred title for the Work cannot be discovered.
@@ -1375,7 +1375,7 @@ For purposes of discoverability, accessibility, and standardisation, it is recom
 The Work can take the title of the Item, Manifestation or Variant, until such time as further research or identification assists in establishing the preferred title for the Work.
 The crucial factor is coupling the title with a descriptive identifier denoting that it is “supplied” or “devised,” whether within the title itself or via a juxtaposed field such as “Title Type.” If there is no Title Type field than a Notes or other field could be utilised.
 
-Examples of partially and fully supplied titles for a variety of scenarios can be found in the “form terms” list provided in [D.18 List of form terms for Supplied/Devised titles](#manual-D.18).
+Examples of partially and fully supplied titles for a variety of scenarios can be found in the “form terms” list provided in [D.18 List of form terms for Supplied/Devised titles]\nameref{sec:list_of_form_terms_for_supplied_devised_titles}.
 
 \subsection[Titling of Aggregates]{Titling of Aggregates 
     \footnote {Based on AMIM2, 1F2.1.} 
