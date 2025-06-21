@@ -627,7 +627,7 @@ Providing this information helps the cataloguer and user understand the context 
 For example, a television series could be catalogued as a Serial, which implies that there could be related Works (episodes) catalogued as Monographs.
 
 Record the level of description of the work being catalogued, for example, “analytic,” “ monographic,” “serial,” etc., according to a controlled vocabulary.
-The terms used in this Manual are derived from traditional bibliographic cataloguing rules and from EN 15907 (and are defined in Appendix D.1), but an institution may choose to create its own list of terms. See [D.1 Work/Variant Description Types]\nameref{sec:work_variant_description_types}.
+The terms used in this Manual are derived from traditional bibliographic cataloguing rules and from EN 15907 (and are defined in Appendix D.1), but an institution may choose to create its own list of terms. See \nameref{sec:work_variant_description_types}.
 
 
 \subsubsection[Variant Type]{Variant Type 
@@ -637,7 +637,7 @@ The terms used in this Manual are derived from traditional bibliographic catalog
 
 Identify and describe the kind of change from a Work that gives rise to any instance(s) of a Variant.
 Selection should be made from a controlled list of values.
-Examples: Censored; Dubbed; Subtitled; Edited for TV. See [D.2 Variant Type]\nameref{sec:appendix_variant_type}.
+Examples: Censored; Dubbed; Subtitled; Edited for TV. See \nameref{sec:appendix_variant_type}.
 
 
 \subsection[Elements of a Work/Variant]{Elements of a Work/Variant 
@@ -734,16 +734,16 @@ Identifier type: ISAN
     } 
 
 Record at least one title, identifying phrase, or name for the moving image Work or Variant.
-If your institution is applying the use of “Type” qualifiers, use “Title Type” to state the function of a particular title (see [1.3.2.1 Title Type]\nameref{sec:work_title_type} and [Appendix A, Titles and Title Types](#manual-A)).
+If your institution is applying the use of “Type” qualifiers, use “Title Type” to state the function of a particular title (see \nameref{sec:work_title_type} and [Appendix A, Titles and Title Types](#manual-A)).
 
 Ideally, the record should at a minimum contain the “preferred title” (also referred to as “main” or “original” title) of the Work or Variant.
 Generally, it is the title of a moving image Work or Variant when first released, broadcast, published or transmitted (i.e. mounted online) in the country or countries of origin.
-It may differ from the title found on a particular manifestation of the Work or Variant; the actual title on the Manifestation is noted in the Manifestation Title element (see [2.3.2 Title]\nameref{sec:manifest_title}).
-See [A.2.0 Preferred]\nameref{sec:title_types} for additional information.
+It may differ from the title found on a particular manifestation of the Work or Variant; the actual title on the Manifestation is noted in the Manifestation Title element (see \nameref{sec:manifest_title}).
+See \nameref{sec:title_types} for additional information.
 
-For creating titles for untitled or unidentified entities see [A.2.5 Supplied/Devised Titles]\nameref{sec:supplied_devised_titles}.Television programmes and other types of content that are part of a series/serial should have both the series/serial title and the episode title included in the Work record.
+For creating titles for untitled or unidentified entities see \nameref{sec:supplied_devised_titles}.Television programmes and other types of content that are part of a series/serial should have both the series/serial title and the episode title included in the Work record.
 This may be via use of a “Title type” qualifier.
-See [A.2.6 Titles of series/serials]\nameref{sec:titles_of_series_serials} for other options
+See \nameref{sec:titles_of_series_serials} for other options
 
 Examples:
 
@@ -793,11 +793,11 @@ Chuckles bites the dust – Preferred title
 
 See [Appendix A.1 Title](#manual-A.1) for fuller titling details and information.
 
-See [Appendix E.4]\nameref{sec:titling_of_aggregates} for titling of Aggregates (e.g., compilations).
+See \nameref{sec:titling_of_aggregates} for titling of Aggregates (e.g., compilations).
 
-For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see [Chapter 0. Preliminary Notes]\nameref{sec:purpose}.
+For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see \nameref{sec:purpose}.
 
-For sources of information for the Title, see [0.3 Sources of Information]\nameref{sec:prelim_sources_of_information}
+For sources of information for the Title, see \nameref{sec:prelim_sources_of_information}
 
 \paragraph[Title Type]{Title Type
     \label{sec:work_title_type}
@@ -859,7 +859,7 @@ Where full dates are not known use Year-Month YYYY-MM or just Year YYYY, as syst
     \label{sec:date_type}
     } \
 
-The year or date should be associated with an event in the life cycle of the Work or its Variants (see [1.4.2 Events]\nameref{sec:work_events}).
+The year or date should be associated with an event in the life cycle of the Work or its Variants (see \nameref{sec:work_events}).
 If your system supports it, apply a “Date Type” qualifier to make the date or year purpose clear.
 Date Type terms should be derived from a controlled vocabulary.
 For a list of initial terms, see [Appendix D.4 Event Types](#manual-D.4).
@@ -1048,7 +1048,7 @@ Changes to the original language(s), as in the case of dubbing, are considered m
 
 Alternatively, such minor changes can constitute a new Manifestation of a moving image Work rather than a Variant.
 Institutions using cataloguing structures that do not distinguish Variant level information (for example, those that create records primarily at the Manifestation level), should apply this alternative.
-(See guidelines for language in a Manifestation: [2.3.3 Language]\nameref{sec:manifest_language})
+(See guidelines for language in a Manifestation: \nameref{sec:manifest_language})
 
 Indicate the language(s) (e.g., Italian) and usage(s) (e.g., Italian intertitles) in which the moving image Variant/Manifestation is written, spoken or sung, if applicable.
 More than one language can occur in different forms, depending on how the content is expressed (e.g., French dialogue and English subtitles).
@@ -1069,9 +1069,9 @@ If no language can be determined, the information can be omitted or indicated by
     \label{sec:work_usage_type}
     } \
 
-Record the usage type of a language (e.g. spoken, intertitles, subtitles, etc.) by taking the most suitable term from a controlled list elaborated in-house or referring to an existing authoritative list. See [D.6 Language Usage Types]\nameref{sec:language_usage_types}.
+Record the usage type of a language (e.g. spoken, intertitles, subtitles, etc.) by taking the most suitable term from a controlled list elaborated in-house or referring to an existing authoritative list. See \nameref{sec:language_usage_types}.
 
-Optionally, record language usage type at the Manifestation/Item level (see [2.3.3 Language]\nameref{sec:manifest_language}).
+Optionally, record language usage type at the Manifestation/Item level (see \nameref{sec:manifest_language}).
 A value of “original” can be added to the Language element here to indicate that statements made about the language(s) for a particular Manifestation/Item are indicative of the language(s) of the “original” Work. ^[The indication of “original” values at the Manifestation level follows EN 15907 attributes of a Manifestation, pp. 10-11]
 
 \subsubsection[Content description (synopses, shotlists, etc)]{Content description (synopses, shotlists, etc) 
@@ -1311,7 +1311,7 @@ Provide access to Agents when they have made an important contribution to the pa
 
 Agents may be described in two ways: as discrete index points, and/or merged into one field where the credits are listed in order of role importance or as transcribed from the Work.
 
-Optionally, record multiple instances of Agent, e.g., cast and credits, associated with aggregated Works/Variants (See [E.6 Credits (i.e. Agents) for Aggregates]\nameref{sec:credits_agents_for_aggregates}).
+Optionally, record multiple instances of Agent, e.g., cast and credits, associated with aggregated Works/Variants (See \nameref{sec:credits_agents_for_aggregates}).
 
 For recording the attributes of Agents (e.g. first name, last name, nationality, etc.), refer to authoritative sources such as AACR2, applicable RDA chapters for recording attributes of Persons, Families, and Corporate Bodies or tools such as the Virtual International Authority File (VIAF) (viaf.org), Library of Congress Name Authority File (authorities.loc.gov), Library of Congress Linked Data Service (id.loc.gov), Getty Union List of Artists Names (ULAN), International Standard Name Identifier (ISNI).
 
@@ -1623,7 +1623,7 @@ In a note, add any additional information concerning the relationship considered
 
 Describe or demonstrate Work-to-Work relationships through linking to the Work identifier of the related Work, through the usage of relator terms, or according to the confines of the institution’s data structure.
 
-Remember, a Work based on a pre-existing Work should be identified as a Variant of the same Work unless it has been so significantly changed as to have become a new related Work.^[YCR, 1.1.7 Works based on previous works, pp. 24-25.] See [1.1.1 Boundaries between Works]\nameref{sec:boundaries_between_works} and [1.1.2 Boundaries between Works and Variants/Manifestations](#manual-1.1.2) for determining when a Work should be identified as a new, but related Work and when it should be identified as a Variant of the original Work.
+Remember, a Work based on a pre-existing Work should be identified as a Variant of the same Work unless it has been so significantly changed as to have become a new related Work.^[YCR, 1.1.7 Works based on previous works, pp. 24-25.] See \nameref{sec:boundaries_between_works} and [1.1.2 Boundaries between Works and Variants/Manifestations](#manual-1.1.2) for determining when a Work should be identified as a new, but related Work and when it should be identified as a Variant of the original Work.
 
 \subsubsection[Variants]{Variants  
     \label{sec:variants}

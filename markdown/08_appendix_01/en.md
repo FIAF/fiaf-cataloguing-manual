@@ -187,9 +187,9 @@ The underlying philosophy is to associate as many titles to the respective entit
 The different titles types have been combined in a single section to aid in real-world cataloguing, where one may have an item-in-hand but be making assessments about the title of the Work or Variant associated with the Item, as well as physical characteristics that are particular to the Item but which do not signal a change in the content itself.
 This is often the case for archival moving images where titles can be readily changed, misidentified by a well-meaning collector, or completely eliminated before the material reaches an institution.^[FIAF Cataloguing Rules, p. xiii]
 
-For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see [Chapter 0. Preliminary Notes]\nameref{sec:purpose}.
+For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see \nameref{sec:purpose}.
 
-For sources of information for the Title, see [0.3 Sources of Information]\nameref{sec:prelim_sources_of_information}.
+For sources of information for the Title, see \nameref{sec:prelim_sources_of_information}.
 
 Primary Title Types ^[For simplicity’s sake, this table does not present sub-types of Title Types, i.e., sub-types of Alternative and Supplied/Devised titles. Suggested sub-types and definitions can be found under the headings for the primary Title Types.]
 
@@ -206,11 +206,11 @@ Primary Title Types ^[For simplicity’s sake, this table does not present sub-t
     \label{sec:preferred}
     } 
 
-The title of a moving image Work or Variant when first released, broadcast, published or transmitted (i.e. mounted online) in the country or countries of origin ( see [1.3.3 Country of reference]\nameref{sec:country_of_reference}.
+The title of a moving image Work or Variant when first released, broadcast, published or transmitted (i.e. mounted online) in the country or countries of origin ( see \nameref{sec:country_of_reference}.
 
 The preferred title is the chief name (also referred to as “main” or “original” title) of any moving image Work or Variant.
 The preferred title may include part title and series/serial information for moving image materials issued in multiple parts, e.g., episodes in a film or TV serial.
-See [A.2.7 Moving images with probable or questionable titles]\nameref{sec:moving_images_with_probable_or_questionable_titles}.
+See \nameref{sec:moving_images_with_probable_or_questionable_titles}.
 
 In cases where the preferred Work/Variant title cannot be determined but there is a title on the Manifestation/Item, the title on the Manifestation/Item being catalogued may be used as the preferred title for the Work or Variant.
 
@@ -467,7 +467,7 @@ Chuckles bites the dust = Preferred Title
 \end{tcolorbox}
 ```
 
-  (see [1.3.2 Title]\nameref{sec:work_title})
+  (see \nameref{sec:work_title})
 
 - Parallel title : the title in another language or script.
 
@@ -680,7 +680,7 @@ Unidentified episode).
 Unedited footage from a known, named television programme (e.g.
 a compilation of outtakes from 60 Minutes) is another case where a Work may have a partially supplied/devised title.
 
-Institutions should rely upon in-house lists of standardised form terms to be used as additions to/indexed as an attribute of such related titles, or utilise established standardised lists such as Library of Congress Genre/Form Terms for Library and Archival Materials (LCGFT), or rely upon the “form terms” list provided in [D.18 List of form terms for Supplied/Devised titles]\nameref{sec:list_of_form_terms_for_supplied_devised_titles}.
+Institutions should rely upon in-house lists of standardised form terms to be used as additions to/indexed as an attribute of such related titles, or utilise established standardised lists such as Library of Congress Genre/Form Terms for Library and Archival Materials (LCGFT), or rely upon the “form terms” list provided in \nameref{sec:list_of_form_terms_for_supplied_devised_titles}.
 
 **General guidelines for Partially Supplied/Devised titles**^[This section, including form terms and examples, is based on or taken from FIAF 1.4.3 Additions to titles;Yee/UCLA 5.1.2; AMIM2 1F1.1]
 
@@ -860,7 +860,7 @@ Where ascertainable, when the content being described consists of one specific f
 
 Optionally (or additionally), establish a link with the form index adopted by the archive.
 
-Institutions should rely upon in-house lists of standardised form terms, or utilise established standardised lists such as Library of Congress Genre/Form Terms for Library and Archival Materials (LCGFT), or rely upon the list provided in [D.18 List of form terms for Supplied/Devised titles]\nameref{sec:list_of_form_terms_for_supplied_devised_titles}.
+Institutions should rely upon in-house lists of standardised form terms, or utilise established standardised lists such as Library of Congress Genre/Form Terms for Library and Archival Materials (LCGFT), or rely upon the list provided in \nameref{sec:list_of_form_terms_for_supplied_devised_titles}.
 
 Examples:
 
@@ -1266,7 +1266,7 @@ Square brackets may be used within titles for encasing necessary extra qualifyin
 
 Where only an analytic/component of a copy pertaining to a whole Work has been acquired as an Item, and the Serial Work to which it belongs is unable to be identified (i.e., the Item acquired is clearly a section of newsreel but the newsreel series has not been identified), then the title assigned to that Item should also be used to create the title for the Manifestation and Work records, which will then be related to each other hierarchically.
 
-The Item title is assigned in accordance with [3.1.2 Title]\nameref{sec:item_title} and [A.2.5 Supplied/Devised Titles]\nameref{sec:supplied_devised_titles}.
+The Item title is assigned in accordance with \nameref{sec:item_title} and \nameref{sec:supplied_devised_titles}.
 
 The following paragraphs relate to Archive systems that are using the CEN structure:
 
