@@ -115,7 +115,7 @@ Aggregate compilation videos/DVDs that are collections of individual works exist
 
 - Portrait of a miner would be created as the work title, with the description level of Collection.
 
-- Each of the Mining review Works used in Portrait of a miner would then be linked to it and assigned a “contained in” relationship (see [Appendix E.5 Modelling Aggregates]\nameref{sec:modelling_aggregates}).
+- Each of the Mining review Works used in Portrait of a miner would then be linked to it and assigned a “contained in” relationship (see \nameref{sec:modelling_aggregates}).
 
 Provide a list of the compiled works contained in the Collections Work in its Synopsis or Summary field.
 
@@ -157,15 +157,15 @@ See [FIAF Glossary of Filmographic Terms](http://www.fiafnet.org/pages/E-Resourc
 
 | Work | Variant | Manifestation | Item |
 | --- | --- | --- | --- |
-| [Publication]\nameref{sec:publication} | [Publication]\nameref{sec:publication} | [Publication]\nameref{sec:publication} | |
-| [Award(s) or Nomination(s)]\nameref{sec:awards_or_nominations} | [Award(s) or Nomination(s)]\nameref{sec:awards_or_nominations} | [Award(s) or Nomination(s)]\nameref{sec:awards_or_nominations} | |
-| [Production]\nameref{sec:production} | [Production]\nameref{sec:production} | | |
-| [Rights/Copyright/IPR Registration]\nameref{sec:values_rights_copyright_ipr_registration} | [Rights/Copyright/IPR Registration]\nameref{sec:values_rights_copyright_ipr_registration} | Licensing | Licensing |
-| | [Preservation]\nameref{sec:preservation} | [Preservation]\nameref{sec:preservation} | [Preservation]\nameref{sec:preservation} | 
-| | [Decision]\nameref{sec:decision} | [Decision]\nameref{sec:decision} | | 
-| | | [Manufacture]\nameref{sec:manufacture} | | 
-| | | | [Inspection]\nameref{sec:inspection} | 
-| | | | [Acquisition]\nameref{sec:acquisition} | 
+| \nameref{sec:publication} | \nameref{sec:publication} | \nameref{sec:publication} | |
+| \nameref{sec:awards_or_nominations} | \nameref{sec:awards_or_nominations} | \nameref{sec:awards_or_nominations} | |
+| \nameref{sec:production} | \nameref{sec:production} | | |
+| \nameref{sec:values_rights_copyright_ipr_registration} | \nameref{sec:values_rights_copyright_ipr_registration} | Licensing | Licensing |
+| | \nameref{sec:preservation} | \nameref{sec:preservation} | \nameref{sec:preservation} | 
+| | \nameref{sec:decision} | \nameref{sec:decision} | | 
+| | | \nameref{sec:manufacture} | | 
+| | | | \nameref{sec:inspection} | 
+| | | | \nameref{sec:acquisition} | 
 
 
 \subsubsection[Publication]{Publication  
@@ -176,7 +176,7 @@ For Works/Variants, a Publication Event corresponds to the first verified releas
 
 For Manifestations, a Publication Event corresponds to a screening, broadcast or the release of the Manifestation of a Work/Variant on a physical distribution medium or online.
 
-A Publication Event may be associated with instances of Agent in the role of e.g., publisher, distributor, broadcaster^[Some institutions specifically dealing with TV material may wish to use an actual “TV Transmission Manifestation” for this data.], etc. See [D.8 Manifestation Agent Types]\nameref{sec:distributor_theatrical} and [D.3 Work/Variant Agent Types](#manual-D.3).
+A Publication Event may be associated with instances of Agent in the role of e.g., publisher, distributor, broadcaster^[Some institutions specifically dealing with TV material may wish to use an actual “TV Transmission Manifestation” for this data.], etc. See \nameref{sec:distributor_theatrical} and [D.3 Work/Variant Agent Types](#manual-D.3).
 
 A Publication Event may be associated with instances of “Other” relationship(s) (e.g., promotional material of the theatrical distribution, the advertising of the home video publication, etc.).
 
@@ -192,10 +192,10 @@ Publication Event information consists of the following sub-elements:
 
 For Works/Variants, record the type of Publication Event for Works/Variants, for example, publication, release, distribution, broadcast, online transmission.
 Selection should be made from a controlled list of values.
-See [D.10 Manifestation Publication Types]\nameref{sec:manifestation_publication_types}.
+See \nameref{sec:manifestation_publication_types}.
 
 Record the Publication type for Manifestations, for example, “pre-release,” “theatrical distribution,” etc. Selection should be made from a controlled list of terms.
-See [D.10 Manifestation Publication Types]\nameref{sec:manifestation_publication_types}.
+See \nameref{sec:manifestation_publication_types}.
 
 For Manifestations, the Publication Event that originated the embodiment of a specific Work/Variant in a Manifestation, corresponds to criteria individuated to distinguish the boundaries between Manifestations.
 For this reason, conceptually, and also in practice, “publication type” overlaps the main definition of “Manifestation type,” as explained in [2.1 Boundaries between Manifestations](#manual-2.1) and, as such, is already described.
@@ -227,7 +227,7 @@ The bestowal of an award relating to the Work/Variant or Manifestation.
 This excludes awards for Agents alone (e.g. “for lifetime achievement”), but includes awards for individual achievements within the context of a Work or Variant (e.g. “Best screenplay”).
 Awards will usually be associated at the level of the Work, except for cases where features of a particular Variant are explicitly mentioned (e.g. “Best audio commentary for the visually impaired”) or the award relates to a particular Manifestation (such as a DVD edition).
 
-An Award(s) or Nomination(s) Event may be associated with instances of Agent in the role of e.g. publisher, distributor, broadcaster^[Some institutions specifically dealing with TV material may wish to use an actual “TV Transmission Manifestation” for this data.], etc. See [D.8 Manifestation Agent Types]\nameref{sec:distributor_theatrical} and [D.3 Work/Variant Agent Types](#manual-D.3).
+An Award(s) or Nomination(s) Event may be associated with instances of Agent in the role of e.g. publisher, distributor, broadcaster^[Some institutions specifically dealing with TV material may wish to use an actual “TV Transmission Manifestation” for this data.], etc. See \nameref{sec:distributor_theatrical} and [D.3 Work/Variant Agent Types](#manual-D.3).
 If the award was given for the achievement of a specific Agent within the context of the Work/Variant or Manifestation, identify the Agent. Also used to identify Agents that have sponsored the award.
 
 An Award(s) or Nomination(s) Event may be associated with instances of other Events during which award winners were selected (e.g. film festival).
@@ -269,7 +269,7 @@ Examples are dates and locations where castings took place; dates and locations 
 
 May include year/date of shooting of non-professional, actuality or unedited footage.
 
-A Production Event may be associated with instances of Agent in the role of e.g. production company, location scout, etc. Selection should be made from a controlled list of values. See [D.8 Manifestation Agent Types]\nameref{sec:distributor_theatrical} and [D.3 Work/Variant Agent Types](#manual-D.3).
+A Production Event may be associated with instances of Agent in the role of e.g. production company, location scout, etc. Selection should be made from a controlled list of values. See \nameref{sec:distributor_theatrical} and [D.3 Work/Variant Agent Types](#manual-D.3).
 
 Record all the existing relationships of a Production Event, if the information is known and considered of relevance.
 
@@ -283,7 +283,7 @@ Production Event information consists of the following sub-elements:
 
 - Production Event type
 
-Selection should be made from a controlled list of values. See [D.11 Production Event Types]\nameref{sec:production_event_types}.
+Selection should be made from a controlled list of values. See \nameref{sec:production_event_types}.
 
 - Location
 
@@ -355,7 +355,7 @@ This includes statements about past or future treatments scheduled for the item.
 Selection should be made from a controlled list of values.
 
 A Preservation Event has as typical Agent(s) the institution(s) or individual professionals that make preservation decisions.
-Selection should be made from a controlled list of values. See [D.8 Manifestation Agent Types]\nameref{sec:distributor_theatrical} and [D.3 Work/Variant Agent Types](#manual-D.3).
+Selection should be made from a controlled list of values. See \nameref{sec:distributor_theatrical} and [D.3 Work/Variant Agent Types](#manual-D.3).
 
 A Preservation Event can be in relationship with instances of “Other” relationships (such as technical reports, documentation material, promotional material for the specific project, etc.).
 
@@ -368,7 +368,7 @@ Preservation Event information consists of the following sub-elements:
 
 - Preservation type
 
-Record the general type of the preservation activity performed, for example, duplication, transfer, etc. Selection should be made from a controlled list of terms. See [D.12 Manifestation Preservation Types]\nameref{sec:manifestation_preservation_types}.
+Record the general type of the preservation activity performed, for example, duplication, transfer, etc. Selection should be made from a controlled list of terms. See \nameref{sec:manifestation_preservation_types}.
 
 - Preservation Date
 
@@ -453,7 +453,7 @@ Manufacture event information consists of the following sub-elements:
 
 - Manufacture type
 
-Record the general type of the manufacture activity performed, for example, film printing, tele-cine, video copying, etc. Selection should be made from a controlled list of terms. See [D.14 Manifestation Manufacture Types]\nameref{sec:manifestation_manufacture_types}.
+Record the general type of the manufacture activity performed, for example, film printing, tele-cine, video copying, etc. Selection should be made from a controlled list of terms. See \nameref{sec:manifestation_manufacture_types}.
 
 - Date of Manufacture
 
@@ -498,7 +498,7 @@ The date or time span in which the inspection activity was performed. (Dates sho
 
 Information describing the condition of the Item in greater detail.
 
-If desired and if applicable, record information about the condition of the Item, including nature and extent of damage. Selection should be made from a controlled list of terms. (See [D.16 Manifestation/Item Condition, Preservation and Restoration.]\nameref{sec:item_copy_condition_base_emulsion_film_and_video})
+If desired and if applicable, record information about the condition of the Item, including nature and extent of damage. Selection should be made from a controlled list of terms. (See \nameref{sec:item_copy_condition_base_emulsion_film_and_video})
 
 \subsubsection[Acquisition]{Acquisition 
     \label{sec:acquisition}
@@ -522,7 +522,7 @@ An Acquisition Event information consists of the following sub-elements:
 
 - Acquisition type
 
-Describes the means by which the Item was acquired, for example, donation, exchange, loan, etc. Select from a controlled list of terms. See, [D.15 Manifestation/Item Acquisition, Accessioning and Source]\nameref{sec:item_acquisition_type}.
+Describes the means by which the Item was acquired, for example, donation, exchange, loan, etc. Select from a controlled list of terms. See, \nameref{sec:item_acquisition_type}.
 
 - Acquisition date
 
@@ -530,7 +530,7 @@ The date on which the Item was physically acquired. This date is distinct from a
 
 - Acquisition source
 
-The name of the person or organisation from which the Item was obtained, indicating whether the acquisition was direct from, for example, the donor or via an intermediary or agent. Select from a controlled list of terms. See [D.15 Manifestation/Item Acquisition, Accessioning and Source]\nameref{sec:item_acquisition_type}.
+The name of the person or organisation from which the Item was obtained, indicating whether the acquisition was direct from, for example, the donor or via an intermediary or agent. Select from a controlled list of terms. See \nameref{sec:item_acquisition_type}.
 
 - Accession date
 
