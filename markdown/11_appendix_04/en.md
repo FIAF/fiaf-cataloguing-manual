@@ -176,7 +176,7 @@ For Works/Variants, a Publication Event corresponds to the first verified releas
 
 For Manifestations, a Publication Event corresponds to a screening, broadcast or the release of the Manifestation of a Work/Variant on a physical distribution medium or online.
 
-A Publication Event may be associated with instances of Agent in the role of e.g., publisher, distributor, broadcaster^[Some institutions specifically dealing with TV material may wish to use an actual “TV Transmission Manifestation” for this data.], etc. See \nameref{sec:distributor_theatrical} and [D.3 Work/Variant Agent Types]\nameref{sec:work_variant_agent_types}.
+A Publication Event may be associated with instances of Agent in the role of e.g., publisher, distributor, broadcaster^[Some institutions specifically dealing with TV material may wish to use an actual “TV Transmission Manifestation” for this data.], etc. See \nameref{sec:distributor_theatrical} and \nameref{sec:work_variant_agent_types}.
 
 A Publication Event may be associated with instances of “Other” relationship(s) (e.g., promotional material of the theatrical distribution, the advertising of the home video publication, etc.).
 
@@ -198,7 +198,7 @@ Record the Publication type for Manifestations, for example, “pre-release,” 
 See \nameref{sec:manifestation_publication_types}.
 
 For Manifestations, the Publication Event that originated the embodiment of a specific Work/Variant in a Manifestation, corresponds to criteria individuated to distinguish the boundaries between Manifestations.
-For this reason, conceptually, and also in practice, “publication type” overlaps the main definition of “Manifestation type,” as explained in [2.1 Boundaries between Manifestations]\nameref{sec:boundaries_between_manifestations} and, as such, is already described.
+For this reason, conceptually, and also in practice, “publication type” overlaps the main definition of “Manifestation type,” as explained in \nameref{sec:boundaries_between_manifestations} and, as such, is already described.
 Institutions have the option to decide whether to repeat this information or not.
 
 - Publication date
@@ -227,7 +227,7 @@ The bestowal of an award relating to the Work/Variant or Manifestation.
 This excludes awards for Agents alone (e.g. “for lifetime achievement”), but includes awards for individual achievements within the context of a Work or Variant (e.g. “Best screenplay”).
 Awards will usually be associated at the level of the Work, except for cases where features of a particular Variant are explicitly mentioned (e.g. “Best audio commentary for the visually impaired”) or the award relates to a particular Manifestation (such as a DVD edition).
 
-An Award(s) or Nomination(s) Event may be associated with instances of Agent in the role of e.g. publisher, distributor, broadcaster^[Some institutions specifically dealing with TV material may wish to use an actual “TV Transmission Manifestation” for this data.], etc. See \nameref{sec:distributor_theatrical} and [D.3 Work/Variant Agent Types]\nameref{sec:work_variant_agent_types}.
+An Award(s) or Nomination(s) Event may be associated with instances of Agent in the role of e.g. publisher, distributor, broadcaster^[Some institutions specifically dealing with TV material may wish to use an actual “TV Transmission Manifestation” for this data.], etc. See \nameref{sec:distributor_theatrical} and \nameref{sec:work_variant_agent_types}.
 If the award was given for the achievement of a specific Agent within the context of the Work/Variant or Manifestation, identify the Agent. Also used to identify Agents that have sponsored the award.
 
 An Award(s) or Nomination(s) Event may be associated with instances of other Events during which award winners were selected (e.g. film festival).
@@ -269,7 +269,7 @@ Examples are dates and locations where castings took place; dates and locations 
 
 May include year/date of shooting of non-professional, actuality or unedited footage.
 
-A Production Event may be associated with instances of Agent in the role of e.g. production company, location scout, etc. Selection should be made from a controlled list of values. See \nameref{sec:distributor_theatrical} and [D.3 Work/Variant Agent Types]\nameref{sec:work_variant_agent_types}.
+A Production Event may be associated with instances of Agent in the role of e.g. production company, location scout, etc. Selection should be made from a controlled list of values. See \nameref{sec:distributor_theatrical} and \nameref{sec:work_variant_agent_types}.
 
 Record all the existing relationships of a Production Event, if the information is known and considered of relevance.
 
@@ -307,7 +307,7 @@ Any further information about the event either in plain textual form, or as an i
     } 
 
 These are optional, and it is for an institution to choose whether it has the resources or requirement to compile rights data.
-Further more detailed information on the subject of rights/copyright/IPR registration can be found in [Appendix H, Rights/Copyright/IPR Registration]\nameref{sec:appendix_rights_copyright_ipr_registration}.
+Further more detailed information on the subject of rights/copyright/IPR registration can be found in \nameref{sec:appendix_rights_copyright_ipr_registration}.
 
 A Copyright/IPR Registration Event is the act of registering copyright or intellectual property rights for a Work or Variant with an accredited agency.
 
@@ -355,7 +355,7 @@ This includes statements about past or future treatments scheduled for the item.
 Selection should be made from a controlled list of values.
 
 A Preservation Event has as typical Agent(s) the institution(s) or individual professionals that make preservation decisions.
-Selection should be made from a controlled list of values. See \nameref{sec:distributor_theatrical} and [D.3 Work/Variant Agent Types]\nameref{sec:work_variant_agent_types}.
+Selection should be made from a controlled list of values. See \nameref{sec:distributor_theatrical} and \nameref{sec:work_variant_agent_types}.
 
 A Preservation Event can be in relationship with instances of “Other” relationships (such as technical reports, documentation material, promotional material for the specific project, etc.).
 
@@ -413,7 +413,7 @@ Record the type or status of the decision event.
 Usually the term adopted is “censorship” or “revision” for decisions mandated by law, “rating” for decisions under a voluntary scheme.
 Further types may include special forms of evaluation, e.g. for tax privileges, as long as these are distinct from awards.
 
-Selection should be made from a controlled list of terms. See [D.13 Manifestation Decision Types]\nameref{sec:manifestation_decision_types}.
+Selection should be made from a controlled list of terms. See \nameref{sec:manifestation_decision_types}.
 
 - Decision date
 
@@ -838,7 +838,7 @@ A day in the life. Four portraits of post-war Britain (UK, DVD/Blu-ray, 2010)
 
 The most used formats are VHS, DVD, and Laserdisc, but this definition can also include 9.5mm Pathé Baby or 8mm packages in use from the 1950s-1980s (e.g.. the 1977 Star Wars home video in 8mm).
 
-NOTE: When the production process involves changes related to the publication, marketing, etc. (e.g., a change in publisher, a repackaging, a new distributor and so on), the resulting product may be considered a new Manifestation as well (see [2.1 Boundaries between Manifestations]\nameref{sec:boundaries_between_manifestations}).
+NOTE: When the production process involves changes related to the publication, marketing, etc. (e.g., a change in publisher, a repackaging, a new distributor and so on), the resulting product may be considered a new Manifestation as well (see \nameref{sec:boundaries_between_manifestations}).
 
 Example ^[http://the-numbers.com/movies/2006/QUEEN.php/]:
 
@@ -953,7 +953,7 @@ Manifestation 2: Internet: Arabic, English, French (spoken language); English su
     } 
 
 Refers to manifestations which represent the outcome(s) of restoration events/activities, usually involving selection and aggregation of materials from diverse source elements to replicate an ‘original’ or ‘ideal’ manifestation.
-Some institutions may use this to refer to restorations undertaken by the institution (not to be confused with the Variant, resulting from reconstruction made by aggregating different sources, see [1.1.2 Boundaries between Works and Variants/Manifestations]\nameref{sec:boundaries_between_works_and_variants}.
+Some institutions may use this to refer to restorations undertaken by the institution (not to be confused with the Variant, resulting from reconstruction made by aggregating different sources, see \nameref{sec:boundaries_between_works_and_variants}.
 
 Example ^[http://www.silentera.com/video/metropolisHV.html] ^[http://www.murnau-stiftung.de/movie/674 and http://www.schnittberichte.com/news.php?ID=7433]:
 
@@ -1596,9 +1596,9 @@ Description of the level of any shrinkage that has occurred to the Item, ideally
 | --- | --- |
 | “Is based on” | Adaptation from novels, plays, etc. |
 | “Is a performance of” | Recording of live stage presentations of music, plays, dance, etc. |
-| “Contains” | Compilation, series/serial, (see [Appendix E, Aggregates]\nameref{sec:aggregates_compilations_multi_component_productions}). |
-| “Is Contained in”/ “is part of” | Episode, number, part, extra (see [Appendix E, Aggregates]\nameref{sec:aggregates_compilations_multi_component_productions}). |
-| “Has a sequential relationship with” | Sequel, prequel, serial/series (see [Appendix E, Aggregates]\nameref{sec:aggregates_compilations_multi_component_productions}). |
+| “Contains” | Compilation, series/serial, (see \nameref{sec:aggregates_compilations_multi_component_productions}). |
+| “Is Contained in”/ “is part of” | Episode, number, part, extra (see \nameref{sec:aggregates_compilations_multi_component_productions}). |
+| “Has a sequential relationship with” | Sequel, prequel, serial/series (see \nameref{sec:aggregates_compilations_multi_component_productions}). |
 | “Has a relationship to promotional material ” | Trailer, promo, banner, press-kit, poster, etc. |
 | “Has a relationship to an “object” (a non-moving image resource)” | Book, photos, drawings, paintings, etc. |
 | “Has a relationship to an archival document” |Script, production papers, author/agent personal papers, etc. |
@@ -1624,8 +1624,8 @@ Description of the level of any shrinkage that has occurred to the Item, ideally
 | Item Other Relationship Types | Term list |
 | --- | --- |
 | “Has a relationship to another Item” | |
-| “Contains” | Compilation (unintentional – mere use of the same carrier: see [Appendix E, Aggregates]\nameref{sec:aggregates_compilations_multi_component_productions}) |
-| “Is Contained in”/ “is part of” | Episode, number, part, etc. included in an unintentional/convenient compilation (see [Appendix E, Aggregates]\nameref{sec:aggregates_compilations_multi_component_productions}). |
+| “Contains” | Compilation (unintentional – mere use of the same carrier: see \nameref{sec:aggregates_compilations_multi_component_productions}) |
+| “Is Contained in”/ “is part of” | Episode, number, part, etc. included in an unintentional/convenient compilation (see \nameref{sec:aggregates_compilations_multi_component_productions}). |
 | “Associated separation negative” | Different colour elements held on separate Items whereby each Item would be needed to create a whole new print of the moving image, e.g. Yellow, Cyan and Magenta Separation Negatives, each of which have to be combined in Technicolor Three Colour Strip Process to make a new colour print. |
 | “Associated Sound/Associated image” | Where sound and image components are held on separate Item, and would both be needed to create a whole new print e.g. On DPX and Wav, 35mm Mute Pos and Magnetic track |
 | “Preservation clone of/Has preservation clone” | Reflecting association of 2 identical master digital copies, as per best practice for digital collections |

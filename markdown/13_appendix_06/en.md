@@ -16,7 +16,7 @@ The resulting manual divided archival moving image cataloguing information into 
 
 In 2004, the Commission recognised the need to revise and update a manual conceived for a non-computerized and “analogue” world.
 It designed and disseminated the Survey of Moving Image Cataloguing Practice in Film Archives (2005-2006).
-The survey responses revealed specific areas the community wanted revised and issues particular to moving image archives that the new approach should consider (see [Appendix F.1]\nameref{sec:survey_of_moving_image_cataloguing_practice} for a listing of these areas and issues).
+The survey responses revealed specific areas the community wanted revised and issues particular to moving image archives that the new approach should consider (see \nameref{sec:survey_of_moving_image_cataloguing_practice} for a listing of these areas and issues).
 
 In 2008, the Commission met in Paris to set goals and a plan of action for new guidelines (see \nameref{sec:paris_meetings_goals} for listing of goals).
 
@@ -187,7 +187,7 @@ In moving image archives, both the occurrence of a change in the content and the
 In most cases, for moving image materials, the changes in content are a function of some form of editing.
 
 The treatment of the concepts of “versions with major changes” and “variations with minor changes” in this revision shift to a focus on changes in content and changes to carrier and correlate to the boundaries between the variants (changes in content) of a work and its manifestations (changes in carrier).
-This does not replace the need to create a version with major changes as a new Work where this is necessary and appropriate [1.1.2 Boundaries between Works and Variants/Manifestations]\nameref{sec:boundaries_between_works_and_variants}.
+This does not replace the need to create a version with major changes as a new Work where this is necessary and appropriate \nameref{sec:boundaries_between_works_and_variants}.
 
 \subsubsection[Attributes]{Attributes 
     \label{sec:attributes}
@@ -253,6 +253,6 @@ Because national and international rights regulations for moving image materials
 These guidelines include a separate area for the recording of information about the rights status of moving image materials for the entities that make up a moving image resource.
 The guidelines include provisions for recording both original and current rights information, as well as for indicating when the cataloguer has not been able to find any information.
 Since rights issues are complex legal matters, some moving image archives prefer to maintain separate legal files, or sometimes even to leave the resolution of rights issues entirely to the responsibility of the user or client.
-For these reasons, the recording of rights information has been designated “optional.” For a more extensive and expanded further exploration of rights and potential rights data to capture, see [Appendix H, Rights/Copyright/IPR Registration]\nameref{sec:appendix_rights_copyright_ipr_registration}.
+For these reasons, the recording of rights information has been designated “optional.” For a more extensive and expanded further exploration of rights and potential rights data to capture, see \nameref{sec:appendix_rights_copyright_ipr_registration}.
 
 

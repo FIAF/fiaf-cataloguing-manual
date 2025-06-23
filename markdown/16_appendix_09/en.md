@@ -18,7 +18,7 @@ Example 1 depicts 3-level, 2-level and 1 level model hierarchies (see \nameref{s
 
 In this first example, as an initial illustration,  the corresponding data of the core concepts has the same matching colours as used in the list below, and the core concept term is also given in italics and square brackets alongside the most equivalent field name.
 
-Fields and data in black are additional elements and data, that also mainly correspond with the wider Attributes, Elements and Relationships stipulated in  CEN EN15907 and found at [1. Moving Image Works and Variants]\nameref{sec:moving_image_works}, [2. Moving Image Manifestations]\nameref{sec:moving_image_manifestations}, and [3. Moving Image Items]\nameref{sec:moving_image_items}.
+Fields and data in black are additional elements and data, that also mainly correspond with the wider Attributes, Elements and Relationships stipulated in CEN EN15907 and found at \nameref{sec:moving_image_works}, \nameref{sec:moving_image_manifestations}, and \nameref{sec:moving_image_items}.
 
 Core concepts (\nameref{sec:core_elements_of_description})
 
