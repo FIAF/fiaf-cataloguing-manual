@@ -24,7 +24,7 @@ Defining an aggregate is an intellectual process followed in order to identify a
 
 It is important to distinguish between actual intended compilation or multi-component moving images, e.g. Victorian cinema no. 8 (containing various short films from the 1890s edited together onto a new reel for a particular theatrical showing or publication), and an unintentional compilation, reflecting simple use of a single carrier, i.e. two short Charlie Chaplin films that happen to be acquired on one reel or transferred onto one tape for storage convenience.
 
-Editing and creative assembly decisions were taken to create the first example, and it constitutes a Collection Aggregate (see [E.3.1 Collection Aggregates](#manual-E.3.1)).
+Editing and creative assembly decisions were taken to create the first example, and it constitutes a Collection Aggregate (see [E.3.1 Collection Aggregates]\nameref{sec:collection_aggregates}).
 The second was just incidental or convenient assembly and is not an aggregate, and so would not have an aggregate Manifestation.
 The two Chaplin films would each have their own Work, Manifestation, and Item records, but those Items would have the same location/package number.
 
@@ -38,7 +38,7 @@ Assessments will need to be made, where possible, as to whether the intention wa
 Multi-component Works are ones conceived and created from their inception to consist of multiple individual components that make up a whole, for example anthologies, portmanteau films and television programmes (e.g., Dead of night, Quartet, From beyond the grave).
 
 These should be treated as straightforward Monographic Works.
-(See [1. Moving Image Works and Variants](#manual-1.0)).
+(See [1. Moving Image Works and Variants]\nameref{sec:moving_image_works}).
 
 The different sections making up the whole were not independently created Works/Variants with an existence in their own right outside the film.
 It was one film intentionally structured as a series of different stories, sometimes linked together by scenes and characters, into one continual whole.
@@ -200,7 +200,7 @@ Identical moving image Works/Variants but in different languages released on one
 
 For Aggregate Manifestations record the length/duration of the whole, i.e. the total of all the units/running times that constitute the Aggregate.
 In addition there is the option to qualify this with details of the duration of each individual unit in either a Notes field, or in multiple occurrences of the duration fields, depending on what systems used permit or an institution decides.
-(See \nameref{sec:physical_extent_of_an_aggregate_manifestation} and [2.3.5.3.1 Duration of an Aggregate Manifestation](#manual-2.3.5.3.1))
+(See \nameref{sec:physical_extent_of_an_aggregate_manifestation} and [2.3.5.3.1 Duration of an Aggregate Manifestation]\nameref{sec:duration_of_an_aggregate_manifestation})
 
 \subsubsection[Titling of Aggregates]{Titling of Aggregates 
     \label{sec:titling_of_aggregates}
@@ -210,7 +210,7 @@ The title of the aggregating Work should reflect that of the Manifestation.
 The component titles may additionally be added to the aggregating Work as alternative title types (see \nameref{sec:alternative}).
 They may also be added to any Items as alternative title types.
 
-Titling of aggregates follows the same principles as that of other types of entities (see [Appendix A, Titles and Title Types](#manual-A)).
+Titling of aggregates follows the same principles as that of other types of entities (see [Appendix A, Titles and Title Types]\nameref{sec:titles_and_title_types}).
 
 The title of the aggregate Manifestation forms the basis, but that title may be a “title proper” or a fully or partially devised/supplied title.
 (See \nameref{sec:title_proper} or \nameref{sec:supplied_devised_titles}).
@@ -248,7 +248,7 @@ It is recognised that the ability to do this may be dependent on sufficient info
 Where this is insufficient the titles of the individual Works/Variants making up the aggregate may be added as alternative title types to the aggregating Work.
 This will assist in accessibility and identification.
 
-For how aggregate records may be structured in a 1-level hierarchy system see [I.7 Example 7. Aggregate DVD Television Serial and Episode records in 1-level Hierarchy Models](#manual-I.7).
+For how aggregate records may be structured in a 1-level hierarchy system see [I.7 Example 7. Aggregate DVD Television Serial and Episode records in 1-level Hierarchy Models]\nameref{sec:example_seven}.
 Whilst this relates to a television example the same principles can be applied in the case of film collection and augmented collection aggregates.
 
 \subsubsection[Collection Aggregates Modelling]{Collection Aggregates Modelling 
@@ -600,7 +600,7 @@ arrow <-> from B1.e to B3.w
 arrow right 0.2 from B1.e then down until even with B5 then right to B5.w
 ```
 
-For how this might be modelled in a flat or single hierarchy system see [I.7 Example 7. Aggregate DVD Television Serial and Episode records in 1-level Hierarchy Models](#manual-I.7)
+For how this might be modelled in a flat or single hierarchy system see [I.7 Example 7. Aggregate DVD Television Serial and Episode records in 1-level Hierarchy Models]\nameref{sec:example_seven}
 
 It is also possible for particular individual episodes from different moving image series/serials to be taken and formed together into a Collection or Augmentation Aggregate, in which case they would then follow the same pattern of structure as any other such aggregate, i.e. with an aggregate Manifestation and aggregating Work record, and associative relationship links to any existing individual Work/Variant episode records.
 

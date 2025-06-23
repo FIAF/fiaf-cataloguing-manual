@@ -11,7 +11,7 @@
     \label{sec:moving_image_works_definition}
     } 
 
-Brief definitions of the standard CEN terms Work/Variant/Manifestation/Item used in the Manual were provided at the end of the Introduction (see [Introduction](#manual-introduction)).
+Brief definitions of the standard CEN terms Work/Variant/Manifestation/Item used in the Manual were provided at the end of the Introduction (see [Introduction]\nameref{sec:introduction}).
 This and the following sections provide in-depth definitions of the terms as used in these guidelines, beginning with the highest level in the description hierarchy: Moving Image Works and Variants.
 
 \subsubsection[Moving Image Work]{Moving Image Work
@@ -117,7 +117,7 @@ A moving image Variant is an entity that may be used to indicate any change to c
 Such Variants can be produced by minor additions, deletions or substitutions to the content.
 As a general guideline, changes that would result in a different content description should be treated as a separate Work rather than a Variant.
 
-Changes that could be described as Variants are detailed below, in [1.1.2 Boundaries between Moving Image Works and Variants](#manual-1.1.2), and may include the addition of subtitles, dubbing, and editing as a result of censorship or adjustment of duration, e.g. for TV programming.
+Changes that could be described as Variants are detailed below, in [1.1.2 Boundaries between Moving Image Works and Variants]\nameref{sec:boundaries_between_works_and_variants}, and may include the addition of subtitles, dubbing, and editing as a result of censorship or adjustment of duration, e.g. for TV programming.
 For institutions that have made a policy decision not to use the Variant, these changes may constitute Manifestation differences.
 
 The determination of a Variant requires human analysis, and as such is an interpretative practice.
@@ -734,7 +734,7 @@ Identifier type: ISAN
     } 
 
 Record at least one title, identifying phrase, or name for the moving image Work or Variant.
-If your institution is applying the use of “Type” qualifiers, use “Title Type” to state the function of a particular title (see \nameref{sec:work_title_type} and [Appendix A, Titles and Title Types](#manual-A)).
+If your institution is applying the use of “Type” qualifiers, use “Title Type” to state the function of a particular title (see \nameref{sec:work_title_type} and [Appendix A, Titles and Title Types]\nameref{sec:titles_and_title_types}).
 
 Ideally, the record should at a minimum contain the “preferred title” (also referred to as “main” or “original” title) of the Work or Variant.
 Generally, it is the title of a moving image Work or Variant when first released, broadcast, published or transmitted (i.e. mounted online) in the country or countries of origin.
@@ -791,7 +791,7 @@ Chuckles bites the dust – Preferred title
 \end{tcolorbox}
 ```
 
-See [Appendix A.1 Title](#manual-A.1) for fuller titling details and information.
+See [Appendix A.1 Title]\nameref{sec:appendix_title} for fuller titling details and information.
 
 See \nameref{sec:titling_of_aggregates} for titling of Aggregates (e.g., compilations).
 
@@ -803,7 +803,7 @@ For sources of information for the Title, see \nameref{sec:prelim_sources_of_inf
     \label{sec:work_title_type}
     } \
 
-Where relevant for an institution, if the Work/Variant or Manifestation includes multiple titles, such as a title in another language for a dubbed or subtitled variant, record the relevant Variant titles and associate a “Title Type” to each title for differentiation between the various types of titles (see [Appendix A, Titles and Title Types](#manual-A)).
+Where relevant for an institution, if the Work/Variant or Manifestation includes multiple titles, such as a title in another language for a dubbed or subtitled variant, record the relevant Variant titles and associate a “Title Type” to each title for differentiation between the various types of titles (see [Appendix A, Titles and Title Types]\nameref{sec:titles_and_title_types}).
 
 \subsubsection[Country of Reference]{Country of Reference
     \label{sec:country_of_reference}
@@ -862,7 +862,7 @@ Where full dates are not known use Year-Month YYYY-MM or just Year YYYY, as syst
 The year or date should be associated with an event in the life cycle of the Work or its Variants (see \nameref{sec:work_events}).
 If your system supports it, apply a “Date Type” qualifier to make the date or year purpose clear.
 Date Type terms should be derived from a controlled vocabulary.
-For a list of initial terms, see [Appendix D.4 Event Types](#manual-D.4).
+For a list of initial terms, see [Appendix D.4 Event Types]\nameref{sec:event_type}.
 
 For Works and Variants, the date is typically related to events such as its creation, availability (i.e. publication, release, distribution, broadcast or transmission) or registration (e.g. for copyright or intellectual property purposes), or bestowal of an award. 
 
@@ -1102,7 +1102,7 @@ Donald Graham, millionaire ex-convict, plans revenge on society figure John Cabi
 \end{tcolorbox}
 ```
 
-A content description may also be a shotlist or listing of the contents of an aggregate Work/Variant (see [Appendix E, Aggregates](#manual-E)). Shotlists are the ideal content description to have or aim to have, particularly for non-fiction moving images, but it is recognised that resources and accessibility mean this is not always possible or practical for an archive or institution.
+A content description may also be a shotlist or listing of the contents of an aggregate Work/Variant (see [Appendix E, Aggregates]\nameref{sec:aggregates_compilations_multi_component_productions}). Shotlists are the ideal content description to have or aim to have, particularly for non-fiction moving images, but it is recognised that resources and accessibility mean this is not always possible or practical for an archive or institution.
 
 Examples^[FIAF 7.2.16. Contents]:
 
@@ -1153,7 +1153,7 @@ Include a qualifying keyword or otherwise denote the type of summary (e.g. Synop
     \label{sec:notes}
     }
 
-Notes for moving image Works/Variants are annotations providing additional information or clarification relating specifically to Works/Variants attributes and relationships.^[Based on RDA 2.20.1.Basic Instructions on Making Notes on Manifestations or Items] See [Appendix B, Cataloguer’s Notes](#manual-B).
+Notes for moving image Works/Variants are annotations providing additional information or clarification relating specifically to Works/Variants attributes and relationships.^[Based on RDA 2.20.1.Basic Instructions on Making Notes on Manifestations or Items] See [Appendix B, Cataloguer’s Notes]\nameref{sec:cataloguers_notes}.
 
 \subsubsection[History]{History
     \label{sec:history}
@@ -1425,7 +1425,7 @@ Instances of any Event type can have Agent and “Other” relationships.
 
 Record one or more Event type, for example, “publication,” “copyright/IPR registration,” “festival showing,” etc., to express the nature of the Event’s relationship to the Work/Variant.
 Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in [D.4 Event Types](#manual-D.4).
+A suggested list, which is open and not exhaustive, can be found in [D.4 Event Types]\nameref{sec:event_type}.
 
 \subsubsection[Subject/Genre/Form Terms]{Subject/Genre/Form Terms
     \label{sec:subject_genre_form_terms}
@@ -1506,7 +1506,7 @@ TODO this is an example table
     } 
 
 If desired or appropriate, express relationships that are not covered by the Agent, Subject, and Event relationships, including all kinds of aggregation and re-use of Works and their Variants.
-(See [Appendix E, Aggregates](#manual-E).)
+(See [Appendix E, Aggregates]\nameref{sec:aggregates_compilations_multi_component_productions}.)
 
 Commonly-occurring relationships include:^[OLAC TF, Part I, Moving Image Work Definition and Boundaries, Commonly-Occurring Relationships, p. 16.]
 
@@ -1615,7 +1615,7 @@ The wicked lady (United Kingdom, 1945, Leslie Arliss), costume
 
 
 Record one or more “Other” relationship type terms to express the nature of the relationship to the Work/Variant, choosing the most specific term possible from a controlled list of values , for example, “based on,” “contained in,” etc. .
-A suggested list, which is open and not exhaustive, can be found in [Appendix D.17.1 Work/Variant Other Relationship Types](#manual-D.17.1).
+A suggested list, which is open and not exhaustive, can be found in [Appendix D.17.1 Work/Variant Other Relationship Types]\nameref{sec:other_relationships_for_works_variants_manifestations_items}.
 
 Or, compose a term to describe the relationship between the Work being catalogued and the related Work.
 
@@ -1623,7 +1623,7 @@ In a note, add any additional information concerning the relationship considered
 
 Describe or demonstrate Work-to-Work relationships through linking to the Work identifier of the related Work, through the usage of relator terms, or according to the confines of the institution’s data structure.
 
-Remember, a Work based on a pre-existing Work should be identified as a Variant of the same Work unless it has been so significantly changed as to have become a new related Work.^[YCR, 1.1.7 Works based on previous works, pp. 24-25.] See \nameref{sec:boundaries_between_works} and [1.1.2 Boundaries between Works and Variants/Manifestations](#manual-1.1.2) for determining when a Work should be identified as a new, but related Work and when it should be identified as a Variant of the original Work.
+Remember, a Work based on a pre-existing Work should be identified as a Variant of the same Work unless it has been so significantly changed as to have become a new related Work.^[YCR, 1.1.7 Works based on previous works, pp. 24-25.] See \nameref{sec:boundaries_between_works} and [1.1.2 Boundaries between Works and Variants/Manifestations]\nameref{sec:boundaries_between_works_and_variants} for determining when a Work should be identified as a new, but related Work and when it should be identified as a Variant of the original Work.
 
 \subsubsection[Variants]{Variants  
     \label{sec:variants}

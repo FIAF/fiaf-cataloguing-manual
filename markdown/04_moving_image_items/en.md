@@ -85,7 +85,7 @@ There can be title information written on leader, cans, and video containers.
 Sometimes this information is different to what is in the credits; sometimes it is the only source of information to help identify an Item’s content.
 
 Note the source of title information.
-For Items where the only title information is found on a can or leader, use an Acquisition Title Type(s) (see [A.2.4.1 Alternative title types](#manual-A.2.4.1)) or descriptive words such as “Title on can” or “Title on leader.”
+For Items where the only title information is found on a can or leader, use an Acquisition Title Type(s) (see [A.2.4.1 Alternative title types]\nameref{sec:alternative_title_types}) or descriptive words such as “Title on can” or “Title on leader.”
 
 \subsubsection[Holding Institution]{Holding Institution 
     \footnote {Based on EN 15907, Holding institution} 
@@ -102,7 +102,7 @@ Optionally, if available, record a suitable repository identifier or a registere
     } 
 
 Record the nature or function of the moving image Item, describing its place in the photochemical or digital production or duplication process, for example, “original negative,” “duplicate negative,” etc. Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in [D.7.8 Item Element Type](#manual-D.7.8).
+A suggested list, which is open and not exhaustive, can be found in [D.7.8 Item Element Type]\nameref{sec:appendix_item_element_type}.
 
 \subsubsection[Item Specifics/Extent (e.g. physical/Digital description)]{Item Specifics/Extent (e.g. physical/Digital description) 
     \label{sec:item_specifics_extent}
@@ -139,7 +139,7 @@ Re- cording this high-level information will enable simple searching for only fi
 
 Record only if this information is not captured at the Manifestation level or if required at the Item level by the system in use.
 
-A suggested list can be found in [D.7.1 Manifestation/Item General Carrier Type](#manual-D.7.1).
+A suggested list can be found in [D.7.1 Manifestation/Item General Carrier Type]\nameref{sec:manifestation_item_general_carrier_type}.
 
 For reasons of clarity and to avoid redundancy, optionally, institutions can decide to skip the general carrier type description for film and video, since it is already implicit in the specific carrier type.
 
@@ -162,7 +162,7 @@ For optical media, only add commercially produced media here.
 If the optical media is “writable” and is being used to store a digital file, put the digital file format in the gen- eral carrrier type, and the optical storage media in specific media type.
 
 Record the specific carrier type, selecting from a suitable controlled list.
-A suggested list, which is open and not exhaustive, can be found in [D.7.2 Manifestation/Item Specific Carrier Type](#manual-D.7.2).
+A suggested list, which is open and not exhaustive, can be found in [D.7.2 Manifestation/Item Specific Carrier Type]\nameref{sec:manifestation_item_specific_carrier_type}.
 
 \paragraph[Item Status]{Item Status 
     \label{sec:item_status}
@@ -175,11 +175,11 @@ A suggested list, which is open and not exhaustive, can be found in \nameref{sec
     \label{sec:sound}
     } \
 
-Technical specifications relating to the fixation of sound in a moving image Manifestation/Item (see [2.3.4.3 Sound characteristics of a moving image Manifestation](#manual-2.3.4.3)).
+Technical specifications relating to the fixation of sound in a moving image Manifestation/Item (see [2.3.4.3 Sound characteristics of a moving image Manifestation]\nameref{sec:sound_characteristics_of_a_manifestation}).
 This element is for high-level description of sound on the item; i.e., noting whether it has sound, is silent, etc.
 
 Indicate the presence or absence of sound in the Manifestation/Item, i.e. “sound,” “silent,” “mute”, “combined” or “mixed” etc. Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in [D.7.4 Manifestation/Item Sound Type](#manual-D.7.4).
+A suggested list, which is open and not exhaustive, can be found in [D.7.4 Manifestation/Item Sound Type]\nameref{sec:manifestation_item_sound_type}.
 
 Record only if this information is not captured at the Manifestation level or if required at the Item level by the system in use.
 
@@ -193,16 +193,16 @@ If the Item has sound, note here the track configuration (e.g., mono, stereo, et
     \label{sec:sound_system}
     } \
 
-See also [2.3.4.3 Sound characteristics of a Manifestation](#manual-2.3.4.3)
+See also [2.3.4.3 Sound characteristics of a Manifestation]\nameref{sec:sound_characteristics_of_a_manifestation}
 
 Describes the technical or proprietary system used to record the sound on a Manifestation/Item, for example, Dolby SR, Dolby Digital, etc. Select from a controlled list.
-A suggested list, which is open and not exhaustive, can be found in [D.7.13 Item Sound System](#manual-D.7.13).
+A suggested list, which is open and not exhaustive, can be found in [D.7.13 Item Sound System]\nameref{sec:item_sound_system}.
 
 \paragraph[Colour]{Colour   
     \label{sec:colour}
     } \
 
-For full instructions, see [2.3.4.4 Colour characteristics of a Manifestation](#manual-2.3.4.4).
+For full instructions, see [2.3.4.4 Colour characteristics of a Manifestation]\nameref{sec:colour_characteristics_of_a_manifestation}.
 
 The presence of colour(s), tone(s), etc. in an Item.^[RDA 7.17.3 Colour of Moving Image]
 
@@ -286,10 +286,10 @@ In this qualifier, note whether the duration is exact, approximate, estimated, o
     } \
 
 Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in [D.7.18 Item Frame Rate/Transfer Speed](#manual-D.7.18).
+A suggested list, which is open and not exhaustive, can be found in [D.7.18 Item Frame Rate/Transfer Speed]\nameref{sec:item_frame_rate_transfer_speed}.
 
 Frame rate is the native frame rate for the Item.
-Information related to the frame rate used during a digitisation process is added to Transfer Speed (see [3.1.5.23 Transfer Speed](#manual-3.1.5.23)).
+Information related to the frame rate used during a digitisation process is added to Transfer Speed (see [3.1.5.23 Transfer Speed]\nameref{sec:transfer_speed}).
 
 Frame Rate and Transfer Speed can sometimes be the same thing, and at other times different, depending on whether it is an Item that is being scanned into a digital file or an Item that is a digital file to start with.
 For example, a silent film that was shot at a 16 fps frame rate could be transferred at 23.98 fps.
@@ -359,7 +359,7 @@ EBUCore Video Compression Code: https://www.ebu.ch/metadata/cs/web/ebu_VideoComp
     } \
 
 Note whether the Item’s resolution is Standard Definition, High Definition, etc. Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in [D.7.19 Item Resolution](#manual-D.7.19).
+A suggested list, which is open and not exhaustive, can be found in [D.7.19 Item Resolution]\nameref{sec:item_resolution}.
 
 \paragraph[Line Standard – Video]{Line Standard – Video    
     \label{sec:line_standard_video}
@@ -367,14 +367,14 @@ A suggested list, which is open and not exhaustive, can be found in [D.7.19 Item
 
 Describes the number of scan lines which make up the image and indicates the res- olution, for example, 405, 525, 1080.
 Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in [D.7.21 Item Line Standard – Video](#manual-D.7.21).
+A suggested list, which is open and not exhaustive, can be found in [D.7.21 Item Line Standard – Video]\nameref{sec:item_line_standard}.
 
 \paragraph[Bit Depth]{Bit Depth    
     \label{sec:bit_depth}
     } \
 
 Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in [D.7.17 Item Bit Depth – Digital](#manual-D.7.17).
+A suggested list, which is open and not exhaustive, can be found in [D.7.17 Item Bit Depth – Digital]\nameref{sec:item_bit_depth}.
 
 Note that bit depth can be used in describing both video and audio files.
 
@@ -399,7 +399,7 @@ Record the source software used in playing a digital file.
     } \
 
 Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in [D.7.18 Item Frame Rate/Transfer Speed – Digital](#manual-D.7.18).
+A suggested list, which is open and not exhaustive, can be found in [D.7.18 Item Frame Rate/Transfer Speed – Digital]\nameref{sec:item_frame_rate_transfer_speed}.
 
 If the Transfer Speed is the same as the \nameref{sec:frame_rate}, these values should be the same.
 However, silent films might be transferred at a higher speed than the original frame rate.
@@ -424,7 +424,7 @@ These observations should aim to be as clear and concise as possible, avoiding a
 For example, establish whether to use “scratched”, “scratches” or “scratch marks” and be as consistent as possible.
 This enables better searching and accessibility of data.
 
-Record these actions as an Event (see \nameref{sec:items_events}), with the person or entity performing the action as an Agent (see [3.3.1 Agent(s)](#manual-3.3.1)).
+Record these actions as an Event (see \nameref{sec:items_events}), with the person or entity performing the action as an Agent (see [3.3.1 Agent(s)]\nameref{sec:items_agents}).
 
 Ideally, elements covering information and details regarding the condition of an acquired Item would include those listed below.
 
@@ -446,7 +446,7 @@ Note any indication that the Item is in need of servicing prior to being accesse
 
 Item descriptions should indicate a storage location number in order to provide access and retrieval.
 Movements and changes of location should also be logged in order to ascertain the precise location of an Item at any given time.
-If possible, use the Item Identifier and Identifier Type fields to note an Item’s location (see [3.1.1 Identifier](#manual-3.1.1)).
+If possible, use the Item Identifier and Identifier Type fields to note an Item’s location (see [3.1.1 Identifier]\nameref{sec:item_identifier}).
 
 This could be a single simple field, or could include multiple fields to reflect various electronic package or barcode numbers that may be attached to each individual can or container, shelf, or whatever is applicable to an individual institution.
 
@@ -454,13 +454,13 @@ This could be a single simple field, or could include multiple fields to reflect
     \label{sec:notes_for_items}
     } 
 
-Notes for Items are an annotation providing additional information relating specifically to Item attributes and relationships.^[Based on RDA 2.20.1.Basic Instructions on Making Notes on Manifestations or Items] See [Appendix B, Cataloguer’s Notes](#manual-B).
+Notes for Items are an annotation providing additional information relating specifically to Item attributes and relationships.^[Based on RDA 2.20.1.Basic Instructions on Making Notes on Manifestations or Items] See [Appendix B, Cataloguer’s Notes]\nameref{sec:cataloguers_notes}.
 
 \subsection[Boundaries between Items]{Boundaries between Items    
     \label{sec:boundaries_between_items}
     } 
 
-The boundaries between moving image Items is determined primarily by the boundaries between Manifestations (see [2.1 Boundaries between Manifestations](#manual-2.1)).
+The boundaries between moving image Items is determined primarily by the boundaries between Manifestations (see [2.1 Boundaries between Manifestations]\nameref{sec:boundaries_between_manifestations}).
 There may be multiple Items associated to a Manifestation that are, for all intents and purposes, exact copies, but which may have small differences that do not necessitate representation as a Manifestation.
 For example, an institution may have two DVD-R copies of the same Manifestation, with cosmetic differences in their labels.
 
@@ -527,7 +527,7 @@ Instances of any Event type can have Agent and “Other” relationships.
 
 Record one or more Event types, for example, “preservation,” “inspection,” “acquisition”, etc., to express the nature of the Event’s relationship to the Item.
 Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in [D.4 Event Types](#manual-D.4).
+A suggested list, which is open and not exhaustive, can be found in [D.4 Event Types]\nameref{sec:event_type}.
 
 \subsubsection[Other Relationships]{Other Relationships    
     \label{sec:item_other_relationships}

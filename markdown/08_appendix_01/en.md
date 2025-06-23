@@ -159,7 +159,7 @@ Seven [Alternative]
 ```
 
 Where possible a word should be used as a substitute when creating the title if a symbol or graphic design used cannot be replicated, with a note explaining this.
-See [Notes 1.3.7](#manual-1.3.7).
+See [Notes 1.3.7]\nameref{sec:notes}.
 
 Example:
 
@@ -1273,7 +1273,7 @@ The following paragraphs relate to Archive systems that are using the CEN struct
 Work level titles created in this way would be described as having the CEN attribute of “Analytic” and indication that the title is a supplied/devised title type.
 Further clarifications could then be put into synopsis/description or notes fields areas of the Work.
 
-Should the whole Work of which the Item is a part subsequently be identified, then the Analytic record can be either modified or deleted and the Item linked via a “part of” relationship to a whole issue Theatrical Manifestation, which is in turn “part of” a whole Work, or Monographic Work.^[See [Appendix D, Value Lists](#manual-D) for CEN categories and definitions used by BFI]
+Should the whole Work of which the Item is a part subsequently be identified, then the Analytic record can be either modified or deleted and the Item linked via a “part of” relationship to a whole issue Theatrical Manifestation, which is in turn “part of” a whole Work, or Monographic Work.^[See [Appendix D, Value Lists]\nameref{sec:value_lists} for CEN categories and definitions used by BFI]
 
 \paragraph[Fragments/segments of unidentified moving images (film or television programmes)]{Fragments/segments of unidentified moving images (film or television programmes) 
     \label{sec:fragments_segments_of_unidentified_moving_images_film_or_television_programmes)}
