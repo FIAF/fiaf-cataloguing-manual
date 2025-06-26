@@ -952,16 +952,20 @@ The great white silence (United Kingdom, Herbert Pointing, 1924) (DVD –Dual Fo
 \end{tcolorbox}
 ```
 
-```{=latex}
-\begin{tcolorbox}
-Metropolis (Germany, Fritz Lang, 1927)
-The Complete Metropolis – Blu Ray – (2010 restoration – Kino International, USA, 2010)^[http://www.silentera.com/video/metropolisHV.html]
-\end{tcolorbox}
-```
+Example^[http://www.silentera.com/video/metropolisHV.html]:
 
 ```{=latex}
 \begin{tcolorbox}
-Nosferatu. Eine Symphonie des Grauens (Germany, 1922, Friedrich Wilhelm Murnau) Blu-Ray of the Restoration Variant: 2005-2006 restoration – Murnau Stiftung/Transit Classics – Deluxe Edition – 2014 – EAN 888430505797^[http://www.murnau-stiftung.de/movie/674 and http://www.schnittberichte.com/news.php?ID=7433]
+Metropolis (Germany, Fritz Lang, 1927)
+The Complete Metropolis – Blu Ray – (2010 restoration – Kino International, USA, 2010)
+\end{tcolorbox}
+```
+
+Example^[http://www.murnau-stiftung.de/movie/674 and http://www.schnittberichte.com/news.php?ID=7433]:
+
+```{=latex}
+\begin{tcolorbox}
+Nosferatu. Eine Symphonie des Grauens (Germany, 1922, Friedrich Wilhelm Murnau) Blu-Ray of the Restoration Variant: 2005-2006 restoration – Murnau Stiftung/Transit Classics – Deluxe Edition – 2014 – EAN 888430505797
 \end{tcolorbox}
 ```
 
