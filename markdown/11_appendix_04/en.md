@@ -553,7 +553,9 @@ EN15907 does not specify any Manifestation types other than Unknown. The Manifes
     \label{sec:pre_release}
     } 
 
-A moving image Manifestation type that may be used to represent any embodiments of a moving image Work that exist before the finalisation or release of the moving image Work. Also use for partially realised projects, i.e. productions that started filming but then project ceased before completion.
+A moving image Manifestation type that may be used to represent any embodiments of a moving image Work that exist before the finalisation or release of the moving image Work. Also use for partially realised projects, i.e. productions that started filming but then project ceased before completion, for which footage exists and may have been acquired by an institution.
+
+A Pre-Release Manifestation is effectively a Production Manifestation for which acquired Items used in the production of a film can be linked. Technically, a Pre-Release Manifestation does not refer to any release at all, but rather to embodiments of the creative process that goes into the creation or construction of the Work itself, i.e. raw or semi-edited footage that has been shot in the making of a moving image, whether it has been used in the ultimate finished Work or not. Its use also maintains the EN15907 structure when cataloguing production materials and not confusing Items that constitute these with Items that are simply copies of the completed, released film.
 
 It applies to production material in general, including: original shooting elements (i.e. original camera negative, working print, original video, editing file) and/or the first recording/mixing of the sound (separate original soundtracks – dialogues, sound, music, – or the first mixed soundtrack).
 
@@ -583,7 +585,17 @@ Beauty jungle: Artist Test – Shirley Ann Field
 \end{tcolorbox}
 ```
 
-Also applied to moving image Manifestations assembled for submission to censorship/ratings bodies, or moving image Manifestations with cuts resulting from those censorship activities.
+Depending on the quantity and nature of materials, an institution may create Works in their own right for different in-production filmed aspects, e.g. Screen Tests, Rushes, etc. which are then related to the main, final moving image Work in an associative relationship. Each of these Works would then have their own linked Pre-Release Manifestation.
+
+[CREATE AND INSERT DIAGRAM TO ILLUSTRATE HERE]
+
+Equally, an institution may choose to link all acquired production Items (whether analogue or digital) to a single Pre-Release Manifestation linked to the main complete Work, or possibly to several different Pre-Release Manifestations such as one for Screen Tests, one for Rushes, one for general production material, etc.
+
+[CREATE AND INSERT DIAGRAM TO ILLUSTRATE HERE]
+
+It may also be used for initial record creation purposes prior to material being viewed and catalogued, which may then subsequently result in further Pre-Release Manifestations and/or Works/Variants
+
+In addition, it may be applied to moving image Manifestations assembled for submission to censorship/ratings bodies, or moving image Manifestations with cuts resulting from those censorship activities.
 
 Detail on the specific nature of the Pre-Release Manifestation (e.g. censorship cuts, working assembly edit, etc.) can be added as a property of the Manifestation Type, from controlled vocabulary or free text, as preferred.
 
@@ -647,7 +659,7 @@ Sound mixes
 
 These describe the context, not the format. For example, a censorship print may exist as multiple Items (35mm print, ProRes, MP4)
 
-As mentioned previously, some  of  these  could  also  be  achieved  by  creating  separate  Works,  rather  than capturing these as Manifestations of the film work.
+As mentioned previously, some of these could also be achieved by creating separate Works, rather than capturing these as Manifestations of the film work.
 
 Examples:
 
@@ -915,31 +927,41 @@ Manifestation 2: Internet: Arabic, English, French (spoken language); English su
 \end{tcolorbox}
 ```
 
-\subsubsection[Preservation/Restoration]{Preservation/Restoration
-    \label{sec:preservation_restoration}
+\subsubsection[Preservation]{Preservation
+    \label{sec:preservation}
+    } 
+
+Refers to manifestations which represent the outcome(s) of an institution’s internal copying of moving image items held in their collection for preservation purposes. This often involves copying of the moving image onto a different format, e.g. digitised file(s), for preservation and/or access purposes.  
+
+[ADD LINK TO ILLUSTRATIVE DIAGRAM IN NEW APPENDIX WHEN ADDED]
+
+\subsubsection[Restoration]{Restoration
+    \label{sec:restoration}
     } 
 
 Refers to manifestations which represent the outcome(s) of restoration events/activities, usually involving selection and aggregation of materials from diverse source elements to replicate an ‘original’ or ‘ideal’ manifestation.
-Some institutions may use this to refer to restorations undertaken by the institution (not to be confused with the Variant, resulting from reconstruction made by aggregating different sources, see [1.1.2 Boundaries between Works and Variants/Manifestations](#manual-1.1.2).
+Some institutions may use this manifestation type only to refer to restorations undertaken by the institution itself, i.e. all the Items generated as part of the process of creating a restoration are linked to manifestation(s) with the manifestation type of "Restoration" (not to be confused with the final published Variant/Manifestation, resulting from reconstruction made by aggregating different sources, see [1.1.2 Boundaries between Works and Variants/Manifestations](#manual-1.1.2).
 
-Example ^[http://www.silentera.com/video/metropolisHV.html] ^[http://www.murnau-stiftung.de/movie/674 and http://www.schnittberichte.com/news.php?ID=7433]:
+If required there is the option of creating more than one Restoration Manifestation to group specific outcomes of the project, e.g. a Manifestation for a Demonstration Reel, Raw scans, final digital DCP and DCDM materials resulting from the restoration process, etc. particularly where there may be several Items, or copies, relating to these on different formats.
+
+  Example:
 
 ```{=latex}
 \begin{tcolorbox}
-The great white silence (United Kingdom, Herbert Pointing, 1924). DVD –Dual Format Edition – BFI (2010 restoration)
+The great white silence (United Kingdom, Herbert Pointing, 1924) (DVD –Dual Format Edition – BFI) (2010 restoration)
 \end{tcolorbox}
 ```
 
 ```{=latex}
 \begin{tcolorbox}
 Metropolis (Germany, Fritz Lang, 1927)
-The Complete Metropolis – Blu Ray – (2010 restoration – Kino International, United States of America, 2010)
+The Complete Metropolis – Blu Ray – (2010 restoration – Kino International, USA, 2010)^[http://www.silentera.com/video/metropolisHV.html]
 \end{tcolorbox}
 ```
 
 ```{=latex}
 \begin{tcolorbox}
-Nosferatu. Eine Symphonie des Grauens (Germany, 1922, Friedrich Wilhelm Murnau) Blu-Ray of the Restoration Variant: 2005-2006 restoration – Murnau Stiftung/Transit Classics – Deluxe Edition – 2014 – EAN 888430505797
+Nosferatu. Eine Symphonie des Grauens (Germany, 1922, Friedrich Wilhelm Murnau) Blu-Ray of the Restoration Variant: 2005-2006 restoration – Murnau Stiftung/Transit Classics – Deluxe Edition – 2014 – EAN 888430505797^[http://www.murnau-stiftung.de/movie/674 and http://www.schnittberichte.com/news.php?ID=7433]
 \end{tcolorbox}
 ```
 
@@ -1436,10 +1458,12 @@ These are not pertinent as both Works and Variants have Manifestations and it is
     \label{sec:manifestation_preservation_types}
     } 
 
-Duplication
+Duplication (Printing / Recording)
 Transfer
 Reproduction
 Digitisation
+Reconstruction
+Restoration
 
 \subsection[Manifestation Decision Types]{Manifestation Decision Types
     \label{sec:manifestation_decision_types}
