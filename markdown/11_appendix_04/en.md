@@ -13,8 +13,7 @@ If no pre-existing and authoritative lists are available, a non-exhaustive but m
 
 The Types below reflect terms used in CEN standard EN15907.
 
-**Analytic (component part)**: content that is contained in another content.
-A component part may itself be either monographic or serial.
+**Analytic (component part)**: content that is contained in another content. A component part may itself be either monographic or serial. Component here means intentional component part not fragments or excerpts, e.g. an individual element from a larger newsreel issue. 
 
 Examples:
 
