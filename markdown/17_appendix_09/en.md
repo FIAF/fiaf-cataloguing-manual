@@ -5,7 +5,7 @@
     } 
 
 These include examples of feature films, a documentary, a short fiction film, a home movie, a television series and episode, and an aggregate television DVD and episode.
-It is recognised that field names in different institutions’ systems will not necessarily use identical terms to those of the core concepts or this manual (see [0.2 Core elements of description](#manual-0.2)).
+It is recognised that field names in different institutions’ systems will not necessarily use identical terms to those of the core concepts or this manual (see \nameref{sec:core_elements_of_description}).
 Some may also have multiple occurrences and multiple fields connected with each element, whilst others may use few or no field names.
 Some institutions may also have additional fields and data for in-house needs.
 The following examples reflect some of these possible differences.
@@ -14,13 +14,13 @@ The following examples reflect some of these possible differences.
     \label{sec:example_one}
     } 
 
-Example 1 depicts 3-level, 2-level and 1 level model hierarchies (see [0.2.1 Elements of description across Works, Variants, Manifestations, and Items](#manual-0.2.1)) for the same film.
+Example 1 depicts 3-level, 2-level and 1 level model hierarchies (see \nameref{sec:elements_of_description}) for the same film.
 
 In this first example, as an initial illustration,  the corresponding data of the core concepts has the same matching colours as used in the list below, and the core concept term is also given in italics and square brackets alongside the most equivalent field name.
 
-Fields and data in black are additional elements and data, that also mainly correspond with the wider Attributes, Elements and Relationships stipulated in  CEN EN15907 and found at [1. Moving Image Works and Variants](#manual-1.0), [2. Moving Image Manifestations](#manual-2.0), and [3. Moving Image Items](#manual-3.0).
+Fields and data in black are additional elements and data, that also mainly correspond with the wider Attributes, Elements and Relationships stipulated in CEN EN15907 and found at \nameref{sec:moving_image_works}, \nameref{sec:moving_image_manifestations}, and \nameref{sec:moving_image_items}.
 
-Core concepts ([0.2 Core elements of description](#manual-0.2))
+Core concepts (\nameref{sec:core_elements_of_description})
 
 Title  
 Series/Serial  
@@ -408,7 +408,7 @@ Content description
 
 In this second example,  the corresponding data of the core concepts also has the same illustrative matching colours as used in the Core Elements list in Example 1 (see below), and there are also links to the relevant sections of the manual relating to those elements.
 
-Core concepts ([0.2 Core elements of description](#manual-0.2))
+Core concepts ([\nameref{sec:core_elements_of_description})
 
 Title
 Series/Serial

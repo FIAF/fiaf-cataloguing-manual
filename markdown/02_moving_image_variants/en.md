@@ -1,14 +1,16 @@
 
 \newpage
-\section[Moving Image Variants]{Moving Image Variants \label{sec:moving_image_variants}} 
+\section[Moving Image Variants]{Moving Image Variants 
+    \label{sec:variant_moving_image_variants}
+    } 
 
 \newpage
 \subsection[Definitions]{Definitions 
     \footnote {For a discussion of other definitions of the “Work” and Variant entities, see \nameref{sec:moving_image_works}.} 
-    \label{sec:moving_image_works_definition}
+    \label{sec:moving_image_variants_definition}
     } 
 
-Brief definitions of the standard CEN terms Work/Variant/Manifestation/Item used in the Manual were provided at the end of the Introduction (see [Introduction](#manual-introduction)).
+Brief definitions of the standard CEN terms Work/Variant/Manifestation/Item used in the Manual were provided at the end of the Introduction (see \nameref{sec:introduction}).
 This and the following sections provide in-depth definitions of the terms as used in these guidelines, beginning with the highest level in the description hierarchy: Moving Image Works and Variants.
 
 \subsubsection[Moving Image Variant]{Moving Image Variant 
@@ -20,7 +22,7 @@ A moving image Variant is an entity that may be used to indicate any change to c
 Such Variants can be produced by minor additions, deletions or substitutions to the content.
 As a general guideline, changes that would result in a different content description should be treated as a separate Work rather than a Variant.
 
-Changes that could be described as Variants are detailed below, in [1.1.2 Boundaries between Moving Image Works and Variants](#manual-1.1.2), and may include the addition of subtitles, dubbing, and editing as a result of censorship or adjustment of duration, e.g. for TV programming.
+Changes that could be described as Variants are detailed below, in \nameref{sec:boundaries_between_works_and_variants}, and may include the addition of subtitles, dubbing, and editing as a result of censorship or adjustment of duration, e.g. for TV programming.
 For institutions that have made a policy decision not to use the Variant, these changes may constitute Manifestation differences.
 
 The determination of a Variant requires human analysis, and as such is an interpretative practice.

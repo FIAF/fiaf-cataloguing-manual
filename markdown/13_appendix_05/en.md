@@ -24,7 +24,7 @@ Defining an aggregate is an intellectual process followed in order to identify a
 
 It is important to distinguish between actual intended compilation or multi-component moving images, e.g. Victorian cinema no. 8 (containing various short films from the 1890s edited together onto a new reel for a particular theatrical showing or publication), and an unintentional compilation, reflecting simple use of a single carrier, i.e. two short Charlie Chaplin films that happen to be acquired on one reel or transferred onto one tape for storage convenience.
 
-Editing and creative assembly decisions were taken to create the first example, and it constitutes a Collection Aggregate (see [E.3.1 Collection Aggregates](#manual-E.3.1)).
+Editing and creative assembly decisions were taken to create the first example, and it constitutes a Collection Aggregate (see \nameref{sec:collection_aggregates}).
 The second was just incidental or convenient assembly and is not an aggregate, and so would not have an aggregate Manifestation.
 The two Chaplin films would each have their own Work, Manifestation, and Item records, but those Items would have the same location/package number.
 
@@ -38,7 +38,7 @@ Assessments will need to be made, where possible, as to whether the intention wa
 Multi-component Works are ones conceived and created from their inception to consist of multiple individual components that make up a whole, for example anthologies, portmanteau films and television programmes (e.g., Dead of night, Quartet, From beyond the grave).
 
 These should be treated as straightforward Monographic Works.
-(See [1. Moving Image Works and Variants](#manual-1.0)).
+(See \nameref{sec:moving_image_works}).
 
 The different sections making up the whole were not independently created Works/Variants with an existence in their own right outside the film.
 It was one film intentionally structured as a series of different stories, sometimes linked together by scenes and characters, into one continual whole.
@@ -114,7 +114,7 @@ Special Stills Photographer: Snowdon Un ballo in maschera, John Swannell La verg
 Supervising Co-ordinating Editor: Marie-Thérèse Boiché
 
 Each component title should not usually be created as a new Work, as this is not how the content was conceived (i.e., it was designed to be packaged and viewed together and is not separable) and none of them would then have any Manifestation record as an individual Work.
-Those institutions that have the ability or desire to separate them out to tie separate descriptions (e.g., credits) to each component part (i.e. representing the parent-child relationship), may represent them as Analytic Works (see [D.1 Work/Variant Description Types](#manual-D.1)).
+Those institutions that have the ability or desire to separate them out to tie separate descriptions (e.g., credits) to each component part (i.e. representing the parent-child relationship), may represent them as Analytic Works (see \nameref{sec:work_variant_description_types}).
 
 Should an institution acquire some or all of the components on different physical Items, then these should be linked to the Manifestation for the whole.
 In such cases it is simply a matter of a partial/incomplete acquisition, in the same way that only 2 reels of a 3 reel feature film might be acquired.
@@ -200,20 +200,20 @@ Identical moving image Works/Variants but in different languages released on one
 
 For Aggregate Manifestations record the length/duration of the whole, i.e. the total of all the units/running times that constitute the Aggregate.
 In addition there is the option to qualify this with details of the duration of each individual unit in either a Notes field, or in multiple occurrences of the duration fields, depending on what systems used permit or an institution decides.
-(See [2.3.5.2.1 Physical extent of an Aggregate Manifestation](#manual-2.3.5.2.1) and [2.3.5.3.1 Duration of an Aggregate Manifestation](#manual-2.3.5.3.1))
+(See \nameref{sec:physical_extent_of_an_aggregate_manifestation} and \nameref{sec:duration_of_an_aggregate_manifestation})
 
 \subsubsection[Titling of Aggregates]{Titling of Aggregates 
     \label{sec:titling_of_aggregates}
     } 
 
 The title of the aggregating Work should reflect that of the Manifestation.
-The component titles may additionally be added to the aggregating Work as alternative title types (see [A.2.4 Alternative](#manual-A.2.4)).
+The component titles may additionally be added to the aggregating Work as alternative title types (see \nameref{sec:alternative}).
 They may also be added to any Items as alternative title types.
 
-Titling of aggregates follows the same principles as that of other types of entities (see [Appendix A, Titles and Title Types](#manual-A)).
+Titling of aggregates follows the same principles as that of other types of entities (see \nameref{sec:titles_and_title_types}).
 
 The title of the aggregate Manifestation forms the basis, but that title may be a “title proper” or a fully or partially devised/supplied title.
-(See [A.2.2 Title Proper](#manual-A.2.2) or [A.2.5 Supplied/Devised Titles](#manual-A.2.5)).
+(See \nameref{sec:title_proper} or \nameref{sec:supplied_devised_titles}).
 
 Aggregates may be formed by an archive or institution itself for in-house or other event purposes.
 In these instances the title type should indicate it is a devised/supplied title in both the aggregate Manifestation and aggregating Work, as well as the Item.
@@ -248,7 +248,7 @@ It is recognised that the ability to do this may be dependent on sufficient info
 Where this is insufficient the titles of the individual Works/Variants making up the aggregate may be added as alternative title types to the aggregating Work.
 This will assist in accessibility and identification.
 
-For how aggregate records may be structured in a 1-level hierarchy system see [I.7 Example 7. Aggregate DVD Television Serial and Episode records in 1-level Hierarchy Models](#manual-I.7).
+For how aggregate records may be structured in a 1-level hierarchy system see \nameref{sec:example_seven}.
 Whilst this relates to a television example the same principles can be applied in the case of film collection and augmented collection aggregates.
 
 \subsubsection[Collection Aggregates Modelling]{Collection Aggregates Modelling 
@@ -263,7 +263,7 @@ The individual component titles may also be added as alternative title types to 
 Some collection aggregates do not have their own new title, e.g., in 2008, Odeon Entertainment released a DVD double-bill of classic British thrillers, Bond of fear (1956) and Blackout (1950), with no collection title.
 
 The treatment of the aggregate title may differ from institution to institution, especially in cases where multiple Works are contained in the collection aggregate and recording all titles in a single title field would be unwieldy.
-There is the option of an institution using a devised/supplied title (see [A.2.5 Supplied/Devised Titles](#manual-A.2.5)).
+There is the option of an institution using a devised/supplied title (see \nameref{sec:supplied_devised_titles}).
 
 ```{=latex}
 \begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Example]
@@ -547,7 +547,7 @@ arrow <-> from B8.s to B9.n
 
 ```
 
-Alternatively, a model similar to [E.5.1.2 Model: Collection Aggregate Manifestation within many-to-many Works/Variants-Manifestation](#manual-E.5.1.2) can be used, whereby a single Aggregate Manifestation links to the many individual Works/Variants in “part of” relationship:
+Alternatively, a model similar to \nameref{sec:collection_aggregate_manifestation_within_a_many_to_many} can be used, whereby a single Aggregate Manifestation links to the many individual Works/Variants in “part of” relationship:
 
 ```pikchr
 B1: box rad 5px "ER (Work - Serial)" fit at (1,3) 
@@ -601,7 +601,7 @@ arrow <-> from B1.e to B3.w
 arrow right 0.2 from B1.e then down until even with B5 then right to B5.w
 ```
 
-For how this might be modelled in a flat or single hierarchy system see [I.7 Example 7. Aggregate DVD Television Serial and Episode records in 1-level Hierarchy Models](#manual-I.7)
+For how this might be modelled in a flat or single hierarchy system see \nameref{sec:example_seven}
 
 It is also possible for particular individual episodes from different moving image series/serials to be taken and formed together into a Collection or Augmentation Aggregate, in which case they would then follow the same pattern of structure as any other such aggregate, i.e. with an aggregate Manifestation and aggregating Work record, and associative relationship links to any existing individual Work/Variant episode records.
 
@@ -611,7 +611,7 @@ It is also possible for particular individual episodes from different moving ima
 
 These also do not constitute aggregates.
 
-The nature of news/newsreels is that the different stories do not constitute “independently created Works/Variants” and are more akin to multi-component moving images (see [Section E.2.2](#manual-E.2.2)), in that each component is meant to create the whole via filmed links that are an integral planned part and structure of an original single Work concept.
+The nature of news/newsreels is that the different stories do not constitute “independently created Works/Variants” and are more akin to multi-component moving images (see \nameref{sec:hybrid_aggregates_and_multi_component_moving_images}), in that each component is meant to create the whole via filmed links that are an integral planned part and structure of an original single Work concept.
 
 The process of creation of these is with one whole programme in mind made up of different filmed elements – the same as planned different location shooting (and crews) of different scenes in a feature film that are then edited together to create the whole.
 It is never envisaged that the individual news stories would ever have an independent individual release/broadcast on their own.
@@ -625,7 +625,7 @@ The component parts do not.
 
 It is possible that only individual components of newsreels/news programmes may be acquired by an institution.
 In such cases it is simply a matter of a partial/incomplete acquisition, in the same way that only 2 reels of a 3 reel feature film might be acquired.
-The acquisition Item record would be linked as “part of” the whole Manifestation (see [A.2.6.3 Analytic/Components of identified newsreels/cinemagazines](#manual-A.2.6.3)).
+The acquisition Item record would be linked as “part of” the whole Manifestation (see \nameref{sec:analytics_components_of_identified_newsreels_cinemagazines}).
 
 
 

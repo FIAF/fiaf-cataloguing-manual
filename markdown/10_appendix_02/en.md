@@ -108,7 +108,7 @@ Teaching version includes questions for discussion about the novel’s theme and
 ```
 
 \subsection[Attributes]{Attributes 
-    \label{sec:attributes}
+    \label{sec:note_attributes}
     } 
 
 Provide additional or explanatory information for any WVMI attributes as desired, particularly in cases where this information is not recorded elsewhere in dedicated fields.
@@ -329,7 +329,7 @@ Record details on the manufacturer (i.e. laboratory, studio, etc….), place of 
 
 **“Other relationships”**
 
-Record any additional information concerning all those relationships that are not covered by the Agent and Event relationships, the so-called “Other relationships” (see [D.17 Other Relationships for Works, Variants, Manifestations, Items](#manual-D.17)).
+Record any additional information concerning all those relationships that are not covered by the Agent and Event relationships, the so-called “Other relationships” (see \nameref{sec:work_variant_other_relationship_types}).
 
 
 

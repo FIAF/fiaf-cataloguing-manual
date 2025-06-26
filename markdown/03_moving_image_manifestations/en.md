@@ -1,6 +1,8 @@
 
 \newpage
-\section[Moving Image Manifestations]{Moving Image Manifestations \label{sec:moving_image_manifestations}} 
+\section[Moving Image Manifestations]{Moving Image Manifestations 
+    \label{sec:moving_image_manifestations}
+    } 
 
 \newpage
 \subsection[Definitions]{Definitions 
@@ -17,7 +19,7 @@ It may be whole or incomplete or a fragment.
 A Manifestation is not exclusively bound to a single Work/Variant, since it can be an aggregate for reasons connected to the publication, to the commercial release, or for mere convenience.
 A Manifestation can therefore be associated or linked to more than one Work/Variant, where an institution’s system allows.
 
-For Aggregate Manifestations see [Appendix E, Aggregates](#manual-E).
+For Aggregate Manifestations see \nameref{sec:aggregates_compilations_multi_component_productions}.
 
 \subsection[Boundaries between Manifestations]{Boundaries between Manifestations 
     \label{sec:boundaries_between_manifestations}
@@ -32,7 +34,7 @@ The boundaries between one Manifestation and another are drawn on the basis of t
 If the embodiment of a Work/Variant involves contextual changes, related to the publication or release process, the resulting product is a new Manifestation, e.g., a change from theatrical release to home video distribution; a change of release country and different dubbed/subtitled language; a change of broadcast company/streaming platform; a re-release or repeat broadcast on a different date, etc.
 
 In this case, create a new Manifestation and characterise it according to a controlled list.
-A suggested list, which is open and not exhaustive, can be found at [D.5 Manifestation Types](#manual-D.5)
+A suggested list, which is open and not exhaustive, can be found at \nameref{sec:manifestation_types}
 
 \subsubsection[Changes in the Format]{Changes in the Format 
     \label{sec:changes_in_the_format}
@@ -48,7 +50,7 @@ Create a new Manifestation when there is evidence of at least one (or more than 
 
 - Change in the container (i.e. cassette to cartridge as container for a tape).
 
-Include and describe any of the distinguishing physical changes according to the guidelines in [2.3.4 Format](#manual-2.3.4).
+Include and describe any of the distinguishing physical changes according to the guidelines in \nameref{sec:format_of_a_moving_image_manifestation}.
 
 The example below shows a number of possible Manifestations of the original Italian version of Il gattopardo (Italy, France, Luchino Visconti, 1963).
 
@@ -93,7 +95,7 @@ The element Manifestation Type describes the specific type of change.
 The Manifestation Type is expressed by a phrase denoting the relationship between the Manifestation and the associated Work/Variant, for example, “pre-release,” “theatrical distribution,” “not for release,” “original,” etc.
 
 Record the Manifestation Type by taking the most suitable term from a controlled list.
-A suggested list, which is open and not exhaustive, can be found in [D.5 Manifestation Types](#manual-D.5).
+A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_types}.
 
 If it is impossible to determine the specific Manifestation Type the information can be omitted or indicated by a value of “unknown.”
 
@@ -104,7 +106,7 @@ Statements made about Language, Format and/or Extent may have an added value of 
     } 
 
 \subsubsection[Identifier]{Identifier
-    \label{sec:identifier}
+    \label{sec:manifest_identifier}
     } 
 
 Create an unambiguous reference to the Manifestation, such as a specific standard number issued by an official body (i.e.
@@ -149,42 +151,42 @@ Manifestation identifier: V- ISAN 0000-0000-161F-0000-W-0000-0002-B – Italian
 ```
 
 \paragraph[Identifier Type]{Identifier Type
-    \label{sec:identifier_type}
+    \label{sec:manifest_identifier_type}
     } \
 
 If an institution’s system allows, as with the Work/Variant Identifiers a “Type” can be applied with an Identifier to define the source of the Identifier.
 
 \subsubsection[Title]{Title
-    \label{sec:title}
+    \label{sec:manifest_title}
     } 
 
 Record at least one title, identifying phrase, or name for the Manifestation Title.
 This is a transcribed element, reflecting the actual title as it appears on screen.
 The original release title would be added under the Work/Variant Title field.
 
-If multiple titles are recorded, where allowable, associate a “Title Type” to a title for differentiation between the various types of titles (see [2.3.2.1 Title Type](#manual-2.3.2.1) and [A.2 Title Types](#manual-A.2)).
+If multiple titles are recorded, where allowable, associate a “Title Type” to a title for differentiation between the various types of titles (see \nameref{sec:manifest_title_type} and \nameref{sec:title_types}).
 
 The title of a Manifestation can sometimes differ, either slightly or wholly from the title of the Variant or Work to which it is linked.
 This may be the case, for example, with the acquisition of an incomplete Manifestation lacking a title or with a title added by the source of the acquisition.
 
-See [Appendix A.1 Title](#manual-A.1) for further titling details and information.
+See \nameref{sec:appendix_title} for further titling details and information.
 
-For creating titles for untitled or unidentified entities see [A.2.5 Supplied/Devised Titles](#manual-A.2.5)
+For creating titles for untitled or unidentified entities see \nameref{sec:supplied_devised_titles}
 
-See [Appendix E.4](#manual-E.1) for titling of Aggregates.
+See \nameref{sec:definition} for titling of Aggregates.
 
-For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see [Chapter 0. Preliminary Notes](#manual-0.0).
+For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see \nameref{sec:purpose}.
 
-For sources of information for the Manifestation Title, see [Section 0.3 Sources of Information](#manual-0.3).
+For sources of information for the Manifestation Title, see \nameref{sec:prelim_sources_of_information}.
 
 \paragraph[Title Type]{Title Type
-    \label{sec:title_type}
+    \label{sec:manifest_title_type}
     } \
 
-Where relevant for an institution, if the Manifestation includes multiple titles, such as a title in another language for a dubbed or subtitled variant, record the relevant titles and associate a “Title Type” to each title for differentiation between the various types of titles (see [Appendix A, Titles and Title Types](#manual-A)).
+Where relevant for an institution, if the Manifestation includes multiple titles, such as a title in another language for a dubbed or subtitled variant, record the relevant titles and associate a “Title Type” to each title for differentiation between the various types of titles (see \nameref{sec:titles_and_title_types}).
 
 \subsubsection[Language]{Language
-    \label{sec:language}
+    \label{sec:manifest_language}
     } 
 
 “Language” should ideally be presented as a set of two elements: the language term, and its usage in a particular Manifestation.
@@ -203,13 +205,13 @@ Optionally, record the language code as found in ISO 639.
 If no language can be determined, the information can be omitted or indicated by a value of “not known”.
 
 \paragraph[Usage Type]{Usage Type
-    \label{sec:usage_type}
+    \label{sec:item_usage_type}
     } \
 
 More than one language can occur in different forms, depending on how the content is expressed: the usage type of the languages defines the form with which the language is expressed, for example, spoken, sung, written, etc.
 
 Record the usage type of a language by taking the most suitable value from a controlled list.
-A suggested list, which is open and not exhaustive, can be found in [D.6 Manifestation Language Usage Types](#manual-D.6).
+A suggested list, which is open and not exhaustive, can be found in \nameref{sec:language_usage_types}.
 
 If usage type(s) cannot be determined, indicate a value of “unknown”.
 
@@ -247,14 +249,14 @@ The concept of format as applied to Manifestations is the “ideal” representa
 A majority of the physical and digital description elements of moving image Manifestations are intended to be inherited by the Items, as they serve as the exemplars of Manifestations.
 In some databases, selection of a physical carrier type initiates provision of element fields relevant to that type at a Manifestation level, or an Item level, or both (e.g.
 in a 2-Level hierarchy.
-See “Shallow hierarchy model: 2 levels” found at [0.2.1 Elements of description across Works, Variants, Manifestations, and Items](#manual-0.2.1)).
+See “Shallow hierarchy model: 2 levels” found at \nameref{sec:elements_of_description}).
 
 Ideally the information need only be recorded once irrespective of where in the data structure an institution must place it.
 Therefore guidelines for the treatment of high-level physical and digital description elements are explained fully in the Manifestation chapter.
 The Item chapter contains a detailed listing of item-specific elements.
 Physical properties such as Extent and Format at the Manifestation level represent the “ideal,” and item-specific elements will capture where it differs from this “ideal” at the Item level.
 
-The information about the format of a Manifestation plays a relevant role because any change in format represents a criterion to determine the boundaries between one Manifestation and another (see [2.1 Boundaries between Manifestations](#manual-2.1)).
+The information about the format of a Manifestation plays a relevant role because any change in format represents a criterion to determine the boundaries between one Manifestation and another (see \nameref{sec:boundaries_between_manifestations}).
 
 Record a new Manifestation of a Work/Variant when there is evidence of at least one, or more than one, of the following changes associated with the format:
 
@@ -262,7 +264,7 @@ Record a new Manifestation of a Work/Variant when there is evidence of at least 
 - Changes to the display characteristics (i.e. in aspect ratio, sound or colour characteristics, etc.)
 - Change in the container (i.e. cassette to cartridge as container for a tape).
 
-In a note (See [Appendix B, Cataloguer’s Notes](#manual-B)), explain the format changes used to determine the Manifestation in hand as different and “new” in comparison with any other, already identified and described Manifestation.
+In a note (See \nameref{sec:cataloguers_notes}), explain the format changes used to determine the Manifestation in hand as different and “new” in comparison with any other, already identified and described Manifestation.
 
 The description of the format of a Manifestation is articulated in the following elements:
 
@@ -280,18 +282,18 @@ Carrier type is the medium on or the encoding format in which the Manifestation 
 Its description consists of a general carrier type, which describes the basic properties of the Manifestation’s physical format, for example, film, video tape, digital file, etc., and a specific carrier type, which corresponds to the gauge, in case of films and tapes, and for digital files, to the physical carrier on which the file is stored.
 
 \subparagraph[General Carrier Type]{General Carrier Type
-    \label{sec:general_carrier_type}
+    \label{sec:manifest_general_carrier_type}
     } \
 
 The broad media type of the Manifestation (e.g., film, video, audio, optical, digital file).
 Recording this high-level information will enable simple searching for only film, video, digital, etc. elements rather than searching by all possible formats and carriers.
 
-A suggested list, which is open and not exhaustive, can be found in [D.7.2 Manifestation/Item Specific Carrier Type](#manual-D.7.2).
+A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_item_specific_carrier_type}.
 
 For reasons of clarity and to avoid redundancy, optionally, institutions can decide to skip the general carrier type description, since it is already implicit in the specific carrier type.
 
 \subparagraph[Specific Carrier Type]{Specific Carrier Type
-    \label{sec:specific_carrier_type}
+    \label{sec:manifest_specific_carrier_type}
     } \
 
 Record the specific carrier type, by indicating
@@ -309,7 +311,7 @@ For optical media, only add commercially produced media here.
 If the optical media is “writable” and is being used to store a digital file, put the digital file format in the general carrrier type, and the optical storage media in specific media type.
 
 Select the value from a suitable controlled list.
-A suggested list, which is open and not exhaustive, can be found in [D.7.2 Manifestation/Item Specific Carrier Type](#manual-D.7.2).
+A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_item_specific_carrier_type}.
 
 \paragraph[Projection Characteristics of a Manifestation]{Projection Characteristics of a Manifestation
     \label{sec:projection_characteristics_of_a_manifestation}
@@ -321,7 +323,7 @@ The projection characteristics of a Manifestation include aspect ratio and apert
 
 The aspect ratio (also known as projection ratio) is the projected image area visible on screen, expressed as a value of width to height (the value of height always being “1”), for example, 2.34:1, 2.39:1.
 Selection should be made from a controlled list of values.
-A suggested list, which is open and not exhaustive, can be found in [D.7.14 Aspect Ratio](#manual-D.7.14).
+A suggested list, which is open and not exhaustive, can be found in \nameref{sec:aspect_ratio}.
 
 The aspect ratio reflects the compositional intentions of the original content makers and the intended presentation of the moving image content.^[This definition from Academy Film Archive in-house glossary of terms, and OLAC, Moving Image Works, Part 3a: Operational Definitions (08/09) (PDF Document), http://olacinc.org/drupal/capc_files/MIW_3a.pdf.] If the aspect ratio of a Work/Variant is altered, moving image information is lost, creating a Manifestation/Item with different moving image content.^[OLAC, Moving Image Works, Part 3a: Operational Definitions (08/09) (PDF Document), http://olacinc.org/drupal/capc_files/MIW_3a.pdf] The Manifestation should reflect the projected image of the Work/Variant that it represents, rather than that on the Item.
 Institutions may record variations in projection characteristics as Item-specifics, rather than create multiple Manifestations.
@@ -331,7 +333,7 @@ Institutions may record variations in projection characteristics as Item-specifi
 The actual exposed image or picture area as it appears on the moving image itself, for example Academy, Full screen, Widescreen, etc. The image format does not necessarily bear any relation to the preferred projection ratio (aspect ratio) of the moving image.^[This definition from Academy Film Archive in-house glossary of terms.]
 
 Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in [D.7.15 Aperture](#manual-D.7.15).
+A suggested list, which is open and not exhaustive, can be found in \nameref{sec:aperture}.
 
 \paragraph[Sound Characteristics of a Manifestation]{Sound Characteristics of a Manifestation
     \label{sec:sound_characteristics_of_a_manifestation}
@@ -343,7 +345,7 @@ Its description consists of a statement about the presence or absence of sound, 
 
 Indicate the presence or absence of sound in the Manifestation, i.e. “sound,” “silent,” “mute”.
 Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in [D.7.4 Manifestation/Item Sound Type](#manual-D.7.4).
+A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_item_sound_type}.
 
 Optionally, use a flag-type value indicating if the Manifestation includes recorded sound or not (i.e.: has sound: yes/no).
 
@@ -352,17 +354,17 @@ Optionally, use a flag-type value indicating if the Manifestation includes recor
     } \
 
 Describes the technical or proprietary system used to record the sound on a Manifestation/Item, for example, Dolby SR, Dolby Digital, etc. Select from a controlled list.
-A suggested list, which is open and not exhaustive, can be found in [D.7.13 Item Sound System](#manual-D.7.13).
+A suggested list, which is open and not exhaustive, can be found in \nameref{sec:item_sound_system}.
 
 \subparagraph[Sound Channel Configuration]{Sound Channel Configuration
-    \label{sec:sound_channel_configuration}
+    \label{sec:manifest_sound_channel_configuration}
     } \
 
 If the Manifestation has sound, note here the track configuration (e.g., mono, stereo, etc.).
 Selection should be made from a controlled list of terms.
 
 In case of presence of sound, optionally, if considered relevant, record the name of the physical principle of sound recording, for example, “Needle,”, “Optical,” “Magnetic,” etc. Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in [D.7.5 Manifestation/Item Sound Fixation Type](#manual-D.7.5).
+A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_item_sound_fixation_type}.
 
 If the Work/Variant associated with the Manifestation in hand had sound originally, but the Manifestation lacks sound, describe it as silent (or mute) and give a note to that effect.^[Based on AMIM2 5C3.]
 
@@ -379,10 +381,10 @@ Colour is also the specific colours, tones, etc. (including black and white) pre
 It consists of a designation of the colour state and, optionally, of the description of the colour system.
 
 Record the colour state of a Manifestation, for example, Black and white (tinted), Colour, Colour + Black & White, etc. Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in [D.7.11 Manifestation/Item Colour Type](#manual-D.7.11).
+A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_item_colour_type}.
 
 Optionally, if considered relevant, describe the system or process by which colour is fixed on the carrier or as part of the digital encoding, for example, Pathécolor, Technicolor, RGB, , etc. Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in [D.7.12 Manifestation/Item Colour Standard](#manual-D.7.12).
+A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_item_colour_standard}.
 
 \subsubsection[Extent of a Manifestation]{Extent of a Manifestation 
     \footnote {Partially based on EN 15907, 6.8 except for the physical components/units number, which is not provided for in the standard.} 
@@ -413,7 +415,7 @@ A hard-disk stored film in 3 files
 ```
 
 Record the number of the logical units of a Manifestation in Arabic numerals, and, if necessary, specify the type of unit, for example, reel, roll, disc, file, etc. Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in [D.7.6 Manifestation Unit Types](#manual-D.7.6).
+A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_unit_types}.
 
 If the number of the logical units of a Manifestation is uncertain, use a question mark following the unit count^[AMIM2, 5B5, p.9] or record the uncertain number preceded by “approximately.”^[RDA: 3.4.0.4]
 
@@ -452,7 +454,7 @@ Alternatively, provide for a distinguishing “precision” field specifying if 
 For Aggregate Manifestations record the length or footage of the whole, i.e. the total in feet or metres of all the units that constitute the Aggregate.
 In addition there is the option to qualify this with details of the physical extent of each individual unit in either a Notes field, or in multiple occurrences of the duration fields, depending on what systems used permit or an institution decides.
 
-For more information about aggregates, see [Appendix E, Aggregates](#manual-E).
+For more information about aggregates, see \nameref{sec:aggregates_compilations_multi_component_productions}.
 
 \paragraph[Duration of a Manifestation]{Duration of a Manifestation
     \footnote {Based on FIAF 1991, 5.3.4.2.} 
@@ -469,7 +471,7 @@ Record, in Arabic numerals, the total duration/running time in minutes, normally
 Optionally, include minutes and seconds, or, for a higher level of precision and to enable calculations, use the format HH:MM:SS.
 This numeric format will help to calculate estimated digital storage in analogue-to-digital transfer projects.
 
-If the duration/running time of a Manifestation is uncertain, use a question mark following the unit count or, if the system allows, use the qualifier “Duration Precision” and add the term “approximate.” (see [2.3.5.3.4 Duration Precision](#manual-2.3.5.3.4))
+If the duration/running time of a Manifestation is uncertain, use a question mark following the unit count or, if the system allows, use the qualifier “Duration Precision” and add the term “approximate.” (see \nameref{sec:manifest_duration_precision})
 
 In a note, give an explanation for the estimated duration/running time, if such information applies.^[Based on FIAF 1991, 5.3.4.2.]
 
@@ -491,7 +493,7 @@ The total running time of these may be added as duration, with an additional cla
 \end{tcolorbox}
 ```
 
-For more information about Aggregates see [Appendix E, Aggregates](#manual-E).
+For more information about Aggregates see \nameref{sec:aggregates_compilations_multi_component_productions}.
 
 \subparagraph[Duration of a Manifestation associated with a Work/Variant of the Silent Era]{Duration of a Manifestation associated with a Work/Variant of the Silent Era
     \label{sec:duration_of_a_manifestation_associated}
@@ -500,14 +502,14 @@ For more information about Aggregates see [Appendix E, Aggregates](#manual-E).
 When recording duration of Manifestations of a Work/Variant of the silent era, take into account that the rate of frames per second varied over the years and between Variants/Manifestations.
 Also take into account the so-called “stretch frame” practice, adopted after the silent era, which “increases the number of frames printed on a film to enable films shot at silent speeds to be projected at sound speed and retain the original temporal characteristics.” ^[Definition of “Stretch frame” taken from: http://www.nfsa.gov.au/preservation/glossary/stretch-frame.]
 
-In a note, indicate the frame rate on which the duration is based or if the Manifestation is the result of a “stretch frame” practice.^[Adapted from FIAF 5.3.4.2.] (See also [3.1.5.12 Frame Rate](#manual-3.1.5.12))
+In a note, indicate the frame rate on which the duration is based or if the Manifestation is the result of a “stretch frame” practice.^[Adapted from FIAF 5.3.4.2.] (See also \nameref{sec:frame_rate})
 
 \subparagraph[Duration of a Broadcast Manifestation associated with a Work/Variant]{Duration of a Broadcast Manifestation associated with a Work/Variant
     \label{sec:duration_of_a_broadcast}
     } \
 
 When recording duration for Broadcast Manifestations there are two potential sets of data: a Slot Duration and an Actual Running Time.
-If the system allows, note the type of duration in the Duration Type element (see [2.3.5.3.5 Duration Type](#manual-2.3.5.3.5)).
+If the system allows, note the type of duration in the Duration Type element (see \nameref{sec:duration_type}).
 
 Slot Duration relates to information from TV listings or publicity information for the programmed “slot” on the TV channel, whereas Actual Running Time relates to the exact running time of the entity when it was broadcast, excluding any inserted advertisements, etc. Thus, for example, an episode of the soap opera “Coronation Street” may have a Slot Duration of 30 minutes, but an Actual Running Time of 24 minutes.
 
@@ -517,7 +519,7 @@ This may also involve two potential sets of data: a whole slot start and end tim
 It is for an institution to choose whether to record both sets of data in each instance or limit to either just slot or actual broadcast/running times.
 
 \subparagraph[Duration Precision]{Duration Precision
-    \label{sec:duration_precision}
+    \label{sec:manifest_duration_precision}
     } \
 
 In this qualifier, note whether the duration is exact, approximate, or estimated.
@@ -534,7 +536,7 @@ For example, broadcast materials could have “Slot Duration” and “Actual Du
     \label{sec:notes_for_manifestations}
     }
 
-Notes for Manifestations are annotations providing additional information relating specifically to Manifestation attributes and relationships.^[Based on RDA 2.20.1.Basic Instructions on Making Notes on Manifestations or Items] See [Appendix B, Cataloguer’s Notes](#manual-B).
+Notes for Manifestations are annotations providing additional information relating specifically to Manifestation attributes and relationships.^[Based on RDA 2.20.1.Basic Instructions on Making Notes on Manifestations or Items] See \nameref{sec:cataloguers_notes}.
 
 \subsection[Relationships of a Manifestation]{Relationships of a Manifestation
     \label{sec:relationships_of_a_manifestation}
@@ -556,7 +558,7 @@ A Manifestation may have relationships with the following:
 - Variant
 
 \subsubsection[Agent(s)]{Agent(s)
-    \label{sec:agents}
+    \label{sec:manifest_agents}
     }
 
 An Agent for moving image Manifestations is defined as an entity that is involved in the exploitation (release, distribution, broadcasting), publishing, manufacturing or preservation of a Manifestation and who is considered to have major responsibility for, or be of major importance to, the Manifestation.
@@ -576,14 +578,14 @@ Provide access to Agents when they have made an important contribution to the pa
 In the case of aggregate Manifestations, if desirable and applicable, record multiple instances of Agent associated with the aggregated content.
 
 \paragraph[Agent Activity]{Agent Activity
-    \label{sec:agent_activity}
+    \label{sec:manifest_agent_activity}
     } \
 
 Describes the activity of the Agent(s) to make explicit the relationship(s) between the Agent(s) and the Manifestation.
 
 Record one or more Agent activity terms, for example, “distributor,” “broadcaster,” “broadcast channel,” etc., to express the nature of the agent’s relationship to the Manifestation.
 Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in [D.8 Manifestation Agent Types](#manual-D.8).
+A suggested list, which is open and not exhaustive, can be found in \nameref{sec:distributor_theatrical}.
 
 Choose the single most specific term in each case, if possible.
 If no suggested terms apply, compose a term to describe the relationship between the creator and the Manifestation being catalogued.
@@ -613,7 +615,7 @@ Publisher: Buena Vista International
 ```
 
 \subsubsection[Events]{Events
-    \label{sec:events}
+    \label{sec:manifest_events}
     }
 
 An Event characterises occurrences in the life cycle of a moving image Manifestation.
@@ -621,14 +623,14 @@ Instances of any Event type can have Agent and “Other” relationships.
 
 Record one or more Event type, for example, “decision,” “manufacture,” etc., to express the nature of the Event’s relationship to the Manifestation.
 Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in [D.4 Event Types](#manual-D.4).
+A suggested list, which is open and not exhaustive, can be found in \nameref{sec:event_type}.
 
 \subsubsection[“Other” Relationships]{“Other” Relationships
-    \label{sec:other_relationships}
+    \label{sec:manifest_other_relationships}
     }
 
 Expresses relationships that are not covered by the Agent and Event relationships.
-Aggregation relationships are expressed at the Work/Variant level (see [Appendix E, Aggregates](#manual-E)).
+Aggregation relationships are expressed at the Work/Variant level (see \nameref{sec:aggregates_compilations_multi_component_productions}).
 
 Commonly-occurring relationships include:
 
@@ -689,7 +691,7 @@ Othello, Orson Welles, USA- Italy-Morocco-France, 1952 and Otello, dailies and r
 
 Record one or more “Other” relationship type to express the nature of the relationship to the Manifestation, choosing the most specific term possible from existing relator terms lists, for example, “commentary on,” “review of,” etc. 
 Selection should be made from a controlled list of values.
-A suggested list, which is open and not exhaustive, can be found in [Appendix D.17.2 Manifestation Other Relationship Types](#manual-D.17.2).
+A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_other_relationship_types}.
 
 Or, compose a term to describe the relationship between the Manifestation being catalogued and the related Manifestation.
 
