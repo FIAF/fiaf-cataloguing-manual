@@ -14,7 +14,7 @@ If no pre-existing and authoritative lists are available, a non-exhaustive but m
 The Types below reflect terms used in CEN standard EN15907.
 
 **Analytic (component part)**: content that is contained in another content.
-A component part may itself be either monographic or serial.
+A component part may itself be either monographic or serial. Component here means intentional component part not fragments or excerpts, e.g. an individual element from a larger newsreel issue.
 
 Examples:
 
@@ -96,7 +96,7 @@ B4-6 Sylvia Syms I/V \& Jill Craigie I/V \\
 
 “David Lean home movies,” “Fifties features,” etc. would be the Work titles for the collection-level description, with Collection as its description level.
 
-The individual components of this collection would also be created as individual Works with Work titles at the Analytic level of description.
+The individual components of this collection would also be created as individual Monographic Works.
 
 For example:
 
@@ -549,15 +549,25 @@ The Manifestation types below can be used with Manifestations associated with ei
 
 EN15907 does not specify any Manifestation types other than Unknown. The Manifestation types listed below are based on existing types widely used by various archives and used with Manifestations associated with either Works or Variants. They are not the only possible types that can be used - this is not a definitive list of types. Institutions should use the types and terminologies best suited for their requirements and collections.
 
-\subsection[Pre-Release]{Pre-Release 
+\subsubsection[Pre-Release (or Production)]{Pre-Release (or Production) 
     \label{sec:pre_release}
     } 
 
-A moving image Manifestation type that may be used to represent any embodiments of a moving image Work that exist before the finalisation or release of the moving image Work. Also use for partially realised projects, i.e. productions that started filming but then project ceased before completion.
+A moving image Manifestation type that may be used to represent any embodiments of a moving image Work that exist before the finalisation or release of the moving image Work. Also use for partially realised projects, i.e. productions that started filming but then project ceased before completion, for which footage exists and may have been acquired by an institution.
+
+A Pre-Release Manifestation is effectively a Production Manifestation for which acquired Items used in the production of a film can be linked. Technically, a Pre-Release Manifestation does not refer to any release at all, but rather to embodiments of the creative process that goes into the creation or construction of the Work itself, i.e. raw or semi-edited footage that has been shot in the making of a moving image, whether it has been used in the ultimate finished Work or not. Its use also maintains the EN15907 structure when cataloguing production materials and not confusing Items that constitute these with Items that are simply copies of the completed, released film.
 
 It applies to production material in general, including: original shooting elements (i.e. original camera negative, working print, original video, editing file) and/or the first recording/mixing of the sound (separate original soundtracks – dialogues, sound, music, – or the first mixed soundtrack).
 
 It may also include, censorship submission prints, working assembly prints, rushes, costume tests, lighting tests, make-up tests, etc. where an institution may need or prefer to group together all production material, i.e. an institution may usually create rushes and tests as separate individual associated records but, where these are acquired as part of a large collection of production material for one particular moving image it prefers, for practical reasons, to keep records together for ease of access or for restoration work purposes.
+
+A Pre-Release Manifestation is effectively a Production Manifestation for which acquired Items used in the production of a film can be linked. Technically, a Pre-Release Manifestation does not refer to any release at all, but rather to embodiments of the creative process that goes into the creation or construction of the Work itself, i.e. raw or semi-edited footage that has been shot in the making of a moving image, whether it has been used in the ultimate finished Work or not. Effectively, it is a convenient device in order to maintain the EN15907 structure when cataloguing production materials and not to confuse Items that constitute these with Items that are simply copies of the completed, released film.
+
+Pre-Release Manifestation can also be used with moving images which started production but were never finished and for which footage exists and may have been acquired by an institution.
+
+Depending on the quantity and nature of materials, an institution may create Works in their own right for different in-production filmed aspects, e.g. Screen Tests, Rushes, etc. which are then related to the main, final moving image Work in an associative relationship. Each of these Works would then have their own linked Pre-Release Manifestation.
+
+Equally, an institution may choose to link all acquired production Items (whether analogue or digital) to a single Pre-Release Manifestation linked to the main complete Work, or possibly to several different Pre-Release Manifestations such as one for Screen Tests, one for Rushes, one for general production material, etc.
 
 It may also be used for initial record creation purposes prior to material being viewed and catalogued, which may then result in separate Work/Variant records for Rushes and Tests material to which the Manifestation record will link.
 
@@ -575,7 +585,17 @@ Beauty jungle: Artist Test – Shirley Ann Field
 \end{tcolorbox}
 ```
 
-Also applied to moving image Manifestations assembled for submission to censorship/ratings bodies, or moving image Manifestations with cuts resulting from those censorship activities.
+Depending on the quantity and nature of materials, an institution may create Works in their own right for different in-production filmed aspects, e.g. Screen Tests, Rushes, etc. which are then related to the main, final moving image Work in an associative relationship. Each of these Works would then have their own linked Pre-Release Manifestation.
+
+[CREATE AND INSERT DIAGRAM TO ILLUSTRATE HERE]
+
+Equally, an institution may choose to link all acquired production Items (whether analogue or digital) to a single Pre-Release Manifestation linked to the main complete Work, or possibly to several different Pre-Release Manifestations such as one for Screen Tests, one for Rushes, one for general production material, etc.
+
+[CREATE AND INSERT DIAGRAM TO ILLUSTRATE HERE]
+
+It may also be used for initial record creation purposes prior to material being viewed and catalogued, which may then subsequently result in further Pre-Release Manifestations and/or Works/Variants
+
+In addition, it may be applied to moving image Manifestations assembled for submission to censorship/ratings bodies, or moving image Manifestations with cuts resulting from those censorship activities.
 
 Detail on the specific nature of the Pre-Release Manifestation (e.g. censorship cuts, working assembly edit, etc.) can be added as a property of the Manifestation Type, from controlled vocabulary or free text, as preferred.
 
@@ -639,14 +659,14 @@ Sound mixes
 
 These describe the context, not the format. For example, a censorship print may exist as multiple Items (35mm print, ProRes, MP4)
 
-Some of these could also be achieved by creating separate Works, rather than capturing these as Manifestations of the film work.
+As mentioned previously, some of these could also be achieved by creating separate Works, rather than capturing these as Manifestations of the film work.
 
 Examples:
 
 ```{=latex}
 \begin{tcolorbox}
 Il gattopardo (Luchino Visconti, 1963)
-Pre-release, original camera negative – 35mm – Technirama (horizontal frame 8 perf) – Anamorphic – aspect ratio 2,55 : 1
+Pre-release, original camera negative – 35mm – Technirama (horizontal frame 8 perf) – Anamorphic – aspect ratio 2,55:1
 Work: Il gattopardo (Italy, 1963, Luchino Visconti)
 Variant “first cut”: 206’ – first projection – 1963/03/28 (date of first projection) – Rome, Italy
 Manifestation 1: Pre-release (original camera negative) – Film – 35mm – 2,55: 1 Anamorphic – Technirama (horizontal frame 8 perf) – Colour Technicolor
@@ -676,7 +696,6 @@ A moving image Manifestation type representing Manifestations distributed and ex
 
 These Manifestation types can be more than one instance, created at the same time or in a different moment, from the same “reproduction” masters.
 
-
 Example^[http://cinema.encyclopedie.films.bifi.fr/index.php?pk=47676&_ga=1.256088331.1431169682.1413365901]:
 
 ```{=latex}
@@ -692,47 +711,7 @@ Manifestation 2: Home Video Publication (Italy – 2009 – 25/09/2009) - DVD �
 \end{tcolorbox}
 ```
 
-\paragraph[Theatrical distribution (country of origin)]{Theatrical distribution (country of origin)
-    \label{sec:theatrical_distribution_country_of_origin}
-    } \
-
-Refers to a public theatrical screening of the film in the country where the film was (primarily) made. For multi-national co-productions, the country of origin is the country where the primary production company is based.
-
-Example:
-
-```{=latex}
-\begin{tcolorbox}
-Mujeres al borde de un ataque de nervios (Spain, 1988-03-23)
-\end{tcolorbox}
-```
-
-\paragraph[Theatrical distribution (outside country of origin)]{Theatrical distribution (outside country of origin)
-    \label{sec:theatrical_distribution_outside_country_of_origin}
-    } \
-
-Refers to a public theatrical screening of a manifestation outside the country where it was made. In many cases in BFI cataloguing this will refer to the first documented United Kingdomscreening of a non-UK film.
-
-Example:
-
-```{=latex}
-\begin{tcolorbox}
-Women on the Verge of a Nervous Breakdown (UK, 1989-06-16)
-\end{tcolorbox}
-```
-
-\paragraph[Theatrical distribution (country unknown)]{Theatrical distribution (country unknown)
-    \label{sec:theatrical_distribution_country_unknown}
-    } \
-
-Refers to a known public theatrical release, where the country cannot be ascertained.
-
-Example:
-
-```{=latex}
-\begin{tcolorbox}
-Kiss Me Kate (1953, country unknown)
-\end{tcolorbox}
-```
+If required there are also further sub-categories of Theatrical distribution which can be used.
 
 \subsubsection[Non-theatrical distribution]{Non-theatrical distribution
     \label{sec:non_theatrical_distribution}
@@ -894,7 +873,7 @@ Manifestation 2: TV Broadcast (UK, 2009-01-25, 21:00-22:00, ITV2) colour – ste
     \label{sec:internet}
     } 
 
-A moving image Manifestation distributed on the Internet (stream or download) for works of any type, those conceived as Internet works or those conceived in other type but subsequently distributed on the internet (for free or pay).
+A moving image Manifestation distributed on the Internet (stream or download) for works of any type, those conceived as Internet works or those conceived in other type but subsequently distributed on the internet (for free or paid subscription).
 
 Example:
 
@@ -948,31 +927,45 @@ Manifestation 2: Internet: Arabic, English, French (spoken language); English su
 \end{tcolorbox}
 ```
 
-\subsubsection[Preservation/Restoration]{Preservation/Restoration
-    \label{sec:preservation_restoration}
+\subsubsection[Preservation]{Preservation
+    \label{sec:preservation}
+    } 
+
+Refers to manifestations which represent the outcome(s) of an institution’s internal copying of moving image items held in their collection for preservation purposes. This often involves copying of the moving image onto a different format, e.g. digitised file(s), for preservation and/or access purposes.  
+
+[ADD LINK TO ILLUSTRATIVE DIAGRAM IN NEW APPENDIX WHEN ADDED]
+
+\subsubsection[Restoration]{Restoration
+    \label{sec:restoration}
     } 
 
 Refers to manifestations which represent the outcome(s) of restoration events/activities, usually involving selection and aggregation of materials from diverse source elements to replicate an ‘original’ or ‘ideal’ manifestation.
 Some institutions may use this to refer to restorations undertaken by the institution (not to be confused with the Variant, resulting from reconstruction made by aggregating different sources, see \nameref{sec:boundaries_between_works_and_variants}.
 
-Example ^[http://www.silentera.com/video/metropolisHV.html] ^[http://www.murnau-stiftung.de/movie/674 and http://www.schnittberichte.com/news.php?ID=7433]:
+If required there is the option of creating more than one Restoration Manifestation to group specific outcomes of the project, e.g. a Manifestation for a Demonstration Reel, Raw scans, final digital DCP and DCDM materials resulting from the restoration process, etc. particularly where there may be several Items, or copies, relating to these on different formats.
+
+  Example:
 
 ```{=latex}
 \begin{tcolorbox}
-The great white silence (2010) (United Kingdom, Herbert Pointing, 1924) (DVD –Dual Format Edition – BFI)
+The great white silence (United Kingdom, Herbert Pointing, 1924) (DVD –Dual Format Edition – BFI) (2010 restoration)
 \end{tcolorbox}
 ```
+
+Example^[http://www.silentera.com/video/metropolisHV.html]:
 
 ```{=latex}
 \begin{tcolorbox}
 Metropolis (Germany, Fritz Lang, 1927)
-The Complete Metropolis – Blu Ray – (2010 restoration – Kino International, United States of America, 2010)
+The Complete Metropolis – Blu Ray – (2010 restoration – Kino International, USA, 2010)
 \end{tcolorbox}
 ```
 
+Example^[http://www.murnau-stiftung.de/movie/674 and http://www.schnittberichte.com/news.php?ID=7433]:
+
 ```{=latex}
 \begin{tcolorbox}
-Nosferatu. Eine Symphonie des Grauens (Germany, 1922, Friedrich Wilhelm Murnau) Blu-Ray of the preservation/Restoration Variant: 2005-2006 restoration – Murnau Stiftung/Transit Classics – Deluxe Edition – 2014 – EAN 888430505797
+Nosferatu. Eine Symphonie des Grauens (Germany, 1922, Friedrich Wilhelm Murnau) Blu-Ray of the Restoration Variant: 2005-2006 restoration – Murnau Stiftung/Transit Classics – Deluxe Edition – 2014 – EAN 888430505797
 \end{tcolorbox}
 ```
 
@@ -1414,7 +1407,7 @@ For example, in a scenario where a Manifestation or Event occurs within the cont
 
 Agent responsible for making available a Manifestation not intended for public release (distribution, publication or broadcasting) in private environments.
 
-For example,  in a scenario where a Manifestation not intended for public release is shown within a private environment, such as a production company showing a “blooper” reel (off-cuts of amusing things that went wrong during shooting the film) at a cast and crew party on the production company or studio premises. Or a private press preview showing.
+For example, in a scenario where a Manifestation not intended for public release is shown within a private environment, such as a production company showing a “blooper” reel (off-cuts of amusing things that went wrong during shooting the film) at a cast and crew party on the production company or studio premises. Or a private press preview showing.
 
 \subsubsection[Agent unclear or undetermined]{Agent unclear or undetermined
     \label{sec:agent_unclea_or_undetermined}
@@ -1469,10 +1462,12 @@ These are not pertinent as both Works and Variants have Manifestations and it is
     \label{sec:manifestation_preservation_types}
     } 
 
-Duplication
+Duplication (Printing / Recording)
 Transfer
 Reproduction
 Digitisation
+Reconstruction
+Restoration
 
 \subsection[Manifestation Decision Types]{Manifestation Decision Types
     \label{sec:manifestation_decision_types}

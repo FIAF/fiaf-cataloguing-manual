@@ -4,7 +4,6 @@
     \label{sec:moving_image_works}
     } 
 
-
 \newpage
 \subsection[Definitions]{Definitions 
     \footnote {For a discussion of other definitions of the “Work” and Variant entities, see \nameref{sec:moving_image_works}.} 
@@ -108,7 +107,7 @@ University College Hospital. Endoscopy – Colonscope. Patient HX3456. 2010 (Uni
 \end{tcolorbox}
 ```
 
-\subsubsection[Moving Image Variant]{Moving Image Variant 
+\subsubsection[Moving Image Variant (e.g., Versions)]{Moving Image Variant (e.g., Versions) 
     \footnote {Adapted from EN 15907, 4.2 Variant.} 
     \label{sec:work_moving_image_variant}
     } 
@@ -815,7 +814,7 @@ Where an official national certificate or designation of a Work exists, use this
 According to the 2004 law, the biggest part of the cast and crew, the locations, and the technical facilities have to be Italian, and 30% of the budget has to be spent in Italy. There is a number of exceptions for artistic reasons and in case of co-productions.]
 When more than one place is associated with a Work/Variant, choose the place(s) with primary importance.
 
-For institutions who need or require specific ordering of country of reference then the following is a possible example of how this may be achieved.^[This is the formula followed by the British Film Institute. BFI CID Stylistics Manual – 2nd Edition. A.8.1.]
+For institutions who need or require specific ordering of country of reference then the following options are possible examples of how this may be achieved.^[The first of these was the formula followed by the British Film Institute. BFI CID Stylistics Manual – 2nd Edition. A.8.1., which subsequently changed to using a country of reference ordering based more on the on-screen ordering of production companies. CID Cataloguing Manual|Moving Image Catalogue (revised 2022). F.4 and F.4.1.]
 
 If the Work is a multi-national production, the countries added to the record should be in order of financial involvement.
 For example, an Austrian/Italian/French co-production where the Austrian production company/sponsors financed 60%, the Italian 25% and the French 15% then the order of the countries would be: Austria, Italy, France.
@@ -824,12 +823,17 @@ If it is not possible to establish clearly the financial percentages of each cou
 
 If the production company has branches in more than one country, choose the one responsible for the production of the work.
 
-If the Work is a multi-national production, with production companies in multiple countries, choose the predominant production company if known.
+If the Work is a multi-national production, with production company branches in multiple countries, and it is not clear which particular one was involved, then choose the predominant production company if known.
 
-Record the country of origin using the full form of the country name, e.g. United Kingdom rather than UK, by taking the most suitable value(s) from a controlled list.
-This can be an in-house list but the use of a standard list such as ISO 3166^[[http://www.iso.org/iso/home/standards/country_codes.htm](http://www.iso.org/iso/home/standards/country_codes.htm)] is preferable.
-If ISO is used, apply the English Short Name that is associated to a code.
-Optionally, record the country code as found in ISO 3166-1-alpha 2.
+Alternatively, since it is often impossible for a cataloguer to determine with any level of accuracy the precise percentages of financial involvement of companies, assign country of origin based on the nationality of the production companies in the order that they appear on screen (for example,  copyright companies followed by production and then ‘presents’ companies). Look at which companies are named on the screen as copyright holders, production companies, and 'presents' companies, with all the attendant credits for production companies such as ‘In association with’, ‘With the participation of’, ‘Supported by’, and add the countries in which these companies are based as country of references for the Work, starting with that of the primary production company.
+
+It is recognised that countries can lay out their credits differently, sometimes with less important companies listed first, or with a 'presents' credit as the only credit of the major production companies.
+
+If the production company has branches in more than one country, choose the production country of the actual branch responsible for the production of the work. If the Work is a multi-national production, with a production company with branches in multiple countries and it is unclear which branch was involved, choose the predominant production company if known.
+
+An institution should compile its own rules for ordering of country of reference depending on its preferred practice or needs.
+
+Record the country of origin using the full form of the country name, e.g. United Kingdom rather than UK, by taking the most suitable value(s) from a controlled list. This can be an in-house list but the use of a standard list such as ISO 3166^[http://www.iso.org/iso/home/standards/country_codes.htm] is preferable. If ISO is used, apply the English Short Name that is associated to a code. Optionally, record the country code as found in ISO 3166-1-alpha 2.
 
 If the country name has changed, record the name of the country as it was at the time of production, e.g., Czechoslovakia for a Work/Variant produced in 1970, but Czech Republic or Slovakia for one from 2012.^[ISO 3166-3 Codes for the representation of names of countries and their subdivisions -- Part 3: Code for formerly used names of countries, is available for purchase as a PDF on the ISO website: [http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=2130](http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=2130)]
 
