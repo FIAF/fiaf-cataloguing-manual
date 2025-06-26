@@ -38,10 +38,12 @@ Physical/digital description elements that are considered Manifestation-specific
 
 Create an unambiguous numerical or alphanumerical reference to the moving image Item, such as a call number, barcode, shelf mark or similar, to uniquely identify the copy.^[EN 15907, “Inventory number,” p. 12] This may be in addition to separate Acquisition and Accession number(s) or identifier(s).
 
-For digital files, the filename is not an identifier since filenames can change.
-Instead, the filename is tracked as part of the technical metadata associated with a digital item.
+For digital files, the filename is not an identifier since filenames can change. Filenames are unreliable for uniquely identifying digital objects due to several limitations: users or systems may rename files, causing loss of reference; different versions of the same files from multiple sources can share identical names; and, changing storage locations makes filenames unreliable for tracking. Moreover different systems and organisations may use varying file-naming schemes and have limited interoperability.
 
-As with Work and Manifestation Identifiers, an Item can have more than one Identifier.
+Digital systems use UUID (Universally Unique Identifier), Internal Database IDs and Persistent Identifiers, which, unlike UUIDs, may not be globally unique but are essential for internal collection management and control. They play a crucial role in organising and archiving digital content, ensuring unambiguous identification within asset management systems.  This means that the filename is tracked as part of the technical metadata associated with a digital item.
+
+As with Work and Manifestation Identifiers, besides its one unique identifier an Item can have more than one Identifier.
+
 For example, a film Item may have a barcode for the can and a shelf number for its location.
 Note the type of Identifier using Identifier Type.
 
@@ -50,7 +52,7 @@ Note the type of Identifier using Identifier Type.
     } \
 
 If an institution’s system allows, a “Type” can be applied with an Identifier to define the source of the Identifier.
-Examples: Barcode, Shelf mark, Accession number.
+Examples: Barcode, Shelf mark, Accession number, UUID (Universally Unique Identifiers), Persistent Identifiers (PID), Internal Database IDs.
 
 \subsubsection[Title]{Title 
     \label{sec:title}
