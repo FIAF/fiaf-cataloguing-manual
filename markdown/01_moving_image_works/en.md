@@ -2,14 +2,6 @@
 \newpage
 \section[Moving Image Works]{Moving Image Works \label{sec:moving_image_works}} 
 
-TODO: update all links with nameref
-
-TODO: Check that label sec for sections are unique
-
-TODO: footnote syntax, after or before period
-
-TODO: example syntax, italics or bulletpoints.
-
 \newpage
 \subsection[Definitions]{Definitions 
     \footnote {For a discussion of other definitions of the “Work” and Variant entities, see \nameref{sec:moving_image_works}.} 
@@ -113,7 +105,7 @@ University College Hospital. Endoscopy – Colonscope. Patient HX3456. 2010 (Uni
 \end{tcolorbox}
 ```
 
-\subsubsection[Moving Image Variant]{Moving Image Variant 
+\subsubsection[Moving Image Variant (e.g., Versions)]{Moving Image Variant (e.g., Versions) 
     \footnote {Adapted from EN 15907, 4.2 Variant.} 
     \label{sec:moving_image_variant}
     } 
@@ -820,7 +812,7 @@ Where an official national certificate or designation of a Work exists, use this
 According to the 2004 law, the biggest part of the cast and crew, the locations, and the technical facilities have to be Italian, and 30% of the budget has to be spent in Italy. There is a number of exceptions for artistic reasons and in case of co-productions.]
 When more than one place is associated with a Work/Variant, choose the place(s) with primary importance.
 
-For institutions who need or require specific ordering of country of reference then the following is a possible example of how this may be achieved.^[This is the formula followed by the British Film Institute. BFI CID Stylistics Manual – 2nd Edition. A.8.1.]
+For institutions who need or require specific ordering of country of reference then the following options are possible examples of how this may be achieved.^[This is the formula followed by the British Film Institute. BFI CID Stylistics Manual – 2nd Edition. A.8.1.]
 
 If the Work is a multi-national production, the countries added to the record should be in order of financial involvement.
 For example, an Austrian/Italian/French co-production where the Austrian production company/sponsors financed 60%, the Italian 25% and the French 15% then the order of the countries would be: Austria, Italy, France.

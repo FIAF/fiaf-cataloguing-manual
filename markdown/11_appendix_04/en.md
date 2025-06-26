@@ -14,7 +14,7 @@ If no pre-existing and authoritative lists are available, a non-exhaustive but m
 The Types below reflect terms used in CEN standard EN15907.
 
 **Analytic (component part)**: content that is contained in another content.
-A component part may itself be either monographic or serial.
+A component part may itself be either monographic or serial. Component here means intentional component part not fragments or excerpts, e.g. an individual element from a larger newsreel issue.
 
 Examples:
 
@@ -96,7 +96,7 @@ B4-6 Sylvia Syms I/V \& Jill Craigie I/V \\
 
 “David Lean home movies,” “Fifties features,” etc. would be the Work titles for the collection-level description, with Collection as its description level.
 
-The individual components of this collection would also be created as individual Works with Work titles at the Analytic level of description.
+The individual components of this collection would also be created as individual Monographic Works.
 
 For example:
 
@@ -1381,7 +1381,7 @@ For example, in a scenario where a Manifestation or Event occurs within the cont
 
 Agent responsible for making available a Manifestation not intended for public release (distribution, publication or broadcasting) in private environments.
 
-For example,  in a scenario where a Manifestation not intended for public release is shown within a private environment, such as a production company showing a “blooper” reel (off-cuts of amusing things that went wrong during shooting the film) at a cast and crew party on the production company or studio premises. Or a private press preview showing.
+For example, in a scenario where a Manifestation not intended for public release is shown within a private environment, such as a production company showing a “blooper” reel (off-cuts of amusing things that went wrong during shooting the film) at a cast and crew party on the production company or studio premises. Or a private press preview showing.
 
 \subsubsection[Agent unclear or undetermined]{Agent unclear or undetermined
     \label{sec:agent_unclea_or_undetermined}
