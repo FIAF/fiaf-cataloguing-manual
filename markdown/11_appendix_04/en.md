@@ -96,7 +96,7 @@ B4-6 Sylvia Syms I/V \& Jill Craigie I/V \\
 
 “David Lean home movies,” “Fifties features,” etc. would be the Work titles for the collection-level description, with Collection as its description level.
 
-The individual components of this collection would also be created as individual Works with Work titles at the Analytic level of description.
+The individual components of this collection would also be created as individual Monographic Works.
 
 For example:
 
