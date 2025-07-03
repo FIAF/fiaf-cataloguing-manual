@@ -20,6 +20,21 @@ The EN15907 standard gives the following event types:
 •	A preservation event shall be associated with the variant, manifestation or item that resulted from the preservation process.  
 [ADD LINK TO FILMSTANDARDS WEBSITE FOR EACH BULLET POINTED TYPE OF EVENT]
 
+
+|           Event Types           |
+| Work | Variant | Manifestation | Item |
+|   |   | Publication |   |
+| Award(s) or Nomination(s) | Award(s) or Nomination(s) | Award(s) or Nomination(s) |
+| Production | Production |   |   |
+| Rights/Copright/IPR Registration | Rights/Copyright/IPR Registration | Licensing | Licensing |
+|   | Preservation | Preservation | Preservation |
+|   | Decision | Decision |   |
+|   |   | Manufacture |   |
+|   |   |   | Acquisition |
+|   |   |   | Inspection |
+
+
+
 Record one or more Event type, for example, “publication,” “copyright/IPR registration,” “festival showing,” etc., to express the nature of the Event’s relationship to the Work/Variant. Selection should be made from a controlled list of terms. A suggested list, which is open and not exhaustive, can be found in D.4 Event Types.
 
 \subsection[7.2 Events - Manifestation]{7.2 Events - Manifestations\label{sec:Events_-_Manifestations}}
@@ -33,3 +48,5 @@ Record one or more Event type, for example, “decision,” “manufacture,” e
 An Event characterises occurrences in the life cycle of a moving image Item. Instances of any Event type can have Agent and “Other” relationships.
 
 Record one or more Event types, for example, “preservation,” “inspection,” “acquisition”, etc., to express the nature of the Event’s relationship to the Item. Selection should be made from a controlled list of terms. A suggested list, which is open and not exhaustive, can be found in D.4 Event Types.
+
+
