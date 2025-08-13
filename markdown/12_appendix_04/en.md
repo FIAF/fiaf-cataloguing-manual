@@ -11,10 +11,10 @@ If no pre-existing and authoritative lists are available, a non-exhaustive but m
     \label{sec:work_variant_description_types}
     } 
 
-The Types below reflect terms used in CEN standard EN15907.
+The Types below reflect terms used in Section 4.1.2 Attributes in the CEN standard EN15907. (INSERT LINK IN A FOOTNOTE along with "The terms and their definitions used in the EN15907 Standard itself are rooted in those from UNESCO CCF/B (Common Communications Format / Bibliographic, UNESCO PGI-92/WS/9, Paris, 1992, which related to bibliographic information.)
 
 **Analytic (component part)**: content that is contained in another content.
-A component part may itself be either monographic or serial. Component here means intentional component part not fragments or excerpts, e.g. an individual element from a larger newsreel issue.
+A component part may itself be either monographic or serial. Component here means intentional component part not fragments or excerpts of a moving image, e.g. an individual element from a larger newsreel issue.
 
 Examples:
 
