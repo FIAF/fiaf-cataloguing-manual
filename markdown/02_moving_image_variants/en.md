@@ -17,6 +17,7 @@ This and the following sections provide in-depth definitions of the terms as use
     \footnote {Adapted from EN 15907, 4.2 Variant.} 
     \label{sec:moving_image_variant}
     } 
+    
 
 A moving image Variant is an entity that may be used to indicate any change to content-related characteristics that do not significantly change the overall content of a Work as a whole.
 Such Variants can be produced by minor additions, deletions or substitutions to the content.
