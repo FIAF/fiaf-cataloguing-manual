@@ -119,7 +119,7 @@ Aggregate compilation videos/DVDs that are collections of individual works exist
 
 Provide a list of the compiled works contained in the Collections Work in its Synopsis or Summary field.
 
-\subsection[Variant Type]{Variant Type 
+\subsection[Variant Type]{Variant Type [Remove D.2 - now inserted in new Variants chapter]
     \footnote {YCR, 2.1.1 Nature of modification (change in content) of expression} 
     \label{sec:appendix_variant_type}
     } 
