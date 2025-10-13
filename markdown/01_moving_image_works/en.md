@@ -1526,9 +1526,9 @@ The Bourne Identity (2002)
 Genre(s) = Thriller, Crime, Action and Adventure
 Subject(s) = Identity, Black ops, Political assassinations (ie. 3 core terms reflecting the central themes of the film, or the nub of what it is about).
 Subject terms Car chases, Paris, Motorways, Guns, Fights, Surveillance, etc. are not included  – these are all featured within the film but are not what the film is all about.
-The content description/synopsis of a Work can be used to highlight factors that may be prominent but not core in the storyline
+The content description/synopsis of a Work can be used to highlight factors that may be prominent but not core in the storyline. Similarly, The Bourne Ultimatum could have the same subjects as above, plus "Manhunts" since a central part of the storyline of this film is the government agency's hunt for Jason Bourne to try and eliminate him. It could also possibly include "CIA" as well as the thread running through the film is that CIA personnel are both hunting Bourne and trying to find out about the earlier covert operations/organisations.
 
-Is Place a core subject term?
+Is Place a core subject term? 
 It is for the Cataloguer to assess and judge whether to include place as a subject term in the record.
 In order to establish whether place is a core subject to include in subject cataloguing or not you would need to assess the significance of place within the storyline and themes of the moving image and whether it is integral to the story or themes of the moving image or incidental.
 
@@ -1536,7 +1536,8 @@ For example, in Brighton Rock (1948) the place of Brighton is integral to the 
 
 Place is more likely to be a core subject term in cataloguing non-fiction moving images. For example, Bunkar: The Last of the Varanasi Weavers (2018) is a documentary that focuses on the lives of the weavers of Varanasi in Uttar Pradesh. Gulabi Gang (2014) is about a women’s movement standing against gender violence and caste oppression, but the geographical place Bundelkhand is also relevant to add as a subject term both for context and because there are shots of the area in the film.
 
-With fiction moving images, care is needed not to confuse place with shooting location, e.g. the early Alfred Hitchcock film The Manxman (1926) is set in a fishing village in the Isle of Man, but was actually filmed on location in Cornwall. 
+With fiction moving images, care is needed not to confuse place within the storyline of the moving image with shooting location during filming, e.g. the early Alfred Hitchcock film The Manxman (1926) is set in a fishing village in the Isle of Man, but was actually filmed on location in Cornwall, England.
+
 If adding place as a subject it would not therefore be Cornwall but the Isle of Man, since that is what the film is about and where it is set.
 
 Actual filming locations data can be added in a different field (in the EN15907 structure locations and production information can be added to a linked Production Event).
@@ -1547,10 +1548,6 @@ Form - a further categorisation term, i.e. Fiction, Non-fiction, Short, etc. whi
 Subject - reflects what the Work is of /about
 
 There are no rules as to how many genre and subject terms can be associated with a Work. It will be different from film to film and down to the assessment of the individual cataloguer within the levels of subject cataloguing decided by their institution.
-
-
-
-
 
 \subsubsection[Other relationships]{Other relationships 
     \footnote {EN 15907 8.5 HasAsSubject; YCR, 1.2.7 Relationships With Other Moving Image Works or Other Kinds of Works} 
