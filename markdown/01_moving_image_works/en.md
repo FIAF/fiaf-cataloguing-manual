@@ -1504,6 +1504,54 @@ TODO this is an example table
   Genres
   1. Drama. 2. Features.
 
+When considering the assigning of subject terms to a moving image Work record there are two main components to consider in making an intellectual assessment; the contexts "of" and "about"
+
+Of is straightforwardly, explicitly what is seen and visible in the shots and scenes that make up the moving image. 
+
+About is the elements of a moving image that are implicit from the unfolding and combining of different images, or more explicit from interviews, commentary, or narration on the soundtrack.
+
+EN15744 advocates that all Works should have at least one subject term as a minimum.
+
+But it is up to each archive or institution to decide the depth and level of subject indexing, and whether it catalogues according to the principle of capturing just what is seen, or just what it is about/what are its themes. The ideal is to have both elements:
+
+“one must try to capture what is seen onscreen as well as what the images are about conceptually.” (Olwen Terris)
+
+Decisions will depend on resources, technologies, an institution’s requirements and user needs, etc.  Some may choose to apply different levels and balances of these two of  and about  elements depending on whether the moving image is fiction or non-fiction. Footage libraries, for example, may be more likely to concentrate on of elements, but other archives may prefer to focus on about subjects. 
+
+[ADD IN FURTHER EXAMPLES FROM OTHER ARCHIVES TO BOURNE ONE BELOW]
+
+BFI practice would be to assess what the film is mainly about and apply  2-3 core subject terms, plus any extra ones deemed necessary or relevant, for example:
+
+The Bourne Identity (2002)
+Genre(s) = Thriller, Crime, Action and Adventure
+Subject(s) = Identity, Black ops, Political assassinations (ie. 3 core terms reflecting the central themes of the film, or the nub of what it is about).
+Subject terms Car chases, Paris, Motorways, Guns, Fights, Surveillance, etc. are not included  – these are all featured within the film but are not what the film is all about.
+The content description/synopsis of a Work can be used to highlight factors that may be prominent but not core in the storyline
+
+Is Place a core subject term?
+It is for the Cataloguer to assess and judge whether to include place as a subject term in the record.
+In order to establish whether place is a core subject to include in subject cataloguing or not you would need to assess the significance of place within the storyline and themes of the moving image and whether it is integral to the story or themes of the moving image or incidental.
+
+For example, in Brighton Rock (1948) the place of Brighton is integral to the story – it is about gangsters in the English seaside town of Brighton and that is where the whole story is set. However, in the comedy film  Carry On at Your Convenience (1971), which contains scenes of a works outing to the seaside (which just happens to be Brighton) it is not integral – it simply features in one bit of the storyline. 
+
+Place is more likely to be a core subject term in cataloguing non-fiction moving images. For example, Bunkar: The Last of the Varanasi Weavers (2018) is a documentary that focuses on the lives of the weavers of Varanasi in Uttar Pradesh. Gulabi Gang (2014) is about a women’s movement standing against gender violence and caste oppression, but the geographical place Bundelkhand is also relevant to add as a subject term both for context and because there are shots of the area in the film.
+
+With fiction moving images, care is needed not to confuse place with shooting location, e.g. the early Alfred Hitchcock film The Manxman (1926) is set in a fishing village in the Isle of Man, but was actually filmed on location in Cornwall. 
+If adding place as a subject it would not therefore be Cornwall but the Isle of Man, since that is what the film is about and where it is set.
+
+Actual filming locations data can be added in a different field (in the EN15907 structure locations and production information can be added to a linked Production Event).
+
+Works should also ideally have at least one Genre (and/or Form) and one Subject term as a minimum.
+Genre - reflects what the work is (i.e. in terms of categories of Works characterised by similar plots, themes, settings, situations, and characters, eg. Horror, Science-fiction, Crime, Comedy, etc.)
+Form - a further categorisation term, i.e. Fiction, Non-fiction, Short, etc. which some systems may have as a separate category whilst others incorporate them within their Genre terms.
+Subject - reflects what the Work is of /about
+
+There are no rules as to how many genre and subject terms can be associated with a Work. It will be different from film to film and down to the assessment of the individual cataloguer within the levels of subject cataloguing decided by their institution.
+
+
+
+
+
 \subsubsection[Other relationships]{Other relationships 
     \footnote {EN 15907 8.5 HasAsSubject; YCR, 1.2.7 Relationships With Other Moving Image Works or Other Kinds of Works} 
     \label{sec:work_other_relationships}
