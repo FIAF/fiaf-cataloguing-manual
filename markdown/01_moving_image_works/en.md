@@ -1443,6 +1443,8 @@ Form describes the format and/or purpose of a Work, e.g., “non-fiction”, “
 Genre describes categories of Works, characterized by similar plots, themes, settings, situations, and characters.
 Examples of genres are “westerns” and “thrillers”.^[Frequently Asked Questions about Library of Congress Genre/Form Terms for Library and Archival Materials (LCGFT), Revised June 6, 2011, http://www.loc.gov/catdir/cpso/genre_form_faq.pdf] Use an existing and widely used data value standard such as Library of Congress Thesaurus for Genre/Form Terms in Libraries and Archives (LCGFT)^[http://id.loc.gov/authorities/genreForms], or equivalent in country where work is being done, or an in-house controlled vocabulary genre thesaurus.
 
+[SUGGEST REPLACING THE ABOVE WITH REVISED TEXT BELOW]
+
 Provide access to the Work by means of subjects (or subject identifiers) that describe the content of the Work, and additionally by genre(s) and/or form(s) (or identifiers) of which the Work is an example (i.e. what the Work is). Works should ideally have at least one Genre (and/or Form) and one Subject term as a minimum.
 
 Genre - reflects what the Work is (i.e. in terms of categories of Works characterised by similar plots, themes, settings, situations, and characters, e.g. Horror, Science-fiction, Crime, Westerns, Thrillers, Comedy, etc.)
@@ -1453,7 +1455,7 @@ Subject - reflects the content of the Work, what it features and what it is ab
 
 There are no rules as to how many genre and subject terms can be associated with a Work. It will be different from film to film and down to the assessment of the individual cataloguer within the levels of subject cataloguing decided by their institution.
 
-TODO this is an example table
+TO DO this is an example table
 
   Examples:
 
