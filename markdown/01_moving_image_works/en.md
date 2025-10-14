@@ -1523,13 +1523,13 @@ Decisions will depend on resources, technologies, an institution’s requirement
 BFI practice would be to assess what the film is mainly about and apply  2-3 core subject terms, plus any extra ones deemed necessary or relevant, for example:
 
 The Bourne Identity (2002)
-Genre(s) = Thriller, Crime, Action and Adventure
+Genre(s) = Thriller, Crime, Action and Adventure
 Subject(s) = Identity, Black ops, Political assassinations (ie. 3 core terms reflecting the central themes of the film, or the nub of what it is about).
 Subject terms Car chases, Paris, Motorways, Guns, Fights, Surveillance, etc. are not included  – these are all featured within the film but are not what the film is all about.
 The content description/synopsis of a Work can be used to highlight factors that may be prominent but not core in the storyline. Similarly, The Bourne Ultimatum could have the same subjects as above, plus "Manhunts" since a central part of the storyline of this film is the government agency's hunt for Jason Bourne to try and eliminate him. It could also possibly include "CIA" as well as the thread running through the film is that CIA personnel are both hunting Bourne and trying to find out about the earlier covert operations/organisations.
 
-Is Place a core subject term? 
-It is for the Cataloguer to assess and judge whether to include place as a subject term in the record.
+Is Place a core subject term?
+It is for the Cataloguer to assess and judge whether to include place as a subject term in the record.
 In order to establish whether place is a core subject to include in subject cataloguing or not you would need to assess the significance of place within the storyline and themes of the moving image and whether it is integral to the story or themes of the moving image or incidental.
 
 For example, in Brighton Rock (1948) the place of Brighton is integral to the story – it is about gangsters in the English seaside town of Brighton and that is where the whole story is set. However, in the comedy film  Carry On at Your Convenience (1971), which contains scenes of a works outing to the seaside (which just happens to be Brighton) it is not integral – it simply features in one bit of the storyline. 
@@ -1543,7 +1543,7 @@ If adding place as a subject it would not therefore be Cornwall but the Isle of 
 Actual filming locations data can be added in a different field (in the EN15907 structure locations and production information can be added to a linked Production Event).
 
 Works should also ideally have at least one Genre (and/or Form) and one Subject term as a minimum.
-Genre - reflects what the work is (i.e. in terms of categories of Works characterised by similar plots, themes, settings, situations, and characters, eg. Horror, Science-fiction, Crime, Comedy, etc.)
+Genre - reflects what the work is (i.e. in terms of categories of Works characterised by similar plots, themes, settings, situations, and characters, eg. Horror, Science-fiction, Crime, Comedy, etc.)
 Form - a further categorisation term, i.e. Fiction, Non-fiction, Short, etc. which some systems may have as a separate category whilst others incorporate them within their Genre terms.
 Subject - reflects what the Work is of /about
 
