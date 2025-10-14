@@ -1453,7 +1453,7 @@ Form - a further categorisation term relating to what the Work is and the form i
 
 Subject - reflects the content of the Work, what it features and what it is about.
 
-There are no rules as to how many genre and subject terms can be associated with a Work. It will be different from film to film and down to the assessment of the individual cataloguer within the levels of subject cataloguing decided by their institution.
+There are no rules as to how many genre and subject terms can be associated with a Work. It will be different from moving image to moving image and down to the assessment of the individual cataloguer within the levels of subject cataloguing decided by their institution.
 
 TO DO this is an example table
 
@@ -1520,7 +1520,7 @@ TO DO this is an example table
     \label{sec:assigning_subject_terms}
     } \
 
-When considering the assigning of subject terms to a moving image Work record there are two main components to consider in making an intellectual assessment; the contexts "of" and "about"
+When considering the assigning of subject terms to a moving image Work record there are two main components to consider in making an intellectual assessment; the contexts of "about" and "of":
 
 ***Of*** is straightforwardly, explicitly what is seen and visible in the shots and scenes that make up the moving image. 
 
@@ -1528,9 +1528,9 @@ When considering the assigning of subject terms to a moving image Work record th
 
 EN15744 advocates that all Works should have at least one subject term as a minimum.
 
-But it is up to each archive or institution to decide the depth and level of subject indexing, and whether it catalogues according to the principle of capturing just what is seen, or just what it is about. The ideal is to have both elements:
+But it is up to each institution to decide the depth and level of subject indexing, and whether it catalogues according to the principle of capturing just what is seen, or just what it is about. The ideal is to have both elements:
 
-“one must try to capture what is seen onscreen as well as what the images are about conceptually.” (NB.Olwen Terris - cite source in footnote)
+“one must try to capture what is seen onscreen as well as what the images are about conceptually.” (NB.Olwen Terris - cite source in footnote
 
 Decisions will depend on resources, technologies, an institution’s requirements and user needs, etc.  Some may choose to apply different levels and balances of these two ***of*** and ***about*** elements depending on whether the moving image is fiction or non-fiction. Footage libraries, for example, may be more likely to concentrate on ***of*** elements, but other archives may prefer to focus on ***about*** subjects. 
 
