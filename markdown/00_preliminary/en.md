@@ -274,6 +274,14 @@ AFI Catalog of Feature Films: 1930-1939.
 Title derived from film opening credits.
 \end{tcolorbox}
 ```
+Where viewing the primary source is not possible, the cataloguer is dependent on secondary sources. Access to sources of information has increased massively in the 21st century, particularly with the World Wide Web.
+
+This means the authority and context of the source is important for the cataloguer to consider before utilising it, i.e. whose website is it and where did their information come from? 
+
+As far as possible use authoritative secondary sources, e.g. official websites for a film, press packs, published catalogues and directories, and data from other Archives accessible databases, websites, or publications, who may have researched and created records for the moving image already. These may also include other non-moving image collections held by your institution, such as special collections of papers, books, stills, posters, etc.
+
+The number of websites stating the same “fact” is not a safe indicator. Websites copy off each other and it is easy for an erroneous fact to be perpetuated across multiple websites.  [Create FOOTNOTE which links to BFI record for Richard Greene https://collections-search.bfi.org.uk/web/results ] The cataloguer needs to assess, balance and judge accuracy, e.g. IMDB and Wikipedia can be good for information, but they also allow submissions and changes from the public so it is not necessarily always accurate.
+
 
 \subsection[Display issues]{Display issues
     \label{sec:display_issues}
