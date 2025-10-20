@@ -635,7 +635,6 @@ Content description
 | | D.16.3 Item Surface Deposit – Film and Video| Good condition | Dobrý stav |
 | | D.16.4 Item Image – Film and Video| Good condition | Dobrý stav |
 | | D.16.5 Item Decomposition – Film and Video| Good condition | Dobrý stav |
-| | D.16.6 Item Shrinkage - Film | Good condition | Dobrý stav |
 | 3.1.6.2 Item location | | FA-019-12-1-1 | FA-019-12-1-1 |
 | 3.3 Relationships of an Item | | | |
 | 3.3.1 Agent(s) | | Slovak Film Institute | Slovenský filmový ústav |

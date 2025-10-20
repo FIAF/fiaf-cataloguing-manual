@@ -1136,36 +1136,6 @@ Image negative
 Sound negative
 DCP
 
-\subsubsection[Item File Size – Digital]{Item File Size – Digital
-    \label{sec:item_file_size_digital}
-    } 
-
-GB (Gigabyte)
-KB
-
-\subsubsection[Item Codec type]{Item Codec type
-    \label{sec:item_codec_type}
-    } 
-
-See also:
-PBCore essenceTrackEncoding (http://metadataregistry.org/concept/list/vocabulary_id/156.html)
-EBUVideoCompressionCode (https://www.ebu.ch/metadata/cs/web/ebu_VideoCompressionCodeCS_p.xml.htm
-
-**VIDEO**
-
-AVC   
-D10   
-NIL    
-ProRes 422 (HQ)    
-S10    
-JPEG2000    
-MPEG-4 H264/AVC Main Profile    
-
-**AUDIO**
-
-AIFF    
-WAV
-
 \subsubsection[Manifestation/Item Colour Type]{Manifestation/Item Colour Type
     \label{sec:manifestation_item_colour_type}
     } 
@@ -1285,58 +1255,6 @@ Hitachi
 Seagate
 Toshiba
 Western Digital
-
-\subsubsection[Item Bit Depth]{Item Bit Depth
-    \label{sec:item_bit_depth}
-    } 
-
-10
-16
-24
-32
-
-\subsubsection[Item Frame Rate/Transfer Speed]{Item Frame Rate/Transfer Speed
-    \label{sec:item_frame_rate_transfer_speed}
-    } 
-
-16fps
-23.98 fps
-24fps
-25fps
-30fps
-48fps
-Variable
-
-\subsubsection[Item Resolution]{Item Resolution
-    \label{sec:item_resolution}
-    } 
-
-Standard Definition
-High Definition
-2k
-4k
-6k
-8k
-
-\subsubsection[Item Source Device]{Item Source Device
-    \label{sec:item_source_device}
-    } 
-
-Examples of hardware required to play the source item.
-
-DVSI
-VT20
-HDCAM SRW5500/2
-
-\subsubsection[Item Line Standard]{Item Line Standard
-    \label{sec:item_line_standard}
-    } 
-
-405
-525
-625
-720
-1080
 
 \subsection[Manifestation Agent Types]{Manifestation Agent Types
     \label{sec:manifestation_agent_types}
@@ -1568,15 +1486,6 @@ http://avaa.bavc.org/artifactatlas/index.php/A/V_Artifact_Atlas
 Powder
 Sticky
 Sticky at head
-
-\subsubsection[Item Shrinkage - Film]{Item Shrinkage - Film
-    \label{sec:item_shrinkage_film}
-    } 
-
-Description of the level of any shrinkage that has occurred to the Item, ideally in percentages.
-1-1.5%
-1.5-2%
-2-2.5%
 
 \subsection[Other Relationships for Works, Variants, Manifestations, Items]{Other Relationships for Works, Variants, Manifestations, Items
     \label{sec:other_relationships_for_works_variants_manifestations_items}
