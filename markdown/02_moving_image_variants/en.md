@@ -37,6 +37,8 @@ For example, an institution may have a television recording of a motion picture 
     \label{sec:appendix_variant_type}
     } 
 
+Identify and describe the kind of change from a Work that gives rise to any instance(s) of a Variant. Selection should be made from a controlled list of values, for example:
+
 * Censored
 * Dubbed
 * Subtitled
