@@ -14,7 +14,7 @@ buck = b2_api.get_bucket_by_name("cataloguing-manual")
 print(buck)
 
 print('@@@', pathlib.Path.cwd())
-print('@@@', pathlib.Path.cwd().iterdir())
+print('@@@', [x for x in pathlib.Path.cwd().iterdir()])
 
 
 # r = buck.upload_local_file(pathlib.Path.cwd() / 'test.md', 'test.md')
