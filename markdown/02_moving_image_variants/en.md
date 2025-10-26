@@ -123,12 +123,6 @@ The Scarlet Flower – Variant title – Dubbed (English)
 \end{tcolorbox}
 ```
 
-Title Type
-
-Country of Reference
-
-Year/Date of Reference
-
 Date Type
 
 Date Precision
