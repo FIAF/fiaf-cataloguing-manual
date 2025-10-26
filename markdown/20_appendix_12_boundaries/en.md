@@ -221,6 +221,71 @@ B35: box rad 5px "Yes" fit at (7,-0.5); arrow down 0.1 from B1.s then right unti
 B36: box rad 5px "Catalogue material as" "MANIFESTATION of original" fit at (7,-1); arrow from B35.s to B36.n
 ```
 
+
+\subsubsection[Boundaries between Variants]{Boundaries between Variants
+    \label{sec:boundaries_between_variants}
+    } 
+
+It is possible for a moving image Variant to be modified in such a way as to create a new Variant related to the previous one^[YCR, Expressions of Expressions, p. 47]. The boundaries between one Variant and another may be drawn on the basis of the following alterations to the content:^[The types of alterations given here are adapted from Yee, “The Concept of Work for Moving Image Materials.”]
+
+**Change in continuity (secondary editing)**
+
+*Revision or modification of already edited footage of completed work.*
+
+Example^[Cornick, Michael. (2008). Modern Film Censorship: Television, Airlines, and Home Entertainment. p. 44]:
+
+```{=latex}
+\begin{tcolorbox}
+In 2007, some in-flight showings of The Queen (2006) distributed to Delta and other airlines had all references to the word “God” edited out by an overzealous and inexperienced employee.
+\end{tcolorbox}
+```
+
+*Abridgements or additions to existing content.*
+
+Example^[[https://en.wikipedia.org/wiki/The_Leopard](https://en.wikipedia.org/wiki/The_Leopard)]: a release of a dubbed film abridged or augmented
+
+```{=latex}
+\begin{tcolorbox}
+Il gattopardo (Italy, France,1963, Luchino Visconti)  \\
+Dubbed/ Abridged: The leopard, English (spoken language) -1963 – United States of America – 161’ (Theatrical distribution in United States of America, the 20th Century Fox cut 45 minutes); Subtitled: The leopard, English (spoken language) -1980 – United States of America (reintegrates the original running time of 187’).
+\end{tcolorbox}
+```
+
+**Change in textual and spoken word aspect**
+
+*Same dialogue and/or narration rendered in different spoken, sung or written languages.*
+
+Example of a release of a foreign film (dubbed), subtitled in a different language: 
+
+```{=latex}
+\begin{tcolorbox}
+Die kleine und die grosse Liebe (Germany, 1938, Joseph von Backy) \\
+Dubbed/Subtitled Variant: Il piccolo e il grande amore, Italian (spoken language), English (subtitles) – Italy – 1938
+\end{tcolorbox}
+```
+
+**Change in performance/performers**
+
+*Addition, removal and/or replacement of some of the contributors (e.g., cast and/or crew), associated with a Work.*
+
+Example^[Information from IMDb and Wikipedia]:
+
+```{=latex}
+\begin{tcolorbox}
+The re-dubbed North American English version of the Japanese movie, Godzilla 2000: Millennium (1999), includes the following credits unique to this Variant: \\
+Dubbing Director: Mike Schlesinger \\
+Media: Cinema/TV/VHS/DVD \\
+Dubbing Studio: Tristar Pictures/Sony Pictures Entertainment
+\end{tcolorbox}
+```
+
+TODO TABLE MISSING HERE.
+
+If much of the original textual and spoken word material remains, most of the original footage remains in roughly the same continuity, however abridged, and substantially most of the contributors are the same, the existence of alterations more often than not constitute a new Variant, rather than a new Work.
+
+
+
+
 \subsubsection[Boundaries between Manifestations and Works or Variants]{Boundaries between Manifestations and Works or Variants
     \label{sec:boundaries_between_manifestations_and_works_or_variants}
 
@@ -422,65 +487,3 @@ Where a Work/Variant structure exists then Our herring industry would constitute
 Where no Variant structure exists then the cataloguer would decide whether it constituted a Manifestation or new Work.
 
 It is up to every archive or institution to choose and make its own policy on whether to use Variants or Manifestations.
-
-\subsubsection[Boundaries between Variants]{Boundaries between Variants
-    \label{sec:boundaries_between_variants}
-    } 
-
-It is possible for a moving image Variant to be modified in such a way as to create a new Variant related to the previous one^[YCR, Expressions of Expressions, p. 47]. The boundaries between one Variant and another may be drawn on the basis of the following alterations to the content:^[The types of alterations given here are adapted from Yee, “The Concept of Work for Moving Image Materials.”]
-
-**Change in continuity (secondary editing)**
-
-*Revision or modification of already edited footage of completed work.*
-
-Example^[Cornick, Michael. (2008). Modern Film Censorship: Television, Airlines, and Home Entertainment. p. 44]:
-
-```{=latex}
-\begin{tcolorbox}
-In 2007, some in-flight showings of The Queen (2006) distributed to Delta and other airlines had all references to the word “God” edited out by an overzealous and inexperienced employee.
-\end{tcolorbox}
-```
-
-*Abridgements or additions to existing content.*
-
-Example^[[https://en.wikipedia.org/wiki/The_Leopard](https://en.wikipedia.org/wiki/The_Leopard)]: a release of a dubbed film abridged or augmented
-
-```{=latex}
-\begin{tcolorbox}
-Il gattopardo (Italy, France,1963, Luchino Visconti)  \\
-Dubbed/ Abridged: The leopard, English (spoken language) -1963 – United States of America – 161’ (Theatrical distribution in United States of America, the 20th Century Fox cut 45 minutes); Subtitled: The leopard, English (spoken language) -1980 – United States of America (reintegrates the original running time of 187’).
-\end{tcolorbox}
-```
-
-**Change in textual and spoken word aspect**
-
-*Same dialogue and/or narration rendered in different spoken, sung or written languages.*
-
-Example of a release of a foreign film (dubbed), subtitled in a different language: 
-
-```{=latex}
-\begin{tcolorbox}
-Die kleine und die grosse Liebe (Germany, 1938, Joseph von Backy) \\
-Dubbed/Subtitled Variant: Il piccolo e il grande amore, Italian (spoken language), English (subtitles) – Italy – 1938
-\end{tcolorbox}
-```
-
-**Change in performance/performers**
-
-*Addition, removal and/or replacement of some of the contributors (e.g., cast and/or crew), associated with a Work.*
-
-Example^[Information from IMDb and Wikipedia]:
-
-```{=latex}
-\begin{tcolorbox}
-The re-dubbed North American English version of the Japanese movie, Godzilla 2000: Millennium (1999), includes the following credits unique to this Variant: \\
-Dubbing Director: Mike Schlesinger \\
-Media: Cinema/TV/VHS/DVD \\
-Dubbing Studio: Tristar Pictures/Sony Pictures Entertainment
-\end{tcolorbox}
-```
-
-TODO TABLE MISSING HERE.
-
-If much of the original textual and spoken word material remains, most of the original footage remains in roughly the same continuity, however abridged, and substantially most of the contributors are the same, the existence of alterations more often than not constitute a new Variant, rather than a new Work.
-
