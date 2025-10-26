@@ -1435,16 +1435,6 @@ A suggested list, which is open and not exhaustive, can be found in \nameref{sec
     \label{sec:subject_genre_form_terms}
     } 
 
-Provide access to the Work by means of subjects (or subject identifiers) that describe the content of the Work (i.e., what the Work is about and/or features).
-Use an existing data value standard such as Library of Congress Subject Headings (LCSH).^[Adapted from YCR, 1.3.3. Subjects, pp. 43-45] Alternatively, or additionally, use standards such as Universal Decimal Classification (UDC), Dewey Decimal Classification (DDC), or equivalent in country in which you are working, or an in-house data value standard.
-
-In addition, access to the Work can be provided by means of genre(s) and/or form(s) (or identifiers) of which the Work is an example (i.e., what the Work is).
-Form describes the format and/or purpose of a Work, e.g., “non-fiction”, “short” and “animation” are particular forms or identifiers.
-Genre describes categories of Works, characterized by similar plots, themes, settings, situations, and characters.
-Examples of genres are “westerns” and “thrillers”.^[Frequently Asked Questions about Library of Congress Genre/Form Terms for Library and Archival Materials (LCGFT), Revised June 6, 2011, http://www.loc.gov/catdir/cpso/genre_form_faq.pdf] Use an existing and widely used data value standard such as Library of Congress Thesaurus for Genre/Form Terms in Libraries and Archives (LCGFT)^[http://id.loc.gov/authorities/genreForms], or equivalent in country where work is being done, or an in-house controlled vocabulary genre thesaurus.
-
-[SUGGEST REPLACING THE ABOVE WITH REVISED TEXT BELOW]
-
 Provide access to the Work by means of subjects (or subject identifiers) that describe the content of the Work, and additionally by genre(s) and/or form(s) (or identifiers) of which the Work is an example (i.e. what the Work is). Works should ideally have at least one Genre (and/or Form) and one Subject term as a minimum.
 
 Genre - reflects what the Work is (i.e. in terms of categories of Works characterised by similar plots, themes, settings, situations, and characters, e.g. Horror, Science-fiction, Crime, Westerns, Thrillers, Comedy, etc.)
