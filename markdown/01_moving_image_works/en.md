@@ -1298,12 +1298,6 @@ A Variant may have relationships with the following:
 - Manifestation(s)
 - Other (including other Variants)
 
-\subsubsection[Agents (e.g. Cast, Credits, Person, Organisation, etc.)]{Agents (e.g. Cast, Credits, Person, Organisation, etc.)
-    \label{sec:work_agents}
-    }
-
-
-
 
 
 \subsubsection[Events (e.g., IPR registration, screenings, awards, etc.)]{Events (e.g., IPR registration, screenings, awards, etc.) 
