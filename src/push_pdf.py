@@ -28,7 +28,7 @@ print(link)
 with open(pathlib.Path.cwd() / 'src' / 'template.md') as readme_in:
   readme_in = readme_in.read()
 
-with open(pathlib.Path.cwd() / 'README.md', 'w) as readme_out:
+with open(pathlib.Path.cwd() / 'README.md', 'w') as readme_out:
   readme_out.write(readme_in)
 
 
