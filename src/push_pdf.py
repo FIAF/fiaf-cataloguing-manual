@@ -1,6 +1,7 @@
 from b2sdk.v2 import InMemoryAccountInfo
 from b2sdk.v2 import B2Api
 import os
+import pathlib
 
 APP_KEY = os.environ["BACKBLAZE_APP_KEY"]
 APP_KEY_ID = os.environ["BACKBLAZE_APP_KEY_ID"]
@@ -12,4 +13,10 @@ b2_api.authorize_account("production", APP_KEY_ID, APP_KEY)
 buck = b2_api.get_bucket_by_name("cataloguing-manual")
 print(buck)
 
+print('@@@', pathlib.Path.cwd())
+print('@@@', pathlib.Path.cwd().iterdir())
 
+
+# r = buck.upload_local_file(pathlib.Path.cwd() / 'test.md', 'test.md')
+
+# print(r)
