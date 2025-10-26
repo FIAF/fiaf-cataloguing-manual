@@ -32,10 +32,9 @@ For example, an institution may have a television recording of a motion picture 
 
 **Therefore, this entity is optional.** If employed, each instance of a Variant is related to a Work and can have one-to-many relationships with instances of Manifestation(s), and many-to-many relationships with Event(s), Agent(s) and Other Relation(s). If no Variant of a Work exists or is known to exist, then this entity can be omitted, connecting an instance of a Work with one or more instances of Manifestation. The above is the case under EN15907, but please note that the Variant is an integral part of the data architecture of IFLA Library Reference Model (LRM), so if the latter standard is being used in your institution then use of Variants would be expected.
 
-
-Attributes of a Variant
-
-Variant Description Type
+\subsection[Attributes of a Variant]{Attributes of a Variant 
+    \label{sec:attributes_of_a_variant}
+    } 
 
 \subsection[Variant Type]{Variant Type
     \footnote {YCR, 2.1.1 Nature of modification (change in content) of expression} 
@@ -57,7 +56,19 @@ Identify and describe the kind of change from a Work that gives rise to any inst
 
 A change in colour, which is a physical property, expresses a different Manifestation according to the data model this manual follows. However, it is recognised that in practice, institutions who employ the Variant entity may consider changes to colour to provoke the creation of a Variant because the colourisation of a black and white Work represents a fundamental change to the visual aspects of the original Work.
 
-Elements of a Variant
+\subsection[Elements of a Variant]{Elements of a Variant 
+    \label{sec:elements_of_a_variant}
+    } 
+
+This section describes the metadata elements that can be used to describe a Variant.
+It is up to each institution to choose which elements are most applicable to describe their collections and according to what their system can support.
+
+This Manual recommends using the qualifier “Type” for several core elements if an institution’s system can support it.
+In these cases, “Type” is used to define the source, function or purpose of the value entered in the main element.
+Using a “Type” qualifier conforms to its use in Dublin Core and other Dublin Core-influenced standards such as EBUCore and PBCore.
+Examples of using “Type” include the Identifier, Title, Date, and Description elements.
+
+
 
 Variant Identifier
 
