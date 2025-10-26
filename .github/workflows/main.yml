@@ -14,6 +14,9 @@ jobs:
     - name: install b2sdk
       run: pip3 install b2sdk
     - name: run python script
+      env:
+        BACKBLAZE_APP_KEY: ${{ secrets.BACKBLAZE_APP_KEY }}
+        BACKBLAZE_APP_KEY_ID: ${{ secrets.BACKBLAZE_APP_KEY_ID }}
       run: python3 src/push_pdf.py
 
 
