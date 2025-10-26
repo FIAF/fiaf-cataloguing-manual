@@ -3,6 +3,11 @@ from b2sdk.v2 import B2Api
 import os
 import pathlib
 
+BRANCH_NAME = pathlib.Path(os.environ["BRANCH_NAME"]).name
+PDF_NAME = f'{BRANCH_NAME}-manual_en.pdf'
+
+print(PDF_NAME)
+
 APP_KEY = os.environ["BACKBLAZE_APP_KEY"]
 APP_KEY_ID = os.environ["BACKBLAZE_APP_KEY_ID"]
 
