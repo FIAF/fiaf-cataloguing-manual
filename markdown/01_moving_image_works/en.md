@@ -613,16 +613,6 @@ Record the level of description of the work being catalogued, for example, “an
 The terms used in this Manual are derived from traditional bibliographic cataloguing rules and from EN 15907 (and are defined in Appendix D.1), but an institution may choose to create its own list of terms. See \nameref{sec:work_variant_description_types}.
 
 
-\subsubsection[Variant Type]{Variant Type 
-    \footnote {EN 15907, 4.2.2 Attributes of a Variant, variant type; YCR, 2.1.1 Nature of modification (change in content) of expression, p. 48} 
-    \label{sec:variant_type}
-    } 
-
-Identify and describe the kind of change from a Work that gives rise to any instance(s) of a Variant.
-Selection should be made from a controlled list of values.
-Examples: Censored; Dubbed; Subtitled; Edited for TV. See \nameref{sec:appendix_variant_type}.
-
-
 \subsection[Elements of a Work/Variant]{Elements of a Work/Variant 
     \label{sec:elements_of_a_work_variant}
     } 
