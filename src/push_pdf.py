@@ -23,5 +23,8 @@ link = buck.get_download_url(PDF_NAME)
 
 print(link)
 
+with open(pathlib.Path.cwd() / 'src' / 'template.md') as readme:
+  readme.write(pathlib.Path.cwd() / 'README.md')
+
 
 
