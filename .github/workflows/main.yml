@@ -21,10 +21,13 @@ jobs:
       run: mkdir src/render
     - name: run script
       run: cd src && ./local.sh 
-    # - name: push pdf
-      # run: |
-        # git config user.name 'github-actions[bot]'
-        # git config user.email 'github-actions[bot]@users.noreply.github.com'
-        # git add *
-        # git commit -a -m "pdf generated"
-        # git push
+    - name: backblaze auth
+      env:
+        B2_APPLICATION_KEY: ${{ secrets.BACKBLAZE_APP_KEY }}  
+        B2_BUCKET_NAME: ${{ secrets.BACKBLAZE_BUCKET_NAME }}  
+      run: |
+        # auth access to bucket.
+        b2 authorize --key="$B2_APPLICATION_KEY" --bucket="$B2_BUCKET_NAME"
+        # upload file to bucket.
+        b2 upload-file "$B2_BUCKET_NAME" "./README.md"
+
