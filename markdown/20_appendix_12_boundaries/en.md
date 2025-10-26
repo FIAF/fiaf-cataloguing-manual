@@ -221,7 +221,5 @@ B35: box rad 5px "Yes" fit at (7,-0.5); arrow down 0.1 from B1.s then right unti
 B36: box rad 5px "Catalogue material as" "MANIFESTATION of original" fit at (7,-1); arrow from B35.s to B36.n
 ```
 
-
-
-\subsubsection[Boundaries between Works and Variants/Manifestations]{Boundaries between Works and Variants/Manifestations
-    \label{sec:boundaries_between_works_and_variants_manifestations}
+\subsubsection[Boundaries between Manifestations and Works or Variants]{Boundaries between Manifestations and Works or Variants
+    \label{sec:boundaries_between_manifestations_and_works_or_variants}
