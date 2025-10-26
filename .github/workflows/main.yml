@@ -28,6 +28,7 @@ jobs:
         B2_APPLICATION_KEY: ${{ secrets.BACKBLAZE_APP_KEY }}  
         B2_BUCKET_NAME: ${{ secrets.BACKBLAZE_BUCKET_NAME }}  
       run: |
+        export DISPLAY=none
         # auth access to bucket.
         b2 authorize --key="$B2_APPLICATION_KEY" --bucket="$B2_BUCKET_NAME"
         # upload file to bucket.
