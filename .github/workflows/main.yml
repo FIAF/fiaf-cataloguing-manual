@@ -12,7 +12,7 @@ jobs:
     - name: check branch
       run: git branch
     - name: install required apps 
-      run: sudo apt install pandoc texlive-xetex fossil fonts-firacode librsvg2-bin   
+      run: sudo apt install pandoc texlive-xetex fossil fonts-firacode librsvg2-bin b2   
     - name: install font 
       run: cp -r src/font/ /usr/share/fonts/BrownStd    
     - name: remove render dir
