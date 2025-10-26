@@ -11,6 +11,16 @@ jobs:
       uses: actions/checkout@v3
     - name: check branch
       run: git branch
+    - name: install required apps 
+      run: sudo apt install pandoc texlive-xetex fossil fonts-firacode librsvg2-bin   
+    - name: install font 
+      run: cp -r src/font/ /usr/share/fonts/BrownStd    
+    - name: remove render dir
+      run: rm -rf src/render 
+    - name: remake render dir
+      run: mkdir src/render
+    - name: run script
+      run: cd src && ./local.sh 
     - name: install b2sdk
       run: pip3 install b2sdk
     - name: run python script
@@ -21,28 +31,5 @@ jobs:
       run: python3 src/push_pdf.py
 
 
-      
-    # - name: install b2 
-    #   run: sudo snap install b2
-    # - name: install required apps 
-    #   run: sudo apt install pandoc texlive-xetex fossil fonts-firacode librsvg2-bin   
-    # - name: install font 
-    #   run: cp -r src/font/ /usr/share/fonts/BrownStd    
-    # - name: remove render dir
-    #   run: rm -rf src/render 
-    # - name: remake render dir
-    #   run: mkdir src/render
-    # - name: run script
-    #   run: cd src && ./local.sh 
-    # - name: backblaze auth
-    #   env:
-    #     B2_APPLICATION_KEY: ${{ secrets.BACKBLAZE_APP_KEY }}  
-    #     B2_BUCKET_NAME: ${{ secrets.BACKBLAZE_BUCKET_NAME }}  
-    #   run: |
-    #     export DISPLAY=none
-    #     export GDK_BACKEND=none
-    #     # auth access to bucket.
-    #     b2 authorize --key="$B2_APPLICATION_KEY" --bucket="$B2_BUCKET_NAME"
-        # upload file to bucket.
-        # b2 upload-file "$B2_BUCKET_NAME" "./README.md"
+
 
