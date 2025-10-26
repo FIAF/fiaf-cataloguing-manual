@@ -33,6 +33,10 @@ For example, an institution may have a television recording of a motion picture 
 **Therefore, this entity is optional.** If employed, each instance of a Variant is related to a Work and can have one-to-many relationships with instances of Manifestation(s), and many-to-many relationships with Event(s), Agent(s) and Other Relation(s). If no Variant of a Work exists or is known to exist, then this entity can be omitted, connecting an instance of a Work with one or more instances of Manifestation. The above is the case under EN15907, but please note that the Variant is an integral part of the data architecture of IFLA Library Reference Model (LRM), so if the latter standard is being used in your institution then use of Variants would be expected.
 
 
+Attributes of a Variant
+
+Variant Description Type
+
 \subsection[Variant Type]{Variant Type
     \footnote {YCR, 2.1.1 Nature of modification (change in content) of expression} 
     \label{sec:appendix_variant_type}
@@ -52,3 +56,79 @@ Identify and describe the kind of change from a Work that gives rise to any inst
 * Black and white copy of work originally issued in colour
 
 A change in colour, which is a physical property, expresses a different Manifestation according to the data model this manual follows. However, it is recognised that in practice, institutions who employ the Variant entity may consider changes to colour to provoke the creation of a Variant because the colourisation of a black and white Work represents a fundamental change to the visual aspects of the original Work.
+
+Elements of a Variant
+
+Variant Identifier
+
+Identifier Type
+
+Title
+
+Examples:
+
+```{=latex}
+\begin{tcolorbox}
+Gone with the wind (United States of America, 1939, Victor Fleming) \\
+Gone with the wind – Preferred Title of the Work \\
+Via col vento – Variant title – Dubbed (Italian) \\
+Gejaagd door de win – Variant title – Dubbed (Dutch) \\
+Autant en emporte le vent – Variant title – Dubbed – (French) \\
+風と共に去りぬ – Variant title – Dubbed (Japanese)    
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}
+Аленький цветочек (USSR, 1952, Lev Atamanov) \\
+Аленький цветочек – Title of the Work \\
+Alenkiy tsvetochek: Alternative (transliterated) title of Work/ Variant (Preferred title if systems don’t use Cyrillic) \\
+Feuerrotes Blümchen – Variant title – Dubbed (German) \\
+The Scarlet Flower – Variant title – Dubbed (English)   
+\end{tcolorbox}
+```
+
+Title Type
+
+Country of Reference
+
+Year/Date of Reference
+
+Date Type
+
+Date Precision
+
+Language(s)
+
+
+Language Term
+
+Usage Type
+
+Content Description (synopsis, shotlists, etc)
+
+Content Description Type
+
+Notes
+
+History
+
+Custodial History
+
+Censorship History
+
+Other Variant History
+
+Relationships of a Variant (links/associations with other entities/records
+
+A Variant may have relationships with the following:
+
+
+
+Works
+
+Express the relationships between a Variant and a Moving Image Work....
+
+
+Manifestations
+
