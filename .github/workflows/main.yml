@@ -17,6 +17,7 @@ jobs:
       env:
         BACKBLAZE_APP_KEY: ${{ secrets.BACKBLAZE_APP_KEY }}
         BACKBLAZE_APP_KEY_ID: ${{ secrets.BACKBLAZE_APP_KEY_ID }}
+        BRANCH_NAME: ${{ github.ref }}
       run: python3 src/push_pdf.py
 
 
