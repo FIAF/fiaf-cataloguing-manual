@@ -32,6 +32,7 @@ For example, an institution may have a television recording of a motion picture 
 
 **Therefore, this entity is optional.** If employed, each instance of a Variant is related to a Work and can have one-to-many relationships with instances of Manifestation(s), and many-to-many relationships with Event(s), Agent(s) and Other Relation(s). If no Variant of a Work exists or is known to exist, then this entity can be omitted, connecting an instance of a Work with one or more instances of Manifestation. The above is the case under EN15907, but please note that the Variant is an integral part of the data architecture of IFLA Library Reference Model (LRM), so if the latter standard is being used in your institution then use of Variants would be expected.
 
+
 \subsection[Variant Type]{Variant Type
     \footnote {YCR, 2.1.1 Nature of modification (change in content) of expression} 
     \label{sec:appendix_variant_type}
