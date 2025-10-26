@@ -11,12 +11,6 @@ b2_api = B2Api(info)
 b2_api.authorize_account("production", APP_KEY_ID, APP_KEY)
 
 buck = b2_api.get_bucket_by_name("cataloguing-manual")
-print(buck)
+r = buck.upload_local_file(pathlib.Path.cwd() / 'src' / 'render' / 'manual_en.pdf', 'test.pdf')
 
-print('@@@', pathlib.Path.cwd())
-print('@@@', [x for x in pathlib.Path.cwd().iterdir()])
-
-
-# r = buck.upload_local_file(pathlib.Path.cwd() / 'test.md', 'test.md')
-
-# print(r)
+print(r)
