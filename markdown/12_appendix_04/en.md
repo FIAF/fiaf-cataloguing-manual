@@ -11,9 +11,10 @@ If no pre-existing and authoritative lists are available, a non-exhaustive but m
     \label{sec:work_variant_description_types}
     } 
 
-The Types below reflect terms used in CEN standard EN15907.
+The Types below reflect terms used in Section 4.1.2 Attributes in the CEN standard EN15907. (INSERT LINK TO EN15907 IN A FOOTNOTE along with "The terms and their definitions used in the EN15907 Standard itself are rooted in those from UNESCO CCF/B (Common Communications Format / Bibliographic, UNESCO PGI-92/WS/9, Paris, 1992,(INSERT LINK) which related to bibliographic information.)
 
-**Analytic (component part)**: content that is contained in another content. A component part may itself be either monographic or serial. Component here means intentional component part not fragments or excerpts, e.g. an individual element from a larger newsreel issue. 
+**Analytic (component part)**: content that is contained in another content. 
+A component part may itself be either monographic or serial. Component here means intentional component part not fragments or excerpts of a moving image, e.g. an individual element from a larger newsreel issue.
 
 Examples:
 
@@ -939,7 +940,7 @@ Refers to manifestations which represent the outcome(s) of an institution’s in
     } 
 
 Refers to manifestations which represent the outcome(s) of restoration events/activities, usually involving selection and aggregation of materials from diverse source elements to replicate an ‘original’ or ‘ideal’ manifestation.
-Some institutions may use this to refer to restorations undertaken by the institution (not to be confused with the Variant, resulting from reconstruction made by aggregating different sources, see \nameref{sec:boundaries_between_works_and_variants}.
+Some institutions may use this to refer to restorations undertaken by the institution (not to be confused with the actual published Variant, resulting from reconstruction made by aggregating different sources, see \nameref{sec:boundaries_between_works_and_variants}.
 
 If required there is the option of creating more than one Restoration Manifestation to group specific outcomes of the project, e.g. a Manifestation for a Demonstration Reel, Raw scans, final digital DCP and DCDM materials resulting from the restoration process, etc. particularly where there may be several Items, or copies, relating to these on different formats.
 
@@ -1136,36 +1137,6 @@ Image negative
 Sound negative
 DCP
 
-\subsubsection[Item File Size – Digital]{Item File Size – Digital
-    \label{sec:item_file_size_digital}
-    } 
-
-GB (Gigabyte)
-KB
-
-\subsubsection[Item Codec type]{Item Codec type
-    \label{sec:item_codec_type}
-    } 
-
-See also:
-PBCore essenceTrackEncoding (http://metadataregistry.org/concept/list/vocabulary_id/156.html)
-EBUVideoCompressionCode (https://www.ebu.ch/metadata/cs/web/ebu_VideoCompressionCodeCS_p.xml.htm
-
-**VIDEO**
-
-AVC   
-D10   
-NIL    
-ProRes 422 (HQ)    
-S10    
-JPEG2000    
-MPEG-4 H264/AVC Main Profile    
-
-**AUDIO**
-
-AIFF    
-WAV
-
 \subsubsection[Manifestation/Item Colour Type]{Manifestation/Item Colour Type
     \label{sec:manifestation_item_colour_type}
     } 
@@ -1286,58 +1257,90 @@ Seagate
 Toshiba
 Western Digital
 
-\subsubsection[Item Bit Depth]{Item Bit Depth
-    \label{sec:item_bit_depth}
+\subsection[Manifestation Agent Types]{Manifestation Agent Types
+    \label{sec:manifestation_agent_types}
     } 
 
-10
-16
-24
-32
-
-\subsubsection[Item Frame Rate/Transfer Speed]{Item Frame Rate/Transfer Speed
-    \label{sec:item_frame_rate_transfer_speed}
+\subsubsection[Distributor (theatrical)]{Distributor (theatrical)
+    \label{sec:distributor_theatrical}
     } 
 
-16fps
-23.98 fps
-24fps
-25fps
-30fps
-48fps
-Variable
+Agent responsible for the theatrical distribution of a Manifestation
 
-\subsubsection[Item Resolution]{Item Resolution
-    \label{sec:item_resolution}
+\subsubsection[Distributor (non-theatrical)]{Distributor (non-theatrical)
+    \label{sec:distributor_non_theatrical}
     } 
 
-Standard Definition
-High Definition
-2k
-4k
-6k
-8k
+Agent responsible for the non-theatrical distribution
 
-\subsubsection[Item Source Device]{Item Source Device
-    \label{sec:item_source_device}
+\subsubsection[Broadcaster]{Broadcaster
+    \label{sec:broadcaster}
     } 
 
-Examples of hardware required to play the source item.
+Agent responsible for the broadcasting of a Manifestation, namely the network or station on which it aired or the network which makes it available on demand
 
-DVSI
-VT20
-HDCAM SRW5500/2
-
-\subsubsection[Item Line Standard]{Item Line Standard
-    \label{sec:item_line_standard}
+\subsubsection[Publisher]{Publisher
+    \label{sec:publisher}
     } 
 
-405
-525
-625
-720
-1080
+Agent responsible for the home video publication or for the web publication of a moving image Manifestation: i.e. the publishing company, which often is the same as the distribution company
 
+\subsubsection[Manufacturer]{Manufacturer
+    \label{sec:manufacturer}
+    } 
+
+(Optionally, this information can be specified directly at the Item level)
+
+Agent responsible for the activities of manufacturing a Manifestation: i.e. a laboratory.
+
+\subsubsection[Agent responsible for preservation]{Agent responsible for preservation
+    \label{sec:agent_responsible_for_preservation}
+    } 
+
+Agent responsible for the preservation of a Manifestation: namely the rights-owner(s), the distributor(s) or an archive.
+
+\subsubsection[Agent responsible for reproduction or transfer]{Agent responsible for reproduction or transfer
+    \label{sec:agent_responsible_for_reproduction_or_transfer}
+    } 
+
+(Optionally, this information can be specified directly at the Item level)
+
+Agent responsible for the activities of duplication/reproduction/transfer (dupes and masters): namely the rights-owner(s), the distributor(s) or an archive. (name: personal, corporate).
+
+\subsubsection[Agent responsible for the archival availability]{Agent responsible for the archival availability
+    \label{sec:agent_responsible_for_the_archival_availability}
+    } 
+
+(Optionally, this information can be specified directly at the Item level)
+
+The institution responsible for the availability of a moving image Manifestation intended for consultation or exploitation for cultural “fair” use, on the premises or through the activities of the institution.
+
+For example, in a scenario where a Manifestation or Event occurs within the context of a film being shown for educational, research, cultural event purposes, etc. e.g. where an Archive has a public mediatheque which streams a large number of films and TV programmes on its premises for free which are for educational and cultural purposes, not financial ones.
+
+\subsubsection[Agent responsible for the mere availability]{Agent responsible for the mere availability
+    \label{sec:agent_responsible_for_the_mere_availability}
+    } 
+
+(Optionally, this information can be specified directly at the Item level)
+
+Agent responsible for making available a Manifestation not intended for public release (distribution, publication or broadcasting) in private environments.
+
+For example, in a scenario where a Manifestation not intended for public release is shown within a private environment, such as a production company showing a “blooper” reel (off-cuts of amusing things that went wrong during shooting the film) at a cast and crew party on the production company or studio premises. Or a private press preview showing.
+
+\subsubsection[Agent unclear or undetermined]{Agent unclear or undetermined
+    \label{sec:agent_unclea_or_undetermined}
+    } 
+
+(Optionally, this information can be specified directly at the Item level)
+
+Indicate if the Agent is unclear or undetermined, i.e. has not yet been determined.
+Also, if the Agent could be one of two or more possibilities then name them and qualify that there is uncertainty as to which is correct.
+
+\subsubsection[Agent not identified]{Agent not identified
+    \label{sec:agent_not_identified}
+    } 
+
+(Optionally, this information can be specified directly at the Item level)
 
 
 \subsection[Work/Variant Publication Types]{Work/Variant Publication Types
@@ -1483,15 +1486,6 @@ http://avaa.bavc.org/artifactatlas/index.php/A/V_Artifact_Atlas
 Powder
 Sticky
 Sticky at head
-
-\subsubsection[Item Shrinkage - Film]{Item Shrinkage - Film
-    \label{sec:item_shrinkage_film}
-    } 
-
-Description of the level of any shrinkage that has occurred to the Item, ideally in percentages.
-1-1.5%
-1.5-2%
-2-2.5%
 
 \subsection[Other Relationships for Works, Variants, Manifestations, Items]{Other Relationships for Works, Variants, Manifestations, Items
     \label{sec:other_relationships_for_works_variants_manifestations_items}

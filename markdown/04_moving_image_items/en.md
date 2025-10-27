@@ -235,7 +235,6 @@ For digital files, enter the numerical measurement indicating the size of the di
 
 As above, the Unit of Measurement (feet, metres, GB, etc.) may be provided in a separate field.
 This could be two separate fields side by side – one for numbers and one for size measurement.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:item_file_size_digital}.
 
 If the length of an Item is uncertain, use a question mark following the unit count or record the uncertain number preceded by “approximately.” In a note, give an explanation for the estimated footage or metre count, where known.
 
@@ -287,8 +286,6 @@ In this qualifier, note whether the duration is exact, approximate, estimated, o
     \label{sec:frame_rate}
     } \
 
-Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:item_frame_rate_transfer_speed}.
 
 Frame rate is the native frame rate for the Item.
 Information related to the frame rate used during a digitisation process is added to Transfer Speed (see \nameref{sec:transfer_speed}).
@@ -334,9 +331,7 @@ The video compression standard used in the digital video Item, for example, D10,
 Video and digital cinema formats contained in wrappers have separate audio files contained in the format with the video file.
 For example, DCPs (contained in MXF files) are comprised of a JPEG2000 video file and a WAV audio file (along with textual information in an XML file), The audio codec is described separately.
 
-Select from controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:item_codec_type}.
-Other lists include:
+Examples for value lists:
 
 PBCore essenceTrackEncoding vocabulary: http://metadataregistry.org/concept/list/vocabulary_id/156.html
 
@@ -348,9 +343,7 @@ EBUCore Video Compression Code: https://www.ebu.ch/metadata/cs/web/ebu_VideoComp
 
 The audio compression standard used in the audio file, whether it is contained in a wrapper with a video file or as a standalone audio file.
 
-Select from controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:item_codec_type}.
-Other lists include:
+Examples for value lists:
 
 PBCore essenceTrackEncoding vocabulary: http://metadataregistry.org/concept/list/vocabulary_id/156.html
 
@@ -360,23 +353,19 @@ EBUCore Video Compression Code: https://www.ebu.ch/metadata/cs/web/ebu_VideoComp
     \label{sec:resolution}
     } \
 
-Note whether the Item’s resolution is Standard Definition, High Definition, etc. Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:item_resolution}.
+Note whether the Item’s resolution is Standard Definition, High Definition, etc.
 
 \paragraph[Line Standard – Video]{Line Standard – Video    
     \label{sec:line_standard_video}
     } \
 
 Describes the number of scan lines which make up the image and indicates the res- olution, for example, 405, 525, 1080.
-Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:item_line_standard}.
 
 \paragraph[Bit Depth]{Bit Depth    
     \label{sec:bit_depth}
     } \
 
 Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:item_bit_depth}.
 
 Note that bit depth can be used in describing both video and audio files.
 
@@ -387,9 +376,6 @@ Note that bit depth can be used in describing both video and audio files.
 Record the source playback device used in transfer projects.
 This can be a video deck, film printer, or hardware.
 
-Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:item_source_device}.
-
 \paragraph[Source Software]{Source Software    
     \label{sec:source_software}
     } \
@@ -399,9 +385,6 @@ Record the source software used in playing a digital file.
 \paragraph[Transfer Speed]{Transfer Speed    
     \label{sec:transfer_speed}
     } \
-
-Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:item_frame_rate_transfer_speed}.
 
 If the Transfer Speed is the same as the \nameref{sec:frame_rate}, these values should be the same.
 However, silent films might be transferred at a higher speed than the original frame rate.

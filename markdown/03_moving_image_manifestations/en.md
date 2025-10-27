@@ -538,6 +538,11 @@ For example, broadcast materials could have “Slot Duration” and “Actual Du
 
 Notes for Manifestations are annotations providing additional information relating specifically to Manifestation attributes and relationships.^[Based on RDA 2.20.1.Basic Instructions on Making Notes on Manifestations or Items] See \nameref{sec:cataloguers_notes}.
 
+\subsubsection[Date and country of Manifestation]{Date and Country of Manifestation
+    \label{sec:date_and_country_of_manifestation}
+    }
+Dates and country of Manifestation are not elements of a Manifestation under EN15907, as in the latter it envisages this data being on linked Publication Events. However, in some systems they may be structured as elements of a Manifestation. For further consideration of this see [ADD internal LINK TO Boundaries between Manifestation Types and Event types section] .
+
 \subsection[Relationships of a Manifestation]{Relationships of a Manifestation
     \label{sec:relationships_of_a_manifestation}
     }
