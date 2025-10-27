@@ -1435,15 +1435,17 @@ A suggested list, which is open and not exhaustive, can be found in \nameref{sec
     \label{sec:subject_genre_form_terms}
     } 
 
-Provide access to the Work by means of subjects (or subject identifiers) that describe the content of the Work (i.e., what the Work is about).
-Use an existing data value standard such as Library of Congress Subject Headings (LCSH).^[Adapted from YCR, 1.3.3. Subjects, pp. 43-45] Alternatively, or additionally, use standards such as Universal Decimal Classification (UDC), Dewey Decimal Classification (DDC), or equivalent in country in which you are working, or an in-house data value standard.
+Provide access to the Work by means of subjects (or subject identifiers) that describe the content of the Work, and additionally by genre(s) and/or form(s) (or identifiers) of which the Work is an example (i.e. what the Work is). Works should ideally have at least one Genre (and/or Form) and one Subject term as a minimum.
 
-In addition, access to the Work can be provided by means of genre(s) and/or form(s) (or identifiers) of which the Work is an example (i.e., what the Work is).
-Form describes the format and/or purpose of a Work, e.g., “non-fiction”, “short” and “animation” are particular forms or identifiers.
-Genre describes categories of Works, characterized by similar plots, themes, settings, situations, and characters.
-Examples of genres are “westerns” and “thrillers”.^[Frequently Asked Questions about Library of Congress Genre/Form Terms for Library and Archival Materials (LCGFT), Revised June 6, 2011, http://www.loc.gov/catdir/cpso/genre_form_faq.pdf] Use an existing and widely used data value standard such as Library of Congress Thesaurus for Genre/Form Terms in Libraries and Archives (LCGFT)^[http://id.loc.gov/authorities/genreForms], or equivalent in country where work is being done, or an in-house controlled vocabulary genre thesaurus.
+Genre - reflects what the Work is (i.e. in terms of categories of Works characterised by similar plots, themes, settings, situations, and characters, e.g. Horror, Science-fiction, Crime, Westerns, Thrillers, Comedy, etc.)
 
-TODO this is an example table
+Form - a further categorisation term relating to what the Work is and the form it takes, descriptive of the characteristics of its format and/or purpose, e.g. Fiction, Non-fiction, Short, Animation, Video Essay, etc. which some systems may have as a separate category whilst others incorporate them within their Genre terms.
+
+Subject - reflects the content of the Work, what it features and what it is about.
+
+There are no rules as to how many genre and subject terms can be associated with a Work. It will be different from moving image to moving image and down to the assessment of the individual cataloguer within the levels of subject cataloguing decided by their institution.
+
+TO DO this is an example table
 
   Examples:
 
@@ -1503,6 +1505,53 @@ TODO this is an example table
   
   Genres
   1. Drama. 2. Features.
+
+\paragraph[Assigning Subject terms]{Assigning Subject terms
+    \label{sec:assigning_subject_terms}
+    } \
+
+When considering the assigning of subject terms to a moving image Work record there are two main components to consider in making an intellectual assessment; the contexts of "about" and "of":
+
+***Of*** is straightforwardly, explicitly what is seen and visible in the shots and scenes that make up the moving image. 
+
+***About*** is the elements and themes of a moving image that are implicit from the unfolding and combining of different images, or more explicit from interviews, commentary, or narration on the soundtrack.
+
+EN15744 advocates that all Works should have at least one subject term as a minimum.
+
+But it is up to each institution to decide the depth and level of subject indexing, and whether it catalogues according to the principle of capturing just what is seen, or just what it is about. The ideal is to have both elements:
+
+“one must try to capture what is seen onscreen as well as what the images are about conceptually.” (NB.Olwen Terris - cite source in footnote
+
+Decisions will depend on resources, technologies, an institution’s requirements and user needs, etc.  Some may choose to apply different levels and balances of these two ***of*** and ***about*** elements depending on whether the moving image is fiction or non-fiction. Footage libraries, for example, may be more likely to concentrate on ***of*** elements, but other archives may prefer to focus on ***about*** subjects. 
+
+[ADD IN FURTHER EXAMPLES FROM OTHER ARCHIVES TO BOURNE ONE BELOW]
+
+For example, one practice for fiction moving images may be to assess what they are mainly about and apply  2-3 core subject terms reflecting the central themes or the nub of what they are about, plus any extra ones deemed necessary or relevant, e.g.:
+
+The Bourne Identity (USA, 2002)
+Form = Fiction
+Genre(s) = Thriller, Crime, Action and Adventure
+Subject(s) = Identity, Black ops, Political assassinations
+
+Subject terms *Car chases*, *Paris*, *Motorways*, *Guns*, *Fights*, *Surveillance*, etc. all feature within the film, but are not what it is about. However, if your institution uses wide keyword ranges in cataloguing, similar to IMDB's multiple "plot keywords" on Work records, then they would be relevant to apply.
+
+The content description/synopsis of a Work can be used to highlight factors that may be prominent but not core in the storyline. 
+
+Similarly, The Bourne Ultimatum (USA, 2007)could have the same subjects as above, plus *Manhunts* since a central part of the storyline of this film is the government agency's hunt for Jason Bourne to try and eliminate him. It could also possibly include *CIA* as well as the thread running through the film is that CIA personnel are both hunting Bourne and trying to find out about the earlier covert operations/organisations.
+
+It is for the Cataloguer to assess and judge whether to include place as a subject term in the record.
+In order to establish whether place is a core subject to include in subject cataloguing or not you would need to assess the significance of place within the storyline and themes of the moving image and whether it is integral to these or incidental.
+
+For example, in the film Brighton Rock (UK, 1948) the place of Brighton is integral to the story – it is about gangsters in the English seaside town of Brighton and that is where the whole story is set. However, in the comedy film  Carry On at Your Convenience (UK, 1971), which contains scenes of a works outing to the seaside (which just happens to be Brighton) it is not integral – it simply features in one bit of the storyline. 
+
+Place is more likely to be a core subject term in cataloguing non-fiction moving images. For example, Bunkar: The Last of the Varanasi Weavers (India, 2018) is a documentary that focuses on the lives of the weavers of Varanasi in Uttar Pradesh. Gulabi Gang (India, 2014) is about a women’s movement standing against gender violence and caste oppression, but the geographical place Bundelkhand is also relevant to add as a subject term both for context and because there are shots of the area in the film.
+
+With fiction moving images, care is needed not to confuse place within the storyline of the moving image with shooting location during filming, e.g. the early Alfred Hitchcock film The Manxman (Uk, 1926) is set in a fishing village in the Isle of Man, but was actually filmed on location in Cornwall, England.
+
+If adding place as a subject it would not therefore be Cornwall but the Isle of Man, since that is what the film is actually about and where it is set.
+
+Actual filming locations data can be added in a different field (in the EN15907 structure locations and production information can be added to a linked Production Event).
+
 
 \subsubsection[Other relationships]{Other relationships 
     \footnote {EN 15907 8.5 HasAsSubject; YCR, 1.2.7 Relationships With Other Moving Image Works or Other Kinds of Works} 
