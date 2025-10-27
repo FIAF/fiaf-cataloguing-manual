@@ -1342,7 +1342,6 @@ Also, if the Agent could be one of two or more possibilities then name them and 
 
 (Optionally, this information can be specified directly at the Item level)
 
-Indicate if the Agent cannot be identified, i.e. not identified after extensive research to determine the Agent.
 
 \subsection[Work/Variant Publication Types]{Work/Variant Publication Types
     \label{sec:work_variant_publication_types}
