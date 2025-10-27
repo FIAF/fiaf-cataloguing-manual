@@ -11,7 +11,7 @@
     } 
 
 Brief definitions of the standard CEN terms Work/Variant/Manifestation/Item used in the Manual were provided at the end of the Introduction (see \nameref{sec:introduction}).
-This and the following sections provide in-depth definitions of the terms as used in these guidelines, beginning with the highest level in the description hierarchy: Moving Image Works and Variants.
+This and the following sections provide in-depth definitions of the terms as used in these guidelines, beginning with the highest level in the description hierarchy: Moving Image Work.
 
 \subsubsection[Moving Image Work]{Moving Image Work
     \label{sec:moving_image_work}
@@ -107,23 +107,7 @@ University College Hospital. Endoscopy – Colonscope. Patient HX3456. 2010 (Uni
 \end{tcolorbox}
 ```
 
-\subsubsection[Moving Image Variant (e.g., Versions)]{Moving Image Variant (e.g., Versions) 
-    \footnote {Adapted from EN 15907, 4.2 Variant.} 
-    \label{sec:work_moving_image_variant}
-    } 
 
-A moving image Variant is an entity that may be used to indicate any change to content-related characteristics that do not significantly change the overall content of a Work as a whole.
-Such Variants can be produced by minor additions, deletions or substitutions to the content.
-As a general guideline, changes that would result in a different content description should be treated as a separate Work rather than a Variant.
-
-Changes that could be described as Variants are detailed below, in \nameref{sec:boundaries_between_works_and_variants}, and may include the addition of subtitles, dubbing, and editing as a result of censorship or adjustment of duration, e.g. for TV programming.
-For institutions that have made a policy decision not to use the Variant, these changes may constitute Manifestation differences.
-
-The determination of a Variant requires human analysis, and as such is an interpretative practice.
-It is not always easy to establish what the Variants may be.
-For example, an institution may have a television recording of a motion picture broadcast but no way of comparing it with an original theatrical copy as to whether it has been altered in terms of subtle censorship of content or duration
-
-**Therefore, this entity is optional.** If employed, each instance of a Variant is related to a Work and can have one-to-many relationships with instances of Manifestation(s), and many-to-many relationships with Event(s), Agent(s) and Other Relation(s). If no Variant of a Work exists or is known to exist, then this entity can be omitted, connecting an instance of a Work with one or more instances of Manifestation.
 
 \subsection[Boundaries between Works and Variants]{Boundaries between Works and Variants
     \label{sec:boundaries_between_works_and_variants}
@@ -612,11 +596,11 @@ TODO TABLE MISSING HERE.
 If much of the original textual and spoken word material remains, most of the original footage remains in roughly the same continuity, however abridged, and substantially most of the contributors are the same, the existence of alterations more often than not constitute a new Variant, rather than a new Work.
 
 
-\subsection[Attributes of a Moving Image Work/Variant]{Attributes of a Moving Image Work/Variant 
+\subsection[Attributes of a Moving Image Work]{Attributes of a Moving Image Work 
     \label{sec:attributes_of_a_moving_image_work_variant}
     } 
 
-\subsubsection[Work/Variant Description Type]{Work/Variant Description Type 
+\subsubsection[Work Description Type]{Work Description Type 
     \footnote {EN 15907, 4.1.2 Attributes—description Level, p. 8; BFI CID Stylistics Manual, A.1.3 Filmographic Level, pp. 7-8} 
     \label{sec:work_variant_description_type}
     } 
@@ -629,21 +613,11 @@ Record the level of description of the work being catalogued, for example, “an
 The terms used in this Manual are derived from traditional bibliographic cataloguing rules and from EN 15907 (and are defined in Appendix D.1), but an institution may choose to create its own list of terms. See \nameref{sec:work_variant_description_types}.
 
 
-\subsubsection[Variant Type]{Variant Type 
-    \footnote {EN 15907, 4.2.2 Attributes of a Variant, variant type; YCR, 2.1.1 Nature of modification (change in content) of expression, p. 48} 
-    \label{sec:variant_type}
-    } 
-
-Identify and describe the kind of change from a Work that gives rise to any instance(s) of a Variant.
-Selection should be made from a controlled list of values.
-Examples: Censored; Dubbed; Subtitled; Edited for TV. See \nameref{sec:appendix_variant_type}.
-
-
-\subsection[Elements of a Work/Variant]{Elements of a Work/Variant 
+\subsection[Elements of a Work]{Elements of a Work 
     \label{sec:elements_of_a_work_variant}
     } 
 
-This section describes the metadata elements that can be used to describe a Work/Variant.
+This section describes the metadata elements that can be used to describe a Work.
 It is up to each institution to choose which elements are most applicable to describe their collections and according to what their system can support.
 
 This Manual recommends using the qualifier “Type” for several core elements if an institution’s system can support it.
@@ -651,24 +625,24 @@ In these cases, “Type” is used to define the source, function or purpose of 
 Using a “Type” qualifier conforms to its use in Dublin Core and other Dublin Core-influenced standards such as EBUCore and PBCore.
 Examples of using “Type” include the Identifier, Title, Date, and Description elements.
 
-\subsubsection[Work/Variant Identifier]{Work/Variant Identifier 
+\subsubsection[Work Identifier]{Work Identifier 
     \label{sec:work_variant_identifier}
     } 
 
-Create an unambiguous reference to the Work/Variant using a unique identifier and indicate the type of identifier.
+Create an unambiguous reference to the Work using a unique identifier and indicate the type of identifier.
 The identifier should be a numerical or alphanumerical reference.
-This identifier is for the content of the Work/Variant, not for a specific Item.
-Manifestations and Items have their own Identifiers, discussed in later sections.
-This Work/Variant Identifier is shared by all Manifestations and Items associated to the Work.
+This identifier is for the content of the Work, not for a specific Item.
+Variant, Manifestations and Items have their own Identifiers, discussed in later sections.
+This Work Identifier is shared by all Variants, Manifestations and Items associated to the Work.
 
-In a way, a unique Work/Variant Identifier can have more value than a Work’s Title.
+In a way, a unique Work Identifier can have more value than a Work’s Title.
 Titles can confuse through different spellings, translations, and are not unique (i.e., King Kong).
 An Identifier refers to a specific Work/Variant and provides clear disambiguation between Works when there is confusion.
 
-There can be more than one Work/Variant unique identifier for the content.
+There can be more than one Work unique identifier for the content.
 This commonly occurs when institutions have content assigned identifiers by various standards or distribution agencies (ISAN, EIDR), or a government or other official body in the archive’s country has assigned an identifier to the work.
 An institution will likely have its own internal Identifier as well, often auto-generated by an institution’s information or asset management system.
-For example, a Work/Variant may have these associated identifiers: 
+For example, a Work may have these associated identifiers: 
 
 - International Standard Audiovisual Number (ISAN)^[[www.isan.org](www.isan.org)]
 - EIDR (Entertainment Identifier Registry)^[[www.eidr.org](www.eidr.org)]
@@ -732,12 +706,12 @@ Identifier type: ISAN
     \label{sec:work_title}
     } 
 
-Record at least one title, identifying phrase, or name for the moving image Work or Variant.
+Record at least one title, identifying phrase, or name for the moving image Work.
 If your institution is applying the use of “Type” qualifiers, use “Title Type” to state the function of a particular title (see \nameref{sec:work_title_type} and \nameref{sec:titles_and_title_types}).
 
-Ideally, the record should at a minimum contain the “preferred title” (also referred to as “main” or “original” title) of the Work or Variant.
-Generally, it is the title of a moving image Work or Variant when first released, broadcast, published or transmitted (i.e. mounted online) in the country or countries of origin.
-It may differ from the title found on a particular manifestation of the Work or Variant; the actual title on the Manifestation is noted in the Manifestation Title element (see \nameref{sec:manifest_title}).
+Ideally, the record should at a minimum contain the “preferred title” (also referred to as “main” or “original” title) of the Work.
+Generally, it is the title of a moving image Work when first released, broadcast, published or transmitted (i.e. mounted online) in the country or countries of origin.
+It may differ from the title found on a particular manifestation of the Work; the actual title on the Manifestation is noted in the Manifestation Title element (see \nameref{sec:manifest_title}).
 See \nameref{sec:title_types} for additional information.
 
 For creating titles for untitled or unidentified entities see \nameref{sec:supplied_devised_titles}.Television programmes and other types of content that are part of a series/serial should have both the series/serial title and the episode title included in the Work record.
@@ -802,13 +776,13 @@ For sources of information for the Title, see \nameref{sec:prelim_sources_of_inf
     \label{sec:work_title_type}
     } \
 
-Where relevant for an institution, if the Work/Variant or Manifestation includes multiple titles, such as a title in another language for a dubbed or subtitled variant, record the relevant Variant titles and associate a “Title Type” to each title for differentiation between the various types of titles (see \nameref{sec:titles_and_title_types}).
+Where relevant for an institution, if the Work, Variant or Manifestation includes multiple titles, such as a title in another language for a dubbed or subtitled variant, record the relevant Variant titles and associate a “Title Type” to each title for differentiation between the various types of titles (see \nameref{sec:titles_and_title_types}).
 
 \subsubsection[Country of Reference]{Country of Reference
     \label{sec:country_of_reference}
     } 
 
-Where known and applicable, record the geographic origin of the moving image Work/Variant.
+Where known and applicable, record the geographic origin of the moving image Work.
 This should be the country or countries where the principal offices or production facilities of the production company or companies are located.^[EN 15907, 6.5 Country of Reference, p. 19] 
 Where an official national certificate or designation of a Work exists, use this as the authoritative source, e.g., Italian government department designates what is officially an Italian film.^[The certification of “Italian nationality” is provided by the law/decree 2004, n. 28, part. 5 (but already provided in the former law 1213/1965). 
 According to the 2004 law, the biggest part of the cast and crew, the locations, and the technical facilities have to be Italian, and 30% of the budget has to be spent in Italy. There is a number of exceptions for artistic reasons and in case of co-productions.]

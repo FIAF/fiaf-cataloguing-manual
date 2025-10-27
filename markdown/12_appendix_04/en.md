@@ -119,22 +119,7 @@ Aggregate compilation videos/DVDs that are collections of individual works exist
 
 Provide a list of the compiled works contained in the Collections Work in its Synopsis or Summary field.
 
-\subsection[Variant Type]{Variant Type [Remove D.2 - now inserted in new Variants chapter]
-    \footnote {YCR, 2.1.1 Nature of modification (change in content) of expression} 
-    \label{sec:appendix_variant_type}
-    } 
 
-* Censored
-* Dubbed
-* Subtitled
-* Abridged/Condensed (e.g. for television)
-* Augmented (where additional content is added, such as director’s cuts with restored scenes, or alternate endings, commentaries)
-* Preservation/Restoration
-* Different sound track
-* Sonorized
-* Colourized
-* Black and white copy of work originally issued in colour
-* A change in colour, which is a physical property, expresses a different Manifestation according to the data model this manual follows. However, it is recognised that in practice, institutions who employ the Variant entity may consider changes to colour to provoke the creation of a Variant because the colourisation of a black and white Work represents a fundamental change to the visual aspects of the original Work.
 
 \subsection[Work/Variant Agent Types]{Work/Variant Agent Types 
     \footnote {More relator terms can be found in YCR, 1.3.2. Other creators, pp. 42-43; and, OLAC TF, Part II, Core Attributes and Relationships, Commonly-Occurring Roles, pp. 16-18.} 
