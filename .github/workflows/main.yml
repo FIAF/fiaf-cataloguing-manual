@@ -29,6 +29,8 @@ jobs:
         BACKBLAZE_APP_KEY_ID: ${{ secrets.BACKBLAZE_APP_KEY_ID }}
         BRANCH_NAME: ${{ github.ref }}
       run: python3 src/push_pdf.py
+    - name: remove render dir
+      run: rm -rf src/render       
     - name: update readme link
       run: |
         git config user.name 'github-actions[bot]'
