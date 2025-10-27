@@ -555,3 +555,5 @@ There is also the question of a “pure EN15907 structure" approach meaning disp
 For those cataloguing in non-relational databases, paper or card catalogues, or Excel,  then many of the elements that EN15907 sees as being linked “related” records, including Events, will always be an attribute of the main 1-level hierarchy moving image record.
 
 As with the ability to utilise EN15907 within a 4, 3, 2 or 1-level hierarchy, the same fundamental principle applies with use and structure of Events with Works, Variants, Manifestations or Items; namely, that it does not matter what data systems or structures an institution uses – whether index card or complex computer systems -  as long as their records capture the relevant data concerned.
+
+With a fundamental aim of EN15907 being interoperability, then use of the FIAF list of Manifestation Types is key to the flexibility and use of the data architecture reflecting the standard and makes this a lot more achievable; especially in systems where Events structures are minimal or do not exist. Because there is an overlap in Manifestation and Event type terms it could make potential mapping and interoperability achievable.
