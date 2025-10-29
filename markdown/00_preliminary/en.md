@@ -242,6 +242,7 @@ Secondary sources include information written on containers and reference materi
 Although primary sources are generally preferred, this manual allows for the use of secondary sources no matter the entity, attribute or relationship described in recognition that there may be constraints on the amount of research or viewing a cataloguer can do.
 
 Whether information is taken from primary and/or secondary sources as listed in the following, indicate that fact either by means of a note or by some other means (e.g., through coding or the use of square brackets, specific fields, or links to other databases).^[Based on RDA 2.2.4 Other Sources of Information] Add the source of the information in a Note field and include the element name.
+
 Cite each individual source of information using an agreed upon, consistently applied citation style, such as The Chicago Manual of Style, or other style guide.
 
 Primary source information can be derived from:
@@ -252,13 +253,26 @@ b) embedded metadata in textual form that contains a title (e.g., metadata embed
 
 c) an eye-readable label bearing a title that is permanently printed on or affixed to the resource (excluding accompanying textual material or a container)^[Adapted from RDA 2.2.2.3 Resources Consisting of Moving Images]
 
+
+```{=latex}
+\begin{tcolorbox}
+Title derived from film opening credits.
+\end{tcolorbox}
+```
+
+Where viewing the primary source is not possible, the cataloguer is dependent on secondary sources. 
+
+Secondary source information can be derived from:
+
 d) accompanying material or a container issued as part of the resource itself^[Based on RDA 2.2.4 Other Sources of Information]
 
 e) a container that is not issued as part of the resource itself (e.g., a box, case made by the owner)^[RDA 2.2.4 Other Sources of Information]
 
 f) other published descriptions of the resource ^[Ibid.]
 
-g) any other available source (e.g., a reference source)^[Ibid.]
+g) any other available source (e.g., a reference source, website, etc.)^[Ibid.]
+
+
 
 Examples:
 
@@ -269,16 +283,11 @@ AFI Catalog of Feature Films: 1930-1939.
 \end{tcolorbox}
 ```
 
-```{=latex}
-\begin{tcolorbox}
-Title derived from film opening credits.
-\end{tcolorbox}
-```
-Where viewing the primary source is not possible, the cataloguer is dependent on secondary sources. Access to sources of information has increased massively in the 21st century, particularly with the World Wide Web.
+Access to sources of information has increased massively in the 21st century, particularly with the World Wide Web.
 
-This means the authority and context of the source is important for the cataloguer to consider before utilising it, i.e. whose website is it and where did their information come from? 
+This means the authority and context of the source is important for the cataloguer to consider before utilising it, i.e. whose website is it and where did their information come from? If using a biography is it an authorised one?
 
-As far as possible use authoritative secondary sources, e.g. official websites for a film, press packs, published catalogues and directories, and data from other Archives accessible databases, websites, or publications, who may have researched and created records for the moving image already. These may also include other non-moving image collections held by your institution, such as special collections of papers, books, stills, posters, etc.
+As far as possible use authoritative secondary sources, e.g. official websites for a film, press packs, published catalogues and directories, and data from other Archives accessible databases, websites, or publications, who may have researched and created records for the moving image already. Sources may also include other non-moving image collections held by your institution, such as special collections of papers, books, newspaper cuttings, stills, posters, etc.
 
 The number of websites stating the same “fact” is not a safe indicator. Websites copy off each other and it is easy for an erroneous fact to be perpetuated across multiple websites.  [Create FOOTNOTE which links to BFI record for Richard Greene https://collections-search.bfi.org.uk/web/results ] The cataloguer needs to assess, balance and judge accuracy, e.g. IMDB and Wikipedia can be good for information, but they also allow submissions and changes from the public so it is not necessarily always accurate.
 
