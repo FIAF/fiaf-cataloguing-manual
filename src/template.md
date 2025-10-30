@@ -4,7 +4,7 @@ Markdown representation of the [FIAF Cataloguing Manual](https://www.fiafnet.org
 
 ### PDF Renders
 
-[FIAF Cataloguing Manual (English)](https://f003.backblazeb2.com/file/cataloguing-manual/develop-manual_en.pdf)
+[FIAF Cataloguing Manual (English)](PDF_LINK)
 
 ### Edit Guide
 
