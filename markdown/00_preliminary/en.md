@@ -213,7 +213,7 @@ See Appendix I, Examples of records containing core elements in the different le
 ![](../src/diagrams/0.2.1-C.png)
 ![](../src/diagrams/0.2.1-D.png)
 
-
+\newpage
 **Work/Manifestation/Item.
 Properties expressed in one record, with abstracts, contextual and object data stored in a single level hierarchy Distribution of the elements of description according to the four entities order**
 
