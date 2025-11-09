@@ -238,7 +238,7 @@ Acceptable sources of information for moving image Works, Variants, Manifestatio
 Primary sources include information on the actual Item itself.
 For example, for moving image materials, titles and main production credits are transcribed from the frames usually in the opening credits, and other production credits from the end titles and credits.
 Secondary sources include information written on containers and reference materials.
-For example, credit, title, date, and other information derived from publications such as AFI Catalog of Feature Films: 1930-1939, or [Det Danske Filminstitut Filmdatenbase] https://www.dfi.dk/viden-om-film/filmdatabasen , etc.
+For example, credit, title, date, and other information derived from publications such as AFI Catalog of Feature Films: 1930-1939, or [Det Danske Filminstitut Filmdatabasen](https://www.dfi.dk/viden-om-film/filmdatabasen) , etc.
 
 Although primary sources are generally preferred, this manual allows for the use of secondary sources no matter the entity, attribute or relationship described in recognition that there may be constraints on the amount of research or viewing a cataloguer can do.
 
