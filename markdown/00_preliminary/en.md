@@ -205,6 +205,8 @@ This section includes sample structures for how the elements can be applied acro
 Four models are provided, beginning with the more complete four-level model and ending with a simple one-level model.
 Models should be applied according to an institution’s system and also determined by the amount of information known about an Item.
 
+Where there is a user need or requirement, some institutions may also develop database systems that pull through some data elements sitting in fields in one hierarchical or linked level to display and be viewed within another, e.g. duration from a Manifestation being visible within a Work record, or location details sitting at the Carrier level also displaying through in the linked Item record.
+
 The full list of elements of description for each entity is set out in the following charts and diagrams, and in Chapters 1-3.
 See Appendix I, Examples of records containing core elements in the different levels of hierarchy for examples of real records which contain these core elements (as well as others) across the hierarchies.
 
