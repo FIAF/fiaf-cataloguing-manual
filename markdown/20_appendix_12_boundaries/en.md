@@ -3,7 +3,7 @@
     } 
 
 These guidelines recognise that real world cataloguing needs and data structures necessitate practical applications of conceptual modelling.
-To that end, the recommendations made in this chapter about determining boundaries for Works and Variants are based on an approach that emphasizes effective, efficient and economic data creation and maintenance: information that is common to all realisations of a Work or Variant is recorded once and is comprised of the shared information that will not change (for example, title, original creation date, creator, etc.).
+To that end, the recommendations made in this chapter about determining boundaries for Works and Variants/Manifestations are based on an approach that emphasizes effective, efficient and economic data creation and maintenance: information that is common to all realisations of a Work or Variant is recorded once and is comprised of the shared information that will not change (for example, title, original creation date, creator, etc.).
 The Work description or record contains the index terms for describing a Work in the catalogue and fulfills the functions of disambiguation (distinguishes Works containing similar or identical titles) and collocation (brings together all the materials that are related to the Work and all Variants of a given Work).
 Variations in information describing the Work result in Variants or Manifestations, or new Works.
 
@@ -119,7 +119,11 @@ Examples:
 
 ```{=latex}
 \begin{tcolorbox}
-Moving image representations of theatrical performances of Shakespeare’s Macbeth, where there is removal and/or replacement of substantially most of the contributors (e.g., cast and/or crew), associated with a work
+Moving image representations of the theatrical play Macbeth by William Shakespeare, where there is removal and/or replacement of substantially most of the contributors (e.g., cast and/or crew), associated with a work. This play has been produced as a moving image many times over the past 100 years, made in different countries and featuring different creators, crew and cast. All these constitute different Works even though they are based on, or moving image reproductions of the same play. Thus:
+
+Macbeth (USA, 1916. Director - John Emerson; production company - D.W.Griffith; cast - Herbert Beerbohm Tree, Constance Collier)
+Macbeth (United Kingdom, 1979. Director - Philip Casson; production company - Thames Television; cast - Ian McKellen, Judi Dench)
+Macbeth (France, United Kingdom, Luxembourg, 2015. Director - Justin Kurzel; production company - See-Saw Films ; cast - Michael Fassbinder, Marion Cotillard)
 \end{tcolorbox}
 ```
 
