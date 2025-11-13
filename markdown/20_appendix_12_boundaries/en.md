@@ -489,7 +489,7 @@ Our herring industry (GB, 1932) is the shortened version of Drifters (GB, 1929).
 
 Where a Work/Variant structure exists then Our herring industry would constitute a Variant of the Work Drifters.
 
-Where no Variant structure exists then the cataloguer would decide whether it constituted a Manifestation or new Work.
+Where no Variant structure exists then the cataloguer would decide whether it constituted a Manifestation or new Work (i.e. whether it constituted a "variation with minor changes", or a "version with major changes").
 
 It is up to every archive or institution to choose and make its own policy on whether to use Variants or Manifestations.
 
@@ -497,9 +497,9 @@ It is up to every archive or institution to choose and make its own policy on wh
     \label{sec:boundaries_between_manifestations_and_events}
     }
 
-As mentioned previously, there is no rule within EN15907 as to the categories of Manifestation Type there can be, only that its values come from a controlled vocabulary list. The only one stipulated value that exists is that of a category of ‘Unknown’.
+As mentioned at [INSERT INTERNAL LINK TO RELEVANT SECTION IN MANUAL], there is no rule within EN15907 as to the categories of Manifestation Type there can be, only that its values come from a controlled vocabulary list. The only one stipulated value that exists is that of a category of ‘Unknown’.
 
-Overlaps between use of Manifestations and Events, and Manifestation types and Event Publication types, have partly been due to some ambiguity within the EN15907 standard itself. But also, how the latter has been interpreted and evolved since it was conceived in order to deal with the nature and range of actual moving image material and technological developments, as well as the realities and practicalities for institutions using different cataloguing systems and databases, and user access needs.
+Overlaps that have evolved between use of Manifestations and Events, and Manifestation types and Event Publication types, have partly been due to some ambiguity within the EN15907 standard itself. But also, how the latter has been interpreted and evolved since it was conceived in order to deal with the nature and range of actual moving image material and technological developments, as well as the realities and practicalities for institutions using different cataloguing systems and databases, and user access needs.
 
 | Manifestation types | Event Publication types |
 | --- | --- |
