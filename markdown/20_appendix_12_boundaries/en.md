@@ -107,7 +107,8 @@ Example:
 
 ```{=latex}
 \begin{tcolorbox}
-What’s Up Tiger Lily (1966)
+What’s Up Tiger Lily (USA, 1966)
+A film by Woody Allen, who utilised footage from the Japanese film Kokusai himitsu keisatsu: kagi no kagi (Japan, 1965. Director Senkichi Taniguchi) re-editing it and dubbing it with completely different dialogue, plus inserting some new scenes, which changed the whole plot and tone of the original.
 \end{tcolorbox}
 ```
 
