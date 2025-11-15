@@ -1,6 +1,7 @@
 name: compile_manual
 on:
-  push
+  push:
+  pull_request:
 jobs:
   compile:
     runs-on: ubuntu-latest 
