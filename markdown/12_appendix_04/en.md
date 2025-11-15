@@ -1091,18 +1091,6 @@ Disc
 File
 Digital tape
 
-\subsubsection[Item Base – Film or Video]{Item Base – Film or Video
-    \label{sec:item_base_film_or_video}
-    } 
-
-Acetate    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diacetate    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Triacetate    
-Ozaphan  
-Nitrate     
-Polyester    
-Magnetic Tape
-
 \subsubsection[Item Element Type]{Item Element Type
     \label{sec:appendix_item_element_type}
     } 
