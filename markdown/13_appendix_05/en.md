@@ -629,7 +629,3 @@ The acquisition Item record would be linked as “part of” the whole Manifesta
 
 
 
-\newpage
-\section[Boundaries between records]{Boundaries between records 
-    \label{sec:boundaries_between_records}
-    } 
