@@ -8,6 +8,32 @@
 Manual
 
 
+<table>
+  <style>
+    table, th, td {
+      border: 1px solid black;
+      padding: 6pt;
+      font-family: "BrownStd", serif; /* Critical for your font */
+    }
+    th {
+      background-color: gray!5!white; /* Matches your tcolorbox style */
+      font-weight: bold;
+    }
+  </style>
+  <tr>
+    <th>Header 1</th>
+    <th>Header 2</th>
+  </tr>
+  <tr>
+    <td>Data row 1, cell 1</td>
+    <td>Data row 1, cell 2</td>
+  </tr>
+  <tr>
+    <td>Data row 2, cell 1</td>
+    <td>Data row 2, cell 2</td>
+  </tr>
+</table>
+
 +---------------+---------------+--------------------+
 | Fruit         | Price         | Advantages         |
 +===============+===============+====================+
