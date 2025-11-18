@@ -7,6 +7,17 @@
 1991 FIAF Cataloguing Rules (ISBD based), EN 15907 and FIAF Moving Image Cataloguing
 Manual
 
+
++---------------+---------------+--------------------+
+| Fruit         | Price         | Advantages         |
++===============+===============+====================+
+| Bananas       | $1.34         | - built-in wrapper |
+|               |               | - bright color     |
++---------------+---------------+--------------------+
+| Oranges       | $2.10         | - cures scurvy     |
+|               |               | - tasty            |
++---------------+---------------+--------------------+
+
  <table>
   <tr>
     <th>Company</th>
