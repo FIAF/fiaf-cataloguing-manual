@@ -34,16 +34,20 @@ Manual
   </tr>
 </table>
 
+**Moving Image Work / Variant**
+
 +---------------+---------------+--------------------+
-| Fruit         | Price         | Advantages         |
+| FIAF Moving Image Cataloguing Manual         | EN 15907         | 1991 FIAF Cataloguing Rules (ISBD based)         |
 +===============+===============+====================+
-| Bananas       | $1.34         | - built-in wrapper |
-|               |               | - bright color     |
+| Attributes of the entity        | Attributes        | 
 +---------------+---------------+--------------------+
-| Oranges       | $2.10         | - cures scurvy     |
-|               |               | - tasty            |
+| Description Type | DescriptionLevel | |
+|- Analytic |- Analytic | |
+|- Monographic  |- Monographic| |
 +---------------+---------------+--------------------+
 
+
+ - cures scurvy
  <table>
   <tr>
     <th>Company</th>
