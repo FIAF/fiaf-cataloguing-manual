@@ -19,3 +19,11 @@
 
 \usepackage{tcolorbox}
 \tcbset{colback=gray!5!white,colframe=gray!5!white}
+
+ \usepackage{longtable}
+% Redefine \LT@tabularcr to include \hline for horizontal rules after each row
+\makeatletter
+\def\LT@tabularcr{\@ifnextchar[{\LT@argtabularcr}{\ifnum \@lastpenalty=\z@ \else \@tempswafalse \fi
+    \if@tempswa \else \penalty-\@M \fi
+    \LT@setprevcolwidth \LT@tablign \LT@line \hline}} % Added \hline here
+\makeatother
