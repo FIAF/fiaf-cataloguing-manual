@@ -325,7 +325,7 @@ Record the country of origin using the full form of the country name, e.g. Unite
 
 If the country name has changed, record the name of the country as it was at the time of production, e.g., Czechoslovakia for a Work/Variant produced in 1970, but Czechia or Slovakia for one from 2012.^[ISO 3166-3 Codes for the representation of names of countries and their subdivisions -- Part 3: Code for formerly used names of countries, is available for purchase as a PDF on the ISO website: [http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=2130](http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=2130)]
 
-<ins>Some general notes on countries which are/have been occupied<\ins>:
+<ins>Some general notes on countries which are/have been occupied:
 
 There are often complexities and sensitivities around which production country or countries to apply to moving images made in a country under occupation or annexation. These are sometimes connected with the nature and content of those moving images, e.g. propagandic and ideological aspects, but also with levels of autonomy, e.g. if the production companies and film crews were local but occupying authorities had direct control and involvement over scripts, personnel involved, content, final censorship etc. Even if collaborative or puppet national governments and authorities were technically in charge, if still under occupation then it could be viewed as having the production country of the occupying country. 
 
