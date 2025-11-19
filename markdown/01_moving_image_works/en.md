@@ -323,7 +323,23 @@ An institution should compile its own rules for ordering of country of reference
 
 Record the country of origin using the full form of the country name, e.g. United Kingdom rather than UK, by taking the most suitable value(s) from a controlled list. This can be an in-house list but the use of a standard list such as ISO 3166^[http://www.iso.org/iso/home/standards/country_codes.htm] is preferable. If ISO is used, apply the English Short Name that is associated to a code. Optionally, record the country code as found in ISO 3166-1-alpha 2.
 
-If the country name has changed, record the name of the country as it was at the time of production, e.g., Czechoslovakia for a Work/Variant produced in 1970, but Czech Republic or Slovakia for one from 2012.^[ISO 3166-3 Codes for the representation of names of countries and their subdivisions -- Part 3: Code for formerly used names of countries, is available for purchase as a PDF on the ISO website: [http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=2130](http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=2130)]
+If the country name has changed, record the name of the country as it was at the time of production, e.g., Czechoslovakia for a Work/Variant produced in 1970, but Czechia or Slovakia for one from 2012.^[ISO 3166-3 Codes for the representation of names of countries and their subdivisions -- Part 3: Code for formerly used names of countries, is available for purchase as a PDF on the ISO website: [http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=2130](http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=2130)]
+
+Some general notes on countries which are/have been occupied:
+
+Use linking with georeferencing data such as GeoNames for place/location of production company or for indexation of film location to enable findability of films produced for example in film studios in Kyiv or Odesa with the search term “Ukraine” .https://www.geonames.org/ . In this way, it is possible to avoid manifesting or perpetuating geopolitical facts.
+
+If adding country names is necessary, here are some recommendations and options:
+
+a)    Use VIAF, authority records and ISO codes for countries whenever possible
+
+b)    Retain the old geo-political countries which are given in the film. For example: if a film was made by a Ukrainian filmmaker and company in say the 1960s then it would be designated as having a production country of the USSR, since at that time Ukraine was part of the USSR. If it had been made pre-1917 it would be designated as having the country Russian Empire (or Imperial Russia).
+
+c)     Add Ukraine as an additional country, preferably as an ISO code (https://www.iso.org/obp/ui/#iso:code:3166:UA). Under ISO this technically pertains to the country post-1991, with use of the Soviet Union/USSR before then. Under LC/MARC though, country Ukraine “covers both the Ukrainian SSR (1917-Aug.24 1991) and the newly independent Ukraine (25 Aug. 1991- )”. [It should be noted that 1917 is historically inaccurate: The Ukrainian SSR was established only in 1919].
+
+d)    Create a country for the Ukrainian SSR. There are no ISO codes for separate Soviet Socialist republics except for Byelorussian SSR.
+
+It remains the policy decision of an institution or festival to choose a preferred name for display on online platforms and/or in festival catalogues. This decision should not be taken lightly and should be informed by the opinions and experiences of those affected.
 
 \subsubsection[Year/Date of Reference]{Year/Date of Reference
     \label{sec:year_date_of_reference}
