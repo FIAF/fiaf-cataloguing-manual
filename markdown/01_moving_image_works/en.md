@@ -339,7 +339,7 @@ It is for each institution to consider and decide what production countries to a
 
 If possible use linking with georeferencing data such as GeoNames for place/location of production company or for indexation of film location to enable findability of films produced for example in film studios in Riga with the search term “Latvia” .https://www.geonames.org/ . In this way, it is possible to avoid manifesting or perpetuating geopolitical facts that may be contentious. [NB. may need to cover this under nationality in Agents chapter as well, i.e. how to deal with this if you don't have geonames linking possibilities, and covering things like country/border changes, e.g. those actors who were born and died in an area of what was India before partition but is now in Pakistan; similarly those who were born in what was then part of Germany but then changed to be part of Poland, etc.]
 
-<ins>Some general notes on countries that have changed name and borders, or attained independence from former empires, multinational states, or unions.<\ins>
+<ins>Some general notes on countries that have changed name and borders, or attained independence from former empires, multinational states, or unions.
 
 If adding country names rather than georeferencing data is necessary, here are some recommendations and possible options:
 
