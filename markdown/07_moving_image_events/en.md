@@ -17,8 +17,7 @@ The EN15907 standard gives the following event types:
 •	IPR Registration event - A registration of intellectual property rights in a work. An IPR registration event can be associated with instances of Agent, e.g. in the role of applicant.  
 •	Award - A bestowal of an award relating to the moving image work or to a specific achievement by an Agent within the context of the work, e.g. “best screenplay”, “best actor”, etc. Awards will be usually associated at the level of the work, except for cases where features of a particular variant are explicitly mentioned (e.g. "best audio commentary for the visually impaired") or the award relates to a particular manifestation (such as a DVD edition). An Award may be associated with instances of Agent in the role of individual winner, sponsor, etc., or with instances of Event, e.g. if the prizegiving ceremony was part of a festival.  
 •	Production Event - A specific event in the creation of the moving image work. A distinct event in the course of production of a moving image work or variant that is significantly separated in space and/or time from the main production event, or is known with a greater amount of detail. Examples are dates and locations for casting, shootings or other recordings, or for particular post-production activities. Other production events may include the acquisition or rental of noteworthy property or accessories for the purpose of making the film. A production event may be associated with instances of Agent in the role of their specific involvement with the event.  
-•	Preservation Event - An event in which the contents of one or more items (or fragments) from manifestations of a moving image were transferred to create a new manifestation or item with the intent of safeguarding the contents of a moving image from decay. Some preservation activities may result in a new variant, particularly if the contents of the moving image is affected by the process.  
-•	A preservation event shall be associated with the variant, manifestation or item that resulted from the preservation process.  
+•	Preservation Event - An event in which the contents of one or more items (or fragments) from manifestations of a moving image were transferred to create a new manifestation or item with the intent of safeguarding the contents of a moving image from decay. Some preservation activities may result in a new variant, particularly if the contents of the moving image is affected by the process.  A preservation event shall be associated with the variant, manifestation or item that resulted from the preservation process.  
 [ADD LINK TO FILMSTANDARDS WEBSITE FOR EACH BULLET POINTED TYPE OF EVENT]
 
 
@@ -55,28 +54,26 @@ Record all the existing relationships of a Publication Event, if the information
 
 Publication Event information consists of the following sub-elements:
 
-•	Publication type
-•	Publication date
-•	Region
+•	Publication type  
+•	Publication date  
+•	Region  
 
 •	Publication type
-
 
 Record the Publication type for Manifestations, for example, “pre-release,” “theatrical distribution,” etc. Selection should be made from a controlled list of terms. See D.10 Manifestation Publication Types.
 
 D.10 Manifestation Publication Types
 
-Release
-Publication
-Distribution
-Broadcast
-Online Transmission (e.g. Internet, Intranet)
-Pre-Release
-Theatrical distribution
-Non-theatrical distribution
-Not for release
-Home video publication
-Broadcast
+Release  
+Publication  
+Distribution  
+Broadcast  
+Online Transmission (e.g. Internet, Intranet)  
+Pre-Release  
+Theatrical distribution  
+Non-theatrical distribution  
+Not for release  
+Home video publication  
 Unknown
 
 
@@ -108,10 +105,10 @@ Record all the existing relationships of a Publication Event, if the information
 
 Award(s) or Nomination(s) Event information consists of the following sub-elements:
 
-•	Award(s)/Nomination(s) date
-•	Nomination only
-•	Award name
-•	Achievement
+•	Award(s)/Nomination(s) date  
+•	Nomination only  
+•	Award name  
+•	Achievement  
 
 •	Award(s)/Nomination(s) date
 Record the date the award was bestowed on an Agent associated with the Work, Variant or Manifestation. (Dates should be formatted according to ISO 8601 or some other recognised standard.)
@@ -137,23 +134,23 @@ Record all the existing relationships of a ProductionPublication Event, if the i
 
 Production Event information consists of the following sub-elements:
 
-•	Production Event type
-•	Location
-•	Region
-•	Year/Date
-•	Event details
+•	Production Event type  
+•	Location  
+•	Region  
+•	Year/Date  
+•	Event details  
 
 •	Production Event type
 Selection should be made from a controlled list of values. See D.11 Production Event Types.
 
 D.11 Production Event Types
 
-Casting
-Outdoor shooting
-Indoor shooting
-Post-Production
+Casting  
+Outdoor shooting  
+Indoor shooting  
+Post-Production  
 
-
+ 
 •	Location
 Any geographic name(s) or address(es) of the location(s) where the event took place
 
@@ -178,13 +175,13 @@ Record all the existing relationships of a Copyright/IPR Registration Event, if 
 
 Copyright/IPR Registration Event information consists of the following sub-elements:
 
-•	Registration Date
-•	Registration Agency
-•	Regional scope
-•	Name of applicant
-•	Registration number
+•	Registration Date  
+•	Registration Agency  
+•	Regional scope  
+•	Name of applicant  
+•	Registration number  
 
-•	Registration date
+•	Registration  date
 The date on which the registration was filed or the date on which registration became effective. (Dates should be formatted according to ISO 8601 or some other recognised standard.)
 
 •	Registration agency
@@ -213,22 +210,22 @@ Record all the existing relationships of a Preservation/Restoration Event, if th
 
 Preservation/Restoration Event information consists of the following sub-elements:
 
-•	Preservation/Restoration type
-•	Preservation/Restoration Date
+•	Preservation/Restoration type  
+•	Preservation/Restoration date  
 
 •	Preservation/Restoration type
 Record the general type of the preservation/restoration activity performed. Selection should be made from a controlled list of terms, which may include:
-
-Conservation / Repair
-Image Digitisation
-Sound Digitisation
-Reconstruction
-Image Restoration
-Image Grading
-Sound Restoration
-Printing / Recording
-Duplication
-Transfer 
+ 
+Conservation / Repair  
+Image Digitisation  
+Sound Digitisation  
+Reconstruction  
+Image Restoration  
+Image Grading  
+Sound Restoration  
+Printing / Recording   
+Duplication   
+Transfer   
 
 •	Preservation/Restoration Date
 Record the date or time span in which the preservation/restoration activity was performed. (Dates should be formatted according to ISO 8601 or some other recognised standard.)
@@ -236,11 +233,11 @@ Record the date or time span in which the preservation/restoration activity was 
 Add in a note any information describing the preservation process in detail.
 
 This can include: 
--	Genesis of the project or reason why preservation was undertaken
--	Significant challenges
--	Relevant research (documenting sources of information related to content or production techniques)
--	Technical, aesthetic or ethical decisions
--	Recommendations for further work (details concerning limitations due to source material, resources, technology, etc.)
+-	Genesis of the project or reason why preservation was undertaken  
+-	Significant challenges  
+-	Relevant research (documenting sources of information related to content or production techniques)  
+-	Technical, aesthetic or ethical decisions  
+-	Recommendations for further work (details concerning limitations due to source material, resources, technology, etc.)  
 
 A Preservation/Restoration Event can be used in conjunction with Preservation or Restoration type Manifestations as relevant.
 
@@ -257,12 +254,12 @@ A Decision Event may be associated with instances of “Other” relationship(s)
 Record all the existing relationships for the Decision Event, if the information is known and considered of relevance.
 
 Decision event information consists of the following sub-elements:
-•	Decision type
-•	Decision date
-•	Regional scope
-•	Certificate number
-•	Verdict
-•	Decision type
+•	Decision type  
+•	Decision date  
+•	Regional scope  
+•	Certificate number  
+•	Verdict  
+•	Decision type  
 
 •	Decision type
 Record the type or status of the decision event. Usually the term adopted is "censorship" or “revision” for decisions mandated by law, "rating" for decisions under a voluntary scheme. Further types may include special forms of evaluation, e.g. for tax privileges, as long as these are distinct from awards.
@@ -270,10 +267,9 @@ Record the type or status of the decision event. Usually the term adopted is "ce
 
 Selection should be made from a controlled list of terms, including ones such as:
 
-Censorship
-Revision
-Rating
-
+Censorship  
+Revision  
+Rating  
 
 •	Decision date
 Record the date on which the verdict was announced or on which the verdict was declared valid. Dates should be formatted according to ISO 8601 or some other recognised standard.
@@ -303,20 +299,19 @@ A Manufacture Event may be associated with instances of “Other” relationship
 Record all the existing relationships for the Manufacture Event, if the information is known and considered of relevance.
 
 Manufacture event information consists of the following sub-elements:
-•	Manufacture type
-•	Manufacture date
-•	Manufacture region
+•	Manufacture type  
+•	Manufacture date  
+•	Manufacture region  
 
 •	Manufacture type
 Record the general type of the manufacture activity performed, for example, film printing, tele-cine, video copying, etc. Selection should be made from a controlled list of terms, including ones such as:
 
-Film printing
-Telecine
-Video copying
-Scanning
-Mastering
-Uploading
-
+Film printing  
+Telecine  
+Video copying  
+Scanning  
+Mastering  
+Uploading  
 
 •	Date of Manufacture
 Record the date or time span on which the Manufacture Event took place. (Dates should be formatted according to ISO 8601 or some other recognised standard.)
@@ -344,11 +339,11 @@ An Acquisition Event may be associated with instances of “Other” relationshi
 Record all the existing relationships for the Acquisition Event, if the information is known and considered of relevance.
 
 An Acquisition Event information consists of the following sub-elements:
-•	Acquisition type
-•	Acquisition date
-•	Acquisition source
-•	Accession date
-•	Acquisition detail
+•	Acquisition type  
+•	Acquisition date  
+•	Acquisition source  
+•	Accession date  
+•	Acquisition detail  
 
 •	Acquisition type
 Describes the means by which the Item was acquired, for example, donation, exchange, loan, etc. Select from a controlled list of terms. See, D.15 Manifestation/Item Acquisition, Accessioning and Source.
@@ -369,17 +364,17 @@ D.15 Manifestation/Item Acquisition, Accessioning and Source
 
 D.15.1 Item Acquisition type
 
-Donation
-Exchange
-Loan
-Purchase
-Off-air recording
+Donation  
+Exchange  
+Loan  
+Purchase  
+Off-air recording  
 
 D.15.2 Item Acquisition source type
 
-Donor
-Agent
-Intermediary
+Donor  
+Agent  
+Intermediary  
 
 
 D.4.8 Inspection
@@ -393,9 +388,9 @@ An Inspection Event may be associated with instances of “Other” relationship
 Record all the existing relationships for the Inspection Event, if the information is known and considered of relevance.
 
 Inspection Event information consists of the following sub-elements:
-•	Inspection type
-•	Inspection date
-•	Inspection detail
+•	Inspection type  
+•	Inspection date  
+•	Inspection detail  
 
 •	Inspection type
 The general type of inspection activity performed.
