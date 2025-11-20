@@ -929,6 +929,16 @@ Some institutions may use this to refer to restorations undertaken by the instit
 
 If required there is the option of creating more than one Restoration Manifestation to group specific outcomes of the project, e.g. a Manifestation for a Demonstration Reel, Raw scans, final digital DCP and DCDM materials resulting from the restoration process, etc. particularly where there may be several Items, or copies, relating to these on different formats.
 
+    Example:
+
+A very ambitious application might result in the following structure, where separate Manifestations are created for different stages of the restoration process with the key categories:
+1. Raw Scan: linked to its item source via a Preservation event (type: digitisation).
+2. DCDM (Digital Cinema Distribution Master) and DCP (Digital Cinema Package) under one Manifestation
+3. Blu-ray/DVD - ISO as Manifestations and burned physical discs as a items
+4. Viewing file for internet publication
+
+Each of these Manifestations differs from the others in terms of its technical parameters (e.g., encoding, resolution, compression, file formats), which justifies the separation into different Manifestations.
+
   Example:
 
 ```{=latex}
