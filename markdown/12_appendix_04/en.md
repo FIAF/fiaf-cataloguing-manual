@@ -931,13 +931,13 @@ If required there is the option of creating more than one Restoration Manifestat
 
     Example:
 
-A very ambitious application might result in the following structure, where separate manifestations are created for different stages of the restoration process with the key categories:
-1. Raw Scan: linked to its item source via a "preservation event (type: digitisation).
+A very ambitious application might result in the following structure, where separate Manifestations are created for different stages of the restoration process with the key categories:
+1. Raw Scan: linked to its item source via a Preservation event (type: digitisation).
 2. DCDM (Digital Cinema Distribution Master) and DCP (Digital Cinema Package) under one Manifestation
 3. Blu-ray/DVD - ISO as Manifestations and burned physical discs as a items
 4. Viewing file for internet publication
 
-Each of these manifestations differs from the others in terms of its technical parameters (e.g., encoding, resolution, compression, file formats), which justifies the separation into different manifestations.
+Each of these Manifestations differs from the others in terms of its technical parameters (e.g., encoding, resolution, compression, file formats), which justifies the separation into different Manifestations.
 
   Example:
 
