@@ -323,7 +323,37 @@ An institution should compile its own rules for ordering of country of reference
 
 Record the country of origin using the full form of the country name, e.g. United Kingdom rather than UK, by taking the most suitable value(s) from a controlled list. This can be an in-house list but the use of a standard list such as ISO 3166^[http://www.iso.org/iso/home/standards/country_codes.htm] is preferable. If ISO is used, apply the English Short Name that is associated to a code. Optionally, record the country code as found in ISO 3166-1-alpha 2.
 
-If the country name has changed, record the name of the country as it was at the time of production, e.g., Czechoslovakia for a Work/Variant produced in 1970, but Czech Republic or Slovakia for one from 2012.^[ISO 3166-3 Codes for the representation of names of countries and their subdivisions -- Part 3: Code for formerly used names of countries, is available for purchase as a PDF on the ISO website: [http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=2130](http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=2130)]
+If the country name has changed, record the name of the country as it was at the time of production, e.g., Czechoslovakia for a Work/Variant produced in 1970, but Czechia or Slovakia for one from 2012.^[ISO 3166-3 Codes for the representation of names of countries and their subdivisions -- Part 3: Code for formerly used names of countries, is available for purchase as a PDF on the ISO website: [http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=2130](http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=2130)]
+
+<ins>Some general notes on countries which are/have been occupied:
+
+There are often complexities and sensitivities around which production country or countries to apply to moving images made in a country under occupation or annexation. These are sometimes connected with the nature and content of those moving images, e.g. propagandic and ideological aspects, but also with levels of autonomy, e.g. if the production companies and film crews were local but occupying authorities had direct control and involvement over scripts, personnel involved, content, final censorship etc. Even if collaborative or puppet national governments and authorities were technically in charge, if still under occupation then it could be viewed as having the production country of the occupying country. 
+
+So, for example, after the takeover of Austria by Germany in 1938 it was deemed by them to have become a province of the German Third Reich, as did areas of the former Czechoslovakia in 1939. Filmmaking in those countries was a part of the German film industry during this time until 1945. These films may therefore be given a production country of Germany. 
+
+Alternatively, such films may be given two production countries, that of the original country and that of the occupying/annexing country. Using the example above, films made in annexed countries such as Austria and Czechoslovakia often used Austrian and Czech directors, crew, actors, etc. and those countries may deem that these films are a part of their national heritage and that, irrespective of the occupier's position that their countries did not exist any more this was not the case, they were simply temporarily occupied and annexed by another country. 
+
+Similarly, films made in World War II in unoccupied Vichy France would have production country France, while those made in occupied France could have production country Germany (if made wholly by German authorities) or two production countries, Germany and France. The same with annexed Korea from 1910 to 1945, where films may have production countries of Japan and Korea.
+
+It is for each institution to consider and decide what production countries to add on a Work record for moving images made in occupied or annexed countries, and apply consistently in cataloguing.
+
+If possible use linking with georeferencing data such as GeoNames for place/location of production company or for indexation of film location to enable findability of films produced for example in film studios in Riga with the search term “Latvia” .https://www.geonames.org/ . In this way, it is possible to avoid manifesting or perpetuating geopolitical facts that may be contentious. [NB. may need to cover this under nationality in Agents chapter as well, i.e. how to deal with this if you don't have geonames linking possibilities, and covering things like country/border changes, e.g. those actors who were born and died in an area of what was India before partition but is now in Pakistan; similarly those who were born in what was then part of Germany but then changed to be part of Poland, etc.]
+
+<ins>Some general notes on countries that have changed name and borders, or attained independence from former empires, multinational states, or unions.
+
+If adding country names rather than georeferencing data is necessary, here are some recommendations and possible options:
+
+a)    Use VIAF, authority records and ISO codes for countries whenever possible
+
+b)    Retain the old geo-political countries which relate to or are given in the film. For example: if a film was made by a Ukrainian filmmaker and company in the 1960s then it would be designated as having a production country of the USSR, since at that time Ukraine was part of the USSR. If it had been made pre-1917 it would be designated as having the country Russian Empire (or Imperial Russia).
+
+c)     Where countries have attained independence from former empires, multinational states or unions, earlier films made by production companies/studios in the same geographical areas of the countries concerned may be culturally and linguistically a part of their heritage, or there is a need or desire for an institution to identify such films distinct from those in other areas of the same empire or union. e.g. Ukraine. Thus, Ukraine could be added as an additional country to films made during the times it was part of the Russian Empire or USSR. In that case add Ukraine as an additional country, preferably as an ISO code (https://www.iso.org/obp/ui/#iso:code:3166:UA). Under ISO this technically pertains to the country post-1991, with use of the Soviet Union/USSR before then. Under LC/MARC though, country Ukraine “covers both the Ukrainian SSR (1917-Aug.24 1991) and the newly independent Ukraine (25 Aug. 1991- )”. [It should be noted that 1917 is historically inaccurate: The Ukrainian SSR was established only in 1919].
+
+d)    Alternatively create a country for the Ukrainian SSR, Georgian SSR, Armenian SSR, etc. and apply those as additional production countries. Sometimes these Soviet Socialist Republics (SSRs) existed independently until joining together to form the USSR in 1922, and it may be relevant to just use these as production country for any films made between 1918 and 1922. However, there are no ISO codes for separate Soviet Socialist republics except for Byelorussian SSR. [ADD FOOTNOTE: SSRs were often officially formed on different dates between 1918 and the 1930s, and there were also often subsequent boundary changes between them. For further exploration of this see ADD LINK TO CDC FIAF website Ukraine document if latter has been enhanced with additional details]
+
+e) Combinations of any of the above.
+
+It remains the policy decision of an institution or festival to choose a preferred name for display on online platforms and/or in festival catalogues. This decision should not be taken lightly and should be informed by the opinions and experiences of those affected.
 
 \subsubsection[Year/Date of Reference]{Year/Date of Reference
     \label{sec:year_date_of_reference}
