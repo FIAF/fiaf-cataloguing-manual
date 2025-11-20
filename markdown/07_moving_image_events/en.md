@@ -17,7 +17,7 @@ The EN15907 standard gives the following event types:
 •	IPR Registration event - A registration of intellectual property rights in a work. An IPR registration event can be associated with instances of Agent, e.g. in the role of applicant.  
 •	Award - A bestowal of an award relating to the moving image work or to a specific achievement by an Agent within the context of the work, e.g. “best screenplay”, “best actor”, etc. Awards will be usually associated at the level of the work, except for cases where features of a particular variant are explicitly mentioned (e.g. "best audio commentary for the visually impaired") or the award relates to a particular manifestation (such as a DVD edition). An Award may be associated with instances of Agent in the role of individual winner, sponsor, etc., or with instances of Event, e.g. if the prizegiving ceremony was part of a festival.  
 •	Production Event - A specific event in the creation of the moving image work. A distinct event in the course of production of a moving image work or variant that is significantly separated in space and/or time from the main production event, or is known with a greater amount of detail. Examples are dates and locations for casting, shootings or other recordings, or for particular post-production activities. Other production events may include the acquisition or rental of noteworthy property or accessories for the purpose of making the film. A production event may be associated with instances of Agent in the role of their specific involvement with the event.  
-•	Preservation Event - An event in which the contents of one or more items (or fragments) from manifestations of a moving image were transferred to create a new manifestation or item with the intent of safeguarding the contents of a moving image from decay. This can also include restoration activities. Some preservation activities may result in a new variant, particularly if the contents of the moving image is affected by the process.  
+•	Preservation Event - An event in which the contents of one or more items (or fragments) from manifestations of a moving image were transferred to create a new manifestation or item with the intent of safeguarding the contents of a moving image from decay. Some preservation activities may result in a new variant, particularly if the contents of the moving image is affected by the process.  
 •	A preservation event shall be associated with the variant, manifestation or item that resulted from the preservation process.  
 [ADD LINK TO FILMSTANDARDS WEBSITE FOR EACH BULLET POINTED TYPE OF EVENT]
 
@@ -199,36 +199,39 @@ Name of the Agent claiming copyright in the Work or Variant.
 •	Registration number
 The number assigned by the registration agency. 
 
-D.4.5 Preservation 
+D.4.5 Preservation/Restoration 
 
-A Preservation Event is associated with a new Variant, Manifestation or Items resulting from the preservation process in which the contents of one or more Items (or fragments thereof) from Manifestations of a Work were transferred with the intention of restoring or reconstructing the content as originally intended, or safeguarding it from decay.
+A Preservation/Restoration Event is associated with a new Variant, Manifestation or Items resulting from the preservation/restoration process in which the contents of one or more Items (or fragments thereof) from Manifestations of a Work were transferred with the intention of restoring or reconstructing the content as originally intended, or safeguarding it from decay.^There is no designated separate Restoration Event in EN15907, and as there can often be an overlap in the types of activity associated with both preservation and restoration, we extended the definition in the 2016 FIAF Moving Image Cataloguing Manual to cover restoring and reconstruction of content too. We have also now referred to it as a Preservation/Restoration Event to increase clarity.  
 
 This includes statements about past or future treatments scheduled for the item.  If desired and if applicable, record one or more general types of past or future treatment activities (e.g. "added leaders", "cleaned ultrasonically", "tears repair", etc.). Selection should be made from a controlled list of values.
 
-A Preservation Event has as typical Agent(s) the institution(s) or individual professionals that make preservation decisions. Selection should be made from a controlled list of values. See D.8 Manifestation Agent Types and D.3 Work/Variant Agent Types.
+A Preservation/Restoration Event has as typical Agent(s) the institution(s) or individual professionals that make preservation decisions. Selection should be made from a controlled list of values. See D.8 Manifestation Agent Types and D.3 Work/Variant Agent Types[ - text of which is now in Agents chapter].
 
-A Preservation Event can be in relationship with instances of “Other” relationships (such as technical reports, documentation material, promotional material for the specific project, etc.).
+A Preservation/Restoration Event can be in relationship with instances of “Other” relationships (such as technical reports, documentation material, promotional material for the specific project, etc.).
 
-Record all the existing relationships of a Preservationublication Event, if the information is known and considered of relevance.
+Record all the existing relationships of a Preservation/Restoration Event, if the information is known and considered of relevance.
 
-Preservation Event information consists of the following sub-elements:
-•	Preservation type
-•	Preservation Date
+Preservation/Restoration Event information consists of the following sub-elements:
 
-•	Preservation type
-Record the general type of the preservation activity performed, for example, duplication, transfer, etc. Selection should be made from a controlled list of terms. See D.12 Manifestation Preservation Types.
+•	Preservation/Restoration type
+•	Preservation/Restoration Date
 
-D.12 Manifestation Preservation Types
+•	Preservation/Restoration type
+Record the general type of the preservation/restoration activity performed. Selection should be made from a controlled list of terms, which may include:
 
+Conservation / Repair
+Image Digitisation
+Sound Digitisation
+Reconstruction
+Image Restoration
+Image Grading
+Sound Restoration
+Printing / Recording
 Duplication
-Transfer
-Reproduction
-Digitisation
+Transfer 
 
-
-
-•	Preservation Date
-Record the date or time span in which the preservation activity was performed. (Dates should be formatted according to ISO 8601 or some other recognised standard.)
+•	Preservation/Restoration Date
+Record the date or time span in which the preservation/restoration activity was performed. (Dates should be formatted according to ISO 8601 or some other recognised standard.)
 
 Add in a note any information describing the preservation process in detail.
 
@@ -238,6 +241,10 @@ This can include:
 -	Relevant research (documenting sources of information related to content or production techniques)
 -	Technical, aesthetic or ethical decisions
 -	Recommendations for further work (details concerning limitations due to source material, resources, technology, etc.)
+
+A Preservation/Restoration Event can be used in conjunction with Preservation or Restoration type Manifestations as relevant.
+
+[INSERT ILLUSTRATIVE DIAGRAMS HERE]
 
 D.4.6 Decision 
 
@@ -260,9 +267,8 @@ Decision event information consists of the following sub-elements:
 •	Decision type
 Record the type or status of the decision event. Usually the term adopted is "censorship" or “revision” for decisions mandated by law, "rating" for decisions under a voluntary scheme. Further types may include special forms of evaluation, e.g. for tax privileges, as long as these are distinct from awards.
 
-Selection should be made from a controlled list of terms. See D.13 Manifestation Decision Types.
 
-D.13 Manifestation Decision Types
+Selection should be made from a controlled list of terms, including ones such as:
 
 Censorship
 Revision
@@ -281,7 +287,7 @@ Record in Arabic numerals the number issued by the agency as a unique identifier
 •	Verdict
 Record the outcome of the act of rating or censorship.
 
-
+[INSERT ILLUSTRATIVE EXAMPLES HERE FROM A COUPLE OF DIFFERENT COUNTRIES]
 
 
 D.4.7 Manufacture
@@ -302,9 +308,7 @@ Manufacture event information consists of the following sub-elements:
 •	Manufacture region
 
 •	Manufacture type
-Record the general type of the manufacture activity performed, for example, film printing, tele-cine, video copying, etc. Selection should be made from a controlled list of terms. See D.14 Manifestation Manufacture Types.
-
-D.14 Manifestation Manufacture Types
+Record the general type of the manufacture activity performed, for example, film printing, tele-cine, video copying, etc. Selection should be made from a controlled list of terms, including ones such as:
 
 Film printing
 Telecine
@@ -382,7 +386,7 @@ D.4.8 Inspection
 
 The inspection of a particular Item for the purposes of assessing and recording the condition or treatment of the Item.
 
-An Inspection Event may be associated with instances of Agent in the role of e.g. inventory archivist, projectionist, etc.
+An Inspection Event may be associated with instances of Agent in the role of e.g. inventory archivist, lab technician, projectionist, etc.
 
 An Inspection Event may be associated with instances of “Other” relationship(s).
 
@@ -396,7 +400,7 @@ Inspection Event information consists of the following sub-elements:
 •	Inspection type
 The general type of inspection activity performed.
 
-If desired and if applicable, record one or more general type(s) of the inspection activity performed (e.g. projection prep, inventory). Selection should be made from a controlled list of terms. This includes statements about past or future inspections scheduled for the item. 
+If desired and if applicable, record one or more general type(s) of the inspection activity performed (e.g. projection prep, inventory). Selection should be made from a controlled list of terms. This includes statements about past or future inspections scheduled for the item. [NB. Do we have a potential small list of example terms we could add here?]
 
 •	Inspection date
 The date or time span in which the inspection activity was performed. (Dates should be formatted according to ISO 8601 or some other recognised standard.)
