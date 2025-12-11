@@ -323,7 +323,21 @@ The projection characteristics of a Manifestation include aspect ratio and apert
 
 The aspect ratio (also known as projection ratio) is the projected image area visible on screen, expressed as a value of width to height (the value of height always being “1”), for example, 2.34:1, 2.39:1.
 Selection should be made from a controlled list of values.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:aspect_ratio}.
+A suggested list, which is open and not exhaustive, includes:
+
+1.33:1 
+1.19:1
+1.37:1
+2.55:1 
+2.35:1 
+1.66:1 
+1.75:1
+1.85:1
+1.85:1 
+2.39:1
+4:3
+
+
 
 The aspect ratio reflects the compositional intentions of the original content makers and the intended presentation of the moving image content.^[This definition from Academy Film Archive in-house glossary of terms, and OLAC, Moving Image Works, Part 3a: Operational Definitions (08/09) (PDF Document), http://olacinc.org/drupal/capc_files/MIW_3a.pdf.] If the aspect ratio of a Work/Variant is altered, moving image information is lost, creating a Manifestation/Item with different moving image content.^[OLAC, Moving Image Works, Part 3a: Operational Definitions (08/09) (PDF Document), http://olacinc.org/drupal/capc_files/MIW_3a.pdf] The Manifestation should reflect the projected image of the Work/Variant that it represents, rather than that on the Item.
 Institutions may record variations in projection characteristics as Item-specifics, rather than create multiple Manifestations.
