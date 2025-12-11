@@ -325,16 +325,16 @@ The aspect ratio (also known as the image ratio or projection ratio) is the proj
 Selection should be made from a controlled list of values.
 A suggested list of examples, which is open and not exhaustive, includes:
 
-1.33:1 
-1.37:1
-1.19:1
-2.55:1 
-2.35:1 
-1.66:1 
-1.75:1
-1.85:1
-2.39:1
-4:3
+- 1.33:1    
+- 1.37:1   
+- 1.19:1   
+- 2.55:1  
+- 2.35:1  
+- 1.66:1  
+- 1.75:1 
+- 1.85:1 
+- 2.39:1 
+- 4:3
 
 Fuller details and examples of “aspect ratio” value lists can be found in the Technical Glossary of Common Audiovisual Terms (National Film and Sound Archive Australia), [INSERT LINK TO FIAF ADVANCED PROJECTION MANUAL HERE] and the PBCore essenceTrackAspect Ratio http://metadataregistry.org/concept/list/vocabulary_id/129.html
 
@@ -349,19 +349,19 @@ The actual exposed image or picture area as it appears on the moving image itsel
 Selection should be made from a controlled list of terms.
 A suggested list of examples, which is open and not exhaustive, includes:
 
-Academy
-Widescreen
-Cinemascope
-Movietone
-Flat
-Full Height
-Full Screen
-Anamorphic
-3D
-Pan and scan
-Pillarbox (bars added at the sides)
-Letterbox/Widescreen (bars added at the top and bottom)
-Windowbox (bars added at the side and the top and bottom)
+- Academy 
+- Widescreen 
+- Cinemascope 
+- Movietone 
+- Flat 
+- Full Height 
+- Full Screen 
+- Anamorphic 
+- 3D 
+- Pan and scan 
+- Pillarbox (bars added at the sides) 
+- Letterbox/Widescreen (bars added at the top and bottom) 
+- Windowbox (bars added at the side and the top and bottom) 
 
 Further examples can be found in [INSERT LINK TO FIAF ADVANCED PROJECTION MANUAL HERE]
 
