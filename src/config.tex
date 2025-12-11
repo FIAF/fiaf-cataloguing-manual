@@ -1,29 +1,28 @@
 % config.tex
 
-\usepackage[a4paper, margin=1in]{geometry} 
+\usepackage[a4paper, margin=1in]{geometry}
 
-\usepackage{fontspec}  
-\setmainfont[Mapping=tex-text,AutoFakeSlant=0.2]{BrownStd} 
-\setmonofont{Fira Code} 
+\usepackage{fontspec}
+\setmainfont[Mapping=tex-text,AutoFakeSlant=0.2]{BrownStd}
+\setmonofont{Fira Code}
 
 \usepackage{hyperref}
+% \hypersetup{
+%     colorlinks=true,   % Enable colored links
+%     linkcolor=orange,    % Set link color
+%     urlcolor=orange,      % Set URL color
+%     citecolor=orange    % Set citation color
+% }
+
+\usepackage{xcolor}
 \hypersetup{
-    colorlinks=true,   % Enable colored links
-    linkcolor=orange,    % Set link color
-    urlcolor=orange,      % Set URL color
-    citecolor=orange    % Set citation color
+    colorlinks=true,
+    linkcolor=orange, % Custom color for internal links (namerefs)
+    urlcolor=teal     % Custom color for external links
 }
 
 \usepackage{footmisc}    % Load footmisc package for more control over footnotes
 \setlength{\footnotemargin}{0pt}  % Removes any left margin for footnotes
 
 \usepackage{tcolorbox}
-\tcbset{colback=gray!5!white,colframe=gray!5!white}
-
- \usepackage{longtable}
-% Redefine \LT@tabularcr to include \hline for horizontal rules after each row
-\makeatletter
-\def\LT@tabularcr{\@ifnextchar[{\LT@argtabularcr}{\ifnum \@lastpenalty=\z@ \else \@tempswafalse \fi
-    \if@tempswa \else \penalty-\@M \fi
-    \LT@setprevcolwidth \LT@tablign \LT@line \hline}} % Added \hline here
-\makeatother
+\tcbset{colback=gray!5!white, colframe=gray!75!black, title=Example}

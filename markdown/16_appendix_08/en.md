@@ -8,6 +8,24 @@
 Manual
 
 
+
+\begin{longtable}[c]{@{}|r|l|c|l|@{}}
+\caption{Demonstration of simple table syntax.}\tabularnewline
+\toprule
+Right & Left & Center & Default\tabularnewline
+\midrule
+\endfirsthead
+\toprule
+Right & Left & Center & Default\tabularnewline
+\midrule
+\endhead
+12 & 12 & 12 & 12\tabularnewline
+123 & 123 & 123 & 123\tabularnewline
+1 & 1 & 1 & 1\tabularnewline
+\bottomrule
+\end{longtable}
+
+
 <table>
   <style>
     table, th, td {
@@ -123,6 +141,3 @@ Manual
 | Agent(s) (e.g., preservation technician, donor, etc.) | HasAgent | Notes area |
 | Events  <ins>Event type</ins>  - Licensing  - Preservation  - Inspection  - Acquisition | HasEvent | Notes area |
 | Other Relationships | HasOtherRelation | Notes area |
-
-
-

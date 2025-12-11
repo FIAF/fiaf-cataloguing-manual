@@ -562,5 +562,3 @@ If the cataloguing system allows, attach a digital file that reproduces any asso
     } 
 
 Express the relationship between a moving image Manifestation and a moving image Item (e.g. Part/part of).
-
-

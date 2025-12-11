@@ -171,9 +171,9 @@ I love Huckabees [Alternative or Non-preferred] \\
 \end{tcolorbox}
 ```
 
-\subsection[Title Types]{Title Types   
-    \label{sec:title_types}
-    } 
+\subsection{Title Types}   
+\label{sec:title_types}
+ 
 
 This manual recommends a title + title type approach for the treatment of various titles that may be associated with any Moving Image Work, Variant, Manifestation or Item (WVMI).
 
@@ -1383,6 +1383,3 @@ Examples of partially and fully supplied titles for a variety of scenarios can b
     } 
 
 Titling of aggregates follows the same principles as that of other types of entities as detailed in Appendix A.1 and A.2 sections above.
-
-
-
