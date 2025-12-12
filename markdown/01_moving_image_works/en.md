@@ -576,8 +576,8 @@ Document information related to the censorship history of a Work/Variant, includ
 \\
 In Italy, this film has three different theatrical distributions, corresponding to three different visas (“visto di censura”) from the official censorship body (Ufficio di revisione cinematografica). \\
 Censored Variant: Theatrical distribution in Italy – censorship visa n. 32329 – date: 1960-07-05 – Length 2463m – original French – not for under 16 years \\
-Dubbed, Censored Variant: Theatrical distribution in Italy – censorship visa n. 57609 – date: 1971-01-23 – Length 2440m. – Italian \\
-Dubbed, Censored Variant: Theatrical distribution in Italy– censorship visa n. 64662 – date: 1974-05-20 – Length 2430m. – Italian dubbed
+Dubbed, Censored Variant: Theatrical distribution in Italy – censorship visa n. 57609 – date: 1971-01-23 – Length 2440m. – Italian \\
+Dubbed, Censored Variant: Theatrical distribution in Italy– censorship visa n. 64662 – date: 1974-05-20 – Length 2430m. – Italian dubbed
 \end{tcolorbox}
 ```
 
