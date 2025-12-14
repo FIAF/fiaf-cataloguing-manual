@@ -169,21 +169,39 @@ None are considered mandatory by these guidelines, but an institution may requir
 These core points of description are listed with their corresponding terms as presented in the manual.
 They represent an ideal minimum set of metadata for moving image cataloguing.
 
-| CORE CONCEPT | TOP-LEVEL ELEMENT | SUB-ELEMENT|
-| -- | -- | -- |
-|Title | 1.3.2 Title [Work] | -- |
-| Series / Serial^[EN15744 definitions “A series is a group of separate items related to one another by the fact that each item bears, in addition to its own title, a collective title applying to the group as a whole. A serial is a type of “short subject” work which is characterized principally by the episodic development of a story”. This Core Concept is referencing the name of another Work that a Work may be “part of”, where the latter has been conceived within the context/intention of being an element of a Series or Serial. It is not being used here as a Work/Variant Description Type. (See D.1 Work/Variant Description Types)] | 1.3.2 Title [Work] | 1.3.2.1 Title Type = Series/Serial [Work] |
-| Cast | 1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) [Work] | 1.4.1.1 Agent Activity = Cast [Work] |
-| Credits (including Production Companies) | 1.4.1 Agents [Work] | 1.4.1.1 Agent Activity = Credit (use term for actual role) [Work] |
-| Country of Reference | 1.3.3 Country of reference [Work] | |
-| *Original Format | 2.3.4 Format of a moving image Manifestation [Manifestation] | 2.3.4.1.2 Specific Carrier Type: [Manifestation] |
-| *Original Length | 2.3.5 Extent of a Manifestation [Manifestation] | 2.3.5.2 Physical extent of a Manifestation |
-| *Original Duration | 2.3.5 Extent of a Manifestation [Manifestation] | 2.3.5.3 Duration of a Manifestation |
-| *Original Language | 1.3.5 Language(s) [Work] | 1.3.5.1 Language Term + 1.3.5.2 Usage type [Work] |
-| Year of Reference | 1.3.4 Year/Date of reference [Work] | 1.3.4.1 Date Type [Work] |
-| Identifier | As appropriate: 1.3.1 Work/Variant Identifier [Work/Variant] &/OR 2.3.1 Identifier [Manifestation] &/OR 3.1.1 Identifier [Item] | As appropriate: 1.3.1.1 Identifier Type [Work/Variant] &/OR 2.3.1.1 Identifier Type [Manifestation] &/OR 3.1.1.1 Identifier Type [Item] |
-| Subject/Genre/Form^[Form = Fiction, Non-fiction, etc. Some institutions may incorporate these as a genre term, whilst others may have them as a separate category to genre.] | 1.4.3 Subject/Genre/Form terms [Work] | |
-| Content Description | 1.3.6 Content description (synopses, shotlists, etc) | |
+
+\renewcommand{\arraystretch}{1.5}
+\begin{tabularx}{\textwidth}{|X|X|X|}
+\hline
+\textbf{CORE CONCEPT} & \textbf{TOP-LEVEL ELEMENT} & \textbf{SUB-ELEMENT} \\
+\hline
+Title & 1.3.2 Title [Work] & --  \\
+\hline
+Series / Serial \footnote{EN15744 definitions “A series is a group of separate items related to one another by the fact that each item bears, in addition to its own title, a collective title applying to the group as a whole. A serial is a type of “short subject” work which is characterized principally by the episodic development of a story”. This Core Concept is referencing the name of another Work that a Work may be “part of”, where the latter has been conceived within the context/intention of being an element of a Series or Serial. It is not being used here as a Work/Variant Description Type. (See D.1 Work/Variant Description Types)} & 1.3.2 Title [Work] & 1.3.2.1 Title Type = Series/Serial [Work]  \\
+\hline
+Cast & 1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) [Work] & 1.4.1.1 Agent Activity = Cast [Work]  \\
+\hline
+Credits (including Production Companies) & 1.4.1 Agents [Work] & 1.4.1.1 Agent Activity = Credit (use term for actual role)  [Work] \\
+\hline
+Country of Reference & 1.3.3 Country of reference [Work] &  \\
+\hline
+*Original Format & 2.3.4 Format of a moving image Manifestation [Manifestation] & 2.3.4.1.2 Specific Carrier Type: [Manifestation]  \\
+\hline
+*Original Length & 2.3.5 Extent of a Manifestation [Manifestation] & 2.3.5.2 Physical extent of a Manifestation  \\
+\hline
+*Original Duration & 2.3.5 Extent of a Manifestation [Manifestation] & 2.3.5.3 Duration of a Manifestation  \\
+\hline
+*Original Language & 1.3.5 Language(s) [Work] & 1.3.5.1 Language Term + 1.3.5.2 Usage type [Work]  \\
+\hline
+Year of Reference & 1.3.4 Year/Date of reference [Work] & 1.3.4.1 Date Type [Work]  \\
+\hline
+Identifier & As appropriate: 1.3.1 Work/Variant Identifier [Work/Variant] AND/OR 2.3.1 Identifier [Manifestation] AND/OR 3.1.1 Identifier [Item] & As appropriate: 1.3.1.1 Identifier Type [Work/Variant] AND/OR 2.3.1.1 Identifier Type [Manifestation] AND/OR 3.1.1.1 Identifier Type [Item]  \\
+\hline
+Subject/Genre/Form \footnote{Form = Fiction, Non-fiction, etc. Some institutions may incorporate these as a genre term, whilst others may have them as a separate category to genre.} & 1.4.3 Subject/Genre/Form terms [Work] &  \\
+\hline
+Content Description & 1.3.6 Content description (synopses, shotlists, etc) &  \\
+\hline
+\end{tabularx}
 
 The concept of “original” in this manual indicates the first known manifestation of the Work, which is not determined by its release status.
 The concept of “original” must be flexible enough to be applied to released and unreleased Works.
@@ -216,23 +234,39 @@ See Appendix I, Examples of records containing core elements in the different le
 ![](../src/diagrams/0.2.1-D.png)
 
 \newpage
-**Work/Manifestation/Item.
-Properties expressed in one record, with abstracts, contextual and object data stored in a single level hierarchy Distribution of the elements of description according to the four entities order**
+*Work/Manifestation/Item.
+Properties expressed in one record, with abstracts, contextual and object data stored in a single level hierarchy Distribution of the elements of description according to the four entities order.*
 
-| Properties | (Work) | (Manifestation) | (Item) |
-| -- | -- | -- | -- |
-| Titles | Uniform, Preferred, Other Title information, Alternative, Supplied/Devised | Title proper | Title proper |
-| Part | Monographic, Analytic, Serial, Collection | | |
-| Content | Categories: fiction/non fiction; genre, synopsis, subject, etc. | | |
-| Dates/Events | Creation, Production, Censorship, Copyright | Release, manufacture, transmission, distribution, etc. | Object creation, acquisition, accession, de-accession, loan, transport, etc. |
-| Agents | Cast, credits, rights holders, creator, etc. | Distributor, broadcaster, publisher | Donor, Archive/archivist, technician, restorer, etc. |
-| Rights context | Copyright holder and date | Platforms, territories, dates. Agents (distributors, license holder) | Transfer of ownership |
-| Event types | Awards Censorship Production IPR registration | Pre-release, theatrical, non-theatrical, transmission, home viewing, internet, not for release, censorship etc. | Acquisition Reproductions Disposal |
-| Format general | | 35mm film, digital cinema, blu ray, etc. | |
-| Format specific | | | 16mm film pos, 35mm lavender separation, ProRes422 HQ, etc. |
-| Condition report | | | Pristine, not for projection, heavy scratches, etc. |
-| Storage location | | | Home location, current location, previous location || 
-| Conservation recommendations | | | Urgent transfer required, relocate sub-zero, etc. |
+\renewcommand{\arraystretch}{1.5}
+\begin{tabularx}{\textwidth}{|X|X|X|X|}
+\hline
+\textbf{Properties} & \textbf{(Work)} & \textbf{(Manifestation)} & \textbf{(Item)} \\
+\hline
+Titles & Uniform, Preferred, Other Title information, Alternative, Supplied/Devised & Title proper & Title proper \\
+\hline
+Part & Monographic, Analytic, Serial, Collection & & \\
+\hline
+Content & Categories: fiction/non fiction; genre, synopsis, subject, etc. & & \\
+\hline
+Dates/Events & Creation, Production, Censorship, Copyright & Release, manufacture, transmission, distribution, etc. & Object creation, acquisition, accession, de-accession, loan, transport, etc. \\
+\hline
+Agents & Cast, credits, rights holders, creator, etc. & Distributor, broadcaster, publisher & Donor, Archive/archivist, technician, restorer, etc. \\
+\hline
+Rights context & Copyright holder and date & Platforms, territories, dates. Agents (distributors, license holder) & Transfer of ownership \\
+\hline
+Event types & Awards Censorship Production IPR registration & Pre-release, theatrical, non-theatrical, transmission, home viewing, internet, not for release, censorship etc. & Acquisition Reproductions Disposal \\
+\hline
+Format general & & 35mm film, digital cinema, blu ray, etc. & \\
+\hline
+Format specific & & & 16mm film pos, 35mm lavender separation, ProRes422 HQ, etc. \\
+\hline
+Condition report & & & Pristine, not for projection, heavy scratches, etc. \\
+\hline
+Storage location & & & Home location, current location, previous location  \\
+\hline
+Conservation recommendations & & & Urgent transfer required, relocate sub-zero, etc. \\
+\hline
+\end{tabularx}
 
 \subsection[Sources of Information]{Sources of Information
     \label{sec:prelim_sources_of_information}
