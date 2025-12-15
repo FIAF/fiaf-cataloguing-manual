@@ -10,7 +10,7 @@
     \label{sec:moving_image_variants_definition}
     } 
 
-Brief definitions of the standard CEN terms Work/Variant/Manifestation/Item used in the Manual were provided at the end of the Introduction (see \nameref{sec:introduction}).
+Brief definitions of the standard CEN terms Work/Variant/Manifestation/Item used in the Manual were provided at the end of the Introduction (see \nameref{sec:manual-introduction}).
 This section provides an in-depth definition of the term Variant.
 
 \subsubsection[Moving Image Variant]{Moving Image Variant 
