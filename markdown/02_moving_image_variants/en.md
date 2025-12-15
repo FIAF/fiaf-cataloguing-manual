@@ -431,8 +431,8 @@ Examples^[FIAF 7.2.16. Contents]:
 
 ```{=latex}
 \begin{tcolorbox}
-Title: Pathe News \[Excerpts No. 6\] \\
-Contents: “Newest U.S. Submarine Goes into Commission,” Pathe News No. 60 \[1921\] (160 ft.) -- “Span of New Memorial Bridge to Connect N.H. and Maine,” Pathe News No. 57 \[1923\] (72 ft.) -- “Celebrate 300th Anniversary of Settling of Portsmouth,”Pathe News No. 69 \[1923\] (99 ft.) -- “World’s Largest Sub Takes First Plunge,” Pathe News No. 93 \[1927\], (c) 21Nov27; MP4478 (134 ft.) -- “New Memorial Bridge between N.H. and Maine!” Pathe News No. 70 \[1923\] (105 ft.) -- “Launch Largest Submarine Cruiser,” Pathe Sound News No. 1 \[1930\], (c) 29Dec29; MP1025 (80 ft.).
+Title: Pathe News [Excerpts No. 6] \\
+Contents: “Newest U.S. Submarine Goes into Commission,” Pathe News No. 60 [1921] (160 ft.) -- “Span of New Memorial Bridge to Connect N.H. and Maine,” Pathe News No. 57 [1923] (72 ft.) -- “Celebrate 300th Anniversary of Settling of Portsmouth,”Pathe News No. 69 [1923] (99 ft.) -- “World’s Largest Sub Takes First Plunge,” Pathe News No. 93 [1927], (c) 21Nov27; MP4478 (134 ft.) -- “New Memorial Bridge between N.H. and Maine!” Pathe News No. 70 [1923] (105 ft.) -- “Launch Largest Submarine Cruiser,” Pathe Sound News No. 1 [1930], (c) 29Dec29; MP1025 (80 ft.).
 \end{tcolorbox}
 ```
 
@@ -446,7 +446,7 @@ The Tramp and the Baby’s Bottle (1899) (214ft), \\
 Women’s Rights (1899) (289ft), \\
 A Kiss in the Tunnel (1899) (367ft), \\
 Boy’s Cricket Match and Fight (1900) (475ft), \\
-\[… real example shortened\] \\
+[… real example shortened] \\
 End
 \end{tcolorbox}
 ```
