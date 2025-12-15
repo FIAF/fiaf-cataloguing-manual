@@ -298,12 +298,13 @@ If citing websites take a note of the full title and author where relevant, not 
 
 In instances where Primary source data relating to on-screen titles and credits, or embedded metadata is verfied as erroneous and incorrect through other Primary or authoritative Secondary sources then details of this should be added to a Work History or Notes field on the Work. For example:
 
-PUT THIS INTO EXAMPLE FORMAT:
-
+```{=latex}
+\begin{tcolorbox}
 Il vangelo secondo Matteo (Italy, 1964)
 
 Work History note: The credits in the opening titles on actual prints of the film give 'Alessandro Clerici' as playing the role of Pontius Pilate. However, he was in fact played by Alessandro Tasca (aka Alessandro Tasca di Cutò). Verified by his daughter Ama Tasca di Cutò in correspondence with the BFI (February 2020)  and further researched by the BFI in conjunction with Cineteca Bologna. Alessandro Tasca also discusses his taking on the role of Pilate in Pasolini's film, and his fee for the day's work, in correspondence with Orson Welles (housed at the University of Michigan). Distribution information from c.1964/65 from UniItalia in Rome and from other English distribution companies of the film in the 1960s also cite 'Alessandro Tasca' as the credit for Pontius Pilate.
-
+\end{tcolorbox}
+```
 
 
 
