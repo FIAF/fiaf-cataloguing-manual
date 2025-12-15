@@ -292,7 +292,7 @@ As far as possible use authoritative secondary sources, e.g. official websites f
 
 The number of websites stating the same “fact” is not a safe indicator. Websites copy off each other and it is easy for an erroneous fact to be perpetuated across multiple websites^[See the name note on the [BFI record for Richard Greene](https://collections-search.bfi.org.uk/web/Details/People/177651)]. The cataloguer needs to assess, balance, and judge accuracy, e.g. IMDB and Wikipedia can be good for information, but they also allow submissions and changes from the public so it is not necessarily always accurate.
 
-When taking details and information from secondary source materials then cite those sources, either in relevant notes fields on a record as a cataloguer's note [insert internal link to Appendix B Cataloguer's Notes], or linking to a related non-moving image collection record within your institution's database systems if relevant, e.g. a related associative link to a book record or periodical article record. 
+When taking details and information from secondary source materials then cite those sources, either in relevant notes fields on a record as a cataloguer's note (see \nameref{sec:cataloguers_notes}), or linking to a related non-moving image collection record within your institution's database systems if relevant, e.g. a related associative link to a book record or periodical article record. 
 
 If citing websites take a note of the full title and author where relevant, not just the URL link. The latter can change or the website become defunct over time, so fuller precise details are advisable.
 
