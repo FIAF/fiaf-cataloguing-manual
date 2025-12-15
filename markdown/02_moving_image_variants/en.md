@@ -409,7 +409,7 @@ The content description should be written in a style that is easy to read.
 It should not include technical terms, abbreviations, or allusions significant to a specialist audience.
 Avoid slang expressions and colloquialisms fashionable at the time of writing,and, where several cataloguers are viewing independently, they should, ideally, try to achieve a common written style.
 Descriptions should be objective and not include subjective commentary on the quality of the content.
-If acceptable summaries are already available in secondary sources, cataloguers may use these, instead of taking the time to prepare summaries of their own.[^60] If using summaries exactly as written, put the summary in quotes and note the source of the summary.
+If acceptable summaries are already available in secondary sources, cataloguers may use these, instead of taking the time to prepare summaries of their own. If using summaries exactly as written, put the summary in quotes and note the source of the summary.
 
 Examples^[FIAF 7.2.12. Summary]:
 
