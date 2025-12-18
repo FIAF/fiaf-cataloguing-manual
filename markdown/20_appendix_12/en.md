@@ -1,8 +1,7 @@
 
 \newpage
-\section[List of Elements]{List of Elements 
-    \label{sec:list_of_elements}
-    } 
+\section{List of Elements} 
+\label{sec:list_of_elements}
 
 \tiny
 
@@ -69,5 +68,3 @@
 | | | | | 3.1.5.21 | Source Device |
 | | | | | 3.1.5.22 | Source Software |
 | | | | | 3.1.5.23 | Transfer Speed |
-
-

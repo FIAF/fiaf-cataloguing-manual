@@ -1,8 +1,7 @@
 
 \newpage
-\section[Bibliography]{Bibliography 
-    \label{sec:bibliography}
-    } 
+\section{Bibliography} 
+\label{sec:bibliography}
 
 A/V Artifact Atlas [online]. Last modified on 26 October 2015 [viewed 2016-04-04]. Available from: http://avaa.bavc.org/artifactatlas/index.php/A/V_Artifact_Atlas
 
@@ -163,6 +162,3 @@ YEE, Martha M. Moving image cataloging: how to create and how to use a moving im
 YEE, Martha M. The concept of work for moving image materials. In: Cataloging & Classification Quarterly. ISSN 0163-9374, 1993, vol. 18, no. 2, pp. 33-40. Also available from: http://escholarship.org/uc/item/6hk8h9vp
 
 ZENG, Marcia Lei, ZˇUMER, Maja, and SALABA, Athena. Functional Requirements for Subject Authority Data (FRSAD): A Conceptual Model. Berlin: De Gruyter Saur, 2011.
-
-
-
