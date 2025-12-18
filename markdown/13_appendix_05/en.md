@@ -1,12 +1,10 @@
 
 \newpage
-\section[Aggregates (Compilations, Multi-component productions)]{Aggregates (Compilations, Multi-component productions) 
-    \label{sec:aggregates_compilations_multi_component_productions}
-    } 
+\section{Aggregates (Compilations, Multi-component productions)} 
+\label{sec:aggregates_compilations_multi_component_productions} 
 
-\subsection[Definition]{Definition 
-    \label{sec:definition}
-    } 
+\subsection{Definition}  
+\label{sec:definition}
 
 A moving image aggregate is a Manifestation embodying two or more distinct Works/Variants.^[Adapted from Working Group on Aggregates definition for a moving image context . Final Report of the Working Group on Aggregates, September 12, 2011, http://www.ifla.org/files/assets/cataloguing/frbrrg/AggregatesFinalReport.pdf]
 
@@ -14,13 +12,11 @@ It is not necessary to create an actual Manifestation Type of “Aggregate Manif
 
 Defining an aggregate is an intellectual process followed in order to identify and select the particular structure best suited for dealing with the nature and content of such entities in cataloguing.
 
-\subsection[Identifying Aggregates]{Identifying Aggregates 
-    \label{sec:identifying_aggregates}
-    } 
+\subsection{Identifying Aggregates} 
+\label{sec:identifying_aggregates} 
 
-\subsubsection[Aggregate or Carrier]{Aggregate or Carrier 
-    \label{sec:aggregate_or_carrier}
-    } 
+\subsubsection{Aggregate or Carrier} 
+\label{sec:aggregate_or_carrier} 
 
 It is important to distinguish between actual intended compilation or multi-component moving images, e.g. Victorian cinema no. 8 (containing various short films from the 1890s edited together onto a new reel for a particular theatrical showing or publication), and an unintentional compilation, reflecting simple use of a single carrier, i.e. two short Charlie Chaplin films that happen to be acquired on one reel or transferred onto one tape for storage convenience.
 
@@ -31,9 +27,8 @@ The two Chaplin films would each have their own Work, Manifestation, and Item re
 Any aggregate will have an element of intention, whether simple or complex.
 Assessments will need to be made, where possible, as to whether the intention was for creative/intellectual or convenient purposes, and then represented accordingly.
 
-\subsubsection[“Hybrid” Aggregates and multi-component moving images (e.g. Anthology/Portmanteau films or TV programmes)]{“Hybrid” Aggregates and multi-component moving images (e.g. Anthology/Portmanteau films or TV programmes) 
-    \label{sec:hybrid_aggregates_and_multi_component_moving_images}
-    } 
+\subsubsection{“Hybrid” Aggregates and multi-component moving images (e.g. Anthology/Portmanteau films or TV programmes)}
+\label{sec:hybrid_aggregates_and_multi_component_moving_images}
 
 Multi-component Works are ones conceived and created from their inception to consist of multiple individual components that make up a whole, for example anthologies, portmanteau films and television programmes (e.g., Dead of night, Quartet, From beyond the grave).
 
@@ -129,16 +124,14 @@ Toby Dammit, (episode by F. Fellini part of Tre passi nel delirio / Histoires ex
 
 Where such individual releases of components have occurred, and a physical Item for a component is acquired, assessment would then be needed to establish whether it was a partial acquisition Item of the whole original Manifestation or an acquisition of the Item of the later individual component Manifestation.
 
-\subsubsection[Excerpt titles]{Excerpt titles 
-    \label{sec:excerpt_titles}
-    } 
-
+\subsubsection{Excerpt titles} 
+\label{sec:excerpt_titles}
+  
 Similarly, films that heavily utilise footage or excerpts from other films are not aggregates, e.g., Dead men don’t wear plaid, or Zelig, although these may have an associative relationship with the original Works/Variants from which the footage was taken should an institution wish.
 They are using partial footage combined with new and different footage shot for a new and different film entirely, rather than editing together whole individual Works into an aggregate.
 
-\subsubsection[Other compilations]{Other compilations 
-    \label{sec:other_compilations}
-    } 
+\subsubsection{Other compilations}
+\label{sec:other_compilations}
 
 The nature of some compilations means that creating Works for each component is neither relevant nor practical, i.e. compilation reels of unidentified or untitled content (not usual in the bibliographic world but common in moving image archives).
 
@@ -147,13 +140,11 @@ Where there is doubt then create a single Aggregate Manifestation and Aggregatin
 
 Later research and cataloguing may then establish whether this aggregate record is retained and added to, or deleted after being used as a temporary working tool for initial record creation of acquisitions.
 
-\subsection[Types of moving image Aggregates]{Types of moving image Aggregates 
-    \label{sec:types_of_moving_image_aggregates}
-    } 
+\subsection{Types of moving image Aggregates} 
+\label{sec:types_of_moving_image_aggregates} 
 
-\subsubsection[Collection Aggregates]{Collection Aggregates 
-    \label{sec:collection_aggregates}
-    } 
+\subsubsection{Collection Aggregates} 
+\label{sec:collection_aggregates}
 
 Sets of multiple independently created Works/Variants, which are “published”^[Published within the context of moving image means released or broadcast, and may also include in-house aggregate creation] together in a single manifestation.
 
@@ -171,9 +162,8 @@ Sets of multiple independently created Works/Variants, which are “published”
 
     I film dal vero di produzione estera. 1895-1907 (Collection of 32 titles Lumière, Edison and Mutoscope) English; Italian ; Accompanying the book: Aldo Bernardini, I film dal vero di produzione estera 1895-1907- La Cineteca del Friuli (publisher), 2008, ISBN 978-88-86155-24-3
 
-\subsubsection[Augmentation Aggregates]{Augmentation Aggregates 
-    \label{sec:augmentation_aggregates}
-    } 
+\subsubsection{Augmentation Aggregates}  
+\label{sec:augmentation_aggregates}
 
 A Collection Aggregate with further additional material, i.e. interviews, out-takes, additional scenes, documentary about the making of the film, etc. on the same Manifestation.
 The vast majority of commercial DVD editions now contain “extras” and so are Augmentation Aggregates.
@@ -186,9 +176,8 @@ The vast majority of commercial DVD editions now contain “extras” and so are
 
   The Augmentation aspects of the aggregate include an introduction by Lauren Bacall; nearly 10 minutes of newly found deleted scenes and outtakes; “Screen Guild Players Radio Production” with the three stars, plus rare scoring session outtakes; production history gallery (includes photos, press materials, studio correspondence, memorabilia, musical outtakes); and, two separate feature-length audio commentaries by Roger Ebert and Rudy Behlmer.
 
-\subsubsection[Parallel Aggregates]{Parallel Aggregates 
-    \label{sec:parallel_aggregates}
-    } 
+\subsubsection{Parallel Aggregates}  
+\label{sec:parallel_aggregates}
 
 Identical moving image Works/Variants but in different languages released on one Manifestation.
 
@@ -202,9 +191,8 @@ For Aggregate Manifestations record the length/duration of the whole, i.e. the t
 In addition there is the option to qualify this with details of the duration of each individual unit in either a Notes field, or in multiple occurrences of the duration fields, depending on what systems used permit or an institution decides.
 (See \nameref{sec:physical_extent_of_an_aggregate_manifestation} and \nameref{sec:duration_of_an_aggregate_manifestation})
 
-\subsubsection[Titling of Aggregates]{Titling of Aggregates 
-    \label{sec:titling_of_aggregates}
-    } 
+\subsubsection{Titling of Aggregates}  
+\label{sec:titling_of_aggregates}
 
 The title of the aggregating Work should reflect that of the Manifestation.
 The component titles may additionally be added to the aggregating Work as alternative title types (see \nameref{sec:alternative}).
@@ -218,9 +206,8 @@ The title of the aggregate Manifestation forms the basis, but that title may be 
 Aggregates may be formed by an archive or institution itself for in-house or other event purposes.
 In these instances the title type should indicate it is a devised/supplied title in both the aggregate Manifestation and aggregating Work, as well as the Item.
 
-\subsection[Modelling Aggregates]{Modelling Aggregates 
-    \label{sec:modelling_aggregates}
-    } 
+\subsection{Modelling Aggregates}  
+\label{sec:modelling_aggregates}
 
 An aggregate is a Manifestation, but “the process of aggregating the Works/Variants itself is an intellectual or artistic effort and therefore meets the criteria for a Work.
 In the process of creating an aggregate Manifestation, an aggregating Work is produced.
@@ -251,9 +238,8 @@ This will assist in accessibility and identification.
 For how aggregate records may be structured in a 1-level hierarchy system see \nameref{sec:example_seven}.
 Whilst this relates to a television example the same principles can be applied in the case of film collection and augmented collection aggregates.
 
-\subsubsection[Collection Aggregates Modelling]{Collection Aggregates Modelling 
-    \label{sec:collection_aggregates_modelling}
-    } 
+\subsubsection{Collection Aggregates Modelling}  
+\label{sec:collection_aggregates_modelling}
 
 Many collection aggregates have their own new title, e.g., The Audrey Hepburn collection (consisting of Breakfast at Tiffany’s, Funny face and Sabrina); Heroes of the sky (consisting of Angels one five, The Dambusters, Aces high); Portrait of a miner (consisting of various Mining review shorts).
 These should be the titles of the aggregate Manifestation, and also any new aggregating Work record.
@@ -266,16 +252,15 @@ The treatment of the aggregate title may differ from institution to institution,
 There is the option of an institution using a devised/supplied title (see \nameref{sec:supplied_devised_titles}).
 
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Example]
+\begin{tcolorbox}
 Bond of fear ; Blackout \\
 Odeon Entertainment double feature: Bond of fear and Blackout [DVD double feature] \\
 Bond of fear and Blackout (double feature)
 \end{tcolorbox}
 ```
 
-\paragraph[Model: Collection Aggregate Manifestation within a one-to-many Works/Variants-Manifestations database system]{Model: Collection Aggregate Manifestation within a one-to-many Works/Variants-Manifestations database system 
-    \label{sec:collection_aggregate_manifestation_within_a_one_to_many}
-    } \
+\paragraph{Model: Collection Aggregate Manifestation within a one-to-many Works/Variants-Manifestations database system} 
+\label{sec:collection_aggregate_manifestation_within_a_one_to_many} \
     
 This model involves creation of a new aggregating Work record.
 Works link together in associative relationship “contains/contained in” and aggregate Manifestation links to aggregating Work in “part of” relationship.
@@ -304,9 +289,8 @@ arrow <-> from B4.s to B5.n
 arrow <-> right 0.2 from B3.e then up until even with B6 then right to B6.w
 ```
 
-\paragraph[Model: Collection Aggregate Manifestation within a many-to-many Works/Variants-Manifestation database system]{Model: Collection Aggregate Manifestation within a many-to-many Works/Variants-Manifestation database system 
-    \label{sec:collection_aggregate_manifestation_within_a_many_to_many}
-    } \
+\paragraph{Model: Collection Aggregate Manifestation within a many-to-many Works/Variants-Manifestation database system} 
+\label{sec:collection_aggregate_manifestation_within_a_many_to_many} \
     
 A single Aggregate Manifestation links to the many individual Works/Variants in “part of” relationship.
 
@@ -330,9 +314,8 @@ arrow <-> down 0.2 from B3.s then left until even with B4 then down to B4.n
 arrow <-> from B4.s to B5.n
 ```
 
-\paragraph[Model: Collection Aggregate Manifestation with no aggregated Item, only unaggregated individual Items]{Model: Collection Aggregate Manifestation with no aggregated Item, only unaggregated individual Items
-    \label{sec:collection_aggregate_manifestation_with_no_aggregated_item}
-    } \
+\paragraph{Model: Collection Aggregate Manifestation with no aggregated Item, only unaggregated individual Items}
+\label{sec:collection_aggregate_manifestation_with_no_aggregated_item} \
 
 This model involves creation of a new aggregating Work record.
 
@@ -376,17 +359,15 @@ arrow right 0.2 from B5.e then right until even with B8 then right to B8.n
 In the above scenario each of the Items could be given the same location/package number and each could have the alternative title of “Victorian Cinema 3”.
 Similarly, the individual titles could also be added as alternative titles to the aggregating Work if an institution wishes, to aid searchability and access.
 
-\subsubsection[Augmented Collection Aggregate]{Augmented Collection Aggregate 
-    \label{sec:augmented_collection_aggregate}
-    } 
+\subsubsection{Augmented Collection Aggregate} 
+\label{sec:augmented_collection_aggregate} 
 
 Augmented Collections can vary considerably from simple augmentations, e.g., the Work(s) plus a selection of special features such as bonus scenes and a photo gallery with some commentary; or, more complex augmentations.
 
 Modelling for Augmented Collection Aggregates follows the same principles as those for Collection Aggregates.
 
-\paragraph[Model: Augmented Aggregate Manifestation within a one-to-many Work/Variants-Manifestations database system]{Model: Augmented Aggregate Manifestation within a one-to-many Work/Variants-Manifestations database system 
-    \label{sec:augmented_aggregate_manifestation_within_a_one_to_many}
-    } \
+\paragraph{Model: Augmented Aggregate Manifestation within a one-to-many Work/Variants-Manifestations database system} 
+\label{sec:augmented_aggregate_manifestation_within_a_one_to_many} \
 
 This involves creation of a new aggregating Work record.
 Works link together in associative relationship “contains/contained in” and aggregate Manifestation links to aggregating Work in “part of” relationship.
@@ -423,9 +404,8 @@ arrow down 0.2 from C2.s then right until even with C7 then down to C7.n
 arrow from C2.s to C8.n
 ```
 
-\paragraph[Model: Augmented Aggregate Manifestation within a many-to-many Work/Variants-Manifestations database system]{Model: Augmented Aggregate Manifestation within a many-to-many Work/Variants-Manifestations database system 
-    \label{sec:augmented_aggregate_manifestation_within_a_many_to_many}
-    } \
+\paragraph{Model: Augmented Aggregate Manifestation within a many-to-many Work/Variants-Manifestations database system} 
+\label{sec:augmented_aggregate_manifestation_within_a_many_to_many} \
 
 Single Aggregate Manifestation links to all individual Works/Variants in “part of” relationship.
 
@@ -465,7 +445,7 @@ Similarly synopsis or notes fields can then be utilised to give full description
 More importantly, it is not always practical or feasible for many cataloguing systems to deal with creating records for non-moving image materials such as booklets, or text.
 
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Example]
+\begin{tcolorbox}
 Charlie Chaplin. The Mutual films. Volume 1. \\
 Contains: 6 short Chaplin Mutual films – Behind the screen, The immigrant, Easy Street, The rink, The cure, The adventurer. Plus DVD extras: Topical Budget newsreel footage of Chaplin on voyage and visit back to Britain; filmed interview with Carl Davis [who did music soundtrack for the aggregate]; on-screen text biographies of Edna Purviance and Eric Campbell. Plus sleeve notes by Frank Scheide.
 \end{tcolorbox}
@@ -473,26 +453,23 @@ Contains: 6 short Chaplin Mutual films – Behind the screen, The immigrant, Eas
 
 An aggregating Work record for the above enables adding of credits, for example, the music composer for the soundtrack on the aggregate, the interviewees, etc.; associative “contains/contained in” relationship links to any individual films or newsreel works; and then any other remaining details of the Work that cannot be linked in associative relationships may be added as free text in synopsis or notes fields.
 
-\subsection[Credits (i.e. Agents) for Aggregates]{Credits (i.e. Agents) for Aggregates 
-    \label{sec:credits_agents_for_aggregates}
-    } 
+\subsection{Credits (i.e. Agents) for Aggregates}
+\label{sec:credits_agents_for_aggregates}
 
 An institution may choose only to add the credits relating to the aggregating Work itself, especially where associative “contains/contained in” relationship links exist, and credits can be found on those associated individual records.
 Alternatively, it may choose to add the credits for all the component Works and the aggregating Work to the aggregating Work record.
 
-\subsection[Series, Serials and Newsreels]{Series, Serials and Newsreels 
-    \label{sec:series_serials_and_newsreels}
-    } 
-
+\subsection{Series, Serials and Newsreels} 
+\label{sec:series_serials_and_newsreels}
+  
 All the above examples and modelling of aggregates have purposefully not included newsreels or film or TV series/serials.
 This is because these do not actually constitute aggregates under the Aggregates definition.
 
 FRBR includes the terms “serials” and “series” within examples of Collection Aggregates.
 However, these are in relation to bibliographic materials, and moving image series/serials are not the equivalent of articles written for a periodical, but different in nature.
 
-\subsubsection[Film/Video or TV series/serials]{Film/Video or TV series/serials 
-    \label{sec:film_video_or_tv_series_serials}
-    } 
+\subsubsection{Film/Video or TV series/serials} 
+\label{sec:film_video_or_tv_series_serials}
 
 On the surface these would seem to be aggregates as it could be argued they are made up of different components (episodes) brought together to make a “whole” (series/serial).
 However, it is not logical under the definitions of aggregates to structure and view TV or film/video serial/series as aggregating Works.
@@ -605,9 +582,8 @@ For how this might be modelled in a flat or single hierarchy system see \nameref
 
 It is also possible for particular individual episodes from different moving image series/serials to be taken and formed together into a Collection or Augmentation Aggregate, in which case they would then follow the same pattern of structure as any other such aggregate, i.e. with an aggregate Manifestation and aggregating Work record, and associative relationship links to any existing individual Work/Variant episode records.
 
-\subsubsection[Newsreels and TV news/current affairs programmes]{Newsreels and TV news/current affairs programmes 
-    \label{sec:newsreels_and_tv_news_current_affairs_programmes}
-    } 
+\subsubsection{Newsreels and TV news/current affairs programmes}
+\label{sec:newsreels_and_tv_news_current_affairs_programmes}
 
 These also do not constitute aggregates.
 
@@ -626,6 +602,3 @@ The component parts do not.
 It is possible that only individual components of newsreels/news programmes may be acquired by an institution.
 In such cases it is simply a matter of a partial/incomplete acquisition, in the same way that only 2 reels of a 3 reel feature film might be acquired.
 The acquisition Item record would be linked as “part of” the whole Manifestation (see \nameref{sec:analytics_components_of_identified_newsreels_cinemagazines}).
-
-
-

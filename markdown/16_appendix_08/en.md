@@ -1,70 +1,120 @@
 
 \newpage
-\section[Elements of Description comparison]{Elements of Description comparison 
-    \label{sec:elements_of_description_comparison}
-    } 
+\section{Elements of Description comparison} 
+\label{sec:elements_of_description_comparison}
 
 1991 FIAF Cataloguing Rules (ISBD based), EN 15907 and FIAF Moving Image Cataloguing
 Manual
 
 **Moving Image Work / Variant**
 
-| FIAF Moving Image Cataloguing Manual | EN 15907 | 1991 FIAF Cataloguing Rules (ISBD based) |
-| --- | --- | --- |
-| Attributes of the entity | Attributes | |
-| Description Type - Analytic - Monographic | DescriptionLevel - Analytic - Monographic | |
-| - Serial - Collection | - Serial - Collection | |
-| - Variant type Censored Dubbed Subtitled Abridged/Condensed Augmented | VariantType | Version/variation area |
-| Elements (including main attributes) | Elements | |
-| Identifier | Identifier (number) | |
-| - Title Title type Identifying Preferred Other title information Alternative Supplied/Devised | Identifying title (human readable) | Title area |
-| Country of reference | Country of reference | Production/distribution area |
-| Year/Date | Year of reference | Production/distribution area |
-| Language(s) | Language | Production/distribution area |
-| Content description | Content description | Notes area |
-| Notes | | Notes area |
-| History | | Notes area |
-| Relationships (including main attributes) | Allowed relationships | |
-| Agents Agent type (e.g. cast/credits) | HasAgent | Production/distribution area |
-| Events Notes area Event type Publication Award(s) or Nomination(s) Production Rights/Copyright/IPR Registration Preservation (Variant) Decision (Variant) | HasEvent | Production/distribution area Notes area |
-| Subject terms | HasSubject | Notes area | 
-| Other relationships | HasOtherRelation | Notes area | 
-| Manifestations | HasManifestation | Production/distribution area Physical description area | 
+\renewcommand{\arraystretch}{1.5}
+\begin{tabularx}{\textwidth}{|X|X|X|}
+\hline
+\textbf{FIAF Moving Image Cataloguing Manual} & \textbf{EN 15907} & \textbf{1991 FIAF Cataloguing Rules (ISBD based)} \\
+\hline
+Attributes of the entity & Attributes &  \\
+\hline
+Description Type - Analytic - Monographic - Serial - Collection & descriptionLevel - Analytic - Monographic - Serial - Collection & Series Area  \\
+\hline
+Variant type - Censored - Dubbed - Subtitled - Abridged/Condensed - Augmented & variantType & Version/variation area \\
+\hline
+Elements (including main attributes) & Elements &  \\
+\hline
+Identifier & Identifier (number) &  \\
+\hline
+Title  <ins>Title type</ins>  - Identifying - Preferred - Other title information - Alternative - Supplied/Devised & Identifying title (human readable) & Title area  \\
+\hline
+Country of reference & Country of reference & Production/distribution area  \\
+\hline
+Year/Date & Year of reference & Production/distribution area  \\
+\hline
+Language(s) & Language & Production/distribution area  \\
+\hline
+Content description & Content description & Notes area  \\
+\hline
+Notes & & Notes area  \\
+\hline
+History & & Notes area  \\
+\hline
+Relationships (including main attributes) & Allowed relationships &  \\
+\hline
+Agents  <ins>Agent type</ins> (e.g. cast/credits) & HasAgent & Production/distribution area  \\
+\hline
+Events  <ins>Event type</ins>  - Publication   - Award(s) or Nomination(s)  - Production Rights/Copyright/IPR Registration Preservation (Variant)  - Decision (Variant) & HasEvent & Production/distribution area  Notes area  \\
+\hline
+Subject terms & HasSubject & Notes area  \\
+\hline
+Other relationships & HasOtherRelation & Notes area  \\
+\hline
+Manifestations & HasManifestation & Production/distribution area  Physical description area  \\
+\hline
+\end{tabularx}
 
 **Moving Image Manifestation**
 
-| FIAF Moving Image Cataloguing Manual | EN 15907 | 1991 FIAF Cataloguing Rules (ISBD based) |
-| --- | --- | --- |
-| Attributes of the entity | Attributes | |
-| - Manifestation Type Pre-release Theatrical distribution Non-theatrical distribution Not for release Unreleased Home viewing publication Broadcast Internet Preservation/Restoration Unknown | ManifestationType | Production/distribution area |
-| Elements (including main attributes) | Elements | |
-| Identifier | Identifier | |
-| Title Title type Proper Other title information Alternative Supplied/Devised | Title | Title area |
-| Language | Language | Physical description area |
-| Format | Format | Physical description area |
-| Extent | Extent | Physical description area |
-| Relationships (including main attributes) | Allowed relationships | |
-| - Agents Agent type Distributor (theatrical) Distributor (non-theatrical) Broadcaster Publisher Manufacturer Agent responsible for preservation Agent responsible for reproduction or transfer Agent responsible for archival availability Agent responsible for the mere availability Agent unclear or undetermined Agent not identified | HasAgent | Production/distribution area Notes area |
-| Events Event type Publication Award(s) or Nomination(s) Licensing Preservation Decision Manufacture | HasEvent | Production/distribution area Physical Description area Notes area |
-| Other relationships | HasOtherRelation | Notes area |
-| Item | HasItem | Physical Description area |
+\renewcommand{\arraystretch}{1.5}
+\begin{tabularx}{\textwidth}{|X|X|X|}
+\hline
+\textbf{FIAF Moving Image Cataloguing Manual} & \textbf{EN 15907} & \textbf{1991 FIAF Cataloguing Rules (ISBD based)} \\
+\hline
+Attributes of the entity & Attributes &  \\
+\hline
+Manifestation Type  - Pre-release  - Theatrical distribution  - Non-theatrical distribution  - Not for release  - Unreleased  - Home viewing publication  - Broadcast  - Internet  - Preservation  - Restoration  - Unknown & manifestationType & Production/distribution area  \\
+\hline
+Elements (including main attributes) & Elements &  \\
+\hline
+Identifier & Identifier &  \\
+\hline
+Title  <ins>Title type</ins>  - Proper  - Other title information  - Alternative  - Supplied/Devised & Title & Title area  \\
+\hline
+Language & Language & Physical description area  \\
+\hline
+Format & Format & Physical description area  \\
+\hline
+Extent & Extent & Physical description area  \\
+\hline
+Relationships (including main attributes) & Allowed relationships &  \\
+\hline
+Agents  <ins>Agent type</ins>  - Distributor (theatrical)  - Distributor (non-theatrical)  - Broadcaster  - Publisher  - Manufacturer  - Agent responsible for preservation  - Agent responsible for reproduction or transfer  - Agent responsible for archival availability  - Agent responsible for the mere availability  - Agent unclear or undetermined  - Agent not identified & HasAgent & Production/distribution area Notes area  \\
+\hline
+Events  <ins>Event type</ins>  - Publication  - Award(s) or Nomination(s)  - Licensing  - Preservation  - Decision  - Manufacture & HasEvent & Production/distribution area  Physical Description area  Notes area  \\
+\hline
+Other relationships & HasOtherRelation & Notes area  \\
+\hline
+Item & HasItem & Physical Description area  \\
+\hline
+\end{tabularx}
 
 **Moving Image Item**
 
-| FIAF Moving Image Cataloguing Manual | EN 15907 | 1991 FIAF Cataloguing Rules (ISBD based) |
-| --- | --- | --- |
-| Elements (including main attributes) | Elements | |
-| Identifier | ManifestationType | Production/distribution area |
-| Title Title type Proper Other title information Alternative Supplied/Devised | Title | Title area |
-| Holding institution | | Notes area |
-| Item Material type | MaterialType | Physical description area |
-| Item-specifics | ItemSpecifics | Physical description area Notes area|
-| Access conditions | | Physical description area |
-| Notes for moving image | | Notes area |
-| Relationships (including main attributes) | Allowed relationships | |
-| Agent(s) (e.g., preservation technician, donor, etc.) | HasAgent | Notes area |
-| Events Event type Licensing Preservation Inspection Acquisition | HasEvent | Notes area |
-| Other Relationships | HasOtherRelation | Notes area |
-
-
-
+\renewcommand{\arraystretch}{1.5}
+\begin{tabularx}{\textwidth}{|X|X|X|}
+\hline
+\textbf{FIAF Moving Image Cataloguing Manual} & \textbf{EN 15907} & \textbf{1991 FIAF Cataloguing Rules (ISBD based)} \\
+\hline
+Elements (including main attributes) & Elements &  \\
+\hline
+Identifier & & Production/distribution area  \\
+\hline
+Title  <ins>Title type</ins>  - Proper  - Other title information  - Alternative  - Supplied/Devised & Title & Title area  \\
+\hline
+Holding institution & Holding institution & Notes area  \\
+\hline
+Item Material type & Instantiation type & Physical description area  \\
+\hline
+Item-specifics & Item specifics & Physical description area   Notes area \\
+\hline
+Access conditions & Access conditions & Physical description area  \\
+\hline
+Notes for moving image & & Notes area  \\
+\hline
+Relationships (including main attributes) & Allowed relationships &  \\
+\hline
+Agent(s) (e.g., preservation technician, donor, etc.) & HasAgent & Notes area  \\
+\hline
+Events  <ins>Event type</ins>  - Licensing  - Preservation  - Inspection  - Acquisition & HasEvent & Notes area  \\
+\hline
+Other Relationships & HasOtherRelation & Notes area  \\
+\hline
+\end{tabularx}

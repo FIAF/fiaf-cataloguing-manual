@@ -1,22 +1,18 @@
 
 \newpage
-\section[Moving Image Works]{Moving Image Works 
-    \label{sec:moving_image_works}
-    } 
+\section{Moving Image Works} 
+\label{sec:moving_image_works}
 
-\newpage
 \subsection[Definitions]{Definitions 
-    \footnote {For a discussion of other definitions of the “Work” and Variant entities, see \nameref{sec:moving_image_works}.} 
-    \label{sec:moving_image_works_definition}
-    } 
+\footnote {For a discussion of other definitions of the “Work” and Variant entities, see \nameref{sec:moving_image_works}.}} 
+\label{sec:moving_image_works_definition}
 
 Brief definitions of the standard CEN terms Work/Variant/Manifestation/Item used in the Manual were provided at the end of the Introduction (see \nameref{sec:introduction}).
 This and the following sections provide in-depth definitions of the terms as used in these guidelines, beginning with the highest level in the description hierarchy: Moving Image Work.
 
-\subsubsection[Moving Image Work]{Moving Image Work
-    \label{sec:moving_image_work}
-    } 
-
+\subsubsection{Moving Image Work}
+\label{sec:moving_image_work}
+ 
 A moving image Work comprises both the intellectual or artistic content and the process of realisation in a cinematographic medium, e.g., what it is called, when it was made, who made it, who was in it, what it is about, etc.
 
 A Work as a conceptual entity is the topmost level of description.
@@ -36,9 +32,7 @@ Works may have one-to-many relationships with instances of Variant and Manifesta
 
 Works include:
 
-**Moving Image realisations based on new scripts or adapted from pre-existing textual works such as novels, plays, etc.**
-
-Examples:
+*Moving Image realisations based on new scripts or adapted from pre-existing textual works such as novels, plays, etc.*
 
 ```{=latex}
 \begin{tcolorbox}
@@ -68,9 +62,7 @@ Tosca (Italy, 1973, Luigi Magni)
 \end{tcolorbox}
 ```
 
-**Moving Image realisations of scheduled performances or events such as concerts, original theatre performances, sports events, etc.^[Adapted from the definition of a Cinematographic Work in EN 15907, 4.1.1, p.8.] These are distinguished from cinematically staged theatrical or musical events for the purpose of creating a unique moving image work such as the Tosca and Hamlet examples provided above.**
-
-Examples:
+*Moving Image realisations of scheduled performances or events such as concerts, original theatre performances, sports events, etc.^[Adapted from the definition of a Cinematographic Work in EN 15907, 4.1.1, p.8.] These are distinguished from cinematically staged theatrical or musical events for the purpose of creating a unique moving image work such as the Tosca and Hamlet examples provided above.*
 
 ```{=latex}
 \begin{tcolorbox}
@@ -91,9 +83,7 @@ Marathon (Spain, 1992, Carlos Saura)
 \end{tcolorbox}
 ```
 
-**Moving Images created by use of automatic devices such as surveillance cameras, scientific or medical instruments, etc.^[Ibid.]**
-
-Examples^[These are invented examples for illustrative purposes]:
+*Moving Images created by use of automatic devices such as surveillance cameras, scientific or medical instruments, etc.*^[Ibid.]^[These are invented examples for illustrative purposes].
 
 ```{=latex}
 \begin{tcolorbox}
@@ -107,29 +97,22 @@ University College Hospital. Endoscopy – Colonscope. Patient HX3456. 2010 (Uni
 \end{tcolorbox}
 ```
 
-
-
-
-\subsection[Attributes of a Moving Image Work]{Attributes of a Moving Image Work 
-    \label{sec:attributes_of_a_moving_image_work_variant}
-    } 
+\subsection{Attributes of a Moving Image Work} 
+\label{sec:attributes_of_a_moving_image_work_variant} 
 
 \subsubsection[Work Description Type]{Work Description Type 
-    \footnote {EN 15907, 4.1.2 Attributes—description Level, p. 8; BFI CID Stylistics Manual, A.1.3 Filmographic Level, pp. 7-8} 
-    \label{sec:work_variant_description_type}
-    } 
+\footnote {EN 15907, 4.1.2 Attributes—description Level, p. 8; BFI CID Stylistics Manual, A.1.3 Filmographic Level, pp. 7-8}} 
+\label{sec:work_variant_description_type}
 
 The description type establishes the general focus of the Work being catalogued, whether it is a complete Work in one part, a Work made up of several parts, or a physical group or collection of Works.
 Providing this information helps the cataloguer and user understand the context of the Work/Variant being described, and whether it has any relationships with other Works/Variants.
 For example, a television series could be catalogued as a Serial, which implies that there could be related Works (episodes) catalogued as Monographs.
 
-Record the level of description of the work being catalogued, for example, “analytic,” “ monographic,” “serial,” etc., according to a controlled vocabulary.
+Record the level of description of the work being catalogued, for example, “analytic,” “monographic,” “serial,” etc., according to a controlled vocabulary.
 The terms used in this Manual are derived from traditional bibliographic cataloguing rules and from EN 15907 (and are defined in Appendix D.1), but an institution may choose to create its own list of terms. See \nameref{sec:work_variant_description_types}.
 
-
-\subsection[Elements of a Work]{Elements of a Work 
-    \label{sec:elements_of_a_work_variant}
-    } 
+\subsection{Elements of a Work} 
+\label{sec:elements_of_a_work_variant}
 
 This section describes the metadata elements that can be used to describe a Work.
 It is up to each institution to choose which elements are most applicable to describe their collections and according to what their system can support.
@@ -139,9 +122,8 @@ In these cases, “Type” is used to define the source, function or purpose of 
 Using a “Type” qualifier conforms to its use in Dublin Core and other Dublin Core-influenced standards such as EBUCore and PBCore.
 Examples of using “Type” include the Identifier, Title, Date, and Description elements.
 
-\subsubsection[Work Identifier]{Work Identifier 
-    \label{sec:work_variant_identifier}
-    } 
+\subsubsection{Work Identifier} 
+\label{sec:work_variant_identifier} 
 
 Create an unambiguous reference to the Work using a unique identifier and indicate the type of identifier.
 The identifier should be a numerical or alphanumerical reference.
@@ -167,7 +149,7 @@ Use what makes sense for your institution; there is no recommendation for one pa
 However, it is recommended that at least one unique identifier be included in the record.
 It is critical that each Identifier be unique.
 
-Examples^[Pietro Fosco is the pseudonym of Giovanni Pastrone used in the ISAN registration.]:
+*Pietro Fosco is the pseudonym of Giovanni Pastrone used in the ISAN registration.*
 
 ```{=latex}
 \begin{tcolorbox}
@@ -198,13 +180,10 @@ Work identifier – ISAN number: 0000-0000-60A5-0000-E-0000-0000-W
 \end{tcolorbox}
 ```
 
-\paragraph[Identifier Type]{Identifier Type
-    \label{sec:work_identifier_type}
-    } \
+\paragraph{Identifier Type}
+\label{sec:work_identifier_type} \
 
 If an institution’s system allows, a "Type" can be applied with an Identifier to define the source of the Identifier. 
-
-Example:
 
 ```{=latex}
 \begin{tcolorbox}
@@ -216,9 +195,8 @@ Identifier type: ISAN
 \end{tcolorbox}
 ```
 
-\subsubsection[Title]{Title
-    \label{sec:work_title}
-    } 
+\subsubsection{Title}
+\label{sec:work_title}
 
 Record at least one title, identifying phrase, or name for the moving image Work.
 If your institution is applying the use of “Type” qualifiers, use “Title Type” to state the function of a particular title (see \nameref{sec:work_title_type} and \nameref{sec:titles_and_title_types}).
@@ -230,9 +208,7 @@ See \nameref{sec:title_types} for additional information.
 
 For creating titles for untitled or unidentified entities see \nameref{sec:supplied_devised_titles}.Television programmes and other types of content that are part of a series/serial should have both the series/serial title and the episode title included in the Work record.
 This may be via use of a “Title type” qualifier.
-See \nameref{sec:titles_of_series_serials} for other options
-
-Examples:
+See \nameref{sec:titles_of_series_serials} for other options.
 
 ```{=latex}
 \begin{tcolorbox}
@@ -286,15 +262,13 @@ For guidance on wording, order, spelling, punctuation, accentuation and capitali
 
 For sources of information for the Title, see \nameref{sec:prelim_sources_of_information}
 
-\paragraph[Title Type]{Title Type
-    \label{sec:work_title_type}
-    } \
+\paragraph{Title Type}
+\label{sec:work_title_type} \
 
 Where relevant for an institution, if the Work, Variant or Manifestation includes multiple titles, such as a title in another language for a dubbed or subtitled variant, record the relevant Variant titles and associate a “Title Type” to each title for differentiation between the various types of titles (see \nameref{sec:titles_and_title_types}).
 
-\subsubsection[Country of Reference]{Country of Reference
-    \label{sec:country_of_reference}
-    } 
+\subsubsection{Country of Reference}
+\label{sec:country_of_reference}
 
 Where known and applicable, record the geographic origin of the moving image Work.
 This should be the country or countries where the principal offices or production facilities of the production company or companies are located.^[EN 15907, 6.5 Country of Reference, p. 19] 
@@ -355,9 +329,8 @@ e) Combinations of any of the above.
 
 It remains the policy decision of an institution or festival to choose a preferred name for display on online platforms and/or in festival catalogues. This decision should not be taken lightly and should be informed by the opinions and experiences of those affected.
 
-\subsubsection[Year/Date of Reference]{Year/Date of Reference
-    \label{sec:year_date_of_reference}
-    } 
+\subsubsection{Year/Date of Reference}
+\label{sec:year_date_of_reference}
 
 A year or fuller date (e.g., day/month/year) is essential to identifying a moving image Work and, where applicable, its Variants.
 A common use of year/date is chronological ordering of lists of Works and their Variants.^[EN 15907, 6.6 Year of Reference, p. 20] 
@@ -377,9 +350,8 @@ Mixing date formats causes confusion in data retrieval and for users!
 
 Where full dates are not known use Year-Month YYYY-MM or just Year YYYY, as systems permit.
 
-\paragraph[Date Type]{Date Type
-    \label{sec:date_type}
-    } \
+\paragraph{Date Type}
+\label{sec:date_type} \
 
 The year or date should be associated with an event in the life cycle of the Work or its Variants (see \nameref{sec:work_events}).
 If your system supports it, apply a “Date Type” qualifier to make the date or year purpose clear.
@@ -394,9 +366,8 @@ For example, in the case of a Work comprising segments produced in different yea
 Similarly, a Work may have a production date of 1962, a copyright date of December 1963, and a first release date of January 1964.
 Apply the Date Type qualifier to clarify the purpose of each date.
 
-\paragraph[Date Precision]{Date Precision
-    \label{sec:date_precision}
-    } \
+\paragraph{Date Precision}
+\label{sec:date_precision} \
 
 Where possible, provide a “Date Precision” qualifier to note if the date is precise, approximate, estimated, or a range.
 EDTF also provides codes to denote precision.
@@ -409,161 +380,83 @@ Date Precision: Approximate
 
 An institution may choose to use a precision qualifier for imprecise dates.
 
-If ISO formatting and/or the Date Precision qualifier are not applied, then use consistent terms and formatting to note date approximations.
+If ISO formatting and/or the Date Precision qualifier are not applied, then use consistent terms and formatting to note date approximations.^[FIAF, 3.5.4, p. 64]:
 
-Examples^[FIAF, 3.5.4, p. 64]:
-
-TODO this is a table not examples.
+*One year or the other*
 
 ```{=latex}
 \begin{tcolorbox}
-1971 or 1972 One year or the other
+1971 or 1972
 \end{tcolorbox}
 ```
 
+*Probable Year (with qualifying note to indicate date is probably 1969)*
+
 ```{=latex}
 \begin{tcolorbox}
-\[1969?\] Probable Year
+{[1969?]} \\
+1969? \\
+Circa 1969
 \end{tcolorbox}
 ```
 
-```{=latex}
-\begin{tcolorbox}
-1969?
-\end{tcolorbox}
-```
+*Approximate Year*
 
 ```{=latex}
 \begin{tcolorbox}
-Circa 1969 (with qualifying note to indicate date is probably 1969)
-\end{tcolorbox}
-```
-
-```{=latex}
-\begin{tcolorbox}
-\[Circa 1960\] Approximate Year
-
-\end{tcolorbox}
-```
-
-```{=latex}
-\begin{tcolorbox}
-Circa 1960
-
-\end{tcolorbox}
-```
-
-```{=latex}
-\begin{tcolorbox}
+{[Circa 1960]} \\
+Circa 1960 \\
 1960 circa
-
 \end{tcolorbox}
 ```
+
+*Decade Certain*
 
 ```{=latex}
 \begin{tcolorbox}
-191- Decade certain
-
+191- \\
+Decade 1910 \\
+1910 decade
 \end{tcolorbox}
 ```
+
+*Probable Decade (with qualifying note to indicate that date is probable decade date)*
 
 ```{=latex}
 \begin{tcolorbox}
-Decade 1910
-
+{[191-?]} \\
+1910 decade \\
+Decade 1910 
 \end{tcolorbox}
 ```
-```{=latex}
-\begin{tcolorbox}
-1910 decade 
 
-\end{tcolorbox}
-```
+*Use for time spans, the outside limits of which can be precisely determined*
 
 ```{=latex}
 \begin{tcolorbox}
-
-\[191-?\] Probable decade
+between 1906 and 1912
 \end{tcolorbox}
 ```
+
+*Where system has date start/ date end functionality*
 
 ```{=latex}
 \begin{tcolorbox}
-
-1910 decade (with qualifying note to indicate that date is probable decade date)
-
+1906 1912
 \end{tcolorbox}
 ```
-
-```{=latex}
-\begin{tcolorbox}
-
-1910 decade (with qualifying note to indicate that date is probable decade date)
-
-\end{tcolorbox}
-```
-
-```{=latex}
-\begin{tcolorbox}[colframe=gray!50!white, colback=gray!10!white, coltitle=black, title=Example]
-
-Decade 1910
-
-\end{tcolorbox}
-```
-
-```{=latex}
-\begin{tcolorbox}[colframe=gray!50!white, colback=gray!10!white, coltitle=black, title=Example]
-
-1910 decade 
-
-\end{tcolorbox}
-```
-
-```{=latex}
-\begin{tcolorbox}[colframe=gray!50!white, colback=gray!10!white, coltitle=black, title=Example]
-
-\[191-?\] Probable decade
-
-\end{tcolorbox}
-```
-
-```{=latex}
-\begin{tcolorbox}[colframe=gray!50!white, colback=gray!10!white, coltitle=black, title=Example]
-
-1910 decade (with qualifying note to indicate that date is probable decade date)
-
-\end{tcolorbox}
-```
-
-```{=latex}
-\begin{tcolorbox}[colframe=gray!50!white, colback=gray!10!white, coltitle=black, title=Example]
-
-1910 decade (with qualifying note to indicate that date is probable decade date)
-
-\end{tcolorbox}
-```
-
-Decade 1910 (as above)
-
-between 1906 and 1912 Use for time spans, the outside limits of which can be precisely determined
-
-1906 1912 (where system has date start/ date end functionality)
 
 In instances such as these, a note should be given which further explains the Date.
 
-Example:
-
 ```{=latex}
 \begin{tcolorbox}
-
-[Personal record. Eugene Meyer family. Family camping trip through the Canadian Rockies]. -- US, 1926. \\
-\[Note\] Year from notes accompanying item, attached to inventory, and from Merlo Pusey’s Eugene Meyer, (New York: Knopf, 1974), p.195
+{[Personal record. Eugene Meyer family. Family camping trip through the Canadian Rockies]}. -- US, 1926. \\
+{[Note]} Year from notes accompanying item, attached to inventory, and from Merlo Pusey’s Eugene Meyer, (New York: Knopf, 1974), p.195
 \end{tcolorbox}
 ```
 
-\subsubsection[Language(s)]{Language(s)
-    \label{sec:languages}
-    }
+\subsubsection{Language(s)}
+\label{sec:languages}
 
 A moving image Work is conceived and presented in a particular language or set of languages.
 Changes to the original language(s), as in the case of dubbing, are considered minor changes and can constitute a Variant of a moving image Work.
@@ -575,9 +468,8 @@ Institutions using cataloguing structures that do not distinguish Variant level 
 Indicate the language(s) (e.g., Italian) and usage(s) (e.g., Italian intertitles) in which the moving image Variant/Manifestation is written, spoken or sung, if applicable.
 More than one language can occur in different forms, depending on how the content is expressed (e.g., French dialogue and English subtitles).
 
-\paragraph[Language Term]{Language Term
-    \label{sec:language_term}
-    } \
+\paragraph{Language Term}
+\label{sec:language_term} \
 
 Record the language(s) by taking the most suitable value(s) from a controlled list of languages.
 
@@ -587,9 +479,8 @@ Optionally, record the language code as found in ISO 639, where allowable.
 
 If no language can be determined, the information can be omitted or indicated by a value of “unknown”.
 
-\paragraph[Usage Type]{Usage Type
-    \label{sec:work_usage_type}
-    } \
+\paragraph{Usage Type}
+\label{sec:work_usage_type} \
 
 Record the usage type of a language (e.g. spoken, intertitles, subtitles, etc.) by taking the most suitable term from a controlled list elaborated in-house or referring to an existing authoritative list. See \nameref{sec:language_usage_types}.
 
@@ -597,10 +488,9 @@ Optionally, record language usage type at the Manifestation/Item level (see \nam
 A value of “original” can be added to the Language element here to indicate that statements made about the language(s) for a particular Manifestation/Item are indicative of the language(s) of the “original” Work. ^[The indication of “original” values at the Manifestation level follows EN 15907 attributes of a Manifestation, pp. 10-11]
 
 \subsubsection[Content description (synopses, shotlists, etc)]{Content description (synopses, shotlists, etc) 
-    \footnote {Adapted from YCR, 1.2.16 Summary of genre, form, and subject matter of work, p. 38.} 
-    \label{sec:content_description}
-    } 
-
+\footnote {Adapted from YCR, 1.2.16 Summary of genre, form, and subject matter of work, p. 38.}} 
+\label{sec:content_description}
+    
 Write a concise, objective, non-critical summary of the content of the moving image Work and/or Variant.
 Content descriptions can be synposes, brief TV guide-like one sentence description, shotlists, etc. There can be more than one type of content description in the record, e.g. it is possible to have both a shotlist and a synopsis.
 
@@ -608,9 +498,7 @@ The content description should be written in a style that is easy to read.
 It should not include technical terms, abbreviations, or allusions significant to a specialist audience.
 Avoid slang expressions and colloquialisms fashionable at the time of writing,and, where several cataloguers are viewing independently, they should, ideally, try to achieve a common written style.
 Descriptions should be objective and not include subjective commentary on the quality of the content.
-If acceptable summaries are already available in secondary sources, cataloguers may use these, instead of taking the time to prepare summaries of their own.[^60] If using summaries exactly as written, put the summary in quotes and note the source of the summary.
-
-Examples^[FIAF 7.2.12. Summary]:
+If acceptable summaries are already available in secondary sources, cataloguers may use these, instead of taking the time to prepare summaries of their own. If using summaries exactly as written, put the summary in quotes and note the source of the summary.^[FIAF 7.2.12. Summary]
 
 ```{=latex}
 \begin{tcolorbox}
@@ -624,14 +512,12 @@ Donald Graham, millionaire ex-convict, plans revenge on society figure John Cabi
 \end{tcolorbox}
 ```
 
-A content description may also be a shotlist or listing of the contents of an aggregate Work/Variant (see \nameref{sec:aggregates_compilations_multi_component_productions}). Shotlists are the ideal content description to have or aim to have, particularly for non-fiction moving images, but it is recognised that resources and accessibility mean this is not always possible or practical for an archive or institution.
-
-Examples^[FIAF 7.2.16. Contents]:
+A content description may also be a shotlist or listing of the contents of an aggregate Work/Variant (see \nameref{sec:aggregates_compilations_multi_component_productions}). Shotlists are the ideal content description to have or aim to have, particularly for non-fiction moving images, but it is recognised that resources and accessibility mean this is not always possible or practical for an archive or institution.^[FIAF 7.2.16. Contents]
 
 ```{=latex}
 \begin{tcolorbox}
-Title: Pathe News \[Excerpts No. 6\] \\
-Contents: “Newest U.S. Submarine Goes into Commission,” Pathe News No. 60 \[1921\] (160 ft.) -- “Span of New Memorial Bridge to Connect N.H. and Maine,” Pathe News No. 57 \[1923\] (72 ft.) -- “Celebrate 300th Anniversary of Settling of Portsmouth,”Pathe News No. 69 \[1923\] (99 ft.) -- “World’s Largest Sub Takes First Plunge,” Pathe News No. 93 \[1927\], (c) 21Nov27; MP4478 (134 ft.) -- “New Memorial Bridge between N.H. and Maine!” Pathe News No. 70 \[1923\] (105 ft.) -- “Launch Largest Submarine Cruiser,” Pathe Sound News No. 1 \[1930\], (c) 29Dec29; MP1025 (80 ft.).
+Title: Pathe News {[Excerpts No. 6]} \\
+Contents: “Newest U.S. Submarine Goes into Commission,” Pathe News No. 60 {[1921]} (160 ft.) -- “Span of New Memorial Bridge to Connect N.H. and Maine,” Pathe News No. 57 {[1923]} (72 ft.) -- “Celebrate 300th Anniversary of Settling of Portsmouth,”Pathe News No. 69 {[1923]} (99 ft.) -- “World’s Largest Sub Takes First Plunge,” Pathe News No. 93 {[1927]}, (c) 21Nov27; MP4478 (134 ft.) -- “New Memorial Bridge between N.H. and Maine!” Pathe News No. 70 {[1923]} (105 ft.) -- “Launch Largest Submarine Cruiser,” Pathe Sound News No. 1 {[1930]}, (c) 29Dec29; MP1025 (80 ft.).
 \end{tcolorbox}
 ```
 
@@ -645,14 +531,14 @@ The Tramp and the Baby’s Bottle (1899) (214ft), \\
 Women’s Rights (1899) (289ft), \\
 A Kiss in the Tunnel (1899) (367ft), \\
 Boy’s Cricket Match and Fight (1900) (475ft), \\
-\[… real example shortened\] \\
+{[… real example shortened]} \\
 End
 \end{tcolorbox}
 ```
 
 ```{=latex}
 \begin{tcolorbox}
-Title: Magnificent Reproductions of the Great Yorkshire Show in Bradford (1901) \\
+Title: Magnificent Reproductions of the Great Yorkshire Show in Bradford (1901) \\ \\
 Mitchell \& Kenyon 641: Panning shot across a road to the Yorkshire Agricultural Society building with a diffuse crowd of people in front of the building. As the shot passes the building, a number of people can be seen sitting down, including mothers with babies and some older people (00.36). Cut to a close-up shot of the building, with a sign reading “The Yorkshire Agricultural Society. Established 1837” (00.45). Cut to a horse-drawn cart spraying some sort of liquid on the path as it moves along. Lettering on the back of the cart reads “Bradford City Council no. 30” (00.58). Cut to wide steps, with a number of smartly dressed men walking down them (presumably entering the show) (01.14). Cut to a shot of the blades of a windmill as they turn (01.23). Cut to a general shot of the show, with crowds and various stalls (02.07). A marquee in the background has the sign “R. Hornsby \& Sons Ltd., Grantham”. Another sign reads “Marshall. Sons \& Co.”. Chimneys and houses can be seen in the background (02.27min).
 \end{tcolorbox}
 ```
@@ -665,21 +551,18 @@ Otherwise a general description of scenes and sequences will suffice^[Irish Film
 
 If applicable, add information about the content of the moving image Variant where it differs from the content of the Work.
 
-\paragraph[Content Description Type]{Content Description Type 
-    \label{sec:content_description_type}
-    } \
+\paragraph{Content Description Type} 
+\label{sec:content_description_type} \
 
 Include a qualifying keyword or otherwise denote the type of summary (e.g. Synopsis, Shotlist, Review).^[EN 15907, 6.17.3 Elements, Description type, p. 30.]
 
-\subsubsection[Notes]{Notes
-    \label{sec:notes}
-    }
+\subsubsection{Notes}
+\label{sec:notes}
 
 Notes for moving image Works/Variants are annotations providing additional information or clarification relating specifically to Works/Variants attributes and relationships.^[Based on RDA 2.20.1.Basic Instructions on Making Notes on Manifestations or Items] See \nameref{sec:cataloguers_notes}.
 
-\subsubsection[History]{History
-    \label{sec:history}
-    }
+\subsubsection{History}
+\label{sec:history}
 
 Record historical information about events of interest in the creation of the original moving image Work/Variant that is of value for your users, such as censorship history, production versions, and the like.
 This historical information may be recorded in association with instances of Events or Agents.
@@ -688,8 +571,6 @@ If desired, institutions may include historical information that crosses over in
 This may be done where there is value to the user in keeping all the information together for research or clarification purposes rather than across disparate Manifestation and Item records.
 This may also be applied where no History fields exist in an institution’s system at Manifestation or Item levels, or a no hierarchy one level structure is used.
 
-Example^[Abridged version of fuller Work History note from BFI CID record for the film]:
-  
 ```{=latex}
 \begin{tcolorbox}
 Christopher Columbus (United Kingdom, 1949, David MacDonald) \\
@@ -698,52 +579,44 @@ The short ending (version two) has Columbus reinstated by the King and Queen, hi
 \end{tcolorbox}
 ```
 
-\paragraph[Custodial History]{Custodial History
-    \label{sec:custodial_history}
-    } \
+\paragraph{Custodial History}
+\label{sec:custodial_history} \
 
 If desired, write a brief custodial history of the Work/Variant if known, particularly for rare and unique materials.
 Indicate the current holding institution of the original or master material if known.
 
 Information on the provenance of the specific Items in an archive’s collection should be included in the Item sections.
 
-\paragraph[Censorship History]{Censorship History
-    \label{sec:censorship_history}
-    } \
+\paragraph{Censorship History}
+\label{sec:censorship_history} \
 
 Document information related to the censorship history of a Work/Variant, including:^[EN 15907, 6.13 Decision event, pp. 26-27.]
 
-- any events in which a Manifestation/Item of a Work/Variant was evaluated by a censorship body or an accredited rating agency 
+*Any events in which a Manifestation/Item of a Work/Variant was evaluated by a censorship body or an accredited rating agency.* 
 
-- the geographic region for which the verdict is (was) valid
+*The geographic region for which the verdict is (was) valid.*
 
-- any identifier issued by the agency uniquely identifying the act of rating or censorship and associated documents such as censorship visa or rating certificates
+*Any identifier issued by the agency uniquely identifying the act of rating or censorship and associated documents such as censorship visa or rating certificates.*
 
-- the outcome of the act of rating or censorship
+*The outcome of the act of rating or censorship.*
 
-Example^[http://www.italiataglia.it/tagli_rassegna/_bout_de_souffle_]:
-  
 ```{=latex}
 \begin{tcolorbox}
 À bout de souffle (France, 1960, Jean-Luc Godard) \\
 \\
 In Italy, this film has three different theatrical distributions, corresponding to three different visas (“visto di censura”) from the official censorship body (Ufficio di revisione cinematografica). \\
 Censored Variant: Theatrical distribution in Italy – censorship visa n. 32329 – date: 1960-07-05 – Length 2463m – original French – not for under 16 years \\
-Dubbed, Censored Variant: Theatrical distribution in Italy – censorship visa n. 57609 – date: 1971-01-23 – Length 2440m. – Italian \\
-Dubbed, Censored Variant: Theatrical distribution in Italy– censorship visa n. 64662 – date: 1974-05-20 – Length 2430m. – Italian dubbed
+Dubbed, Censored Variant: Theatrical distribution in Italy – censorship visa n. 57609 – date: 1971-01-23 – Length 2440m. – Italian \\
+Dubbed, Censored Variant: Theatrical distribution in Italy– censorship visa n. 64662 – date: 1974-05-20 – Length 2430m. – Italian dubbed
 \end{tcolorbox}
 ```
 
-\paragraph[Other Work/Variant History]{Other Work/Variant History
-    \label{sec:other_work_variant_history}
-    } \
+\paragraph{Other Work/Variant History}
+\label{sec:other_work_variant_history} \
 
 Any other relevant information or clarifications pertaining to the Work/Variant.
-For example:
 
-- any changes of director, crew, or cast part-way through production
-
-Example:
+*Any changes of director, crew, or cast part-way through production.*
 
 ```{=latex}
 \begin{tcolorbox}
@@ -751,9 +624,7 @@ Tosca (Italy, 1939, Karl Koch) The film was started by Jean Renoir, but after be
 \end{tcolorbox}
 ```
 
-- any demise of members of the cast or crew associated with the production
-
-Example:
+*Any demise of members of the cast or crew associated with the production.*
 
 ```{=latex}
 \begin{tcolorbox}
@@ -761,10 +632,8 @@ Foolish Wives (United States of America, 1922, Erich von Stroheim) Actor Rudolph
 \end{tcolorbox}
 ```
 
-- explanations regarding length of time between production and release, e.g., due to funding issues, an initial banning, delayed release due to sensitivity over subject matter and world events, etc.
+*Explanations regarding length of time between production and release, e.g., due to funding issues, an initial banning, delayed release due to sensitivity over subject matter and world events, etc.*
 
-Examples:
-  
 ```{=latex}
 \begin{tcolorbox}
 La porta del cielo (Italy, 1945, Vittorio De Sica) The shooting of the film lasted almost one year (February – November 1944) throughout the period of Nazi occupation of Rome and served as an excuse to hide and protect Jewish people, anti-fascists, etc...
@@ -777,9 +646,7 @@ La grande illusion (France, 1937, Jean Renoir) The shooting of the film lasted t
 \end{tcolorbox}
 ```
 
-- any other information relevant to the history of the Work and its production
-
-Example^[Abridged version of fuller Work History note from BFI CID record for the film.]:
+*Any other information relevant to the history of the Work and its production.*
 
 ```{=latex}
 \begin{tcolorbox}
@@ -787,9 +654,8 @@ Christopher Columbus (United Kingdom, 1949, David MacDonald) Location shooting i
 \end{tcolorbox}
 ```
 
-\subsection[Relationships of a Work/Variant (links/associations with other entities/records)]{Relationships of a Work/Variant (links/associations with other entities/records)
-    \label{sec:relationships_of_a_work_variant}
-    }
+\subsection{Relationships of a Work/Variant (links/associations with other entities/records)}
+\label{sec:relationships_of_a_work_variant}
 
 A relationship associates an instance of a Work/Variant with another instance of an entity.
 Entities are described in subsequent sections, but examples of entities are people or companies associated with a Work/Variant (eg, studio, director, cast), events (copyright registration), subjects (other Works/Variants are about the same subject), and records.
@@ -816,12 +682,9 @@ A Variant may have relationships with the following:
 - Manifestation(s)
 - Other (including other Variants)
 
-
-
 \subsubsection[Events (e.g., IPR registration, screenings, awards, etc.)]{Events (e.g., IPR registration, screenings, awards, etc.) 
-    \footnote {EN 15907 5.2 Event} 
-    \label{sec:work_events}
-    } 
+\footnote {EN 15907 5.2 Event}} 
+\label{sec:work_events}
 
 An Event characterises occurrences in the lifecycle of a moving image Work or its Variants.
 Instances of any Event type can have Agent and “Other” relationships.
@@ -830,90 +693,89 @@ Record one or more Event type, for example, “publication,” “copyright/IPR 
 Selection should be made from a controlled list of terms.
 A suggested list, which is open and not exhaustive, can be found in \nameref{sec:event_type}.
 
-\subsubsection[Subject/Genre/Form Terms]{Subject/Genre/Form Terms
-    \label{sec:subject_genre_form_terms}
-    } 
+\subsubsection{Subject/Genre/Form Terms}
+\label{sec:subject_genre_form_terms} 
 
 Provide access to the Work by means of subjects (or subject identifiers) that describe the content of the Work, and additionally by genre(s) and/or form(s) (or identifiers) of which the Work is an example (i.e. what the Work is). Works should ideally have at least one Genre (and/or Form) and one Subject term as a minimum.
 
-Genre - reflects what the Work is (i.e. in terms of categories of Works characterised by similar plots, themes, settings, situations, and characters, e.g. Horror, Science-fiction, Crime, Westerns, Thrillers, Comedy, etc.)
+Genre - reflects what the Work is (i.e. in terms of categories of Works characterised by similar plots, themes, settings, situations, and characters, e.g. Horror, Science-fiction, Crime, Westerns, Thrillers, Comedy, etc.)
 
 Form - a further categorisation term relating to what the Work is and the form it takes, descriptive of the characteristics of its format and/or purpose, e.g. Fiction, Non-fiction, Short, Animation, Video Essay, etc. which some systems may have as a separate category whilst others incorporate them within their Genre terms.
 
-Subject - reflects the content of the Work, what it features and what it is about.
+Subject - reflects the content of the Work, what it features and what it is about.
 
 There are no rules as to how many genre and subject terms can be associated with a Work. It will be different from moving image to moving image and down to the assessment of the individual cataloguer within the levels of subject cataloguing decided by their institution.
 
-TO DO this is an example table
+```{=latex}
+\begin{tcolorbox}
+\textbf{Main title} \\ 
+A trip down Market Street before the fire / [Miles Brothers]. \\ \\
+\textbf{Published/Created}  \\
+United States. [United States : Miles Brothers, 1906]. \\ \\
+\textbf{Summary}  \\
+The following is a scene-by-scene description of the film: [Frame: 0300 (part 1)] The film begins looking northeast on Market Street just west of the intersection of Hyde, Grove and 8th streets. The dark building at right is the Odd Fellows Hall and the grey building beyond (across 8th St.) is the Grant Building (1905). A white postal service automobile is at left center. The three large buildings receding down Market Street at left are [0319 (part 1)] the Murphy Building (1889), [0353 (part 1)] the Donohoe Building (1890), and the Flood Building (1905). [etc.; this is an excerpt from the full record.] \\ \\
+\textbf{Subjects} \\
+Market Street (San Francisco, Calif.) \\
+Street-railroads--California--San Francisco. \\
+Horse-drawn vehicles--California--San Francisco. \\
+City traffic--California--San Francisco. \\
+Pedestrians--California--San Francisco. \\
+Automobiles--California--San Francisco. \\ \\
+\textbf{Form/Genre} \\
+Actualities (Motion pictures) \\
+Short films. \\
+Silent films. \\
+Nonfiction films.
+\end{tcolorbox}
+```
 
-  Examples:
+```{=latex}
+\begin{tcolorbox}
+\textbf{Main title}  \\
+Mardi Gras parade -- US : Thomas A. Edison, Inc. [producer, distributor], [190-?].  \\ \\
+\textbf{Summary}  \\
+Early actuality footage, shot from a single location on a street in New Orleans, showing a Mardi Gras parade. Mule drawn floats, children and adults in costumes, and brass bands march down the street, as crowds of spectators mill about the sidewalks, sometimes spilling into the street. \\ \\
+\textbf{Subjects}  \\
+1. Carnival -- Louisiana -- New Orleans. 2. Parades -- Louisiana – New Orleans. 3. Holidays. \\ \\
+\textbf{Genres}  \\
+1. Actualities. 2. Shorts.
+\end{tcolorbox}
+```
 
-  Main title A trip down Market Street before the fire / [Miles Brothers]. ^[For full record see http://lccn.loc.gov/00694408]
+```{=latex}
+\begin{tcolorbox}
+\textbf{Main title}  \\
+British Canadian Pathe news. No. 83A / L.E. Ouimet presents. -- CA : British Canadian Pathe News [producer], 1919 ; CA : Specialty Film Ltd. [distributor], 1919. \\ \\
+\textbf{Contents}  \\
+London: Ilford Municipal Market proves great success (43 ft.) -- Yarmouth, Eng.: Happy hours by the sea (46 ft.) -- Lauzon, Que.: World’s largest drydock (84 ft.) -- Toronto: Cycle racing at Exhibition Park (218 ft.) -- Kingston: [Geo. Vernot, Canadian swimmer, demonstrates strokes] (140 ft.) -- Fresno, Cal.: [Staged train wreck at fair] (69 ft.) -- Gary, Ind.: [Federal troops in big steel centers as result of recent riots] (150 ft.) -- Getting together, an animated cartoon by Bert Green (65 ft.) – A Review of events in Great Britain: Yarmouth: Deutschland, German Navy ship, now tourist attraction; London: “Pussy-foot” Johnson trying to make Britain “dry;” Doncaster: horse racing; Manchester: statue of Abraham Lincoln unveiled, gift of the U.S. to England’s great Cotton City (123 ft.). \\ \\
+\textbf{Subjects}  \\
+1. Markets -- England -- London. 2. London (England) -- Description. 3. Seaside resorts -- England. 4. Yarmouth (Isle of Wight) -- Description. 5. Drydocks -- Canada. 6. Saint Henri (Quebec) -- Description. 7. Bicycle racing -- Canada. 8. Swimming -- Canada. 9. Strikes and lockouts -- Steel industry -- United States. 10. Prohibition -- England. 11. Horse-racing -- England. 12. Doncaster (South Yorkshire) -- Description.13. Lincoln, Abraham, 1809-1865 -- Statues. 14. Manchester (Greater Manchester) -- Description. \\ \\
+\textbf{Genre}  \\
+1. Newsreels.
+\end{tcolorbox}
+```
 
-  Published/Created United States. [United States : Miles Brothers, 1906].
+```{=latex}
+\begin{tcolorbox}
+\textbf{Main title}  \\
+O Beijo da mulher aranha = Kiss of the spider woman / director, Hector Babenco ; producer, David Weisman ; screenplay, Leonard Schrader. -- BR : HB Filmes [producer], 1895 ; US Sugarloaf Films [producer], 1985 ; US : Island Alive [distributor], 1985. \\ \\
+\textbf{Summary}  \\
+Molina, a homosexual window-trimmer convicted on a morals charge, shares a dreary prison cell with Valentin, a clandestinely-held politically active journalist who has been endlessly tortured by prison authorities in a vain attempt to extract information about his activities. Both men could not be farthe apart in personal attitudes, lifestyles, and emotional makeup: Molina is a glib raconteur, who dwells in a fantasy world of glamorous movies from yesteryear, of romantic screen heroes and tragic heroines. Valentin is a self-disciplined intellectual who is devoted to the cause of human rights and his political concerns. [etc. ; this is an excerpt from the full record] \\ \\
+\textbf{Subjects}  \\
+1. Prisoners -- Drama. 2. Interpersonal relations -- Drama. 3. Homosexuality, Male -- Drama. 4. Political prisoners -- Drama. 5. Torture -- Drama. \\ \\
+\textbf{Genres}  \\
+1. Drama. 2. Features.
+\end{tcolorbox}
+```
 
-  Summary The following is a scene-by-scene description of the film: [Frame: 0300 (part 1)] The film begins looking northeast on Market Street just west of the intersection of Hyde, Grove and 8th streets. The dark building at right is the Odd Fellows Hall and the grey building beyond (across 8th St.) is the Grant Building (1905). A white postal service automobile is at left center. The three large buildings receding down Market Street at left are [0319 (part 1)] the Murphy Building (1889), [0353 (part 1)] the Donohoe Building (1890), and the Flood Building (1905). [etc.; this is an excerpt from the full record.]
-
-  Subjects
-  Market Street (San Francisco, Calif.)
-  Street-railroads--California--San Francisco.
-  Horse-drawn vehicles--California--San Francisco.
-  City traffic--California--San Francisco.
-  Pedestrians--California--San Francisco.
-  Automobiles--California--San Francisco.
-
-
-  Form/Genre
-  Actualities (Motion pictures)
-  Short films.
-  Silent films.
-  Nonfiction films.
-
-  Main title
-  Mardi Gras parade -- US : Thomas A. Edison, Inc. [producer, distributor], [190-?].
-
-  Summary
-  Early actuality footage, shot from a single location on a street in New Orleans, showing a Mardi Gras parade. Mule drawn floats, children and adults in costumes, and brass bands march down the street, as crowds of spectators mill about the sidewalks, sometimes spilling into the street.
-
-  Subjects
-  1. Carnival -- Louisiana -- New Orleans. 2. Parades -- Louisiana – New Orleans. 3. Holidays.
-
-  Genres
-  1. Actualities. 2. Shorts.
-
-  Main title
-  British Canadian Pathe news. No. 83A / L.E. Ouimet presents. -- CA : British Canadian Pathe News [producer], 1919 ; CA : Specialty Film Ltd. [distributor], 1919.
-
-  Contents
-  London: Ilford Municipal Market proves great success (43 ft.) -- Yarmouth, Eng.: Happy hours by the sea (46 ft.) -- Lauzon, Que.: World’s largest drydock (84 ft.) -- Toronto: Cycle racing at Exhibition Park (218 ft.) -- Kingston: [Geo. Vernot, Canadian swimmer, demonstrates strokes] (140 ft.) -- Fresno, Cal.: [Staged train wreck at fair] (69 ft.) -- Gary, Ind.: [Federal troops in big steel centers as result of recent riots] (150 ft.) -- Getting together, an animated cartoon by Bert Green (65 ft.) – A Review of events in Great Britain: Yarmouth: Deutschland, German Navy ship, now tourist attraction; London: “Pussy-foot” Johnson trying to make Britain “dry;” Doncaster: horse racing; Manchester: statue of Abraham Lincoln unveiled, gift of the U.S. to England’s great Cotton City (123 ft.).
-
-  Subjects
-  1. Markets -- England -- London. 2. London (England) -- Description. 3. Seaside resorts -- England. 4. Yarmouth (Isle of Wight) -- Description. 5. Drydocks -- Canada. 6. Saint Henri (Quebec) -- Description. 7. Bicycle racing -- Canada. 8. Swimming -- Canada. 9. Strikes and lockouts -- Steel industry -- United States. 10. Prohibition -- England. 11. Horse-racing -- England. 12. Doncaster (South Yorkshire) -- Description.13. Lincoln, Abraham, 1809-1865 -- Statues. 14. Manchester (Greater Manchester) -- Description.
-
-  Genre
-  1. Newsreels.
-
-  Main title
-  O Beijo da mulher aranha = Kiss of the spider woman / director, Hector Babenco ; producer, David Weisman ; screenplay, Leonard Schrader. -- BR : HB Filmes [producer], 1895 ; US Sugarloaf Films [producer], 1985 ; US : Island Alive [distributor], 1985.
-
-  Summary
-  Molina, a homosexual window-trimmer convicted on a morals charge, shares a dreary prison cell with Valentin, a clandestinely-held politically active journalist who has been endlessly tortured by prison authorities in a vain attempt to extract information about his activities. Both men could not be farthe apart in personal attitudes, lifestyles, and emotional makeup: Molina is a glib raconteur, who dwells in a fantasy world of glamorous movies from yesteryear, of romantic screen heroes and tragic heroines. Valentin is a self-disciplined intellectual who is devoted to the cause of human rights and his political concerns. [etc. ; this is an excerpt from the full record]
-  
-  Subjects
-  1. Prisoners -- Drama. 2. Interpersonal relations -- Drama. 3. Homosexuality, Male -- Drama. 4. Political prisoners -- Drama. 5. Torture -- Drama.
-  
-  Genres
-  1. Drama. 2. Features.
-
-\paragraph[Assigning Subject terms]{Assigning Subject terms
-    \label{sec:assigning_subject_terms}
-    } \
+\paragraph{Assigning Subject terms}
+\label{sec:assigning_subject_terms} \
 
 When considering the assigning of subject terms to a moving image Work record there are two main components to consider in making an intellectual assessment; the contexts of "about" and "of":
 
-***Of*** is straightforwardly, explicitly what is seen and visible in the shots and scenes that make up the moving image. 
+**Of** is straightforwardly, explicitly what is seen and visible in the shots and scenes that make up the moving image. 
 
-***About*** is the elements and themes of a moving image that are implicit from the unfolding and combining of different images, or more explicit from interviews, commentary, or narration on the soundtrack.
+**About** is the elements and themes of a moving image that are implicit from the unfolding and combining of different images, or more explicit from interviews, commentary, or narration on the soundtrack.
 
 EN15744 advocates that all Works should have at least one subject term as a minimum.
 
@@ -921,16 +783,20 @@ But it is up to each institution to decide the depth and level of subject indexi
 
 “one must try to capture what is seen onscreen as well as what the images are about conceptually.” (NB.Olwen Terris - cite source in footnote
 
-Decisions will depend on resources, technologies, an institution’s requirements and user needs, etc.  Some may choose to apply different levels and balances of these two ***of*** and ***about*** elements depending on whether the moving image is fiction or non-fiction. Footage libraries, for example, may be more likely to concentrate on ***of*** elements, but other archives may prefer to focus on ***about*** subjects. 
+Decisions will depend on resources, technologies, an institution’s requirements and user needs, etc.  Some may choose to apply different levels and balances of these two **of** and **about** elements depending on whether the moving image is fiction or non-fiction. Footage libraries, for example, may be more likely to concentrate on **of** elements, but other archives may prefer to focus on **about** subjects. 
 
 [ADD IN FURTHER EXAMPLES FROM OTHER ARCHIVES TO BOURNE ONE BELOW]
 
 For example, one practice for fiction moving images may be to assess what they are mainly about and apply  2-3 core subject terms reflecting the central themes or the nub of what they are about, plus any extra ones deemed necessary or relevant, e.g.:
 
-The Bourne Identity (USA, 2002)
-Form = Fiction
-Genre(s) = Thriller, Crime, Action and Adventure
+```{=latex}
+\begin{tcolorbox}
+The Bourne Identity (USA, 2002) \\
+Form = Fiction \\
+Genre(s) = Thriller, Crime, Action and Adventure \\
 Subject(s) = Identity, Black ops, Political assassinations
+\end{tcolorbox}
+```
 
 Subject terms *Car chases*, *Paris*, *Motorways*, *Guns*, *Fights*, *Surveillance*, etc. all feature within the film, but are not what it is about. However, if your institution uses wide keyword ranges in cataloguing, similar to IMDB's multiple "plot keywords" on Work records, then they would be relevant to apply.
 
@@ -951,20 +817,16 @@ If adding place as a subject it would not therefore be Cornwall but the Isle of 
 
 Actual filming locations data can be added in a different field (in the EN15907 structure locations and production information can be added to a linked Production Event).
 
-
 \subsubsection[Other relationships]{Other relationships 
-    \footnote {EN 15907 8.5 HasAsSubject; YCR, 1.2.7 Relationships With Other Moving Image Works or Other Kinds of Works} 
-    \label{sec:work_other_relationships}
-    } 
-
+\footnote {EN 15907 8.5 HasAsSubject; YCR, 1.2.7 Relationships With Other Moving Image Works or Other Kinds of Works}} 
+\label{sec:work_other_relationships}
+ 
 If desired or appropriate, express relationships that are not covered by the Agent, Subject, and Event relationships, including all kinds of aggregation and re-use of Works and their Variants.
 (See \nameref{sec:aggregates_compilations_multi_component_productions}.)
 
 Commonly-occurring relationships include:^[OLAC TF, Part I, Moving Image Work Definition and Boundaries, Commonly-Occurring Relationships, p. 16.]
 
-- Work(s) that the moving image Work is based on (e.g. moving images adapted from novels, plays, etc.)
-
-Example:
+*Work(s) that the moving image Work is based on (e.g. moving images adapted from novels, plays, etc.)*
 
 ```{=latex}
 \begin{tcolorbox}
@@ -972,9 +834,7 @@ The grapes of wrath (United States of America, 1940, John Ford), based on the ho
 \end{tcolorbox}
 ```
 
-- Work(s) that the moving image Work is a performance of (moving image recordings made of live stage presentations of music, plays, dance, etc.)
-
-Example:
+*Work(s) that the moving image Work is a performance of (moving image recordings made of live stage presentations of music, plays, dance, etc.)*
 
 ```{=latex}
 \begin{tcolorbox}
@@ -982,9 +842,7 @@ Pink Floyd: live at Pompeii (Belgium,West Germany, France, 1972, Adrian Maben ),
 \end{tcolorbox}
 ```
 
-- Work(s) that the moving image Work forms part of (e.g. series/serials, aggregations/compilations)
-
-Examples:
+*Work(s) that the moving image Work forms part of (e.g. series/serials, aggregations/compilations)*
 
 ```{=latex}
 \begin{tcolorbox}
@@ -998,9 +856,7 @@ Fiddlesticks, Ub Iwerks, 1930, episode of the animation series Flip the Frog (Ce
 \end{tcolorbox}
 ```
 
-- Work(s) that the moving image Work has a sequential relationship with (e.g. sequels, prequels, serials)
-
-Example:
+*Work(s) that the moving image Work has a sequential relationship with (e.g. sequels, prequels, serials)*
 
 ```{=latex}
 \begin{tcolorbox}
@@ -1010,9 +866,7 @@ The Godfather Part III Francis Ford Coppola (United States of America, 1972- 197
 \end{tcolorbox}
 ```
 
-- Work(s) about the moving image Work (e.g. documentary about the making of a feature film or TV programme)
-
-Examples:
+*Work(s) about the moving image Work (e.g. documentary about the making of a feature film or TV programme)*
 
 ```{=latex}
 \begin{tcolorbox}
@@ -1026,9 +880,7 @@ Reise nach Metropoli (Germany, 2009, Artem Demenok), documentary on the restorat
 \end{tcolorbox}
 ```
 
-- Work(s) that are promotional material of the moving image Work (e.g. Trailers)
-
-Example:
+*Work(s) that are promotional material of the moving image Work (e.g. Trailers)*
 
 ```{=latex}
 \begin{tcolorbox}
@@ -1036,9 +888,7 @@ Wuthering Heights (Film Trailer) (United States of America, 1939) is the trailer
 \end{tcolorbox}
 ```
 
-- Non-moving image Works that the moving image Work has a relationship with (e.g. Books, articles, scripts, posters, documents, etc)
-
-Examples:
+*Non-moving image Works that the moving image Work has a relationship with (e.g. Books, articles, scripts, posters, documents, etc)*
 
 ```{=latex}
 \begin{tcolorbox}
@@ -1064,8 +914,6 @@ The wicked lady (United Kingdom, 1945, Leslie Arliss), costume
 \end{tcolorbox}
 ```
 
-
-
 Record one or more “Other” relationship type terms to express the nature of the relationship to the Work/Variant, choosing the most specific term possible from a controlled list of values , for example, “based on,” “contained in,” etc. .
 A suggested list, which is open and not exhaustive, can be found in \nameref{sec:other_relationships_for_works_variants_manifestations_items}.
 
@@ -1077,17 +925,14 @@ Describe or demonstrate Work-to-Work relationships through linking to the Work i
 
 Remember, a Work based on a pre-existing Work should be identified as a Variant of the same Work unless it has been so significantly changed as to have become a new related Work.^[YCR, 1.1.7 Works based on previous works, pp. 24-25.] See \nameref{sec:boundaries_between_works} and \nameref{sec:boundaries_between_works_and_variants} for determining when a Work should be identified as a new, but related Work and when it should be identified as a Variant of the original Work.
 
-\subsubsection[Variants]{Variants  
-    \label{sec:variants}
-    } 
+\subsubsection{Variants}  
+\label{sec:variants} 
 
 Express the relationship between a moving image Work and a moving image Variant (e.g., Part/part of).
 Describe or demonstrate Work-to-Variant relationships through linking to the Work identifier, through the usage of relator terms, or according to the confines of your data structure.
 
-\subsubsection[Manifestations]{Manifestations  
-    \label{sec:manifestations}
-    } 
+\subsubsection{Manifestations}  
+\label{sec:manifestations}
 
 Express the relationship between a moving image Work or Variant and a moving image Manifestation (e.g., Part/part of).
 Describe or demonstrate Work-to-Manifestation relationships through linking to the Work identifier, through the usage of relator terms, or according to the confines of your data structure.
-

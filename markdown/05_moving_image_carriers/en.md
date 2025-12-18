@@ -1,13 +1,10 @@
 
 \newpage
-\section[Moving Image Carriers]{Moving Image Carriers 
-    \label{sec:moving_image_carriers}
-    } 
+\section{Moving Image Carriers} 
+\label{sec:moving_image_carriers} 
 
-\newpage
-\subsection[Definitions]{Definitions 
-    \label{sec:moving_image_carriers_definition}
-    } 
+\subsection{Definitions} 
+\label{sec:moving_image_carriers_definition} 
 
 A carrier of an Item is each individual reel, tape, or file that makes up the Item, e.g. a 4 reel film will have 4 Carrier records associated with the one Item, one for each reel.
 
