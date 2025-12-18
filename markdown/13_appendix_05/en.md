@@ -252,7 +252,7 @@ The treatment of the aggregate title may differ from institution to institution,
 There is the option of an institution using a devised/supplied title (see \nameref{sec:supplied_devised_titles}).
 
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Example]
+\begin{tcolorbox}
 Bond of fear ; Blackout \\
 Odeon Entertainment double feature: Bond of fear and Blackout [DVD double feature] \\
 Bond of fear and Blackout (double feature)
@@ -445,7 +445,7 @@ Similarly synopsis or notes fields can then be utilised to give full description
 More importantly, it is not always practical or feasible for many cataloguing systems to deal with creating records for non-moving image materials such as booklets, or text.
 
 ```{=latex}
-\begin{tcolorbox}[colframe=blue!50!white, colback=blue!10!white, coltitle=black, title=Example]
+\begin{tcolorbox}
 Charlie Chaplin. The Mutual films. Volume 1. \\
 Contains: 6 short Chaplin Mutual films – Behind the screen, The immigrant, Easy Street, The rink, The cure, The adventurer. Plus DVD extras: Topical Budget newsreel footage of Chaplin on voyage and visit back to Britain; filmed interview with Carl Davis [who did music soundtrack for the aggregate]; on-screen text biographies of Edna Purviance and Eric Campbell. Plus sleeve notes by Frank Scheide.
 \end{tcolorbox}
