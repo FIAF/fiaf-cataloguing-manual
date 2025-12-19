@@ -621,7 +621,7 @@ As mentioned previously, there is no rule within EN15907 as to the categories of
 Overlaps between use of Manifestations and Events, and Manifestation types and Event Publication types, have partly been due to some ambiguity within the EN15907 standard itself. But also, how the latter has been interpreted and evolved since it was conceived in order to deal with the nature and range of actual moving image material and technological developments, as well as the realities and practicalities for institutions using different cataloguing systems and databases, and user access needs.
 
 \setlength\extrarowheight{2pt} 
-\begin{xltabular}{\textwidth}{|L|L|L|}
+\begin{xltabular}{\textwidth}{|L|L|}
 \hline
 \textbf{Manifestation types} & 
 \textbf{Event Publication types} \\

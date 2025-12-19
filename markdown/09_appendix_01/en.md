@@ -178,7 +178,7 @@ Primary Title Types ^[For simplicity’s sake, this table does not present sub-t
 
 
 \setlength\extrarowheight{2pt} 
-\begin{xltabular}{\textwidth}{|L|L|L|}
+\begin{xltabular}{\textwidth}{|L|L|L|L|}
 \hline
 \textbf{Work} & 
 \textbf{Variant} & 
