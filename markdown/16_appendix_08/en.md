@@ -3,10 +3,87 @@
 \section{Elements of Description comparison} 
 \label{sec:elements_of_description_comparison}
 
-1991 FIAF Cataloguing Rules (ISBD based), EN 15907 and FIAF Moving Image Cataloguing
-Manual
+1991 FIAF Cataloguing Rules (ISBD based), EN 15907 and FIAF Moving Image Cataloguing Manual
 
 **Moving Image Work / Variant**
+
+
+\setlength\extrarowheight{2pt} 
+\begin{xltabular}{\textwidth}{|L|L|L|}
+\hline
+\cellcolor{gray!25} \textbf{FIAF Moving Image Cataloguing Manual} & 
+\cellcolor{gray!25} \textbf{EN 15907} & 
+\cellcolor{gray!25} \textbf{1991 FIAF Cataloguing Rules (ISBD based)} \\
+\hline
+\cellcolor{gray!10} \textbf{Attributes of the entity} & 
+\cellcolor{gray!10} \textbf{Attributes} &  
+\cellcolor{gray!10} \\
+\hline
+Description Type \begin{tabitemize} \item Analytic \item Monographic \end{tabitemize} & 
+descriptionLevel \begin{tabitemize} \item Analytic \item Monographic \end{tabitemize}  & 
+\\
+\hline
+\begin{tabitemize} \item Serial \item Collection \end{tabitemize} & 
+\begin{tabitemize} \item Serial \item Collection \end{tabitemize} & 
+Series Area  \\
+\hline
+Variant type \begin{tabitemize} \item Censored \item Dubbed \item Subtitled \item Abridged/Condensed \item Augmented \end{tabitemize} & 
+variantType & 
+Version/variation \\
+\hline
+\cellcolor{gray!10} Elements (including main attributes) & 
+\cellcolor{gray!10} Elements &  
+\cellcolor{gray!10} \\
+\hline
+Identifier & 
+Identifier (number) &  
+\\
+\hline
+Title \linebreak \textbf{Title type} \begin{tabitemize} \item Identifying \item Preferred \item Other title information \item Alternative \item Supplied/Devised \end{tabitemize} & 
+Identifying title (human readable) & 
+Title area \\
+\hline
+Country of reference & 
+Country of reference & 
+Production/distribution area \\
+\hline
+Year/Date & 
+Year of reference & 
+Production/distribution area \\
+\hline
+Language(s) & 
+Language & 
+Production/distribution area \\
+\hline
+Content description & 
+Content description & 
+Notes area \\
+\hline
+Notes & 
+& 
+Notes area \\
+\hline
+History & 
+& 
+Notes area \\
+\hline
+\cellcolor{gray!10} \textbf{Relationships (including main attributes)} & 
+\cellcolor{gray!10} \textbf{Allowed relationships} &  
+\cellcolor{gray!10} \\
+\hline
+Agents  Agent type (e.g. cast/credits) & 
+HasAgent & 
+Production/distribution area  \\
+\hline
+Events \linebreak \textbf{Event type} \begin{tabitemize} \item Publication \item Award(s) or Nomination(s) \item Production \item Rights/Copyright/IPR Registration Preservation (Variant) \item Decision (Variant) \end{tabitemize} & 
+HasEvent &
+Production/distribution area \linebreak Notes area \\
+\hline
+\end{xltabular} 
+
+
+
+
 
 \renewcommand{\arraystretch}{1.5}
 \begin{tabularx}{\textwidth}{|X|X|X|}
@@ -15,9 +92,9 @@ Manual
 \hline
 Attributes of the entity & Attributes &  \\
 \hline
-Description Type - Analytic - Monographic - Serial - Collection & descriptionLevel - Analytic - Monographic - Serial - Collection & Series Area  \\
+Description Type • Analytic - Monographic - Serial - Collection & descriptionLevel • Analytic - Monographic - Serial - Collection  & Series Area  \\
 \hline
-Variant type - Censored - Dubbed - Subtitled - Abridged/Condensed - Augmented & variantType & Version/variation area \\
+Variant type - Censored - Dubbed - Subtitled - Abridged/Condensed - Augmented & variantType & Version/variation area \\ 
 \hline
 Elements (including main attributes) & Elements &  \\
 \hline
