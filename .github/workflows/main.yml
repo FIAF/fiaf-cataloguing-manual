@@ -14,6 +14,12 @@ jobs:
       run: git branch
     - name: temp
       run: docker version
+    - name: docker image
+      run: cd src && docker compose up -d
+    - name: build process
+      run: docker exec manual /app/src/build.sh
+    - name: temp
+      run: ls -al
 
     #- name: install required apps
     #  run: sudo apt install pandoc texlive-xetex fossil fonts-firacode librsvg2-bin
