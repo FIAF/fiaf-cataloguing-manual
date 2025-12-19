@@ -18,25 +18,16 @@ jobs:
       run: docker exec manual /app/src/build.sh
     - name: temp
       run: ls -al src
+    - name: install b2sdk
+      run: pip3 install b2sdk
+    - name: run python script
+      env:
+        BACKBLAZE_APP_KEY: ${{ secrets.BACKBLAZE_APP_KEY }}
+        BACKBLAZE_APP_KEY_ID: ${{ secrets.BACKBLAZE_APP_KEY_ID }}
+        BRANCH_NAME: ${{ github.ref }}
+      run: python3 src/blaze.py
 
-    #- name: install required apps
-    #  run: sudo apt install pandoc texlive-xetex fossil fonts-firacode librsvg2-bin
-    #- name: install font
-    #  run: cp -r src/font/ /usr/share/fonts/BrownStd
-    #- name: remove render dir
-    #  run: rm -rf src/render
-    #- name: remake render dir
-    #  run: mkdir src/render
-    #- name: run script
-    #  run: cd src && ./test.sh
-    #- name: install b2sdk
-    #  run: pip3 install b2sdk
-    #- name: run python script
-    #  env:
-    #    BACKBLAZE_APP_KEY: ${{ secrets.BACKBLAZE_APP_KEY }}
-    #    BACKBLAZE_APP_KEY_ID: ${{ secrets.BACKBLAZE_APP_KEY_ID }}
-    #    BRANCH_NAME: ${{ github.ref }}
-    #  run: python3 src/blaze.py
+
     #- name: remove render dir
     #  run: rm -rf src/render
     #- name: update readme link

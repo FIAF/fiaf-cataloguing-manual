@@ -16,24 +16,15 @@ b2_api = B2Api(info)
 b2_api.authorize_account("production", APP_KEY_ID, APP_KEY)
 
 buck = b2_api.get_bucket_by_name("cataloguing-manual")
-buck.upload_local_file(pathlib.Path.cwd() / 'src' / 'render' / 'manual_en.pdf', PDF_NAME)
+buck.upload_local_file(pathlib.Path.cwd() / 'src' / 'manual.pdf', PDF_NAME)
 link = buck.get_download_url(PDF_NAME)
-
-# insert link into README.
-
-print(link)
+print('@@@', link)
 
 
 
-with open(pathlib.Path.cwd() / 'src' / 'template.md') as readme_in:
-  readme_in = readme_in.read().replace('PDF_LINK', link)
-  
-
-with open(pathlib.Path.cwd() / 'README.md', 'w') as readme_out:
-  readme_out.write(readme_in)
+#with open(pathlib.Path.cwd() / 'src' / 'template.md') as readme_in:
+#  readme_in = readme_in.read().replace('PDF_LINK', link)
 
 
-
-
-
-
+#with open(pathlib.Path.cwd() / 'README.md', 'w') as readme_out:
+#  readme_out.write(readme_in)
