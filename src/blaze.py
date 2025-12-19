@@ -16,7 +16,11 @@ b2_api = B2Api(info)
 b2_api.authorize_account("production", APP_KEY_ID, APP_KEY)
 
 buck = b2_api.get_bucket_by_name("cataloguing-manual")
-buck.upload_local_file(pathlib.Path.cwd() / 'src' / 'manual.pdf', PDF_NAME)
+manual_path = pathlib.Path.cwd() / 'src' / 'manual2.pdf'
+if not manual_path.exists():
+    raise Exception('Manual render not found.')
+
+buck.upload_local_file(manual_path, PDF_NAME)
 link = buck.get_download_url(PDF_NAME)
 print('@@@', link)
 

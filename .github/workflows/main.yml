@@ -16,26 +16,11 @@ jobs:
       run: cd src && docker compose up -d
     - name: build process
       run: docker exec manual /app/src/build.sh
-    - name: temp
-      run: ls -al src
     - name: install b2sdk
       run: pip3 install b2sdk
-    - name: run python script
+    - name: run blaze script
       env:
         BACKBLAZE_APP_KEY: ${{ secrets.BACKBLAZE_APP_KEY }}
         BACKBLAZE_APP_KEY_ID: ${{ secrets.BACKBLAZE_APP_KEY_ID }}
         BRANCH_NAME: ${{ github.ref }}
       run: python3 src/blaze.py
-
-
-    #- name: remove render dir
-    #  run: rm -rf src/render
-    #- name: update readme link
-    #  run: |
-    #    git config user.name 'github-actions[bot]'
-    #    git config user.email 'github-actions[bot]@users.noreply.github.com'
-    #    git add *
-    #    if ! git diff --quiet; then
-    #      git commit -a -m "pdf generated"
-    #      git push
-    #    fi
