@@ -6,7 +6,7 @@ header-includes:
   - \usepackage{xcolor}
 ---
 
-![](../src/diagrams/front.png)
+![](/app/src/diagrams/front.png)
 
 \newpage
 \section*{Dedication}
@@ -228,10 +228,10 @@ Where there is a user need or requirement, some institutions may also develop da
 The full list of elements of description for each entity is set out in the following charts and diagrams, and in Chapters 1-3.
 See Appendix I, Examples of records containing core elements in the different levels of hierarchy for examples of real records which contain these core elements (as well as others) across the hierarchies.
 
-![](../src/diagrams/0.2.1-A.png)
-![](../src/diagrams/0.2.1-B.png)
-![](../src/diagrams/0.2.1-C.png)
-![](../src/diagrams/0.2.1-D.png)
+![](/app/src/diagrams/0.2.1-A.png)
+![](/app/src/diagrams/0.2.1-B.png)
+![](/app/src/diagrams/0.2.1-C.png)
+![](/app/src/diagrams/0.2.1-D.png)
 
 \newpage
 *Work/Manifestation/Item.
