@@ -1,15 +1,22 @@
+---
+colorlinks: true
+linkcolor: orange
+urlcolor: teal
+header-includes:
+  - \usepackage{xcolor}
+---
 
-![](../src/diagrams/front.png)
+![](/app/src/diagrams/front.png)
 
-# Dedication \label{sec:dedication}
+\newpage
+\section*{Dedication}
+\label{sec:dedication}
     
-
-
 This manual is dedicated to Christian Dimitriu (1945-2016), whose contributions to the field of moving image archiving and FIAF, are immeasurable; and to Ronny Loewy (1946-2012), whose knowledge of moving image metadata standards was a primary and crucial source of information during the development of this publication; and to Laurent Bismuth (1965-2021), a passionate advocate of CEN 15907 standard whose extensive cataloguing knowledge and expertise and contributions in discussions during the compilation of this publication were invaluable.
 
 \newpage
-\section{Acknowledgements}
-\label{sec:manual-acknowledgements}
+\section*{Acknowledgements}
+\label{sec:acknowledgements}
 
 This manual is a result of the combined efforts of many professionals to whom we owe our gratitude.
 
@@ -19,7 +26,7 @@ Many professionals from the FIAF Cataloguing Rules Revision Working Group gracio
 A special thanks to Laurent Bismuth, Georg Eckes, and Detlev Balzer for their thoughtful suggestions for improvement.
 We also appreciate Detlev for hosting the FIAF Cataloguing and Documentation Commission (CDC) wiki on his filmstandards.org website.
 
-Several of the illuminating charts and examples, and other formatting needs (such as URLs) were kindly handled by Marian Hausner, Mats Skärstrand, and Michael Campos-Quinn.
+Several of the illuminating charts and examples, and other formatting needs (such as URLs) were kindly handled by Marian Hausner, Mats Skärstrand, and Miriam Campos-Quinn.
 Marian Hausner also did a painstaking job constructing the bibliography.
 
 This work could not have been done without the support and guidance of the British Film Institute who contributed institutional policies and documents for our use.
@@ -36,12 +43,15 @@ Natasha Fairbairn (Co-author)
 Maria Assunta Pimpinelli (Co-author ; co-Chair, FIAF Rules Revision)     
 Thelma Ross (Co-author ; co-Chair, FIAF Rules Revision)
 
+\newpage 
+\tableofcontents
+
 \newpage
 \section{Introduction}
-\label{sec:manual-introduction}
+\label{sec:introduction}
 
 The archival moving image field has changed dramatically in recent years, with technological advances revolutionising cataloguing, preservation, and access practices.
-To help cataloguers and archivists respond to these changes, FIAF presents the _FIAF Moving Image Cataloguing Manual (FIAF Manual)_, a revision of the 1991 *FIAF Cataloguing Rules for Film Archives (FIAF Rules)*.
+To help cataloguers and archivists respond to these changes, FIAF presents the *FIAF Moving Image Cataloguing Manual (FIAF Manual)*, a revision of the 1991 *FIAF Cataloguing Rules for Film Archives (FIAF Rules)*.
 These new guidelines, created by the FIAF Cataloguing and Documentation Commission and the FIAF Cataloguing Rules Revision Working Group, will help cataloguers create cataloguing or metadata records that will meet requirements of new database technologies and new metadata standards while remaining compatible with older methods and standards.
 
 The Manual offers primarily descriptive cataloguing rules rather than a schema of data elements.
@@ -83,58 +93,49 @@ They cover the fundamentals for cataloguers for the construction and management 
 
 While these guidelines are intended to be applicable to all forms of moving image materials, archives with extensive broadcasting collections may wish to look to broadcasting-specific metadata schemas such as EBUCore^[[https://tech.ebu.ch/MetadataEbuCore](https://tech.ebu.ch/MetadataEbuCore)] and PBCore^[[http://pbcore.org/](http://pbcore.org/)] for additional guidance.
 
-
-<u>**FRBR-based CEN Terms in Brief**</u>
+**FRBR-based CEN Terms in Brief**
 
 These guidelines use the terminology of CEN Cinematographic Works Standards for terms reflecting the core structuring of moving image records - namely Work, Variant, Manifestation and Item.
 It is worthwhile providing brief definitions for preliminary guidance here (whilst FRBR is discussed in more depth in [Appendix F.3 Relationship of FIAF Cataloguing Rules to Functional Requirements of Bibliographic Records](#manual-F.3))
 
-**Work**
+*Work*
 
 An entity comprising the intellectual or artistic content and the process of realisation in a cinematographic medium, e.g., what the moving image is called, when it was made, who made it, who was in it, what it is about, etc. This core information usually does not change throughout any Variant or Manifestation.
 
-**Variant**
+*Variant*
 
 An entity that may be used to indicate any change to content-related characteristics that do not significantly change the overall content of a Work as a whole.
 This is similar to a Work since it does not yet describe physical or digital embodiments of the content.
 For example: A film edited for television broadcast will contain most of the content of the original Work, but have some parts edited out.
 
-**Manifestation**
+*Manifestation*
 
 The embodiment of a moving image Work/Variant.
 Manifestations include all analogue, digital and online media.
 Manifestation information can include a description of what the particular Manifestation should ideally contain, regardless of the Items held in the archive.
 For example: The original release running time of a film is 1:30:00, but the Item held at the archive is missing footage so is shorter.
 
-**Item**
+*Item*
 
 The physical product of a Manifestation of a Work or Variant, i.e. the physical copy of a Work or Variant.
 An Item may consist of one or more components, i.e. the whole Item may consist of 1 reel or 5 reels, 2 VHS tapes or 1 DVD.
 An Item record may contain fields or scope for separate barcodes and condition information for each component of the item (each reel for example) if required.The Item may be whole or incomplete or a fragment.
 In the case of purely digital media, an Item is defined as the availability of the computer file, irrespective of the number of backup copies that may exist.^[Taken from EN15907. Item – Definition from the standard. [http://filmstandards.org/fsc/index.php/EN_15907_Item](http://filmstandards.org/fsc/index.php/EN_15907_Item)]
 
-
-\newpage \tableofcontents
-
 \newpage
-\section[Preliminary Notes]{Preliminary Notes 
-    \label{sec:preliminary_notes}
-    } 
+\section{Preliminary Notes}
+\label{sec:preliminary_notes}
 
-\newpage
-\subsection[Purpose, scope, and use]{Purpose, scope, and use 
-    \label{sec:purpose_scope_and_use}
-    } 
-
-\subsubsection[Purpose]{Purpose 
-    \label{sec:purpose}
-    } 
+\subsection{Purpose, scope, and use} 
+\label{sec:purpose_scope_and_use}
+    
+\subsubsection{Purpose} 
+\label{sec:purpose}
 
 The primary purposes of the FIAF Manual are to suggest recommendations for the description and identification of moving images (with an emphasis on archival moving images), and to define the elements of description to facilitate the exchange of information.
 
-\subsubsection[Scope]{Scope 
-    \label{sec:scope}
-    } 
+\subsubsection{Scope} 
+\label{sec:scope}
 
 The manual is designed for use by institutions with moving image collections and cataloguers of moving images as a guide in the preparation of cataloguing records or descriptive metadata.
 The recommendations apply to generalised film and television collections, and may require elaboration in more specialised institutions whose holdings are exclusively of a single format or type, e.g., commercials, newsfilm, television, unedited footage, etc. For example, those with television collections should additionally consider more specific standards such as EBUcore or PBcore,
@@ -146,10 +147,9 @@ The definition includes moving images of all types, e.g., features, shorts, news
 While many moving image archives also have audio materials in their collections, this manual does not offer detailed guidance for describing audio media.
 However, the Manual does provide ways to describe physical and technical characteristics of analogue and digital audio Items to assist with collection and preservation management.
 
-\subsubsection[Use]{Use 
-    \label{sec:use}
-    } 
-
+\subsubsection{Use} 
+\label{sec:use}
+    
 Instead of defining levels of cataloguing, this manual outlines core elements for moving image description.
 The core elements provide the basis for identification of a resource and for facilitating the exchange of data from one system to another.
 These are not “core” elements in the sense of a Dublin Core, EBUCore, or PBCore schema, but are rather intended to illustrate common elements that are used in describing moving images and are referenced in the rules outlined in this manual.
@@ -163,28 +163,45 @@ Institutions are encouraged to include as many of the non-core elements as goals
 None are considered mandatory by these guidelines, but an institution may require that some are mandatory for internal purposes.
 
 \subsection[Core elements of description]{Core elements of description 
-    \footnote {Adapted from CEN TC 372 EN 15744 element set} 
-    \label{sec:core_elements_of_description}
-    } 
+\footnote{Adapted from CEN TC 372 EN 15744 element set}}
+\label{sec:core_elements_of_description}
 
 These core points of description are listed with their corresponding terms as presented in the manual.
 They represent an ideal minimum set of metadata for moving image cataloguing.
 
-| CORE CONCEPT | TOP-LEVEL ELEMENT | SUB-ELEMENT|
-| -- | -- | -- |
-|Title | 1.3.2 Title [Work] | -- |
-| Series / Serial^[EN15744 definitions “A series is a group of separate items related to one another by the fact that each item bears, in addition to its own title, a collective title applying to the group as a whole. A serial is a type of “short subject” work which is characterized principally by the episodic development of a story”. This Core Concept is referencing the name of another Work that a Work may be “part of”, where the latter has been conceived within the context/intention of being an element of a Series or Serial. It is not being used here as a Work/Variant Description Type. (See D.1 Work/Variant Description Types)] | 1.3.2 Title [Work] | 1.3.2.1 Title Type = Series/Serial [Work] |
-| Cast | 1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) [Work] | 1.4.1.1 Agent Activity = Cast [Work] |
-| Credits (including Production Companies) | 1.4.1 Agents [Work] | 1.4.1.1 Agent Activity = Credit (use term for actual role) [Work] |
-| Country of Reference | 1.3.3 Country of reference [Work] | |
-| *Original Format | 2.3.4 Format of a moving image Manifestation [Manifestation] | 2.3.4.1.2 Specific Carrier Type: [Manifestation] |
-| *Original Length | 2.3.5 Extent of a Manifestation [Manifestation] | 2.3.5.2 Physical extent of a Manifestation |
-| *Original Duration | 2.3.5 Extent of a Manifestation [Manifestation] | 2.3.5.3 Duration of a Manifestation |
-| *Original Language | 1.3.5 Language(s) [Work] | 1.3.5.1 Language Term + 1.3.5.2 Usage type [Work] |
-| Year of Reference | 1.3.4 Year/Date of reference [Work] | 1.3.4.1 Date Type [Work] |
-| Identifier | As appropriate: 1.3.1 Work/Variant Identifier [Work/Variant] &/OR 2.3.1 Identifier [Manifestation] &/OR 3.1.1 Identifier [Item] | As appropriate: 1.3.1.1 Identifier Type [Work/Variant] &/OR 2.3.1.1 Identifier Type [Manifestation] &/OR 3.1.1.1 Identifier Type [Item] |
-| Subject/Genre/Form^[Form = Fiction, Non-fiction, etc. Some institutions may incorporate these as a genre term, whilst others may have them as a separate category to genre.] | 1.4.3 Subject/Genre/Form terms [Work] | |
-| Content Description | 1.3.6 Content description (synopses, shotlists, etc) | |
+
+\renewcommand{\arraystretch}{1.5}
+\begin{tabularx}{\textwidth}{|X|X|X|}
+\hline
+\textbf{CORE CONCEPT} & \textbf{TOP-LEVEL ELEMENT} & \textbf{SUB-ELEMENT} \\
+\hline
+Title & 1.3.2 Title [Work] & --  \\
+\hline
+Series / Serial \footnote{EN15744 definitions “A series is a group of separate items related to one another by the fact that each item bears, in addition to its own title, a collective title applying to the group as a whole. A serial is a type of “short subject” work which is characterized principally by the episodic development of a story”. This Core Concept is referencing the name of another Work that a Work may be “part of”, where the latter has been conceived within the context/intention of being an element of a Series or Serial. It is not being used here as a Work/Variant Description Type. (See D.1 Work/Variant Description Types)} & 1.3.2 Title [Work] & 1.3.2.1 Title Type = Series/Serial [Work]  \\
+\hline
+Cast & 1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) [Work] & 1.4.1.1 Agent Activity = Cast [Work]  \\
+\hline
+Credits (including Production Companies) & 1.4.1 Agents [Work] & 1.4.1.1 Agent Activity = Credit (use term for actual role)  [Work] \\
+\hline
+Country of Reference & 1.3.3 Country of reference [Work] &  \\
+\hline
+*Original Format & 2.3.4 Format of a moving image Manifestation [Manifestation] & 2.3.4.1.2 Specific Carrier Type: [Manifestation]  \\
+\hline
+*Original Length & 2.3.5 Extent of a Manifestation [Manifestation] & 2.3.5.2 Physical extent of a Manifestation  \\
+\hline
+*Original Duration & 2.3.5 Extent of a Manifestation [Manifestation] & 2.3.5.3 Duration of a Manifestation  \\
+\hline
+*Original Language & 1.3.5 Language(s) [Work] & 1.3.5.1 Language Term + 1.3.5.2 Usage type [Work]  \\
+\hline
+Year of Reference & 1.3.4 Year/Date of reference [Work] & 1.3.4.1 Date Type [Work]  \\
+\hline
+Identifier & As appropriate: 1.3.1 Work/Variant Identifier [Work/Variant] AND/OR 2.3.1 Identifier [Manifestation] AND/OR 3.1.1 Identifier [Item] & As appropriate: 1.3.1.1 Identifier Type [Work/Variant] AND/OR 2.3.1.1 Identifier Type [Manifestation] AND/OR 3.1.1.1 Identifier Type [Item]  \\
+\hline
+Subject/Genre/Form \footnote{Form = Fiction, Non-fiction, etc. Some institutions may incorporate these as a genre term, whilst others may have them as a separate category to genre.} & 1.4.3 Subject/Genre/Form terms [Work] &  \\
+\hline
+Content Description & 1.3.6 Content description (synopses, shotlists, etc) &  \\
+\hline
+\end{tabularx}
 
 The concept of “original” in this manual indicates the first known manifestation of the Work, which is not determined by its release status.
 The concept of “original” must be flexible enough to be applied to released and unreleased Works.
@@ -199,10 +216,9 @@ NOTE: For exchanging data, indicating the origin of the record is important (i.e
 This data is typically located in a dedicated field at the Work level and automatically generated by electronic systems.
 This corresponds to CEN EN 15907, 6.2 – Record Source.
 
-\subsubsection[Elements of description across Works, Variants, Manifestations, and Items]{Elements of description across Works, Variants, Manifestations, and Items 
-    \label{sec:elements_of_description}
-    } 
-
+\subsubsection{Elements of description across Works, Variants, Manifestations, and Items} 
+\label{sec:elements_of_description}
+    
 This section includes sample structures for how the elements can be applied across Works, Variants, Manifestations, and Items.
 Four models are provided, beginning with the more complete four-level model and ending with a simple one-level model.
 Models should be applied according to an institution’s system and also determined by the amount of information known about an Item.
@@ -212,29 +228,45 @@ Where there is a user need or requirement, some institutions may also develop da
 The full list of elements of description for each entity is set out in the following charts and diagrams, and in Chapters 1-3.
 See Appendix I, Examples of records containing core elements in the different levels of hierarchy for examples of real records which contain these core elements (as well as others) across the hierarchies.
 
-![](../src/diagrams/0.2.1-A.png)
-![](../src/diagrams/0.2.1-B.png)
-![](../src/diagrams/0.2.1-C.png)
-![](../src/diagrams/0.2.1-D.png)
+![](/app/src/diagrams/0.2.1-A.png)
+![](/app/src/diagrams/0.2.1-B.png)
+![](/app/src/diagrams/0.2.1-C.png)
+![](/app/src/diagrams/0.2.1-D.png)
 
 \newpage
-**Work/Manifestation/Item.
-Properties expressed in one record, with abstracts, contextual and object data stored in a single level hierarchy Distribution of the elements of description according to the four entities order**
+*Work/Manifestation/Item.
+Properties expressed in one record, with abstracts, contextual and object data stored in a single level hierarchy Distribution of the elements of description according to the four entities order.*
 
-| Properties | (Work) | (Manifestation) | (Item) |
-| -- | -- | -- | -- |
-| Titles | Uniform, Preferred, Other Title information, Alternative, Supplied/Devised | Title proper | Title proper |
-| Part | Monographic, Analytic, Serial, Collection | | |
-| Content | Categories: fiction/non fiction; genre, synopsis, subject, etc. | | |
-| Dates/Events | Creation, Production, Censorship, Copyright | Release, manufacture, transmission, distribution, etc. | Object creation, acquisition, accession, de-accession, loan, transport, etc. |
-| Agents | Cast, credits, rights holders, creator, etc. | Distributor, broadcaster, publisher | Donor, Archive/archivist, technician, restorer, etc. |
-| Rights context | Copyright holder and date | Platforms, territories, dates. Agents (distributors, license holder) | Transfer of ownership |
-| Event types | Awards Censorship Production IPR registration | Pre-release, theatrical, non-theatrical, transmission, home viewing, internet, not for release, censorship etc. | Acquisition Reproductions Disposal |
-| Format general | | 35mm film, digital cinema, blu ray, etc. | |
-| Format specific | | | 16mm film pos, 35mm lavender separation, ProRes422 HQ, etc. |
-| Condition report | | | Pristine, not for projection, heavy scratches, etc. |
-| Storage location | | | Home location, current location, previous location || 
-| Conservation recommendations | | | Urgent transfer required, relocate sub-zero, etc. |
+\renewcommand{\arraystretch}{1.5}
+\begin{tabularx}{\textwidth}{|X|X|X|X|}
+\hline
+\textbf{Properties} & \textbf{(Work)} & \textbf{(Manifestation)} & \textbf{(Item)} \\
+\hline
+Titles & Uniform, Preferred, Other Title information, Alternative, Supplied/Devised & Title proper & Title proper \\
+\hline
+Part & Monographic, Analytic, Serial, Collection & & \\
+\hline
+Content & Categories: fiction/non fiction; genre, synopsis, subject, etc. & & \\
+\hline
+Dates/Events & Creation, Production, Censorship, Copyright & Release, manufacture, transmission, distribution, etc. & Object creation, acquisition, accession, de-accession, loan, transport, etc. \\
+\hline
+Agents & Cast, credits, rights holders, creator, etc. & Distributor, broadcaster, publisher & Donor, Archive/archivist, technician, restorer, etc. \\
+\hline
+Rights context & Copyright holder and date & Platforms, territories, dates. Agents (distributors, license holder) & Transfer of ownership \\
+\hline
+Event types & Awards Censorship Production IPR registration & Pre-release, theatrical, non-theatrical, transmission, home viewing, internet, not for release, censorship etc. & Acquisition Reproductions Disposal \\
+\hline
+Format general & & 35mm film, digital cinema, blu ray, etc. & \\
+\hline
+Format specific & & & 16mm film pos, 35mm lavender separation, ProRes422 HQ, etc. \\
+\hline
+Condition report & & & Pristine, not for projection, heavy scratches, etc. \\
+\hline
+Storage location & & & Home location, current location, previous location  \\
+\hline
+Conservation recommendations & & & Urgent transfer required, relocate sub-zero, etc. \\
+\hline
+\end{tabularx}
 
 \subsection[Sources of Information]{Sources of Information
     \label{sec:prelim_sources_of_information}
@@ -264,7 +296,6 @@ c) the director (or other crew/cast members) involved in the production of the m
 
 d) an eye-readable label bearing a title that is permanently printed on or affixed to the resource (excluding accompanying textual material or a container)^[Adapted from RDA 2.2.2.3 Resources Consisting of Moving Images]
 
-
 ```{=latex}
 \begin{tcolorbox}
 Title derived from film opening credits.
@@ -283,40 +314,36 @@ g) other published descriptions of the resource (e.g. a reference source, websit
 
 h) any other available source (including family or colleagues of crew/cast members with information.)^[Ibid.]
 
-
 Access to sources of information has increased massively in the 21st century, particularly with the World Wide Web.
 
 This means it is particularly important for the cataloguer to consider the authority and context of the source before utilising information from it, e.g. whose website is it and where did their information come from?
 
 As far as possible use authoritative secondary sources, e.g. official websites for a film, press packs, published catalogues and directories, and data from other Archives accessible databases, websites, or publications, who may have researched and created records for the moving image already. Sources may also include other non-moving image collections held by your institution, such as special collections of papers, books, newspaper cuttings, stills, posters, etc.
 
-The number of websites stating the same “fact” is not a safe indicator. Websites copy off each other and it is easy for an erroneous fact to be perpetuated across multiple websites.  [Create FOOTNOTE which links to BFI record for Richard Greene https://collections-search.bfi.org.uk/web/results ] The cataloguer needs to assess, balance, and judge accuracy, e.g. IMDB and Wikipedia can be good for information, but they also allow submissions and changes from the public so it is not necessarily always accurate.
+The number of websites stating the same “fact” is not a safe indicator. Websites copy off each other and it is easy for an erroneous fact to be perpetuated across multiple websites^[See the name note on the [BFI record for Richard Greene](https://collections-search.bfi.org.uk/web/Details/People/177651)]. The cataloguer needs to assess, balance, and judge accuracy, e.g. IMDB and Wikipedia can be good for information, but they also allow submissions and changes from the public so it is not necessarily always accurate.
 
-When taking details and information from secondary source materials then cite those sources, either in relevant notes fields on a record as a cataloguer's note [insert internal link to Appendix B Cataloguer's Notes], or linking to a related non-moving image collection record within your institution's database systems if relevant, e.g. a related associative link to a book record or periodical article record. 
+When taking details and information from secondary source materials then cite those sources, either in relevant notes fields on a record as a \nameref{sec:cataloguers_notes}, or linking to a related non-moving image collection record within your institution's database systems if relevant, e.g. a related associative link to a book record or periodical article record. 
 
 If citing websites take a note of the full title and author where relevant, not just the URL link. The latter can change or the website become defunct over time, so fuller precise details are advisable.
 
-In instances where Primary source data relating to on-screen titles and credits, or embedded metadata is verfied as erroneous and incorrect through other Primary or authoritative Secondary sources then details of this should be added to a Work History or Notes field on the Work. For example:
+In instances where Primary source data relating to on-screen titles and credits, or embedded metadata is verfied as erroneous and incorrect through other Primary or authoritative Secondary sources then details of this should be added to a Work History or Notes field on the Work.
 
-PUT THIS INTO EXAMPLE FORMAT:
-
+```{=latex}
+\begin{tcolorbox}
 Il vangelo secondo Matteo (Italy, 1964)
+\end{tcolorbox}
+```
 
 Work History note: The credits in the opening titles on actual prints of the film give 'Alessandro Clerici' as playing the role of Pontius Pilate. However, he was in fact played by Alessandro Tasca (aka Alessandro Tasca di Cutò). Verified by his daughter Ama Tasca di Cutò in correspondence with the BFI (February 2020)  and further researched by the BFI in conjunction with Cineteca Bologna. Alessandro Tasca also discusses his taking on the role of Pilate in Pasolini's film, and his fee for the day's work, in correspondence with Orson Welles (housed at the University of Michigan). Distribution information from c.1964/65 from UniItalia in Rome and from other English distribution companies of the film in the 1960s also cite 'Alessandro Tasca' as the credit for Pontius Pilate.
 
-
-
-
-\subsection[Display issues]{Display issues
-    \label{sec:display_issues}
-    } 
-
+\subsection{Display issues}
+\label{sec:display_issues}
+  
 Although these guidelines are primarily focused on content, many users may also welcome some guidance in data presentation.
 Section 0.4 gathers some of the common display questions with recommendations.
 
-\subsubsection[Punctuation]{Punctuation
-    \label{sec:punctuation}
-    } 
+\subsubsection{Punctuation}
+\label{sec:punctuation}
 
 These guidelines do not mandate the use of any particular data presentation standard, such as ISBD punctuation.
 However, ISBD punctuation is recommended if punctuation guidance is desired.
@@ -324,20 +351,17 @@ Please consult ISBD^[[http://www.ifla.org/files/assets/cataloguing/isbd/isbd-con
 
 These guidelines do advocate consistent usage where punctuation is needed as a cataloguing construction, for example, to separate Form elements in the creation of Partially or Fully Supplied/Devised Titles e.g.
 
-Example:
-
 ```{=latex}
 \begin{tcolorbox}
-Jaws. Rushes
+Jaws. Rushes.
 \end{tcolorbox}
 ```
 
 For transcribed elements, record punctuation as found.
 For all other elements, record punctuation as found on the source(s) of information.
 
-\subsubsection[Capitalisation and Articles]{Capitalisation and Articles
-    \label{sec:capitalisation_and_articles}
-    } 
+\subsubsection{Capitalisation and Articles}
+\label{sec:capitalisation_and_articles}
 
 Some institutions render Work titles in capitals – all upper-case – as a simple typographical method of identifying these key items of information, while others only capitalise the first letter of a title, in accordance with ISBD.
 Either usage is permitted by these guidelines, although institutions may prefer to retain the conventional practice of capitalising only the first letter of a title and any proper names as dictated by the usage of the language in which the information is given.
@@ -352,11 +376,10 @@ While the guidelines permit both cases, it is recommended where permitted now or
 Leading articles should ideally be placed in separate fields in keeping with the way systems are being developed for alphabetical sorting.
 Alternatively some systems (for example, those containing MARC21 records) indicate the number of non-filing characters to skip in alphabetization.
 
-Examples:
+Alternative practices | ISBD practice
 
 ```{=latex}
 \begin{tcolorbox}
-Alternative practices | ISBD practice:   \\ 
 Die Hard | Die hard    \\
 Die DREIGROSCHENOPER | Die Dreigroschenoper    \\
 LES PATTERSON SAVES THE WORLD | Les Patterson saves the world     \\
@@ -365,16 +388,16 @@ American in Paris, An | An American in Paris
 \end{tcolorbox}
 ```
 
+MARC21 tag
+
 ```{=latex}
 \begin{tcolorbox}
-MARC21 tag example:\\
 245 03 An American in Paris
 \end{tcolorbox}
 ```
 
-\subsection[Language and script of the description]{Language and script of the description
-    \label{sec:language_and_script_of_the_description}
-    } 
+\subsection{Language and script of the description}
+\label{sec:language_and_script_of_the_description} 
 
 The language of the original Work can be different from the language of a Manifestation or Item.
 For example, the original Work title can be in the original creation language, but the item being catalogued is a Variant with the title and key credits in a different language.
@@ -389,8 +412,6 @@ Use a recognised standard for transliteration such as [ISO 9 for Cyrillic charac
 Give an explanatory note for the addition, if necessary.
 Optionally, enclose the cataloguer’s description in square brackets.
 
-Example:
-
 ```{=latex}
 \begin{tcolorbox}
 Original Chinese Title: 精武英雄    \\
@@ -399,17 +420,15 @@ English Translated Title: Fist of Legend
 \end{tcolorbox}
 ```
 
-\subsection[Abbreviations]{Abbreviations 
-    \label{sec:abbreviations}
-    } 
+\subsection{Abbreviations} 
+\label{sec:abbreviations}
 
 For transcribed data elements, transcribe abbreviations as found.
 For all other elements, generally do not abbreviate words.
 Optionally, additional non-preferred title types may also be added to assist in user searching and accessibility (see \nameref{sec:titles_and_title_types}).
 
-\subsection[Examples]{Examples 
-    \label{sec:examples}
-    } 
+\subsection{Examples} 
+\label{sec:examples}
 
 The examples given throughout the guidelines are illustrative and not prescriptive (unless stated otherwise).
 They follow The Chicago manual of style^[University of Chicago. 2003. The Chicago manual of style. Chicago, Ill: University of Chicago Press.] for the sake of consistency.
@@ -420,16 +439,13 @@ Examples of complete entries may be found in \nameref{sec:examples_of_records}.
 Examples of the elements of description in different data structures are shown in \nameref{sec:elements_of_description_comparison}.
 The bibliography follows ISO 690.
 
-\subsection[Errors]{Errors 
-    \label{sec:errors}
-    } 
+\subsection{Errors} 
+\label{sec:errors}
 
 As these guidelines recognise the importance of researched information in the catalogue entry, unintentional errors or inaccuracies from the Item should not be reproduced at the Work or Variant levels.
 
 Begin with what the source of information says and correct it only when it is known to be ambiguous or erroneous.
 Correction must be done in such a way that the resource remains recognisable to the users unaware of the error.^[YCR, Principle 3, p.4.] For example, AACR2 recommends transcribing the error followed by “sic” and sometimes the correct text in square brackets.
-
-Example:
 
 ```{=latex}
 \begin{tcolorbox}
@@ -449,8 +465,6 @@ Title (Item): À bout de souflee [souffle]
 
 In RDA, the title is provided as transcribed without a recognition of the misspelling, with the correct title added in a secondary set of Title and Title Type fields (see \nameref{sec:alternative_title_types}) and a Note explaining the misspelling.
 
-Example:
-
 ```{=latex}
 \begin{tcolorbox}
 Title (Work): À bout de souffle    \\
@@ -465,17 +479,14 @@ Missing information required to understand and identify a Manifestation, Variant
 
 Record intentionally misspelled words as found.  
 
-Example:
-
 ```{=latex}
 \begin{tcolorbox}
 Title (Work): Inglorious Basterds
 \end{tcolorbox}
 ```
 
-\subsection[Alternatives and options]{Alternatives and options 
-    \label{sec:alternatives_and_options}
-    } 
+\subsection{Alternatives and options} 
+\label{sec:alternatives_and_options} 
 
 Certain of the individual guidelines or parts of guidelines in this manual are introduced by the words, “alternatively” or “optionally.” Optional provisions arise from the recognition that different solutions to a problem and differing levels of detail and specificity are appropriate in different contexts.
 Some alternatives and options should be decided as a matter of cataloguing policy for a particular catalogue or archive and should therefore be exercised either always or never.
@@ -490,4 +501,3 @@ Such judgments must be applied consistently within a particular context and must
 
 In addition, adherence to these structures and standards may not be wholly appropriate or possible for some institutions, given the differences in current practice, available cataloguing tools, and other issues.
 An attempt has been made to design guidelines that can be applied where feasible, but which are not meant to be prescriptive.
-

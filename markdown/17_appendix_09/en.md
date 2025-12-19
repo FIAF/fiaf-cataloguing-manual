@@ -1,1316 +1,394 @@
 
+
 \newpage
-\section[Examples of records containing core elements in the different levels of hierarchy]{Examples of records containing core elements in the different levels of hierarchy 
-    \label{sec:examples_of_records}
-    } 
-
-These include examples of feature films, a documentary, a short fiction film, a home movie, a television series and episode, and an aggregate television DVD and episode.
-It is recognised that field names in different institutions’ systems will not necessarily use identical terms to those of the core concepts or this manual (see \nameref{sec:core_elements_of_description}).
-Some may also have multiple occurrences and multiple fields connected with each element, whilst others may use few or no field names.
-Some institutions may also have additional fields and data for in-house needs.
-The following examples reflect some of these possible differences.
-
-\subsection[Example 1. Feature film in 3-level, 2-level and 1-level hierarchies]{Example 1. Feature film in 3-level, 2-level and 1-level hierarchies 
-    \label{sec:example_one}
-    } 
-
-Example 1 depicts 3-level, 2-level and 1 level model hierarchies (see \nameref{sec:elements_of_description}) for the same film.
-
-In this first example, as an initial illustration,  the corresponding data of the core concepts has the same matching colours as used in the list below, and the core concept term is also given in italics and square brackets alongside the most equivalent field name.
-
-Fields and data in black are additional elements and data, that also mainly correspond with the wider Attributes, Elements and Relationships stipulated in CEN EN15907 and found at \nameref{sec:moving_image_works}, \nameref{sec:moving_image_manifestations}, and \nameref{sec:moving_image_items}.
-
-Core concepts (\nameref{sec:core_elements_of_description})
-
-Title  
-Series/Serial  
-Cast  
-Credits  
-Country of reference  
-Original format  
-Original Length  
-Original duration  
-Language  
-Year of reference  
-Identifier  
-Subject/genre/form  
-Content description  
-
-**3-Level Hierarchy Model**
-
-| WORK | |
-| --- | --- |
-| Title [Title] | Title type |
-| The Ladykillers | Original |
-|The Lady killers | Help search |
-|Filmographic level: Monographic |
-| Production country [Country of reference] : United Kingdom | |
-| Date(s) [Year of reference] | Date type |
-| 1955 | Copyright |
-| 1955-12 | Release |
-| Category [Form]: Fiction | Genre [Subject/Genre]: Comedy, Crime |
-| Synopsis: A gang of train robbers hide out at the lodgings of one of them, posing as an amateur string quartet. The innocent and upright elderly lady who owns the house is used by them, and is an inadvertent catalyst for their plans unravelling and the gang turning on each other.| |
-| On-screen credit | Name [Credits] |
-| Directed by | Mackendrick, Alexander |
-| Production Company | Ealing Studios |
-| A Production by | Balcon, Michael |
-| Associate Producer | Holt, Seth |
-| Unite Production Manager | Peers, David |
-| Production Supervisor | Mason, Hal |
-| Assistant Director | Pevsner, Tom |
-| [Assistant Director (2nd)] | Meadows, John |
-| [Assistant Director (3rd)] | Birkett, Michael |
-| Continuity | Manheim, Felicia |
-| Story and Screenplay by | Rose, William |
-| Director of Photography | Heller, Otto |
-| Technicolor Colour Consultant | Bridge, Joan |
-| Camera Operator | Waterson, Chic (as Waterson, Chick) |
-| [Focus Puller] | Parslow, Ray |
-| [Clapper Loader] | Bryce, Alan |
-| [Stills] | Hanscomb, Harold |
-| Special Effects | Pearson, Syd (as Pearson, Sydney) |
-| Editor | Harris, Jack |
-| Assistant Editor | Aldous, Harry |
-| [Assistant Editor (2nd)] | Clark, Jim |
-| [Assistant Editor (2nd)] | Clark, Robin |
-| Art Director | Morahan, Jim |
-| [Assistant Art Director] | Davey, Bert |
-| [Draughtsman] | Shampan, Jack |
-| Scenic Artist | Robinson, W. Simpson |
-| Costume Designer | Mendleson, Anthony |
-| Make-up | Garfath, Alec (as Garfath, Alex) |
-| Hairstyles | Martin, Daphne |
-| Music Composed by | Cary, Tristram |
-| Played by | The Sinfonia of London |
-| Conducted by | Mathieson, Dock |
-| Recordist | Wilkins, Leo |
-| Sound Supervisor | Dalby, Stephen (as Dalby, Steven) |
-| [Sound Assistant] | Fairbairn, Harry |
-| [Boom Operator] | Wortham, Don |
-| Sound Editor | Stone, Gordon |
-| | |
-| Character | Name [Cast] |
-| Professor Marcus | Guinness, Alec |
-| Major Courtney | Parker, Cecil |
-| Louis Harvey | Lom, Herbert |
-| Harry Robinson | Sellers, Peter |
-| One-Round Lawson | Green, Danny |
-| police superintendent | Warner, Jack |
-| Mrs. Louisa Wilberforce | Johnson, Katie |
-| police sergeant | Stainton, Philip |
-| barrow boy | Howerd, Frankie |
-| [pavement artist] | Sharp, Len |
-| [left luggage clerk] | Goodwin, Harold |
-| [cab driver] | Connor, Kenneth |
-| [junkman] | Griffiths, Fred |
-| [Amelia] | Kerry, Evelyn |
-| [Hypatia] | Burls, Hélène |
-| [old lady] | Hodgson, Phoebe |
-| [Lettice] | Martin, Edie |
-| [Scotland Yard man] | Melford, Jack |
-| [constable] | Moore, Robert |
-| [nervous man] | Rudling, John |
-| [large lady] | Brindley, Madge |
-| [Miss Pringle] | Griffiths, Lucy |
-| [second cab driver] | Kydd, Sam |
-| [policeman] | Wilson, Neil |
-| [constable in station] | Roberts, Ewan
-| [burglar] | Corcoran, Michael
-| [cast] | Roberts, Lynne
-| [cast] | John, Anthony
-| [cast] | Robb, Sandra
-| [cast] | Johns, Stratford
-| [cast] | Ayres, Janet
-| [cast] | Evans, Peter
-| [cast] | Green, Kevin
-| [cast] | Hart, Janet
-| [cast] | Pike, Colin
-| [Identifier] Identification number | W-35195 |
-| [Identifier] EIDR identifier | 10.5240/1C59-EFCF-AAF0-F735-71AB-H |
-| Event: Production – Date: 1955 | Location(s): Frederica Street, Islington, London N7 -- Cheney Road, Kings Cross, London NW1 |
-| Relationships: Parts title | |
-| M-34312 The Ladykillers| |
-
-| MANIFESTATION | |
-| --- | --- |
-| [Identifier] Identification number: M-34312 | |
-| Title [Title] | Title type |
-| The Ladykillers | Original |
-| Manifestation type: Theatrical (main country of origin) | |
-| Language [Language] | Usage |
-| English | Dialogue (original) |
-| [Original format] General Format: Film Specific Format: 35mm | |
-| Colour Colour system: Technicolor Sound| |
-| [Original duration] Running time – 97 minutes [Original length] Length: 8142 feet | |
-| Event: Release - Release Country: United Kingdom Date: 1955-12 | |
-| Distributor: Rank | |
-| Relationships: | |
-| Part of title | Parts title |
-| 35195 The Ladykillers | C-88339 The Ladykillers | 
-
-| ITEM | |
-| --- | --- |
-| Title | Title type |
-| The Lady killers | Original |
-| Physical Description: Colour Positive Status: Master | |
-| Item type: Film Base: Safety Gauge: 35mm Colour Colour system: Technicolor Sound Sound system: VA Bilateral Stock: Kodak | |
-| Language: English Usage: Dialogue | |
-| Number of cans/cassettes: 5 Number of Reels: 10 Total footage: 7981 feet | |
-| Institution record identification number: C-88339| |
-| Can identification number: 61470E | |
-| Access conditions: Restricted access to preserved film | |
-| Emulsion condition: New | |
-| Observations: No sound on main and end titles; scratches on first 20 ft of reel 5 | |
-| Current location: XYZ203040 Home location: BKS102030 | |
-| Event type: Inspection Movement number: 3 Reason: Perforation inspection | |
-| Date: 1968-10-02 | |
-| Event type: Preservation Treatment: Damaged perforations on reels 2 and 7 repaired | |
-| Treatment date: 1968-10-05 Technician: Joe Bloggs | |
-| Event type: Acquisition Donor: FIAF Acquisition Date: 1959-09-03 | |
-| Relationships: | |
-| Part of title | |
-| M-34312 The Ladykillers | |
-
-**2-Level Hierarchy model**
-
-| WORK | |
-| --- | --- |
-| Title [Title] | Title type |
-| The Ladykillers | Original |
-|The Lady killers | Help search |
-| Work type: Film | Filmographic level: Monographic |
-| Production country [Country of reference] : United Kingdom | |
-| Date(s) [Year of reference] | Date type |
-| 1955 | Copyright |
-| 1955-12 | Release |
-| Category [Form]: Fiction | Genre [Subject/Genre]: Comedy, Crime |
-| Synopsis [Content Description]: A gang of train robbers hide out at the lodgings of one of them, posing as an amateur string quartet. The innocent and upright elderly lady who owns the house is used by them, and is an inadvertent catalyst for their plans unravelling and the gang turning on each other.| |
-| On-screen credit | Name [Credits] |
-| Directed by | Mackendrick, Alexander |
-| Production Company | Ealing Studios |
-| A Production by | Balcon, Michael |
-| Associate Producer | Holt, Seth |
-| Unite Production Manager | Peers, David |
-| Production Supervisor | Mason, Hal |
-| Assistant Director | Pevsner, Tom |
-| [Assistant Director (2nd)] | Meadows, John |
-| [Assistant Director (3rd)] | Birkett, Michael |
-| Continuity | Manheim, Felicia |
-| Story and Screenplay by | Rose, William |
-| Director of Photography | Heller, Otto |
-| Technicolor Colour Consultant | Bridge, Joan |
-| Camera Operator | Waterson, Chic (as Waterson, Chick) |
-| [Focus Puller] | Parslow, Ray |
-| [Clapper Loader] | Bryce, Alan |
-| [Stills] | Hanscomb, Harold |
-| Special Effects | Pearson, Syd (as Pearson, Sydney) |
-| Editor | Harris, Jack |
-| Assistant Editor | Aldous, Harry |
-| [Assistant Editor (2nd)] | Clark, Jim |
-| [Assistant Editor (2nd)] | Clark, Robin |
-| Art Director | Morahan, Jim |
-| [Assistant Art Director] | Davey, Bert |
-| [Draughtsman] | Shampan, Jack |
-| Scenic Artist | Robinson, W. Simpson |
-| Costume Designer | Mendleson, Anthony |
-| Make-up | Garfath, Alec (as Garfath, Alex) |
-| Hairstyles | Martin, Daphne |
-| Music Composed by | Cary, Tristram |
-| Played by | The Sinfonia of London |
-| Conducted by | Mathieson, Dock |
-| Recordist | Wilkins, Leo |
-| Sound Supervisor | Dalby, Stephen (as Dalby, Steven) |
-| [Sound Assistant] | Fairbairn, Harry |
-| [Boom Operator] | Wortham, Don |
-| Sound Editor | Stone, Gordon |
-| | |
-| Character | Name [Cast] |
-| Professor Marcus | Guinness, Alec |
-| Major Courtney | Parker, Cecil |
-| Louis Harvey | Lom, Herbert |
-| Harry Robinson | Sellers, Peter |
-| One-Round Lawson | Green, Danny |
-| police superintendent | Warner, Jack |
-| Mrs. Louisa Wilberforce | Johnson, Katie |
-| police sergeant | Stainton, Philip |
-| barrow boy | Howerd, Frankie |
-| [pavement artist] | Sharp, Len |
-| [left luggage clerk] | Goodwin, Harold |
-| [cab driver] | Connor, Kenneth |
-| [junkman] | Griffiths, Fred |
-| [Amelia] | Kerry, Evelyn |
-| [Hypatia] | Burls, Hélène |
-| [old lady] | Hodgson, Phoebe |
-| [Lettice] | Martin, Edie |
-| [Scotland Yard man] | Melford, Jack |
-| [constable] | Moore, Robert |
-| [nervous man] | Rudling, John |
-| [large lady] | Brindley, Madge |
-| [Miss Pringle] | Griffiths, Lucy |
-| [second cab driver] | Kydd, Sam |
-| [policeman] | Wilson, Neil |
-| [constable in station] | Roberts, Ewan
-| [burglar] | Corcoran, Michael
-| [cast] | Roberts, Lynne
-| [cast] | John, Anthony
-| [cast] | Robb, Sandra
-| [cast] | Johns, Stratford
-| [cast] | Ayres, Janet
-| [cast] | Evans, Peter
-| [cast] | Green, Kevin
-| [cast] | Hart, Janet
-| [cast] | Pike, Colin
-| [Identifier] Identification number | W-35195 |
-| [Identifier] EIDR identifier | 10.5240/1C59-EFCF-AAF0-F735-71AB-H |
-| Event: Production – Date: 1955 | Location(s): Frederica Street, Islington, London N7 -- Cheney Road, Kings Cross, London NW1 |
-| Relationships: Parts title | |
-| C-88339 The Ladykillers | |
-
-| MANIFESTATION/ITEM | |
-| --- | --- |
-| Institution record identification number: C-88339 | |
-| Can identification number: 61470E | |
-| Title | Title type |
-| The Ladykillers | Original |
-| The Lady killers | Help search |
-| Manifestation type: Theatrical (main country of origin) | |
-| Event: Release - Release Country: United Kingdom Date: 1955-12 | |
-| Distributor: Rank | |
-| Language [Language] | Usage |
-| English | Dialogue (original) |
-| [Original duration] Running time – 97 minutes [Original length] Length: 8142 feet | |
-| Number of cans/cassettes: 5 Number of Reels: 10 Total footage: 7981 feet | |
-| Physical Description: Colour Positive Status Master | |
-| Item type: Film [Original format] Base: Safety Gauge: 35mm Colour Colour system: Technicolor Sound Sound system: VA Bilateral Stock: Kodak | |
-| Access conditions: Restricted access to preserved film | |
-| Emulsion: New | |
-| Observations: No sound on main and end titles; scratches on first 20 ft of reel 5 | |
-| Current location: XYZ203040 Home location: BKS102030 | |
-| Event type: Inspection Movement number: 3 Reason: Perforation inspection Date: 1968-10-02 | |
-| Event type: Preservation Treatment: Damaged perforations on reels 2 and 7 repaired Treatment date: 1968-10-05 Technician: Joe Bloggs | |
-| Event type: Acquisition Donor: FIAF Acquisition Date: 1959-09-03 | |
-| Relationships: | |
-| Part of title | |
-| W-35195 The Ladykillers | |
-
-**1-Level Hierarchy model**
-
-| | |
-| --- | --- |
-| Title [Title] | Title type |
-| The Ladykillers | Original |
-| The Lady killers | Help search |
-| Work type: Film | Filmographic level: Monographic |
-| Production country [Country of reference]: United Kingdom | |
-| Date(s) [Year of reference] | Date type |
-| 1955 | Copyright |
-| 1955-12 | Release |
-| Category [Form]: Fiction | Genre [Subject/Genre]: Comedy, Crime |
-| Synopsis [Content description]: A gang of train robbers hide out at the lodgings of one of them, posing as an amateur string quartet. The innocent and upright elderly lady who owns the house is used by them, and is an inadvertent catalyst for their plans unravelling and the gang turning on each other. | |
-| On-screen credit | Name [Credits] |
-| Directed by | Mackendrick, Alexander |
-| Production Company | Ealing Studios |
-| A Production by | Balcon, Michael |
-| Associate Producer | Holt, Seth |
-| Unite Production Manager | Peers, David |
-| Production Supervisor | Mason, Hal |
-| Assistant Director | Pevsner, Tom |
-| [Assistant Director (2nd)] | Meadows, John |
-| [Assistant Director (3rd)] | Birkett, Michael |
-| Continuity | Manheim, Felicia |
-| Story and Screenplay by | Rose, William |
-| Director of Photography | Heller, Otto |
-| Technicolor Colour Consultant | Bridge, Joan |
-| Camera Operator | Waterson, Chic (as Waterson, Chick) |
-| [Focus Puller] | Parslow, Ray |
-| [Clapper Loader] | Bryce, Alan |
-| [Stills] | Hanscomb, Harold |
-| Special Effects | Pearson, Syd (as Pearson, Sydney) |
-| Editor | Harris, Jack |
-| Assistant Editor | Aldous, Harry |
-| [Assistant Editor (2nd)] | Clark, Jim |
-| [Assistant Editor (2nd)] | Clark, Robin |
-| Art Director | Morahan, Jim |
-| [Assistant Art Director] | Davey, Bert |
-| [Draughtsman] | Shampan, Jack |
-| Scenic Artist | Robinson, W. Simpson |
-| Costume Designer | Mendleson, Anthony |
-| Make-up | Garfath, Alec (as Garfath, Alex) |
-| Hairstyles | Martin, Daphne |
-| Music Composed by | Cary, Tristram |
-| Played by | The Sinfonia of London |
-| Conducted by | Mathieson, Dock |
-| Recordist | Wilkins, Leo |
-| Sound Supervisor | Dalby, Stephen (as Dalby, Steven) |
-| [Sound Assistant] | Fairbairn, Harry |
-| [Boom Operator] | Wortham, Don |
-| Sound Editor | Stone, Gordon |
-| | |
-| Character | Name [Cast] |
-| Professor Marcus | Guinness, Alec |
-| Major Courtney | Parker, Cecil |
-| Louis Harvey | Lom, Herbert |
-| Harry Robinson | Sellers, Peter |
-| One-Round Lawson | Green, Danny |
-| police superintendent | Warner, Jack |
-| Mrs. Louisa Wilberforce | Johnson, Katie |
-| police sergeant | Stainton, Philip |
-| barrow boy | Howerd, Frankie |
-| [pavement artist] | Sharp, Len |
-| [left luggage clerk] | Goodwin, Harold |
-| [cab driver] | Connor, Kenneth |
-| [junkman] | Griffiths, Fred |
-| [Amelia] | Kerry, Evelyn |
-| [Hypatia] | Burls, Hélène |
-| [old lady] | Hodgson, Phoebe |
-| [Lettice] | Martin, Edie |
-| [Scotland Yard man] | Melford, Jack |
-| [constable] | Moore, Robert |
-| [nervous man] | Rudling, John |
-| [large lady] | Brindley, Madge |
-| [Miss Pringle] | Griffiths, Lucy |
-| [second cab driver] | Kydd, Sam |
-| [policeman] | Wilson, Neil |
-| [constable in station] | Roberts, Ewan
-| [burglar] | Corcoran, Michael
-| [cast] | Roberts, Lynne
-| [cast] | John, Anthony
-| [cast] | Robb, Sandra
-| [cast] | Johns, Stratford
-| [cast] | Ayres, Janet
-| [cast] | Evans, Peter
-| [cast] | Green, Kevin
-| [cast] | Hart, Janet
-| [cast] | Pike, Colin
-| [Identifier] EIDR identifier | 10.5240/1C59-EFCF-AAF0-F735-71AB-H | 
-| [Identifier] Institution record identification number: C-88339 | |
-| [Identifier] Can identification number: 61470E | |
-| Event: Production – Date: 1955 | Location(s): Frederica Street, Islington, London N7 Cheney Road, Kings Cross, London NW1 |
-| Release Country: United Kingdom | Release Date: 1955-12 |
-| Theatrical release (in country of origin) | |
-| [Original duration] Running time – 97 minutes [Original length] Length (original footage): 8142 feet | |
-| Number of cans/cassettes: 5 Number of Reels: 10 Total footage: 7981 feet | |
-| Physical Description: Colour Positive Status: Master Item type: Film [Original format] Base: Safety Gauge: 35mm Colour Colour system: Technicolor Sound Sound system: VA Bilateral Stock: Kodak | |
-| Language [Language]: English | Usage: Dialogue (original) |
-| Access conditions: Restricted access to preserved film | |
-| Emulsion condition: New | |
-| Observations: No sound on main and end titles; scratches on first 20 ft of reel 5 | |
-| Current location: XYZ203040 Home location: BKS102030 | |
-| Event type: Inspection Movement number: 3 Reason: Perforation inspection | |
-| Date: 1968-10-02 | |
-| Event type: Preservation Treatment: Damaged perforations on reels 2 and 7 repaired | |
-| Treatment date: 1968-10-05 Technician: Joe Bloggs | |
-| Event type: Acquisition Donor: FIAF Acquisition Date: 1959-09-03 | |
-
-\subsection[Example 2. Documentary film in 4-level hierarchy]{Example 2. Documentary film in 4-level hierarchy 
-    \label{sec:example_two}
-    } 
-
-In this second example,  the corresponding data of the core concepts also has the same illustrative matching colours as used in the Core Elements list in Example 1 (see below), and there are also links to the relevant sections of the manual relating to those elements.
-
-Core concepts ([\nameref{sec:core_elements_of_description})
-
-Title
-Series/Serial
-Cast
-Credits
-Country of reference
-Original format
-Original Length
-Original duration
-Language
-Year of reference
-Identifier
-Subject/genre/form
-Content description
-
-| WORK | | | |
-| --- | --- | --- | --- |
-| 1.2 Attributes of a Moving Image Work/Variant | | | | 
-| 1.2.1 Work/Variant Description Type | D.1 Work/Variant Description Types | monographic | monografická |
-| 1.3 Elements of a Work/Variant | | | |
-| 1.3.1 Work/Variant Identifier | | urn:nbn:sk:sfu-ko1ugsb | urn:nbn:sk:sfu-ko1ugsb |
-| 1.3.1.1 Identifier Type | | URN:NBN | URN:NBN |
-| 1.3.1 Work/Variant Identifier | | SFD000163 | SFD000163 |
-| 1.3.1.1 Identifier Type | | SFÚ identifier [local] | identifikátor SFÚ [lokálny] |
-| 1.3.2 Title | | Obrazy starého sveta | Obrazy starého sveta |
-| 1.3.2.1 Title Type | A.2 Title Types | A.2.0 Preferred [original: slo] | preferovaný [originálny: slo] |
-| 1.3.2 Title | | Pictures of the old world | Pictures of the old world |
-| 1.3.2.1 Title Type | A.2 Title Types | A.2.4 Alternative [translated title: eng] | alternatívny [preklad názvu: eng] |
-| 1.3.2 Title | | Images du vieux monde | Images du vieux monde | 
-| 1.3.2.1 Title Type | A.2 Title Types | A.2.4 Alternative [translated title: fre] | alternatívny [preklad názvu: fre] |
-| 1.3.2 Title | | Bilder einer alten Welt | Bilder einer alten Welt |
-| 1.3.2.1 Title Type | A.2 Title Types | A.2.4 Alternative [translated title: ger] | alternatívny [preklad názvu: ger] |
-| 1.3.2 Title | | Картины старого мира | Картины старого мира |
-| 1.3.2.1 Title Type | A.2 Title Types | A.2.4 Alternative [translated title: rus] | alternatívny [preklad názvu: rus] |
-| 1.3.2 Title | | Kartiny starogo mira | Kartiny starogo mira |
-| 1.3.2.1 Title Type | A.2 Title Types | A.2.4 Alternative [translated title:rus & transliterated title] | alternatívny [preklad názvu: rus a transliterácia názvu] |
-| 1.3.3 Country of reference | | Slovakia [Czechoslovakia] | Slovensko [Československo] |
-| 1.3.4 Year/Date of reference | | 1972 | 1972 |
-| 1.3.4.1 Date Type | | year of production | rok výroby |
-| 1.3.5 Language(s) | | Slovak | slovenčina |
-| 1.3.5.1 Language Term | | slo | slo |
-| 1.3.5.2 Usage type | D.6 Language Usage Types | Original Language | pôvodný jazyk |
-| 1.3.5.2 Usage type | D.6 Language Usage Types | spoken language | hovorený jazyk |
-| 1.3.5.2 Usage type | D.6 Language Usage Types | sung language | spievaný jazyk |
-| 1.3.6 Content description (synopses, shotlists, etc) | | Suggestive portraits of old people from the Liptov and Orava regions who are able to enjoy their individual freedom even in the times of civilisational chaos and insecurity. | Sugestívne portréty starých ľudí z Liptova a Oravy, ktorí dokážu aj v stave civilizačného chaosu a neistoty žiť vnútorne slobodní. |
-| 1.3.6.1 Content Description Type | | synopsis | anotácia |
-| 1.3.7 Notes | Appendix B, Cataloguer’s Notes | Text before the opening credits: These are stories of people rooted in the soil they came from. They cannot be replanted, they would perish. | Pred úvodnými titulkami text: Toto sú príbehy, ľudí, ktorí ostali sami sebou. Zabudnutí a prostí, vrastení do zeme, z ktorej vyšli. Nemožno ich presadiť pretože by zahynuli. |
-| 1.3.8.2 Censorship history | | banned film (cinema release: July 1989) | zakázaný film (kinodistribúcia: júl 1989) |
-| 1.4 Relationships of a Work/Variant (links/associations with other entities/records) | | | |
-| Credits | | | |
-| 1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) | | Československý film Bratislava | Československý film Bratislava |
-| 1.4.1.1 Agent Activity | | Production Company | Produkčná spoločnosť |
-| 1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) | | Dušan Hanák | Dušan Hanák |
-| 1.4.1.1 Agent Activity | | Director | Réžia |
-| 1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) | | Dušan Hanák Dušan Hanák |
-| 1.4.1.1 Agent Activity | | Story and screenplay | Námet a scenár |
-| 1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) | | Alojz Hanúsek | Alojz Hanúsek |
-| 1.4.1.1 Agent Activity | | Cinematographer | Kamera |
-| 1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) | | Alfréd Benčič | Alfréd Benčič | 
-| 1.4.1.1 Agent Activity | | Editor | Strih | 
-| 1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) | | Ondrej Polomský| Ondrej Polomský |
-| 1.4.1.1 Agent Activity | | Sound | Zvuk |
-| 1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) | | Martin Martinček | Martin Martinček |
-| 1.4.1.1 Agent Activity | | Photographs by | Fotografie |
-| 1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) | | Vladimír Vavrek | Vladimír Vavrek |
-| 1.4.1.1 Agent Activity | | Photographs by | Fotografie |
-| 1.4.1 Agents | | George Frideric Handel | George Frideric Handel | 
-| 1.4.1.1 Agent Activity | | Music | Hudba |
-| 1.4.1 Agents | | Václav Hálek | Václav Hálek |
-| 1.4.1.1 Agent Activity | | Music | Hudba |
-| 1.4.1 Agents | | Jozef Malovec | Jozef Malovec |
-| 1.4.1.1 Agent Activity | | Music | Hudba |
-| 1.4.1 Agents | | František Belfín | František Belfín |
-| 1.4.1.1 Agent Activity | | Conductor | Dirigent |
-| 1.4.1 Agents | | Filmový symfonický orchestr, Praha | Filmový symfonický orchestr, Praha |
-| 1.4.1.1 Agent Activity | | Music Performed by | Hudbu nahral |
-| 1.4.1 Agents | | Boris Hochel | Boris Hochel |
-| 1.4.1.1 Agent Activity | | Script Editor | Dramaturg |
-| 1.4.1 Agents | | Juraj Král | Juraj Král |
-| 1.4.1.1 Agent Activity | | Production Manager | Vedúci výroby |
-| 1.4.1 Agents | | Stanislav Učník | Stanislav Učník |
-| 1.4.1.1 Agent Activity | | Production Supervisor | Vedúci nakrúcania |
-| 1.4.1 Agents | | Oľga Hrajnohová | Oľga Hrajnohová |
-| 1.4.1.1 Agent Activity | | Script-girl | Skript |
-| 1.4.1 Agents | | Štefan Kondrót | Štefan Kondrót |
-| 1.4.1.1 Agent Activity | | Cooperation | Spolupráca |
-| 1.4.1 Agents | | Martin Gazík | Martin Gazík |
-| 1.4.1.1 Agent Activity | | Cooperation | Spolupráca |
-| 1.4.1 Agents | | Ján Albrecht | Ján Albrecht |
-| 1.4.1.1 Agent Activity | | Cooperation | Spolupráca |
-| 1.4.1 Agents | | Jan Švankmajer | Jan Švankmajer |
-| 1.4.1.1 Agent Activity | | Cooperation | Spolupráca |
-| 1.4.1 Agents | | Jozef Košťál | Jozef Košťál |
-| 1.4.1.1 Agent Activity | | Cooperation | Spolupráca |
-| 1.4.1 Agents | | Jaroslav Rihák | Jaroslav Rihák |
-| 1.4.1.1 Agent Activity | | Cooperation | Spolupráca |
-| 1.4.1 Agents | | Milan Hurtig | Milan Hurtig |
-| 1.4.1.1 Agent Activity | | Cooperation | Spolupráca |
-| 1.4.1 Agents | | Jozef Kováčik | Jozef Kováčik |
-| 1.4.1.1 Agent Activity | | Cooperation | Spolupráca |
-| 1.4.1 Agents | | Ján Gašparec | Ján Gašparec |
-| 1.4.1.1 Agent Activity | | Cooperation | Spolupráca |
-| Cast/ Featuring | | From the lives of those mentioned below: | Zo života: |
-| 1.4.1 Agents | | Veronika Ralíková | Veronika Ralíková |
-| 1.4.1.1 Agent Activity | | Herself | |
-| 1.4.1 Agents | | Adam Kura | Adam Kura |
-| 1.4.1.1 Agent Activity | | Himself | |
-| 1.4.1 Agents | | Jozef Országh | Jozef Országh |
-| 1.4.1.1 Agent Activity | | Himself | |
-| 1.4.1 Agents | | Juraj Michelík | Juraj Michelík |
-| 1.4.1.1 Agent Activity | | Himself | |
-| 1.4.1 Agents | | Anton Miček | Anton Miček |
-| 1.4.1.1 Agent Activity | | Himself | |
-| 1.4.1 Agents | | Františka Ševčíková | Františka Ševčíková |
-| 1.4.1.1 Agent Activity | | Herself | |
-| 1.4.1 Agents | | Adam Struhárňanský | Adam Struhárňanský |
-| 1.4.1.1 Agent Activity | | Himself | |
-| 1.4.1 Agents | | Jozef Račko | Jozef Račko |
-| 1.4.1.1 Agent Activity | | Himself | |
-| 1.4.1 Agents | | Alojz Kováč | Alojz Kováč
-| 1.4.1.1 Agent Activity | | Himself | |
-| 1.4.1 Agents | | Matej Dudka | Matej Dudka |
-| 1.4.1.1 Agent Activity | | Himself | |
-| 1.4.1 Agents | | Ladislav Chudík | Ladislav Chudík | 
-| 1.4.1.1 Agent Activity | |commentary spoken by | interpret komentára |
-| 1.4.2 Events (e.g., IPR registration, screenings, awards, etc.) D.4.3 Production | | | |
-| - Production Event type | D.11 Production Event Types | beginning of shooting | prvý filmovací deň |
-| - Year/Date | | 1971-09-13 | 1971-09-13 |
-| - Production Event type | D.11 Production Event Types | completion of shooting | posledný filmovací deň |
-| - Year/Date | | 1972-01-09 | 1972-01-09 |
-| 1.4.2 Events (e.g., IPR registration, screenings, awards, etc.)– D.4.2 Award(s) or Nomination(s) | | | |
-| - Award(s)/Nomination(s) date | | 1988 | 1988 | 
-| - Award name | | Golden Sestertius, Grand Prix (Sesterce d’Or, Grand Prix) | Zlatý sestercius, Grand Prix (Sesterce d’Or, Grand Prix) |
-| - Event | | 20th International Festival of Documentary Films Nyon 1988 | 20. medzinárodný festival dokumentárnych filmov Nyon 1988 |
-| - Award(s)/Nomination(s) date | | 1989 | 1989 |
-| - Award name | | European Film Award / European Documentary - Special Mention | Európska filmová cena / Európske dokumenty - Osobitné uznanie |
-| - Event | | 2nd European Film Awards 1989 (Paris) | 2. ročník Európskych filmových cien 1989 (Paríž) |
-| - Award(s)/Nomination(s) date | | 1990 | 1990 |
-| - Award name | | Los Angeles Film Critics Association Award / Best Non-Fiction Film | Cena asociácie losangeleských filmových kritikov / Najlepší non-fiction film |
-| - Event | | 16th Los Angeles Film Critics Association Awards 1990 | 16. ročník Cien asociácie losangeleských filmových kritikov 1990 |
-| 1.4.3 Subject/Genre/Form terms | genre | documentary films | dokumentárne filmy |
-| | form | full-length films | dlhometrážné filmy
-| 1.4.4 Other relationships | D.17.1 Work/Variant Other Relationship Types | “Has a relationship to an “object” (a non-moving image resource)” | Má vzťah k objektu |
-| | | Obrazy starého sveta / Dušan Hanák. – The screenplay of the film: Pictures of the old world (1972). In: 322 ; Obrazy starého sveta ; Růžové sny / Dušan Hanák. – Praha : Lika klub, 2005. – ISBN 8086069-37-0. – p. 78-127. | Obrazy starého sveta / Dušan Hanák. – Scenár filmu: Obrazy starého sveta (1972). In: 322 ; Obrazy starého sveta ; Růžové sny / Dušan Hanák. – Praha : Lika klub, 2005. – ISBN 8086069-37-0. – s. 78-127. |
-| 1.4.4 Other relationships | D.17.1 Work/Variant Other Relationship Types | “Has a relationship to a Work “about” the Work/Variant in question” | Má vzťah k dielu o diele |
-| | | Kinožurnál [film]. 51/1988 (1988) | Kinožurnál [film]. 51/1988 (1988) |
-| 1.4.5 Variants | | “Has a relationship to a Variant” | |
-| | | 199999163 | 199999163 |
-| VARIANT | | | |
-| 1.2 Attributes of a Moving Image Work/Variant | | | |
-| 1.2.2 Variant Type | D.2 Variant Type | subtitled | s podtitulkami |
-| 1.3 Elements of a Work/Variant | | | |
-| 1.3.1 Work/Variant Identifier | | 199999163 | 199999163 |
-| 1.3.1.1 Identifier Type | | SFÚ identifier [local] | identifikátor SFÚ [lokálny] |
-| 1.3.2 Title | | Pictures of the old world | Pictures of the old world |
-| 1.3.2.1 Title Type | A.2 Title Types | A.2.4 Alternative [parallel title: eng] | alternatívny [súbežný názov: eng] |
-| 1.3.5 Language(s) | | English | angličtina |
-| 1.3.5.1 Language | | eng | eng | 
-| 1.3.5.2 Usage type | D.6 Language Usage Types | subtitles | podtitulky |
-| 1.4.6 Manifestations | | “Has a relationship to a Manifestation” | |
-| | | 299999163 | 299999163 |
-| MANIFESTATION | | | |
-| 2.2 Attributes of a Manifestation | | | |
-| 2.2.1 Manifestation Type | D.5 Manifestation Types | D.5.9 Preservation/Restoration | |
-| 2.3 Elements of a Manifestation | | | |
-| 2.3.1 Identifier | | 299999163 | 299999163 |
-| 2.3.1.1 Identifier Type | | SFÚ identifier [local] | identifikátor SFÚ [lokálny] |
-| 2.3.2 Title | | Pictures of the old world | Pictures of the old world |
-| 2.3.2.1 Title Type | A.2 Title Types | A.2.4 Alternative [parallel: eng] | A.2.4 Alternative [parallel: eng] |
-| 2.3.4 Format of a moving image Manifestation | | | |
-| 2.3.4.1 Carrier type of a Manifestation | | | |
-| 2.3.4.1.1 General Carrier Type | D.7.1 Manifestation/Item General Carrier Type | Film | film |
-| 2.3.4.1.2 Specific Carrier Type | D.7.2 Manifestation/Item Specific Carrier Type | 35 mm | 35 mm |
-| 2.3.4.2 Projection characteristics of a Manifestation | | | |
-| Aspect Ratio | | 1:1,37 | 1:1,37 |
-| Aperture/Image Format | | Academy | Academy |
-| 2.3.4.3 Sound characteristics of a Manifestation | D.7.4 Manifestation/Item Sound Type | sound | zvukový |
-| 2.3.4.3.1 Sound systems | D.7.13 Item Sound System | combined optical sound | kombinovaný optický zvuk |
-| 2.3.4.3.2 Sound Channel Configuration | D.7.5 Manifestation/Item Sound Fixation Type | optical mono | optický (mono) |
-| 2.3.4.4 Colour characteristics of a Manifestation | D.7.11 Manifestation/Item Colour Type | black and white | čiernobiely |
-| 2.3.5 Extent of a Manifestation | | | |
-| 2.3.5.1 Logical extent of a Manifestation | | 4 reels | 4 kotúče |
-| 2.3.5.2 Physical extent of a Manifestation | metres | 1827,8 m | 1827,8 m |
-| 2.3.5.3 Duration of a Manifestation | HH:MM:SS | 01:06:38 | 01:06:38 |
-| 2.4 Relationships of a Manifestation | | | |
-| 2.4.1 Agent(s) | | Slovak Film Institute | Slovenský filmový ústav |
-| 2.4.1.1 Agent Activity | D.8 Manifestation Agent Types | D.8.6 Agent responsible for preservation | D.8.6 zodpovednosť za uchovávanie |
-| 2.4.1 Agent(s) | | Film Laboratory Ateliery Bonton Zlin a.s. | Filmové laboratoře Ateliéry Bonton Zlín a.s. |
-| 2.4.1.1 Agent Activity | D.8 Manifestation Agent Types | D.8.5 Manufacturer | D.8.5 Manufacturer |
-| 2.4.2 Events - D.4.5 Preservation | | | |
-| Preservation type | D.12 Manifestation Preservation Types | Film restoration | Filmová obnova |
-| Preservation Date | | 2006 | 2006 |
-| Note | | added English subtitles | doplnené o anglické podtitulky |
-| 2.4.4 Item(s) | | “Has a relationship to an Item” | |
-| | | 099967 | 099967 |
-| ITEM | | | |
-| 3.1 Elements of a moving image Item | | | |
-| 3.1.1 Identifier | | 099967 | 099967 |
-| 3.1.1.1 Identifier Type | | SFÚ identifier [local] | identifikátor SFÚ [lokálny] |
-| 3.1.1 Identifier | | 140-ZO-A3 | 140-ZO-A3 |
-| 3.1.1.1 Identifier Type | | archive number | archívne číslo |
-| 3.1.2 Title | | Obrazy starého sveta | Obrazy starého sveta |
-| 3.1.2.1 Title Type | | title on can | názov na obale |
-| 3.1.3 Holding institution | | Slovak Film Institute | Slovenský filmový ústav |
-| | | SK-BrSFU [MARC Code] | SK-BrSFU [MARC] |
-| 3.1.4 Item Element type | D.7.8 Item Element Type | Positive | Pozitív |
-| 3.1.5 Item Specifics/Extent (e.g. physical/Digital description) | | | |
-| 3.1.5.2 Item Status | D.7.3 Item Preservation/Access status | Viewing | Na premietanie |
-| 3.1.5.8 Extent | Metres | reel 1: 552,8 m | 1. kotúč: 552,8 m |
-| | Metres | reel 2: 570,4 m | 2. kotúč: 570,4 m | 
-| | Metres | reel 3: 520,4 m | 3. kotúč: 520,4 m | 
-| | Metres | reel 4: 184,2 m | 4. kotúč: 184,2 m | 
-| | metres | TOTAL LENGTH: 1827,8 m DĹŽKA SPOLU: 1827,8 m | 
-| 3.1.5.11 Duration | HH:MM:SS | reel 1: 00:20:09 | 1. kotúč: 00:20:09 | 
-| | HH:MM:SS | reel 2: 00:20:48 | 2. kotúč: 00:20:48 | 
-| | HH:MM:SS | reel 3: 00:18:58 | 3. kotúč: 00:18:58 | 
-| | HH:MM:SS | reel 4: 00:06:43 | 4. kotúč: 00:06:43 | 
-| | HH:MM:SS | TOTAL DURATION: 01:06:38 | DĹŽKA TRVANIA SPOLU: 01:06:38 | 
-| 3.1.5.13 Base | D.7.7 Item Base - Film or Video | Polyester | Polyester | 
-| 3.1.5.14 Stock | D.7.16 Item Stock | Eastman Kodak | Eastman Kodak |
-| 3.1.6 Access conditions | | No restrictions (film print can be requested for access). | Bez obmedzení (filmová kópia je dostupná na požiadanie). |
-| 3.1.6.1 Item condition D.16 Manifestation/Item Condition, Preservation and Restoration | D.16.1 Item Copy Condition Base/Emulsion – Film and Video | Good condition | Dobrý stav |
-| | D.16.2 Item Copy Condition Perforations – Film| Good condition | Dobrý stav |
-| | D.16.3 Item Surface Deposit – Film and Video| Good condition | Dobrý stav |
-| | D.16.4 Item Image – Film and Video| Good condition | Dobrý stav |
-| | D.16.5 Item Decomposition – Film and Video| Good condition | Dobrý stav |
-| 3.1.6.2 Item location | | FA-019-12-1-1 | FA-019-12-1-1 |
-| 3.3 Relationships of an Item | | | |
-| 3.3.1 Agent(s) | | Slovak Film Institute | Slovenský filmový ústav |
-| 3.3.1.1 Agent Activity | | Inspected by | Kontroloval |
-| 3.3.2 Events 3.3.2 Events | | | |
-| 3.3.2 Events - D.4.8 Inspection | | | |
-| Inspection type | | technical inspection | technická kontrola |
-| Inspection date | | 2015-05-29 | 2015-05-29 |
-| Inspection detail | |see 3.1.6.1 Item condition | pozri 3.1.6.1 Item condition |
-| Agent | | see 3.3.1 Agent(s) | pozri 3.3.1 Agent(s) |
-| 3.3.2 Events - D.4.9 Acquisition | | | |
-| Acquisition type | D.15.1 Item Acquisition type | from laboratory | z laboratórií |
-| Acquisition date | | 2006-12-01 | 2006-12-01 |
-| Accession date | | 2006-12-12 | 2006-12-12 |
-| Acquisition detail | | Project of the Systematic Restoration of the Audiovisual Heritage of the Slovak Republic. | Projekt systematickej obnovy audiovizuálneho dedičstva Slovenskej republiky. |
-| 3 3.3.3 Other Relationships | D.17.3 Item Other Relationship Types | “Has a relationship to an archival document” | Má vzťah k archívnemu dokumentu |
-| | | Záznam o stave archívneho filmového materiálu [projection instructions] | Záznam o stave archívneho filmového materiálu |
-
-\subsection[Example 3. Silent feature film in 3-level Hierarchy Model with multiple Manifestations and items]{Example 3. Silent feature film in 3-level Hierarchy Model with multiple Manifestations and items 
-    \label{sec:example_three}
-    } 
-
-**WORK RECORD**
-
-| | |
-| --- | --- |
-| Work identifier | [-----] |
-| Preferred title | катька бумажный ранет |
-| Alternative Title – transliterated | Katʹka bumazhnyǐ ranet |
-| Other title information | melodrama v 6 chasti︠ a︡ kh |
-| Date – original release date | 1926-12-25 |
-| Category | Fiction films; Silent films; Soviet films |
-| Content description | A young country girl who becomes an apple seller is seduced and abandoned. She finds a protector but when he is arrested for theft she finds honest work in a factory. |
-| Subject terms | Women -- Soviet Union -- Drama. Single mothers -- Soviet Union -- Drama. Mothers -- Soviet Union -- Drama. Criminals -- Soviet Union -- Drama. Black market -- Soviet Union -- Drama. Sexual division of labor -- Soviet Union -- Drama. Soviet Union -- Social life and customs -- 1917-1970. |
-| Agents | St︠ s︡ enariǐ [screenplay], Mikhaila Borisoglebskogo; rezhissery [directors], Ėduard Ioganson i Fridrikh Ėrmler; proizvodstvo leningradskoǐ fabriki Sovkino [produced by the Leningrad Studio of Sovkin]. Operator [camera], Evgeniǐ Mikhaǐlov; khudozhnik [sets], Evgeniǐ Eneǐ; assistent [assistant director], Robert Maǐman; administrator, Sem Gershtenzanl. [Cast:] Veronika Buzhinskai︠ a︡ (Katʹka), Bella Chernova (Verka), Fëdor Nikitin (Vadʹka Zavrazhin), Valeriǐ Solovt︠ s︡ ov (Sëmka Zhgut). Proizvodstvo leningradskoǐ fabriki Sovkino [produced by the Leningrad Studio of Sovkino]. |
-| Country | Soviet Union |
-| Language | Russian |
-| Notes | Cast information provided in intertitles as film progresses. Additional credits supplied from: Kino / Jay Leyda; Sovetskie khudozhestvennye filʹmy. |
-
-**MANIFESTATION RECORD 1**
-
-| | |
-| --- | --- |
-| Manifestation type | Theatrical distribution |
-| Identifier | [-----] |
-| Title proper | катька бумажный ранет |
-| Alternative title - transliterated | Katʹka bumazhnyǐ ranet |
-| Translated title | Katka’s reinette apples |
-| Other title information | melodrama v 6 chasti︠ a︡ kh |
-| Agents | Distributor: Goskino |
-| Carrier type – general | Film |
-| Carrier type – specific | 35mm |
-| Projection characteristics – Aspect ratio | 1.33:1 |
-| Sound characteristics | Silent |
-| Color characteristics | Black and white |
-| Logical extent | 6 reels |
-| Physical extent | 6576 ft. |
-| Duration | 88 minutes |
-| Type | Release print |
-| Language | Russian intertitles only. |
-| Notes | Titles preceding film (cataloger's translation in brackets): Iz istorii Sovetskoǐ khudozhesvennoǐ kinematografii. T︠ s︡ikl 1. Nemoe kino -- Glavnoe upravlenie kinofikat︠ s︡ii i kinoprokata i vsesoiuznyǐ gosudarstvennyǐ fond kinofilʹma pokazyvai︠ u︡t Katka bumazhnyǐ ranet -- Ėtot filʹm byl postavlen v 1926 godu. On i︠ a︡ vilsi︠ a︡ odnim iz pervykh opytov sozdanii︠ a︡  bytovoǐ dramy na sovremennom sovetskom materiale. Istoricheskiǐ interes predstavli︠ a︡ et popytka avtorov filʹma pokazatʹ zhivye chelovecheskie kharaktery. [From the history of the Soviet artistic cinema. Cycle one. Silent cinema -- The Central Bureau for Film Distribution and the All-Union Governmental Cinema Collection present: Katka's reinette apples -- This film was produced in 1926. It constitutes one of the first attempts to create on the basis of contemporary Soviet material a drama from "everyday life." The authors' attempt to show living human characters is worthy of historical interest.]
-
-**MANIFESTATION RECORD 2**
-
-| | |
-| --- | --- |
-| Manifestation type | Unknown [Video transfer] |
-| Identifier | [-----] |
-| Preferred title | катька бумажный ранет |
-| Alternative Title - transliterated | Katʹka bumazhnyǐ ranet |
-| Parallel Title – US release title | Katka’s reinette apples |
-| Date – video transfer | [1980?] |
-| Carrier type – general | Video tape |
-| Carrier type – specific | 1-inch Type C |
-| Projection characteristics – Aspect ratio | 1.33:1 |
-| Sound characteristics | Silent |
-| Color characteristics | Black and white |
-| Logical extent | 1 videoreel |
-| Temporal extent | 85 minutes |
-| Agents | Film-to-tape transfer overseen by: Pacific Film Archive |
-| Language | Russian intertitles only. |
-| Notes | The negative from the print used to dub this tape is missing footage. Some scenes are truncated. The footage loss between the original footage and the print is approximately 102 feet. Titles preceding film (cataloger's translation in brackets): Iz istorii Sovetskoǐ khudozhesvennoǐ kinematografii. T︠ s︡ikl 1. Nemoe kino -- Glavnoe upravlenie kinofikat︠ s︡ii i kinoprokata i vsesoiuznyǐ gosudarstvennyǐ fond kinofilʹma pokazyvai︠ u︡t Katka bumazhnyǐ ranet -- Ėtot filʹm byl postavlen v 1926 godu. On i︠ a︡ vilsi︠ a︡ odnim iz pervykh opytov sozdanii︠ a︡  bytovoǐ dramy na sovremennom sovetskom materiale. Istoricheskiǐ interes predstavli︠ a︡ et popytka avtorov filʹma pokazatʹ zhivye chelovecheskie kharaktery. [From the history of the Soviet artistic cinema. Cycle one. Silent cinema -- The Central Bureau for Film Distribution and the All-Union Governmental Cinema Collection present: Katka's reinette apples -- This film was produced in 1926. It constitutes one of the first attempts to create on the basis of contemporary Soviet material a drama from "everyday life." The authors' attempt to show living human characters is worthy of historical interest.]
-
-**MANIFESTATION RECORD 3**
-
-| | |
-| --- | --- |
-| Manifestation type | Unknown [Video transfer] |
-| Identifier | [-----] |
-| Preferred title | катька бумажный ранет |
-| Alternative Title – transliterated | Katʹka bumazhnyǐ ranet |
-| Parallel Title – US release title | Katka’s reinette apples |
-| Date – video transfer | [1995?] |
-| Carrier type – general | Video tape |
-| Carrier type – specific | ½ in. VHS |
-| Projection characteristics – Aspect ratio | 1.33:1 |
-| Sound characteristics | Silent |
-| Color characteristics | Black and white |
-| Logical extent | 1 videocassette |
-| Duration | 85 minutes |
-| Language | Russian intertitles only. |
-| Agents | Dub from 1 in. master tape by: Pacific Film Archive |
-| Notes | The negative from the print used to dub this tape is missing footage. Some scenes are truncated. The footage loss between the original footage and the print is approximately 102 feet. Titles preceding film (cataloger's translation in brackets): Iz istorii Sovetskoǐ khudozhesvennoǐ kinematografii. T︠ s︡ikl 1. Nemoe kino -- Glavnoe upravlenie kinofikat︠ s︡ii i kinoprokata i vsesoiuznyǐ gosudarstvennyǐ fond kinofilʹma pokazyvai︠ u︡t Katka bumazhnyǐranet -- Ėtot filʹm byl postavlen v 1926 godu. On i︠ a︡ vilsi︠ a︡ odnim iz pervykh opytov sozdanii︠ a︡  bytovoǐ dramy na sovremennom sovetskom materiale. Istoricheskiǐ interes predstavli︠ a︡ et popytka avtorov filʹma pokazatʹ zhivye chelovecheskie kharaktery. [From the history of the Soviet artistic cinema. Cycle one. Silent cinema -- The Central Bureau for Film Distribution and the All-Union Governmental Cinema Collection present: Katka's reinette apples -- This film was produced in 1926. It constitutes one of the first attempts to create on the basis of contemporary Soviet material a drama from "everyday life." The authors' attempt to show living human characters is worthy of historical interest.] |
-
-**ITEM RECORD 1 [links to MANIFESTATION 1]**
-
-| | |
-| --- | --- |
-| Identifier – local call number | 3500-01-5762 |
-| Preferred title | катька бумажный ранет |
-| Alternative Title – transliterated | Katʹka bumazhnyǐ ranet |
-| Parallel Title – US release title | Katka’s reinette apples |
-| Holding institution | University of California, Berkeley Art Museum and Pacific Film Archive |
-| Date – print date | [unknown] |
-| Item material type | Positive |
-| Item status | Viewing copy; release print |
-| Unit number | 6 reels of 6 |
-| Base | triacetate |
-| Physical extent | 6474 ft. |
-| Stock | Svema |
-| Duration | Running time at 20 fps: 01:25:49 |
-| Note | The negative from which this print was struck is missing footage. Some scenes are truncated. The footage loss between the original footage and this print is approximately 102 feet. |
-| Item specific note | PFA 3500-01-5762. CONDITION NOTE: Last inspected: 1994 Apr 20; splices; Excellent condition: General comments on all reels: scratches are printed on, as are some splice points from the original negative; otherwise, no scratches on the print itself; reel changeover marks are hole-punched in at the end of every reel; REEL 1 (973 ft., 6 fr.): Russian academy leader tape-spliced on at head; edge code: 182 SVEMA M3 BEZOPASNAIA; SMPTE Universal leader tape-spliced at end [...] |
-| Item specific note | AD test 2007-03-01: all reels level 0.5 |
-| Access conditions | Pacific Film Archive collection; non-circulating. |
-| Access conditions | Restricted: Not for research use. |
-
-**ITEM RECORD 2 [links to MANIFESTATION 2]**
-
-| | |
-| --- | --- |
-| Identifier – local call number | 1 in. MASTER |
-| Preferred title | катька бумажный ранет |
-| Alternative Title – transliterated | Katʹka bumazhnyǐ ranet |
-| Parallel Title – US release title | Katka’s reinette apples |
-| Holding institution | University of California, Berkeley Art Museum and Pacific Film Archive |
-| Date – video transfer | [1985?] |
-| Date – log-in | 1992-07-14 |
-| Item material type | Positive |
-| Item status | Master |
-| Unit number | 1 videoreel of 1 |
-| Base | video |
-| Stock | Ampex |
-| Duration | Running time: 01:25:49 |
-| Note | 1 in. film-to-tape transfer made at 20 fps |
-| Access conditions | Pacific Film Archive collection; non-circulating. |
-
-**ITEM RECORD 3 [links to MANIFESTATION 3]**
-
-| | |
-| --- | --- |
-| Identifier – local call number | 0500-01-7801 |
-| Preferred title | катька бумажный ранет |
-| Alternative Title – transliterated | Katʹka bumazhnyǐ ranet |
-| Parallel Title – US release title | Katka’s reinette apples |
-| Holding institution | University of California, Berkeley Art Museum and Pacific Film Archive |
-| Date – video transfer | [1995] |
-| Date – acquisition | 1995-03-07 |
-| Item material type | Positive |
-| Item status | Viewing copy |
-| Unit number | 1 videocassette of 1 |
-| Base | video |
-| Stock | Fuji |
-| Duration | Running time: 01:25:49 |
-| Note | Original 1 in. film-to-tape transfer made at 20 fps |
-| Access conditions | Pacific Film Archive collection; non-circulating. |
-
-Links to original MARC-based, flat records:
-
-Parallel to Manifestation 1: http://oskicat.berkeley.edu/record=b10385235~S43
-
-Parallel to Manifestation 2: http://oskicat.berkeley.edu/record=b10391010~S43
-
-Parallel to Manifestation 3: http://oskicat.berkeley.edu/record=b10390992~S43
-
-\subsection[Example 4. Short feature film in 3-level Hierarchy Model]{Example 4. Short feature film in 3-level Hierarchy Model
-    \label{sec:example_four}
-    } 
-
-In examples 4-6 the field names are given in red.
-These do not relate to the initial illustrative colour codes used in examples 1 and 2 in any way, but are simply a means of distinguishing the field name from the rest of the data.
-
-| | | 
-| --- | --- |
-| Identification number | F7271 |
-| Title | Title type |
-| Day of the subgenius | Original |
-| Day of the sub genius | Help Search |
-| Level | Work |
-| Work description type | Monographic |
-| Form | Fiction |
-| Country of reference | United Kingdom |
-| Year of reference | Year of reference type |
-| 2001 | Copyright |
-| Genre | Animation |
-| Subject | Aliens, Monsters |
-| Content description | Mix of CGI and live-action representing the Church of the Subgenius’ salvation of mankind from an attack of B-movie monsters and UFOs. |
-| Agent activity | Agent |
-| Director | Hopewell, Chris |
-| Production company | bolexbrothers |
-| Executive Producer | Leighton, Andy |
-| Written by | Williams, John |
-| Written by | Hopewell, Chris |
-| Adapted from ‘The Brag of the Subgenius’ by | Stang, Ivan |
-| Digital Composition & Animation | Ternan, Melvyn |
-| Digital Composition & Animation | Foley, Ben |
-| Digital Composition & Animation | Hopewell, Chris |
-| CGI Models & Animation | Ravenstein, Claudia “Fybs” |
-| CGI Models & Animation | Harrington, Ryan |
-| CGI Models & Animation | Harrington, Lewis |
-| 2D Graphic Artists | Kaos |
-| 2D Graphic Artists | Hopewell, Chris |
-| 2D Graphic Artists | Chevrier, Sandrine |
-| 2D Graphic Artists | Fell, Curtis |
-| 2D Graphic Artists | Bailey, Lynn |
-| CGI Models & Animation | Smith, James |
-| Sound Design | Williams, John |
-| Sound Effects | Brandt, Peter |
-| Sound Effects | Lea, David |
-| Parts reference | Parts title |
-| M7272 | Day of the subgenius |
-
-| | | 
-| --- | --- |
-| Identification number | M7272 |
-| Title | Title type |
-| Day of the subgenius | Original |
-| Level | Manifestation |
-| Manifestation type | Theatrical (main country of origin) |
-| General Format | Specific Format |
-| Video – Analogue | Betacam SP |
-| Widescreen Process | Wide screen (un-specified) |
-| Aspect ratio | 16:9 |
-| Colour | Colour |
-| Sound | Sound |
-| Language | Language usage type |
-| English | Spoken |
-| Release Country | Date |
-| United Kingdom | 2001 |
-| Running time | 6 minutes 36 seconds |
-| Part of reference | Part of title |
-| F7271 | Day of the subgenius |
-| Parts reference | Parts title |
-| I7274 | Day of the subgenius |
-| I8003 | Day of the subgenius |
-
-| | | 
-| --- | --- |
-| Identification number | I7274
-| Title | Title type
-| Day of the subgenius | Original
-| Level | Item
-| Item type | Video
-| Status | Usage
-| Master | Restricted access to preserved videotape
-| Language | Language usage type
-| English | Spoken
-| Colour | Colour
-| Aspect ratio | 16:9
-| Item catalogue date | 2001
-| Base | Video
-| Stock | Maxell
-| Colour standard | Line standard
-| PAL | 625
-| Video format | Betacam SP
-| Video duration | 06:59
-| Copy number | Package number
-| B-188816 | 0011A2B
-| Number of cans/cassettes | 1 |
-| Current location | BK3AD123455 |
-| date | 2013-12-11 | 
-| Home location | PSR54321 |
-| Start date | 2013-12-11 |
-| Removal date | 2013-12-11 |
-| Acquisition date | 2011 |
-| Donor | FIAF |
-| Part of reference | M7272 |
-| Part of Title | Day of the subgenius |
-
-
-| | | 
-| --- | --- |
-| Identification number | I8003 |
-| Title | Title type |
-| Day of the subgenius | Original |
-| Level | Item |
-| Item type | Video |
-| Status | Usage |
-| Master | Restricted access to preserved videotape |
-| Language | Language usage type |
-| English | Spoken |
-| Colour | Colour |
-| Aspect ratio | 16:9 (full height anamorphic) |
-| Item catlogue date | 2001 |
-| Base | Video |
-| Stock | Maxell |
-| Colour standard | Line standard |
-| PAL | 625 |
-| Video format | Digital Betacam |
-| Video duration | 06:28 |
-| Copy number | Package number |
-| B-291366 | 0000LZI |
-| Number of cans/cassettes | 1 |
-| Current location | BK2AB123456 |
-| date | 2015-02-27 | 
-| Home location| PS123456 |
-| Start date | 2015-02-26 |
-| Removal date | 2015-02-27 | 
-| Donor | FIAF |
-| Part of reference | Part of Title |
-| M7272 | Day of the subgenius |
-
-\subsection[Example 5. Home Movie in 3-level Hierarchy Model]{Example 5. Home Movie in 3-level Hierarchy Model
-    \label{sec:example_five}
-    } 
-
-| | |
-| --- | --- |
-| Identification number | 664643 |
-| Title | Title type |
-| Shots of 1932 | Acquisition |
-| Brown Family Film | Devised |
-| Level | Work |
-| Category | Non Fiction |
-| Country | United Kingdom |
-| Date | 1932 |
-| start Precision | circa |
-| Date type | Production |
-| Production status | Completed |
-| Genre | Amateur film |
-| Subject | Family life, Christenings, Seaside holidays |
-| Description type | Description |
-| Synopsis | Important events in the life of the Brown family, taking place in 1932. |
-| Shotlist | RL 1: Valerie Vivienne, the daughter of Edwin and Joyce, is born. Various shots of the baby being held by Edwin and Joyce; baby’s christening. Some shots of the Hendon Air Pageant. Family holiday, scenes at Little Holland (near Clacton on Sea). Back home; Jack and Tops’ wedding. Return to Little Holland. RL 2: Joyce and another woman are pushing prams up a hill near the beach. Edwin poses for the camera. Shots of “Red Gable”, which is possibly their holiday home, outside and inside. The women hold the babies up to the camera. The men go horse riding. Shots at the beach. Outing to Tunbridge Wells, having a stroll. More shots of the baby. |
-| Credit | Name |
-| Camera Operator | Brown, Edwin G., |
-| Parts reference | Parts title |
-| M-438218 | Shots of 1932 |
-
-| | |
-| --- | --- |
-| Identification number | M-438218 |
-| Title | Title type |
-| Shots of 1932 | Acquisition |
-| Level | Manifestation |
-| Manifestation type | Not for release |
-| General Format | Specific Format |
-| Film | 9.5mm Film |
-| Colour | Black and White |
-| Sound | Silent |
-| Release Country | United Kingdom |
-| Date | 1932 |
-| Precision | circa |
-| Dimension | Length |
-| Value | 400 |
-| Unite | Feet |
-| Part of reference | title |
-| 664643 | Shots of 1932 |
-| Parts reference | Parts title |
-| C-1264202 | Shots of 1932 |
-
-
-| | |
-| --- | --- |
-| Identification number | C-1264202 |
-| Title | Title type
-| Shots of 1932 | Acquisition
-| Brown Family Film. Shots of 1932 | Devised
-
-
-| Level | Item
-| Item type | Film
-
-| Status | Usage
-| Master | Restricted access to preserved film
-
-| Colour | Black and white
-| Base | Safety
-| Gauge | 9.5mm
-| Description | Original Reversal BW Positive
-| Sound | Silent
-
-| Stock | Pathe | 
-| Stock date early | 1932 | 
-| Precision | circa |
-| Stock date late | 1932 | 
-| Precision | circa |
-| Condition emulsion | Condition base | 
-| Scratches | Scratches |
-| Copy number | 1264202-1 | 
-| Package number | AB12C3D |
-
-| Reel number | 1 | 
-| Total reels | 2 | 
-| Number of cans/cassettes | 1
-
-| Dimensions Part | Total | 
-| Value | 400 |
-| Unit | feet |
-
-| Dimensions Part | Reel 1 | 
-| Value | 200 |
-| Unit | feet |
-
-
-| Dimensions Part | Reel 2 | 
-| Value | 200 |
-| Unit | feet |
-
-| Current location | BK1AC12344 | 
-
-| Home location | BK1AC12344 |
-
-| Acquisition date | 2003-01-22 |
-| Method | Donation |
-| Donor | Fiaf Brown |
-
-| Part of reference | Part of Title |
-| M-438218 | Shots of 1932 |
-
-\subsection[Example 6. Television Serial and Episode records in 3-level Hierarchy Model (with Monographic Work in “part of” relationship with Serial Work)]{Example 6. Television Serial and Episode records in 3-level Hierarchy Model (with Monographic Work in “part of” relationship with Serial Work)
-    \label{sec:example_six}
-    } 
-
-| | |
-| --- | --- |
-| Identification number | 772521 |
-| Title | Title type |
-| Hill Street Blues | Original |
-| Hill St Blues | Alternative |
-| Level | Work |
-| Filmographic level | Serial |
-| Category | Fiction |
-| Production country | United States of America
-| Date start | 1981-01-15 |
-| Date end | 1987-05-12 |
-| Date type | Television broadcast |
-| Genre | Police drama |
-| Work History | Drama series following the activities of an American city police precinct and its personnel. USA. MTM Enterprises for NBC Television. United States of America, NBC, transmitted 15/01/1981-12/05/1987 [7 seasons; 146 x hour] UK, Channel 4, transmitted 22/01/1981- |
-| Parts reference | Parts title |
-| 193074 | Politics As Usual |
-| 193075 | Can World War III Be an Attitude? |
-| 193076 | Dressed to Kill |
-| 193077 | Film at Eleven |
-| 193078 | Choice Cut |
-| 193079 | Up in Arms |
-| 193080 | Your Kind, My Kind, Humankind |
-| 193081 | Gatorbait |
-| Etc. etc. | |
-| Related to | |
-| Periodical: | Time Out – issue 898 4 November 1987. Pages 16-17. |
-| Abstract: | Comments on the final series and interview with James B. Sikking about his role. |
-| Periodical: | City Limits – n134 27 Apr 1984 pages 17-19. 21 |
-| Abstract: | Article tracing the history of the series, and examining the reasons for its success. |
-| Periodical: | TV Guide – volume 45. issue26. June 1997. pages 10-67. Article: 100 greatest episodes of all time | 
-| Abstract: | TV Guide and television experts at NICK AT NITE’S TV LAND select 100 greatest episodes from drama series and sitcoms from the 1950s to 1997. |
-| Periodical: | Playback – issue Special Collectors April 1995. Page 52 |
-| Abstract: | Article about the background, production and reception of the series. Creative Screenwriting volume 5. Issue 3, June 1998. pages 24-31 |
-| Article: | Creating the prime time novel: an interview with Michael Kozoll by: Douglas Heil. |
-| Abstract: | Interview with television screenwriter Michael Kozoll who discusses Hollywood screenwriting as purely business. His work on the US television series HILL STREET BLUES and DELVECCHIO is particularly mentioned. Written by – volume 3. issue 10. November 1999. pages 16-30 |
-| Article: | Upstairs/downstairs by: Alan Waldman |
-| Abstract: | Steve Bochco, Bruce Paltrow and other writers talk about the period in the 1980s when they worked together for CBS to write classic shows such as HILL STREET BLUES and ST. ELSEWHERE. |
-
-| | |
-| --- | --- |
-| Identification number | 193075 |
-| Title | Can World War III Be an Attitude? |
-| Title type | Original |
-| Level | Work |
-| Filmographic level | Monographic | 
-| Category | Fiction |
-| Production country | United States of America |
-| Date start | 1981-01-24 |
-| Date type | Television broadcast |
-| Genre | Police drama |
-| Subject | Corruption, Bribery, Police, Car theft, Gangs, Power cuts |
-| Description type | Synopsis |
-| Description | Furillo focuses on a bribery case against LaRue, while Hill and Renko arrest a thief with hidden expertise. |
-| On-screen credit | Name |
-| Director | Butler, Robert |
-| Production company | MTM Productions |
-| Teleplay | Bochco, Steven |
-| Teleplay | Kozoll, Michael |
-| Character | Name |
-| Captain Frank Furillo | Travanti, Daniel J. |
-| Sgt Phil Esterhaus | Conrad, Michael |
-| Detectiver Mick Belker | Weitz, Bruce |
-| Lt Calletano | Enríquez, René |
-| Officer Hill | Warren, Michael |
-| Officer Renko | Haid, Charles |
-| Lucy | Thomas, Betty |
-| Detective LaRue | Martin, Kiel |
-| Part of reference | Part of reference title |
-| 772521 | Hill Street Blues |
-| Parts reference | Parts title |
-| X-58733 | Can World War III Be an Attitude? |
-| X-58734 | Can World War III Be an Attitude? |
-
-
-| | |
-| --- | --- |
-| Identification number | X-58733 |
-| Title | Title type |
-| Can World War III Be an Attitude? | Original |
-| Level | Manifestation |
-| Manifestation type | TV transmission |
-| Date | 1981-01-24 |
-| Broadcast channel | NBC TV |
-| Coverage | Network |
-| Country | United States of America |
-| Colour | Colour |
-| Sound | Sound |
-| Language | Usage |
-| English | Dialogue (original) |
-| Part of reference | Part of reference title |
-| 193075 | Can World War III Be an Attitude? |
-
-
-| | |
-| --- | --- |
-| Identification number | X-58734 |
-| Title | Title type |
-| Can World War III Be an Attitude? | Original |
-| Level | Manifestation |
-| Manifestation type | TV transmission |
-| Date | 1997-02-22 |
-| Start time: | 23:35:00 |
-| End time: | 00:35:00 |
-| Duration: | 60 minutes |
-| Broadcast channel | Channel 4 | 
-| Coverage | Network | 
-| Country | United Kingdom | 
-| Colour | Colour | 
-| Sound | Sound | 
-| Language | Usage | 
-| English | Dialogue (original) | 
-| Part of reference | Part of reference title | 
-| 193075 | Can World War III Be an Attitude? | 
-| Parts reference | Parts reference title | 
-| C-925142 | Hill Street Blues [22/02/1997] | 
-| C-925117 | Hill Street Blues [22/02/1997] | 
-
-| | |
-| --- | --- |
-| Identification number | C-925142 |
-| Title | Title type |
-| Hill Street Blues [22/02/1997] | Original |
-| Level | Item |
-| Item type | Video |
-| Status | Usage |
-| Viewing | Videotape can be requested for access |
-| Language | Usage |
-| English | Dialogue (original) |
-| Colour | Colour |
-| Base | Video |
-| Colour standard | Line standard |
-| PAL | 625 |
-| Audio standard | stereo |
-| Video format | VHS cassette |
-| Video duration | 47.12 |
-| Number of cans/cassettes | 1 |
-| Current location | date |
-| BK2AC12345 | 2015-06-12 |
-| Acquisition date | 1997-02-22 |
-| Method | Off-Air recording |
-| Part of reference | Part of Title |
-| X-58734 | Can World War III Be an Attitude? |
-
-| | |
-| --- | --- |
-| Identification number | C-925117 |
-| Title | Title type |
-| Hill Street Blues [22/02/1997] | Original |
-| Level | Item |
-| Item type | Video | 
-| Status | Usage | 
-| Master | Restricted access to preserved videotape | 
-| Language | Usage | 
-| English | Dialogue (original) | 
-| Colour | Colour | 
-| Base | Video | 
-| Stock | Fuji | 
-| Colour standard | Line standard | 
-| PAL | 625 | 
-| Audio standard | Stereo | 
-| Video format | D3 | 
-| Video duration | 47.12 | 
-| Number of cans/cassettes | 1 |
-| Current location | date | 
-| BK2AC12346 | 2015-06-12 | 
-| Acquisition date | 1997-02-22 |
-| Method | Off-Air recording |
-| Part of reference | Part of Title |
-| X-58734 | Can World War III Be an Attitude? |
-
-\subsection[Example 7. Aggregate DVD Television Serial and Episode records in 1-level Hierarchy Models]{Example 7. Aggregate DVD Television Serial and Episode records in 1-level Hierarchy Models
-    \label{sec:example_seven}
-    } 
-
-Supernatural. The Complete Sixth Season
-Supernatural. Season 6
-United States of America, 2011
-
-Record number: 12345
-
-Kripke Enterprises Scrap Metal & Entertainment, Wonderland Sound and Vision
-©2011 Warner Bros Entertainment Inc.
-Distributed by Warner Home Video.
-Classification: 15 (BBFC)
-
-Fiction, Horror, Fantasy
-
-Supernatural, Angels, Demons, Souls, Ghosts, Vampires, Shapeshifters, Alternative Realities, Fairies, Monsters, Purgatory, Hell, Heaven, Fate, Death, Possession, Time travel, Free will, Conflict, Brothers, Betrayal
-
-Regular cast: Jared Padelecki – Sam Winchester, Jensen Ackles – Dean Winchester, Misha Collins - Castiel
-
-Guest stars: Jim Beaver - Bobby Singer, Mark A. Sheppard – Crowley, Mitch Pileggi - Samuel Campbell, Cindy Sampson - Lisa Braeden, Sebastian Roché – Balthazar, Nicholas Elia - Ben Braeden, Jessica Heafey - Gwen Campbell, Corin Nemec - Christian Campbell, Julia Maxwell – Eve, Kim Johnston Ulrich - Dr. Eleanor Visyak, Demore Barnes – Raphael, Laura Mennell – Brigitta, David Paetkau - Mark Campbell, Sonya Salomaa – Rachel, Lanette Ware – Raphael, Steven Williams - Rufus Turner, Rick Worthy - Alpha Vampire, Amber Benson – Lenore, Samantha Ferris - Ellen Harvelle, Fredric Lehne – Azazel, Lindsey McKeon – Tessa, Rachel Miner - Meg Masters, Kim Rhodes - Sheriff Jody Mills, Julian Richings – Death, Samantha Smith - Eve
-
-Credits: Directors – Phil Sgriccia, John F. Showalter, Robert Singer, Jensen Ackles, Rod Hardy, Jan Eliasberg, Guy Bee, Mike Rohl, David Barrett, Jeannot Szwarc, Charles Beeson, Ben Edlund; Created by – Eric Kripke; Executive Producers – Robert Singer, Sera Gamble, Eric Kripke, Phil Sgriccia, Ben Edlund, McG
-
-For a year following the thwarting of the Apocalypse, Dean Winchester tries to live a normal family life with Lisa and Ben. When his brother Sam suddenly turns up freed from Lucifer’s cage in Hell, Dean teams up with him and becomes a hunter again but soon
-discovers there is something different and more ruthless about Sam. The two become entangled in a quest for souls that ties in with Crowley’s scheming and Castiel’s struggles with Free Will and determination to win the civil war raging in Heaven.
-
-Home Viewing publication. DVD. Dual Layer Format. Region 2. 6 Discs. 876 minutes (approximate). 16:9 Full Frame. Colour. Dolby Digital. Language: English. Optional languages: Castilian, Spanish, French, Hearing Impaired English. Optional subtitle languages: Castilian, Spanish, Danish, Dutch, Finnish, French, Norwegian, Portuguese, Swedish.
-
-Contains:
-
-Exile on Main Street
-Two and a half Men
-The Third Man
-Weekend at Bobby’s
-Live Free or Twihard
-You Can’t Handle the Truth
-Family Matters
-All Dogs Go to Heaven
-Clap Your Hands if You Believe
-Caged Heat
-Appointment in Samarra
-Like a Virgin
-Unforgiven
-Mannequin 3: the Reckoning
-The French Mistake
-…And Then There Were None
-My Heart Will Go On
-Frontierland
-Mommy Dearest
-The Man Who Would Be King
-Let It Bleed
-The Man Who Knew Too Much
-
-Special Features:
-
-Jensen Ackles: a director’s Journey
-Supernatural and the Quest for the Soul
-Executive Producers Commentary on 2 Episodes
-The French Mistake Alternate Takes and Outtakes
-Gag Reel
-
-Supernatural. Let it Bleed             
-Record number: 6789
-Let it Bleed
-Season 6. Episode 21
-United States of America, 2011. First Broadcast: 2011-05-20, Friday, 21:00 – 22:00, United States of America, The CW.
-
-Fiction, Horror, Fantasy
-Angels, Demons, Kidnapping, Possession, Betrayal, Relationships, Trust, Purgatory
-
-Production companies – Kripke Enterprises Scrap Metal & Entertainment, Wonderland Sound and Vision
-
-Cast: Jared Padelecki, Jensen Ackles, Misha Collins, Jim Beaver, Mark A. Sheppard, Sebastian Roché, Kim Johnston Ulrich, Cindy Sampson, Nicholas Elia; co-starring – Adam Greydon Reid, Antony Holland, Panou, Peter Ciuffa, Ian Butcher
-
-Credits: Directed by – John F. Showalter; Written by – Sera Gamble; Created by – Eric Kripke; Producer - Todd Aronauer; Co-producers – Jerry Wanek, Serge Ladouceur; Executive Producers – McG, Ben Edlund, Robert Singer, Sera Gamble, Eric Kripke; Co-executive Producers – Jim Michaels, Adam Glass, Peter Johnson; Associate Producer – Kristin Cronin; Story Editors – Eric Charmelo, Nicole Snyder; Executive Story Editors – Andrew Dabb, Daniel Loflin, Brett Matthews; Director of Photography – Serge Ladouceur; Editor – Nicole Baer; Production Designer – John Marcynuk; Production Manager – Craig Matheson; Music – Jay Gruska; Music Supervisor- Alexandra Patsavas; Music Editorial by – Dino Moriana; First Assistant Director – Kevin Parks; Second Assistant Director – Debra Herst; Casting by – Robert J. Ulrich, Eric Dawson, Carol Kritzer, Alex Newman; Original casting by – Patrick J. Rush; Costume Designer – Diane Widas; Set Decorator – George Neuman; Property Master – Chris Cooper; Key Makeup Artist – Sarah Graham; Key Hair Stylist – Jeannie Chow; Script Supervisor – Pam Lawrence; Stunt Co-ordinator – Lou Bollo; Special Effects Supervisor – Randy Shymkiev; Special Effects Makeup – The Schminken Collective Group Inc.; Sound Mixer – Donald Painchaud; Re-recording Mixers – Dennis Kirk, Todd Orr; Supervising Sound Editor – Charlie Crutcher; Visual Effects Supervisor – Ivan Hayden; Visual Effects Producer – Grant Lindsay; Transportation Co-ordinator – Mark Gould
-
-Sam, Dean, and Bobby investigate a possible breakthrough to the secret of opening Purgatory, linked to events at a dinner party hosted by horror author H.P.Lovecraft back in 1937. However, King of Hell Crowley kidnaps Lisa and Ben to try and distract the brothers from their investigations and interfering with his and Castiel’s plans. Castiel unsuccessfully tries to persuade Dean to trust in him and what he is doing and the brothers summon the angel Balthazar for help. During a rescue attempt Lisa is critically injured.
-
-Home Viewing publication. DVD. Region 2. Dual Layer Format. Viewing copy. Disc 6. 42 minutes 16 seconds. 16:9 HD. Colour. Dolby Digital. Language: English. Optional languages: Castilian, Spanish, French, Hearing Impaired English. Optional subtitle languages: Castilian, Spanish, Danish, Dutch, Finnish, French, Norwegian, Portuguese, Swedish
-
-Contained in: Supernatural. The Complete Sixth Season (Record Number: 12345).
+\section{Rights/Copyright/IPR Registration}  
+\label{sec:appendix_rights_copyright_ipr_registration}
+    
+\subsection{Rights in a moving image Work}  
+\label{sec:rights_in_a_moving_image_work}
 
+The intellectual property rights in a moving image work are known by various terms such as Copyright, Ayant droit, Droit d’Auteur, IP or simply Rights.
+These IP rights are complex entities, reflecting the complexity of a moving image work’s creation; and they vary across legal frameworks and across historical periods.
+It is therefore impractical to define a minimum cataloguing requirement which is compliant across all territories and periods.
+In addition, it should be noted that legal frameworks can change across time, so data which is not useful today can become useful if the legal definition changes – for example the definitions of author outlined below.
+
+With that context in mind, the following attempts to define a good practice set of properties which the moving image cataloguer should consider, both in reference to their specific legal framework, and in reference to potentially useful data over the lifecycle of the archive’s activity.
+In short: capturing more of the core rights data now will safeguard future archival activity better than capturing less of that rights data now.
+
+It is important to note that intellectual property rights in a moving image work are created automatically, regardless of any requirement for formal registration by the creators of the work.
+In addition, it is worth noting that in some legal territories, unlike literary, dramatic, musical or artistic works, moving image works do not have to meet the criterion of ‘original’ to be protected with intellectual property rights.
+Finally, it is worth noting that unpublished works are often treated differently under law to published works, so it is recommended that the cataloguer capture a statement where it is known that a work is unpublished (for example, home movies).
+
+The recommended properties below are preceded by some background information.
+
+\subsubsection{Background information} 
+\label{sec:background_information} 
+
+\paragraph{Source of data} 
+\label{sec:source_of_data} \
+
+Regarding the source of intellectual property data, it is recommended to obtain the relevant information from onscreen text, taken from the first official manifestation in the primary country of origin.
+Historically this has been a theatrical release in the primary country of production, but as that model changes to include simultaneous online publication of moving image works across multiple territories, this recommendation should accommodate this fluidity: capture the data from the best available manifestation source representing the arguable ‘first fixation’ of the work, and document that source in your work record.
+Alternatively, use information given by the production companies or rights holders, or from other authoritative secondary sources.
+
+\paragraph{Authors of a moving image Work} 
+\label{sec:authors_of_a_moving_image_work} \
+
+The Authors of a moving image work are the first owners of the intellectual property rights.
+As the defined authors of the moving image work differ substantially across territories, the following examples illustrate these differences, and emphasise the usefulness of a broad data capture policy.
+
+UK: The Producer and the Principal Director are the Authors of the work, and therefore the first copyright holders.
+
+Producer: this can be either a person (natural person) or a company (legal person).
+The producer is defined as ‘the person by whom the arrangements necessary for the making of the film are undertaken’.
+The notion of the ‘producer’ presupposes that at the core of the production process there is a person or company which co-ordinates, controls and organises the production.
+For this reason, the recommendation below is to capture both Production Company and named individual Producer.
+
+Principal Director: as credited onscreen.
+
+France: distinct from the United Kingdom model, in France it is those natural persons (not legal persons) who make a creative contribution to the film that are considered authors, so production company / producer are not authors.
+
+Director
+
+Author of the script
+
+Author of the adaptation (if different)
+
+Author of the dialogue (if different)
+
+Author of musical composition written for the film
+
+(plus ‘assimilated’ authors of pre-existing protected works e.g. author of an original novel, or playwright)
+
+Germany: The German model is very similar to the French, again focusing on the creative contributions made by natural persons, but the list can be extended to include a broader set of persons – e.g. cameramen as author – as German Law does not specify the persons deemed as authors.
+
+USA: The US model has a number of categories of authors who make creative contributions (rather like Germany), but the law does not define the ‘authors’, and in any case most individuals will be contracted under ‘work for hire’ provisions which means that the producer is the owner of the intellectual property rights.
+
+These first owners of the intellectual property rights (or their heirs, in the event of their death) retain these rights until one of two events takes place:
+
+1. They (or their heirs) actively sell, assign or otherwise transfer the rights
+
+2. The rights expire, according to specific legal framework(s)
+
+Again, the definitions of what makes a work ‘out of copyright’ differ across territories and periods, so it is impractical to offer a universally compliant cataloguing approach.
+However, in many contexts, the lapse occurs at a stated period after the death of the last of the Authors (or the ‘connected persons’ in the UK).
+For example, in the United Kingdomframework, the work is out of copyright at 70 years following the last death of these ‘connected persons’: Director, Screenplay author, Dialogue author, Music composer.
+
+In the US, where a moving image Work is often a Work of corporate ownership, the current copyright term for a published Work expires 95 years after initial publication or 120 years after creation, whichever expires first.
+However, between 1923-2002 there were periods where other formalities needed to be followed in order to retain copyright: during some periods, a Item required “notice” (a copyright symbol or statement) on the work; in other periods, the Work had to be renewed in the 28th year after initial publication.^[For guidance on copyright terms in the US, see Peter Hirtle’s chart “Copyright terms and the public domain in the United States,” updated annually. http://copyright.cornell.edu/resources/publicdomain.cfm]
+
+As intellectual property rights can be transferred, and can lapse, it is recommended that cataloguers capture statements about the rights’ status: current / previous / out of copyright, and the dates of transfer / lapse, as described below.
+In addition, as death dates are so critical in establishing the status of out of copyright, it is recommended that cataloguers capture the death dates of key contributors where known (and where feasible, that person records for key ‘authors’ are associated with equivalent entities in an official registry of persons, such as VIAF, ISNI or other).
+
+\paragraph{Layers of protection for the ‘work’ as abstraction, and the ‘fixation’ or ‘recording’ of the work in a concrete form} 
+\label{sec:layers_of_protection_for_the_work_as_abstraction_and_the_fixation_or_recording_of_the_work_in_a_concrete_form} \
+
+The complexity and variation in the intellectual property rights surrounding a moving image work also extends to multiple layers of protection, in some legal frameworks.
+Bluntly described, these multiple layers protect the ‘work’ as an abstraction (with the rights held by the ‘authors’, as defined above) and, separately, the ‘fixation’ or ‘recording’ of the work as a film.
+This second layer is often called Related Rights or Neighbouring Rights, and often these rights are owned by the Producer.
+
+This layered approach is not always present in law, for example in the United Kingdomit is the fixation (the recording) that is protected by copyright.
+But some prominent examples of this layered approach are the United States of America, where a film is protected as an original work of expression as distinct from the recording; and France and Germany, which both have separate protection for the work and the recording.
+
+Given the territorial variation, once again, rather than recommend different data properties for the different countries, instead it is recommended to capture a core set of rights data properties, which should provide information sufficient for all possibilities within the different frameworks.
+
+\paragraph{Orphan works} 
+\label{sec:orphan_works} \
+
+Orphan works are defined as those works which are ‘still protected by copyright but whose authors or other rightholders are not known or cannot be located.’ (from the OHIM Orphan Works Database website at https://oami.europa.eu/ohimportal/en/web/observatory/orphan-works-database).
+The absence of information about ownership has prevented archives from exploiting their collections in revenue-generating or access-driving initiatives: for example, online display of digitised collections.
+
+Multiple formal schemes are emerging to register so-called ‘orphan works’ works in certified, searchable databases.
+These schemes require the registering organisation to undertake ‘diligent search’ (e.g., the OWLS guidelines here: https://www.gov.uk/government/publications/orphan-works-diligent-search-guidance-for-applicants) with minimum requirements, and the registration then allows the organisation to exploit the work within parameters defined in legal frameworks.
+
+Three prominent examples (which offer slightly different exploitation rights as outcomes of registration) are the European Union Orphan Works Database (https://oami.europa.eu/orphanworks/); the United Kingdomversion, called Orphan Works Licensing Scheme, or OWLS, (https://www.gov.uk/copyright-orphan-works); and the Canadian version, called Unlocatable Copyright Owners (http://www.cb-cda.gc.ca/unlocatable-introuvables/brochure1-e.html).
+The United States has not yet passed legislation on orphan works, but the Register of Copyrights is actively seeking to change the laws.^[Priorities and special projects of the United States Copyright Office (October 2011), http://copyright.gov/docs/priorities.pdf]
+
+The cataloguer within a moving image archive that is undertaking such registration should add data derived from that registration activity, for example unique identifier for the registration, URL to online database record, link to certificate on PDF, etc.
+
+\paragraph{Rights-protected works that may be used within, or created during, a film production} 
+\label{sec:rights_protected_works} \
+
+These are the types of protected works which are often contained within a new moving image work, or indeed created by the making of a moving image work, and which are often referred to as ‘underlying rights’ or “third-party rights.” When establishing Manifestation rights (see below), these underlying rights must be investigated and cleared as required.
+
+Literary Works – such as a pre-existing novel or play used as the basis for the film screenplay
+
+Dramatic Works – Script(s)
+
+Musical Works – pre-existing music; commissioned music
+
+Artistic Works – such as décor, costumes
+
+Performances – actors’ performances, musical performances of pre-existing mu-
+sic, musical performances in commissioned music
+
+Sound Recordings – if commissioned for pre-existing music
+
+Films – such as archival footage; special effect footage
+
+\subsubsection{Recommended properties to capture in describing the rights context of a moving image Work}
+\label{sec:recommended_properties_to_capture1}
+
+1. Copyright holder and Copyright Date, as displayed on screen (often associated with a © symbol)
+
+2. Status of intellectual property rights holder:
+
+  a. Current
+
+  b. Previous (where rights are known to have transferred), with date of transfer if known
+
+3. Producer and Production Companies
+
+4. Director(s), with death dates if known
+
+5. Screenplay author(s), with death dates if known
+
+6. Dialogue author(s) (if different), with death dates if known
+
+7. Author(s) of underlying literary work (book, play, etc) if relevant, with death dates if known
+
+8. Music composer(s), with death dates if known (note that this refers to the composer of any music commissioned for and used in the film, rather than any pre-existing music used within the film – see 10)
+
+9. Full cast if feasible, or main billed cast at a minimum, with death dates if known
+
+10. Detail of any pre-existing works (moving or still image, dramatic, literary or musical works) contained within the moving image work, with provenance and ownership captured as fully as possible. (This set of contained works is often referred to as ‘underlying rights’, alongside the Performers’ rights of the cast).
+
+  a. title
+
+  b. creator
+
+  c. creation date
+
+  d. rightsholder if known
+
+  e. dates of rights transfer if relevant and if known
+
+11. Production Date: capture a Start Date and End Date if possible, capturing the full known period of production.
+
+12. Release Date (taken from first published manifestation, historically the theatrical release in primary country of production, but now with more fluid criteria)
+
+13. Unpublished status (because often under law unpublished works are treated differently to published works)
+
+14. Orphan Works registration scheme. The suggested data to capture is:
+
+  a. name of scheme e.g. OHIM (EU), OWLS (UK)
+
+  b. unique identifier for the work in the scheme’s database
+
+  c. URL for online record in the scheme’s database / website
+
+  d. filename / link to digital version of ‘orphan work’ registration document
+
+  e. name of member of archive staff responsible for registration
+
+  f. date of registration
+
+  g. date of expiry of licence granted by registration scheme
+
+\subsection{Rights in a Manifestation}
+\label{sec:rights_in_a_manifestation}
+
+The rights in a Manifestation are typically licences, contracts or agreements between the Work’s copyright owner / intellectual property rights owner, and a third party, enabling that third party to exploit the work legally by copying it, distributing, broadcasting or publishing it, extracting from it, incorporating it in another work, etc.
+
+Typically, a Work’s owner can offer multiple licences to multiple parties to exploit the work in different publication territories, publication formats, publication platforms; and typically the licence can be exclusive or non-exclusive (in other words, multiple parties can be granted similar exploitation rights to the same work at the same time).
+Finally, the licence typically states a date range within which the exploitation can take place, with the extreme (and rare) example being ‘in perpetuity’, enabling the licensee to exploit the work within the terms without an end date.
+
+Examples of publication modes or platforms and other exploitation models which are often used in moving image Manifestation licences: Theatrical, Home Video, Television, VOD (Video on Demand), DTO (Download to Own), Educational, B2B (Business to Business) footage sales, Plane/Ship/Hotel.(see \nameref{sec:manifestation_types}).
+
+Often an exploitation of a moving image Work in a particular Manifestation requires the licensee to obtain additional clearances from third parties, as these ‘underlying rights’ (eg music, performers, stills) exist in parallel to the core intellectual property rights in the moving image Work.
+Depending on the context, and the importance of this information for the institution, the cataloguer may consider capturing the clearance of these underlying rights, as previously described in H.1.1.6.
+
+Finally, where an archive holds copyright / intellectual property rights in a work, that archive may itself grant licences to third parties to exploit the work.
+This situation, where the archive supplies permission or licence to another party to exploit a work, is often referred to as ‘rights out’ or sales – the opposite of ‘rights in’ or acquisitions, meaning the archive obtains an exploitation licence from the owner.
+In that case, the cataloguer should document not only rights in but also rights out: name and contact details for licensee, territories, platforms, date ranges, exclusive or non-exclusive.
+
+Given the context above, it may be useful for an archive to capture whether it is an acquirer of the manifestation rights being documented, a granter of the rights, or simply a documenter of the rights.
+
+\subsubsection{Recommended properties to capture in describing the rights context of a Manifestation}
+\label{sec:recommended_properties_to_capture2}
+
+1. Relationship to rights being documented:
+
+  a. Rights Out / Sales (where the archive is the granter of rights to an external party)
+
+  b. Rights In / Acquisitions (where the archive is the obtainer of rights from an external party)
+
+  c. Documenter only (where the archive is neither the granter or obtainer, but simply an observer)
+
+2. Licensee organisation’s or individual’s name, with contact details if required
+
+3. Licensing organisation’s or individual’s name, with contact details if required
+
+4. Platforms or modes permitted within the license, using controlled value list. Suggested terms include: Theatrical, Home Video, Television, VOD (Video on Demand), DTO (Download to Own), Educational, B2B (Business to Business) footage sales, Plane/Ship/Hotel.
+
+5. Geographical territories permitted within the license, using controlled value list representing the relevant territories
+
+6. Date range of license, preferably entered separately as Start Date and End Date, to enable system queries against end date
+
+7. Exclusive or non-Exclusive, where known
+
+8. Filename of agreement: Capture the filename of an electronic version of any agreement pertaining to the manifestation’s licence, or where possible a link to the file in a persistent, available directory within the organisation’s infrastructure.
+
+\subsection{Rights in an Item}
+\label{sec:rights_in_an_item}
+
+The rights in a moving image Item typically refer to the ownership (or transfer of ownership) of an object, either on a physical / analogue carrier such as a 35mm film print, or a digital file such as a DCP / DCDM or ProRes.
+The transfer of ownership (sometimes referred to in legal terms as ‘transfer of title’) is important for an archive to document, as it establishes legal ownership of the collection.
+
+Typically, the transfer involves a contract, deed or agreement signed by both parties to certify that ownership of the object is transferred to the archive, and often this is a complex legal document.
+It is recommended therefore that the cataloguer capture the essential metadata elements below, and where feasible they should associate the catalogue record with an electronic version of the contract, by capturing filename / link to that document.
+
+It should be understood that ownership of the Item does not imply any rights to exploit the Work, as outlined in the Manifestation section (for example, to digitise the object and display online, or distribute to cinemas); and it certainly does not imply any change in the intellectual property rights in the work itself.
+However, often during acquisition decision-making, an archive will undertake research into the broader rights context: is the work in or out of copyright?; if it is, who owns that copyright?; if they are unknown can it be considered an orphan work?; has it been registered as such?; if it is not an orphan work?, who owns the exploitation rights in the relevant territories, platforms?
+Cataloguers should therefore consider capturing details of this rights check activity when documenting the transfer of ownership of the item.
+
+Particular acquisition agreements between object owner and archive may enforce restrictions on the archive, preventing them from undertaking certain activities on the item (for example, preventing them from digitising the item for preservation, or preventing them from exhibiting the item in internal cinema).
+Any such restrictions should be captured in a ‘Provisos of acquisition’, ‘Conditions of access’ or ‘Conditions of reproduction’ set of fields, as outlined below.
+In addition, the acquisition agreement may enforce a protocol for disposal of any objects which are not ultimately accessioned into the archive’s permanent collection: for example, disposal may require approval by acquisition source.
+
+However, it is important to note that any acquisition agreement or contract must not undermine the archive’s rights under law.
+For example, in the UK, under recent legislative changes (Copyright Exceptions) a moving image archive has the right to ‘copy works for archiving and preservation reasons if they are part of a permanent collection and it is not reasonably practicable to purchase a replacement’ (from https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/375956/Libraries_Archives_and_Museums.pdf).
+Therefore a specific acquisition agreement could not attempt to prevent
+that right to copy for preservation.
+
+In the United States, an archive’s right to copy for access and preservation is covered under Section 108.
+However, this section only applies to archives and libraries with specific qualifications.^[http://www.copyright.gov/title17/92chap1.html#108] The current Register of Copyrights has set revising Section 108 as one of her priorities.^[http://search.copyright.gov/search?utf8=%E2%9C%93&affiliate=copyright&query=section+108]
+
+In Italy, since 2004, the Cineteca Nazionale can legally use the copies acquired by legal deposit (3 years after the deposit), or by copying/printing for cultural and non-profit purposes by way of derogation from copyright law.
+
+Below, a set of properties are recommended for describing the rights around the Acquisition, and separately around the Loan, of moving image items.
+
+\subsubsection{Recommended properties to capture in describing the rights context of a moving image Item}
+\label{sec:recommended_properties_to_capture3}
+
+\paragraph{Acquisition} 
+\label{sec:copyright_acquisition} \
+
+See also \nameref{sec:acquisition}
+
+This section is drawn from BFI policies.
+
+1. Internal staff contact name: Captures the name of the staff member responsible for progressing and completing the agreement.
+
+2. Agreement status: Captures the current stage in the completion of the agreement.
+
+  a. In progress
+
+  b. Hardcopy agreement sent
+
+  c. Signed hardcopy agreement received
+
+  d. Completed
+
+3. Agreement completion date: Captures the date from which the agreement is considered as having legally come into effect e.g. the latest date recorded on a signed hardcopy of an Acquisition agreement.
+
+4. Acquisition method: Denotes the form of acquisition represented by the record, e.g. a donation, a bequest left in the will of a benefactor, or an internally produced off-air recording.
+
+  a. Bequest
+
+  b. Commission
+
+  c. Donation
+
+  d. Off-air recording
+
+  e. Purchase
+
+  f. Unknown
+
+5. Acquisition source: Represents the person or institution through which the BFI is receiving the acquisition. Where possible, this should take the form of a link to a record within the archive’s Persons and Institutions authority dataset.
+
+6. Acquisition source type: Qualifies the relationship between the Acquisition and the Acquisition source – i.e. is the acquisition source the legal owner of the item, or are they the authorised agent of the owner acting on their behalf such as in the case of a bequest or purchase through auction.
+
+  a. Item Owner
+
+  b. Agent
+
+7. Acquisition source contact details: Captures the contact details of the acquisition source, primarily their postal address. Alternatively, where possible, this could be captured in the associated Person and Institution record.
+
+8. Acquisition purchase price: Captures the price paid for the purchase of the complete acquisition as a integer.
+
+9. Acquisition funding source: Captures the source of acquisition funding. This could represent funding secured through an external organisation, benefactor, or an internal budget.
+
+10. Acquisition purchase currency: Qualifies the content of the Acquisition purchase price field with the currency of the purchase. Suggest using 3-character ISO 4217 codes.
+
+11. Initial rights check status: Indicates the status of initial rights checks required as part of the acquisition process.
+
+  a. Rights holder(s) recorded in Work record
+
+  b. Rights holder is Acquisition source
+
+  c. Rights holder could not be identified
+
+12. Acquisition date: Captures the date on which the agreement was signed – this is the date on which the agreement becomes legally binding. In some context, instead of this signature date, archives capture the date on which the Item physically entered the premises / infrastructure of the archive. Using this ‘entry date’ can be problematic, as items can arrive onsite before agreement is signed, or can arrive without any form of signature or indeed knowledge that it is in transit i.e. receipt of an unsolicited deposit. Therefore it is recommended to use the signature date.
+
+13. Accession date: Captures the date on which the Item formally entered the collection of the archive. Often this definition is dependent on formal documentation within the archive’s collections management system, with a unique accession reference / identifier assigned.
+
+14. Acquisition rationale: Text field or controlled field allowing the staff responsible for the acquisition to capture the rationale behind the acquisition in relation to the archive’s published collecting policy or other formal governance model.
+
+15. Acquisition authoriser: Captures the name of the senior member of staff who approves the acquisition in question.
+
+16. Acquisition authorisation date: Captures the date that the acquisition was approved by a senior member of staff.
+
+17. Acquisition provisos: Captures any provisos or clauses agreed with the acquisition source e.g any form of access/publication embargo. Note that this should not undermine the archive’s rights under law. This may be captured using a text field, or it may be controlled. And if required, it may be broken out into specific proviso areas as in 18 and 19 below.
+
+18. Conditions governing reproduction: Text field or controlled field to capture specific restrictions on the archive’s ability to copy the item in the analogue or digital domain, for preservation or other purposes. Note that this should not undermine the archive’s rights under law.
+
+19. Conditions governing access: Text field or controlled field to capture specific restrictions on the archive’s ability to offer internal or external access to the item, for research or commercial purposes. Note that this should not undermine the archive’s rights under law.
+
+20. Provisos expiry date: Captures the date upon which the associated proviso expires, if at all – e.g. the end of a publication embargo.
+
+21. Item reproduction requested: Captures whether the supply of a duplicate copy to the acquisition source is one of the terms of acquisition agreed with the acquisition source.
+
+22. Item reproduction terms: Captures the terms under which reproduction of the acquired material will be supplied to the Acquisition source.
+
+  a. Reproduction at Acquisition source expense
+
+  b. Reproduction at mutually agreed expense
+
+  c. Reproduction at archive’s expense
+
+23. Item reproduction notes: Field to allow the terms of reproduction to be further qualified, e.g. the exact division of mutually agreed expense for reproduction.
+
+24. Terms of disposal for unaccessioned items: Records the agreed method of disposal for material not being accessioned into the archive’s permanent collections, as authorised by the Acquisition source.
+
+  a. Return to acquisition source
+
+  b. Transfer to another institution
+
+  c. Archive authorised to dispose
+
+25. Filename of agreement: Capture the filename of an electronic version of the Acquisition agreement, or where possible a link to the file in a persistent, available directory within the organisation’s infrastructure.
+
+\paragraph{Loan} 
+\label{sec:loan} \
+
+1. This section outlines the properties that are specific to Loan agreements, distinct from Acquisitions
+
+2. Lender: Represents the person or institution from which the archive is receiving the loan. Where possible, this should take the form of a link to a record within the archive’s Persons and Institutions authority dataset.
+
+3. Lender type: Qualifies the relationship between the Lender and the Acquisition source – i.e. is the lender the legal owner of the item, or are they the authorised agent of the owner acting on their behalf.
+
+  a. Item Owner
+
+  b. Agent
+
+4. Lender contact details: Captures the contact details of the lender, primarily their postal address. Alternatively, where possible, this could be captured in the associated Person and Institution record.
+
+5. Loan start date: Captures the agreed date from which the loan commences.
+
+6. Loan end date: Captures the end date of the loan, as defined prior to the commencement of the loan.
+
+7. Item reproduction requested: Captures whether the supply of a duplicate copy to the lender is one of the terms of loan agreed with the lender.
+
+8. Item reproduction terms: Captures the terms under which reproduction of the loaned material will be supplied to the lender.
+
+  a. Reproduction at Lender expense
+
+  b. Reproduction at mutually agreed expense
+
+  c. Reproduction at archive’s expense
+
+9. Item reproduction notes: Field to allow the terms of reproduction to be further qualified, e.g. the exact division of mutually agreed expense for reproduction.
+
+10. Filename of agreement: Capture the filename of an electronic version of the Loan agreement, or where possible a link to the file in a persistent, available directory within the organisation’s infrastructure.
