@@ -1,2 +1,4 @@
 /src/markdown
 /src/render
+.DS_Store
+src/manual.pdf
