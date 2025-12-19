@@ -656,7 +656,7 @@ arrow from W.s to M2.n
 arrow down 0.2 from W.s then left until even with M3 then down to M3.n
 ```
 
-The EN15907 standard does not have date or release country as being core elements of a Manifestation, envisaging that information being in an associated Event. However, many systems do include those fields within their Manifestation records, as actual attributes of the Manifestation, as can be seen in some of the examples featured in Appendix I.[ADD LINK] In systems with no, or minimal, Events records capabilities it is the most logical alternative place to capture that important relevant data.
+The EN15907 standard does not have date or release country as being core elements of a Manifestation, envisaging that information being in an associated Event. However, many systems do include those fields within their Manifestation records, as actual attributes of the Manifestation, as can be seen in some of the examples featured in \nameref{sec:examples_of_records}. In systems with no, or minimal, Events records capabilities it is the most logical alternative place to capture that important relevant data.
 
 Other systems may have developed and utilise Events more in line with EN15907 to reflect data about different releases in various countries, e.g.   
 
