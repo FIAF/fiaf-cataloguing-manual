@@ -4,24 +4,24 @@ on:
   pull_request:
 jobs:
   compile:
-    runs-on: ubuntu-latest 
+    runs-on: ubuntu-latest
     permissions:
-      contents: write  
+      contents: write
     steps:
     - name: checkout repo
       uses: actions/checkout@v3
     - name: check branch
       run: git branch
-    - name: install required apps 
-      run: sudo apt install pandoc texlive-xetex fossil fonts-firacode librsvg2-bin   
-    - name: install font 
-      run: cp -r src/font/ /usr/share/fonts/BrownStd    
+    - name: install required apps
+      run: sudo apt install pandoc texlive-xetex fossil fonts-firacode librsvg2-bin
+    - name: install font
+      run: cp -r src/font/ /usr/share/fonts/BrownStd
     - name: remove render dir
-      run: rm -rf src/render 
+      run: rm -rf src/render
     - name: remake render dir
       run: mkdir src/render
     - name: run script
-      run: cd src && ./local.sh 
+      run: cd src && ./test.sh
     - name: install b2sdk
       run: pip3 install b2sdk
     - name: run python script
@@ -29,9 +29,9 @@ jobs:
         BACKBLAZE_APP_KEY: ${{ secrets.BACKBLAZE_APP_KEY }}
         BACKBLAZE_APP_KEY_ID: ${{ secrets.BACKBLAZE_APP_KEY_ID }}
         BRANCH_NAME: ${{ github.ref }}
-      run: python3 src/push_pdf.py
+      run: python3 src/blaze.py
     - name: remove render dir
-      run: rm -rf src/render       
+      run: rm -rf src/render
     - name: update readme link
       run: |
         git config user.name 'github-actions[bot]'
@@ -41,7 +41,3 @@ jobs:
           git commit -a -m "pdf generated"
           git push
         fi
-
-
-
-
