@@ -20,24 +20,45 @@ Agent(s) may also have relationships to an instance of a specific Event or of an
 Because responsibility for moving image materials is most often complex and highly diverse, institutions - particularly those with special interests - should determine the number of Agents and the types of roles and activities they wish to include. 
 These may vary from institution to institution according to the types of moving image material held. 
 
-\renewcommand{\arraystretch}{1.5}
-\begin{tabularx}{\textwidth}{|X|X|X|X|}
+\setlength\extrarowheight{2pt} 
+\begin{xltabular}{\textwidth}{|L|L|L|L|}
 \hline
-\textbf{Work} & \textbf{Variant} & \textbf{Manifestation} & \textbf{Item} \\
+\textbf{Work} & 
+\textbf{Variant} & 
+\textbf{Manifestation} & 
+\textbf{Item} \\
 \hline
-Cast & Dubbing cast & Distributor/Publisher & Acquisition source (e.g. donor) \\
+Cast & 
+Dubbing cast & 
+Distributor/Publisher & 
+Acquisition source (e.g. donor) \\
 \hline
-Cinematographer/ Director of photography & Additional credits & Broadcaster & Curator \\
+Cinematographer/ Director of photography & 
+Additional credits & 
+Broadcaster & 
+Curator \\
 \hline
-Presenter & Additional cast & Streaming Channel & Lab technician \\
+Presenter & 
+Additional cast & 
+Streaming Channel & 
+Lab technician \\
 \hline
-Director & & Manufacturer & Archivist \\
+Director & 
+& 
+Manufacturer & 
+Archivist \\
 \hline
-Producer & & & \\
+Producer & 
+& 
+& 
+\\
 \hline
-Production Company & & &  \\
+Production Company & 
+& 
+&  
+\\
 \hline
-\end{tabularx}
+\end{xltabular} 
 
 \subsection{Agents for Works/Variants (e.g. Cast, Credits, Person, Organisation, etc.)}  
 \label{sec:agents_for_works_variants}

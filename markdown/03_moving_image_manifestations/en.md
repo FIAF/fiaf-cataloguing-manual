@@ -619,28 +619,36 @@ Describe or demonstrate Manifestation-to-Variant relationships through linking t
 As mentioned previously, there is no rule within EN15907 as to the categories of Manifestation Type there can be, only that its values come from a controlled vocabulary list. The only one stipulated value that exists is that of a category of ‘Unknown’.
 
 Overlaps between use of Manifestations and Events, and Manifestation types and Event Publication types, have partly been due to some ambiguity within the EN15907 standard itself. But also, how the latter has been interpreted and evolved since it was conceived in order to deal with the nature and range of actual moving image material and technological developments, as well as the realities and practicalities for institutions using different cataloguing systems and databases, and user access needs.
-\
-\renewcommand{\arraystretch}{1.5}
-\begin{tabular}{|l|l|}
+
+\setlength\extrarowheight{2pt} 
+\begin{xltabular}{\textwidth}{|L|L|L|}
 \hline
-\textbf{Manifestation types} & \textbf{Event Publication types} \\
+\textbf{Manifestation types} & 
+\textbf{Event Publication types} \\
 \hline
-Theatrical distribution & Theatrical distribution \\
+Theatrical distribution & 
+Theatrical distribution \\
 \hline
-Non-theatrical distribution & Non-theatrical distribution \\
+Non-theatrical distribution & 
+Non-theatrical distribution \\
 \hline
-Broadcast & Broadcast \\
+Broadcast & 
+Broadcast \\
 \hline
-Internet & Online transmission \\
+Internet & 
+Online transmission \\
 \hline
-Pre-release & Pre-release \\
+Pre-release & 
+Pre-release \\
 \hline
-Home viewing & Home video publication \\
+Home viewing & 
+Home video publication \\
 \hline
-Unknown & Unknown \\
+Unknown & 
+Unknown \\
 \hline
-\end{tabular}
-\
+\end{xltabular} 
+
 The boundaries between Manifestations and Events and structuring decisions will be dependent on the types of records, architecture, and concatenation and display capabilities of multiple linked data within an institution’s database or other cataloguing system. 
 
 Some system databases may not have the ability or full functionality to have Events records, but do have Manifestations; in which case they may make use of a wider list of Manifestation Types and have fields relating to EN15907 Events data embedded within the Manifestation record itself. These systems will be more likely to make use of a structure of multiple Manifestations rather than one Manifestation with multiple publication Events.

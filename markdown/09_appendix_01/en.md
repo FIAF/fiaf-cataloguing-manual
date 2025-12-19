@@ -177,24 +177,45 @@ For sources of information for the Title, see \nameref{sec:prelim_sources_of_inf
 Primary Title Types ^[For simplicity’s sake, this table does not present sub-types of Title Types, i.e., sub-types of Alternative and Supplied/Devised titles. Suggested sub-types and definitions can be found under the headings for the primary Title Types.]
 
 
-\renewcommand{\arraystretch}{1.5}
-\begin{tabularx}{\textwidth}{|X|X|X|X|}
+\setlength\extrarowheight{2pt} 
+\begin{xltabular}{\textwidth}{|L|L|L|}
 \hline
-\textbf{Work} & \textbf{Variant} & \textbf{Manifestation} & \textbf{Item} \\
+\textbf{Work} & 
+\textbf{Variant} & 
+\textbf{Manifestation} & 
+\textbf{Item} \\
 \hline
-Identifiying & Identifiying & & \\
+Identifiying & 
+Identifiying & 
+& 
+\\
 \hline
-Preferred & Preferred & & \\
+Preferred & 
+Preferred & 
+& 
+\\
 \hline
-& & Title Proper & Title Proper \\
+& 
+& 
+Title Proper & 
+Title Proper \\
 \hline
-Other title information & Other title information & Other title information & Other title information \\
+Other title information & 
+Other title information & 
+Other title information & 
+Other title information \\
 \hline
-Alternative & Alternative & Alternative & Alternative \\
+Alternative & 
+Alternative & 
+Alternative & 
+Alternative \\
 \hline
-Supplied/Devised & Supplied/Devised & Supplied/Devised & Supplied/Devised \\
+Supplied/Devised & 
+Supplied/Devised & 
+Supplied/Devised & 
+Supplied/Devised \\
 \hline
-\end{tabularx}
+\end{xltabular} 
 
 \subsubsection{Preferred}    
 \label{sec:preferred} 
