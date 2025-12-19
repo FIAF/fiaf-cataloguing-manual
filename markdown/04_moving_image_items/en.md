@@ -275,9 +275,8 @@ Note that in digital cinema, a film can have Variable frame rates.
 \paragraph{Base}    
 \label{sec:base} \
 
-The physical material or video format on which the Item is captured, for example, de- scribing the flexible transparent material that supports a film items’ emulsion or a magnet- ic track, (e.g., acetate, nitrate, CTA, etc.).
-Select from controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:item_base_film_or_video}.
+The physical material or video format on which the Item is captured, for example, describing the flexible transparent material that supports a film items’ emulsion (e.g.  acetate, nitrate, polyester) or a magnetic track, (e.g. CTA).
+Select from controlled list of terms, if possible, keep separate lists for analogue film material and analogue video.
 
 \paragraph{Stock}    
 \label{sec:stock} \
