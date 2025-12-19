@@ -479,26 +479,34 @@ As mentioned at [INSERT INTERNAL LINK TO RELEVANT SECTION IN MANUAL], there is n
 
 Overlaps that have evolved between use of Manifestations and Events, and Manifestation types and Event Publication types, have partly been due to some ambiguity within the EN15907 standard itself. But also, how the latter has been interpreted and evolved since it was conceived in order to deal with the nature and range of actual moving image material and technological developments; as well as the realities and practicalities for institutions using different cataloguing systems and databases, and user access needs.
 
-\renewcommand{\arraystretch}{1.5}
-\begin{tabularx}{\textwidth}{|X|X|}
+\setlength\extrarowheight{2pt} 
+\begin{xltabular}{\textwidth}{|L|L|L|}
 \hline
-\textbf{Manifestation types} & \textbf{Event Publication types}  \\
+\textbf{Manifestation types} & 
+\textbf{Event Publication types} \\
 \hline
-Theatrical distribution & Theatrical distribution  \\
+Theatrical distribution & 
+Theatrical distribution \\
 \hline
-Non-theatrical distribution & Non-theatrical distribution  \\
+Non-theatrical distribution & 
+Non-theatrical distribution \\
 \hline
-Broadcast & Broadcast  \\
+Broadcast & 
+Broadcast \\
 \hline
-Internet & Online transmission  \\
+Internet & 
+Online transmission \\
 \hline
-Pre-release & Pre-release  \\
+Pre-release & 
+Pre-release \\
 \hline
-Home viewing & Home video publication  \\
+Home viewing & 
+Home video publication \\
 \hline
-Unknown & Unknown  \\
+Unknown & 
+Unknown \\
 \hline
-\end{tabularx}
+\end{xltabular} 
 
 The boundaries between Manifestations and Events and structuring decisions will be dependent on the types of records, architecture, and concatenation and display capabilities of multiple linked data within an institution’s database or other cataloguing system. 
 
