@@ -27,4 +27,15 @@
 \usepackage{tcolorbox}
 \tcbset{colback=gray!5!white, colframe=gray!75!black, title=Example}
 
-\usepackage{tabularx}
+\usepackage{tabularx,ragged2e}
+\newcolumntype{L}{>{\RaggedRight}X}
+
+\usepackage{colortbl}
+
+\usepackage{enumitem}
+\newlist{tabitemize}{itemize}{1}
+\setlist[tabitemize,1]{label=\textbullet, left=0pt, nosep,
+                       before={\begin{minipage}[t]{\linewidth}},
+                       after ={\end{minipage}}}
+
+\usepackage{xltabular}
