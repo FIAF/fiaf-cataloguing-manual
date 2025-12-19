@@ -2,9 +2,16 @@
 
 Markdown representation of the [FIAF Cataloguing Manual](https://www.fiafnet.org/pages/E-Resources/Cataloguing-Manual.html).
 
-### PDF Renders
+### Build Manual
 
-[FIAF Cataloguing Manual (English)](https://f003.backblazeb2.com/file/cataloguing-manual/develop-manual_en.pdf)
+Building the manual currently requires [Docker](https://www.docker.com). The following commands will render `manual.pdf` to the `src` directory.
+
+```sh
+cd src && docker compose up -d
+docker exec manual /app/src/build.sh
+```
+
+The current develop branch automatically renders to [FIAF Cataloguing Manual](https://f003.backblazeb2.com/file/cataloguing-manual/develop-manual.pdf).
 
 ### Edit Guide
 
