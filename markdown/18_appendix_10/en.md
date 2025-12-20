@@ -1,18 +1,16 @@
 
 \newpage
-\section[Examples of records containing core elements in the different levels of hierarchy]{Examples of records containing core elements in the different levels of hierarchy 
-    \label{sec:examples_of_records}
-    } 
+\section{Examples of records containing core elements in the different levels of hierarchy} 
+\label{sec:examples_of_records}
 
-These include examples of feature films, a documentary, a short fiction film, a home movie, a television series and episode, and an aggregate television DVD and episode.
+These include examples of feature films, a documentary, a short fiction film, a home movie, a television series and episode, and an aggregate television DVD and episode.
 It is recognised that field names in different institutions’ systems will not necessarily use identical terms to those of the core concepts or this manual (see \nameref{sec:core_elements_of_description}).
 Some may also have multiple occurrences and multiple fields connected with each element, whilst others may use few or no field names.
 Some institutions may also have additional fields and data for in-house needs.
 The following examples reflect some of these possible differences.
 
-\subsection[Example 1. Feature film in 3-level, 2-level and 1-level hierarchies]{Example 1. Feature film in 3-level, 2-level and 1-level hierarchies 
-    \label{sec:example_one}
-    } 
+\subsection{Example 1. Feature film in 3-level, 2-level and 1-level hierarchies} 
+\label{sec:example_one}
 
 Example 1 depicts 3-level, 2-level and 1 level model hierarchies (see \nameref{sec:elements_of_description}) for the same film.
 
@@ -38,375 +36,749 @@ Content description
 
 **3-Level Hierarchy Model**
 
-| WORK | |
-| --- | --- |
-| Title [Title] | Title type |
-| The Ladykillers | Original |
-|The Lady killers | Help search |
-|Filmographic level: Monographic |
-| Production country [Country of reference] : United Kingdom | |
-| Date(s) [Year of reference] | Date type |
-| 1955 | Copyright |
-| 1955-12 | Release |
-| Category [Form]: Fiction | Genre [Subject/Genre]: Comedy, Crime |
-| Synopsis: A gang of train robbers hide out at the lodgings of one of them, posing as an amateur string quartet. The innocent and upright elderly lady who owns the house is used by them, and is an inadvertent catalyst for their plans unravelling and the gang turning on each other.| |
-| On-screen credit | Name [Credits] |
-| Directed by | Mackendrick, Alexander |
-| Production Company | Ealing Studios |
-| A Production by | Balcon, Michael |
-| Associate Producer | Holt, Seth |
-| Unite Production Manager | Peers, David |
-| Production Supervisor | Mason, Hal |
-| Assistant Director | Pevsner, Tom |
-| [Assistant Director (2nd)] | Meadows, John |
-| [Assistant Director (3rd)] | Birkett, Michael |
-| Continuity | Manheim, Felicia |
-| Story and Screenplay by | Rose, William |
-| Director of Photography | Heller, Otto |
-| Technicolor Colour Consultant | Bridge, Joan |
-| Camera Operator | Waterson, Chic (as Waterson, Chick) |
-| [Focus Puller] | Parslow, Ray |
-| [Clapper Loader] | Bryce, Alan |
-| [Stills] | Hanscomb, Harold |
-| Special Effects | Pearson, Syd (as Pearson, Sydney) |
-| Editor | Harris, Jack |
-| Assistant Editor | Aldous, Harry |
-| [Assistant Editor (2nd)] | Clark, Jim |
-| [Assistant Editor (2nd)] | Clark, Robin |
-| Art Director | Morahan, Jim |
-| [Assistant Art Director] | Davey, Bert |
-| [Draughtsman] | Shampan, Jack |
-| Scenic Artist | Robinson, W. Simpson |
-| Costume Designer | Mendleson, Anthony |
-| Make-up | Garfath, Alec (as Garfath, Alex) |
-| Hairstyles | Martin, Daphne |
-| Music Composed by | Cary, Tristram |
-| Played by | The Sinfonia of London |
-| Conducted by | Mathieson, Dock |
-| Recordist | Wilkins, Leo |
-| Sound Supervisor | Dalby, Stephen (as Dalby, Steven) |
-| [Sound Assistant] | Fairbairn, Harry |
-| [Boom Operator] | Wortham, Don |
-| Sound Editor | Stone, Gordon |
-| | |
-| Character | Name [Cast] |
-| Professor Marcus | Guinness, Alec |
-| Major Courtney | Parker, Cecil |
-| Louis Harvey | Lom, Herbert |
-| Harry Robinson | Sellers, Peter |
-| One-Round Lawson | Green, Danny |
-| police superintendent | Warner, Jack |
-| Mrs. Louisa Wilberforce | Johnson, Katie |
-| police sergeant | Stainton, Philip |
-| barrow boy | Howerd, Frankie |
-| [pavement artist] | Sharp, Len |
-| [left luggage clerk] | Goodwin, Harold |
-| [cab driver] | Connor, Kenneth |
-| [junkman] | Griffiths, Fred |
-| [Amelia] | Kerry, Evelyn |
-| [Hypatia] | Burls, Hélène |
-| [old lady] | Hodgson, Phoebe |
-| [Lettice] | Martin, Edie |
-| [Scotland Yard man] | Melford, Jack |
-| [constable] | Moore, Robert |
-| [nervous man] | Rudling, John |
-| [large lady] | Brindley, Madge |
-| [Miss Pringle] | Griffiths, Lucy |
-| [second cab driver] | Kydd, Sam |
-| [policeman] | Wilson, Neil |
-| [constable in station] | Roberts, Ewan
-| [burglar] | Corcoran, Michael
-| [cast] | Roberts, Lynne
-| [cast] | John, Anthony
-| [cast] | Robb, Sandra
-| [cast] | Johns, Stratford
-| [cast] | Ayres, Janet
-| [cast] | Evans, Peter
-| [cast] | Green, Kevin
-| [cast] | Hart, Janet
-| [cast] | Pike, Colin
-| [Identifier] Identification number | W-35195 |
-| [Identifier] EIDR identifier | 10.5240/1C59-EFCF-AAF0-F735-71AB-H |
-| Event: Production – Date: 1955 | Location(s): Frederica Street, Islington, London N7 -- Cheney Road, Kings Cross, London NW1 |
-| Relationships: Parts title | |
-| M-34312 The Ladykillers| |
+\setlength\extrarowheight{2pt}
+\begin{xltabular}{\textwidth}{|L|L|}
+\hline
+\textbf{WORK} &
+\\
+\hline
+Title [Title] & Title type \\
+\hline
+The Ladykillers & Original \\
+\hline
+The Lady killers & Help search \\
+\hline
+Filmographic level: Monographic & \\
+\hline
+Production country [Country of reference] : United Kingdom & \\
+\hline
+Date(s) [Year of reference] & Date type \\
+\hline
+1955 & Copyright \\
+\hline
+1955-12 & Release \\
+\hline
+Category [Form]: Fiction & Genre [Subject/Genre]: Comedy, Crime \\
+\hline
+Synopsis: A gang of train robbers hide out at the lodgings of one of them, posing as an amateur string quartet. The innocent and upright elderly lady who owns the house is used by them, and is an inadvertent catalyst for their plans unravelling and the gang turning on each other.& \\
+\hline
+On-screen credit & Name [Credits] \\
+\hline
+Directed by & Mackendrick, Alexander \\
+\hline
+Production Company & Ealing Studios \\
+\hline
+A Production by & Balcon, Michael \\
+\hline
+Associate Producer & Holt, Seth \\
+\hline
+Unite Production Manager & Peers, David \\
+\hline
+Production Supervisor & Mason, Hal \\
+\hline
+Assistant Director & Pevsner, Tom \\
+\hline
+[Assistant Director (2nd)] & Meadows, John \\
+\hline
+[Assistant Director (3rd)] & Birkett, Michael \\
+\hline
+Continuity & Manheim, Felicia \\
+\hline
+Story and Screenplay by & Rose, William \\
+\hline
+Director of Photography & Heller, Otto \\
+\hline
+Technicolor Colour Consultant & Bridge, Joan \\
+\hline
+Camera Operator & Waterson, Chic (as Waterson, Chick) \\
+\hline
+[Focus Puller] & Parslow, Ray \\
+\hline
+[Clapper Loader] & Bryce, Alan \\
+\hline
+[Stills] & Hanscomb, Harold \\
+\hline
+Special Effects & Pearson, Syd (as Pearson, Sydney) \\
+\hline
+Editor & Harris, Jack \\
+\hline
+Assistant Editor & Aldous, Harry \\
+\hline
+[Assistant Editor (2nd)] & Clark, Jim \\
+\hline
+[Assistant Editor (2nd)] & Clark, Robin \\
+\hline
+Art Director & Morahan, Jim \\
+\hline
+[Assistant Art Director] & Davey, Bert \\
+\hline
+[Draughtsman] & Shampan, Jack \\
+\hline
+Scenic Artist & Robinson, W. Simpson \\
+\hline
+Costume Designer & Mendleson, Anthony \\
+\hline
+Make-up & Garfath, Alec (as Garfath, Alex) \\
+\hline
+Hairstyles & Martin, Daphne \\
+\hline
+Music Composed by & Cary, Tristram \\
+\hline
+Played by & The Sinfonia of London \\
+\hline
+Conducted by & Mathieson, Dock \\
+\hline
+Recordist & Wilkins, Leo \\
+\hline
+Sound Supervisor & Dalby, Stephen (as Dalby, Steven) \\
+\hline
+[Sound Assistant] & Fairbairn, Harry \\
+\hline
+[Boom Operator] & Wortham, Don \\
+\hline
+Sound Editor & Stone, Gordon \\
+\hline
+& \\
+\hline
+Character & Name [Cast] \\
+\hline
+Professor Marcus & Guinness, Alec \\
+\hline
+Major Courtney & Parker, Cecil \\
+\hline
+Louis Harvey & Lom, Herbert \\
+\hline
+Harry Robinson & Sellers, Peter \\
+\hline
+One-Round Lawson & Green, Danny \\
+\hline
+police superintendent & Warner, Jack \\
+\hline
+Mrs. Louisa Wilberforce & Johnson, Katie \\
+\hline
+police sergeant & Stainton, Philip \\
+\hline
+barrow boy & Howerd, Frankie \\
+\hline
+[pavement artist] & Sharp, Len \\
+\hline
+[left luggage clerk] & Goodwin, Harold \\
+\hline
+[cab driver] & Connor, Kenneth \\
+\hline
+[junkman] & Griffiths, Fred \\
+\hline
+[Amelia] & Kerry, Evelyn \\
+\hline
+[Hypatia] & Burls, Hélène \\
+\hline
+[old lady] & Hodgson, Phoebe \\
+\hline
+[Lettice] & Martin, Edie \\
+\hline
+[Scotland Yard man] & Melford, Jack \\
+\hline
+[constable] & Moore, Robert \\
+\hline
+[nervous man] & Rudling, John \\
+\hline
+[large lady] & Brindley, Madge \\
+\hline
+[Miss Pringle] & Griffiths, Lucy \\
+\hline
+[second cab driver] & Kydd, Sam \\
+\hline
+[policeman] & Wilson, Neil \\
+\hline
+[constable in station] & Roberts, Ewan \\
+\hline
+[burglar] & Corcoran, Michael \\
+\hline
+[cast] & Roberts, Lynne \\
+\hline
+[cast] & John, Anthony \\
+\hline
+[cast] & Robb, Sandra \\
+\hline
+[cast] & Johns, Stratford \\
+\hline
+[cast] & Ayres, Janet \\
+\hline
+[cast] & Evans, Peter \\
+\hline
+[cast] & Green, Kevin \\
+\hline
+[cast] & Hart, Janet \\
+\hline
+[cast] & Pike, Colin \\
+\hline
+[Identifier] Identification number & W-35195 \\
+\hline
+[Identifier] EIDR identifier & 10.5240/1C59-EFCF-AAF0-F735-71AB-H \\
+\hline
+Event: Production – Date: 1955 & Location(s): Frederica Street, Islington, London N7 -- Cheney Road, Kings Cross, London NW1 \\
+\hline
+Relationships: Parts title & \\
+\hline
+M-34312 The Ladykillers & \\
+\hline
+\end{xltabular}
 
-| MANIFESTATION | |
-| --- | --- |
-| [Identifier] Identification number: M-34312 | |
-| Title [Title] | Title type |
-| The Ladykillers | Original |
-| Manifestation type: Theatrical (main country of origin) | |
-| Language [Language] | Usage |
-| English | Dialogue (original) |
-| [Original format] General Format: Film Specific Format: 35mm | |
-| Colour Colour system: Technicolor Sound| |
-| [Original duration] Running time – 97 minutes [Original length] Length: 8142 feet | |
-| Event: Release - Release Country: United Kingdom Date: 1955-12 | |
-| Distributor: Rank | |
-| Relationships: | |
-| Part of title | Parts title |
-| 35195 The Ladykillers | C-88339 The Ladykillers | 
+\setlength\extrarowheight{2pt}
+\begin{xltabular}{\textwidth}{|L|L|}
+\hline
+\textbf{MANIFESTATION} &
+\\
+\hline
+[Identifier] Identification number: M-34312 & \\
+\hline
+Title [Title] & Title type \\
+\hline
+The Ladykillers & Original \\
+\hline
+Manifestation type: Theatrical (main country of origin) & \\
+\hline
+Language [Language] & Usage \\
+\hline
+English & Dialogue (original) \\
+\hline
+[Original format] General Format: Film Specific Format: 35mm & \\
+\hline
+Colour Colour system: Technicolor Sound & \\
+\hline
+[Original duration] Running time – 97 minutes [Original length] Length: 8142 feet & \\
+\hline
+Event: Release - Release Country: United Kingdom Date: 1955-12 & \\
+\hline
+Distributor: Rank & \\
+\hline
+Relationships: & \\
+\hline
+Part of title & Parts title \\
+\hline
+35195 The Ladykillers & C-88339 The Ladykillers \\
+\hline
+\end{xltabular}
 
-| ITEM | |
-| --- | --- |
-| Title | Title type |
-| The Lady killers | Original |
-| Physical Description: Colour Positive Status: Master | |
-| Item type: Film Base: Safety Gauge: 35mm Colour Colour system: Technicolor Sound Sound system: VA Bilateral Stock: Kodak | |
-| Language: English Usage: Dialogue | |
-| Number of cans/cassettes: 5 Number of Reels: 10 Total footage: 7981 feet | |
-| Institution record identification number: C-88339| |
-| Can identification number: 61470E | |
-| Access conditions: Restricted access to preserved film | |
-| Emulsion condition: New | |
-| Observations: No sound on main and end titles; scratches on first 20 ft of reel 5 | |
-| Current location: XYZ203040 Home location: BKS102030 | |
-| Event type: Inspection Movement number: 3 Reason: Perforation inspection | |
-| Date: 1968-10-02 | |
-| Event type: Preservation Treatment: Damaged perforations on reels 2 and 7 repaired | |
-| Treatment date: 1968-10-05 Technician: Joe Bloggs | |
-| Event type: Acquisition Donor: FIAF Acquisition Date: 1959-09-03 | |
-| Relationships: | |
-| Part of title | |
-| M-34312 The Ladykillers | |
+\setlength\extrarowheight{2pt}
+\begin{xltabular}{\textwidth}{|L|L|}
+\hline
+\textbf{ITEM} &
+\\
+\hline
+Title & Title type \\
+\hline
+The Lady killers & Original \\
+\hline
+Physical Description: Colour Positive Status: Master & \\
+\hline
+Item type: Film Base: Safety Gauge: 35mm Colour Colour system: Technicolor Sound Sound system: VA Bilateral Stock: Kodak & \\
+\hline
+Language: English Usage: Dialogue & \\
+\hline
+Number of cans/cassettes: 5 Number of Reels: 10 Total footage: 7981 feet & \\
+\hline
+Institution record identification number: C-88339 & \\
+\hline
+Can identification number: 61470E & \\
+\hline
+Access conditions: Restricted access to preserved film & \\
+\hline
+Emulsion condition: New & \\
+\hline
+Observations: No sound on main and end titles; scratches on first 20 ft of reel 5 & \\
+\hline
+Current location: XYZ203040 Home location: BKS102030 & \\
+\hline
+Event type: Inspection Movement number: 3 Reason: Perforation inspection & \\
+\hline
+Date: 1968-10-02 & \\
+\hline
+Event type: Preservation Treatment: Damaged perforations on reels 2 and 7 repaired & \\
+\hline
+Treatment date: 1968-10-05 Technician: Joe Bloggs & \\
+\hline
+Event type: Acquisition Donor: FIAF Acquisition Date: 1959-09-03 & \\
+\hline
+Relationships: & \\
+\hline
+Part of title & \\
+\hline
+M-34312 The Ladykillers & \\
+\hline
+\end{xltabular}
 
 **2-Level Hierarchy model**
 
-| WORK | |
-| --- | --- |
-| Title [Title] | Title type |
-| The Ladykillers | Original |
-|The Lady killers | Help search |
-| Work type: Film | Filmographic level: Monographic |
-| Production country [Country of reference] : United Kingdom | |
-| Date(s) [Year of reference] | Date type |
-| 1955 | Copyright |
-| 1955-12 | Release |
-| Category [Form]: Fiction | Genre [Subject/Genre]: Comedy, Crime |
-| Synopsis [Content Description]: A gang of train robbers hide out at the lodgings of one of them, posing as an amateur string quartet. The innocent and upright elderly lady who owns the house is used by them, and is an inadvertent catalyst for their plans unravelling and the gang turning on each other.| |
-| On-screen credit | Name [Credits] |
-| Directed by | Mackendrick, Alexander |
-| Production Company | Ealing Studios |
-| A Production by | Balcon, Michael |
-| Associate Producer | Holt, Seth |
-| Unite Production Manager | Peers, David |
-| Production Supervisor | Mason, Hal |
-| Assistant Director | Pevsner, Tom |
-| [Assistant Director (2nd)] | Meadows, John |
-| [Assistant Director (3rd)] | Birkett, Michael |
-| Continuity | Manheim, Felicia |
-| Story and Screenplay by | Rose, William |
-| Director of Photography | Heller, Otto |
-| Technicolor Colour Consultant | Bridge, Joan |
-| Camera Operator | Waterson, Chic (as Waterson, Chick) |
-| [Focus Puller] | Parslow, Ray |
-| [Clapper Loader] | Bryce, Alan |
-| [Stills] | Hanscomb, Harold |
-| Special Effects | Pearson, Syd (as Pearson, Sydney) |
-| Editor | Harris, Jack |
-| Assistant Editor | Aldous, Harry |
-| [Assistant Editor (2nd)] | Clark, Jim |
-| [Assistant Editor (2nd)] | Clark, Robin |
-| Art Director | Morahan, Jim |
-| [Assistant Art Director] | Davey, Bert |
-| [Draughtsman] | Shampan, Jack |
-| Scenic Artist | Robinson, W. Simpson |
-| Costume Designer | Mendleson, Anthony |
-| Make-up | Garfath, Alec (as Garfath, Alex) |
-| Hairstyles | Martin, Daphne |
-| Music Composed by | Cary, Tristram |
-| Played by | The Sinfonia of London |
-| Conducted by | Mathieson, Dock |
-| Recordist | Wilkins, Leo |
-| Sound Supervisor | Dalby, Stephen (as Dalby, Steven) |
-| [Sound Assistant] | Fairbairn, Harry |
-| [Boom Operator] | Wortham, Don |
-| Sound Editor | Stone, Gordon |
-| | |
-| Character | Name [Cast] |
-| Professor Marcus | Guinness, Alec |
-| Major Courtney | Parker, Cecil |
-| Louis Harvey | Lom, Herbert |
-| Harry Robinson | Sellers, Peter |
-| One-Round Lawson | Green, Danny |
-| police superintendent | Warner, Jack |
-| Mrs. Louisa Wilberforce | Johnson, Katie |
-| police sergeant | Stainton, Philip |
-| barrow boy | Howerd, Frankie |
-| [pavement artist] | Sharp, Len |
-| [left luggage clerk] | Goodwin, Harold |
-| [cab driver] | Connor, Kenneth |
-| [junkman] | Griffiths, Fred |
-| [Amelia] | Kerry, Evelyn |
-| [Hypatia] | Burls, Hélène |
-| [old lady] | Hodgson, Phoebe |
-| [Lettice] | Martin, Edie |
-| [Scotland Yard man] | Melford, Jack |
-| [constable] | Moore, Robert |
-| [nervous man] | Rudling, John |
-| [large lady] | Brindley, Madge |
-| [Miss Pringle] | Griffiths, Lucy |
-| [second cab driver] | Kydd, Sam |
-| [policeman] | Wilson, Neil |
-| [constable in station] | Roberts, Ewan
-| [burglar] | Corcoran, Michael
-| [cast] | Roberts, Lynne
-| [cast] | John, Anthony
-| [cast] | Robb, Sandra
-| [cast] | Johns, Stratford
-| [cast] | Ayres, Janet
-| [cast] | Evans, Peter
-| [cast] | Green, Kevin
-| [cast] | Hart, Janet
-| [cast] | Pike, Colin
-| [Identifier] Identification number | W-35195 |
-| [Identifier] EIDR identifier | 10.5240/1C59-EFCF-AAF0-F735-71AB-H |
-| Event: Production – Date: 1955 | Location(s): Frederica Street, Islington, London N7 -- Cheney Road, Kings Cross, London NW1 |
-| Relationships: Parts title | |
-| C-88339 The Ladykillers | |
+\setlength\extrarowheight{2pt}
+\begin{xltabular}{\textwidth}{|L|L|}
+\hline
+\textbf{WORK} &
+\\
+\hline
+Title [Title] & Title type \\
+\hline
+The Ladykillers & Original \\
+\hline
+The Lady killers & Help search \\
+\hline
+Work type: Film & Filmographic level: Monographic \\
+\hline
+Production country [Country of reference] : United Kingdom & \\
+\hline
+Date(s) [Year of reference] & Date type \\
+\hline
+1955 & Copyright \\
+\hline
+1955-12 & Release \\
+\hline
+Category [Form]: Fiction & Genre [Subject/Genre]: Comedy, Crime \\
+\hline
+Synopsis [Content Description]: A gang of train robbers hide out at the lodgings of one of them, posing as an amateur string quartet. The innocent and upright elderly lady who owns the house is used by them, and is an inadvertent catalyst for their plans unravelling and the gang turning on each other. & \\
+\hline
+On-screen credit & Name [Credits] \\
+\hline
+Directed by & Mackendrick, Alexander \\
+\hline
+Production Company & Ealing Studios \\
+\hline
+A Production by & Balcon, Michael \\
+\hline
+Associate Producer & Holt, Seth \\
+\hline
+Unite Production Manager & Peers, David \\
+\hline
+Production Supervisor & Mason, Hal \\
+\hline
+Assistant Director & Pevsner, Tom \\
+\hline
+[Assistant Director (2nd)] & Meadows, John \\
+\hline
+[Assistant Director (3rd)] & Birkett, Michael \\
+\hline
+Continuity & Manheim, Felicia \\
+\hline
+Story and Screenplay by & Rose, William \\
+\hline
+Director of Photography & Heller, Otto \\
+\hline
+Technicolor Colour Consultant & Bridge, Joan \\
+\hline
+Camera Operator & Waterson, Chic (as Waterson, Chick) \\
+\hline
+[Focus Puller] & Parslow, Ray \\
+\hline
+[Clapper Loader] & Bryce, Alan \\
+\hline
+[Stills] & Hanscomb, Harold \\
+\hline
+Special Effects & Pearson, Syd (as Pearson, Sydney) \\
+\hline
+Editor & Harris, Jack \\
+\hline
+Assistant Editor & Aldous, Harry \\
+\hline
+[Assistant Editor (2nd)] & Clark, Jim \\
+\hline
+[Assistant Editor (2nd)] & Clark, Robin \\
+\hline
+Art Director & Morahan, Jim \\
+\hline
+[Assistant Art Director] & Davey, Bert \\
+\hline
+[Draughtsman] & Shampan, Jack \\
+\hline
+Scenic Artist & Robinson, W. Simpson \\
+\hline
+Costume Designer & Mendleson, Anthony \\
+\hline
+Make-up & Garfath, Alec (as Garfath, Alex) \\
+\hline
+Hairstyles & Martin, Daphne \\
+\hline
+Music Composed by & Cary, Tristram \\
+\hline
+Played by & The Sinfonia of London \\
+\hline
+Conducted by & Mathieson, Dock \\
+\hline
+Recordist & Wilkins, Leo \\
+\hline
+Sound Supervisor & Dalby, Stephen (as Dalby, Steven) \\
+\hline
+[Sound Assistant] & Fairbairn, Harry \\
+\hline
+[Boom Operator] & Wortham, Don \\
+\hline
+Sound Editor & Stone, Gordon \\
+\hline
+& \\
+\hline
+Character & Name [Cast] \\
+\hline
+Professor Marcus & Guinness, Alec \\
+\hline
+Major Courtney & Parker, Cecil \\
+\hline
+Louis Harvey & Lom, Herbert \\
+\hline
+Harry Robinson & Sellers, Peter \\
+\hline
+One-Round Lawson & Green, Danny \\
+\hline
+police superintendent & Warner, Jack \\
+\hline
+Mrs. Louisa Wilberforce & Johnson, Katie \\
+\hline
+police sergeant & Stainton, Philip \\
+\hline
+barrow boy & Howerd, Frankie \\
+\hline
+[pavement artist] & Sharp, Len \\
+\hline
+[left luggage clerk] & Goodwin, Harold \\
+\hline
+[cab driver] & Connor, Kenneth \\
+\hline
+[junkman] & Griffiths, Fred \\
+\hline
+[Amelia] & Kerry, Evelyn \\
+\hline
+[Hypatia] & Burls, Hélène \\
+\hline
+[old lady] & Hodgson, Phoebe \\
+\hline
+[Lettice] & Martin, Edie \\
+\hline
+[Scotland Yard man] & Melford, Jack \\
+\hline
+[constable] & Moore, Robert \\
+\hline
+[nervous man] & Rudling, John \\
+\hline
+[large lady] & Brindley, Madge \\
+\hline
+[Miss Pringle] & Griffiths, Lucy \\
+\hline
+[second cab driver] & Kydd, Sam \\
+\hline
+[policeman] & Wilson, Neil \\
+\hline
+[constable in station] & Roberts, Ewan \\
+\hline
+[burglar] & Corcoran, Michael \\
+\hline
+[cast] & Roberts, Lynne \\
+\hline
+[cast] & John, Anthony \\
+\hline
+[cast] & Robb, Sandra \\
+\hline
+[cast] & Johns, Stratford \\
+\hline
+[cast] & Ayres, Janet \\
+\hline
+[cast] & Evans, Peter \\
+\hline
+[cast] & Green, Kevin \\
+\hline
+[cast] & Hart, Janet \\
+\hline
+[cast] & Pike, Colin \\
+\hline
+[Identifier] Identification number & W-35195 \\
+\hline
+[Identifier] EIDR identifier & 10.5240/1C59-EFCF-AAF0-F735-71AB-H \\
+\hline
+Event: Production – Date: 1955 & Location(s): Frederica Street, Islington, London N7 -- Cheney Road, Kings Cross, London NW1 \\
+\hline
+Relationships: Parts title & \\
+\hline
+C-88339 The Ladykillers & \\
+\hline
+\end{xltabular}
 
-| MANIFESTATION/ITEM | |
-| --- | --- |
-| Institution record identification number: C-88339 | |
-| Can identification number: 61470E | |
-| Title | Title type |
-| The Ladykillers | Original |
-| The Lady killers | Help search |
-| Manifestation type: Theatrical (main country of origin) | |
-| Event: Release - Release Country: United Kingdom Date: 1955-12 | |
-| Distributor: Rank | |
-| Language [Language] | Usage |
-| English | Dialogue (original) |
-| [Original duration] Running time – 97 minutes [Original length] Length: 8142 feet | |
-| Number of cans/cassettes: 5 Number of Reels: 10 Total footage: 7981 feet | |
-| Physical Description: Colour Positive Status Master | |
-| Item type: Film [Original format] Base: Safety Gauge: 35mm Colour Colour system: Technicolor Sound Sound system: VA Bilateral Stock: Kodak | |
-| Access conditions: Restricted access to preserved film | |
-| Emulsion: New | |
-| Observations: No sound on main and end titles; scratches on first 20 ft of reel 5 | |
-| Current location: XYZ203040 Home location: BKS102030 | |
-| Event type: Inspection Movement number: 3 Reason: Perforation inspection Date: 1968-10-02 | |
-| Event type: Preservation Treatment: Damaged perforations on reels 2 and 7 repaired Treatment date: 1968-10-05 Technician: Joe Bloggs | |
-| Event type: Acquisition Donor: FIAF Acquisition Date: 1959-09-03 | |
-| Relationships: | |
-| Part of title | |
-| W-35195 The Ladykillers | |
+\setlength\extrarowheight{2pt}
+\begin{xltabular}{\textwidth}{|L|L|}
+\hline
+\textbf{MANIFESTATION/ITEM} &
+\\
+\hline
+Institution record identification number: C-88339 & \\
+\hline
+Can identification number: 61470E & \\
+\hline
+Title & Title type \\
+\hline
+The Ladykillers & Original \\
+\hline
+The Lady killers & Help search \\
+\hline
+Manifestation type: Theatrical (main country of origin) & \\
+\hline
+Event: Release - Release Country: United Kingdom Date: 1955-12 & \\
+\hline
+Distributor: Rank & \\
+\hline
+Language [Language] & Usage \\
+\hline
+English & Dialogue (original) \\
+\hline
+[Original duration] Running time – 97 minutes [Original length] Length: 8142 feet & \\
+\hline
+Number of cans/cassettes: 5 Number of Reels: 10 Total footage: 7981 feet & \\
+\hline
+Physical Description: Colour Positive Status Master & \\
+\hline
+Item type: Film [Original format] Base: Safety Gauge: 35mm Colour Colour system: Technicolor Sound Sound system: VA Bilateral Stock: Kodak & \\
+\hline
+Access conditions: Restricted access to preserved film & \\
+\hline
+Emulsion: New & \\
+\hline
+Observations: No sound on main and end titles; scratches on first 20 ft of reel 5 & \\
+\hline
+Current location: XYZ203040 Home location: BKS102030 & \\
+\hline
+Event type: Inspection Movement number: 3 Reason: Perforation inspection Date: 1968-10-02 & \\
+\hline
+Event type: Preservation Treatment: Damaged perforations on reels 2 and 7 repaired Treatment date: 1968-10-05 Technician: Joe Bloggs & \\
+\hline
+Event type: Acquisition Donor: FIAF Acquisition Date: 1959-09-03 & \\
+\hline
+Relationships: & \\
+\hline
+Part of title & \\
+\hline
+W-35195 The Ladykillers & \\
+\hline
+\end{xltabular}
 
 **1-Level Hierarchy model**
 
-| | |
-| --- | --- |
-| Title [Title] | Title type |
-| The Ladykillers | Original |
-| The Lady killers | Help search |
-| Work type: Film | Filmographic level: Monographic |
-| Production country [Country of reference]: United Kingdom | |
-| Date(s) [Year of reference] | Date type |
-| 1955 | Copyright |
-| 1955-12 | Release |
-| Category [Form]: Fiction | Genre [Subject/Genre]: Comedy, Crime |
-| Synopsis [Content description]: A gang of train robbers hide out at the lodgings of one of them, posing as an amateur string quartet. The innocent and upright elderly lady who owns the house is used by them, and is an inadvertent catalyst for their plans unravelling and the gang turning on each other. | |
-| On-screen credit | Name [Credits] |
-| Directed by | Mackendrick, Alexander |
-| Production Company | Ealing Studios |
-| A Production by | Balcon, Michael |
-| Associate Producer | Holt, Seth |
-| Unite Production Manager | Peers, David |
-| Production Supervisor | Mason, Hal |
-| Assistant Director | Pevsner, Tom |
-| [Assistant Director (2nd)] | Meadows, John |
-| [Assistant Director (3rd)] | Birkett, Michael |
-| Continuity | Manheim, Felicia |
-| Story and Screenplay by | Rose, William |
-| Director of Photography | Heller, Otto |
-| Technicolor Colour Consultant | Bridge, Joan |
-| Camera Operator | Waterson, Chic (as Waterson, Chick) |
-| [Focus Puller] | Parslow, Ray |
-| [Clapper Loader] | Bryce, Alan |
-| [Stills] | Hanscomb, Harold |
-| Special Effects | Pearson, Syd (as Pearson, Sydney) |
-| Editor | Harris, Jack |
-| Assistant Editor | Aldous, Harry |
-| [Assistant Editor (2nd)] | Clark, Jim |
-| [Assistant Editor (2nd)] | Clark, Robin |
-| Art Director | Morahan, Jim |
-| [Assistant Art Director] | Davey, Bert |
-| [Draughtsman] | Shampan, Jack |
-| Scenic Artist | Robinson, W. Simpson |
-| Costume Designer | Mendleson, Anthony |
-| Make-up | Garfath, Alec (as Garfath, Alex) |
-| Hairstyles | Martin, Daphne |
-| Music Composed by | Cary, Tristram |
-| Played by | The Sinfonia of London |
-| Conducted by | Mathieson, Dock |
-| Recordist | Wilkins, Leo |
-| Sound Supervisor | Dalby, Stephen (as Dalby, Steven) |
-| [Sound Assistant] | Fairbairn, Harry |
-| [Boom Operator] | Wortham, Don |
-| Sound Editor | Stone, Gordon |
-| | |
-| Character | Name [Cast] |
-| Professor Marcus | Guinness, Alec |
-| Major Courtney | Parker, Cecil |
-| Louis Harvey | Lom, Herbert |
-| Harry Robinson | Sellers, Peter |
-| One-Round Lawson | Green, Danny |
-| police superintendent | Warner, Jack |
-| Mrs. Louisa Wilberforce | Johnson, Katie |
-| police sergeant | Stainton, Philip |
-| barrow boy | Howerd, Frankie |
-| [pavement artist] | Sharp, Len |
-| [left luggage clerk] | Goodwin, Harold |
-| [cab driver] | Connor, Kenneth |
-| [junkman] | Griffiths, Fred |
-| [Amelia] | Kerry, Evelyn |
-| [Hypatia] | Burls, Hélène |
-| [old lady] | Hodgson, Phoebe |
-| [Lettice] | Martin, Edie |
-| [Scotland Yard man] | Melford, Jack |
-| [constable] | Moore, Robert |
-| [nervous man] | Rudling, John |
-| [large lady] | Brindley, Madge |
-| [Miss Pringle] | Griffiths, Lucy |
-| [second cab driver] | Kydd, Sam |
-| [policeman] | Wilson, Neil |
-| [constable in station] | Roberts, Ewan
-| [burglar] | Corcoran, Michael
-| [cast] | Roberts, Lynne
-| [cast] | John, Anthony
-| [cast] | Robb, Sandra
-| [cast] | Johns, Stratford
-| [cast] | Ayres, Janet
-| [cast] | Evans, Peter
-| [cast] | Green, Kevin
-| [cast] | Hart, Janet
-| [cast] | Pike, Colin
-| [Identifier] EIDR identifier | 10.5240/1C59-EFCF-AAF0-F735-71AB-H | 
-| [Identifier] Institution record identification number: C-88339 | |
-| [Identifier] Can identification number: 61470E | |
-| Event: Production – Date: 1955 | Location(s): Frederica Street, Islington, London N7 Cheney Road, Kings Cross, London NW1 |
-| Release Country: United Kingdom | Release Date: 1955-12 |
-| Theatrical release (in country of origin) | |
-| [Original duration] Running time – 97 minutes [Original length] Length (original footage): 8142 feet | |
-| Number of cans/cassettes: 5 Number of Reels: 10 Total footage: 7981 feet | |
-| Physical Description: Colour Positive Status: Master Item type: Film [Original format] Base: Safety Gauge: 35mm Colour Colour system: Technicolor Sound Sound system: VA Bilateral Stock: Kodak | |
-| Language [Language]: English | Usage: Dialogue (original) |
-| Access conditions: Restricted access to preserved film | |
-| Emulsion condition: New | |
-| Observations: No sound on main and end titles; scratches on first 20 ft of reel 5 | |
-| Current location: XYZ203040 Home location: BKS102030 | |
-| Event type: Inspection Movement number: 3 Reason: Perforation inspection | |
-| Date: 1968-10-02 | |
-| Event type: Preservation Treatment: Damaged perforations on reels 2 and 7 repaired | |
-| Treatment date: 1968-10-05 Technician: Joe Bloggs | |
-| Event type: Acquisition Donor: FIAF Acquisition Date: 1959-09-03 | |
 
-\subsection[Example 2. Documentary film in 4-level hierarchy]{Example 2. Documentary film in 4-level hierarchy 
-    \label{sec:example_two}
-    } 
 
-In this second example,  the corresponding data of the core concepts also has the same illustrative matching colours as used in the Core Elements list in Example 1 (see below), and there are also links to the relevant sections of the manual relating to those elements.
+\setlength\extrarowheight{2pt}
+\begin{xltabular}{\textwidth}{|L|L|}
+\hline
+Title [Title] & Title type \\
+\hline
+The Ladykillers & Original \\
+\hline
+The Lady killers & Help search \\
+\hline
+Work type: Film & Filmographic level: Monographic \\
+\hline
+Production country [Country of reference]: United Kingdom & \\
+\hline
+Date(s) [Year of reference] & Date type \\
+\hline
+1955 & Copyright \\
+\hline
+1955-12 & Release \\
+\hline
+Category [Form]: Fiction & Genre [Subject/Genre]: Comedy, Crime \\
+\hline
+Synopsis [Content description]: A gang of train robbers hide out at the lodgings of one of them, posing as an amateur string quartet. The innocent and upright elderly lady who owns the house is used by them, and is an inadvertent catalyst for their plans unravelling and the gang turning on each other. & \\
+\hline
+On-screen credit & Name [Credits] \\
+\hline
+Directed by & Mackendrick, Alexander \\
+\hline
+Production Company & Ealing Studios \\
+\hline
+A Production by & Balcon, Michael \\
+\hline
+Associate Producer & Holt, Seth \\
+\hline
+Unite Production Manager & Peers, David \\
+\hline
+Production Supervisor & Mason, Hal \\
+\hline
+Assistant Director & Pevsner, Tom \\
+\hline
+[Assistant Director (2nd)] & Meadows, John \\
+\hline
+[Assistant Director (3rd)] & Birkett, Michael \\
+\hline
+Continuity & Manheim, Felicia \\
+\hline
+Story and Screenplay by & Rose, William \\
+\hline
+Director of Photography & Heller, Otto \\
+\hline
+Technicolor Colour Consultant & Bridge, Joan \\
+\hline
+Camera Operator & Waterson, Chic (as Waterson, Chick) \\
+\hline
+[Focus Puller] & Parslow, Ray \\
+\hline
+[Clapper Loader] & Bryce, Alan \\
+\hline
+[Stills] & Hanscomb, Harold \\
+\hline
+Special Effects & Pearson, Syd (as Pearson, Sydney) \\
+\hline
+Editor & Harris, Jack \\
+\hline
+Assistant Editor & Aldous, Harry \\
+\hline
+[Assistant Editor (2nd)] & Clark, Jim \\
+\hline
+[Assistant Editor (2nd)] & Clark, Robin \\
+\hline
+Art Director & Morahan, Jim \\
+\hline
+[Assistant Art Director] & Davey, Bert \\
+\hline
+[Draughtsman] & Shampan, Jack \\
+\hline
+Scenic Artist & Robinson, W. Simpson \\
+\hline
+Costume Designer & Mendleson, Anthony \\
+\hline
+Make-up & Garfath, Alec (as Garfath, Alex) \\
+\hline
+Hairstyles & Martin, Daphne \\
+\hline
+Music Composed by & Cary, Tristram \\
+\hline
+Played by & The Sinfonia of London \\
+\hline
+Conducted by & Mathieson, Dock \\
+\hline
+Recordist & Wilkins, Leo \\
+\hline
+Sound Supervisor & Dalby, Stephen (as Dalby, Steven) \\
+\hline
+[Sound Assistant] & Fairbairn, Harry \\
+\hline
+[Boom Operator] & Wortham, Don \\
+\hline
+Sound Editor & Stone, Gordon \\
+\hline
+& \\
+\hline
+Character & Name [Cast] \\
+\hline
+Professor Marcus & Guinness, Alec \\
+\hline
+Major Courtney & Parker, Cecil \\
+\hline
+Louis Harvey & Lom, Herbert \\
+\hline
+Harry Robinson & Sellers, Peter \\
+\hline
+One-Round Lawson & Green, Danny \\
+\hline
+police superintendent & Warner, Jack \\
+\hline
+Mrs. Louisa Wilberforce & Johnson, Katie \\
+\hline
+police sergeant & Stainton, Philip \\
+\hline
+barrow boy & Howerd, Frankie \\
+\hline
+[pavement artist] & Sharp, Len \\
+\hline
+[left luggage clerk] & Goodwin, Harold \\
+\hline
+[cab driver] & Connor, Kenneth \\
+\hline
+[junkman] & Griffiths, Fred \\
+\hline
+[Amelia] & Kerry, Evelyn \\
+\hline
+[Hypatia] & Burls, Hélène \\
+\hline
+[old lady] & Hodgson, Phoebe \\
+\hline
+[Lettice] & Martin, Edie \\
+\hline
+[Scotland Yard man] & Melford, Jack \\
+\hline
+[constable] & Moore, Robert \\
+\hline
+[nervous man] & Rudling, John \\
+\hline
+[large lady] & Brindley, Madge \\
+\hline
+[Miss Pringle] & Griffiths, Lucy \\
+\hline
+[second cab driver] & Kydd, Sam \\
+\hline
+[policeman] & Wilson, Neil \\
+\hline
+[constable in station] & Roberts, Ewan \\
+\hline
+[burglar] & Corcoran, Michael \\
+\hline
+[cast] & Roberts, Lynne \\
+\hline
+[cast] & John, Anthony \\
+\hline
+[cast] & Robb, Sandra \\
+\hline
+[cast] & Johns, Stratford \\
+\hline
+[cast] & Ayres, Janet \\
+\hline
+[cast] & Evans, Peter \\
+\hline
+[cast] & Green, Kevin \\
+\hline
+[cast] & Hart, Janet \\
+\hline
+[cast] & Pike, Colin \\
+\hline
+[Identifier] EIDR identifier & 10.5240/1C59-EFCF-AAF0-F735-71AB-H \\
+\hline
+[Identifier] Institution record identification number: C-88339 & \\
+\hline
+[Identifier] Can identification number: 61470E & \\
+\hline
+Event: Production – Date: 1955 & Location(s): Frederica Street, Islington, London N7 Cheney Road, Kings Cross, London NW1 \\
+\hline
+Release Country: United Kingdom & Release Date: 1955-12 \\
+\hline
+Theatrical release (in country of origin) & \\
+\hline
+[Original duration] Running time – 97 minutes [Original length] Length (original footage): 8142 feet & \\
+\hline
+Number of cans/cassettes: 5 Number of Reels: 10 Total footage: 7981 feet & \\
+\hline
+Physical Description: Colour Positive Status: Master Item type: Film [Original format] Base: Safety Gauge: 35mm Colour Colour system: Technicolor Sound Sound system: VA Bilateral Stock: Kodak & \\
+\hline
+Language [Language]: English & Usage: Dialogue (original) \\
+\hline
+Access conditions: Restricted access to preserved film & \\
+\hline
+Emulsion condition: New & \\
+\hline
+Observations: No sound on main and end titles; scratches on first 20 ft of reel 5 & \\
+\hline
+Current location: XYZ203040 Home location: BKS102030 & \\
+\hline
+Event type: Inspection Movement number: 3 Reason: Perforation inspection & \\
+\hline
+Date: 1968-10-02 & \\
+\hline
+Event type: Preservation Treatment: Damaged perforations on reels 2 and 7 repaired & \\
+\hline
+Treatment date: 1968-10-05 Technician: Joe Bloggs & \\
+\hline
+Event type: Acquisition Donor: FIAF Acquisition Date: 1959-09-03 & \\
+\hline
+\end{xltabular}
+
+
+
+
+
+\subsection{Example 2. Documentary film in 4-level hierarchy} 
+\label{sec:example_two}
+
+In this second example, the corresponding data of the core concepts also has the same illustrative matching colours as used in the Core Elements list in Example 1 (see below), and there are also links to the relevant sections of the manual relating to those elements.
 
 Core concepts ([\nameref{sec:core_elements_of_description})
 
@@ -424,238 +796,473 @@ Identifier
 Subject/genre/form
 Content description
 
-| WORK | | | |
-| --- | --- | --- | --- |
-| 1.2 Attributes of a Moving Image Work/Variant | | | | 
-| 1.2.1 Work/Variant Description Type | D.1 Work/Variant Description Types | monographic | monografická |
-| 1.3 Elements of a Work/Variant | | | |
-| 1.3.1 Work/Variant Identifier | | urn:nbn:sk:sfu-ko1ugsb | urn:nbn:sk:sfu-ko1ugsb |
-| 1.3.1.1 Identifier Type | | URN:NBN | URN:NBN |
-| 1.3.1 Work/Variant Identifier | | SFD000163 | SFD000163 |
-| 1.3.1.1 Identifier Type | | SFÚ identifier [local] | identifikátor SFÚ [lokálny] |
-| 1.3.2 Title | | Obrazy starého sveta | Obrazy starého sveta |
-| 1.3.2.1 Title Type | A.2 Title Types | A.2.0 Preferred [original: slo] | preferovaný [originálny: slo] |
-| 1.3.2 Title | | Pictures of the old world | Pictures of the old world |
-| 1.3.2.1 Title Type | A.2 Title Types | A.2.4 Alternative [translated title: eng] | alternatívny [preklad názvu: eng] |
-| 1.3.2 Title | | Images du vieux monde | Images du vieux monde | 
-| 1.3.2.1 Title Type | A.2 Title Types | A.2.4 Alternative [translated title: fre] | alternatívny [preklad názvu: fre] |
-| 1.3.2 Title | | Bilder einer alten Welt | Bilder einer alten Welt |
-| 1.3.2.1 Title Type | A.2 Title Types | A.2.4 Alternative [translated title: ger] | alternatívny [preklad názvu: ger] |
-| 1.3.2 Title | | Картины старого мира | Картины старого мира |
-| 1.3.2.1 Title Type | A.2 Title Types | A.2.4 Alternative [translated title: rus] | alternatívny [preklad názvu: rus] |
-| 1.3.2 Title | | Kartiny starogo mira | Kartiny starogo mira |
-| 1.3.2.1 Title Type | A.2 Title Types | A.2.4 Alternative [translated title:rus & transliterated title] | alternatívny [preklad názvu: rus a transliterácia názvu] |
-| 1.3.3 Country of reference | | Slovakia [Czechoslovakia] | Slovensko [Československo] |
-| 1.3.4 Year/Date of reference | | 1972 | 1972 |
-| 1.3.4.1 Date Type | | year of production | rok výroby |
-| 1.3.5 Language(s) | | Slovak | slovenčina |
-| 1.3.5.1 Language Term | | slo | slo |
-| 1.3.5.2 Usage type | D.6 Language Usage Types | Original Language | pôvodný jazyk |
-| 1.3.5.2 Usage type | D.6 Language Usage Types | spoken language | hovorený jazyk |
-| 1.3.5.2 Usage type | D.6 Language Usage Types | sung language | spievaný jazyk |
-| 1.3.6 Content description (synopses, shotlists, etc) | | Suggestive portraits of old people from the Liptov and Orava regions who are able to enjoy their individual freedom even in the times of civilisational chaos and insecurity. | Sugestívne portréty starých ľudí z Liptova a Oravy, ktorí dokážu aj v stave civilizačného chaosu a neistoty žiť vnútorne slobodní. |
-| 1.3.6.1 Content Description Type | | synopsis | anotácia |
-| 1.3.7 Notes | Appendix B, Cataloguer’s Notes | Text before the opening credits: These are stories of people rooted in the soil they came from. They cannot be replanted, they would perish. | Pred úvodnými titulkami text: Toto sú príbehy, ľudí, ktorí ostali sami sebou. Zabudnutí a prostí, vrastení do zeme, z ktorej vyšli. Nemožno ich presadiť pretože by zahynuli. |
-| 1.3.8.2 Censorship history | | banned film (cinema release: July 1989) | zakázaný film (kinodistribúcia: júl 1989) |
-| 1.4 Relationships of a Work/Variant (links/associations with other entities/records) | | | |
-| Credits | | | |
-| 1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) | | Československý film Bratislava | Československý film Bratislava |
-| 1.4.1.1 Agent Activity | | Production Company | Produkčná spoločnosť |
-| 1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) | | Dušan Hanák | Dušan Hanák |
-| 1.4.1.1 Agent Activity | | Director | Réžia |
-| 1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) | | Dušan Hanák Dušan Hanák |
-| 1.4.1.1 Agent Activity | | Story and screenplay | Námet a scenár |
-| 1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) | | Alojz Hanúsek | Alojz Hanúsek |
-| 1.4.1.1 Agent Activity | | Cinematographer | Kamera |
-| 1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) | | Alfréd Benčič | Alfréd Benčič | 
-| 1.4.1.1 Agent Activity | | Editor | Strih | 
-| 1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) | | Ondrej Polomský| Ondrej Polomský |
-| 1.4.1.1 Agent Activity | | Sound | Zvuk |
-| 1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) | | Martin Martinček | Martin Martinček |
-| 1.4.1.1 Agent Activity | | Photographs by | Fotografie |
-| 1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) | | Vladimír Vavrek | Vladimír Vavrek |
-| 1.4.1.1 Agent Activity | | Photographs by | Fotografie |
-| 1.4.1 Agents | | George Frideric Handel | George Frideric Handel | 
-| 1.4.1.1 Agent Activity | | Music | Hudba |
-| 1.4.1 Agents | | Václav Hálek | Václav Hálek |
-| 1.4.1.1 Agent Activity | | Music | Hudba |
-| 1.4.1 Agents | | Jozef Malovec | Jozef Malovec |
-| 1.4.1.1 Agent Activity | | Music | Hudba |
-| 1.4.1 Agents | | František Belfín | František Belfín |
-| 1.4.1.1 Agent Activity | | Conductor | Dirigent |
-| 1.4.1 Agents | | Filmový symfonický orchestr, Praha | Filmový symfonický orchestr, Praha |
-| 1.4.1.1 Agent Activity | | Music Performed by | Hudbu nahral |
-| 1.4.1 Agents | | Boris Hochel | Boris Hochel |
-| 1.4.1.1 Agent Activity | | Script Editor | Dramaturg |
-| 1.4.1 Agents | | Juraj Král | Juraj Král |
-| 1.4.1.1 Agent Activity | | Production Manager | Vedúci výroby |
-| 1.4.1 Agents | | Stanislav Učník | Stanislav Učník |
-| 1.4.1.1 Agent Activity | | Production Supervisor | Vedúci nakrúcania |
-| 1.4.1 Agents | | Oľga Hrajnohová | Oľga Hrajnohová |
-| 1.4.1.1 Agent Activity | | Script-girl | Skript |
-| 1.4.1 Agents | | Štefan Kondrót | Štefan Kondrót |
-| 1.4.1.1 Agent Activity | | Cooperation | Spolupráca |
-| 1.4.1 Agents | | Martin Gazík | Martin Gazík |
-| 1.4.1.1 Agent Activity | | Cooperation | Spolupráca |
-| 1.4.1 Agents | | Ján Albrecht | Ján Albrecht |
-| 1.4.1.1 Agent Activity | | Cooperation | Spolupráca |
-| 1.4.1 Agents | | Jan Švankmajer | Jan Švankmajer |
-| 1.4.1.1 Agent Activity | | Cooperation | Spolupráca |
-| 1.4.1 Agents | | Jozef Košťál | Jozef Košťál |
-| 1.4.1.1 Agent Activity | | Cooperation | Spolupráca |
-| 1.4.1 Agents | | Jaroslav Rihák | Jaroslav Rihák |
-| 1.4.1.1 Agent Activity | | Cooperation | Spolupráca |
-| 1.4.1 Agents | | Milan Hurtig | Milan Hurtig |
-| 1.4.1.1 Agent Activity | | Cooperation | Spolupráca |
-| 1.4.1 Agents | | Jozef Kováčik | Jozef Kováčik |
-| 1.4.1.1 Agent Activity | | Cooperation | Spolupráca |
-| 1.4.1 Agents | | Ján Gašparec | Ján Gašparec |
-| 1.4.1.1 Agent Activity | | Cooperation | Spolupráca |
-| Cast/ Featuring | | From the lives of those mentioned below: | Zo života: |
-| 1.4.1 Agents | | Veronika Ralíková | Veronika Ralíková |
-| 1.4.1.1 Agent Activity | | Herself | |
-| 1.4.1 Agents | | Adam Kura | Adam Kura |
-| 1.4.1.1 Agent Activity | | Himself | |
-| 1.4.1 Agents | | Jozef Országh | Jozef Országh |
-| 1.4.1.1 Agent Activity | | Himself | |
-| 1.4.1 Agents | | Juraj Michelík | Juraj Michelík |
-| 1.4.1.1 Agent Activity | | Himself | |
-| 1.4.1 Agents | | Anton Miček | Anton Miček |
-| 1.4.1.1 Agent Activity | | Himself | |
-| 1.4.1 Agents | | Františka Ševčíková | Františka Ševčíková |
-| 1.4.1.1 Agent Activity | | Herself | |
-| 1.4.1 Agents | | Adam Struhárňanský | Adam Struhárňanský |
-| 1.4.1.1 Agent Activity | | Himself | |
-| 1.4.1 Agents | | Jozef Račko | Jozef Račko |
-| 1.4.1.1 Agent Activity | | Himself | |
-| 1.4.1 Agents | | Alojz Kováč | Alojz Kováč
-| 1.4.1.1 Agent Activity | | Himself | |
-| 1.4.1 Agents | | Matej Dudka | Matej Dudka |
-| 1.4.1.1 Agent Activity | | Himself | |
-| 1.4.1 Agents | | Ladislav Chudík | Ladislav Chudík | 
-| 1.4.1.1 Agent Activity | |commentary spoken by | interpret komentára |
-| 1.4.2 Events (e.g., IPR registration, screenings, awards, etc.) D.4.3 Production | | | |
-| - Production Event type | D.11 Production Event Types | beginning of shooting | prvý filmovací deň |
-| - Year/Date | | 1971-09-13 | 1971-09-13 |
-| - Production Event type | D.11 Production Event Types | completion of shooting | posledný filmovací deň |
-| - Year/Date | | 1972-01-09 | 1972-01-09 |
-| 1.4.2 Events (e.g., IPR registration, screenings, awards, etc.)– D.4.2 Award(s) or Nomination(s) | | | |
-| - Award(s)/Nomination(s) date | | 1988 | 1988 | 
-| - Award name | | Golden Sestertius, Grand Prix (Sesterce d’Or, Grand Prix) | Zlatý sestercius, Grand Prix (Sesterce d’Or, Grand Prix) |
-| - Event | | 20th International Festival of Documentary Films Nyon 1988 | 20. medzinárodný festival dokumentárnych filmov Nyon 1988 |
-| - Award(s)/Nomination(s) date | | 1989 | 1989 |
-| - Award name | | European Film Award / European Documentary - Special Mention | Európska filmová cena / Európske dokumenty - Osobitné uznanie |
-| - Event | | 2nd European Film Awards 1989 (Paris) | 2. ročník Európskych filmových cien 1989 (Paríž) |
-| - Award(s)/Nomination(s) date | | 1990 | 1990 |
-| - Award name | | Los Angeles Film Critics Association Award / Best Non-Fiction Film | Cena asociácie losangeleských filmových kritikov / Najlepší non-fiction film |
-| - Event | | 16th Los Angeles Film Critics Association Awards 1990 | 16. ročník Cien asociácie losangeleských filmových kritikov 1990 |
-| 1.4.3 Subject/Genre/Form terms | genre | documentary films | dokumentárne filmy |
-| | form | full-length films | dlhometrážné filmy
-| 1.4.4 Other relationships | D.17.1 Work/Variant Other Relationship Types | “Has a relationship to an “object” (a non-moving image resource)” | Má vzťah k objektu |
-| | | Obrazy starého sveta / Dušan Hanák. – The screenplay of the film: Pictures of the old world (1972). In: 322 ; Obrazy starého sveta ; Růžové sny / Dušan Hanák. – Praha : Lika klub, 2005. – ISBN 8086069-37-0. – p. 78-127. | Obrazy starého sveta / Dušan Hanák. – Scenár filmu: Obrazy starého sveta (1972). In: 322 ; Obrazy starého sveta ; Růžové sny / Dušan Hanák. – Praha : Lika klub, 2005. – ISBN 8086069-37-0. – s. 78-127. |
-| 1.4.4 Other relationships | D.17.1 Work/Variant Other Relationship Types | “Has a relationship to a Work “about” the Work/Variant in question” | Má vzťah k dielu o diele |
-| | | Kinožurnál [film]. 51/1988 (1988) | Kinožurnál [film]. 51/1988 (1988) |
-| 1.4.5 Variants | | “Has a relationship to a Variant” | |
-| | | 199999163 | 199999163 |
-| VARIANT | | | |
-| 1.2 Attributes of a Moving Image Work/Variant | | | |
-| 1.2.2 Variant Type | D.2 Variant Type | subtitled | s podtitulkami |
-| 1.3 Elements of a Work/Variant | | | |
-| 1.3.1 Work/Variant Identifier | | 199999163 | 199999163 |
-| 1.3.1.1 Identifier Type | | SFÚ identifier [local] | identifikátor SFÚ [lokálny] |
-| 1.3.2 Title | | Pictures of the old world | Pictures of the old world |
-| 1.3.2.1 Title Type | A.2 Title Types | A.2.4 Alternative [parallel title: eng] | alternatívny [súbežný názov: eng] |
-| 1.3.5 Language(s) | | English | angličtina |
-| 1.3.5.1 Language | | eng | eng | 
-| 1.3.5.2 Usage type | D.6 Language Usage Types | subtitles | podtitulky |
-| 1.4.6 Manifestations | | “Has a relationship to a Manifestation” | |
-| | | 299999163 | 299999163 |
-| MANIFESTATION | | | |
-| 2.2 Attributes of a Manifestation | | | |
-| 2.2.1 Manifestation Type | D.5 Manifestation Types | D.5.9 Preservation/Restoration | |
-| 2.3 Elements of a Manifestation | | | |
-| 2.3.1 Identifier | | 299999163 | 299999163 |
-| 2.3.1.1 Identifier Type | | SFÚ identifier [local] | identifikátor SFÚ [lokálny] |
-| 2.3.2 Title | | Pictures of the old world | Pictures of the old world |
-| 2.3.2.1 Title Type | A.2 Title Types | A.2.4 Alternative [parallel: eng] | A.2.4 Alternative [parallel: eng] |
-| 2.3.4 Format of a moving image Manifestation | | | |
-| 2.3.4.1 Carrier type of a Manifestation | | | |
-| 2.3.4.1.1 General Carrier Type | D.7.1 Manifestation/Item General Carrier Type | Film | film |
-| 2.3.4.1.2 Specific Carrier Type | D.7.2 Manifestation/Item Specific Carrier Type | 35 mm | 35 mm |
-| 2.3.4.2 Projection characteristics of a Manifestation | | | |
-| Aspect Ratio | | 1:1,37 | 1:1,37 |
-| Aperture/Image Format | | Academy | Academy |
-| 2.3.4.3 Sound characteristics of a Manifestation | D.7.4 Manifestation/Item Sound Type | sound | zvukový |
-| 2.3.4.3.1 Sound systems | D.7.13 Item Sound System | combined optical sound | kombinovaný optický zvuk |
-| 2.3.4.3.2 Sound Channel Configuration | D.7.5 Manifestation/Item Sound Fixation Type | optical mono | optický (mono) |
-| 2.3.4.4 Colour characteristics of a Manifestation | D.7.11 Manifestation/Item Colour Type | black and white | čiernobiely |
-| 2.3.5 Extent of a Manifestation | | | |
-| 2.3.5.1 Logical extent of a Manifestation | | 4 reels | 4 kotúče |
-| 2.3.5.2 Physical extent of a Manifestation | metres | 1827,8 m | 1827,8 m |
-| 2.3.5.3 Duration of a Manifestation | HH:MM:SS | 01:06:38 | 01:06:38 |
-| 2.4 Relationships of a Manifestation | | | |
-| 2.4.1 Agent(s) | | Slovak Film Institute | Slovenský filmový ústav |
-| 2.4.1.1 Agent Activity | D.8 Manifestation Agent Types | D.8.6 Agent responsible for preservation | D.8.6 zodpovednosť za uchovávanie |
-| 2.4.1 Agent(s) | | Film Laboratory Ateliery Bonton Zlin a.s. | Filmové laboratoře Ateliéry Bonton Zlín a.s. |
-| 2.4.1.1 Agent Activity | D.8 Manifestation Agent Types | D.8.5 Manufacturer | D.8.5 Manufacturer |
-| 2.4.2 Events - D.4.5 Preservation | | | |
-| Preservation type | D.12 Manifestation Preservation Types | Film restoration | Filmová obnova |
-| Preservation Date | | 2006 | 2006 |
-| Note | | added English subtitles | doplnené o anglické podtitulky |
-| 2.4.4 Item(s) | | “Has a relationship to an Item” | |
-| | | 099967 | 099967 |
-| ITEM | | | |
-| 3.1 Elements of a moving image Item | | | |
-| 3.1.1 Identifier | | 099967 | 099967 |
-| 3.1.1.1 Identifier Type | | SFÚ identifier [local] | identifikátor SFÚ [lokálny] |
-| 3.1.1 Identifier | | 140-ZO-A3 | 140-ZO-A3 |
-| 3.1.1.1 Identifier Type | | archive number | archívne číslo |
-| 3.1.2 Title | | Obrazy starého sveta | Obrazy starého sveta |
-| 3.1.2.1 Title Type | | title on can | názov na obale |
-| 3.1.3 Holding institution | | Slovak Film Institute | Slovenský filmový ústav |
-| | | SK-BrSFU [MARC Code] | SK-BrSFU [MARC] |
-| 3.1.4 Item Element type | D.7.8 Item Element Type | Positive | Pozitív |
-| 3.1.5 Item Specifics/Extent (e.g. physical/Digital description) | | | |
-| 3.1.5.2 Item Status | D.7.3 Item Preservation/Access status | Viewing | Na premietanie |
-| 3.1.5.8 Extent | Metres | reel 1: 552,8 m | 1. kotúč: 552,8 m |
-| | Metres | reel 2: 570,4 m | 2. kotúč: 570,4 m | 
-| | Metres | reel 3: 520,4 m | 3. kotúč: 520,4 m | 
-| | Metres | reel 4: 184,2 m | 4. kotúč: 184,2 m | 
-| | metres | TOTAL LENGTH: 1827,8 m DĹŽKA SPOLU: 1827,8 m | 
-| 3.1.5.11 Duration | HH:MM:SS | reel 1: 00:20:09 | 1. kotúč: 00:20:09 | 
-| | HH:MM:SS | reel 2: 00:20:48 | 2. kotúč: 00:20:48 | 
-| | HH:MM:SS | reel 3: 00:18:58 | 3. kotúč: 00:18:58 | 
-| | HH:MM:SS | reel 4: 00:06:43 | 4. kotúč: 00:06:43 | 
-| | HH:MM:SS | TOTAL DURATION: 01:06:38 | DĹŽKA TRVANIA SPOLU: 01:06:38 | 
-| 3.1.5.13 Base | D.7.7 Item Base - Film or Video | Polyester | Polyester | 
-| 3.1.5.14 Stock | D.7.16 Item Stock | Eastman Kodak | Eastman Kodak |
-| 3.1.6 Access conditions | | No restrictions (film print can be requested for access). | Bez obmedzení (filmová kópia je dostupná na požiadanie). |
-| 3.1.6.1 Item condition D.16 Manifestation/Item Condition, Preservation and Restoration | D.16.1 Item Copy Condition Base/Emulsion – Film and Video | Good condition | Dobrý stav |
-| | D.16.2 Item Copy Condition Perforations – Film| Good condition | Dobrý stav |
-| | D.16.3 Item Surface Deposit – Film and Video| Good condition | Dobrý stav |
-| | D.16.4 Item Image – Film and Video| Good condition | Dobrý stav |
-| | D.16.5 Item Decomposition – Film and Video| Good condition | Dobrý stav |
-| 3.1.6.2 Item location | | FA-019-12-1-1 | FA-019-12-1-1 |
-| 3.3 Relationships of an Item | | | |
-| 3.3.1 Agent(s) | | Slovak Film Institute | Slovenský filmový ústav |
-| 3.3.1.1 Agent Activity | | Inspected by | Kontroloval |
-| 3.3.2 Events 3.3.2 Events | | | |
-| 3.3.2 Events - D.4.8 Inspection | | | |
-| Inspection type | | technical inspection | technická kontrola |
-| Inspection date | | 2015-05-29 | 2015-05-29 |
-| Inspection detail | |see 3.1.6.1 Item condition | pozri 3.1.6.1 Item condition |
-| Agent | | see 3.3.1 Agent(s) | pozri 3.3.1 Agent(s) |
-| 3.3.2 Events - D.4.9 Acquisition | | | |
-| Acquisition type | D.15.1 Item Acquisition type | from laboratory | z laboratórií |
-| Acquisition date | | 2006-12-01 | 2006-12-01 |
-| Accession date | | 2006-12-12 | 2006-12-12 |
-| Acquisition detail | | Project of the Systematic Restoration of the Audiovisual Heritage of the Slovak Republic. | Projekt systematickej obnovy audiovizuálneho dedičstva Slovenskej republiky. |
-| 3 3.3.3 Other Relationships | D.17.3 Item Other Relationship Types | “Has a relationship to an archival document” | Má vzťah k archívnemu dokumentu |
-| | | Záznam o stave archívneho filmového materiálu [projection instructions] | Záznam o stave archívneho filmového materiálu |
 
-\subsection[Example 3. Silent feature film in 3-level Hierarchy Model with multiple Manifestations and items]{Example 3. Silent feature film in 3-level Hierarchy Model with multiple Manifestations and items 
-    \label{sec:example_three}
-    } 
+
+
+\setlength\extrarowheight{2pt}
+\begin{xltabular}{\textwidth}{|L|L|L|L|L|}
+\hline
+\textbf{WORK} &
+&
+&
+&
+\\
+\hline
+1.2 Attributes of a Moving Image Work/Variant & & & \\
+\hline
+1.2.1 Work/Variant Description Type & D.1 Work/Variant Description Types & monographic & monografická \\
+\hline
+1.3 Elements of a Work/Variant & & & \\
+\hline
+1.3.1 Work/Variant Identifier & & urn:nbn:sk:sfu-ko1ugsb & urn:nbn:sk:sfu-ko1ugsb \\
+\hline
+1.3.1.1 Identifier Type & & URN:NBN & URN:NBN \\
+\hline
+1.3.1 Work/Variant Identifier & & SFD000163 & SFD000163 \\
+\hline
+1.3.1.1 Identifier Type & & SFÚ identifier [local] & identifikátor SFÚ [lokálny] \\
+\hline
+1.3.2 Title & & Obrazy starého sveta & Obrazy starého sveta \\
+\hline
+1.3.2.1 Title Type & A.2 Title Types & A.2.0 Preferred [original: slo] & preferovaný [originálny: slo] \\
+\hline
+1.3.2 Title & & Pictures of the old world & Pictures of the old world \\
+\hline
+1.3.2.1 Title Type & A.2 Title Types & A.2.4 Alternative [translated title: eng] & alternatívny [preklad názvu: eng] \\
+\hline
+1.3.2 Title & & Images du vieux monde & Images du vieux monde \\
+\hline
+1.3.2.1 Title Type & A.2 Title Types & A.2.4 Alternative [translated title: fre] & alternatívny [preklad názvu: fre] \\
+\hline
+1.3.2 Title & & Bilder einer alten Welt & Bilder einer alten Welt \\
+\hline
+1.3.2.1 Title Type & A.2 Title Types & A.2.4 Alternative [translated title: ger] & alternatívny [preklad názvu: ger] \\
+\hline
+1.3.2 Title & & Картины старого мира & Картины старого мира \\
+\hline
+1.3.2.1 Title Type & A.2 Title Types & A.2.4 Alternative [translated title: rus] & alternatívny [preklad názvu: rus] \\
+\hline
+1.3.2 Title & & Kartiny starogo mira & Kartiny starogo mira \\
+\hline
+1.3.2.1 Title Type & A.2 Title Types & A.2.4 Alternative [translated title:rus & transliterated title] & alternatívny [preklad názvu: rus a transliterácia názvu] \\
+\hline
+1.3.3 Country of reference & & Slovakia [Czechoslovakia] & Slovensko [Československo] \\
+\hline
+1.3.4 Year/Date of reference & & 1972 & 1972 \\
+\hline
+1.3.4.1 Date Type & & year of production & rok výroby \\
+\hline
+1.3.5 Language(s) & & Slovak & slovenčina \\
+\hline
+1.3.5.1 Language Term & & slo & slo \\
+\hline
+1.3.5.2 Usage type & D.6 Language Usage Types & Original Language & pôvodný jazyk \\
+\hline
+1.3.5.2 Usage type & D.6 Language Usage Types & spoken language & hovorený jazyk \\
+\hline
+1.3.5.2 Usage type & D.6 Language Usage Types & sung language & spievaný jazyk \\
+\hline
+1.3.6 Content description (synopses, shotlists, etc) & & Suggestive portraits of old people from the Liptov and Orava regions who are able to enjoy their individual freedom even in the times of civilisational chaos and insecurity. & Sugestívne portréty starých ľudí z Liptova a Oravy, ktorí dokážu aj v stave civilizačného chaosu a neistoty žiť vnútorne slobodní. \\
+\hline
+1.3.6.1 Content Description Type & & synopsis & anotácia \\
+\hline
+1.3.7 Notes & Appendix B, Cataloguer’s Notes & Text before the opening credits: These are stories of people rooted in the soil they came from. They cannot be replanted, they would perish. & Pred úvodnými titulkami text: Toto sú príbehy, ľudí, ktorí ostali sami sebou. Zabudnutí a prostí, vrastení do zeme, z ktorej vyšli. Nemožno ich presadiť pretože by zahynuli. \\
+\hline
+1.3.8.2 Censorship history & & banned film (cinema release: July 1989) & zakázaný film (kinodistribúcia: júl 1989) \\
+\hline
+1.4 Relationships of a Work/Variant (links/associations with other entities/records) & & & \\
+\hline
+Credits & & & \\
+\hline
+1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) & & Československý film Bratislava & Československý film Bratislava \\
+\hline
+1.4.1.1 Agent Activity & & Production Company & Produkčná spoločnosť \\
+\hline
+1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) & & Dušan Hanák & Dušan Hanák \\
+\hline
+1.4.1.1 Agent Activity & & Director & Réžia \\
+\hline
+1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) & & Dušan Hanák Dušan Hanák \\
+\hline
+1.4.1.1 Agent Activity & & Story and screenplay & Námet a scenár \\
+\hline
+1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) & & Alojz Hanúsek & Alojz Hanúsek \\
+\hline
+1.4.1.1 Agent Activity & & Cinematographer & Kamera \\
+\hline
+1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) & & Alfréd Benčič & Alfréd Benčič \\
+\hline
+1.4.1.1 Agent Activity & & Editor & Strih \\
+\hline
+1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) & & Ondrej Polomský& Ondrej Polomský \\
+\hline
+1.4.1.1 Agent Activity & & Sound & Zvuk \\
+\hline
+1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) & & Martin Martinček & Martin Martinček \\
+\hline
+1.4.1.1 Agent Activity & & Photographs by & Fotografie \\
+\hline
+1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) & & Vladimír Vavrek & Vladimír Vavrek \\
+\hline
+1.4.1.1 Agent Activity & & Photographs by & Fotografie \\
+\hline
+1.4.1 Agents & & George Frideric Handel & George Frideric Handel \\
+\hline
+1.4.1.1 Agent Activity & & Music & Hudba \\
+\hline
+1.4.1 Agents & & Václav Hálek & Václav Hálek \\
+\hline
+1.4.1.1 Agent Activity & & Music & Hudba \\
+\hline
+1.4.1 Agents & & Jozef Malovec & Jozef Malovec \\
+\hline
+1.4.1.1 Agent Activity & & Music & Hudba \\
+\hline
+1.4.1 Agents & & František Belfín & František Belfín \\
+\hline
+1.4.1.1 Agent Activity & & Conductor & Dirigent \\
+\hline
+1.4.1 Agents & & Filmový symfonický orchestr, Praha & Filmový symfonický orchestr, Praha \\
+\hline
+1.4.1.1 Agent Activity & & Music Performed by & Hudbu nahral \\
+\hline
+1.4.1 Agents & & Boris Hochel & Boris Hochel \\
+\hline
+1.4.1.1 Agent Activity & & Script Editor & Dramaturg \\
+\hline
+1.4.1 Agents & & Juraj Král & Juraj Král \\
+\hline
+1.4.1.1 Agent Activity & & Production Manager & Vedúci výroby \\
+\hline
+1.4.1 Agents & & Stanislav Učník & Stanislav Učník \\
+\hline
+1.4.1.1 Agent Activity & & Production Supervisor & Vedúci nakrúcania \\
+\hline
+1.4.1 Agents & & Oľga Hrajnohová & Oľga Hrajnohová \\
+\hline
+1.4.1.1 Agent Activity & & Script-girl & Skript \\
+\hline
+1.4.1 Agents & & Štefan Kondrót & Štefan Kondrót \\
+\hline
+1.4.1.1 Agent Activity & & Cooperation & Spolupráca \\
+\hline
+1.4.1 Agents & & Martin Gazík & Martin Gazík \\
+\hline
+1.4.1.1 Agent Activity & & Cooperation & Spolupráca \\
+\hline
+1.4.1 Agents & & Ján Albrecht & Ján Albrecht \\
+\hline
+1.4.1.1 Agent Activity & & Cooperation & Spolupráca \\
+\hline
+1.4.1 Agents & & Jan Švankmajer & Jan Švankmajer \\
+\hline
+1.4.1.1 Agent Activity & & Cooperation & Spolupráca \\
+\hline
+1.4.1 Agents & & Jozef Košťál & Jozef Košťál \\
+\hline
+1.4.1.1 Agent Activity & & Cooperation & Spolupráca \\
+\hline
+1.4.1 Agents & & Jaroslav Rihák & Jaroslav Rihák \\
+\hline
+1.4.1.1 Agent Activity & & Cooperation & Spolupráca \\
+\hline
+1.4.1 Agents & & Milan Hurtig & Milan Hurtig \\
+\hline
+1.4.1.1 Agent Activity & & Cooperation & Spolupráca \\
+\hline
+1.4.1 Agents & & Jozef Kováčik & Jozef Kováčik \\
+\hline
+1.4.1.1 Agent Activity & & Cooperation & Spolupráca \\
+\hline
+1.4.1 Agents & & Ján Gašparec & Ján Gašparec \\
+\hline
+1.4.1.1 Agent Activity & & Cooperation & Spolupráca \\
+\hline
+Cast/ Featuring & & From the lives of those mentioned below: & Zo života: \\
+\hline
+1.4.1 Agents & & Veronika Ralíková & Veronika Ralíková \\
+\hline
+1.4.1.1 Agent Activity & & Herself & \\
+\hline
+1.4.1 Agents & & Adam Kura & Adam Kura \\
+\hline
+1.4.1.1 Agent Activity & & Himself & \\
+\hline
+1.4.1 Agents & & Jozef Országh & Jozef Országh \\
+\hline
+1.4.1.1 Agent Activity & & Himself & \\
+\hline
+1.4.1 Agents & & Juraj Michelík & Juraj Michelík \\
+\hline
+1.4.1.1 Agent Activity & & Himself & \\
+\hline
+1.4.1 Agents & & Anton Miček & Anton Miček \\
+\hline
+1.4.1.1 Agent Activity & & Himself & \\
+\hline
+1.4.1 Agents & & Františka Ševčíková & Františka Ševčíková \\
+\hline
+1.4.1.1 Agent Activity & & Herself & \\
+\hline
+1.4.1 Agents & & Adam Struhárňanský & Adam Struhárňanský \\
+\hline
+1.4.1.1 Agent Activity & & Himself & \\
+\hline
+1.4.1 Agents & & Jozef Račko & Jozef Račko \\
+\hline
+1.4.1.1 Agent Activity & & Himself & \\
+\hline
+1.4.1 Agents & & Alojz Kováč & Alojz Kováč \\
+\hline
+1.4.1.1 Agent Activity & & Himself & \\
+\hline
+1.4.1 Agents & & Matej Dudka & Matej Dudka \\
+\hline
+1.4.1.1 Agent Activity & & Himself & \\
+\hline
+1.4.1 Agents & & Ladislav Chudík & Ladislav Chudík  \\
+\hline
+1.4.1.1 Agent Activity & &commentary spoken by & interpret komentára \\
+\hline
+1.4.2 Events (e.g., IPR registration, screenings, awards, etc.) D.4.3 Production & & & \\
+\hline
+- Production Event type & D.11 Production Event Types & beginning of shooting & prvý filmovací deň \\
+\hline
+- Year/Date & & 1971-09-13 & 1971-09-13 \\
+\hline
+- Production Event type & D.11 Production Event Types & completion of shooting & posledný filmovací deň \\
+\hline
+- Year/Date & & 1972-01-09 & 1972-01-09 \\
+\hline
+1.4.2 Events (e.g., IPR registration, screenings, awards, etc.)– D.4.2 Award(s) or Nomination(s) & & & \\
+\hline
+- Award(s)/Nomination(s) date & & 1988 & 1988 \\
+\hline
+- Award name & & Golden Sestertius, Grand Prix (Sesterce d’Or, Grand Prix) & Zlatý sestercius, Grand Prix (Sesterce d’Or, Grand Prix) \\
+\hline
+- Event & & 20th International Festival of Documentary Films Nyon 1988 & 20. medzinárodný festival dokumentárnych filmov Nyon 1988 \\
+\hline
+- Award(s)/Nomination(s) date & & 1989 & 1989 \\
+\hline
+- Award name & & European Film Award / European Documentary - Special Mention & Európska filmová cena / Európske dokumenty - Osobitné uznanie \\
+\hline
+- Event & & 2nd European Film Awards 1989 (Paris) & 2. ročník Európskych filmových cien 1989 (Paríž) \\
+\hline
+- Award(s)/Nomination(s) date & & 1990 & 1990 \\
+\hline
+- Award name & & Los Angeles Film Critics Association Award / Best Non-Fiction Film & Cena asociácie losangeleských filmových kritikov / Najlepší non-fiction film \\
+\hline
+- Event & & 16th Los Angeles Film Critics Association Awards 1990 & 16. ročník Cien asociácie losangeleských filmových kritikov 1990 \\
+\hline
+1.4.3 Subject/Genre/Form terms & genre documentary films AND dokumentárne filmy &
+ form full-length films & dlhometrážné filmy \\
+\hline
+1.4.4 Other relationships & D.17.1 Work/Variant Other Relationship Types & “Has a relationship to an “object” (a non-moving image resource)” & Má vzťah k objektu \\
+\hline
+& & Obrazy starého sveta / Dušan Hanák. – The screenplay of the film: Pictures of the old world (1972). In: 322 ; Obrazy starého sveta ; Růžové sny / Dušan Hanák. – Praha : Lika klub, 2005. – ISBN 8086069-37-0. – p. 78-127. & Obrazy starého sveta / Dušan Hanák. – Scenár filmu: Obrazy starého sveta (1972). In: 322 ; Obrazy starého sveta ; Růžové sny / Dušan Hanák. – Praha : Lika klub, 2005. – ISBN 8086069-37-0. – s. 78-127. \\
+\hline
+1.4.4 Other relationships & D.17.1 Work/Variant Other Relationship Types & “Has a relationship to a Work “about” the Work/Variant in question” & Má vzťah k dielu o diele \\
+\hline
+& & Kinožurnál [film]. 51/1988 (1988) & Kinožurnál [film]. 51/1988 (1988) \\
+\hline
+1.4.5 Variants & & “Has a relationship to a Variant” & \\
+\hline
+& & 199999163 & 199999163 \\
+\hline
+VARIANT & & & \\
+\hline
+1.2 Attributes of a Moving Image Work/Variant & & & \\
+\hline
+1.2.2 Variant Type & D.2 Variant Type & subtitled & s podtitulkami \\
+\hline
+1.3 Elements of a Work/Variant & & & \\
+\hline
+1.3.1 Work/Variant Identifier & & 199999163 & 199999163 \\
+\hline
+1.3.1.1 Identifier Type & & SFÚ identifier [local] & identifikátor SFÚ [lokálny] \\
+\hline
+1.3.2 Title & & Pictures of the old world & Pictures of the old world \\
+\hline
+1.3.2.1 Title Type & A.2 Title Types & A.2.4 Alternative [parallel title: eng] & alternatívny [súbežný názov: eng] \\
+\hline
+1.3.5 Language(s) & & English & angličtina \\
+\hline
+1.3.5.1 Language & & eng & eng \\
+\hline
+1.3.5.2 Usage type & D.6 Language Usage Types & subtitles & podtitulky \\
+\hline
+1.4.6 Manifestations & & “Has a relationship to a Manifestation” & \\
+\hline
+& & 299999163 & 299999163 \\
+\hline
+MANIFESTATION & & & \\
+\hline
+2.2 Attributes of a Manifestation & & & \\
+\hline
+2.2.1 Manifestation Type & D.5 Manifestation Types & D.5.9 Preservation/Restoration & \\
+\hline
+2.3 Elements of a Manifestation & & & \\
+\hline
+2.3.1 Identifier & & 299999163 & 299999163 \\
+\hline
+2.3.1.1 Identifier Type & & SFÚ identifier [local] & identifikátor SFÚ [lokálny] \\
+\hline
+2.3.2 Title & & Pictures of the old world & Pictures of the old world \\
+\hline
+2.3.2.1 Title Type & A.2 Title Types & A.2.4 Alternative [parallel: eng] & A.2.4 Alternative [parallel: eng] \\
+\hline
+2.3.4 Format of a moving image Manifestation & & & \\
+\hline
+2.3.4.1 Carrier type of a Manifestation & & & \\
+\hline
+2.3.4.1.1 General Carrier Type & D.7.1 Manifestation/Item General Carrier Type & Film & film \\
+\hline
+2.3.4.1.2 Specific Carrier Type & D.7.2 Manifestation/Item Specific Carrier Type & 35 mm & 35 mm \\
+\hline
+2.3.4.2 Projection characteristics of a Manifestation & & & \\
+\hline
+Aspect Ratio & & 1:1,37 & 1:1,37 \\
+\hline
+Aperture/Image Format & & Academy & Academy \\
+\hline
+2.3.4.3 Sound characteristics of a Manifestation & D.7.4 Manifestation/Item Sound Type & sound & zvukový \\
+\hline
+2.3.4.3.1 Sound systems & D.7.13 Item Sound System & combined optical sound & kombinovaný optický zvuk \\
+\hline
+2.3.4.3.2 Sound Channel Configuration & D.7.5 Manifestation/Item Sound Fixation Type & optical mono & optický (mono) \\
+\hline
+2.3.4.4 Colour characteristics of a Manifestation & D.7.11 Manifestation/Item Colour Type & black and white & čiernobiely \\
+\hline
+2.3.5 Extent of a Manifestation & & & \\
+\hline
+2.3.5.1 Logical extent of a Manifestation & & 4 reels & 4 kotúče \\
+\hline
+2.3.5.2 Physical extent of a Manifestation & metres & 1827,8 m & 1827,8 m \\
+\hline
+2.3.5.3 Duration of a Manifestation & HH:MM:SS & 01:06:38 & 01:06:38 \\
+\hline
+2.4 Relationships of a Manifestation & & & \\
+\hline
+2.4.1 Agent(s) & & Slovak Film Institute & Slovenský filmový ústav \\
+\hline
+2.4.1.1 Agent Activity & D.8 Manifestation Agent Types & D.8.6 Agent responsible for preservation & D.8.6 zodpovednosť za uchovávanie \\
+\hline
+2.4.1 Agent(s) & & Film Laboratory Ateliery Bonton Zlin a.s. & Filmové laboratoře Ateliéry Bonton Zlín a.s. \\
+\hline
+2.4.1.1 Agent Activity & D.8 Manifestation Agent Types & D.8.5 Manufacturer & D.8.5 Manufacturer \\
+\hline
+2.4.2 Events - D.4.5 Preservation & & & \\
+\hline
+Preservation type & D.12 Manifestation Preservation Types & Film restoration & Filmová obnova \\
+\hline
+Preservation Date & & 2006 & 2006 \\
+\hline
+Note & & added English subtitles & doplnené o anglické podtitulky \\
+\hline
+2.4.4 Item(s) & & “Has a relationship to an Item” & \\
+\hline
+& & 099967 & 099967 \\
+\hline
+ITEM & & & \\
+\hline
+3.1 Elements of a moving image Item & & & \\
+\hline
+3.1.1 Identifier & & 099967 & 099967 \\
+\hline
+3.1.1.1 Identifier Type & & SFÚ identifier [local] & identifikátor SFÚ [lokálny] \\
+\hline
+3.1.1 Identifier & & 140-ZO-A3 & 140-ZO-A3 \\
+\hline
+3.1.1.1 Identifier Type & & archive number & archívne číslo \\
+\hline
+3.1.2 Title & & Obrazy starého sveta & Obrazy starého sveta \\
+\hline
+3.1.2.1 Title Type & & title on can & názov na obale \\
+\hline
+3.1.3 Holding institution & & Slovak Film Institute & Slovenský filmový ústav \\
+\hline
+& & SK-BrSFU [MARC Code] & SK-BrSFU [MARC] \\
+\hline
+3.1.4 Item Element type & D.7.8 Item Element Type & Positive & Pozitív \\
+\hline
+3.1.5 Item Specifics/Extent (e.g. physical/Digital description) & & & \\
+\hline
+3.1.5.2 Item Status & D.7.3 Item Preservation/Access status & Viewing & Na premietanie \\
+\hline
+3.1.5.8 Extent & Metres & reel 1: 552,8 m & 1. kotúč: 552,8 m \\
+\hline
+& Metres & reel 2: 570,4 m & 2. kotúč: 570,4 m \\
+\hline
+& Metres & reel 3: 520,4 m & 3. kotúč: 520,4 m \\
+\hline
+& Metres & reel 4: 184,2 m & 4. kotúč: 184,2 m \\
+\hline
+& metres & TOTAL LENGTH: 1827,8 m DĹŽKA SPOLU: 1827,8 m \\
+\hline
+3.1.5.11 Duration & HH:MM:SS & reel 1: 00:20:09 & 1. kotúč: 00:20:09 \\
+\hline
+& HH:MM:SS & reel 2: 00:20:48 & 2. kotúč: 00:20:48 \\
+\hline
+& HH:MM:SS & reel 3: 00:18:58 & 3. kotúč: 00:18:58 \\
+\hline
+& HH:MM:SS & reel 4: 00:06:43 & 4. kotúč: 00:06:43 \\
+\hline
+& HH:MM:SS & TOTAL DURATION: 01:06:38 & DĹŽKA TRVANIA SPOLU: 01:06:38 \\
+\hline
+3.1.5.13 Base & D.7.7 Item Base - Film or Video & Polyester & Polyester \\ 
+\hline
+3.1.5.14 Stock & D.7.16 Item Stock & Eastman Kodak & Eastman Kodak \\
+\hline
+3.1.6 Access conditions & & No restrictions (film print can be requested for access). & Bez obmedzení (filmová kópia je dostupná na požiadanie). \\
+\hline
+3.1.6.1 Item condition D.16 Manifestation/Item Condition, Preservation and Restoration & D.16.1 Item Copy Condition Base/Emulsion – Film and Video & Good condition & Dobrý stav \\
+\hline
+& D.16.2 Item Copy Condition Perforations – Film& Good condition & Dobrý stav \\
+\hline
+& D.16.3 Item Surface Deposit – Film and Video& Good condition & Dobrý stav \\
+\hline
+& D.16.4 Item Image – Film and Video& Good condition & Dobrý stav \\
+\hline
+& D.16.5 Item Decomposition – Film and Video& Good condition & Dobrý stav \\
+\hline
+3.1.6.2 Item location & & FA-019-12-1-1 & FA-019-12-1-1 \\
+\hline
+3.3 Relationships of an Item & & & \\
+\hline
+3.3.1 Agent(s) & & Slovak Film Institute & Slovenský filmový ústav \\
+\hline
+3.3.1.1 Agent Activity & & Inspected by & Kontroloval \\
+\hline
+3.3.2 Events 3.3.2 Events & & & \\
+\hline
+3.3.2 Events - D.4.8 Inspection & & & \\
+\hline
+Inspection type & & technical inspection & technická kontrola \\
+\hline
+Inspection date & & 2015-05-29 & 2015-05-29 \\
+\hline
+Inspection detail & & see 3.1.6.1 Item condition & pozri 3.1.6.1 Item condition \\
+\hline
+Agent & & see 3.3.1 Agent(s) & pozri 3.3.1 Agent(s) \\
+\hline
+3.3.2 Events - D.4.9 Acquisition & & & \\
+\hline
+Acquisition type & D.15.1 Item Acquisition type & from laboratory & z laboratórií \\
+\hline
+Acquisition date & & 2006-12-01 & 2006-12-01 \\
+\hline
+Accession date & & 2006-12-12 & 2006-12-12 \\
+\hline
+Acquisition detail & & Project of the Systematic Restoration of the Audiovisual Heritage of the Slovak Republic. & Projekt systematickej obnovy audiovizuálneho dedičstva Slovenskej republiky. \\
+\hline
+3 3.3.3 Other Relationships & D.17.3 Item Other Relationship Types & “Has a relationship to an archival document” & Má vzťah k archívnemu dokumentu \\
+\hline
+& & Záznam o stave archívneho filmového materiálu [projection instructions] & Záznam o stave archívneho filmového materiálu \\
+\hline
+\end{xltabular}
+
+\subsection{Example 3. Silent feature film in 3-level Hierarchy Model with multiple Manifestations and items} 
+\label{sec:example_three}
 
 **WORK RECORD**
 
@@ -810,9 +1417,8 @@ Parallel to Manifestation 2: http://oskicat.berkeley.edu/record=b10391010~S43
 
 Parallel to Manifestation 3: http://oskicat.berkeley.edu/record=b10390992~S43
 
-\subsection[Example 4. Short feature film in 3-level Hierarchy Model]{Example 4. Short feature film in 3-level Hierarchy Model
-    \label{sec:example_four}
-    } 
+\subsection{Example 4. Short feature film in 3-level Hierarchy Model} 
+\label{sec:example_four}
 
 In examples 4-6 the field names are given in red.
 These do not relate to the initial illustrative colour codes used in examples 1 and 2 in any way, but are simply a means of distinguishing the field name from the rest of the data.
@@ -947,9 +1553,8 @@ These do not relate to the initial illustrative colour codes used in examples 1 
 | Part of reference | Part of Title |
 | M7272 | Day of the subgenius |
 
-\subsection[Example 5. Home Movie in 3-level Hierarchy Model]{Example 5. Home Movie in 3-level Hierarchy Model
-    \label{sec:example_five}
-    } 
+\subsection{Example 5. Home Movie in 3-level Hierarchy Model} 
+\label{sec:example_five}
 
 | | |
 | --- | --- |
@@ -1055,9 +1660,8 @@ These do not relate to the initial illustrative colour codes used in examples 1 
 | Part of reference | Part of Title |
 | M-438218 | Shots of 1932 |
 
-\subsection[Example 6. Television Serial and Episode records in 3-level Hierarchy Model (with Monographic Work in “part of” relationship with Serial Work)]{Example 6. Television Serial and Episode records in 3-level Hierarchy Model (with Monographic Work in “part of” relationship with Serial Work)
-    \label{sec:example_six}
-    } 
+\subsection{Example 6. Television Serial and Episode records in 3-level Hierarchy Model (with Monographic Work in “part of” relationship with Serial Work)}
+\label{sec:example_six} 
 
 | | |
 | --- | --- |
@@ -1230,9 +1834,8 @@ These do not relate to the initial illustrative colour codes used in examples 1 
 | Part of reference | Part of Title |
 | X-58734 | Can World War III Be an Attitude? |
 
-\subsection[Example 7. Aggregate DVD Television Serial and Episode records in 1-level Hierarchy Models]{Example 7. Aggregate DVD Television Serial and Episode records in 1-level Hierarchy Models
-    \label{sec:example_seven}
-    } 
+\subsection{Example 7. Aggregate DVD Television Serial and Episode records in 1-level Hierarchy Models}
+\label{sec:example_seven} 
 
 Supernatural. The Complete Sixth Season
 Supernatural. Season 6
@@ -1313,4 +1916,3 @@ Sam, Dean, and Bobby investigate a possible breakthrough to the secret of openin
 Home Viewing publication. DVD. Region 2. Dual Layer Format. Viewing copy. Disc 6. 42 minutes 16 seconds. 16:9 HD. Colour. Dolby Digital. Language: English. Optional languages: Castilian, Spanish, French, Hearing Impaired English. Optional subtitle languages: Castilian, Spanish, Danish, Dutch, Finnish, French, Norwegian, Portuguese, Swedish
 
 Contained in: Supernatural. The Complete Sixth Season (Record Number: 12345).
-
