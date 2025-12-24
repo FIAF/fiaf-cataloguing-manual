@@ -1649,376 +1649,699 @@ M7272 & Day of the subgenius \\
 \end{xltabular}
 
 
-| | | 
-| --- | --- |
-| Identification number | M7272 |
-| Title | Title type |
-| Day of the subgenius | Original |
-| Level | Manifestation |
-| Manifestation type | Theatrical (main country of origin) |
-| General Format | Specific Format |
-| Video – Analogue | Betacam SP |
-| Widescreen Process | Wide screen (un-specified) |
-| Aspect ratio | 16:9 |
-| Colour | Colour |
-| Sound | Sound |
-| Language | Language usage type |
-| English | Spoken |
-| Release Country | Date |
-| United Kingdom | 2001 |
-| Running time | 6 minutes 36 seconds |
-| Part of reference | Part of title |
-| F7271 | Day of the subgenius |
-| Parts reference | Parts title |
-| I7274 | Day of the subgenius |
-| I8003 | Day of the subgenius |
 
-| | | 
-| --- | --- |
-| Identification number | I7274
-| Title | Title type
-| Day of the subgenius | Original
-| Level | Item
-| Item type | Video
-| Status | Usage
-| Master | Restricted access to preserved videotape
-| Language | Language usage type
-| English | Spoken
-| Colour | Colour
-| Aspect ratio | 16:9
-| Item catalogue date | 2001
-| Base | Video
-| Stock | Maxell
-| Colour standard | Line standard
-| PAL | 625
-| Video format | Betacam SP
-| Video duration | 06:59
-| Copy number | Package number
-| B-188816 | 0011A2B
-| Number of cans/cassettes | 1 |
-| Current location | BK3AD123455 |
-| date | 2013-12-11 | 
-| Home location | PSR54321 |
-| Start date | 2013-12-11 |
-| Removal date | 2013-12-11 |
-| Acquisition date | 2011 |
-| Donor | FIAF |
-| Part of reference | M7272 |
-| Part of Title | Day of the subgenius |
+\setlength\extrarowheight{2pt}
+\begin{xltabular}{\textwidth}{|L|L|}
+\hline
+Identification number & M7272 \\
+\hline
+Title & Title type \\
+\hline
+Day of the subgenius & Original \\
+\hline
+Level & Manifestation \\
+\hline
+Manifestation type & Theatrical (main country of origin) \\
+\hline
+General Format & Specific Format \\
+\hline
+Video – Analogue & Betacam SP \\
+\hline
+Widescreen Process & Wide screen (un-specified) \\
+\hline
+Aspect ratio & 16:9 \\
+\hline
+Colour & Colour \\
+\hline
+Sound & Sound \\
+\hline
+Language & Language usage type \\
+\hline
+English & Spoken \\
+\hline
+Release Country & Date \\
+\hline
+United Kingdom & 2001 \\
+\hline
+Running time & 6 minutes 36 seconds \\
+\hline
+Part of reference & Part of title \\
+\hline
+F7271 & Day of the subgenius \\
+\hline
+Parts reference & Parts title \\
+\hline
+I7274 & Day of the subgenius \\
+\hline
+I8003 & Day of the subgenius \\
+\hline
+\end{xltabular}
 
 
-| | | 
-| --- | --- |
-| Identification number | I8003 |
-| Title | Title type |
-| Day of the subgenius | Original |
-| Level | Item |
-| Item type | Video |
-| Status | Usage |
-| Master | Restricted access to preserved videotape |
-| Language | Language usage type |
-| English | Spoken |
-| Colour | Colour |
-| Aspect ratio | 16:9 (full height anamorphic) |
-| Item catlogue date | 2001 |
-| Base | Video |
-| Stock | Maxell |
-| Colour standard | Line standard |
-| PAL | 625 |
-| Video format | Digital Betacam |
-| Video duration | 06:28 |
-| Copy number | Package number |
-| B-291366 | 0000LZI |
-| Number of cans/cassettes | 1 |
-| Current location | BK2AB123456 |
-| date | 2015-02-27 | 
-| Home location| PS123456 |
-| Start date | 2015-02-26 |
-| Removal date | 2015-02-27 | 
-| Donor | FIAF |
-| Part of reference | Part of Title |
-| M7272 | Day of the subgenius |
+\setlength\extrarowheight{2pt}
+\begin{xltabular}{\textwidth}{|L|L|}
+\hline
+Identification number & I7274 \\
+\hline
+Title & Title type \\
+\hline
+Day of the subgenius & Original \\
+\hline
+Level & Item \\
+\hline
+Item type & Video \\
+\hline
+Status & Usage \\
+\hline
+Master & Restricted access to preserved videotape \\
+\hline
+Language & Language usage type \\
+\hline
+English & Spoken \\
+\hline
+Colour & Colour \\
+\hline
+Aspect ratio & 16:9 \\
+\hline
+Item catalogue date & 2001 \\
+\hline
+Base & Video \\
+\hline
+Stock & Maxell \\
+\hline
+Colour standard & Line standard \\
+\hline
+PAL & 625 \\
+\hline
+Video format & Betacam SP \\
+\hline
+Video duration & 06:59 \\
+\hline
+Copy number & Package number \\
+\hline
+B-188816 & 0011A2B \\
+\hline
+Number of cans/cassettes & 1 \\
+\hline
+Current location & BK3AD123455 \\
+\hline
+date & 2013-12-11 \\
+\hline
+Home location & PSR54321 \\
+\hline
+Start date & 2013-12-11 \\
+\hline
+Removal date & 2013-12-11 \\
+\hline
+Acquisition date & 2011 \\
+\hline
+Donor & FIAF \\
+\hline
+Part of reference & M7272 \\
+\hline
+Part of Title & Day of the subgenius \\
+\hline
+\end{xltabular}
+
+\setlength\extrarowheight{2pt}
+\begin{xltabular}{\textwidth}{|L|L|}
+\hline
+Identification number & I8003 \\
+\hline
+Title & Title type \\
+\hline
+Day of the subgenius & Original \\
+\hline
+Level & Item \\
+\hline
+Item type & Video \\
+\hline
+Status & Usage \\
+\hline
+Master & Restricted access to preserved videotape \\
+\hline
+Language & Language usage type \\
+\hline
+English & Spoken \\
+\hline
+Colour & Colour \\
+\hline
+Aspect ratio & 16:9 (full height anamorphic) \\
+\hline
+Item catalogue date & 2001 \\
+\hline
+Base & Video \\
+\hline
+Stock & Maxell \\
+\hline
+Colour standard & Line standard \\
+\hline
+PAL & 625 \\
+\hline
+Video format & Digital Betacam \\
+\hline
+Video duration & 06:28 \\
+\hline
+Copy number & Package number \\
+\hline
+B-291366 & 0000LZI \\
+\hline
+Number of cans/cassettes & 1 \\
+\hline
+Current location & BK2AB123456 \\
+\hline
+date & 2015-02-27 \\
+\hline
+Home location & PS123456 \\
+\hline
+Start date & 2015-02-26 \\
+\hline
+Removal date & 2015-02-27 \\ 
+\hline
+Donor & FIAF \\
+\hline
+Part of reference & Part of Title \\
+\hline
+M7272 & Day of the subgenius \\
+\hline
+\end{xltabular}
+
+
 
 \subsection{Example 5. Home Movie in 3-level Hierarchy Model} 
 \label{sec:example_five}
 
-| | |
-| --- | --- |
-| Identification number | 664643 |
-| Title | Title type |
-| Shots of 1932 | Acquisition |
-| Brown Family Film | Devised |
-| Level | Work |
-| Category | Non Fiction |
-| Country | United Kingdom |
-| Date | 1932 |
-| start Precision | circa |
-| Date type | Production |
-| Production status | Completed |
-| Genre | Amateur film |
-| Subject | Family life, Christenings, Seaside holidays |
-| Description type | Description |
-| Synopsis | Important events in the life of the Brown family, taking place in 1932. |
-| Shotlist | RL 1: Valerie Vivienne, the daughter of Edwin and Joyce, is born. Various shots of the baby being held by Edwin and Joyce; baby’s christening. Some shots of the Hendon Air Pageant. Family holiday, scenes at Little Holland (near Clacton on Sea). Back home; Jack and Tops’ wedding. Return to Little Holland. RL 2: Joyce and another woman are pushing prams up a hill near the beach. Edwin poses for the camera. Shots of “Red Gable”, which is possibly their holiday home, outside and inside. The women hold the babies up to the camera. The men go horse riding. Shots at the beach. Outing to Tunbridge Wells, having a stroll. More shots of the baby. |
-| Credit | Name |
-| Camera Operator | Brown, Edwin G., |
-| Parts reference | Parts title |
-| M-438218 | Shots of 1932 |
-
-| | |
-| --- | --- |
-| Identification number | M-438218 |
-| Title | Title type |
-| Shots of 1932 | Acquisition |
-| Level | Manifestation |
-| Manifestation type | Not for release |
-| General Format | Specific Format |
-| Film | 9.5mm Film |
-| Colour | Black and White |
-| Sound | Silent |
-| Release Country | United Kingdom |
-| Date | 1932 |
-| Precision | circa |
-| Dimension | Length |
-| Value | 400 |
-| Unite | Feet |
-| Part of reference | title |
-| 664643 | Shots of 1932 |
-| Parts reference | Parts title |
-| C-1264202 | Shots of 1932 |
-
-
-| | |
-| --- | --- |
-| Identification number | C-1264202 |
-| Title | Title type
-| Shots of 1932 | Acquisition
-| Brown Family Film. Shots of 1932 | Devised
+\setlength\extrarowheight{2pt}
+\begin{xltabular}{\textwidth}{|L|L|}
+\hline
+Identification number & 664643 \\
+\hline
+Title & Title type \\
+\hline
+Shots of 1932 & Acquisition \\
+\hline
+Brown Family Film & Devised \\
+\hline
+Level & Work \\
+\hline
+Category & Non Fiction \\
+\hline
+Country & United Kingdom \\
+\hline
+Date & 1932 \\
+\hline
+start Precision & circa \\
+\hline
+Date type & Production \\
+\hline
+Production status & Completed \\
+\hline
+Genre & Amateur film \\
+\hline
+Subject & Family life, Christenings, Seaside holidays \\
+\hline
+Description type & Description \\
+\hline
+Synopsis & Important events in the life of the Brown family, taking place in 1932. \\
+\hline
+Shotlist & RL 1: Valerie Vivienne, the daughter of Edwin and Joyce, is born. Various shots of the baby being held by Edwin and Joyce; baby’s christening. Some shots of the Hendon Air Pageant. Family holiday, scenes at Little Holland (near Clacton on Sea). Back home; Jack and Tops’ wedding. Return to Little Holland. RL 2: Joyce and another woman are pushing prams up a hill near the beach. Edwin poses for the camera. Shots of “Red Gable”, which is possibly their holiday home, outside and inside. The women hold the babies up to the camera. The men go horse riding. Shots at the beach. Outing to Tunbridge Wells, having a stroll. More shots of the baby. \\
+\hline
+Credit & Name \\
+\hline
+Camera Operator & Brown, Edwin G., \\
+\hline
+Parts reference & Parts title \\
+\hline
+M-438218 & Shots of 1932 \\
+\hline
+\end{xltabular}
 
 
-| Level | Item
-| Item type | Film
+\setlength\extrarowheight{2pt}
+\begin{xltabular}{\textwidth}{|L|L|}
+\hline
+Identification number & M-438218 \\
+\hline
+Title & Title type \\
+\hline
+Shots of 1932 & Acquisition \\
+\hline
+Level & Manifestation \\
+\hline
+Manifestation type & Not for release \\
+\hline
+General Format & Specific Format \\
+\hline
+Film & 9.5mm Film \\
+\hline
+Colour & Black and White \\
+\hline
+Sound & Silent \\
+\hline
+Release Country & United Kingdom \\
+\hline
+Date & 1932 \\
+\hline
+Precision & circa \\
+\hline
+Dimension & Length \\
+\hline
+Value & 400 \\
+\hline
+Unite & Feet \\
+\hline
+Part of reference & title \\
+\hline
+664643 & Shots of 1932 \\
+\hline
+Parts reference & Parts title \\
+\hline
+C-1264202 & Shots of 1932 \\
+\hline
+\end{xltabular}
 
-| Status | Usage
-| Master | Restricted access to preserved film
-
-| Colour | Black and white
-| Base | Safety
-| Gauge | 9.5mm
-| Description | Original Reversal BW Positive
-| Sound | Silent
-
-| Stock | Pathe | 
-| Stock date early | 1932 | 
-| Precision | circa |
-| Stock date late | 1932 | 
-| Precision | circa |
-| Condition emulsion | Condition base | 
-| Scratches | Scratches |
-| Copy number | 1264202-1 | 
-| Package number | AB12C3D |
-
-| Reel number | 1 | 
-| Total reels | 2 | 
-| Number of cans/cassettes | 1
-
-| Dimensions Part | Total | 
-| Value | 400 |
-| Unit | feet |
-
-| Dimensions Part | Reel 1 | 
-| Value | 200 |
-| Unit | feet |
-
-
-| Dimensions Part | Reel 2 | 
-| Value | 200 |
-| Unit | feet |
-
-| Current location | BK1AC12344 | 
-
-| Home location | BK1AC12344 |
-
-| Acquisition date | 2003-01-22 |
-| Method | Donation |
-| Donor | Fiaf Brown |
-
-| Part of reference | Part of Title |
-| M-438218 | Shots of 1932 |
+\setlength\extrarowheight{2pt}
+\begin{xltabular}{\textwidth}{|L|L|}
+\hline
+Identification number & C-1264202 \\
+\hline
+Title & Title type \\
+\hline
+Shots of 1932 & Acquisition \\
+\hline
+Brown Family Film. Shots of 1932 & Devised \\
+\hline
+Level & Item \\
+\hline
+Item type & Film \\
+\hline
+Status & Usage \\
+\hline
+Master & Restricted access to preserved film \\
+\hline
+Colour & Black and white \\
+\hline
+Base & Safety \\
+\hline
+Gauge & 9.5mm \\
+\hline
+Description & Original Reversal BW Positive \\
+\hline
+Sound & Silent \\
+\hline
+Stock & Pathe \\
+\hline
+Stock date early & 1932 \\
+\hline
+Precision & circa \\
+\hline
+Stock date late & 1932 \\
+\hline
+Precision & circa \\
+\hline
+Condition emulsion & Condition base \\
+\hline
+Scratches & Scratches \\
+\hline
+Copy number & 1264202-1 \\ 
+\hline
+Package number & AB12C3D \\
+\hline
+Reel number & 1 \\
+\hline
+Total reels & 2 \\
+\hline
+Number of cans/cassettes & 1 \\
+\hline
+Dimensions Part & Total \\
+\hline
+Value & 400 \\
+\hline
+Unit & feet \\
+\hline
+Dimensions Part & Reel 1 \\
+\hline
+Value & 200 \\
+\hline
+Unit & feet \\
+\hline
+Dimensions Part & Reel 2 \\ 
+\hline
+Value & 200 \\
+\hline
+Unit & feet \\
+\hline
+Current location & BK1AC12344 \\
+\hline
+Home location & BK1AC12344 \\
+\hline
+Acquisition date & 2003-01-22 \\
+\hline
+Method & Donation \\
+\hline
+Donor & Fiaf Brown \\
+\hline
+Part of reference & Part of Title \\
+\hline
+M-438218 & Shots of 1932 \\
+\hline
+\end{xltabular}
 
 \subsection{Example 6. Television Serial and Episode records in 3-level Hierarchy Model (with Monographic Work in “part of” relationship with Serial Work)}
 \label{sec:example_six} 
 
-| | |
-| --- | --- |
-| Identification number | 772521 |
-| Title | Title type |
-| Hill Street Blues | Original |
-| Hill St Blues | Alternative |
-| Level | Work |
-| Filmographic level | Serial |
-| Category | Fiction |
-| Production country | United States of America
-| Date start | 1981-01-15 |
-| Date end | 1987-05-12 |
-| Date type | Television broadcast |
-| Genre | Police drama |
-| Work History | Drama series following the activities of an American city police precinct and its personnel. USA. MTM Enterprises for NBC Television. United States of America, NBC, transmitted 15/01/1981-12/05/1987 [7 seasons; 146 x hour] UK, Channel 4, transmitted 22/01/1981- |
-| Parts reference | Parts title |
-| 193074 | Politics As Usual |
-| 193075 | Can World War III Be an Attitude? |
-| 193076 | Dressed to Kill |
-| 193077 | Film at Eleven |
-| 193078 | Choice Cut |
-| 193079 | Up in Arms |
-| 193080 | Your Kind, My Kind, Humankind |
-| 193081 | Gatorbait |
-| Etc. etc. | |
-| Related to | |
-| Periodical: | Time Out – issue 898 4 November 1987. Pages 16-17. |
-| Abstract: | Comments on the final series and interview with James B. Sikking about his role. |
-| Periodical: | City Limits – n134 27 Apr 1984 pages 17-19. 21 |
-| Abstract: | Article tracing the history of the series, and examining the reasons for its success. |
-| Periodical: | TV Guide – volume 45. issue26. June 1997. pages 10-67. Article: 100 greatest episodes of all time | 
-| Abstract: | TV Guide and television experts at NICK AT NITE’S TV LAND select 100 greatest episodes from drama series and sitcoms from the 1950s to 1997. |
-| Periodical: | Playback – issue Special Collectors April 1995. Page 52 |
-| Abstract: | Article about the background, production and reception of the series. Creative Screenwriting volume 5. Issue 3, June 1998. pages 24-31 |
-| Article: | Creating the prime time novel: an interview with Michael Kozoll by: Douglas Heil. |
-| Abstract: | Interview with television screenwriter Michael Kozoll who discusses Hollywood screenwriting as purely business. His work on the US television series HILL STREET BLUES and DELVECCHIO is particularly mentioned. Written by – volume 3. issue 10. November 1999. pages 16-30 |
-| Article: | Upstairs/downstairs by: Alan Waldman |
-| Abstract: | Steve Bochco, Bruce Paltrow and other writers talk about the period in the 1980s when they worked together for CBS to write classic shows such as HILL STREET BLUES and ST. ELSEWHERE. |
-
-| | |
-| --- | --- |
-| Identification number | 193075 |
-| Title | Can World War III Be an Attitude? |
-| Title type | Original |
-| Level | Work |
-| Filmographic level | Monographic | 
-| Category | Fiction |
-| Production country | United States of America |
-| Date start | 1981-01-24 |
-| Date type | Television broadcast |
-| Genre | Police drama |
-| Subject | Corruption, Bribery, Police, Car theft, Gangs, Power cuts |
-| Description type | Synopsis |
-| Description | Furillo focuses on a bribery case against LaRue, while Hill and Renko arrest a thief with hidden expertise. |
-| On-screen credit | Name |
-| Director | Butler, Robert |
-| Production company | MTM Productions |
-| Teleplay | Bochco, Steven |
-| Teleplay | Kozoll, Michael |
-| Character | Name |
-| Captain Frank Furillo | Travanti, Daniel J. |
-| Sgt Phil Esterhaus | Conrad, Michael |
-| Detectiver Mick Belker | Weitz, Bruce |
-| Lt Calletano | Enríquez, René |
-| Officer Hill | Warren, Michael |
-| Officer Renko | Haid, Charles |
-| Lucy | Thomas, Betty |
-| Detective LaRue | Martin, Kiel |
-| Part of reference | Part of reference title |
-| 772521 | Hill Street Blues |
-| Parts reference | Parts title |
-| X-58733 | Can World War III Be an Attitude? |
-| X-58734 | Can World War III Be an Attitude? |
-
-
-| | |
-| --- | --- |
-| Identification number | X-58733 |
-| Title | Title type |
-| Can World War III Be an Attitude? | Original |
-| Level | Manifestation |
-| Manifestation type | TV transmission |
-| Date | 1981-01-24 |
-| Broadcast channel | NBC TV |
-| Coverage | Network |
-| Country | United States of America |
-| Colour | Colour |
-| Sound | Sound |
-| Language | Usage |
-| English | Dialogue (original) |
-| Part of reference | Part of reference title |
-| 193075 | Can World War III Be an Attitude? |
+\setlength\extrarowheight{2pt}
+\begin{xltabular}{\textwidth}{|L|L|}
+\hline
+Identification number & 772521 \\
+\hline
+Title & Title type \\
+\hline
+Hill Street Blues & Original \\
+\hline
+Hill St Blues & Alternative \\
+\hline
+Level & Work \\
+\hline
+Filmographic level & Serial \\
+\hline
+Category & Fiction \\
+\hline
+Production country & United States of America \\
+\hline
+Date start & 1981-01-15 \\
+\hline
+Date end & 1987-05-12 \\
+\hline
+Date type & Television broadcast \\
+\hline
+Genre & Police drama \\
+\hline
+Work History & Drama series following the activities of an American city police precinct and its personnel. USA. MTM Enterprises for NBC Television. United States of America, NBC, transmitted 15/01/1981-12/05/1987 [7 seasons; 146 x hour] UK, Channel 4, transmitted 22/01/1981- \\
+\hline
+Parts reference & Parts title \\
+\hline
+193074 & Politics As Usual \\
+\hline
+193075 & Can World War III Be an Attitude? \\
+\hline
+193076 & Dressed to Kill \\
+\hline
+193077 & Film at Eleven \\
+\hline
+193078 & Choice Cut \\
+\hline
+193079 & Up in Arms \\
+\hline
+193080 & Your Kind, My Kind, Humankind \\
+\hline
+193081 & Gatorbait \\
+\hline
+Etc. etc. & \\
+\hline
+Related to & \\
+\hline
+Periodical: & Time Out – issue 898 4 November 1987. Pages 16-17. \\
+\hline
+Abstract: & Comments on the final series and interview with James B. Sikking about his role. \\
+\hline
+Periodical: & City Limits – n134 27 Apr 1984 pages 17-19. 21 \\
+\hline
+Abstract: & Article tracing the history of the series, and examining the reasons for its success. \\
+\hline
+Periodical: & TV Guide – volume 45. issue26. June 1997. pages 10-67. Article: 100 greatest episodes of all time \\
+\hline
+Abstract: & TV Guide and television experts at NICK AT NITE’S TV LAND select 100 greatest episodes from drama series and sitcoms from the 1950s to 1997. \\
+\hline
+Periodical: & Playback – issue Special Collectors April 1995. Page 52 \\
+\hline
+Abstract: & Article about the background, production and reception of the series. Creative Screenwriting volume 5. Issue 3, June 1998. pages 24-31 \\
+\hline
+Article: & Creating the prime time novel: an interview with Michael Kozoll by: Douglas Heil. \\
+\hline
+Abstract: & Interview with television screenwriter Michael Kozoll who discusses Hollywood screenwriting as purely business. His work on the US television series HILL STREET BLUES and DELVECCHIO is particularly mentioned. Written by – volume 3. issue 10. November 1999. pages 16-30 \\
+\hline
+Article: & Upstairs/downstairs by: Alan Waldman \\
+\hline
+Abstract: & Steve Bochco, Bruce Paltrow and other writers talk about the period in the 1980s when they worked together for CBS to write classic shows such as HILL STREET BLUES and ST. ELSEWHERE. \\
+\hline
+\end{xltabular}
 
 
-| | |
-| --- | --- |
-| Identification number | X-58734 |
-| Title | Title type |
-| Can World War III Be an Attitude? | Original |
-| Level | Manifestation |
-| Manifestation type | TV transmission |
-| Date | 1997-02-22 |
-| Start time: | 23:35:00 |
-| End time: | 00:35:00 |
-| Duration: | 60 minutes |
-| Broadcast channel | Channel 4 | 
-| Coverage | Network | 
-| Country | United Kingdom | 
-| Colour | Colour | 
-| Sound | Sound | 
-| Language | Usage | 
-| English | Dialogue (original) | 
-| Part of reference | Part of reference title | 
-| 193075 | Can World War III Be an Attitude? | 
-| Parts reference | Parts reference title | 
-| C-925142 | Hill Street Blues [22/02/1997] | 
-| C-925117 | Hill Street Blues [22/02/1997] | 
+\setlength\extrarowheight{2pt}
+\begin{xltabular}{\textwidth}{|L|L|}
+\hline
+Identification number & 193075 \\
+\hline
+Title & Can World War III Be an Attitude? \\
+\hline
+Title type & Original \\
+\hline
+Level & Work \\
+\hline
+Filmographic level & Monographic \\
+\hline
+Category & Fiction \\
+\hline
+Production country & United States of America \\
+\hline
+Date start & 1981-01-24 \\
+\hline
+Date type & Television broadcast \\
+\hline
+Genre & Police drama \\
+\hline
+Subject & Corruption, Bribery, Police, Car theft, Gangs, Power cuts \\
+\hline
+Description type & Synopsis \\
+\hline
+Description & Furillo focuses on a bribery case against LaRue, while Hill and Renko arrest a thief with hidden expertise. \\
+\hline
+On-screen credit & Name \\
+\hline
+Director & Butler, Robert \\
+\hline
+Production company & MTM Productions \\
+\hline
+Teleplay & Bochco, Steven \\
+\hline
+Teleplay & Kozoll, Michael \\
+\hline
+Character & Name \\
+\hline
+Captain Frank Furillo & Travanti, Daniel J. \\
+\hline
+Sgt Phil Esterhaus & Conrad, Michael \\
+\hline
+Detectiver Mick Belker & Weitz, Bruce \\
+\hline
+Lt Calletano & Enríquez, René \\
+\hline
+Officer Hill & Warren, Michael \\
+\hline
+Officer Renko & Haid, Charles \\
+\hline
+Lucy & Thomas, Betty \\
+\hline
+Detective LaRue & Martin, Kiel \\
+\hline
+Part of reference & Part of reference title \\
+\hline
+772521 & Hill Street Blues \\
+\hline
+Parts reference & Parts title \\
+\hline
+X-58733 & Can World War III Be an Attitude? \\
+\hline
+X-58734 & Can World War III Be an Attitude? \\
+\hline
+\end{xltabular}
 
-| | |
-| --- | --- |
-| Identification number | C-925142 |
-| Title | Title type |
-| Hill Street Blues [22/02/1997] | Original |
-| Level | Item |
-| Item type | Video |
-| Status | Usage |
-| Viewing | Videotape can be requested for access |
-| Language | Usage |
-| English | Dialogue (original) |
-| Colour | Colour |
-| Base | Video |
-| Colour standard | Line standard |
-| PAL | 625 |
-| Audio standard | stereo |
-| Video format | VHS cassette |
-| Video duration | 47.12 |
-| Number of cans/cassettes | 1 |
-| Current location | date |
-| BK2AC12345 | 2015-06-12 |
-| Acquisition date | 1997-02-22 |
-| Method | Off-Air recording |
-| Part of reference | Part of Title |
-| X-58734 | Can World War III Be an Attitude? |
+\setlength\extrarowheight{2pt}
+\begin{xltabular}{\textwidth}{|L|L|}
+\hline
+Identification number & X-58733 \\
+\hline
+Title & Title type \\
+\hline
+Can World War III Be an Attitude? & Original \\
+\hline
+Level & Manifestation \\
+\hline
+Manifestation type & TV transmission \\
+\hline
+Date & 1981-01-24 \\
+\hline
+Broadcast channel & NBC TV \\
+\hline
+Coverage & Network \\
+\hline
+Country & United States of America \\
+\hline
+Colour & Colour \\
+\hline
+Sound & Sound \\
+\hline
+Language & Usage \\
+\hline
+English & Dialogue (original) \\
+\hline
+Part of reference & Part of reference title \\
+\hline
+193075 & Can World War III Be an Attitude? \\
+\hline
+\end{xltabular}
 
-| | |
-| --- | --- |
-| Identification number | C-925117 |
-| Title | Title type |
-| Hill Street Blues [22/02/1997] | Original |
-| Level | Item |
-| Item type | Video | 
-| Status | Usage | 
-| Master | Restricted access to preserved videotape | 
-| Language | Usage | 
-| English | Dialogue (original) | 
-| Colour | Colour | 
-| Base | Video | 
-| Stock | Fuji | 
-| Colour standard | Line standard | 
-| PAL | 625 | 
-| Audio standard | Stereo | 
-| Video format | D3 | 
-| Video duration | 47.12 | 
-| Number of cans/cassettes | 1 |
-| Current location | date | 
-| BK2AC12346 | 2015-06-12 | 
-| Acquisition date | 1997-02-22 |
-| Method | Off-Air recording |
-| Part of reference | Part of Title |
-| X-58734 | Can World War III Be an Attitude? |
+\setlength\extrarowheight{2pt}
+\begin{xltabular}{\textwidth}{|L|L|}
+\hline
+Identification number & X-58734 \\
+\hline
+Title & Title type \\
+\hline
+Can World War III Be an Attitude? & Original \\
+\hline
+Level & Manifestation \\
+\hline
+Manifestation type & TV transmission \\
+\hline
+Date & 1997-02-22 \\
+\hline
+Start time: & 23:35:00 \\
+\hline
+End time: & 00:35:00 \\
+\hline
+Duration: & 60 minutes \\
+\hline
+Broadcast channel & Channel 4 \\
+\hline
+Coverage & Network \\
+\hline
+Country & United Kingdom \\
+\hline
+Colour & Colour \\
+\hline
+Sound & Sound \\
+\hline
+Language & Usage \\ 
+\hline
+English & Dialogue (original) \\
+\hline
+Part of reference & Part of reference title \\
+\hline
+193075 & Can World War III Be an Attitude? \\ 
+\hline
+Parts reference & Parts reference title \\ 
+\hline
+C-925142 & Hill Street Blues [22/02/1997] \\ 
+\hline
+C-925117 & Hill Street Blues [22/02/1997] \\
+\hline
+\end{xltabular}
+
+\setlength\extrarowheight{2pt}
+\begin{xltabular}{\textwidth}{|L|L|}
+\hline
+Identification number & C-925142 \\
+\hline
+Title & Title type \\
+\hline
+Hill Street Blues [22/02/1997] & Original \\
+\hline
+Level & Item \\
+\hline
+Item type & Video \\
+\hline
+Status & Usage \\
+\hline
+Viewing & Videotape can be requested for access \\
+\hline
+Language & Usage \\
+\hline
+English & Dialogue (original) \\
+\hline
+Colour & Colour \\
+\hline
+Base & Video \\
+\hline
+Colour standard & Line standard \\
+\hline
+PAL & 625 \\
+\hline
+Audio standard & stereo \\
+\hline
+Video format & VHS cassette \\
+\hline
+Video duration & 47.12 \\
+\hline
+Number of cans/cassettes & 1 \\
+\hline
+Current location & date \\
+\hline
+BK2AC12345 & 2015-06-12 \\
+\hline
+Acquisition date & 1997-02-22 \\
+\hline
+Method & Off-Air recording \\
+\hline
+Part of reference & Part of Title \\
+\hline
+X-58734 & Can World War III Be an Attitude? \\
+\hline
+\end{xltabular}
+
+\setlength\extrarowheight{2pt}
+\begin{xltabular}{\textwidth}{|L|L|}
+\hline
+Identification number & C-925117 \\
+\hline
+Title & Title type \\
+\hline
+Hill Street Blues [22/02/1997] & Original \\
+\hline
+Level & Item \\
+\hline
+Item type & Video \\
+\hline
+Status & Usage \\
+\hline
+Master & Restricted access to preserved videotape \\
+\hline
+Language & Usage \\
+\hline
+English & Dialogue (original) \\
+\hline
+Colour & Colour \\
+\hline
+Base & Video \\
+\hline
+Stock & Fuji \\ 
+\hline
+Colour standard & Line standard \\
+\hline
+PAL & 625 \\
+\hline
+Audio standard & Stereo \\
+\hline
+Video format & D3 \\
+\hline
+Video duration & 47.12 \\
+\hline
+Number of cans/cassettes & 1 \\
+\hline
+Current location & date \\
+\hline
+BK2AC12346 & 2015-06-12 \\
+\hline
+Acquisition date & 1997-02-22 \\
+\hline
+Method & Off-Air recording \\
+\hline
+Part of reference & Part of Title \\
+\hline
+X-58734 & Can World War III Be an Attitude? \\
+\hline
+\end{xltabular}
 
 \subsection{Example 7. Aggregate DVD Television Serial and Episode records in 1-level Hierarchy Models}
 \label{sec:example_seven} 
