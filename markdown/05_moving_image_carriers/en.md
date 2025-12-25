@@ -26,9 +26,8 @@ Some elements which could be catalogued at Carrier level include:
 3. Colour, e.g. Black & White
 4. Aspect ratio, e.g. 1:1,35
 5. Length of each reel or carrier, e.g. meters, minutes
-5. Additional information on base type and stock if known
+6. Additional information on base type and stock if known
+7.  inspection sheets
+8. shelve number
 
 Digital items are build following the same logic: one digital item can be made up from separate digital files (relating to each digitised reel), while an item can also consist of one carrier. Carrier does not equal the physical unit, where the file is stored (e.g. an LTO tape), but are linked via a UUID to the digital storage.
-
-7. inspection sheets
-8. shelve number
