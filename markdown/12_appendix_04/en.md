@@ -945,21 +945,6 @@ Nosferatu. Eine Symphonie des Grauens (Germany, 1922, Friedrich Wilhelm Murnau) 
 Use only when there is insufficient contextual information to enable informed use of any specific Manifestation type from the list above.
 For example, to be used when undertaking data cleaning of obsolete legacy Manifestations, when no information is available and it is not practical to examine the primary source to establish context.
 
-\subsection{Language Usage Types}
-\label{sec:language_usage_types} 
-
-  Dialogue language(s)
-    Spoken language
-    Sung language
-    Signed language
-    No dialogue
-  Written languages
-    Subtitles
-    Captions
-    Intertitles
-  Language(s) of summaries on containers
-  Language(s) of accompanying material
-
 \subsection{Manifestation/Item Physical Description}
 \label{sec:manifestation_item_physical_description} 
 
