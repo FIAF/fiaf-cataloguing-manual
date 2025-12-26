@@ -1177,30 +1177,6 @@ Combined Magnetic Sound
 Combined Optical Sound
 VA RCA Duplex
 
-\subsubsection{Aspect Ratio}
-\label{sec:aspect_ratio} 
-
-Examples of “aspect ratio” value lists include, but are not limited to the Technical Glossary of Common Audiovisual Terms (National Film and Sound Archive Australia) and the PBCore essenceTrackAspect Ratio http://metadataregistry.org/concept/list/vocabulary_id/129.html
-
-2.34:1
-2.39:1
-2.52:1
-2.7:1
-4:3
-
-\subsubsection{Aperture} 
-\label{sec:aperture}
-
-Academy 1.33:1
-Full Height
-Full Screen
-Flat
-Anamorphic
-3D
-Pan and scan
-Pillarbox (bars added at the sides)
-Letterbox/Widescreen (bars added at the top and bottom)
-Windowbox (bars added at the side and the top and bottom)
 
 \subsubsection{Item Stock}
 \label{sec:item_stock} 
