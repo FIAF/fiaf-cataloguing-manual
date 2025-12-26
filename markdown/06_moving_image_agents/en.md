@@ -1,8 +1,7 @@
 
 \newpage
-\section[Moving Image Agents]{Moving Image Agents 
-    \label{sec:moving_image_agents}
-    } 
+\section{Moving Image Agents}  
+\label{sec:moving_image_agents}
 
 For recording the attributes of Agents (e.g. first name, last name, nationality, etc.), refer to authoritative sources such as AACR2, applicable RDA chapters for recording attributes of Persons, Families, and Corporate Bodies,^[ RDA 2.20.7.3] Functional requirements for authority data: a conceptual model, ^[Patton, Glenn E. 2009. Functional requirements for authority data: a conceptual model. München: K.G. Saur.]  or tools such as the Virtual International Authority File (VIAF) (viaf.org), Library of Congress Linked Data Service (id.loc.gov), Getty Union List of Artists Names (ULAN), the [Library of Congress Name Authority File](https://authorities.loc.gov/cgi-bin/Pwebrecon.cgi?RefCodes=3&ref=1&hd=1,1&SEQ=20130523194229&Search_Arg=Ethnology-United%20States&Search_Code=SHED_&CNT=100&PID=mYzkzT0fYryqza3XpBkr08lSvjsf&SID=8), or International Standard Name Identifier (ISNI) 126.127 
 
@@ -21,18 +20,48 @@ Agent(s) may also have relationships to an instance of a specific Event or of an
 Because responsibility for moving image materials is most often complex and highly diverse, institutions - particularly those with special interests - should determine the number of Agents and the types of roles and activities they wish to include. 
 These may vary from institution to institution according to the types of moving image material held. 
 
-| Work | Variant | Manifestation | Item |
-| --- | --- | --- | --- |
-| Cast | Dubbing cast | Distributor/Publisher | Acquisition source (e.g. donor) |
-| Cinematographer/Director of photography | Additional credits | Broadcaster | Curator |
-| Presenter | Additional cast | Streaming Channel | Lab technician |
-| Director | | Manufacturer | Archivist |
-| Producer | | | |
-| Production Company | | | |
-	
-\subsection[Agents for Works/Variants (e.g. Cast, Credits, Person, Organisation, etc.)]{Agents for Works/Variants (e.g. Cast, Credits, Person, Organisation, etc.) 
-    \label{sec:agents_for_works_variants}
-    } 
+\setlength\extrarowheight{2pt} 
+\begin{xltabular}{\textwidth}{|L|L|L|L|}
+\hline
+\textbf{Work} & 
+\textbf{Variant} & 
+\textbf{Manifestation} & 
+\textbf{Item} \\
+\hline
+Cast & 
+Dubbing cast & 
+Distributor/Publisher & 
+Acquisition source (e.g. donor) \\
+\hline
+Cinematographer/ Director of photography & 
+Additional credits & 
+Broadcaster & 
+Curator \\
+\hline
+Presenter & 
+Additional cast & 
+Streaming Channel & 
+Lab technician \\
+\hline
+Director & 
+& 
+Manufacturer & 
+Archivist \\
+\hline
+Producer & 
+& 
+& 
+\\
+\hline
+Production Company & 
+& 
+&  
+\\
+\hline
+\end{xltabular} 
+
+\subsection{Agents for Works/Variants (e.g. Cast, Credits, Person, Organisation, etc.)}  
+\label{sec:agents_for_works_variants}
 
 An Agent is defined as an entity that is involved in the creation, realisation, curation or exploitation of a Work/Variant and who is considered to have major responsibility for, or be of major importance to, the Work/Variant. 
 Typical distinctions between Agent types are Person, Corporate Body, Family, and Person Group.^[EN 15907, 5.1 Agent] 
@@ -47,7 +76,6 @@ Provide access to Agents when they have made an important contribution to the pa
 Agents may be described in two ways: as discrete index points, and/or merged into one field where the credits are listed in order of role importance or as transcribed from the Work.  
 
 Optionally, if the Agent is credited under a name that is not identical with the preferred name from an authority file, record the name as used in the current instance of the related entity. 
-For example: 
 
 ```{=latex}
 \begin{tcolorbox}
@@ -71,9 +99,8 @@ Optionally, record multiple instances of Agent, e.g., cast and credits, associat
 
 Variants may include both the Agents of the original Work and of the particular Variant, or just those pertaining to the particular Variant, e.g. additional cast in reinserted scenes in a Director’s Cut, new credits relating to digital special effects in a special edition with new CGI effects, cast used for a dubbed version, etc. 
 
-\subsubsection[Agent Activity – Works/Variants]{Agent Activity – Works/Variants
-    \label{sec:agent_activity_works_variants}
-    } 
+\subsubsection{Agent Activity – Works/Variants} 
+\label{sec:agent_activity_works_variants}
 
 This describes the activity or role of the Agent in relation to the moving image Work/Variant (e.g. credit terms). 
 
@@ -92,8 +119,6 @@ If a name is known to be fictitious, or requires clarification, make a note givi
 If more than one Agent is associated with a particular role connected with a Work/Variant or related Event, where possible or desirable, record the names in the order indicated by the sequence, layout, or typography of the names on the source of information. 
 Preserving the ordering of the credited persons should be determined by the requirements of individual institutions.^[FIAF, 1.6.2, pp. 36-37.] 
 
-Examples:   
-
 ```{=latex}
 \begin{tcolorbox}
 Les Enfants du paradis \\
@@ -103,7 +128,7 @@ musique, Maurice Thiriet
 \end{tcolorbox}
 ```
 
-OR  
+OR
 
 ```{=latex}
 \begin{tcolorbox}
@@ -126,8 +151,6 @@ Screenplay, George Lucas
 
 If Agents are added as index points rather than listed or described in order of importance, an organisation may choose to put the Agent Activity or role term(s) at the end of the name. 
 
-Examples:  
-
 ```{=latex}
 \begin{tcolorbox}
 Les Enfants du paradis \\ 
@@ -145,10 +168,9 @@ Kurtz, Gary, producer
 \end{tcolorbox}
 ```
 
-\subsection[Agents for Manifestations]{Agents for Manifestations
-    \label{sec:agents_for_manifestations}
-    } 
-
+\subsection{Agents for Manifestations} 
+\label{sec:agents_for_manifestations}
+    
 An Agent for moving image Manifestations is defined as an entity that is involved in the exploitation (release, distribution, broadcasting), publishing, manufacturing or preservation of a Manifestation and who is considered to have major responsibility for, or be of major importance to, the Manifestation. 
 Typical distinctions between agent types are Person, Corporate Body, Family and Person Group.^[EN 15907, 5.1 Agent]  
 
@@ -163,9 +185,8 @@ Provide access to Agents when they have made an important contribution to the pa
 
 In the case of aggregate Manifestations, if desirable and applicable, record multiple instances of Agent associated with the aggregated content. 
 
-\subsubsection[Agent Activity – Manifestations]{Agent Activity – Manifestations
-    \label{sec:agent_activity_manifestations}
-    } 
+\subsubsection{Agent Activity – Manifestations}
+\label{sec:agent_activity_manifestations}    
 
 Describes the activity of the Agent(s) to make explicit the relationship(s) between the Agent(s) and the Manifestation. 
 
@@ -178,8 +199,6 @@ If the relationship is ambiguous, use a value to indicate this, for example, “
 Optionally, when the activity performed by an Agent is probable but not certain, provide the function name followed by a question mark. 
 
 Besides the principal Agent Activities suggested, institutions, particularly those with special interests, should create and apply in-house value lists of other specific Agent activities, which may vary from institution to institution. 
-
-Examples: 
 
 ```{=latex}
 \begin{tcolorbox}
@@ -211,9 +230,8 @@ Streaming platform: Netflix
 \end{tcolorbox}
 ```
 
-\subsection[Agents for Items]{Agents for Items
-    \label{sec:agents_for_items}
-    } 
+\subsection{Agents for Items}
+\label{sec:agents_for_items} 
 
 An Agent for moving image Items is defined as an entity that is involved in the acquisition, movement (for loans, inspection, storage, etc.), or preservation of a moving image Item and who is considered to have major responsibility for, or be of major importance to, the moving image Item. 
 Full names pertaining to in-house staff are advisable for clarity, rather than initials of individuals. 
@@ -223,9 +241,8 @@ Agent(s) may also have relationships to an instance of a specific Event or of an
 An institution should determine the types of functions they wish to include in this area. 
 These functions may vary from institution to institution according to the types of moving image material held and range of activities. 
 
-\subsubsection[Agent Activity – Items]{Agent Activity – Items
-    \label{sec:agent_activity_items}
-    } 
+\subsubsection{Agent Activity – Items}
+\label{sec:agent_activity_items} 
 
 Describes the activity of the Agent to make explicit the relationship(s) between the Agent and the Item. 
 
@@ -240,60 +257,50 @@ Besides the principal Agent Activities suggested, institutions, particularly tho
 
 Record in a note any additional details that cannot be expressed through controlled terms. 
 
+\subsection{Manifestation Agent Types}
+\label{sec:manifestation_agent_types} 
 
-\subsection[Manifestation Agent Types]{Manifestation Agent Types
-    \label{sec:manifestation_agent_types}
-    } 
-
-\subsubsection[Distributor (theatrical)]{Distributor (theatrical)
-    \label{sec:distributor_theatrical}
-    } 
+\subsubsection{Distributor (theatrical)}
+\label{sec:distributor_theatrical} 
 
 Agent responsible for the theatrical distribution of a Manifestation
 
-\subsubsection[Distributor (non-theatrical)]{Distributor (non-theatrical)
-    \label{sec:distributor_non_theatrical}
-    } 
+\subsubsection{Distributor (non-theatrical)}
+\label{sec:distributor_non_theatrical} 
 
 Agent responsible for the non-theatrical distribution
 
-\subsubsection[Broadcaster]{Broadcaster
-    \label{sec:broadcaster}
-    } 
+\subsubsection{Broadcaster}
+\label{sec:broadcaster} 
 
 Agent responsible for the broadcasting of a Manifestation, namely the network or station on which it aired or the network which makes it available on demand
 
-\subsubsection[Publisher]{Publisher
-    \label{sec:publisher}
-    } 
+\subsubsection{Publisher}
+\label{sec:publisher} 
 
 Agent responsible for the home video publication or for the web publication of a moving image Manifestation: i.e. the publishing company, which often is the same as the distribution company
 
-\subsubsection[Manufacturer]{Manufacturer
-    \label{sec:manufacturer}
-    } 
+\subsubsection{Manufacturer}
+\label{sec:manufacturer} 
 
 (Optionally, this information can be specified directly at the Item level)
 
 Agent responsible for the activities of manufacturing a Manifestation: i.e. a laboratory.
 
-\subsubsection[Agent responsible for preservation]{Agent responsible for preservation
-    \label{sec:agent_responsible_for_preservation}
-    } 
+\subsubsection{Agent responsible for preservation} 
+\label{sec:agent_responsible_for_preservation}
 
 Agent responsible for the preservation of a Manifestation: namely the rights-owner(s), the distributor(s) or an archive.
 
-\subsubsection[Agent responsible for reproduction or transfer]{Agent responsible for reproduction or transfer
-    \label{sec:agent_responsible_for_reproduction_or_transfer}
-    } 
+\subsubsection{Agent responsible for reproduction or transfer}
+\label{sec:agent_responsible_for_reproduction_or_transfer} 
 
 (Optionally, this information can be specified directly at the Item level)
 
 Agent responsible for the activities of duplication/reproduction/transfer (dupes and masters): namely the rights-owner(s), the distributor(s) or an archive. (name: personal, corporate).
 
-\subsubsection[Agent responsible for the archival availability]{Agent responsible for the archival availability
-    \label{sec:agent_responsible_for_the_archival_availability}
-    } 
+\subsubsection{Agent responsible for the archival availability}
+\label{sec:agent_responsible_for_the_archival_availability}
 
 (Optionally, this information can be specified directly at the Item level)
 
@@ -301,9 +308,8 @@ The institution responsible for the availability of a moving image Manifestation
 
 For example, in a scenario where a Manifestation or Event occurs within the context of a film being shown for educational, research, cultural event purposes, etc. e.g. where an Archive has a public mediatheque which streams a large number of films and TV programmes on its premises for free which are for educational and cultural purposes, not financial ones.
 
-\subsubsection[Agent responsible for the mere availability]{Agent responsible for the mere availability
-    \label{sec:agent_responsible_for_the_mere_availability}
-    } 
+\subsubsection{Agent responsible for the mere availability}
+\label{sec:agent_responsible_for_the_mere_availability} 
 
 (Optionally, this information can be specified directly at the Item level)
 
@@ -311,18 +317,16 @@ Agent responsible for making available a Manifestation not intended for public r
 
 For example, in a scenario where a Manifestation not intended for public release is shown within a private environment, such as a production company showing a “blooper” reel (off-cuts of amusing things that went wrong during shooting the film) at a cast and crew party on the production company or studio premises. Or a private press preview showing.
 
-\subsubsection[Agent unclear or undetermined]{Agent unclear or undetermined
-    \label{sec:agent_unclea_or_undetermined}
-    } 
+\subsubsection{Agent unclear or undetermined}
+\label{sec:agent_unclea_or_undetermined} 
 
 (Optionally, this information can be specified directly at the Item level)
 
 Indicate if the Agent is unclear or undetermined, i.e. has not yet been determined.
 Also, if the Agent could be one of two or more possibilities then name them and qualify that there is uncertainty as to which is correct.
 
-\subsubsection[Agent not identified]{Agent not identified
-    \label{sec:agent_not_identified}
-    } 
+\subsubsection{Agent not identified}
+\label{sec:agent_not_identified} 
 
 (Optionally, this information can be specified directly at the Item level)
 

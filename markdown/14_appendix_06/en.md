@@ -1,14 +1,11 @@
 
 
 \newpage
-\section[Boundaries between records]{Boundaries between records 
-    \label{sec:boundaries_between_records}
-    } 
+\section{Boundaries between records}
+\label{sec:boundaries_between_records} 
 
-
-\subsubsection[Boundaries between Works]{Boundaries between Works
-    \label{sec:boundaries_between_works}
-    } 
+\subsubsection{Boundaries between Works}
+\label{sec:boundaries_between_works} 
 
 These guidelines recognise that real world cataloguing needs and data structures necessitate practical applications of conceptual modelling.
 To that end, the recommendations made in this chapter about determining boundaries for Works and Variants/Manifestations are based on an approach that emphasizes effective, efficient and economic data creation and maintenance: information that is common to all realisations of a Work or Variant is recorded once and is comprised of the shared information that will not change (for example, title, original creation date, creator, etc.).
@@ -20,8 +17,6 @@ The boundaries between one Work and another (i.e where a new Work would be creat
 **Change in footage and/or changes in continuity (primary editing)^[Secondary editing results in a Variant.]**
 
 *Remakes of the same story/plot.*
-
-Examples:
 
 ```{=latex}
 \begin{tcolorbox}
@@ -61,8 +56,6 @@ Die Dreigroschenoper (Germany,1962, Wolfgang Staudte)
 *Different language versions shot at the same time, released simultaneously,
 sometimes with different casts.*
 
-Examples:
-
 ```{=latex}
 \begin{tcolorbox}
 Dracula (United States of America, 1931, Tod Browning, Spanish and English)
@@ -99,8 +92,6 @@ La dernière berceuse (France, 1930, Jean Cassagne, French)
 
 *Editing of the same raw footage by different people into different sequences.*
 
-Example:
-
 ```{=latex}
 \begin{tcolorbox}
 Several separate Works made from the footage taken on Captain Robert Falcon Scott’s Antarctic expedition, 1910-13.
@@ -110,8 +101,6 @@ Several separate Works made from the footage taken on Captain Robert Falcon Scot
 **Change in textual or spoken word aspect**
 
 *Complete alteration of dialogue and/or narration of an existing work.*
-
-Example:
 
 ```{=latex}
 \begin{tcolorbox}
@@ -123,8 +112,6 @@ A film by Woody Allen, who utilised footage from the Japanese film Kokusai himit
 **Change in performance/performers**
 
 *Each cinematographic realisation of a dramatic work.*
-
-Examples:
 
 ```{=latex}
 \begin{tcolorbox}
@@ -144,9 +131,8 @@ Chickens Come Home (1931) where the film was first shot in English,then re-shot 
 
 If much of the original textual or spoken word material remains, most of the original footage remains in roughly the same continuity, however abridged, and substantially most of the contributors are the same, the existence of alterations more often than not constitute a Variant, rather than a new Work.
 
-\subsection[Boundaries between Works and Variants]{Boundaries between Works and Variants
-    \label{sec:boundaries_between_works_and_variants}
-    } 
+\subsection{Boundaries between Works and Variants}
+\label{sec:boundaries_between_works_and_variants} 
 
 This section looks at instances of when an entity constitutes a new Work or a Variant of a Work.
 
@@ -234,18 +220,15 @@ B35: box rad 5px "Yes" fit at (7,-0.5); arrow down 0.1 from B1.s then right unti
 B36: box rad 5px "Catalogue material as" "MANIFESTATION of original" fit at (7,-1); arrow from B35.s to B36.n
 ```
 
-
-\subsubsection[Boundaries between Variants]{Boundaries between Variants
-    \label{sec:boundaries_between_variants}
-    } 
+\subsubsection{Boundaries between Variants}
+\label{sec:boundaries_between_variants}
+    
 
 It is possible for a moving image Variant to be modified in such a way as to create a new Variant related to the previous one^[YCR, Expressions of Expressions, p. 47]. The boundaries between one Variant and another may be drawn on the basis of the following alterations to the content:^[The types of alterations given here are adapted from Yee, “The Concept of Work for Moving Image Materials.”]
 
 **Change in continuity (secondary editing)**
 
 *Revision or modification of already edited footage of completed work.*
-
-Example^[Cornick, Michael. (2008). Modern Film Censorship: Television, Airlines, and Home Entertainment. p. 44]:
 
 ```{=latex}
 \begin{tcolorbox}
@@ -255,7 +238,7 @@ In 2007, some in-flight showings of The Queen (2006) distributed to Delta and ot
 
 *Abridgements or additions to existing content.*
 
-Example^[[https://en.wikipedia.org/wiki/The_Leopard](https://en.wikipedia.org/wiki/The_Leopard)]: a release of a dubbed film abridged or augmented
+*Example of a release of a dubbed film abridged or augmented.*
 
 ```{=latex}
 \begin{tcolorbox}
@@ -268,7 +251,7 @@ Dubbed/ Abridged: The leopard, English (spoken language) -1963 – United States
 
 *Same dialogue and/or narration rendered in different spoken, sung or written languages.*
 
-Example of a release of a foreign film (dubbed), subtitled in a different language: 
+*Example of a release of a foreign film (dubbed), subtitled in a different language.*
 
 ```{=latex}
 \begin{tcolorbox}
@@ -280,8 +263,6 @@ Dubbed/Subtitled Variant: Il piccolo e il grande amore, Italian (spoken language
 **Change in performance/performers**
 
 *Addition, removal and/or replacement of some of the contributors (e.g., cast and/or crew), associated with a Work.*
-
-Example^[Information from IMDb and Wikipedia]:
 
 ```{=latex}
 \begin{tcolorbox}
@@ -296,14 +277,10 @@ TODO TABLE MISSING HERE.
 
 If much of the original textual and spoken word material remains, most of the original footage remains in roughly the same continuity, however abridged, and substantially most of the contributors are the same, the existence of alterations more often than not constitute a new Variant, rather than a new Work.
 
+\subsubsection{Boundaries between Manifestations and Works or Variants}
+\label{sec:boundaries_between_manifestations_and_works_or_variants}
 
-
-
-\subsubsection[Boundaries between Manifestations and Works or Variants]{Boundaries between Manifestations and Works or Variants
-    \label{sec:boundaries_between_manifestations_and_works_or_variants}
-
-
-    The boundaries between a moving image Work and its Variant(s) (i.e. where a Variant rather than a new Work may be created) may be drawn on the basis of one or more of the following alterations to the content given below.^[The types of alterations given here are adapted from Yee, “The Concept of Work for Moving Image Materials.”]
+The boundaries between a moving image Work and its Variant(s) (i.e. where a Variant rather than a new Work may be created) may be drawn on the basis of one or more of the following alterations to the content given below.^[The types of alterations given here are adapted from Yee, “The Concept of Work for Moving Image Materials.”]
 
 **Change in footage and/or change in continuity (secondary editing)**
 
@@ -330,8 +307,6 @@ Mr. Arkadin (France-Spain-Switzerland, 1955, Orson Welles): eight different Vari
 ```
 
 *Editing of a Work to create realisations that are shorter in extent/duration.*
-
-Examples:
 
 ```{=latex}
 \begin{tcolorbox}
@@ -361,8 +336,6 @@ Censored Variant: Ultimo tango a Parigi (Italy, 1988, Broadcast)
 ```
 
 *Addition of new footage to a Work to update informational/educational content; for preservation/restoration; to offer different endings or alternate takes.*
-
-Examples:
 
 ```{=latex}
 \begin{tcolorbox}
@@ -437,7 +410,7 @@ Preservation/restoration Variant: addition of stills and explanation texts; Ital
 
 *Removal and/or replacement and/or addition of any one or more of the contributors (e.g., cast and/or crew), but not substantially most, associated with a Work.*
 
-Examples of restored versions of works which include credits for the responsible individuals and institutions:
+*Examples of restored versions of works which include credits for the responsible individuals and institutions.*
 
 ```{=latex}
 \begin{tcolorbox}
@@ -459,7 +432,7 @@ Kita-kitsune Monogatari (Japan, 1978, Koreyoshi Kurahara); original narrator voi
 \end{tcolorbox}
 ```
 
-Examples of language versions which credit the individuals responsible for dubbing or subtitles:
+*Examples of language versions which credit the individuals responsible for dubbing or subtitles.*
 
 ```{=latex}
 \begin{tcolorbox}
@@ -487,8 +460,6 @@ When an institution has set a policy not to use Variants, the boundaries will us
 
 Boundaries for this decision are akin to the concepts of “versions with major changes” and “variations with minor changes” in the FIAF Cataloguing Rules for Film Archives (1991) [http://www.fiafnet.org/pages/E-Resources/FIAF-Cataloguing-Rules.html](http://www.fiafnet.org/pages/E-Resources/FIAF-Cataloguing-Rules.html)
 
-Example:
-
 ```{=latex}
 \begin{tcolorbox}
 Our herring industry (GB, 1932) is the shortened version of Drifters (GB, 1929).
@@ -501,23 +472,41 @@ Where no Variant structure exists then the cataloguer would decide whether it co
 
 It is up to every archive or institution to choose and make its own policy on whether to use Variants or Manifestations.
 
-\subsection[Boundaries between Manifestations and Events]{Boundaries between Manifestations and Events
-    \label{sec:boundaries_between_manifestations_and_events}
-    }
+\subsection{Boundaries between Manifestations and Events}
+\label{sec:boundaries_between_manifestations_and_events}
 
 As mentioned at [INSERT INTERNAL LINK TO RELEVANT SECTION IN MANUAL], there is no rule within EN15907 as to the categories of Manifestation Type there can be, only that its values come from a controlled vocabulary list. The only one stipulated value that exists is that of a category of ‘Unknown’.
 
 Overlaps that have evolved between use of Manifestations and Events, and Manifestation types and Event Publication types, have partly been due to some ambiguity within the EN15907 standard itself. But also, how the latter has been interpreted and evolved since it was conceived in order to deal with the nature and range of actual moving image material and technological developments; as well as the realities and practicalities for institutions using different cataloguing systems and databases, and user access needs.
 
-| Manifestation types | Event Publication types |
-| --- | --- |
-| Theatrical distribution | Theatrical distribution |
-| Non-theatrical distribution | Non-theatrical distribution |
-| Broadcast | Broadcast |
-| Internet | Online transmission |
-| Pre-release | Pre-release |
-| Home viewing | Home video publication |
-| Unknown | Unknown |
+\setlength\extrarowheight{2pt} 
+\begin{xltabular}{\textwidth}{|L|L|L|}
+\hline
+\textbf{Manifestation types} & 
+\textbf{Event Publication types} \\
+\hline
+Theatrical distribution & 
+Theatrical distribution \\
+\hline
+Non-theatrical distribution & 
+Non-theatrical distribution \\
+\hline
+Broadcast & 
+Broadcast \\
+\hline
+Internet & 
+Online transmission \\
+\hline
+Pre-release & 
+Pre-release \\
+\hline
+Home viewing & 
+Home video publication \\
+\hline
+Unknown & 
+Unknown \\
+\hline
+\end{xltabular} 
 
 The boundaries between Manifestations and Events and structuring decisions will be dependent on the types of records, architecture, and concatenation and display capabilities of multiple linked data within an institution’s database or other cataloguing system. 
 

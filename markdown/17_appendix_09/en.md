@@ -1,13 +1,11 @@
 
 
 \newpage
-\section[Rights/Copyright/IPR Registration]{Rights/Copyright/IPR Registration 
-    \label{sec:appendix_rights_copyright_ipr_registration}
-    } 
-
-\subsection[Rights in a moving image Work]{Rights in a moving image Work 
-    \label{sec:rights_in_a_moving_image_work}
-    } 
+\section{Rights/Copyright/IPR Registration}  
+\label{sec:appendix_rights_copyright_ipr_registration}
+    
+\subsection{Rights in a moving image Work}  
+\label{sec:rights_in_a_moving_image_work}
 
 The intellectual property rights in a moving image work are known by various terms such as Copyright, Ayant droit, Droit d’Auteur, IP or simply Rights.
 These IP rights are complex entities, reflecting the complexity of a moving image work’s creation; and they vary across legal frameworks and across historical periods.
@@ -23,21 +21,18 @@ Finally, it is worth noting that unpublished works are often treated differently
 
 The recommended properties below are preceded by some background information.
 
-\subsubsection[Background information]{Background information 
-    \label{sec:background_information}
-    } 
+\subsubsection{Background information} 
+\label{sec:background_information} 
 
-\paragraph[Source of data]{Source of data 
-    \label{sec:source_of_data}
-    } \
+\paragraph{Source of data} 
+\label{sec:source_of_data} \
 
 Regarding the source of intellectual property data, it is recommended to obtain the relevant information from onscreen text, taken from the first official manifestation in the primary country of origin.
 Historically this has been a theatrical release in the primary country of production, but as that model changes to include simultaneous online publication of moving image works across multiple territories, this recommendation should accommodate this fluidity: capture the data from the best available manifestation source representing the arguable ‘first fixation’ of the work, and document that source in your work record.
 Alternatively, use information given by the production companies or rights holders, or from other authoritative secondary sources.
 
-\paragraph[Authors of a moving image Work]{Authors of a moving image Work 
-    \label{sec:authors_of_a_moving_image_work}
-    } \
+\paragraph{Authors of a moving image Work} 
+\label{sec:authors_of_a_moving_image_work} \
 
 The Authors of a moving image work are the first owners of the intellectual property rights.
 As the defined authors of the moving image work differ substantially across territories, the following examples illustrate these differences, and emphasise the usefulness of a broad data capture policy.
@@ -85,9 +80,8 @@ However, between 1923-2002 there were periods where other formalities needed to 
 As intellectual property rights can be transferred, and can lapse, it is recommended that cataloguers capture statements about the rights’ status: current / previous / out of copyright, and the dates of transfer / lapse, as described below.
 In addition, as death dates are so critical in establishing the status of out of copyright, it is recommended that cataloguers capture the death dates of key contributors where known (and where feasible, that person records for key ‘authors’ are associated with equivalent entities in an official registry of persons, such as VIAF, ISNI or other).
 
-\paragraph[Layers of protection for the ‘work’ as abstraction, and the ‘fixation’ or ‘recording’ of the work in a concrete form]{Layers of protection for the ‘work’ as abstraction, and the ‘fixation’ or ‘recording’ of the work in a concrete form 
-    \label{sec:layers_of_protection_for_the_work_as_abstraction_and_the_fixation_or_recording_of_the_work_in_a_concrete_form}
-    } \
+\paragraph{Layers of protection for the ‘work’ as abstraction, and the ‘fixation’ or ‘recording’ of the work in a concrete form} 
+\label{sec:layers_of_protection_for_the_work_as_abstraction_and_the_fixation_or_recording_of_the_work_in_a_concrete_form} \
 
 The complexity and variation in the intellectual property rights surrounding a moving image work also extends to multiple layers of protection, in some legal frameworks.
 Bluntly described, these multiple layers protect the ‘work’ as an abstraction (with the rights held by the ‘authors’, as defined above) and, separately, the ‘fixation’ or ‘recording’ of the work as a film.
@@ -98,9 +92,8 @@ But some prominent examples of this layered approach are the United States of Am
 
 Given the territorial variation, once again, rather than recommend different data properties for the different countries, instead it is recommended to capture a core set of rights data properties, which should provide information sufficient for all possibilities within the different frameworks.
 
-\paragraph[Orphan works]{Orphan works 
-    \label{sec:orphan_works}
-    } \
+\paragraph{Orphan works} 
+\label{sec:orphan_works} \
 
 Orphan works are defined as those works which are ‘still protected by copyright but whose authors or other rightholders are not known or cannot be located.’ (from the OHIM Orphan Works Database website at https://oami.europa.eu/ohimportal/en/web/observatory/orphan-works-database).
 The absence of information about ownership has prevented archives from exploiting their collections in revenue-generating or access-driving initiatives: for example, online display of digitised collections.
@@ -113,9 +106,8 @@ The United States has not yet passed legislation on orphan works, but the Regist
 
 The cataloguer within a moving image archive that is undertaking such registration should add data derived from that registration activity, for example unique identifier for the registration, URL to online database record, link to certificate on PDF, etc.
 
-\paragraph[Rights-protected works that may be used within, or created during, a film production]{Rights-protected works that may be used within, or created during, a film production 
-    \label{sec:rights_protected_works}
-    } \
+\paragraph{Rights-protected works that may be used within, or created during, a film production} 
+\label{sec:rights_protected_works} \
 
 These are the types of protected works which are often contained within a new moving image work, or indeed created by the making of a moving image work, and which are often referred to as ‘underlying rights’ or “third-party rights.” When establishing Manifestation rights (see below), these underlying rights must be investigated and cleared as required.
 
@@ -134,9 +126,8 @@ Sound Recordings – if commissioned for pre-existing music
 
 Films – such as archival footage; special effect footage
 
-\subsubsection[Recommended properties to capture in describing the rights context of a moving image Work]{Recommended properties to capture in describing the rights context of a moving image Work 
-    \label{sec:recommended_properties_to_capture1}
-    } 
+\subsubsection{Recommended properties to capture in describing the rights context of a moving image Work}
+\label{sec:recommended_properties_to_capture1}
 
 1. Copyright holder and Copyright Date, as displayed on screen (often associated with a © symbol)
 
@@ -194,9 +185,8 @@ Films – such as archival footage; special effect footage
 
   g. date of expiry of licence granted by registration scheme
 
-\subsection[Rights in a Manifestation]{Rights in a Manifestation 
-    \label{sec:rights_in_a_manifestation}
-    } 
+\subsection{Rights in a Manifestation}
+\label{sec:rights_in_a_manifestation}
 
 The rights in a Manifestation are typically licences, contracts or agreements between the Work’s copyright owner / intellectual property rights owner, and a third party, enabling that third party to exploit the work legally by copying it, distributing, broadcasting or publishing it, extracting from it, incorporating it in another work, etc.
 
@@ -214,9 +204,8 @@ In that case, the cataloguer should document not only rights in but also rights 
 
 Given the context above, it may be useful for an archive to capture whether it is an acquirer of the manifestation rights being documented, a granter of the rights, or simply a documenter of the rights.
 
-\subsubsection[Recommended properties to capture in describing the rights context of a Manifestation]{Recommended properties to capture in describing the rights context of a Manifestation 
-    \label{sec:recommended_properties_to_capture2}
-    } 
+\subsubsection{Recommended properties to capture in describing the rights context of a Manifestation}
+\label{sec:recommended_properties_to_capture2}
 
 1. Relationship to rights being documented:
 
@@ -240,9 +229,8 @@ Given the context above, it may be useful for an archive to capture whether it i
 
 8. Filename of agreement: Capture the filename of an electronic version of any agreement pertaining to the manifestation’s licence, or where possible a link to the file in a persistent, available directory within the organisation’s infrastructure.
 
-\subsection[Rights in an Item]{Rights in an Item 
-    \label{sec:rights_in_an_item}
-    } 
+\subsection{Rights in an Item}
+\label{sec:rights_in_an_item}
 
 The rights in a moving image Item typically refer to the ownership (or transfer of ownership) of an object, either on a physical / analogue carrier such as a 35mm film print, or a digital file such as a DCP / DCDM or ProRes.
 The transfer of ownership (sometimes referred to in legal terms as ‘transfer of title’) is important for an archive to document, as it establishes legal ownership of the collection.
@@ -270,13 +258,11 @@ In Italy, since 2004, the Cineteca Nazionale can legally use the copies acquired
 
 Below, a set of properties are recommended for describing the rights around the Acquisition, and separately around the Loan, of moving image items.
 
-\subsubsection[Recommended properties to capture in describing the rights context of a moving image Item]{Recommended properties to capture in describing the rights context of a moving image Item 
-    \label{sec:recommended_properties_to_capture3}
-    } 
+\subsubsection{Recommended properties to capture in describing the rights context of a moving image Item}
+\label{sec:recommended_properties_to_capture3}
 
-\paragraph[Acquisition]{Acquisition 
-    \label{sec:copyright_acquisition}
-    } \
+\paragraph{Acquisition} 
+\label{sec:copyright_acquisition} \
 
 See also \nameref{sec:acquisition}
 
@@ -374,9 +360,8 @@ This section is drawn from BFI policies.
 
 25. Filename of agreement: Capture the filename of an electronic version of the Acquisition agreement, or where possible a link to the file in a persistent, available directory within the organisation’s infrastructure.
 
-\paragraph[Loan]{Loan 
-    \label{sec:loan}
-    } \
+\paragraph{Loan} 
+\label{sec:loan} \
 
 1. This section outlines the properties that are specific to Loan agreements, distinct from Acquisitions
 
@@ -407,6 +392,3 @@ This section is drawn from BFI policies.
 9. Item reproduction notes: Field to allow the terms of reproduction to be further qualified, e.g. the exact division of mutually agreed expense for reproduction.
 
 10. Filename of agreement: Capture the filename of an electronic version of the Loan agreement, or where possible a link to the file in a persistent, available directory within the organisation’s infrastructure.
-
-
-

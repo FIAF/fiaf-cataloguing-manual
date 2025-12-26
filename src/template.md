@@ -108,3 +108,31 @@ which will render as
 
 Diagrams are currently rendered by a distinct process which produces discrete image files, which are then inserted into the document when the PDF is rendered. 
 Please contact the manual administrator for the creation of new diagrams.
+
+### Docker dev
+
+The easiest way to work with the project locally within a Docker container. From the `src` directory, start an Ubuntu container populated with the Cataloguing Manual resources.
+
+```sh
+ docker compose up -d
+```
+
+Log into the container.
+
+```sh
+docker exec -it manual bash
+```
+
+Navigate to the src directory within the container.
+
+```sh
+cd app/src/
+```
+
+Execute the creation of a render of the Manual.
+
+```sh
+./test.sh
+```
+
+The resulting file can be found locally at `./src/test.pdf`.

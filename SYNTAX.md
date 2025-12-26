@@ -1,32 +1,6 @@
-# FIAF Cataloguing Manual
+### Syntax Guide
 
-Markdown representation of the [FIAF Cataloguing Manual](https://www.fiafnet.org/pages/E-Resources/Cataloguing-Manual.html).
-
-### Build
-
-Building the manual currently requires [Docker](https://www.docker.com). The following commands will render `manual.pdf` to the `src` directory.
-
-```sh
-cd src && docker compose up -d
-docker exec manual /app/src/build.sh
-```
-
-The current develop branch automatically renders to [FIAF Cataloguing Manual](https://f003.backblazeb2.com/file/cataloguing-manual/develop-manual.pdf).
-
-### Edit Guide
-
-Required updates should be identified by an "issue" before work begins. The issue list can be found [here](https://github.com/FIAF/fiaf-cataloguing-manual/issues).
-
-From within the issue itself, the editor should assign to themselves (if not already assigned). They should then "Create a branch" for the issue (if not already created).
-
-From the project page, select the appropriate branch and then find the file or files which require editing and make desired edits. The PDF will automatically regenerate on the branch each time (this currently takes a few minutes).
-
-Once edits have resolved the "issue", a "Pull request" can be made to pull the changes into the `develop` branch. These will eventually be versioned by the manual administrator for a major update.
-
-### Formatting Notes
-
-A good general guide to Markdown can be found [here](https://www.markdownguide.org/). 
-There are however some specific syntax choices which have been made to best reflect the desired outcomes of the project.
+This iteration of the FIAF Cataloguing Manual has been mostly formatted using Markdown. A good general guide for this format can be found [here](https://www.markdownguide.org/). Due to some complex formatting requirements, we are also using some [LaTeX](https://en.wikipedia.org/wiki/LaTeX) syntax, detailed below.
 
 **Headings**
 
@@ -92,24 +66,42 @@ Internal links use the following non-standard syntax, `\nameref{sec:LABEL}` with
 
 **Tables**
 
-Formatting tables follows the standard markdown syntax: column headers are separated by "|" symbols, as are the rows, with the requirement for a row between headers and cells with cell dividers separated by "-".
+We are currently using the [xltabular](https://ctan.org/pkg/xltabular) package to render tables.
 
-An example would the follow markdown
+The following table:
 
-```md
-| A | B | C |
+| **Work** | **Manifestation** | **Item** |
 | - | - | - |
-| 1 | 2 | 3 |
+| 1  | 2 | 3 |
 | 4 | 5 | 6 |
+
+Can be achieved with this syntax:
+
+```latex
+\setlength\extrarowheight{2pt} 
+\begin{xltabular}{\textwidth}{|L|L|L|}
+\hline
+\textbf{Work} & 
+\textbf{Manifestation} & 
+\textbf{Item} \\
+\hline
+1 & 
+2 &  
+3 \\
+\hline
+4 & 
+5 & 
+6 \\
+\hline
+\end{xltabular} 
 ```
 
-which will render as
+Some additional formatting options:
 
-| A | B | C |
-| - | - | - |
-| 1 | 2 | 3 |
-| 4 | 5 | 6 |
-
+- Footnotes within cells can be achieved with `\footnote{FOOTNOTE}`.
+- Cell backgrounds can be coloured with `\cellcolor{gray!25}`.
+- Lists can be added with `\begin{tabitemize} \item ITEM \end{tabitemize}`.
+- Linebreaks within text can be generated with `\linebreak`.
 
 **Diagrams**
 
