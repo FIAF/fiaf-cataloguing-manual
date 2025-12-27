@@ -21,6 +21,67 @@ The EN15907 standard gives the following event types:
 •	Preservation Event - An event in which the contents of one or more items (or fragments) from manifestations of a moving image were transferred to create a new manifestation or item with the intent of safeguarding the contents of a moving image from decay. Some preservation activities may result in a new variant, particularly if the contents of the moving image is affected by the process.  A preservation event shall be associated with the variant, manifestation or item that resulted from the preservation process.  
 [ADD LINK TO FILMSTANDARDS WEBSITE FOR EACH BULLET POINTED TYPE OF EVENT]
 
+\subsection{Event Type} 
+\label{sec:event_type}
+
+\setlength\extrarowheight{2pt} 
+\begin{xltabular}{\textwidth}{|L|L|L|L|}
+\hline
+\textbf{Work} & 
+\textbf{Variant} & 
+\textbf{Manifestation} & 
+\textbf{Item} \\
+\hline
+\nameref{sec:publication} & 
+\nameref{sec:publication} & 
+\nameref{sec:publication} &  
+\\
+\hline
+\nameref{sec:awards_or_nominations} & 
+\nameref{sec:awards_or_nominations} & 
+\nameref{sec:awards_or_nominations} & 
+\\
+\hline
+\nameref{sec:production} & 
+\nameref{sec:production} & 
+& 
+\\
+\hline
+\nameref{sec:values_rights_copyright_ipr_registration} & 
+\nameref{sec:values_rights_copyright_ipr_registration} & 
+Licensing & 
+Licensing \\
+\hline
+& 
+\nameref{sec:preservation} & 
+\nameref{sec:preservation} & 
+\nameref{sec:preservation} \\
+\hline
+& 
+\nameref{sec:decision} & 
+\nameref{sec:decision} & 
+\\
+\hline
+& 
+& 
+\nameref{sec:manufacture} & 
+\\
+\hline
+& 
+& 
+& 
+\nameref{sec:inspection} \\
+\hline
+& 
+& 
+& 
+\nameref{sec:acquisition} \\
+\hline
+\end{xltabular} 
+
+\subsubsection{Publication}  
+\label{sec:publication} 
+
 
 |           Event Types           |
 | Work | Variant | Manifestation | Item |
