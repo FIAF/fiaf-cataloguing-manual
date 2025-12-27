@@ -437,3 +437,7 @@ The name of the person or organisation from which the Item was obtained, indicat
 The date on which the Item was formally added to the inventory of the collection.
 (Dates should be formatted according to ISO 8601 or some other recognised standard.)
 
+- Acquisition detail
+
+Information describing the acquisition of the Item in greater detail.
+
