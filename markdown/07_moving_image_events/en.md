@@ -3,29 +3,21 @@
 \section{Moving Image Events} 
 \label{sec:moving_image_events}
 
-\newpage
-\subsection[Definitions]{Definitions 
-    \label{sec:moving_image_events_definition}
-    } 
-    \subsection[7.1 Events (e.g., IPR registration, screenings, awards, etc.){7.1 Events (e.g., IPR registration, screenings, awards, etc.)\label{sec:7.1_Events_(e.g.,_IPR registration,_screenings,_awards,_etc.)}} 
-
 An Event characterises occurrences in the lifecycle of a moving image Work, Variant, Manifestation, or Item. In addition, instances of any Event type can have Agent and "Other" relationships.
-
 
 The EN15907 standard gives the following event types:  
 
-•	Publication Event - A public screening or broadcast of a Manifestation, or a public release on a physical distribution medium or online. A publication event may be associated with instances of Agent, e.g. in the role of publisher, exhibition organiser, etc.  
+Publication Event - A public screening or broadcast of a Manifestation, or a public release on a physical distribution medium or online. A publication event may be associated with instances of Agent, e.g. in the role of publisher, exhibition organiser, etc.  
 
-•	Decision Event - A decision about the suitability of a cinematographic work or variant for a particular audience. Includes censorship and rating decisions. A Decision Event may be associated with instances of Agent, e.g. in the role of the agency performing the rating or censorship.  
+Decision Event - A decision about the suitability of a cinematographic work or variant for a particular audience. Includes censorship and rating decisions. A Decision Event may be associated with instances of Agent, e.g. in the role of the agency performing the rating or censorship.  
 
-•	IPR Registration event - A registration of intellectual property rights in a work. An IPR registration event can be associated with instances of Agent, e.g. in the role of applicant. 
+IPR Registration event - A registration of intellectual property rights in a work. An IPR registration event can be associated with instances of Agent, e.g. in the role of applicant. 
 
-•	Award - A bestowal of an award relating to the moving image work or to a specific achievement by an Agent within the context of the work, e.g. “best screenplay”, “best actor”, etc. Awards will be usually associated at the level of the work, except for cases where features of a particular variant are explicitly mentioned (e.g. "best audio commentary for the visually impaired") or the award relates to a particular manifestation (such as a DVD edition). An Award may be associated with instances of Agent in the role of individual winner, sponsor, etc., or with instances of Event, e.g. if the prizegiving ceremony was part of a festival. 
+Award - A bestowal of an award relating to the moving image work or to a specific achievement by an Agent within the context of the work, e.g. “best screenplay”, “best actor”, etc. Awards will be usually associated at the level of the work, except for cases where features of a particular variant are explicitly mentioned (e.g. "best audio commentary for the visually impaired") or the award relates to a particular manifestation (such as a DVD edition). An Award may be associated with instances of Agent in the role of individual winner, sponsor, etc., or with instances of Event, e.g. if the prizegiving ceremony was part of a festival. 
 
-•	Production Event - A specific event in the creation of the moving image work. A distinct event in the course of production of a moving image work or variant that is significantly separated in space and/or time from the main production event, or is known with a greater amount of detail. Examples are dates and locations for casting, shootings or other recordings, or for particular post-production activities. Other production events may include the acquisition or rental of noteworthy property or accessories for the purpose of making the film. A production event may be associated with instances of Agent in the role of their specific involvement with the event.  
+Production Event - A specific event in the creation of the moving image work. A distinct event in the course of production of a moving image work or variant that is significantly separated in space and/or time from the main production event, or is known with a greater amount of detail. Examples are dates and locations for casting, shootings or other recordings, or for particular post-production activities. Other production events may include the acquisition or rental of noteworthy property or accessories for the purpose of making the film. A production event may be associated with instances of Agent in the role of their specific involvement with the event.  
 
-•	Preservation Event - An event in which the contents of one or more items (or fragments) from manifestations of a moving image were transferred to create a new manifestation or item with the intent of safeguarding the contents of a moving image from decay. Some preservation activities may result in a new variant, particularly if the contents of the moving image is affected by the process.  A preservation event shall be associated with the variant, manifestation or item that resulted from the preservation process.  
-[ADD LINK TO FILMSTANDARDS WEBSITE FOR EACH BULLET POINTED TYPE OF EVENT]
+Preservation Event - An event in which the contents of one or more items (or fragments) from manifestations of a moving image were transferred to create a new manifestation or item with the intent of safeguarding the contents of a moving image from decay. Some preservation activities may result in a new variant, particularly if the contents of the moving image is affected by the process.  A preservation event shall be associated with the variant, manifestation or item that resulted from the preservation process.
 
 \subsection{Event Type} 
 \label{sec:event_type}
@@ -85,20 +77,16 @@ Licensing \\
 \hline
 \end{xltabular} 
 
+Record one or more Event type, for example, “publication,” “copyright/IPR registration,” “festival showing,” etc., to express the nature of the Event’s relationship to the Work or Variant. Selection should be made from a controlled list of terms.
+
+Record one or more Event type, for example, “decision,” “manufacture,” etc., to express the nature of the Event’s relationship to the Manifestation.
+
 \subsubsection{Publication}  
 \label{sec:publication} 
 
-
-Record one or more Event type, for example, “publication,” “copyright/IPR registration,” “festival showing,” etc., to express the nature of the Event’s relationship to the Work/Variant. Selection should be made from a controlled list of terms. A suggested list, which is open and not exhaustive, can be found in D.4 Event Types.
-
-\subsection[7.2 Events - Manifestation]{7.2 Events - Manifestations\label{sec:Events_-_Manifestations}}
- 
-
-Record one or more Event type, for example, “decision,” “manufacture,” etc., to express the nature of the Event’s relationship to the Manifestation. Selection should be made from a controlled list of terms. A suggested list, which is open and not exhaustive, can be found in D.4 Event Types.
-
 For Manifestations, a Publication Event corresponds to a screening, broadcast or the release of the Manifestation of a Work/Variant on a physical distribution medium or online.
 
-A Publication Event may be associated with instances of Agent in the role of e.g. publisher, distributor, broadcaster , etc. See D.8 Manifestation Agent Types and D.3 Work/Variant Agent Types.
+A Publication Event may be associated with instances of Agent in the role of e.g. publisher, distributor, broadcaster , etc.
 
 A Publication Event may be associated with instances of “Other” relationship(s) (e.g., promotional material of the theatrical distribution, the advertising of the home video publication, etc.).
 
@@ -112,9 +100,7 @@ Publication Event information consists of the following sub-elements:
 
 •	Publication type
 
-Record the Publication type for Manifestations, for example, “pre-release,” “theatrical distribution,” etc. Selection should be made from a controlled list of terms. See D.10 Manifestation Publication Types.
-
-D.10 Manifestation Publication Types
+Record the Publication type for Manifestations, for example, “pre-release,” “theatrical distribution,” etc. Selection should be made from a controlled list of terms, e.g.:
 
 Release  
 Publication  
@@ -127,7 +113,6 @@ Non-theatrical distribution
 Not for release  
 Home video publication  
 Unknown
-
 
 For Manifestations, the Publication Event that originated the embodiment of a specific Work/Variant in a Manifestation, corresponds to criteria individuated to distinguish the boundaries between Manifestations. For this reason, conceptually, and also in practice, “publication type” overlaps the main definition of “Manifestation type,” as explained in 2.1 Boundaries between Manifestations and, as such, is already described. Institutions have the option to decide whether to repeat this information or not.
 
@@ -145,7 +130,8 @@ If known and considered of relevance, record the name of the event that the publ
 
 If known and considered of relevance, record the specific restrictions for accessing the content (e.g. press-screening only, airplanes only, etc.).
 
-D.4.2 Award(s) or Nomination(s) 
+\subsubsection{Awards or Nominations}  
+\label{sec:Awards or Nominations} 
 
 The bestowal of an award relating to the Work/Variant or Manifestation. This excludes awards for Agents alone (e.g. "for lifetime achievement"), but includes awards for individual achievements within the context of a Work or Variant (e.g. "Best screenplay"). Awards will usually be associated at the level of the Work, except for cases where features of a particular Variant are explicitly mentioned (e.g. "Best audio commentary for the visually impaired") or the award relates to a particular Manifestation (such as a DVD edition).
 
@@ -174,7 +160,8 @@ The name of the award or trophy, possibly including a numeric designation (e.g. 
 •	Achievement
 A phrase describing a specific achievement for which the award was given, if not for the Work, Variant or Manifestation in total.
 
-D.4.3 Production 
+\subsubsection{Production}  
+\label{sec:Production} 
 
 A distinct event in the course of production of a Work or Variant, including the main production event OR events that are separated in space and/or time from the main production event, or known with a greater amount of detail. Examples are dates and locations where castings took place; dates and locations of shootings or other recordings; or dates and locations of particular post-production activities.
 
@@ -195,7 +182,7 @@ Production Event information consists of the following sub-elements:
 •	Production Event type
 Selection should be made from a controlled list of values. See D.11 Production Event Types.
 
-D.11 Production Event Types
+Production Event Types
 
 Casting  
 Outdoor shooting  
@@ -215,7 +202,8 @@ The year/date or time-span during which the event took place. Dates should be fo
 •	Event details
 Any further information about the event either in plain textual form, or as an instance of a data type from another schema
 
-D.4.4 Rights/Copyright/IPR Registration 
+\subsubsection{Rights/Copyright/IPR Registration}  
+\label{sec:Rights/Copyright/IPR Registration} 
 
 These are optional, and it is for an institution to choose whether it has the resources or requirement to compile rights data. Further more detailed information on the subject of rights/copyright/IPR registration can be found in Appendix H, Rights/Copyright/IPR Registration.
 
@@ -248,13 +236,14 @@ Name of the Agent claiming copyright in the Work or Variant.
 •	Registration number
 The number assigned by the registration agency. 
 
-D.4.5 Preservation/Restoration 
+\subsubsection{Preservation/Restoration}  
+\label{sec:Preservation/Restoration} 
 
 A Preservation/Restoration Event is associated with a new Variant, Manifestation or Items resulting from the preservation/restoration process in which the contents of one or more Items (or fragments thereof) from Manifestations of a Work were transferred with the intention of restoring or reconstructing the content as originally intended, or safeguarding it from decay.^[There is no designated separate Restoration Event in EN15907, and as there can often be an overlap in the types of activity associated with both preservation and restoration, we extended the definition in the 2016 FIAF Moving Image Cataloguing Manual to cover restoring and reconstruction of content too. We have also now referred to it as a Preservation/Restoration Event to increase clarity.]  
 
 This includes statements about past or future treatments scheduled for the item.  If desired and if applicable, record one or more general types of past or future treatment activities (e.g. "added leaders", "cleaned ultrasonically", "tears repair", etc.). Selection should be made from a controlled list of values.
 
-A Preservation/Restoration Event has as typical Agent(s) the institution(s) or individual professionals that make preservation decisions. Selection should be made from a controlled list of values. See D.8 Manifestation Agent Types and D.3 Work/Variant Agent Types[ - text of which is now in Agents chapter].
+A Preservation/Restoration Event has as typical Agent(s) the institution(s) or individual professionals that make preservation decisions. Selection should be made from a controlled list of values.
 
 A Preservation/Restoration Event can be in relationship with instances of “Other” relationships (such as technical reports, documentation material, promotional material for the specific project, etc.).
 
@@ -295,7 +284,8 @@ A Preservation/Restoration Event can be used in conjunction with Preservation or
 
 [INSERT ILLUSTRATIVE DIAGRAMS HERE]
 
-D.4.6 Decision 
+\subsubsection{Decision}  
+\label{sec:Decision} 
 
 A Decision Event is an event in which a Manifestation of a certain Work/Variant is evaluated by a censorship body or an accredited rating agency.
 
@@ -337,8 +327,8 @@ Record the outcome of the act of rating or censorship.
 
 [INSERT ILLUSTRATIVE EXAMPLES HERE FROM A COUPLE OF DIFFERENT COUNTRIES]
 
-
-D.4.7 Manufacture
+\subsubsection{Manifacture}  
+\label{sec:Manifacture}
 
 A Manufacture Event represents a “common” event within which the embodiment of a Manifestation occurs, owing to the instances of a number of physical items that bear the same characteristics.
 
@@ -380,7 +370,8 @@ If known and considered of relevance, record the name of the city or smaller geo
 
 Record one or more Event types, for example, “preservation,” “inspection,” “acquisition”, etc., to express the nature of the Event’s relationship to the Item. Selection should be made from a controlled list of terms. A suggested list, which is open and not exhaustive, can be found in D.4 Event Types.
 
-D.4.9 Acquisition
+\subsubsection{Acquisition}  
+\label{sec:Acquisition}
 
 The acquisition of a particular Item for an institution’s collection.
 
@@ -412,9 +403,7 @@ The date on which the Item was formally added to the inventory of the collection
 •	Acquisition detail
 Information describing the acquisition of the Item in greater detail.
 
-D.15 Manifestation/Item Acquisition, Accessioning and Source
-
-D.15.1 Item Acquisition type
+Item Acquisition type
 
 Donation  
 Exchange  
@@ -422,14 +411,14 @@ Loan
 Purchase  
 Off-air recording  
 
-D.15.2 Item Acquisition source type
+Item Acquisition source type
 
 Donor  
 Agent  
 Intermediary  
 
-
-D.4.8 Inspection
+\subsubsection{Inspection}  
+\label{sec:Inspection}
 
 The inspection of a particular Item for the purposes of assessing and recording the condition or treatment of the Item.
 
@@ -456,6 +445,3 @@ The date or time span in which the inspection activity was performed. (Dates sho
 Information describing the condition of the Item in greater detail.
 
 If desired and if applicable, record information about the condition of the Item, including nature and extent of damage. Selection should be made from a controlled list of terms. (See D.16 Manifestation/Item Condition, Preservation and Restoration.)
-
-
-
