@@ -256,7 +256,7 @@ The full list of elements of description for each entity is set out in the follo
 See Appendix I, Examples of records containing core elements in the different levels of hierarchy for examples of real records which contain these core elements (as well as others) across the hierarchies.
 
 ![](/app/src/diagrams/figure_01.png)
-![](/app/src/diagrams/0.2.1-B.png)
+![](/app/src/diagrams/figure_02.png)
 ![](/app/src/diagrams/0.2.1-C.png)
 ![](/app/src/diagrams/0.2.1-D.png)
 
