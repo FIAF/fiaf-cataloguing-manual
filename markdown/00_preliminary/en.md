@@ -257,7 +257,7 @@ See Appendix I, Examples of records containing core elements in the different le
 
 ![](/app/src/diagrams/figure_01.png)
 ![](/app/src/diagrams/figure_02.png)
-![](/app/src/diagrams/0.2.1-C.png)
+![](/app/src/diagrams/figure_03.png)
 ![](/app/src/diagrams/0.2.1-D.png)
 
 \newpage
