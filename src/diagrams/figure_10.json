@@ -1,0 +1,97 @@
+{
+  "boxes": [
+    {
+      "text": "Sabrina\n(1954) (Work)",
+      "weight": "Light",
+      "size": 15,
+      "x_step": 25,
+      "y_step": 25,
+      "interval": 15,
+      "padding": 10
+    },
+
+    {
+      "text": "The Audrey Hepburn Collection\n(2008) (Work)",
+      "weight": "Light",
+      "size": 15,
+      "x_step": 250,
+      "y_step": 25,
+      "interval": 15,
+      "padding": 10
+    },
+    {
+      "text": "Funny Face\n(1956) (Work)",
+      "weight": "Light",
+      "size": 15,
+      "x_step": 600,
+      "y_step": 25,
+      "interval": 15,
+      "padding": 10
+    },
+    {
+      "text": "Breakfast at\nTiffanys\n(1961) (Work)",
+      "weight": "Light",
+      "size": 15,
+      "x_step": 25,
+      "y_step": 100,
+      "interval": 15,
+      "padding": 10
+    },
+    {
+      "text": "The Audrey Hepburn Collection\n(DVD Manifestation, 2008) (Collection Aggregate)",
+      "weight": "Light",
+      "size": 15,
+      "x_step": 300,
+      "y_step": 300,
+      "interval": 15,
+      "padding": 10
+    },
+    {
+      "text": "The Audrey Hepburn Collection\n(DVD Item)",
+      "weight": "Light",
+      "size": 15,
+      "x_step": 300,
+      "y_step": 500,
+      "interval": 15,
+      "padding": 10
+    }
+  ],
+
+  "arrows": [
+    {
+      "type": "multi",
+      "source_box": 0,
+      "source_axis": "r",
+      "target_box": 1,
+      "target_axis": "l"
+    },
+    {
+      "type": "multi",
+      "source_box": 1,
+      "source_axis": "r",
+      "target_box": 2,
+      "target_axis": "l"
+    },
+    {
+      "type": "multi",
+      "source_box": 3,
+      "source_axis": "r",
+      "target_box": 1,
+      "target_axis": "l"
+    },
+    {
+      "type": "multi",
+      "source_box": 1,
+      "source_axis": "b",
+      "target_box": 4,
+      "target_axis": "t"
+    },
+    {
+      "type": "multi",
+      "source_box": 4,
+      "source_axis": "b",
+      "target_box": 5,
+      "target_axis": "t"
+    }
+  ]
+}
