@@ -1,10 +1,10 @@
 
 \newpage
 \section{Moving Image Item Components/Carriers (i.e. individual reels, tapes, files)} 
-\label{sec:moving_image_carriers} 
+\label{sec:moving_image_item_components_carriers} 
 
 \subsection{Definitions} 
-\label{sec:moving_image_carriers_definition} 
+\label{sec:moving_image_item_components_carriers_definition} 
 
 To avoid any confusion, "Item Components/Carriers" in this section is used to mean each individual reel, tape, or file that makes up the Item, e.g. a 4 reel film will have 4 Item Component/Carrier records associated with the one Item, one for each reel. This entity is not consistently named across institutions or systems - it is variously referred to as Carriers, Components, Units, Collect Copies, etc. 
 
