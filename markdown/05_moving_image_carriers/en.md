@@ -1,6 +1,6 @@
 
 \newpage
-\section{Moving Image Item Components/Carriers (i.e. individual reels, tapes, files} 
+\section{Moving Image Item Components/Carriers (i.e. individual reels, tapes, files)} 
 \label{sec:moving_image_carriers} 
 
 \subsection{Definitions} 
@@ -59,4 +59,6 @@ barcode
 shelf number
 site location
 
-Institutions can have varying practices in their use Item Container/Carrier records. Some only use them for analogue moving image cataloguing, and not digital acquisitions (instead adding an actual link to the digital storage via the Item or Item Component) ; while others will create Container/Carrier records for the hard drive on which digital files sit
+Institutions can have varying practices in their use Item Container/Carrier records. Some only use them for analogue moving image cataloguing, and not digital acquisitions (instead adding an actual link to the digital storage via the Item or Item Component) ; while others will create Container/Carrier records for the hard drive on which digital files sit. [Add in standard "It is for an institution to decide..." phrase here]
+
+[INSERT IN VARIOUS EXAMPLES, E.G. PAUL'S PICNIC AT HANGING ROCK EG. + POSSIBLY BFI'S STRUCTURE FOR SAME FILM, + OTHERS; OPTIONS FOR ANALOGUE/DIGITAL ETC.]
