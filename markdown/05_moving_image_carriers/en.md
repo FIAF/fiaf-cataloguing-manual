@@ -18,9 +18,6 @@ The same logic and structures of EN15907 can be applied to Item Component/Carrie
 
 Institutions may use Item Components/Carriers and their relationship to Item differently, and may also vary in the levels of data captured, depending on an institution's requirements or cataloguing systems.
 
-Example:
-Some institutions understand carriers as each individual reel, tape, or file that makes up the Item, e.g. a four reel film will have four Carrier records associated with the one Item, one for each reel.
-It is possible to record technical data at the Carrier level as it often pertains directly to a discrete barcoded physical object. 
 Depending on the database and metadata structure in use, it can be collected at the Carrier level and then pulled from Carrier level to Item level for easier orientation or summarisation (e.g. total length).
 
 Some elements which could be catalogued at Carrier level include:
