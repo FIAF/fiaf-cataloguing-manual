@@ -45,8 +45,19 @@ NEW SECTION
 
 The individual film cans, videotape boxes, DVD boxes or sleeves, and hard drives in which the Moving Image Item Components/Carriers are stored. These usually have identification and location information physically attached, e.g. barcodes, can labels, etc.
 
-In some institutions' systems these exist as records that are linked/associated to Item Components or Items.
+This entity is not consistently named across institutions or systems - it is variously referred to as Containers, Carriers, Packages, etc. 
+
+In some institutions' systems these exist as records that are linked/associated to Item Components or Items. In others the data is added to specific fields within the Item record.
 
 As with Item Components/Carriers, depending on the database and metadata structure in use, it can be collected at the Container/Carrier level and then pulled through from that level to display within the Item level for user convenience.
 
+
 It is possible to record technical data at the Container/Carrier level as it often pertains directly to a discrete barcoded physical object. 
+
+Some elements which could be catalogued at Carrier level include:
+
+barcode
+shelf number
+site location
+
+Institutions can have varying practices in their use Item Container/Carrier records. Some only use them for analogue moving image cataloguing, and not digital acquisitions (instead adding an actual link to the digital storage via the Item or Item Component) ; while others will create Container/Carrier records for the hard drive on which digital files sit
