@@ -59,39 +59,59 @@
 
   "arrows": [
     {
-      "type": "multi",
+      "type": "multi_h",
       "source_box": 0,
       "source_axis": "r",
+      "source_manual_x": 0,
+      "source_manual_y": 0,
       "target_box": 1,
-      "target_axis": "l"
+      "target_axis": "l",
+      "target_manual_x": 0,
+      "target_manual_y": 0
     },
     {
-      "type": "multi",
+      "type": "multi_h",
       "source_box": 1,
       "source_axis": "r",
+      "source_manual_x": 0,
+      "source_manual_y": 0,
       "target_box": 2,
-      "target_axis": "l"
+      "target_axis": "l",
+      "target_manual_x": 0,
+      "target_manual_y": 0
     },
     {
-      "type": "multi",
+      "type": "multi_h",
       "source_box": 3,
       "source_axis": "r",
+      "source_manual_x": 0,
+      "source_manual_y": 0,
       "target_box": 1,
-      "target_axis": "l"
+      "target_axis": "l",
+      "target_manual_x": 0,
+      "target_manual_y": 0
     },
     {
-      "type": "multi",
+      "type": "multi_v",
       "source_box": 1,
       "source_axis": "b",
+      "source_manual_x": 0,
+      "source_manual_y": 0,
       "target_box": 4,
-      "target_axis": "t"
+      "target_axis": "t",
+      "target_manual_x": 0,
+      "target_manual_y": 0
     },
     {
-      "type": "multi",
+      "type": "multi_v",
       "source_box": 4,
       "source_axis": "b",
+      "source_manual_x": 0,
+      "source_manual_y": 0,
       "target_box": 5,
-      "target_axis": "t"
+      "target_axis": "t",
+      "target_manual_x": 0,
+      "target_manual_y": 0
     }
   ]
 }
