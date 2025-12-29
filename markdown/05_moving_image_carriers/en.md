@@ -31,10 +31,9 @@ Some elements which could be catalogued at Carrier level include:
 4. Aspect ratio, e.g. 1:1,35
 5. Length of each reel or carrier, e.g. meters, minutes
 6. Additional information on base type and stock if known
-7.  inspection sheets
-8. shelve number
+7.  inspection sheet
 
-Digital items are build following the same logic: one digital item can be made up from separate digital files (relating to each digitised reel), while an item can also consist of one carrier. Carrier does not equal the physical unit, where the file is stored (e.g. an LTO tape), but are linked via a UUID to the digital storage.
+Digital items are built following the same logic: one digital item can be made up from separate digital files (relating to each digitised reel), while an item can also consist of one carrier. Carrier does not equal the physical unit, where the file is stored (e.g. an LTO tape), but are linked via a UUID to the digital storage.
 
 NEW SECTION
 \section{Moving Image Containers/Carriers} 
@@ -43,7 +42,7 @@ NEW SECTION
 \subsection{Definitions} 
 \label{sec:moving_image_carriers_definition} 
 
-The individual film cans, videotape boxes, DVD boxes or sleeves, and hard drives in which the Moving Image Item Components/Carriers are stored. These usually have identification and location information physically attached, e.g. barcodes, can labels, etc.
+The individual film cans, videotape boxes, DVD boxes or sleeves, and hard drives in which the Moving Image Item Components/Carriers are stored. These usually have identification and location information physically attached on the objects themselves, e.g. barcodes, can labels, etc.
 
 This entity is not consistently named across institutions or systems - it is variously referred to as Containers, Carriers, Packages, etc. 
 
