@@ -1,0 +1,157 @@
+{
+  "boxes": [
+    {
+      "text": "Pierrots\n(Work, c.1902)",
+      "weight": "Light",
+      "size": 15,
+      "x_step": 25,
+      "y_step": 25,
+      "interval": 15,
+      "padding": 10
+    },
+
+    {
+      "text": "Victorian Cinema 3\n(Work, 1998)",
+      "weight": "Light",
+      "size": 15,
+      "x_step": 250,
+      "y_step": 25,
+      "interval": 15,
+      "padding": 10
+    },
+    {
+      "text": "Lady Cyclists\n(Work, 1899)",
+      "weight": "Light",
+      "size": 15,
+      "x_step": 600,
+      "y_step": 25,
+      "interval": 15,
+      "padding": 10
+    },
+    {
+      "text": "Washing\nthe Sweep\n(Work, 1898)",
+      "weight": "Light",
+      "size": 15,
+      "x_step": 600,
+      "y_step": 100,
+      "interval": 15,
+      "padding": 10
+    },
+    {
+      "text": "Victorian Cinema 3\n(Internet Manifestation, 2014)",
+      "weight": "Light",
+      "size": 15,
+      "x_step": 250,
+      "y_step": 300,
+      "interval": 15,
+      "padding": 10
+    },
+    {
+      "text": "Pierrots\n(Digital Item)",
+      "weight": "Light",
+      "size": 15,
+      "x_step": 150,
+      "y_step": 500,
+      "interval": 15,
+      "padding": 10
+    },
+    {
+      "text": "Lady Cyclists\n(Digital Item)",
+      "weight": "Light",
+      "size": 15,
+      "x_step": 300,
+      "y_step": 500,
+      "interval": 15,
+      "padding": 10
+    },
+    {
+      "text": "Washing the Sweep\n(Digital Item)",
+      "weight": "Light",
+      "size": 15,
+      "x_step": 450,
+      "y_step": 500,
+      "interval": 15,
+      "padding": 10
+    }
+  ],
+
+  "arrows": [
+    {
+      "type": "multi_h",
+      "source_box": 0,
+      "source_axis": "r",
+      "source_manual_x": 0,
+      "source_manual_y": 0,
+      "target_box": 1,
+      "target_axis": "l",
+      "target_manual_x": 0,
+      "target_manual_y": 0
+    },
+    {
+      "type": "multi_h",
+      "source_box": 1,
+      "source_axis": "r",
+      "source_manual_x": 0,
+      "source_manual_y": 0,
+      "target_box": 2,
+      "target_axis": "l",
+      "target_manual_x": 0,
+      "target_manual_y": 0
+    },
+    {
+      "type": "multi_h",
+      "source_box": 1,
+      "source_axis": "r",
+      "source_manual_x": 0,
+      "source_manual_y": 15,
+      "target_box": 3,
+      "target_axis": "l",
+      "target_manual_x": 0,
+      "target_manual_y": 0
+    },
+    {
+      "type": "multi_v",
+      "source_box": 1,
+      "source_axis": "b",
+      "source_manual_x": 0,
+      "source_manual_y": 0,
+      "target_box": 4,
+      "target_axis": "t",
+      "target_manual_x": 0,
+      "target_manual_y": 0
+    },
+    {
+      "type": "multi_v",
+      "source_box": 4,
+      "source_axis": "b",
+      "source_manual_x": -50,
+      "source_manual_y": 0,
+      "target_box": 5,
+      "target_axis": "t",
+      "target_manual_x": 0,
+      "target_manual_y": 0
+    },
+    {
+      "type": "multi_v",
+      "source_box": 4,
+      "source_axis": "b",
+      "source_manual_x": 0,
+      "source_manual_y": 0,
+      "target_box": 6,
+      "target_axis": "t",
+      "target_manual_x": 0,
+      "target_manual_y": 0
+    },
+    {
+      "type": "multi_v",
+      "source_box": 4,
+      "source_axis": "b",
+      "source_manual_x": 50,
+      "source_manual_y": 0,
+      "target_box": 7,
+      "target_axis": "t",
+      "target_manual_x": 0,
+      "target_manual_y": 0
+    }
+  ]
+}
