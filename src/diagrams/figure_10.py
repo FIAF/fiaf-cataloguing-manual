@@ -91,8 +91,23 @@ def render():
 
         data['arrows'][i]['anchor'] = {'a': a, 'b': b}
 
+
+    # determine max x and y and add 25 to each.
+    #
+    max_x = max([x['bbox'][2] for x in data['boxes']])
+
+    max_y = max([x['bbox'][3] for x in data['boxes']])
+
+
+    #:
+     #   print('@@@', x['bbox'])
+
+
+    # 704 and 540
+
+
     test_path = pathlib.Path.cwd() / 'figure_10.png'
-    canvas_w, canvas_h = 1000, 1000
+    canvas_w, canvas_h = max_x+25, max_y+25
     canvas = numpy.zeros((canvas_h, canvas_w, 3), numpy.uint8)
     canvas[:, :] = (255, 255, 10)
 
