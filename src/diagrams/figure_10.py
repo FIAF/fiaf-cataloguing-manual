@@ -94,7 +94,7 @@ def render():
     test_path = pathlib.Path.cwd() / 'figure_10.png'
     canvas_w, canvas_h = 1000, 1000
     canvas = numpy.zeros((canvas_h, canvas_w, 3), numpy.uint8)
-    canvas[:, :] = (255, 255, 255)
+    canvas[:, :] = (255, 255, 10)
 
     for b in data['boxes']:
         x1, y1, x2, y2 = b['bbox']
@@ -105,9 +105,13 @@ def render():
         # add manual offsets here.
 
         ax = a['anchor']['a']['x']
+        ax += a['source_manual_x']
         ay = a['anchor']['a']['y']
+        ay += a['source_manual_y']
         bx = a['anchor']['b']['x']
+        bx += a['target_manual_x']
         by = a['anchor']['b']['y']
+        by += a['target_manual_y']
 
         if a['type'] == 'multi_v':
             ay, by = ay+10, by-10

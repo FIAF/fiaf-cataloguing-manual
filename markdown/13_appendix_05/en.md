@@ -289,6 +289,8 @@ arrow <-> from B4.s to B5.n
 arrow <-> right 0.2 from B3.e then up until even with B6 then right to B6.w
 ```
 
+![](/app/src/diagrams/figure_10.png)
+
 \paragraph{Model: Collection Aggregate Manifestation within a many-to-many Works/Variants-Manifestation database system} 
 \label{sec:collection_aggregate_manifestation_within_a_many_to_many} \
     
