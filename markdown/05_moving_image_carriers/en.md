@@ -8,7 +8,7 @@
 
 To avoid any confusion, "Item Components/Carriers" in this section is used to mean each individual reel, tape, or file that makes up the Item, e.g. a 4 reel film will have 4 Item Component/Carrier records associated with the one Item, one for each reel. This entity is not consistently named across institutions or systems - it is variously referred to as Carriers, Components, Units, Collect Copies, etc. 
 
-In addition, the term "Carrier" is used by some institutions to denote the physical container (i.e. the film can, videotape box, and sometimes hard drives. Details about this can be found in the next section [ADD LINK TO Section to be headed Moving Image Carriers/Containers]
+In addition, the term "Carrier" is used by some institutions to denote the physical container (i.e. the film can, videotape box, and sometimes hard drives). Details about this can be found in the next section [ADD LINK TO Section to be headed Moving Image Carriers/Containers]
 
 Item Components/Carriers are not mentioned in the EN15907 standard, and historically these have often been referenced, or data added in fields, within an Item or holdings record itself. That is also still the case on many holdings systems. For that reason they are not included in the hierarchy models at 0.2.1. Elements of description across Works, Variants, Manifestations, and Items. They are referenced as being amongst the "Item specifics".
 
@@ -16,11 +16,11 @@ However, it is recognised that since 2011 developments in standards such as RDA 
 
 The same logic and structures of EN15907 can be applied to Item Component/Carrier records of an Item, i.e. that they too can be linked to Agents (e.g. names of individual technicians doing preservation work on a reel), Events (e.g. Preservation Event), etc. If not structured as a child record of an Item then they could equally constitute an "Other relation" relationship - again, this is not specified in the Other relation section of EN15907 standard itself regarding Items, but is logically implicit.
 
-Institutions may use Item Components/Carriers and their relationship to Item differently, and may also vary in the levels of data captured, depending on an institution's requirements or cataloguing systems.
+Institutions may use Item Components/Carriers and their relationship to Item differently, and may also vary in the levels of data captured, depending on an institution's requirements or cataloguing systems. 
 
-Depending on the database and metadata structure in use, it can be collected at the Carrier level and then pulled from Carrier level to Item level for easier orientation or summarisation (e.g. total length).
+In some, depending on the database and metadata structure in use, it can be collected at the Component/Carrier level and then pulled from Component/Carrier level to Item level for easier orientation or summarisation (e.g. total length). While others are developing hybrid Item/Component records.
 
-Some elements which could be catalogued at Carrier level include:
+Some elements which could be catalogued at Component/Carrier level include:
 
 1. Base, e.g. Nitrate, Acetate
 2. Material type, e.g. Dup-positiv, Original-negative
@@ -42,14 +42,14 @@ NEW SECTION
 
 The individual film cans, videotape boxes, DVD boxes or sleeves, and hard drives in which the Moving Image Item Components/Carriers are stored. These usually have identification and location information physically attached on the objects themselves, e.g. barcodes, can labels, etc.
 
-This entity is not consistently named across institutions or systems - it is variously referred to as Containers, Carriers, Packages, etc. 
+This entity is not consistently named across institutions or systems - it is variously referred to as Containers, Carriers, or Packages, etc. 
 
 In some institutions' systems these exist as records that are linked/associated to Item Components or Items. In others the data is added to specific fields within the Item record.
 
-As with Item Components/Carriers, depending on the database and metadata structure in use, it can be collected at the Container/Carrier level and then pulled through from that level to display within the Item level for user convenience.
+As with Item Components/Carriers, depending on the database and metadata structure in use, it can be collected at the Container/Carrier level and then pulled through from that level to display within the Item level and/or the Item Component/ Carrier level for user convenience.
 
 
-It is possible to record technical data at the Container/Carrier level as it often pertains directly to a discrete barcoded physical object. 
+It is possible to record technical data at the Container/Carrier level as it often pertains directly to a discrete barcoded physical object. [NB. could remove this now as it is covered by text elsewhere and additional layout]
 
 Some elements which could be catalogued at Carrier level include:
 
@@ -57,6 +57,6 @@ barcode
 shelf number
 site location
 
-Institutions can have varying practices in their use Item Container/Carrier records. Some only use them for analogue moving image cataloguing, and not digital acquisitions (instead adding an actual link to the digital storage via the Item or Item Component) ; while others will create Container/Carrier records for the hard drive on which digital files sit. [Add in standard "It is for an institution to decide..." phrase here]
+Institutions can have varying practices in their use of Item Container/Carrier records. Some only use them for analogue moving image cataloguing, and not digital acquisitions (instead adding an actual link to the digital storage via the Item or Item Component) ; while others will also create Container/Carrier records for the hard drive on which digital files sit. [Add in standard "It is for an institution to decide..." phrase here]
 
-[INSERT IN VARIOUS EXAMPLES, E.G. PAUL'S PICNIC AT HANGING ROCK EG. + POSSIBLY BFI'S STRUCTURE FOR SAME FILM, + OTHERS; OPTIONS FOR ANALOGUE/DIGITAL ETC.]
+[INSERT IN VARIOUS EXAMPLES HERE, E.G. PAUL'S PICNIC AT HANGING ROCK EG. + OTHERS; OPTIONS FOR ANALOGUE/DIGITAL ETC.]
