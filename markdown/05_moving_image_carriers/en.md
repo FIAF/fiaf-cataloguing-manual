@@ -22,13 +22,13 @@ In some, depending on the database and metadata structure in use, it can be coll
 
 Some elements which could be catalogued at Component/Carrier level include:
 
-1. Base, e.g. Nitrate, Acetate
-2. Material type, e.g. Dup-positiv, Original-negative
-3. Colour, e.g. Black & White
-4. Aspect ratio, e.g. 1:1,35
-5. Length of each reel or carrier, e.g. meters, minutes
-6. Additional information on base type and stock if known
-7.  inspection sheet
+- Base, e.g. Nitrate, Acetate
+- Material type, e.g. Dup-positiv, Original-negative
+- Colour, e.g. Black & White
+- Aspect ratio, e.g. 1:1,35
+- Length of each reel or carrier, e.g. meters, minutes
+- Additional information on base type and stock if known
+- Inspection sheet
 
 Digital items are built following the same logic: one digital item can be made up from separate digital files (relating to each digitised reel), while an item can also consist of one carrier. Carrier does not equal the physical unit, where the file is stored (e.g. an LTO tape), but are linked via a UUID to the digital storage.
 
@@ -48,15 +48,14 @@ In some institutions' systems these exist as records that are linked/associated 
 
 As with Item Components/Carriers, depending on the database and metadata structure in use, it can be collected at the Container/Carrier level and then pulled through from that level to display within the Item level and/or the Item Component/ Carrier level for user convenience.
 
-
 It is possible to record technical data at the Container/Carrier level as it often pertains directly to a discrete barcoded physical object. [NB. could remove this now as it is covered by text elsewhere and additional layout]
 
 Some elements which could be catalogued at Carrier level include:
 
-barcode
-shelf number
-site location
+- Barcode
+- Shelf number
+- Site location
 
-Institutions can have varying practices in their use of Item Container/Carrier records. Some only use them for analogue moving image cataloguing, and not digital acquisitions (instead adding an actual link to the digital storage via the Item or Item Component) ; while others will also create Container/Carrier records for the hard drive on which digital files sit. [Add in standard "It is for an institution to decide..." phrase here]
+Institutions can have varying practices in their use of Item Container/Carrier records. Some only use them for analogue moving image cataloguing, and not digital acquisitions (instead adding an actual link to the digital storage via the Item or Item Component); while others use them in all instances and will also create Container/Carrier records for the hard drive on which digital files sit. [Add in standard "It is for an institution to decide..." phrase here]
 
 [INSERT IN VARIOUS EXAMPLES HERE, E.G. PAUL'S PICNIC AT HANGING ROCK EG. + OTHERS; OPTIONS FOR ANALOGUE/DIGITAL ETC.]
