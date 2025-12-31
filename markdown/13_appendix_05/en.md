@@ -363,9 +363,11 @@ See example below for The thick of it DVD boxed set:
 
 Alternatively, a model similar to \nameref{sec:collection_aggregate_manifestation_within_a_many_to_many} can be used, whereby a single Aggregate Manifestation links to the many individual Works/Variants in “part of” relationship:
 
+```{=latex}
 \begin{center}
 ![](/app/src/diagrams/figure_16.png){width=300px}
 \end{center}
+```
 
 Where this Serial Work–Monographic Work hierarchy structure does not exist, then a new aggregating Work may be created and linked via an associated contains/contained in relationship in line with models for any other Collection Aggregate.
 
