@@ -684,15 +684,7 @@ The boundaries between Manifestations and Events and structuring decisions will 
 Some system databases may not have the ability or full functionality to have Events records, but do have Manifestations; in which case they may make use of a wider list of Manifestation Types and have fields relating to EN15907 Events data embedded within the Manifestation record itself. These systems will be more likely to make use of a structure of multiple Manifestations rather than one Manifestation with multiple publication Events.
 For example:
 
-```pikchr
-W: box rad 5px "Work" at (2.5,1) 
-M1: box rad 5px "Theatrical Manifestation." "Germany, January 1995." "35mm film, 96 minutes, in German" at (0,0) fit
-M2: box rad 5px "Theatrical Manifestation." "Austria, March 1995." "35mm film, 96 minutes, in German" at (2.5,0) fit
-M3: box rad 5px "Theatrical Manifestation." "Switzerland, February 1995." "35mm film, 96 minutes, in German"  at (5,0) fit
-arrow down 0.2 from W.s then right until even with M1 then down to M1.n
-arrow from W.s to M2.n
-arrow down 0.2 from W.s then left until even with M3 then down to M3.n
-```
+![](/app/src/diagrams/figure_05.png)
 
 The EN15907 standard does not have date or release country as being core elements of a Manifestation, envisaging that information being in an associated Event. However, many systems do include those fields within their Manifestation records, as actual attributes of the Manifestation, as can be seen in some of the examples featured in \nameref{sec:examples_of_records}. In systems with no, or minimal, Events records capabilities it is the most logical alternative place to capture that important relevant data.
 
