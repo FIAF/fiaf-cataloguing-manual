@@ -359,44 +359,7 @@ There could then be a clarifying note on the Manifestation where necessary, i.e.
 
 See example below for The thick of it DVD boxed set:
 
-```pikchr
-B1: box rad 5px "The Thick of It" "(Work - Serial)" fit at (2,4) 
-
-B2: box rad 5px "The Thick of It" "The Complete Series 1-3 & Specials" "(DVD Manifestation) (Collection Aggregate)" fit at (0,3) 
-
-B3: box rad 5px "The Thick of It" "The Complete Series 1-3 & Specials" "(DVD Item)" fit at (0,0) 
-
-B4: box rad 5px "The Thick of It" "Episode 1" "(Work - Monographic)" fit at (2,2) 
-
-B5: box rad 5px "The Thick of It. Episode 1" "(TV transmission)" "Manifestation" fit at (2,1) 
-
-B6: box rad 5px "The Thick of It. Episode 1" "(VHS Cassette Item)" fit at (2,0) 
-
-B7: box rad 5px "The Thick of It" "Episode 2" "(Work - Monographic)" fit at (4,2) 
-
-B8: box rad 5px "The Thick of It. Episode 2" "(TV transmission)" "Manifestation" fit at (4,1) 
-
-B9: box rad 5px "The Thick of It. Episode 2" "(VHS Cassette Item)" fit at (4,0) 
-
-arrow <-> left from B1.w then left until even with B2 then down to B2.n
-
-arrow <-> from B2.s to B3.n
-
-arrow <-> from B2.s to B3.n
-
-arrow <-> from B1.s to B4.n
-
-arrow <-> from B4.s to B5.n
-
-arrow <-> from B5.s to B6.n
-
-arrow <-> right from B1.e then right until even with B7 then down to B7.n
-
-arrow <-> from B7.s to B8.n
-
-arrow <-> from B8.s to B9.n
-
-```
+![](/app/src/diagrams/figure_15.png)
 
 Alternatively, a model similar to \nameref{sec:collection_aggregate_manifestation_within_a_many_to_many} can be used, whereby a single Aggregate Manifestation links to the many individual Works/Variants in “part of” relationship:
 
