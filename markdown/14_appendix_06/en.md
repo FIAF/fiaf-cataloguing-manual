@@ -445,17 +445,7 @@ The EN15907 standard does not have date or release country as being core element
 
 Other systems may have developed and utilise Events more in line with EN15907 to reflect data about different releases in various countries, e.g.   
 
-```pikchr
-W: box rad 5px "Work" at (0,2) 
-M: box rad 5px "Theatrical Manifestation." "35mm film, 96 minutes, in German" at (0,0.75) fit 
-E1: box rad 5px "Theatrical publication." "Event in Germany," "January 1995" at (2.5,1.5) fit
-E2: box rad 5px "Theatrical publication." "Event in Austria," "March 1995" at (2.5,0.75) fit
-E3: box rad 5px "Theatrical publication." "Event in Switzerland," "February 1996 " at (2.5,0) fit
-arrow from W.s to M.n
-arrow right 0.2 from M.e then up until even with E1 then right to E1.w
-arrow from M.e to E2.w
-arrow right 0.2 from M.e then down until even with E3 then right to E3.w
-```
+![](/app/src/diagrams/figure_06.png)
 
 Structuring decisions around Manifestations and Events may also depend on the nature, size, use, and user needs of an institution’s moving image collections.
 
