@@ -363,33 +363,17 @@ See example below for The thick of it DVD boxed set:
 
 Alternatively, a model similar to \nameref{sec:collection_aggregate_manifestation_within_a_many_to_many} can be used, whereby a single Aggregate Manifestation links to the many individual Works/Variants in “part of” relationship:
 
-![](/app/src/diagrams/figure_16.png)
+```{=latex}
+\begin{center}
+```
+![](/app/src/diagrams/figure_16.png){width=300px}
+```{=latex}
+\end{center}
+```
 
 Where this Serial Work–Monographic Work hierarchy structure does not exist, then a new aggregating Work may be created and linked via an associated contains/contained in relationship in line with models for any other Collection Aggregate.
 
-```pikchr
-B1: box rad 5px "ER – The Complete First" "and Second Season" "(Work – Monographic)" fit at (0,3) 
-
-B2: box rad 5px "ER – The Complete First" "and Second Season" "(DVD Manifestation – 4 disc set)" "(Collection Aggregate)" fit at (0,0) 
-
-B3: box rad 5px "ER. Day One" "(Season 1, Episode 1)"  "(Work – Monographic)" fit at (3,3) 
-
-B4: box rad 5px "ER. Day One" "(TV transmission Manifestation)"  "22/09/1994" fit at (3,2) 
-
-B5: box rad 5px "ER. Going Home" "(Season 1, Episode 2)"  "(Work – Monographic)" fit at (3,1) 
-
-B6: box rad 5px "ER. Going Home" "(TV transmission Manifestation)"  "29/09/1994" fit at (3,0) 
-
-arrow <-> from B1.s to B2.n
-
-arrow <-> from B3.s to B4.n
-
-arrow <-> from B5.s to B6.n
-
-arrow <-> from B1.e to B3.w
-
-arrow right 0.2 from B1.e then down until even with B5 then right to B5.w
-```
+![](/app/src/diagrams/figure_17.png)
 
 For how this might be modelled in a flat or single hierarchy system see \nameref{sec:example_seven}
 
