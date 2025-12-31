@@ -363,31 +363,7 @@ See example below for The thick of it DVD boxed set:
 
 Alternatively, a model similar to \nameref{sec:collection_aggregate_manifestation_within_a_many_to_many} can be used, whereby a single Aggregate Manifestation links to the many individual Works/Variants in “part of” relationship:
 
-```pikchr
-B1: box rad 5px "ER (Work - Serial)" fit at (1,3) 
-
-B2: box rad 5px "ER. One Day" "(Season 1, Episode 1)" "(Work – Monographic)" fit at (0,2) 
-
-B3: box rad 5px "ER. Going Home" "(Season 1, Episode 2)" "(Work – Monographic)" fit at (2,2) 
-
-B4: box rad 5px "etc." invis fit at (4,2) 
-
-B5: box rad 5px "ER. The Complete First and Second Season" "(Season 1, Episode 2)" "(DVD Manifestation (Collection Aggregate)" fit at (1,1) 
-
-B6: box rad 5px "ER. The Complete First and Second Season" "(Season 1, Episode 2)" "(DVD Item)" fit at (1,0) 
-
-arrow left 0.2 from B1.w then left until even with B2 then down to B2.n
-
-arrow down 0.2 from B2.s then right until even with B5 then down to B5.n
-
-arrow right 0.2 from B1.e then right until even with B3 then down to B3.n
-
-arrow down 0.2 from B3.s then right until even with B5 then down to B5.n
-
-arrow down 0.34 from B4.s then right until even with B5 then down to B5.n
-
-arrow <-> from B5.s to B6.n
-```
+![](/app/src/diagrams/figure_16.png)
 
 Where this Serial Work–Monographic Work hierarchy structure does not exist, then a new aggregating Work may be created and linked via an associated contains/contained in relationship in line with models for any other Collection Aggregate.
 
