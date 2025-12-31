@@ -365,7 +365,9 @@ Alternatively, a model similar to \nameref{sec:collection_aggregate_manifestatio
 
 ```{=latex}
 \begin{center}
+```
 ![](/app/src/diagrams/figure_16.png){width=300px}
+```{=latex}
 \end{center}
 ```
 
