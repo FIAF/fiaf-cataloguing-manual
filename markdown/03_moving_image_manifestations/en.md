@@ -300,18 +300,18 @@ The aspect ratio (also known as the image ratio or projection ratio) is the proj
 Selection should be made from a controlled list of values.
 A suggested list of examples, which is open and not exhaustive, includes:
 
-- 1.33:1    
-- 1.37:1   
-- 1.19:1   
-- 2.55:1  
-- 2.35:1  
-- 1.66:1  
-- 1.75:1 
-- 1.85:1 
-- 2.39:1 
+- 1.33:1
+- 1.37:1
+- 1.19:1
+- 2.55:1
+- 2.35:1
+- 1.66:1
+- 1.75:1
+- 1.85:1
+- 2.39:1
 - 4:3
 
-Fuller details and examples of “aspect ratio” value lists can be found in the Technical Glossary of Common Audiovisual Terms (National Film and Sound Archive Australia), [INSERT LINK TO FIAF ADVANCED PROJECTION MANUAL HERE] and the PBCore essenceTrackAspect Ratio http://metadataregistry.org/concept/list/vocabulary_id/129.html
+Fuller details and examples of “aspect ratio” value lists can be found in the Technical Glossary of Common Audiovisual Terms (National Film and Sound Archive Australia), [The Advanced Projection Manual](https://iupress.org/9782960029611/the-advanced-projection-manual) and the PBCore essenceTrackAspect Ratio http://metadataregistry.org/concept/list/vocabulary_id/129.html
 
 
 The aspect ratio reflects the compositional intentions of the original content makers and the intended presentation of the moving image content.^[This definition from Academy Film Archive in-house glossary of terms, and OLAC, Moving Image Works, Part 3a: Operational Definitions (08/09) (PDF Document), http://olacinc.org/drupal/capc_files/MIW_3a.pdf.] If the aspect ratio of a Work/Variant is altered, moving image information is lost, creating a Manifestation/Item with different moving image content.^[OLAC, Moving Image Works, Part 3a: Operational Definitions (08/09) (PDF Document), http://olacinc.org/drupal/capc_files/MIW_3a.pdf] The Manifestation should reflect the projected image of the Work/Variant that it represents, rather than that on the Item.
