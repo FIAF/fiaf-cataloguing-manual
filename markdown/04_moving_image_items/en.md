@@ -153,7 +153,7 @@ Record the specific carrier type, selecting from a suitable controlled list.
 A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_item_specific_carrier_type}.
 
 \paragraph{Item Status} 
-\label{sec:item_status}} \
+\label{sec:item_status} \
 
 Description of the preservation or access status of the Item, for example Master, Viewing, etc. Select term from a controlled list.
 A suggested list, which is open and not exhaustive, can be found in \nameref{sec:item_preservation_access_status}.
@@ -170,7 +170,7 @@ A suggested list, which is open and not exhaustive, can be found in \nameref{sec
 Record only if this information is not captured at the Manifestation level or if required at the Item level by the system in use.
 
 \paragraph{Sound Channel Configuration}  
-\label{sec:item_sound_channel_configuration}} \
+\label{sec:item_sound_channel_configuration} \
 
 If the Item has sound, note here the track configuration (e.g., mono, stereo, etc.) Selection should be made from a controlled list of terms.
 
@@ -302,9 +302,11 @@ For example, DCPs (contained in MXF files) are comprised of a JPEG2000 video fil
 
 Examples for value lists:
 
-PBCore essenceTrackEncoding vocabulary: http://metadataregistry.org/concept/list/vocabulary_id/156.html
+PBCore essenceTrackEncoding vocabulary:    
+http://metadataregistry.org/concept/list/vocabulary_id/156.html
 
-EBUCore Video Compression Code: https://www.ebu.ch/metadata/cs/web/ebu_VideoCompressionCodeCS_p.xml.htm
+EBUCore Video Compression Code:    
+https://www.ebu.ch/metadata/cs/web/ebu_VideoCompressionCodeCS_p.xml.htm
 
 \paragraph{Audio Codec}    
 \label{sec:audio_codec} \
@@ -313,9 +315,11 @@ The audio compression standard used in the audio file, whether it is contained i
 
 Examples for value lists:
 
-PBCore essenceTrackEncoding vocabulary: http://metadataregistry.org/concept/list/vocabulary_id/156.html
+PBCore essenceTrackEncoding vocabulary:      
+http://metadataregistry.org/concept/list/vocabulary_id/156.html
 
-EBUCore Video Compression Code: https://www.ebu.ch/metadata/cs/web/ebu_VideoCompressionCodeCS_p.xml.htm
+EBUCore Video Compression Code:     
+https://www.ebu.ch/metadata/cs/web/ebu_VideoCompressionCodeCS_p.xml.htm
 
 \paragraph{Resolution}    
 \label{sec:resolution} \
@@ -325,7 +329,7 @@ Note whether the Item’s resolution is Standard Definition, High Definition, et
 \paragraph{Line Standard – Video}    
 \label{sec:line_standard_video} \
 
-Describes the number of scan lines which make up the image and indicates the res- olution, for example, 405, 525, 1080.
+Describes the number of scan lines which make up the image and indicates the resolution, for example, 405, 525, 1080.
 
 \paragraph{Bit Depth}    
 \label{sec:bit_depth} \
