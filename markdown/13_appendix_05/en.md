@@ -191,7 +191,7 @@ For Aggregate Manifestations record the length/duration of the whole, i.e. the t
 In addition there is the option to qualify this with details of the duration of each individual unit in either a Notes field, or in multiple occurrences of the duration fields, depending on what systems used permit or an institution decides.
 (See \nameref{sec:physical_extent_of_an_aggregate_manifestation} and \nameref{sec:duration_of_an_aggregate_manifestation})
 
-\subsubsection{Titling of Aggregates}  
+\subsection{Titling of Aggregates}  
 \label{sec:titling_of_aggregates}
 
 The title of the aggregating Work should reflect that of the Manifestation.
