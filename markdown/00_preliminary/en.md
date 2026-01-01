@@ -253,7 +253,7 @@ Models should be applied according to an institution’s system and also determi
 Where there is a user need or requirement, some institutions may also develop database systems that pull through some data elements sitting in fields in one hierarchical or linked level to display and be viewed within another, e.g. duration from a Manifestation being visible within a Work record, or location details sitting at the Carrier level also displaying through in the linked Item record.
 
 The full list of elements of description for each entity is set out in the following charts and diagrams, and in Chapters 1-3.
-See \nameref{sec:appendix_title} for examples of real records which contain these core elements (as well as others) across the hierarchies.
+See \nameref{sec:examples_of_records} for examples of real records which contain these core elements (as well as others) across the hierarchies.
 
 ![](/app/src/diagrams/figure_01.png)
 ![](/app/src/diagrams/figure_02.png)
