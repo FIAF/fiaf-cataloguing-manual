@@ -256,7 +256,7 @@ Manifestation1: Pre-release (censorship cuts) – Film – 35mm – sound positi
 \end{tcolorbox}
 ```
 
-\subsection{Theatrical distribution} 
+\subsubsection{Theatrical distribution} 
 \label{sec:theatrical_distribution} 
 
 A moving image Manifestation type representing Manifestations distributed and exhibited in cinema theatres. The classic examples are 35mm positive prints, or the DCP (Digital Cinema Package).
