@@ -719,33 +719,6 @@ Image negative
 Sound negative
 DCP
 
-\subsubsection{Manifestation/Item Colour Type} 
-\label{sec:manifestation_item_colour_type}
-
-Colour
-Colour + Black & White
-Tinted
-Black and white
-Black and white (tinted)
-Black and white (toned)
-Black and white (tinted and toned)
-Sepia
-
-\subsubsection{Manifestation/Item Colour Standard}
-\label{sec:manifestation_item_colour_standard} 
-
-Pathécolor
-Technicolor
-Kinemacolor
-Anscocolor
-Ferraniacolor
-Fujicolor
-Kodachrome
-
-Eastmancolor
-RGB
-YUV
-
 \subsubsection{Item Sound System}
 \label{sec:item_sound_system} 
 
