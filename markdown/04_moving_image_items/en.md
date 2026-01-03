@@ -281,9 +281,55 @@ Select from controlled list of terms, if possible, keep separate lists for analo
 \paragraph{Stock}    
 \label{sec:stock} \
 
-Describes the specific stock/brand on which the Item is captured, for example, Eastman Kodak, Fuji, 3M, etc. This element should be used for all media: film, video, audio, optical, digital tape, external hard drives.
-Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:item_stock}.
+Describes the specific stock/brand on which the Item is captured. This element should be used for all media: film, video, audio, optical, digital tape, external hard drives.
+Selection should be made from a controlled list of terms, e.g.:
+
+**FILM**
+
+Eastman Kodak
+Fuji
+Agfa
+
+**VIDEO**
+
+3M
+Agfa
+Agfa Gavaert
+Akai
+Ampex
+Ansco
+BASF
+Brifco
+Fuji
+Sony
+
+**AUDIO**
+
+Ampex
+Scotch
+3M
+Shamrock
+
+**OPTICAL**
+
+Maxell
+Memorex
+Philips
+Verbatim
+
+**DIGITAL TAPE**
+
+Fuji
+HP
+Oracle
+Sony
+
+**HARD DRIVES**
+
+Hitachi
+Seagate
+Toshiba
+Western Digital
 
 \paragraph{Stock Batch}    
 \label{sec:stock_batch} \
