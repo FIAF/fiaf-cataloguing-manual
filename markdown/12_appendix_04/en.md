@@ -666,19 +666,7 @@ Viewing
 Accessioned   
 On Loan  
 Status pending   
-Removed   
-
-\subsubsection{Manifestation/Item Sound Type}
-\label{sec:manifestation_item_sound_type} 
-
-Sound  
-Silent  
-Mute  
-Combined  
-Combined as Mute  
-Combined as Sound  
-Mixed  
-Temporary  
+Removed  
 
 \subsubsection{Manifestation/Item Sound Fixation Type}
 \label{sec:manifestation_item_sound_fixation_type} 
