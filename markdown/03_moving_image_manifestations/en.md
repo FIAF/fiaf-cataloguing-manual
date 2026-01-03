@@ -381,11 +381,28 @@ Colour is also the specific colours, tones, etc. (including black and white) pre
 
 It consists of a designation of the colour state and, optionally, of the description of the colour system.
 
-Record the colour state of a Manifestation, for example, Black and white (tinted), Colour, Colour + Black & White, etc. Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_item_colour_type}.
+Record the colour state of a Manifestation. Selection should be made from a controlled list of terms, e.g.:
+Colour
+Colour + Black & White
+Tinted
+Black and white
+Black and white (tinted)
+Black and white (toned)
+Black and white (tinted and toned)
+Sepia
 
-Optionally, if considered relevant, describe the system or process by which colour is fixed on the carrier or as part of the digital encoding, for example, Pathécolor, Technicolor, RGB etc. Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_item_colour_standard}.
+Optionally, if considered relevant, describe the system or process by which colour is fixed on the carrier or as part of the digital encoding. Selection should be made from a controlled list of terms, e.g.:
+Pathécolor
+Technicolor
+Kinemacolor
+Anscocolor
+Ferraniacolor
+Fujicolor
+Kodachrome
+Eastmancolor
+
+RGB
+YUV
 
 \subsubsection[Extent of a Manifestation{Extent of a Manifestation 
 \footnote {Partially based on EN 15907, 6.8 except for the physical components/units number, which is not provided for in the standard.}} 
