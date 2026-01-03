@@ -347,9 +347,15 @@ Sound characteristics are technical specifications relating to the placement of 
 
 Its description consists of a statement about the presence or absence of sound, and optionally, in case of presence, of the description of the method with which the sound has been fixed.
 
-Indicate the presence or absence of sound in the Manifestation, i.e. “sound,”, “silent,” “mute”.
-Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_item_sound_type}.
+Indicate the presence or absence of sound in the Manifestation. Selection should be made from a controlled list of terms, e.g.:
+Sound  
+Silent  
+Mute  
+Combined  
+Combined as Mute  
+Combined as Sound  
+Mixed  
+Temporary 
 
 Optionally, use a flag-type value indicating if the Manifestation includes recorded sound or not (i.e.: has sound: yes/no).
 
