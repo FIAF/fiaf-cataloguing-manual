@@ -362,8 +362,13 @@ Optionally, use a flag-type value indicating if the Manifestation includes recor
 \subparagraph{Sound Systems}
 \label{sec:sound_systems} \
 
-Describes the technical or proprietary system used to record the sound on a Manifestation/Item, for example, Dolby SR, Dolby Digital, etc. Select from a controlled list.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:item_sound_system}.
+Describes the technical or proprietary system used to record the sound on a Manifestation. Select from a controlled list, e.g.:
+Dolby SR
+Dolby Digital
+Mute
+Combined Magnetic Sound
+Combined Optical Sound
+VA RCA Duplex
 
 \subparagraph{Sound Channel Configuration}
 \label{sec:manifest_sound_channel_configuration} \
