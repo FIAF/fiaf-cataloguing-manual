@@ -350,59 +350,6 @@ Combined Magnetic Sound
 Combined Optical Sound
 VA RCA Duplex
 
-
-\subsubsection{Item Stock}
-\label{sec:item_stock} 
-
-This is a preliminary list, and not exhaustive.
-
-**FILM**
-
-Eastman Kodak
-Fuji
-Agfa
-
-**VIDEO**
-
-3M
-Agfa
-Agfa Gavaert
-Akai
-Ampex
-Ansco
-BASF
-Brifco
-Fuji
-Sony
-
-**AUDIO**
-
-Ampex
-Scotch
-3M
-Shamrock
-
-**OPTICAL**
-
-Maxell
-Memorex
-Philips
-Verbatim
-
-**DIGITAL TAPE**
-
-Fuji
-HP
-Oracle
-Sony
-
-**HARD DRIVES**
-
-Hitachi
-Seagate
-Toshiba
-Western Digital
-
 \subsection{Work/Variant Publication Types}
 \label{sec:work_variant_publication_types} 
 
