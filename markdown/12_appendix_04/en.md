@@ -725,17 +725,6 @@ Eastmancolor
 RGB
 YUV
 
-\subsubsection{Item Sound System}
-\label{sec:item_sound_system} 
-
-Dolby SR
-Dolby Digital
-Mute
-Combined Magnetic Sound
-Combined Optical Sound
-VA RCA Duplex
-
-
 \subsubsection{Item Stock}
 \label{sec:item_stock} 
 
