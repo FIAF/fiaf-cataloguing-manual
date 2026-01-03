@@ -155,8 +155,13 @@ A suggested list, which is open and not exhaustive, can be found in \nameref{sec
 \paragraph{Item Status} 
 \label{sec:item_status} \
 
-Description of the preservation or access status of the Item, for example Master, Viewing, etc. Select term from a controlled list.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:item_preservation_access_status}.
+Description of the preservation or access status of the Item. Select term from a controlled list, e.g.
+Master   
+Viewing   
+Accessioned   
+On Loan  
+Status pending   
+Removed
 
 \paragraph{Sound}  
 \label{sec:sound} \
