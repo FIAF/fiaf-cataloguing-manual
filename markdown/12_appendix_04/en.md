@@ -656,17 +656,7 @@ LTO6
 T10000D
 HDD (abbreviated for “external hard drive”)
 DVD-R
-Blu-Ray
-
-\subsubsection{Item Preservation/Access status}
-\label{sec:item_preservation_access_status} 
-
-Master   
-Viewing   
-Accessioned   
-On Loan  
-Status pending   
-Removed   
+Blu-Ray  
 
 \subsubsection{Manifestation/Item Sound Type}
 \label{sec:manifestation_item_sound_type} 
