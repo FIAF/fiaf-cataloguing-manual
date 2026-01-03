@@ -668,15 +668,6 @@ On Loan
 Status pending   
 Removed  
 
-\subsubsection{Manifestation/Item Sound Fixation Type}
-\label{sec:manifestation_item_sound_fixation_type} 
-
-Needle sound
-Optical
-Magnetic
-Analogue sound
-Digital
-
 \subsubsection{Manifestation Unit Types}
 \label{sec:manifestation_unit_types} 
 
