@@ -93,8 +93,21 @@ Optionally, if available, record a suitable repository identifier or a registere
 \footnote {Based on EN 15907, Instantiation type}} 
 \label{sec:item_item_element_type}
 
-Record the nature or function of the moving image Item, describing its place in the photochemical or digital production or duplication process, for example, “original negative,” “duplicate negative,” etc. Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:appendix_item_element_type}.
+Record the nature or function of the moving image Item, describing its place in the photochemical or digital production or duplication process. Selection should be made from a controlled list of terms, e.g.:
+Colour Positive
+Colour Negative
+Copper Toned Positive
+Cyan Matrix
+Direct BW Positive
+Original negative
+Duplicate negative
+Positive
+Original positive (reversal film)
+Duplicate positive
+Lavender
+Image negative
+Sound negative
+DCP
 
 \subsubsection{Item Specifics/Extent (e.g. physical/Digital description)} 
 \label{sec:item_specifics_extent} 
