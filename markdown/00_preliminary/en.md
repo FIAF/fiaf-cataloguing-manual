@@ -71,6 +71,13 @@ Knowledge of this historical context and development of materials can be useful 
 
 This manual is intended to address some of the limitations moving image archives face when using guidelines and systems developed primarily for general libraries.
 
+General library catalogues are built to support the discovery of a specific publication and its various editions.
+This discovery is facilitated by a focus on the creation of access points to author, title and/or subject.
+Many libraries catalogue through bibliographic utilities to pool effort by sharing records of these single publications.
+While this shared bibliographic model works well for libraries, since many will have exact copies of the same publication, it does not  provide all the functions that moving image archives need.
+Because moving image archives’ collections often include unique or rare holdings, such as pre-print elements, master prints, and unreleased material in addition to viewing copies, they need catalogues that go beyond the functions of a library catalogue to meet many of the collection management needs of archives.
+The FIAF Manual is intended to provide guidance in creating metadata or cataloguing records that fulfill these collection management functions.
+
 \subsection{Relationship of FIAF Cataloguing Rules to Functional Requirements of Bibliographic Records (FRBR), Resource Description and Access (RDA) and The European Standards Committee (CEN) Cinematographic Works Standard EN 15907} \label{sec:relationship_of_fiaf_cataloguing_rules_to_functional_requirements}
 
 The authors of this manual have chosen to adopt current standards and practices, such as those outlined in FRBR, RDA, and EN15907, while expanding them to be more specific and granular regarding the particular needs of moving image cataloguing. Listed below are some of the key attributes of these standards and their relationship to recommendations in the FIAF Cataloguing Manual.
@@ -236,15 +243,6 @@ Representation (or, principle of transcription)
 The basic principle of transcription is an area in which archival moving image cataloguing frequently deviates from traditional library cataloguing. Whereas traditional library cataloguers typically transcribe descriptive data directly from the physical item, this is not always the case in archival moving image cataloguing. Because of this, earlier moving image cataloguing rules and standards (FIAF, AMIM) have suggested the term “preferred” rather than “chief” source of filmographic information for representing moving images. The importance of reflecting the original details of a moving image work is a primary principle of organisation for moving image archives. This underlies another practice of moving image cataloguing, which was also recommended in the 1991 FIAF Rules, namely choosing the original release title in country of origin as the preferred title for a work. Other titles (e.g., translated titles, re-release or reissue titles, titles on the item or accompanying material, etc.), are recorded at the appropriate entity level, or designated as belonging to the appropriate entity, and linking mechanisms from other titles to the original release title should be utilised.
 
 Because, however, it is not always possible for a cataloguer to determine an original release title, guidelines are also provided for choice of the preferred title of the work when either: 1) the concept of original release title is not applicable (as in the case of unedited footage), or when 2) a cataloguer is unable, through research, to determine the original release title.
-
-General library catalogues are built to support the discovery of a specific publication and its various editions.
-This discovery is facilitated by a focus on the creation of access points to author, title and/or subject.
-Many libraries catalogue through bibliographic utilities to pool effort by sharing records of these single publications.
-While this shared bibliographic model works well for libraries, since many will have exact copies of the same publication, it does not  provide all the functions that moving image archives need.
-Because moving image archives’ collections often include unique or rare holdings, such as pre-print elements, master prints, and unreleased material in addition to viewing copies, they need catalogues that go beyond the functions of a library catalogue to meet many of the collection management needs of archives.
-The FIAF Manual is intended to provide guidance in creating metadata or cataloguing records that fulfill these collection management functions.
-
-
 
 \newpage
 \section{Preliminary Notes}
