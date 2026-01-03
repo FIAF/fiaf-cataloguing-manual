@@ -1,0 +1,116 @@
+{
+  "boxes": [
+    {
+      "text": "ER – The Complete First\nand Second Season\n(Work – Monographic)",
+      "weight": "Light",
+      "size": 15,
+      "x_step": 275,
+      "y_step": 25,
+      "interval": 15,
+      "padding": 10
+    },
+    {
+      "text": "ER – The Complete First\nand Second Season\n(DVD Manifestation\n4 disc set)\n(Collection Aggregate)",
+      "weight": "Light",
+      "size": 15,
+      "x_step": 25,
+      "y_step": 400,
+      "interval": 15,
+      "padding": 10
+    },
+    {
+      "text": "ER. Day One\n(Season 1, Episode 1)\n(Work – Monographic)",
+      "weight": "Light",
+      "size": 15,
+      "x_step": 250,
+      "y_step": 200,
+      "interval": 15,
+      "padding": 10
+    },
+    {
+      "text": "ER. Day One\n(TV transmission\nManifestation)\n22/09/1994",
+      "weight": "Light",
+      "size": 15,
+      "x_step": 250,
+      "y_step": 400,
+      "interval": 15,
+      "padding": 10
+    },
+    {
+      "text": "ER. Going Home\n(Season 1, Episode 2)\n(Work – Monographic)",
+      "weight": "Light",
+      "size": 15,
+      "x_step": 450,
+      "y_step": 200,
+      "interval": 15,
+      "padding": 10
+    },
+    {
+      "text": "ER. Going Home\n(TV transmission\nManifestation)\n29/09/1994",
+      "weight": "Light",
+      "size": 15,
+      "x_step": 450,
+      "y_step": 400,
+      "interval": 15,
+      "padding": 10
+    }
+  ],
+
+  "arrows": [
+    {
+      "type": "elbow_r",
+      "source_box": 0,
+      "source_axis": "l",
+      "source_manual_x": -10,
+      "source_manual_y": 0,
+      "target_box": 1,
+      "target_axis": "t",
+      "target_manual_x": 0,
+      "target_manual_y": -10
+    },
+    {
+      "type": "multi_v",
+      "source_box": 0,
+      "source_axis": "b",
+      "source_manual_x": 0,
+      "source_manual_y": 0,
+      "target_box": 2,
+      "target_axis": "t",
+      "target_manual_x": 0,
+      "target_manual_y": 0
+    },
+    {
+      "type": "elbow_l",
+      "source_box": 0,
+      "source_axis": "r",
+      "source_manual_x": 10,
+      "source_manual_y": 0,
+      "target_box": 4,
+      "target_axis": "t",
+      "target_manual_x": 0,
+      "target_manual_y": -10
+    },
+    {
+      "type": "multi_v",
+      "source_box": 2,
+      "source_axis": "b",
+      "source_manual_x": 0,
+      "source_manual_y": 0,
+      "target_box": 3,
+      "target_axis": "t",
+      "target_manual_x": 0,
+      "target_manual_y": 0
+    },
+    {
+      "type": "multi_v",
+      "source_box": 4,
+      "source_axis": "b",
+      "source_manual_x": 0,
+      "source_manual_y": 0,
+      "target_box": 5,
+      "target_axis": "t",
+      "target_manual_x": 0,
+      "target_manual_y": 0
+    }
+  ]
+}

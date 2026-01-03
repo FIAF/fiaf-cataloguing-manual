@@ -12,7 +12,7 @@ header-includes:
 \section*{Dedication}
 \label{sec:dedication}
     
-This manual is dedicated to Christian Dimitriu (1945-2016), whose contributions to the field of moving image archiving and FIAF, are immeasurable; and to Ronny Loewy (1946-2012), whose knowledge of moving image metadata standards was a primary and crucial source of information during the development of this publication; and to Laurent Bismuth (1965-2021), a passionate advocate of CEN 15907 standard whose extensive cataloguing knowledge and expertise and contributions in discussions during the compilation of this publication were invaluable.
+This manual is dedicated to **Christian Dimitriu** (1945-2016), whose contributions to the field of moving image archiving and FIAF, are immeasurable; and to **Ronny Loewy** (1946-2012), whose knowledge of moving image metadata standards was a primary and crucial source of information during the development of this publication; and to **Laurent Bismuth** (1965-2021), a passionate advocate of CEN 15907 standard whose extensive cataloguing knowledge and expertise and contributions in discussions during the compilation of this publication were invaluable.
 
 \newpage
 \section*{Acknowledgements}
@@ -253,12 +253,12 @@ Models should be applied according to an institution’s system and also determi
 Where there is a user need or requirement, some institutions may also develop database systems that pull through some data elements sitting in fields in one hierarchical or linked level to display and be viewed within another, e.g. duration from a Manifestation being visible within a Work record, or location details sitting at the Carrier level also displaying through in the linked Item record.
 
 The full list of elements of description for each entity is set out in the following charts and diagrams, and in Chapters 1-3.
-See Appendix I, Examples of records containing core elements in the different levels of hierarchy for examples of real records which contain these core elements (as well as others) across the hierarchies.
+See \nameref{sec:examples_of_records} for examples of real records which contain these core elements (as well as others) across the hierarchies.
 
-![](/app/src/diagrams/0.2.1-A.png)
-![](/app/src/diagrams/0.2.1-B.png)
-![](/app/src/diagrams/0.2.1-C.png)
-![](/app/src/diagrams/0.2.1-D.png)
+![](/app/src/diagrams/figure_01.png)
+![](/app/src/diagrams/figure_02.png)
+![](/app/src/diagrams/figure_03.png)
+![](/app/src/diagrams/figure_04.png)
 
 \newpage
 *Work/Manifestation/Item.

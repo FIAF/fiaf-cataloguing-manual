@@ -703,18 +703,18 @@ The aspect ratio (also known as the image ratio or projection ratio) is the proj
 Selection should be made from a controlled list of values.
 A suggested list of examples, which is open and not exhaustive, includes:
 
-- 1.33:1    
-- 1.37:1   
-- 1.19:1   
-- 2.55:1  
-- 2.35:1  
-- 1.66:1  
-- 1.75:1 
-- 1.85:1 
-- 2.39:1 
+- 1.33:1
+- 1.37:1
+- 1.19:1
+- 2.55:1
+- 2.35:1
+- 1.66:1
+- 1.75:1
+- 1.85:1
+- 2.39:1
 - 4:3
 
-Fuller details and examples of “aspect ratio” value lists can be found in the Technical Glossary of Common Audiovisual Terms (National Film and Sound Archive Australia), [INSERT LINK TO FIAF ADVANCED PROJECTION MANUAL HERE] and the PBCore essenceTrackAspect Ratio http://metadataregistry.org/concept/list/vocabulary_id/129.html
+Fuller details and examples of “aspect ratio” value lists can be found in the Technical Glossary of Common Audiovisual Terms (National Film and Sound Archive Australia), [The Advanced Projection Manual](https://iupress.org/9782960029611/the-advanced-projection-manual) and the PBCore essenceTrackAspect Ratio http://metadataregistry.org/concept/list/vocabulary_id/129.html
 
 
 The aspect ratio reflects the compositional intentions of the original content makers and the intended presentation of the moving image content.^[This definition from Academy Film Archive in-house glossary of terms, and OLAC, Moving Image Works, Part 3a: Operational Definitions (08/09) (PDF Document), http://olacinc.org/drupal/capc_files/MIW_3a.pdf.] If the aspect ratio of a Work/Variant is altered, moving image information is lost, creating a Manifestation/Item with different moving image content.^[OLAC, Moving Image Works, Part 3a: Operational Definitions (08/09) (PDF Document), http://olacinc.org/drupal/capc_files/MIW_3a.pdf] The Manifestation should reflect the projected image of the Work/Variant that it represents, rather than that on the Item.
@@ -1087,31 +1087,13 @@ The boundaries between Manifestations and Events and structuring decisions will 
 Some system databases may not have the ability or full functionality to have Events records, but do have Manifestations; in which case they may make use of a wider list of Manifestation Types and have fields relating to EN15907 Events data embedded within the Manifestation record itself. These systems will be more likely to make use of a structure of multiple Manifestations rather than one Manifestation with multiple publication Events.
 For example:
 
-```pikchr
-W: box rad 5px "Work" at (2.5,1) 
-M1: box rad 5px "Theatrical Manifestation." "Germany, January 1995." "35mm film, 96 minutes, in German" at (0,0) fit
-M2: box rad 5px "Theatrical Manifestation." "Austria, March 1995." "35mm film, 96 minutes, in German" at (2.5,0) fit
-M3: box rad 5px "Theatrical Manifestation." "Switzerland, February 1995." "35mm film, 96 minutes, in German"  at (5,0) fit
-arrow down 0.2 from W.s then right until even with M1 then down to M1.n
-arrow from W.s to M2.n
-arrow down 0.2 from W.s then left until even with M3 then down to M3.n
-```
+![](/app/src/diagrams/figure_05.png)
 
 The EN15907 standard does not have date or release country as being core elements of a Manifestation, envisaging that information being in an associated Event. However, many systems do include those fields within their Manifestation records, as actual attributes of the Manifestation, as can be seen in some of the examples featured in \nameref{sec:examples_of_records}. In systems with no, or minimal, Events records capabilities it is the most logical alternative place to capture that important relevant data.
 
 Other systems may have developed and utilise Events more in line with EN15907 to reflect data about different releases in various countries, e.g.   
 
-```pikchr
-W: box rad 5px "Work" at (0,2) 
-M: box rad 5px "Theatrical Manifestation." "35mm film, 96 minutes, in German" at (0,0.75) fit 
-E1: box rad 5px "Theatrical publication." "Event in Germany," "January 1995" at (2.5,1.5) fit
-E2: box rad 5px "Theatrical publication." "Event in Austria," "March 1995" at (2.5,0.75) fit
-E3: box rad 5px "Theatrical publication." "Event in Switzerland," "February 1996 " at (2.5,0) fit
-arrow from W.s to M.n
-arrow right 0.2 from M.e then up until even with E1 then right to E1.w
-arrow from M.e to E2.w
-arrow right 0.2 from M.e then down until even with E3 then right to E3.w
-```
+![](/app/src/diagrams/figure_06.png)
 
 Structuring decisions around Manifestations and Events may also depend on the nature, size, use, and user needs of an institution’s moving image collections.
 
