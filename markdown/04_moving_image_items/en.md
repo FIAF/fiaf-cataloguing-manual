@@ -156,6 +156,7 @@ A suggested list, which is open and not exhaustive, can be found in \nameref{sec
 \label{sec:item_status} \
 
 Description of the preservation or access status of the Item. Select term from a controlled list, e.g.  
+
 Master   
 Viewing   
 Accessioned   
