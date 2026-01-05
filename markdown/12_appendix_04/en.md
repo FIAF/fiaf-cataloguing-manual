@@ -295,24 +295,6 @@ Disc
 File
 Digital tape
 
-\subsubsection{Item Element Type}
-\label{sec:appendix_item_element_type}
-
-Colour Positive
-Colour Negative
-Copper Toned Positive
-Cyan Matrix
-Direct BW Positive
-Original negative
-Duplicate negative
-Positive
-Original positive (reversal film)
-Duplicate positive
-Lavender
-Image negative
-Sound negative
-DCP
-
 \subsubsection{Manifestation/Item Colour Type} 
 \label{sec:manifestation_item_colour_type}
 
