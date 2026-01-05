@@ -78,9 +78,12 @@ While this shared bibliographic model works well for libraries, since many will 
 Because moving image archives’ collections often include unique or rare holdings, such as pre-print elements, master prints, and unreleased material in addition to viewing copies, they need catalogues that go beyond the functions of a library catalogue to meet many of the collection management needs of archives.
 The FIAF Manual is intended to provide guidance in creating metadata or cataloguing records that fulfill these collection management functions.
 
+It is recognised that institutions use a variety of systems and data structures and may find it difficult to implement far-ranging changes in their cataloguing practices. The revisions suggested in this manual will help archives harmonise their practices with related standards, models, and schema as far as possible.
+
 \subsection{Relationship of FIAF Cataloguing Rules to Functional Requirements of Bibliographic Records (FRBR), Resource Description and Access (RDA) and The European Standards Committee (CEN) Cinematographic Works Standard EN 15907} \label{sec:relationship_of_fiaf_cataloguing_rules_to_functional_requirements}
 
-The authors of this manual have chosen to adopt current standards and practices, such as those outlined in FRBR, RDA, and EN15907, while expanding them to be more specific and granular regarding the particular needs of moving image cataloguing. Listed below are some of the key attributes of these standards and their relationship to recommendations in the FIAF Cataloguing Manual.
+The authors of this manual have chosen to focus on current standards and practices, such as those outlined in FRBR, RDA, and EN15907, while expanding them to be more specific and granular regarding the particular needs of moving image cataloguing. Listed below are some of the key attributes of these standards and their relationship to recommendations in the FIAF Cataloguing Manual.
+
 
 1. The conceptual model Functional Requirements for Bibliographic Records (FRBR), published in 1998 by the International Federation of Libraries Association. FRBR is one of the models underlying RDA: Resource Description and Access^[The other two conceptual models are FRAD (Functional Requirements for Authority Data), [http://www.ifla.org/node/7923](http://www.ifla.org/node/7923) and FRSAD Functional Requirements for Subject Authority Data, [http://www.ifla.org/node/1297](http://www.ifla.org/node/1297).], and it provides “a framework that identifies and clearly defines the entities of interest to users of bibliographic records, the attributes of each entity, and the types of relationships that operate between entities.”^[FRBR Final Reports, p. 3.]
     
