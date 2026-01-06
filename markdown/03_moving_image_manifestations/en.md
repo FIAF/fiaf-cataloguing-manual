@@ -750,17 +750,28 @@ Sound characteristics are technical specifications relating to the placement of 
 
 Its description consists of a statement about the presence or absence of sound, and optionally, in case of presence, of the description of the method with which the sound has been fixed.
 
-Indicate the presence or absence of sound in the Manifestation, i.e. “sound,”, “silent,” “mute”.
-Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_item_sound_type}.
+Indicate the presence or absence of sound in the Manifestation. Selection should be made from a controlled list of terms, e.g.:
+Sound  
+Silent  
+Mute  
+Combined  
+Combined as Mute  
+Combined as Sound  
+Mixed  
+Temporary 
 
 Optionally, use a flag-type value indicating if the Manifestation includes recorded sound or not (i.e.: has sound: yes/no).
 
 \subparagraph{Sound Systems}
 \label{sec:sound_systems} \
 
-Describes the technical or proprietary system used to record the sound on a Manifestation/Item, for example, Dolby SR, Dolby Digital, etc. Select from a controlled list.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:item_sound_system}.
+Describes the technical or proprietary system used to record the sound on a Manifestation. Select from a controlled list, e.g.:
+Dolby SR
+Dolby Digital
+Mute
+Combined Magnetic Sound
+Combined Optical Sound
+VA RCA Duplex
 
 \subparagraph{Sound Channel Configuration}
 \label{sec:manifest_sound_channel_configuration} \
@@ -768,8 +779,12 @@ A suggested list, which is open and not exhaustive, can be found in \nameref{sec
 If the Manifestation has sound, note here the track configuration (e.g., mono, stereo, etc.).
 Selection should be made from a controlled list of terms.
 
-In case of presence of sound, optionally, if considered relevant, record the name of the physical principle of sound recording, for example, “Needle,”, “Optical”, “Magnetic” etc. Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_item_sound_fixation_type}.
+In case of presence of sound, optionally, if considered relevant, record the name of the physical principle of sound recording. Selection should be made from a controlled list of terms, e.g.:
+Needle sound
+Optical
+Magnetic
+Analogue sound
+Digital
 
 If the Work/Variant associated with the Manifestation in hand had sound originally, but the Manifestation lacks sound, describe it as silent (or mute) and give a note to that effect.^[Based on AMIM2 5C3.]
 

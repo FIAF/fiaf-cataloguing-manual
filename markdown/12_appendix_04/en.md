@@ -260,28 +260,7 @@ Viewing
 Accessioned   
 On Loan  
 Status pending   
-Removed   
-
-\subsubsection{Manifestation/Item Sound Type}
-\label{sec:manifestation_item_sound_type} 
-
-Sound  
-Silent  
-Mute  
-Combined  
-Combined as Mute  
-Combined as Sound  
-Mixed  
-Temporary  
-
-\subsubsection{Manifestation/Item Sound Fixation Type}
-\label{sec:manifestation_item_sound_fixation_type} 
-
-Needle sound
-Optical
-Magnetic
-Analogue sound
-Digital
+Removed  
 
 \subsubsection{Manifestation Unit Types}
 \label{sec:manifestation_unit_types} 
@@ -313,15 +292,57 @@ Image negative
 Sound negative
 DCP
 
-\subsubsection{Item Sound System}
-\label{sec:item_sound_system} 
+\subsubsection{Item Stock}
+\label{sec:item_stock} 
 
-Dolby SR
-Dolby Digital
-Mute
-Combined Magnetic Sound
-Combined Optical Sound
-VA RCA Duplex
+This is a preliminary list, and not exhaustive.
+
+**FILM**
+
+Eastman Kodak
+Fuji
+Agfa
+
+**VIDEO**
+
+3M
+Agfa
+Agfa Gavaert
+Akai
+Ampex
+Ansco
+BASF
+Brifco
+Fuji
+Sony
+
+**AUDIO**
+
+Ampex
+Scotch
+3M
+Shamrock
+
+**OPTICAL**
+
+Maxell
+Memorex
+Philips
+Verbatim
+
+**DIGITAL TAPE**
+
+Fuji
+HP
+Oracle
+Sony
+
+**HARD DRIVES**
+
+Hitachi
+Seagate
+Toshiba
+Western Digital
 
 \subsection{Work/Variant Publication Types}
 \label{sec:work_variant_publication_types} 

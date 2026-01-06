@@ -177,8 +177,15 @@ A suggested list, which is open and not exhaustive, can be found in \nameref{sec
 Technical specifications relating to the fixation of sound in a moving image Manifestation/Item (see \nameref{sec:sound_characteristics_of_a_manifestation}).
 This element is for high-level description of sound on the item; i.e., noting whether it has sound, is silent, etc.
 
-Indicate the presence or absence of sound in the Manifestation/Item, i.e. “sound,” “silent,” “mute”, “combined” or “mixed” etc. Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_item_sound_type}.
+Indicate the presence or absence of sound in the Item. Selection should be made from a controlled list of terms, e.g.:
+Sound  
+Silent  
+Mute  
+Combined  
+Combined as Mute  
+Combined as Sound  
+Mixed  
+Temporary 
 
 Record only if this information is not captured at the Manifestation level or if required at the Item level by the system in use.
 
@@ -192,8 +199,13 @@ If the Item has sound, note here the track configuration (e.g., mono, stereo, et
 
 See also \nameref{sec:sound_characteristics_of_a_manifestation}
 
-Describes the technical or proprietary system used to record the sound on a Manifestation/Item, for example, Dolby SR, Dolby Digital, etc. Select from a controlled list.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:item_sound_system}.
+Describes the technical or proprietary system used to record the sound on a Item. Select from a controlled list, e.g.:
+Dolby SR
+Dolby Digital
+Mute
+Combined Magnetic Sound
+Combined Optical Sound
+VA RCA Duplex
 
 \paragraph{Colour}   
 \label{sec:colour} \
