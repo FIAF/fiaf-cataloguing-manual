@@ -295,32 +295,23 @@ Disc
 File
 Digital tape
 
-\subsubsection{Manifestation/Item Colour Type} 
-\label{sec:manifestation_item_colour_type}
+\subsubsection{Item Element Type}
+\label{sec:appendix_item_element_type}
 
-Colour
-Colour + Black & White
-Tinted
-Black and white
-Black and white (tinted)
-Black and white (toned)
-Black and white (tinted and toned)
-Sepia
-
-\subsubsection{Manifestation/Item Colour Standard}
-\label{sec:manifestation_item_colour_standard} 
-
-Pathécolor
-Technicolor
-Kinemacolor
-Anscocolor
-Ferraniacolor
-Fujicolor
-Kodachrome
-
-Eastmancolor
-RGB
-YUV
+Colour Positive
+Colour Negative
+Copper Toned Positive
+Cyan Matrix
+Direct BW Positive
+Original negative
+Duplicate negative
+Positive
+Original positive (reversal film)
+Duplicate positive
+Lavender
+Image negative
+Sound negative
+DCP
 
 \subsubsection{Item Sound System}
 \label{sec:item_sound_system} 
