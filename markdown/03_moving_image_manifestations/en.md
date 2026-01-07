@@ -846,8 +846,15 @@ A hard-disk stored film in 3 files
 \end{tcolorbox}
 ```
 
-Record the number of the logical units of a Manifestation in Arabic numerals, and, if necessary, specify the type of unit, for example, reel, roll, disc, file, etc. Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_unit_types}.
+Record the number of the logical units of a Manifestation in Arabic numerals, and, if necessary, specify the type of unit. Selection should be made from a controlled list of terms, e.g:
+Reel
+Roll
+Cassette
+Cartridge
+Loop
+Disc
+File
+Digital tape
 
 If the number of the logical units of a Manifestation is uncertain, use a question mark following the unit count^[AMIM2, 5B5, p.9] or record the uncertain number preceded by “approximately.”^[RDA: 3.4.0.4]
 
