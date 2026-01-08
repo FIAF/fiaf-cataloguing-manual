@@ -262,18 +262,6 @@ On Loan
 Status pending   
 Removed  
 
-\subsubsection{Manifestation Unit Types}
-\label{sec:manifestation_unit_types} 
-
-Reel
-Roll
-Cassette
-Cartridge
-Loop
-Disc
-File
-Digital tape
-
 \subsubsection{Item Element Type}
 \label{sec:appendix_item_element_type}
 
