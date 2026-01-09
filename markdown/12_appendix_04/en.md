@@ -250,17 +250,28 @@ LTO6
 T10000D
 HDD (abbreviated for “external hard drive”)
 DVD-R
-Blu-Ray
+Blu-Ray  
 
-\subsubsection{Item Preservation/Access status}
-\label{sec:item_preservation_access_status} 
+\subsubsection{Manifestation/Item Sound Fixation Type}
+\label{sec:manifestation_item_sound_fixation_type} 
 
-Master   
-Viewing   
-Accessioned   
-On Loan  
-Status pending   
-Removed  
+Needle sound
+Optical
+Magnetic
+Analogue sound
+Digital
+
+\subsubsection{Manifestation Unit Types}
+\label{sec:manifestation_unit_types} 
+
+Reel
+Roll
+Cassette
+Cartridge
+Loop
+Disc
+File
+Digital tape
 
 \subsubsection{Item Element Type}
 \label{sec:appendix_item_element_type}
