@@ -93,8 +93,21 @@ Optionally, if available, record a suitable repository identifier or a registere
 \footnote {Based on EN 15907, Instantiation type}} 
 \label{sec:item_item_element_type}
 
-Record the nature or function of the moving image Item, describing its place in the photochemical or digital production or duplication process, for example, “original negative,” “duplicate negative,” etc. Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:appendix_item_element_type}.
+Record the nature or function of the moving image Item, describing its place in the photochemical or digital production or duplication process. Selection should be made from a controlled list of terms, e.g.:
+Colour Positive
+Colour Negative
+Copper Toned Positive
+Cyan Matrix
+Direct BW Positive
+Original negative
+Duplicate negative
+Positive
+Original positive (reversal film)
+Duplicate positive
+Lavender
+Image negative
+Sound negative
+DCP
 
 \subsubsection{Item Specifics/Extent (e.g. physical/Digital description)} 
 \label{sec:item_specifics_extent} 
@@ -170,8 +183,15 @@ Removed
 Technical specifications relating to the fixation of sound in a moving image Manifestation/Item (see \nameref{sec:sound_characteristics_of_a_manifestation}).
 This element is for high-level description of sound on the item; i.e., noting whether it has sound, is silent, etc.
 
-Indicate the presence or absence of sound in the Manifestation/Item, i.e. “sound,” “silent,” “mute”, “combined” or “mixed” etc. Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_item_sound_type}.
+Indicate the presence or absence of sound in the Item. Selection should be made from a controlled list of terms, e.g.:
+Sound  
+Silent  
+Mute  
+Combined  
+Combined as Mute  
+Combined as Sound  
+Mixed  
+Temporary 
 
 Record only if this information is not captured at the Manifestation level or if required at the Item level by the system in use.
 
@@ -185,8 +205,13 @@ If the Item has sound, note here the track configuration (e.g., mono, stereo, et
 
 See also \nameref{sec:sound_characteristics_of_a_manifestation}
 
-Describes the technical or proprietary system used to record the sound on a Manifestation/Item, for example, Dolby SR, Dolby Digital, etc. Select from a controlled list.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:item_sound_system}.
+Describes the technical or proprietary system used to record the sound on a Item. Select from a controlled list, e.g.:
+Dolby SR
+Dolby Digital
+Mute
+Combined Magnetic Sound
+Combined Optical Sound
+VA RCA Duplex
 
 \paragraph{Colour}   
 \label{sec:colour} \
@@ -287,9 +312,55 @@ Select from controlled list of terms, if possible, keep separate lists for analo
 \paragraph{Stock}    
 \label{sec:stock} \
 
-Describes the specific stock/brand on which the Item is captured, for example, Eastman Kodak, Fuji, 3M, etc. This element should be used for all media: film, video, audio, optical, digital tape, external hard drives.
-Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:item_stock}.
+Describes the specific stock/brand on which the Item is captured. This element should be used for all media: film, video, audio, optical, digital tape, external hard drives.
+Selection should be made from a controlled list of terms, e.g.:
+
+**FILM**
+
+Eastman Kodak
+Fuji
+Agfa
+
+**VIDEO**
+
+3M
+Agfa
+Agfa Gavaert
+Akai
+Ampex
+Ansco
+BASF
+Brifco
+Fuji
+Sony
+
+**AUDIO**
+
+Ampex
+Scotch
+3M
+Shamrock
+
+**OPTICAL**
+
+Maxell
+Memorex
+Philips
+Verbatim
+
+**DIGITAL TAPE**
+
+Fuji
+HP
+Oracle
+Sony
+
+**HARD DRIVES**
+
+Hitachi
+Seagate
+Toshiba
+Western Digital
 
 \paragraph{Stock Batch}    
 \label{sec:stock_batch} \
