@@ -10,8 +10,8 @@
 
 TODO?
 
-\subsection{7.1 Events (e.g., IPR registration, screenings, awards, etc.)}
-\label{sec:7.1_Events_(e.g.,_IPR registration,_screenings,_awards,_etc.)} 
+\subsection{Events (e.g., IPR registration, screenings, awards, etc.)}
+\label{sec:events_summary} 
 
 An Event characterises occurrences in the lifecycle of a moving image Work, Variant, Manifestation, or Item. In addition, instances of any Event type can have Agent and "Other" relationships.
 
@@ -100,16 +100,15 @@ Record all the existing relationships of a Publication Event, if the information
 
 Publication Event information consists of the following sub-elements:
 
-- Publication type  
-- Publication date  
-- Region  
-
+- Publication type
+- Publication date
+- Region
 - Publication type
 
 Record the Publication type for Manifestations, for example, “pre-release,” “theatrical distribution,” etc. Selection should be made from a controlled list of terms. See \nameref{sec:manifestation_publication_types}.
 
 \subsection{Manifestation Publication Types}
-\label{sec:manifestation_publication_types}
+\label{sec:publication}
  
 Release  
 Publication  
@@ -154,10 +153,10 @@ Record all the existing relationships of a Publication Event, if the information
 
 Award(s) or Nomination(s) Event information consists of the following sub-elements:
 
-- Award(s)/Nomination(s) date  
-- Nomination only  
-- Award name  
-- Achievement  
+- Award(s)/Nomination(s) date
+- Nomination only
+- Award name
+- Achievement
 
 - Award(s)/Nomination(s) date
 Record the date the award was bestowed on an Agent associated with the Work, Variant or Manifestation. (Dates should be formatted according to ISO 8601 or some other recognised standard.)
@@ -185,13 +184,13 @@ Record all the existing relationships of a Production/Publication Event, if the 
 
 Production Event information consists of the following sub-elements:
 
-- Production Event type  
-- Location  
-- Region  
-- Year/Date  
-- Event details  
-
 - Production Event type
+- Location
+- Region
+- Year/Date
+- Event details
+- Production Event type
+
 Selection should be made from a controlled list of values.  See \nameref{sec:production_event_types}.
 
 \subsubsection{Production Event Types} 
@@ -215,8 +214,8 @@ The year/date or time-span during which the event took place. Dates should be fo
 - Event details
 Any further information about the event either in plain textual form, or as an instance of a data type from another schema
 
-\subsubsection{Rights/Copyright/IPR Registration}  
-\footnote {EN 15907 6.15 IPR Registration, pp. 23-24}
+\subsubsection{Rights/Copyright/IPR Registration
+\footnote {EN 15907 6.15 IPR Registration, pp. 23-24}}
 \label{sec:values_rights_copyright_ipr_registration}
 
 These are optional, and it is for an institution to choose whether it has the resources or requirement to compile rights data. Further more detailed information on the subject of rights/copyright/IPR registration can be found in \nameref{sec:appendix_rights_copyright_ipr_registration}.
@@ -229,11 +228,11 @@ Record all the existing relationships of a Copyright/IPR Registration Event, if 
 
 Copyright/IPR Registration Event information consists of the following sub-elements:
 
-- Registration Date  
-- Registration Agency  
-- Regional scope  
-- Name of applicant  
-- Registration number  
+- Registration Date
+- Registration Agency
+- Regional scope
+- Name of applicant
+- Registration number
 
 - Registration  date
 The date on which the registration was filed or the date on which registration became effective. (Dates should be formatted according to ISO 8601 or some other recognised standard.)
@@ -298,8 +297,8 @@ A Preservation/Restoration Event can be used in conjunction with Preservation or
 
 [INSERT ILLUSTRATIVE DIAGRAMS HERE]
 
-\subsubsection{Decision} 
-\footnote {EN 15907, 6.13 Decision event, pp. 26-27}
+\subsubsection{Decision
+\footnote {EN 15907, 6.13 Decision event, pp. 26-27}}
 \label{sec:decision}
 
 A Decision Event is an event in which a Manifestation of a certain Work/Variant is evaluated by a censorship body or an accredited rating agency.
@@ -356,6 +355,7 @@ A Manufacture Event may be associated with instances of “Other” relationship
 Record all the existing relationships for the Manufacture Event, if the information is known and considered of relevance.
 
 Manufacture event information consists of the following sub-elements:
+
 - Manufacture type  
 - Manufacture date  
 - Manufacture region  
