@@ -141,13 +141,6 @@ This approach is recommended where possible so that the data only need be captur
 However, it is understood that many elements may be repeated at the Item level due to systems designs.
 Therefore, the list of elements below indicates those that can be conceivably recorded at the Manifestation level only, at the Manifestation or Item level, and at the Item level only.
 
-\subsection{Manifestation Decision Types}
-\label{sec:manifestation_decision_types} 
-
-* Censorship
-* Revision
-* Rating
-
 \subsection{Manifestation Manufacture Types}
 \label{sec:manifestation_manufacture_types} 
 
