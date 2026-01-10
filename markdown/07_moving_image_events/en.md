@@ -428,7 +428,14 @@ The date or time span in which the inspection activity was performed. (Dates sho
 
 Information describing the condition of the Item in greater detail.
 
-If desired and if applicable, record information about the condition of the Item, including nature and extent of damage. Selection should be made from a controlled list of terms. (See \nameref{sec:item_copy_condition_base_emulsion_film_and_video})
+If desired and if applicable, record information about the condition of the Item, including nature and extent of damage. Selection should be made from a controlled list of terms, e.g.:
+* Brittle
+* Buckled
+* Light Scratches
+* Heavy Scratches
+* Tears
+* Warped
+* Hydrolysis
 
 \subsubsection{Acquisition} 
 \label{sec:acquisition} 
