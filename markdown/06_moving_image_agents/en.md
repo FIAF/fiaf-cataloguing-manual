@@ -190,8 +190,7 @@ In the case of aggregate Manifestations, if desirable and applicable, record mul
 
 Describes the activity of the Agent(s) to make explicit the relationship(s) between the Agent(s) and the Manifestation. 
 
-Record one or more Agent activity terms, for example, “distributor,” “broadcaster,” “broadcast channel”, “streaming channel” etc., to express the nature of the agent’s relationship to the Manifestation. Selection should be made from a controlled list of terms. 
-A suggested list, which is open and not exhaustive, can be found in D.8 Manifestation Agent Types. 
+Record one or more Agent activity terms, for example, “distributor,” “broadcaster,” “broadcast channel”, “streaming channel” etc., to express the nature of the agent’s relationship to the Manifestation. Selection should be made from a controlled list of terms.
 
 Choose the single most specific term in each case, if possible. 
 If no suggested terms apply, compose a term to describe the relationship between the creator and the Manifestation being catalogued. 
