@@ -144,19 +144,19 @@ Therefore, the list of elements below indicates those that can be conceivably re
 \subsection{Manifestation Preservation Types}
 \label{sec:manifestation_preservation_types} 
 
-Duplication (Printing / Recording)
-Transfer
-Reproduction
-Digitisation
-Reconstruction
-Restoration
+* Duplication (Printing / Recording)
+* Transfer
+* Reproduction
+* Digitisation
+* Reconstruction
+* Restoration
 
 \subsection{Manifestation Decision Types}
 \label{sec:manifestation_decision_types} 
 
-Censorship
-Revision
-Rating
+* Censorship
+* Revision
+* Rating
 
 \subsection{Manifestation Manufacture Types}
 \label{sec:manifestation_manufacture_types} 
@@ -183,9 +183,9 @@ Rating
 \subsubsection{Item Acquisition source type}
 \label{sec:item_acquisition_source_type} 
 
-Donor
-Agent
-Intermediary
+* Donor
+* Agent
+* Intermediary
 
 \subsection{Manifestation/Item Condition, Preservation and Restoration}
 \label{sec:manifestation_item_condition_preservation_and_restoration} 
@@ -204,19 +204,19 @@ Intermediary
 \subsubsection{Item Copy Condition Perforations – Film} 
 \label{sec:item_copy_condition_perforations_film}
 
-Foil Patches
-Torn
-Pulled
-Missing
+* Foil Patches
+* Torn
+* Pulled
+* Missing
 
 \subsubsection{Item Surface Deposit – Film and Video}
 \label{sec:item_surface_deposit_film_and_video} 
 
-Mould
-Rust
-Oil deposits
-Dirt
-Drying marks
+* Mould
+* Rust
+* Oil deposits
+* Dirt
+* Drying marks
 
 \subsubsection{Image – Film and Video} 
 \label{sec:image_film_and_video}
@@ -237,9 +237,9 @@ http://avaa.bavc.org/artifactatlas/index.php/A/V_Artifact_Atlas
 \subsubsection{Item Decomposition – Film and Video}
 \label{sec:item_decomposition_film_and_video} 
 
-Powder
-Sticky
-Sticky at head
+* Powder
+* Sticky
+* Sticky at head
 
 \subsection{Other Relationships for Works, Variants, Manifestations, Items}
 \label{sec:other_relationships_for_works_variants_manifestations_items} 
