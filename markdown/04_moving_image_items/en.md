@@ -163,7 +163,7 @@ For optical media, only add commercially produced media here.
 If the optical media is “writable” and is being used to store a digital file, put the digital file format in the gen- eral carrrier type, and the optical storage media in specific media type.
 
 Record the specific carrier type, selecting from a suitable controlled list.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_item_specific_carrier_type}.
+A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifest_specific_carrier_type}.
 
 \paragraph{Item Status} 
 \label{sec:item_status} \
