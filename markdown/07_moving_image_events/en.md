@@ -464,7 +464,10 @@ The date on which the Item was physically acquired. This date is distinct from a
 
 - Acquisition source
 
-The name of the person or organisation from which the Item was obtained, indicating whether the acquisition was direct from, for example, the donor or via an intermediary or agent. Select from a controlled list of terms. See \nameref{sec:item_acquisition_type}.
+The name of the person or organisation from which the Item was obtained, indicating whether the acquisition was direct from, for example, the donor or via an intermediary or agent. Select from a controlled list of terms, e.g.:
+* Donor
+* Agent
+* Intermediary
 
 - Accession date
 
