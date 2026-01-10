@@ -451,7 +451,12 @@ An Acquisition Event information consists of the following sub-elements:
 
 - Acquisition type
 
-Describes the means by which the Item was acquired, for example, donation, exchange, loan, etc. Select from a controlled list of terms. See, \nameref{sec:item_acquisition_type}.
+Describes the means by which the Item was acquired, for example, donation, exchange, loan, etc. Select from a controlled list of terms, e.g.:
+* Donation
+* Exchange
+* Loan
+* Purchase
+* Off-air recording
 
 - Acquisition date
 
