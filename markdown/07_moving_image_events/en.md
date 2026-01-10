@@ -336,7 +336,10 @@ Record the type or status of the decision event.
 Usually the term adopted is “censorship” or “revision” for decisions mandated by law, “rating” for decisions under a voluntary scheme.
 Further types may include special forms of evaluation, e.g. for tax privileges, as long as these are distinct from awards.
 
-Selection should be made from a controlled list of terms. See \nameref{sec:manifestation_decision_types}.
+Selection should be made from a controlled list of terms. e.g.:
+* Censorship
+* Revision
+* Rating
 
 - Decision date
 
