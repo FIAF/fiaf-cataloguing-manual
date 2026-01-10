@@ -105,19 +105,6 @@ Aggregate compilation videos/DVDs that are collections of individual works exist
 
 Provide a list of the compiled works contained in the Collections Work in its Synopsis or Summary field.
 
-\subsection[Work/Variant Agent Types]{Work/Variant Agent Types 
-\footnote {More relator terms can be found in YCR, 1.3.2. Other creators, pp. 42-43; and, OLAC TF, Part II, Core Attributes and Relationships, Commonly-Occurring Roles, pp. 16-18.}} 
-\label{sec:work_variant_agent_types}
-
-Cast (or actor/actress)
-Cinematographer/Director of Photography/Videographer
-Presenter
-Producer
-Director
-Production company
-See [FIAF Glossary of Filmographic Terms](http://www.fiafnet.org/pages/E-Resources/Glossary.html)^[http://www.fiafnet.org/pages/E-Resources/Glossary.html]
-
-
 \subsection{Language Usage Types}
 \label{sec:language_usage_types} 
 
