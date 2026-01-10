@@ -141,22 +141,6 @@ This approach is recommended where possible so that the data only need be captur
 However, it is understood that many elements may be repeated at the Item level due to systems designs.
 Therefore, the list of elements below indicates those that can be conceivably recorded at the Manifestation level only, at the Manifestation or Item level, and at the Item level only.
 
-\subsection{Manifestation Publication Types} 
-\label{sec:manifestation_publication_types}
-
-* Release
-* Publication
-* Distribution
-* Broadcast
-* Online Transmission (e.g. Internet, Intranet)
-* Pre-Release
-* Theatrical distribution
-* Non-theatrical distribution
-* Not for release
-* Home video publication
-* Broadcast
-* Unknown
-
 \subsection{Production Event Types}
 \label{sec:production_event_types}
      
