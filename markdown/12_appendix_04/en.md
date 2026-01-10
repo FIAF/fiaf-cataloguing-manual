@@ -141,19 +141,6 @@ This approach is recommended where possible so that the data only need be captur
 However, it is understood that many elements may be repeated at the Item level due to systems designs.
 Therefore, the list of elements below indicates those that can be conceivably recorded at the Manifestation level only, at the Manifestation or Item level, and at the Item level only.
 
-\subsection{Manifestation/Item Condition, Preservation and Restoration}
-\label{sec:manifestation_item_condition_preservation_and_restoration} 
-
-\subsubsection{Item Copy Condition Base/Emulsion – Film and Video}
-\label{sec:item_copy_condition_base_emulsion_film_and_video} 
-
-* Brittle
-* Buckled
-* Light Scratches
-* Heavy Scratches
-* Tears
-* Warped
-* Hydrolysis
 
 \subsubsection{Item Copy Condition Perforations – Film} 
 \label{sec:item_copy_condition_perforations_film}
