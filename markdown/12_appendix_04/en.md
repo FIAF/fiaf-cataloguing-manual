@@ -141,11 +141,6 @@ This approach is recommended where possible so that the data only need be captur
 However, it is understood that many elements may be repeated at the Item level due to systems designs.
 Therefore, the list of elements below indicates those that can be conceivably recorded at the Manifestation level only, at the Manifestation or Item level, and at the Item level only.
 
-\subsection{Work/Variant Publication Types}
-\label{sec:work_variant_publication_types} 
-
-These are not pertinent as both Works and Variants have Manifestations and it is the latter that are published.
-
 \subsection{Manifestation Publication Types} 
 \label{sec:manifestation_publication_types}
 
