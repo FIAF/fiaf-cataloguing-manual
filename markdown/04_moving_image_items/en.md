@@ -141,7 +141,7 @@ Re- cording this high-level information will enable simple searching for only fi
 
 Record only if this information is not captured at the Manifestation level or if required at the Item level by the system in use.
 
-A suggested list can be found in \nameref{sec:manifestation_item_general_carrier_type}.
+A suggested list can be found in \nameref{sec:manifest_general_carrier_type}.
 
 For reasons of clarity and to avoid redundancy, optionally, institutions can decide to skip the general carrier type description for film and video, since it is already implicit in the specific carrier type.
 
