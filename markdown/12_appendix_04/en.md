@@ -141,16 +141,6 @@ This approach is recommended where possible so that the data only need be captur
 However, it is understood that many elements may be repeated at the Item level due to systems designs.
 Therefore, the list of elements below indicates those that can be conceivably recorded at the Manifestation level only, at the Manifestation or Item level, and at the Item level only.
 
-\subsection{Manifestation/Item Acquisition, Accessioning and Source}
-\label{sec:manifestation_item_acquisition_accessioning_and_source} 
-
-\subsubsection{Item Acquisition source type}
-\label{sec:item_acquisition_source_type} 
-
-* Donor
-* Agent
-* Intermediary
-
 \subsection{Manifestation/Item Condition, Preservation and Restoration}
 \label{sec:manifestation_item_condition_preservation_and_restoration} 
 
