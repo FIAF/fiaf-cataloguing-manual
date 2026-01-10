@@ -144,15 +144,6 @@ Therefore, the list of elements below indicates those that can be conceivably re
 \subsection{Manifestation/Item Acquisition, Accessioning and Source}
 \label{sec:manifestation_item_acquisition_accessioning_and_source} 
 
-\subsubsection{Item Acquisition type}
-\label{sec:item_acquisition_type} 
-
-* Donation
-* Exchange
-* Loan
-* Purchase
-* Off-air recording
-
 \subsubsection{Item Acquisition source type}
 \label{sec:item_acquisition_source_type} 
 
