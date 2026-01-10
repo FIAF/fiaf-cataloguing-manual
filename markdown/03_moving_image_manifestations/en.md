@@ -666,11 +666,14 @@ Its description consists of a general carrier type, which describes the basic pr
 \label{sec:manifest_general_carrier_type} \
 
 The broad media type of the Manifestation (e.g., film, video, audio, optical, digital file).
-Recording this high-level information will enable simple searching for only film, video, digital, etc. elements rather than searching by all possible formats and carriers.
+Recording this high-level information will enable simple searching for only film, video, digital, etc. elements rather than searching by all possible formats and carriers. A suggested list, which is open and not exhaustive, can include:
 
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_item_specific_carrier_type}.
-
-For reasons of clarity and to avoid redundancy, optionally, institutions can decide to skip the general carrier type description, since it is already implicit in the specific carrier type.
+Film
+Video Tape
+Video Disc
+Digital Tape
+Digital Disc
+Digital File
 
 \subparagraph{Specific Carrier Type}
 \label{sec:manifest_specific_carrier_type} \
@@ -689,10 +692,107 @@ Information on the specific codecs and resolution are captured in Item elements.
 For optical media, only add commercially produced media here.
 If the optical media is “writable” and is being used to store a digital file, put the digital file format in the general carrrier type, and the optical storage media in specific media type.
 
-Select the value from a suitable controlled list.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_item_specific_carrier_type}.
+Institutions should develop standard lists of terms to indicate the specific carrier type or refer to authoritative existing lists.
 
-\paragraph{Projection Characteristics of a Manifestation{
+For optical media, only add commercially produced media here. If the optical media is “writable” and is being used to store a digital file, put the digital file format in the General Carrier Type, and the optical storage media in Specific.
+
+```{=latex}
+\begin{tcolorbox}
+YEE (http://myee.bol.ucla.edu/catrul.doc 5.3.3 (physical carriers)
+AMIM2 5D, pp. 18-19 (for gauges/width values)
+AMIM2 5B7, pp. 10-11 (including both “tape” and “disc” based video formats).
+RDA 3.20; YEE (http://myee.bol.ucla.edu/catrul.doc 5.3.14 (for encoding formats).
+PBCore instantiationPhysical http://metadataregistry.org/concept/list/vocabulary\_id/145.html (for physical carriers)
+PBCore instantiationDigital (http://pbcore.org/pbcoreinstantiation/instantiationdigital/) (for broad digital formats)
+\end{tcolorbox}
+```
+
+Additional sources of information include several SMPTE standards, engineering guidelines, and recommended practices. These are some of the most common terms, but not a complete or definitive list.
+
+\setlength\extrarowheight{2pt} 
+\begin{xltabular}{\textwidth}{|L|L|L|L|L|L|}
+\hline
+\textbf{Film Gauge} & 
+\textbf{Video} & 
+\textbf{Audio} & 
+\textbf{Optical} & 
+\textbf{Digital File} & 
+\textbf{Digital File Encoding} \\
+\hline
+35mm & 
+1-inch C Format & 
+2” audioreel & 
+CD & 
+DPX & 
+MPEG-4 \\
+\hline
+16mm & 
+Digital Betacam & 
+1” audioreel & 
+DVD & 
+MOV & 
+Quicktime \\
+\hline
+Super 16mm & 
+Betacam SP & 
+½” audioreel & 
+Blu-Ray & 
+MP4 & 
+Real video \\
+\hline
+8mm & 
+2-inch Quadruplex & 
+¼” audioreel & 
+Laser Disc & 
+MXF & 
+SVCD \\
+\hline
+Super8mm & 
+HDCAM SR & 
+audiocassette & 
+& 
+AVI & 
+VCD \\
+\hline
+9.5mm & 
+D1 & 
+35mm magnetic track & 
+& 
+& 
+Windows Media \\
+\hline
+17.5mm & 
+D5 & 
+16mm magnetic track & 
+& 
+& 
+\\
+\hline
+70mm & 
+DVCPRO HD & 
+& 
+& 
+& 
+\\
+\hline
+\end{xltabular} 
+
+For digital files, list the physical carrier on which the file is stored. For all other materials, use this element to provide more specific information on the physical carrier.
+
+Institutions should develop standard lists of terms to indicate the specific carrier type or refer to authoritative existing lists.
+
+These are some of the most common terms, but not a complete or definitive list.
+
+LTO5
+LTO6
+T10000D
+HDD (abbreviated for “external hard drive”)
+DVD-R
+Blu-Ray 
+
+For reasons of clarity and to avoid redundancy, optionally, institutions can decide to skip the general carrier type description, since it is already implicit in the specific carrier type.
+
+\subsubsection{Projection Characteristics of a Manifestation{
 \label{sec:projection_characteristics_of_a_manifestation} \
 
 The projection characteristics of a Manifestation include aspect ratio and aperture or image format.
