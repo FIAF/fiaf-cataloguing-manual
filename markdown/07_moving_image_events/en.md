@@ -199,7 +199,11 @@ Production Event information consists of the following sub-elements:
 
 - Production Event type
 
-Selection should be made from a controlled list of values. See \nameref{sec:production_event_types}.
+Selection should be made from a controlled list of values, e.g.:
+* Casting
+* Outdoor shooting
+* Indoor shooting
+* Post-Production
 
 - Location
 
