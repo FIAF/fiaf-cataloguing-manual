@@ -99,11 +99,21 @@ Publication Event information consists of the following sub-elements:
 - Publication type
 
 For Works/Variants, record the type of Publication Event for Works/Variants, for example, publication, release, distribution, broadcast, online transmission.
-Selection should be made from a controlled list of values.
-See \nameref{sec:manifestation_publication_types}.
+Selection should be made from a controlled list of values, e.g.:
+* Release
+* Publication
+* Distribution
+* Broadcast
+* Online Transmission (e.g. Internet, Intranet)
+* Pre-Release
+* Theatrical distribution
+* Non-theatrical distribution
+* Not for release
+* Home video publication
+* Broadcast
+* Unknown
 
-Record the Publication type for Manifestations, for example, “pre-release,” “theatrical distribution,” etc. Selection should be made from a controlled list of terms.
-See \nameref{sec:manifestation_publication_types}.
+Record the Publication type for Manifestations, for example, “pre-release,” “theatrical distribution,” etc. Selection should be made from a controlled list of terms (see above).
 
 For Manifestations, the Publication Event that originated the embodiment of a specific Work/Variant in a Manifestation, corresponds to criteria individuated to distinguish the boundaries between Manifestations.
 For this reason, conceptually, and also in practice, “publication type” overlaps the main definition of “Manifestation type,” as explained in \nameref{sec:boundaries_between_manifestations} and, as such, is already described.
