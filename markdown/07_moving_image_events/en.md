@@ -286,7 +286,13 @@ Preservation Event information consists of the following sub-elements:
 
 - Preservation type
 
-Record the general type of the preservation activity performed, for example, duplication, transfer, etc. Selection should be made from a controlled list of terms. See \nameref{sec:manifestation_preservation_types}.
+Record the general type of the preservation activity performed, for example, duplication, transfer, etc. Selection should be made from a controlled list of terms, e.g.:
+* Duplication (Printing / Recording)
+* Transfer
+* Reproduction
+* Digitisation
+* Reconstruction
+* Restoration
 
 - Preservation Date
 
