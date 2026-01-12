@@ -480,13 +480,6 @@ This could be a single simple field, or could include multiple fields to reflect
 
 Notes for Items are an annotation providing additional information relating specifically to Item attributes and relationships.^[Based on RDA 2.20.1.Basic Instructions on Making Notes on Manifestations or Items] See \nameref{sec:cataloguers_notes}.
 
-\subsection{Boundaries between Items}    
-\label{sec:boundaries_between_items} 
-
-The boundaries between moving image Items is determined primarily by the boundaries between Manifestations (see \nameref{sec:boundaries_between_manifestations}).
-There may be multiple Items associated to a Manifestation that are, for all intents and purposes, exact copies, but which may have small differences that do not necessitate representation as a Manifestation.
-For example, an institution may have two DVD-R copies of the same Manifestation, with cosmetic differences in their labels.
-
 \subsection{Relationships of an Item}    
 \label{sec:relationships_of_an_item} 
 
