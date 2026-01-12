@@ -467,3 +467,10 @@ For those cataloguing in non-relational databases, paper or card catalogues, or 
 As with the ability to utilise EN15907 within a 4, 3, 2 or 1-level hierarchy, the same fundamental principle applies with use and structure of Events with Works, Variants, Manifestations or Items; namely, that it does not matter what data systems or structures an institution uses – whether index card or complex computer systems -  as long as their records capture the relevant data concerned.
 
 With a fundamental aim of EN15907 being interoperability, then use of types such as those in the list of Manifestation Types at [INSERT INTERNAL LINK TO RELEVANT SECTION] is key to the flexibility and use of the data architecture reflecting the standard and makes this a lot more achievable; especially in systems where Events structures are minimal or do not exist. Because there is an overlap in Manifestation and Event type terms it could make potential mapping and interoperability achievable.
+
+\subsection{Boundaries between Items}    
+\label{sec:boundaries_between_items} 
+
+The boundaries between moving image Items is determined primarily by the boundaries between Manifestations (see \nameref{sec:boundaries_between_manifestations}).
+There may be multiple Items associated to a Manifestation that are, for all intents and purposes, exact copies, but which may have small differences that do not necessitate representation as a Manifestation.
+For example, an institution may have two DVD-R copies of the same Manifestation, with cosmetic differences in their labels.
