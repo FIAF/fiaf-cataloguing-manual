@@ -103,6 +103,7 @@ Publication Event information consists of the following sub-elements:
 - Publication type
 - Publication date
 - Region
+  
 
 - Publication type
 
