@@ -103,6 +103,7 @@ Publication Event information consists of the following sub-elements:
 - Publication type
 - Publication date
 - Region
+
 - Publication type
 
 Record the Publication type for Manifestations, for example, “pre-release,” “theatrical distribution,” etc. Selection should be made from a controlled list of terms. See \nameref{sec:manifestation_publication_types}.
