@@ -99,11 +99,21 @@ Publication Event information consists of the following sub-elements:
 - Publication type
 
 For Works/Variants, record the type of Publication Event for Works/Variants, for example, publication, release, distribution, broadcast, online transmission.
-Selection should be made from a controlled list of values.
-See \nameref{sec:manifestation_publication_types}.
+Selection should be made from a controlled list of values, e.g.:
+* Release
+* Publication
+* Distribution
+* Broadcast
+* Online Transmission (e.g. Internet, Intranet)
+* Pre-Release
+* Theatrical distribution
+* Non-theatrical distribution
+* Not for release
+* Home video publication
+* Broadcast
+* Unknown
 
-Record the Publication type for Manifestations, for example, “pre-release,” “theatrical distribution,” etc. Selection should be made from a controlled list of terms.
-See \nameref{sec:manifestation_publication_types}.
+Record the Publication type for Manifestations, for example, “pre-release,” “theatrical distribution,” etc. Selection should be made from a controlled list of terms (see above).
 
 For Manifestations, the Publication Event that originated the embodiment of a specific Work/Variant in a Manifestation, corresponds to criteria individuated to distinguish the boundaries between Manifestations.
 For this reason, conceptually, and also in practice, “publication type” overlaps the main definition of “Manifestation type,” as explained in \nameref{sec:boundaries_between_manifestations} and, as such, is already described.
@@ -189,7 +199,11 @@ Production Event information consists of the following sub-elements:
 
 - Production Event type
 
-Selection should be made from a controlled list of values. See \nameref{sec:production_event_types}.
+Selection should be made from a controlled list of values, e.g.:
+* Casting
+* Outdoor shooting
+* Indoor shooting
+* Post-Production
 
 - Location
 
@@ -272,7 +286,13 @@ Preservation Event information consists of the following sub-elements:
 
 - Preservation type
 
-Record the general type of the preservation activity performed, for example, duplication, transfer, etc. Selection should be made from a controlled list of terms. See \nameref{sec:manifestation_preservation_types}.
+Record the general type of the preservation activity performed, for example, duplication, transfer, etc. Selection should be made from a controlled list of terms, e.g.:
+* Duplication (Printing / Recording)
+* Transfer
+* Reproduction
+* Digitisation
+* Reconstruction
+* Restoration
 
 - Preservation Date
 
@@ -316,7 +336,10 @@ Record the type or status of the decision event.
 Usually the term adopted is “censorship” or “revision” for decisions mandated by law, “rating” for decisions under a voluntary scheme.
 Further types may include special forms of evaluation, e.g. for tax privileges, as long as these are distinct from awards.
 
-Selection should be made from a controlled list of terms. See \nameref{sec:manifestation_decision_types}.
+Selection should be made from a controlled list of terms. e.g.:
+* Censorship
+* Revision
+* Rating
 
 - Decision date
 
@@ -355,7 +378,13 @@ Manufacture event information consists of the following sub-elements:
 
 - Manufacture type
 
-Record the general type of the manufacture activity performed, for example, film printing, tele-cine, video copying, etc. Selection should be made from a controlled list of terms. See \nameref{sec:manifestation_manufacture_types}.
+Record the general type of the manufacture activity performed, for example, film printing, tele-cine, video copying, etc. Selection should be made from a controlled list of terms, e.g.:
+* Film printing
+* Telecine
+* Video copying
+* Scanning
+* Mastering
+* Uploading
 
 - Date of Manufacture
 
@@ -399,7 +428,14 @@ The date or time span in which the inspection activity was performed. (Dates sho
 
 Information describing the condition of the Item in greater detail.
 
-If desired and if applicable, record information about the condition of the Item, including nature and extent of damage. Selection should be made from a controlled list of terms. (See \nameref{sec:item_copy_condition_base_emulsion_film_and_video})
+If desired and if applicable, record information about the condition of the Item, including nature and extent of damage. Selection should be made from a controlled list of terms, e.g.:
+* Brittle
+* Buckled
+* Light Scratches
+* Heavy Scratches
+* Tears
+* Warped
+* Hydrolysis
 
 \subsubsection{Acquisition} 
 \label{sec:acquisition} 
@@ -422,7 +458,12 @@ An Acquisition Event information consists of the following sub-elements:
 
 - Acquisition type
 
-Describes the means by which the Item was acquired, for example, donation, exchange, loan, etc. Select from a controlled list of terms. See, \nameref{sec:item_acquisition_type}.
+Describes the means by which the Item was acquired, for example, donation, exchange, loan, etc. Select from a controlled list of terms, e.g.:
+* Donation
+* Exchange
+* Loan
+* Purchase
+* Off-air recording
 
 - Acquisition date
 
@@ -430,7 +471,10 @@ The date on which the Item was physically acquired. This date is distinct from a
 
 - Acquisition source
 
-The name of the person or organisation from which the Item was obtained, indicating whether the acquisition was direct from, for example, the donor or via an intermediary or agent. Select from a controlled list of terms. See \nameref{sec:item_acquisition_type}.
+The name of the person or organisation from which the Item was obtained, indicating whether the acquisition was direct from, for example, the donor or via an intermediary or agent. Select from a controlled list of terms, e.g.:
+* Donor
+* Agent
+* Intermediary
 
 - Accession date
 

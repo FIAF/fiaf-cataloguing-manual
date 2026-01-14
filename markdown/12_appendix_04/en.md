@@ -128,305 +128,23 @@ This approach is recommended where possible so that the data only need be captur
 However, it is understood that many elements may be repeated at the Item level due to systems designs.
 Therefore, the list of elements below indicates those that can be conceivably recorded at the Manifestation level only, at the Manifestation or Item level, and at the Item level only.
 
-\subsubsection{Manifestation/Item General Carrier Type}
-\label{sec:manifestation_item_general_carrier_type} 
-
-Film
-Video Tape
-Video Disc
-Digital Tape
-Digital Disc
-Digital File
-
-\subsubsection{Manifestation/Item Specific Carrier Type}
-\label{sec:manifestation_item_specific_carrier_type} 
-
-Institutions should develop standard lists of terms to indicate the specific carrier type or refer to authoritative existing lists.
-
-For optical media, only add commercially produced media here. If the optical media is “writable” and is being used to store a digital file, put the digital file format in the General Carrier Type, and the optical storage media in Specific.
-
-```{=latex}
-\begin{tcolorbox}
-YEE (http://myee.bol.ucla.edu/catrul.doc 5.3.3 (physical carriers)
-AMIM2 5D, pp. 18-19 (for gauges/width values)
-AMIM2 5B7, pp. 10-11 (including both “tape” and “disc” based video formats).
-RDA 3.20; YEE (http://myee.bol.ucla.edu/catrul.doc 5.3.14 (for encoding formats).
-PBCore instantiationPhysical http://metadataregistry.org/concept/list/vocabulary\_id/145.html (for physical carriers)
-PBCore instantiationDigital (http://pbcore.org/pbcoreinstantiation/instantiationdigital/) (for broad digital formats)
-\end{tcolorbox}
-```
-
-Additional sources of information include several SMPTE standards, engineering guidelines, and recommended practices. These are some of the most common terms, but not a complete or definitive list.
-
-\setlength\extrarowheight{2pt} 
-\begin{xltabular}{\textwidth}{|L|L|L|L|L|L|}
-\hline
-\textbf{Film Gauge} & 
-\textbf{Video} & 
-\textbf{Audio} & 
-\textbf{Optical} & 
-\textbf{Digital File} & 
-\textbf{Digital File Encoding} \\
-\hline
-35mm & 
-1-inch C Format & 
-2” audioreel & 
-CD & 
-DPX & 
-MPEG-4 \\
-\hline
-16mm & 
-Digital Betacam & 
-1” audioreel & 
-DVD & 
-MOV & 
-Quicktime \\
-\hline
-Super 16mm & 
-Betacam SP & 
-½” audioreel & 
-Blu-Ray & 
-MP4 & 
-Real video \\
-\hline
-8mm & 
-2-inch Quadruplex & 
-¼” audioreel & 
-Laser Disc & 
-MXF & 
-SVCD \\
-\hline
-Super8mm & 
-HDCAM SR & 
-audiocassette & 
-& 
-AVI & 
-VCD \\
-\hline
-9.5mm & 
-D1 & 
-35mm magnetic track & 
-& 
-& 
-Windows Media \\
-\hline
-17.5mm & 
-D5 & 
-16mm magnetic track & 
-& 
-& 
-\\
-\hline
-70mm & 
-DVCPRO HD & 
-& 
-& 
-& 
-\\
-\hline
-\end{xltabular} 
-
-For digital files, list the physical carrier on which the file is stored. For all other materials, use this element to provide more specific information on the physical carrier.
-
-Institutions should develop standard lists of terms to indicate the specific carrier type or refer to authoritative existing lists.
-
-These are some of the most common terms, but not a complete or definitive list.
-
-LTO5
-LTO6
-T10000D
-HDD (abbreviated for “external hard drive”)
-DVD-R
-Blu-Ray  
-
-\subsubsection{Manifestation Unit Types}
-\label{sec:manifestation_unit_types} 
-
-Reel
-Roll
-Cassette
-Cartridge
-Loop
-Disc
-File
-Digital tape
-
-\subsubsection{Item Element Type}
-\label{sec:appendix_item_element_type}
-
-Colour Positive
-Colour Negative
-Copper Toned Positive
-Cyan Matrix
-Direct BW Positive
-Original negative
-Duplicate negative
-Positive
-Original positive (reversal film)
-Duplicate positive
-Lavender
-Image negative
-Sound negative
-DCP
-
-\subsubsection{Item Stock}
-\label{sec:item_stock} 
-
-This is a preliminary list, and not exhaustive.
-
-**FILM**
-
-Eastman Kodak
-Fuji
-Agfa
-
-**VIDEO**
-
-3M
-Agfa
-Agfa Gavaert
-Akai
-Ampex
-Ansco
-BASF
-Brifco
-Fuji
-Sony
-
-**AUDIO**
-
-Ampex
-Scotch
-3M
-Shamrock
-
-**OPTICAL**
-
-Maxell
-Memorex
-Philips
-Verbatim
-
-**DIGITAL TAPE**
-
-Fuji
-HP
-Oracle
-Sony
-
-**HARD DRIVES**
-
-Hitachi
-Seagate
-Toshiba
-Western Digital
-
-\subsection{Work/Variant Publication Types}
-\label{sec:work_variant_publication_types} 
-
-These are not pertinent as both Works and Variants have Manifestations and it is the latter that are published.
-
-\subsection{Manifestation Publication Types} 
-\label{sec:manifestation_publication_types}
-
-* Release
-* Publication
-* Distribution
-* Broadcast
-* Online Transmission (e.g. Internet, Intranet)
-* Pre-Release
-* Theatrical distribution
-* Non-theatrical distribution
-* Not for release
-* Home video publication
-* Broadcast
-* Unknown
-
-\subsection{Production Event Types}
-\label{sec:production_event_types}
-     
-
-* Casting
-* Outdoor shooting
-* Indoor shooting
-* Post-Production
-
-\subsection{Manifestation Preservation Types}
-\label{sec:manifestation_preservation_types} 
-
-Duplication (Printing / Recording)
-Transfer
-Reproduction
-Digitisation
-Reconstruction
-Restoration
-
-\subsection{Manifestation Decision Types}
-\label{sec:manifestation_decision_types} 
-
-Censorship
-Revision
-Rating
-
-\subsection{Manifestation Manufacture Types}
-\label{sec:manifestation_manufacture_types} 
-
-* Film printing
-* Telecine
-* Video copying
-* Scanning
-* Mastering
-* Uploading
-
-\subsection{Manifestation/Item Acquisition, Accessioning and Source}
-\label{sec:manifestation_item_acquisition_accessioning_and_source} 
-
-\subsubsection{Item Acquisition type}
-\label{sec:item_acquisition_type} 
-
-* Donation
-* Exchange
-* Loan
-* Purchase
-* Off-air recording
-
-\subsubsection{Item Acquisition source type}
-\label{sec:item_acquisition_source_type} 
-
-Donor
-Agent
-Intermediary
-
-\subsection{Manifestation/Item Condition, Preservation and Restoration}
-\label{sec:manifestation_item_condition_preservation_and_restoration} 
-
-\subsubsection{Item Copy Condition Base/Emulsion – Film and Video}
-\label{sec:item_copy_condition_base_emulsion_film_and_video} 
-
-* Brittle
-* Buckled
-* Light Scratches
-* Heavy Scratches
-* Tears
-* Warped
-* Hydrolysis
 
 \subsubsection{Item Copy Condition Perforations – Film} 
 \label{sec:item_copy_condition_perforations_film}
 
-Foil Patches
-Torn
-Pulled
-Missing
+* Foil Patches
+* Torn
+* Pulled
+* Missing
 
 \subsubsection{Item Surface Deposit – Film and Video}
 \label{sec:item_surface_deposit_film_and_video} 
 
-Mould
-Rust
-Oil deposits
-Dirt
-Drying marks
+* Mould
+* Rust
+* Oil deposits
+* Dirt
+* Drying marks
 
 \subsubsection{Image – Film and Video} 
 \label{sec:image_film_and_video}
@@ -447,9 +165,9 @@ http://avaa.bavc.org/artifactatlas/index.php/A/V_Artifact_Atlas
 \subsubsection{Item Decomposition – Film and Video}
 \label{sec:item_decomposition_film_and_video} 
 
-Powder
-Sticky
-Sticky at head
+* Powder
+* Sticky
+* Sticky at head
 
 \subsection{Other Relationships for Works, Variants, Manifestations, Items}
 \label{sec:other_relationships_for_works_variants_manifestations_items} 
