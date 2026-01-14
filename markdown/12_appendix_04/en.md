@@ -374,15 +374,6 @@ These are not pertinent as both Works and Variants have Manifestations and it is
 * Indoor shooting
 * Post-Production
 
-\subsection{Manifestation Preservation Types}
-\label{sec:manifestation_preservation_types} 
-
-Duplication (Printing / Recording)
-Transfer
-Reproduction
-Digitisation
-Reconstruction
-Restoration
 
 \subsection{Manifestation Decision Types}
 \label{sec:manifestation_decision_types} 
