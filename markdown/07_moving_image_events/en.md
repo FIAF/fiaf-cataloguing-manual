@@ -266,9 +266,11 @@ Record all the existing relationships of a Preservation/Restoration Event, if th
 Preservation/Restoration Event information consists of the following sub-elements:
 
 - Preservation/Restoration type  
-- Preservation/Restoration date  
+- Preservation/Restoration date
+    
 
 - Preservation/Restoration type
+  
 Record the general type of the preservation/restoration activity performed. Selection should be made from a controlled list of terms, which may include:
  
 Conservation / Repair  
@@ -288,6 +290,7 @@ Record the date or time span in which the preservation/restoration activity was 
 Add in a note any information describing the preservation process in detail.
 
 This can include: 
+
 -	Genesis of the project or reason why preservation was undertaken  
 -	Significant challenges  
 -	Relevant research (documenting sources of information related to content or production techniques)  
@@ -296,7 +299,9 @@ This can include:
 
 A Preservation/Restoration Event can be used in conjunction with Preservation or Restoration type Manifestations as relevant.
 
-[INSERT ILLUSTRATIVE DIAGRAMS HERE]
+[INSERT ILLUSTRATIVE DIAGRAMS USING BOTH HERE]
+
+[ALSO INSERT LINK - TO EXTERNAL CDC SITE HOLDING EWA'S COMPLEX PRESERVATION EVENT DIGITISATION AND PRESERVATION RESTORATION WORKFLOW DOCUMENTS]
 
 \subsubsection{Decision
 \footnote {EN 15907, 6.13 Decision event, pp. 26-27}}
