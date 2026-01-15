@@ -216,7 +216,8 @@ The year/date or time-span during which the event took place. Dates should be fo
 - Event details
 Any further information about the event either in plain textual form, or as an instance of a data type from another schema
 
-\subsubsection{Rights/Copyright/IPR Registration}
+\subsubsection[Rights/Copyright/IPR Registration]{Rights/Copyright/IPR Registration
+\footnote {EN 15907 6.15 IPR Registration, pp. 23-24}}
 \label{sec:values_rights_copyright_ipr_registration}
 
 These are optional, and it is for an institution to choose whether it has the resources or requirement to compile rights data. Further more detailed information on the subject of rights/copyright/IPR registration can be found in \nameref{sec:appendix_rights_copyright_ipr_registration}.
