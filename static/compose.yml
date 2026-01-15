@@ -1,0 +1,9 @@
+services:
+  ubuntu:
+    image: ubuntu:latest
+    container_name: manual
+    ports:
+      - 1313:1313
+    tty: true
+    volumes:
+      - ../../fiaf-cataloguing-manual:/app
