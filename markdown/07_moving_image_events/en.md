@@ -303,7 +303,7 @@ A Preservation/Restoration Event can be used in conjunction with Preservation or
 
 [ALSO INSERT LINK - TO EXTERNAL CDC SITE HOLDING EWA'S COMPLEX PRESERVATION EVENT DIGITISATION AND PRESERVATION RESTORATION WORKFLOW DOCUMENTS]
 
-\subsubsection{Decision
+\subsubsection[Decision]{Decision
 \footnote {EN 15907, 6.13 Decision event, pp. 26-27}}
 \label{sec:decision}
 
