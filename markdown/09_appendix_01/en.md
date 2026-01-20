@@ -969,26 +969,43 @@ For a more comprehensive list of form terms to use with for FULLY or PARTIALLY S
 
 Constructing titles for production materials usually falls into the categories of either Partially Supplied/Devised titling or Fully Supplied/Devised titling, involving the title of the moving image with which the production material is associated + the relevant form, e.g. rushes, screen tests, etc. Titling options for production materials records have been described in both A.2.5.1 and A.2.5.2 above. As previously mentioned though, some institutions may have systems with a specific field for Form terms and so do not wish to incorporate the form term within the title itself. It is for an institution to decide on the stylistics used with a Form element within a title, e.g. whether it will put it into round or square brackets, or separate the two elements making up the title with a full stop. See examples in A.2.5.1 [ADD INTERNAL LINK]
 
-There are also various options of structuring and relating such production material records. The primary consideration is whether an institution opts to create a new Work record for such materials or to create a new Manifestation/Item and link it to the Work for the main moving image. Such decisions may depend on factors such as the quantity of such materials pertaining to a moving image or whether the quality of an acquisition allows for viewing. Thus, for example, if an institution only acquires a single item that is production footage, or it is on poor condition nitrate film that cannot safely be viewed, then in that instance it may decide to simply link a Manifestation/Item to a Work record for the main moving image; but if it often acquires multiple elements of production material, such as several out-takes, rushes, screen tests, production footage, etc. it may decide to create a new Work and link all production material related Manifestation/Items to that, and relate the two Works in an associated relationship. Ideally, in cataloguing the latter option is preferable as it allows for a description of the content. Also, Form is an element that usually sits at the Work level, along with genre and subject, so in systems that use Form terms in a separate field it is better for clarity to create a Work record as well. Any production material Items should be linked to a Pre-release type of Manifestation [ADD INTERNAL LINK TO PRE-RELEASE MANFESTATION TYPE DEFINITION]
+There are also various options of structuring and relating such production material records. The primary consideration is whether an institution opts to create a new Work record for such materials or to create just a new Manifestation/Item and link it to the Work for the main moving image. Such decisions may depend on factors such as the quantity of such materials pertaining to a moving image or whether the quality of an acquisition allows for viewing. Thus, for example, if an institution only acquires a single item that is production footage, or it is on poor condition nitrate film that cannot safely be viewed, then in that instance it may decide to simply link a Manifestation/Item to a Work record for the main moving image; but if it often acquires multiple elements of production material, such as numerous out-takes, rushes, screen tests, production footage, etc. it may decide to create a new Work and link all production material related Manifestation/Items to that, and relate the two Works in an associated relationship; or create new Works for each type of production material, and corresponding new Manifestations with relevant Items linked accordingly. Ideally, in cataloguing the latter option is preferable if possible as it allows for a description of the content. Also, Form is an element that usually sits at the Work level, along with genre and subject, so in systems that use Form terms in a separate field it is better for clarity to create a Work record as well. 
 
-Below are some of the potential structuring options for the same production materials:
+Whichever option is chosen, any production material Items should be linked to a Pre-release type of Manifestation [ADD INTERNAL LINK TO PRE-RELEASE MANFESTATION TYPE DEFINITION]
 
-[INSERT DIAGRAM WITH TWO WORKS STRUCTURE]
+Below are some of the potential structuring options for the same production materials. The Item titles reflect those of the actual Item itself, i.e. what was on film leaders or film cans as acquired, or in accordance with Partially Supplied/Devised or Fully Supplied/Devised titling. The latter forms of titling have been applied to the Pre-release Manifestation and any new production material Works:
 
-Or
+1. Where a new Work is created for each type of production material, each with a Pre-release Manifestation, and relevant Items linked to those; with an associated related link/reference to the released Work record:
 
-[INSERT DIAGRAM WITH ONE MAIN WORK, TWO MANIFESTATIONS]
+[INSERT DIAGRAM 1 WITH SEVERAL NEW WORKS, EACH WITH OWN MANIFESTATION AND RELEVANT ITEM(S) STRUCTURE]
 
-Or
+2. Where one new Work is created as a general one for any production material, with multiple Pre-release Manifestations for each type of production material and relevant Items linked to each of those; with an associated related link/reference to the released Work record:
 
-[INSERT DIAGRAM WITH ONE MAIN WORK, ONE MANIFESTATION, ALL ITEMS UNDER ONE]
+[INSERT DIAGRAM 4 WITH ONE NEW WORK, MULTIPLE MANIFESTATIONS AND RELEVANT ITEM(S) STRUCTURE]
+
+3. Where one new Work is created as a general one for any production material, with one general Pre-release Manifestation and all Items linked to that; with an associated related link/reference to the released Work record:
+
+[INSERT DIAGRAM 2 WITH ONE MAIN WORK, ONE MANIFESTATION, ALL ITEMS UNDER ONE]
+
+4. Where on general Pre-release Manifestation is created linked to the original released Work record and all production material Items linked to that one Manifestation:
+
+[INSERT DIAGRAM 3 WITH ORIGINAL WORK, ONE NEW MANIFESTATION, ALL PRODUCTION MATERIAL ITEMS UNDER THE LATTER]
+
+Where an institution acquires large collections or amounts of production materials associated with a moving image or moving image serial then a structure utilising a Collection level Work with multiple linked Monographic level Works is advisable [ADD INTERNAL LINK TO WORK/VARIANT DESCRIPTION TYPE, APPENDIX D.1]. For example, the acquisition of a large quantity of production material associated with the 13-part television documentary series Hollywood (United Kingdom, 1980) [ADD LINK TO https://en.wikipedia.org/wiki/Hollywood_(British_TV_series) IN A FOOTNOTE HERE], which can be structured with the Collection Work and Monographic Works in a hierarchical relationship, e.g.:
+
+[INSERT PRODUCTION MATERIALS COLLECTION AND MONOGRAPHIC WORKS STRUCTURING DIAGRAM 1 HERE]
+
+Or, optionally, with the Collection Work being in an associated relationship with each Monographic Work:
+
+[INSERT PRODUCTION MATERIALS COLLECTION AND MONOGRAPHIC WORKS STRUCTURING DIAGRAM 2 HERE]
+
 
 \subsubsection{Titles of series/serials} 
 \label{sec:titles_of_series_serials} 
 
 The guidelines and principles laid out in this section can be applicable across all the categories of Works, Variants, Manifestations and Items (WVMI).
 
-For monographic Works that are an episode within a series or serial^[Serial = something which is a continuing story, for which it is necessary to have seen previous episodes to follow the story line, e.g. Pride and Prejudice, The Black Arrow, Brideshead Revisited. Series = something which contains programmes or episodes which are complete in themselves (although they may have characters in common) for which it is not essential to have seen previous episodes in order to understand the story line/content, e.g. Cadfael. Midsomer Murders, World in Action.. BFI SIFT Inputting Manual.], and have their own individual title, the individual episode title may be used as the preferred title for the Work or Variant, or the title proper for the Manifestation and Item.
+For monographic Works that are an episode within a series or serial^[Serial = something which is a continuing story, for which it is necessary to have seen previous episodes to follow the story line, e.g. Pride and Prejudice, Heimat, Brideshead Revisited. Series = something which contains programmes or episodes which are complete in themselves (although they may have characters in common) for which it is not essential to have seen previous episodes in order to understand the story line/content, e.g. Cadfael. Midsomer Murders, World in Action.. BFI SIFT Inputting Manual.], and have their own individual title, the individual episode title may be used as the preferred title for the Work or Variant, or the title proper for the Manifestation and Item.
 However, the series/serial title should also be indicated.
 
 The series/serial title may be indicated within (i) the title field itself, or (ii) reflected in a linked hierarchical relationship with an individual Serial Work level record, i.e. a Work assigned the Description Type “Serial^[See Appendix \nameref{sec:work_variant_description_types} for EN 15907/BFI definitions of Serial as Description Type.]; or (iii) added as a Title Type; or (iv) a combination.
