@@ -987,7 +987,7 @@ Below are some of the potential structuring options for the same production mate
 
 [INSERT DIAGRAM 2 WITH ONE MAIN WORK, ONE MANIFESTATION, ALL ITEMS UNDER ONE]
 
-4. Where on general Pre-release Manifestation is created linked to the original released Work record and all production material Items linked to that one Manifestation:
+4. Where one general Pre-release Manifestation is created linked to the original released Work record and all production material Items linked to that one Manifestation:
 
 [INSERT DIAGRAM 3 WITH ORIGINAL WORK, ONE NEW MANIFESTATION, ALL PRODUCTION MATERIAL ITEMS UNDER THE LATTER]
 
