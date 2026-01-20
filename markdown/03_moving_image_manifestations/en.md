@@ -57,7 +57,7 @@ Depending on the quantity and nature of materials, an institution may create Wor
 
 Equally, an institution may choose to link all acquired production Items (whether analogue or digital) to a single Pre-Release Manifestation linked to the main complete Work, or possibly to several different Pre-Release Manifestations such as one for Screen Tests, one for Rushes, one for general production material, etc.
 
-It may also be used for initial record creation purposes prior to material being viewed and catalogued, which may then result in separate Work/Variant records for Rushes and Tests material to which the Manifestation record will link.
+
 
 ```{=latex}
 \begin{tcolorbox}
@@ -73,11 +73,9 @@ Beauty jungle: Artist Test – Shirley Ann Field
 
 Depending on the quantity and nature of materials, an institution may create Works in their own right for different in-production filmed aspects, e.g. Screen Tests, Rushes, etc. which are then related to the main, final moving image Work in an associative relationship. Each of these Works would then have their own linked Pre-Release Manifestation.
 
-[CREATE AND INSERT DIAGRAM TO ILLUSTRATE HERE]
-
 Equally, an institution may choose to link all acquired production Items (whether analogue or digital) to a single Pre-Release Manifestation linked to the main complete Work, or possibly to several different Pre-Release Manifestations such as one for Screen Tests, one for Rushes, one for general production material, etc.
 
-[CREATE AND INSERT DIAGRAM TO ILLUSTRATE HERE]
+For examples of these see [ADD INTERNAL LINK TO APPENDIX 1 SECTION ON TITLES AND STRUCTURES FOR PRODUCTION MATERIAL]
 
 It may also be used for initial record creation purposes prior to material being viewed and catalogued, which may then subsequently result in further Pre-Release Manifestations and/or Works/Variants
 
