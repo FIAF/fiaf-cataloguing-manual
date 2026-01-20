@@ -1000,6 +1000,9 @@ Or, optionally, with the Collection Work being in an associated relationship wit
 [INSERT PRODUCTION MATERIALS COLLECTION AND MONOGRAPHIC WORKS STRUCTURING DIAGRAM 2 HERE]
 
 
+Trailers do not strictly constitute production material as they are effectively entities in their own right, potentially with Agents that are different to those of the moving image itself. They are a type of advertisement for the moving image and have their own publication via cinema release, television broadcast, or online streaming. They would follow the titling laid out in A.2.5.1. and A.2.5.2 above and usually be linked in an associative relationship with the original moving image for which they are trailers.
+
+
 \subsubsection{Titles of series/serials} 
 \label{sec:titles_of_series_serials} 
 
