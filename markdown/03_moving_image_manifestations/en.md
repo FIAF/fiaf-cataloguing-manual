@@ -43,21 +43,15 @@ EN15907 does not specify any Manifestation types other than Unknown. The Manifes
 
 A moving image Manifestation type that may be used to represent any embodiments of a moving image Work that exist before the finalisation or release of the moving image Work. Also use for partially realised projects, i.e. productions that started filming but then project ceased before completion, for which footage exists and may have been acquired by an institution.
 
-A Pre-Release Manifestation is effectively a Production Manifestation for which acquired Items used in the production of a film can be linked. Technically, a Pre-Release Manifestation does not refer to any release at all, but rather to embodiments of the creative process that goes into the creation or construction of the Work itself, i.e. raw or semi-edited footage that has been shot in the making of a moving image, whether it has been used in the ultimate finished Work or not. Its use also maintains the EN15907 structure when cataloguing production materials and not confusing Items that constitute these with Items that are simply copies of the completed, released film.
+A Pre-Release Manifestation is effectively a Production Manifestation for which acquired Items used in the production of a film can be linked. Technically, a Pre-Release Manifestation does not refer to any release at all, but rather to embodiments of the creative process that goes into the creation or construction of the Work itself, i.e. raw or semi-edited footage that has been shot in the making of a moving image, whether it has been used in the ultimate finished Work or not. Effectively, it is a convenient device in order to maintain the EN15907 structure when cataloguing production materials and not to confuse Items that constitute these with Items that are simply copies of the completed, released film.
 
 It applies to production material in general, including: original shooting elements (i.e. original camera negative, working print, original video, editing file) and/or the first recording/mixing of the sound (separate original soundtracks – dialogues, sound, music, – or the first mixed soundtrack).
 
 It may also include, censorship submission prints, working assembly prints, rushes, costume tests, lighting tests, make-up tests, etc. where an institution may need or prefer to group together all production material, i.e. an institution may usually create rushes and tests as separate individual associated records but, where these are acquired as part of a large collection of production material for one particular moving image it prefers, for practical reasons, to keep records together for ease of access or for restoration work purposes.
 
-A Pre-Release Manifestation is effectively a Production Manifestation for which acquired Items used in the production of a film can be linked. Technically, a Pre-Release Manifestation does not refer to any release at all, but rather to embodiments of the creative process that goes into the creation or construction of the Work itself, i.e. raw or semi-edited footage that has been shot in the making of a moving image, whether it has been used in the ultimate finished Work or not. Effectively, it is a convenient device in order to maintain the EN15907 structure when cataloguing production materials and not to confuse Items that constitute these with Items that are simply copies of the completed, released film.
+Depending on the quantity and nature of materials, an institution may create Works in their own right for different in-production filmed aspects, e.g. Screen Tests, Rushes, etc. which are then related to the main, final moving image Work in an associative relationship. Each of these Works would then have their own linked Pre-Release Manifestation. For more possibilities and options in structuring and cataloguing see [ADD LINK TO NEW SECTION ON TITLES AND STRUCTURES OF PRODUCTION MATERIALS CURRENTLY BEING EDITED IN BRANCH 259 DOCUMENT OF MANUAL]
 
-Pre-Release Manifestation can also be used with moving images which started production but were never finished and for which footage exists and may have been acquired by an institution.
-
-Depending on the quantity and nature of materials, an institution may create Works in their own right for different in-production filmed aspects, e.g. Screen Tests, Rushes, etc. which are then related to the main, final moving image Work in an associative relationship. Each of these Works would then have their own linked Pre-Release Manifestation.
-
-Equally, an institution may choose to link all acquired production Items (whether analogue or digital) to a single Pre-Release Manifestation linked to the main complete Work, or possibly to several different Pre-Release Manifestations such as one for Screen Tests, one for Rushes, one for general production material, etc.
-
-It may also be used for initial record creation purposes prior to material being viewed and catalogued, which may then result in separate Work/Variant records for Rushes and Tests material to which the Manifestation record will link.
+It may also be used for initial record creation purposes prior to material being viewed and catalogued, which may then subsequently result in further Pre-Release Manifestations and/or Works/Variants
 
 ```{=latex}
 \begin{tcolorbox}
@@ -71,15 +65,6 @@ Beauty jungle: Artist Test – Shirley Ann Field
 \end{tcolorbox}
 ```
 
-Depending on the quantity and nature of materials, an institution may create Works in their own right for different in-production filmed aspects, e.g. Screen Tests, Rushes, etc. which are then related to the main, final moving image Work in an associative relationship. Each of these Works would then have their own linked Pre-Release Manifestation.
-
-[CREATE AND INSERT DIAGRAM TO ILLUSTRATE HERE]
-
-Equally, an institution may choose to link all acquired production Items (whether analogue or digital) to a single Pre-Release Manifestation linked to the main complete Work, or possibly to several different Pre-Release Manifestations such as one for Screen Tests, one for Rushes, one for general production material, etc.
-
-[CREATE AND INSERT DIAGRAM TO ILLUSTRATE HERE]
-
-It may also be used for initial record creation purposes prior to material being viewed and catalogued, which may then subsequently result in further Pre-Release Manifestations and/or Works/Variants
 
 In addition, it may be applied to moving image Manifestations assembled for submission to censorship/ratings bodies, or moving image Manifestations with cuts resulting from those censorship activities.
 
