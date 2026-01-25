@@ -129,45 +129,7 @@ However, it is understood that many elements may be repeated at the Item level d
 Therefore, the list of elements below indicates those that can be conceivably recorded at the Manifestation level only, at the Manifestation or Item level, and at the Item level only.
 
 
-\subsubsection{Item Copy Condition Perforations – Film} 
-\label{sec:item_copy_condition_perforations_film}
 
-* Foil Patches
-* Torn
-* Pulled
-* Missing
-
-\subsubsection{Item Surface Deposit – Film and Video}
-\label{sec:item_surface_deposit_film_and_video} 
-
-* Mould
-* Rust
-* Oil deposits
-* Dirt
-* Drying marks
-
-\subsubsection{Image – Film and Video} 
-\label{sec:image_film_and_video}
-
-For film, this relates to the inherent qualities of the Emulsion rather than the physical
-condition of the Emulsion.
-
-For video, refer to AV Artifact Atlas for guidance on terms.
-
-http://avaa.bavc.org/artifactatlas/index.php/A/V_Artifact_Atlas
-
-* Discolouration
-* Magenta Bias
-* Faded
-* Print through in mould
-* Drop-outs
-
-\subsubsection{Item Decomposition – Film and Video}
-\label{sec:item_decomposition_film_and_video} 
-
-* Powder
-* Sticky
-* Sticky at head
 
 \subsection{Other Relationships for Works, Variants, Manifestations, Items}
 \label{sec:other_relationships_for_works_variants_manifestations_items} 
