@@ -105,20 +105,6 @@ Aggregate compilation videos/DVDs that are collections of individual works exist
 
 Provide a list of the compiled works contained in the Collections Work in its Synopsis or Summary field.
 
-\subsection{Language Usage Types}
-\label{sec:language_usage_types} 
-
-  Dialogue language(s)
-    Spoken language
-    Sung language
-    Signed language
-    No dialogue
-  Written languages
-    Subtitles
-    Captions
-    Intertitles
-  Language(s) of summaries on containers
-  Language(s) of accompanying material
 
 \subsection{Manifestation/Item Physical Description}
 \label{sec:manifestation_item_physical_description} 
