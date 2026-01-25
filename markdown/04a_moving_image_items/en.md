@@ -457,7 +457,47 @@ Ideally, elements covering information and details regarding the condition of an
 This could be recorded using single or multiple specific headed fields (i.e., covering Base, Emulsion, Image, Perforations, etc.), and then sub-sections of the latter, to incorporate data ranging from graded scales designations (either numerical or alphabetical, for example 1-5, A-G, Perfect – Very Poor) with clear definitions of what each designation means; condition terms selected from a controlled list; free text additional qualification or clarification in observations or comments sections; identification of technical assessor; and, dates.
 
 Record the condition of the Item including its base and/or emulsion and/or perforations, where applicable.
-Selection should be made from a controlled list of terms, for example, “brittle”, “buckled”, “tears,” etc. A suggested list, which is open and not exhaustive, can be found in \nameref{sec:item_copy_condition_base_emulsion_film_and_video}.
+Selection should be made from a controlled list of terms, for example, “brittle”, “buckled”, “tears,” etc. 
+
+\subsubsection{Item Copy Condition Perforations – Film} 
+\label{sec:item_copy_condition_perforations_film}
+
+* Foil Patches
+* Torn
+* Pulled
+* Missing
+
+\subsubsection{Item Surface Deposit – Film and Video}
+\label{sec:item_surface_deposit_film_and_video} 
+
+* Mould
+* Rust
+* Oil deposits
+* Dirt
+* Drying marks
+
+\subsubsection{Image – Film and Video} 
+\label{sec:image_film_and_video}
+
+For film, this relates to the inherent qualities of the Emulsion rather than the physical
+condition of the Emulsion.
+
+For video, refer to AV Artifact Atlas for guidance on terms.
+
+http://avaa.bavc.org/artifactatlas/index.php/A/V_Artifact_Atlas
+
+* Discolouration
+* Magenta Bias
+* Faded
+* Print through in mould
+* Drop-outs
+
+\subsubsection{Item Decomposition – Film and Video}
+\label{sec:item_decomposition_film_and_video} 
+
+* Powder
+* Sticky
+* Sticky at head
 
 Capture the date on which the condition of the Item was recorded (using ISO standard^[ISO 8601]).
 The identification of the individual who carried out the technical assessment and has recorded the condition should also be given.
