@@ -119,21 +119,28 @@ The Types below reflect terms used in Section 4.1.2 Attributes in the CEN standa
 **Analytic (component part)**: content that is contained in another content. 
 A component part may itself be either monographic or serial. Component here means intentional component part not fragments or excerpts of a moving image, e.g. an individual element from a larger newsreel issue.
 
+Examples:
+
 ```{=latex}
 \begin{tcolorbox}
-Work [Monographic] – Harry wird Millionär \\
+Work [Monographic] – Topical Budget 657-1 \\
+Manifestation: Theatrical Release - 35mm - UK - 27th March 1924
 \\
-Variant [Analytic (component part)] – Harry wird Millionär. Incomplete German version \\
-Manifestation 1: Internet – digital file – [2013] – Deutsches Filminstitut – DIF (internet publisher))http://www.filmportal.de/en/node/640472/video/1227323 – 0 h 16’ 59’’ \\
-Item – Harry wird Millionär \\
+Work [Analytic (component part)] – One way of solving the traffic problem \\
+Manifestation 1: Internet – digital file – UK -2015 – BFIplayer (streaming channel) – 0 h 1’ 0’’ \\
 \\
-Variant [Analytic (component part)] – Harry wordt Millionair. Incomplete Dutch version \\
-Manifestation 1: Internet – digital file – [2013] – Deutsches Filminstitut – DIF (internet publisher)) http://www.filmportal.de/en/node/27915/video/1227322 – 0 h 15’ 44’’ \\
-Item – Harry wordt Millionair \\
+
+\end{tcolorbox}
+```
+```{=latex}
+\begin{tcolorbox}
+Work [Monographic] - Kwaidan
+Manifestation: Theatrical Release - 35mm - Japan - December 1964
 \\
-Variant [Monographic] – Harry wird Millionär. Reconstructed version \\
-Manifestation 1: Internet – digital file – [2013] – Deutsches Filminstitut – DIF (internet publisher)) http://www.filmportal.de/en/node/27915/video/1227166 – 0 h 38’ 56’’ \\
-Item – Harry wird Millionär
+Work [Analytic (component part)] - The woman of the snow
+Manifestation: Theatrical Release - 35mm - United Kingdom - October 1968 \\
+\\
+
 \end{tcolorbox}
 ```
 
