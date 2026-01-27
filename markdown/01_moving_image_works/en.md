@@ -127,7 +127,7 @@ Work [Monographic] – Topical Budget 657-1 \\
 Manifestation: Theatrical Release - 35mm - UK - 27th March 1924
 \\
 Work [Analytic (component part)] – One way of solving the traffic problem \\
-Manifestation 1: Internet – digital file – UK -2015 – BFIplayer (streaming channel) – 0 h 1’ 0’’ \\
+Manifestation 1: Internet – digital file – UK -2015 – BFIplayer (streaming channel) \\
 \\
 
 \end{tcolorbox}
