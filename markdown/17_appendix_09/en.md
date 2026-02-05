@@ -1,130 +1,9 @@
 
 
 \newpage
-\section{Rights/Copyright/IPR Registration}  
-\label{sec:appendix_rights_copyright_ipr_registration}
+\section{Copyright/Acquisition/Ownership Information}  
+\label{sec:appendix_copyright_acquisition_ownership information}
     
-\subsection{Rights in a moving image Work}  
-\label{sec:rights_in_a_moving_image_work}
-
-The intellectual property rights in a moving image work are known by various terms such as Copyright, Ayant droit, Droit d’Auteur, IP or simply Rights.
-These IP rights are complex entities, reflecting the complexity of a moving image work’s creation; and they vary across legal frameworks and across historical periods.
-It is therefore impractical to define a minimum cataloguing requirement which is compliant across all territories and periods.
-In addition, it should be noted that legal frameworks can change across time, so data which is not useful today can become useful if the legal definition changes – for example the definitions of author outlined below.
-
-With that context in mind, the following attempts to define a good practice set of properties which the moving image cataloguer should consider, both in reference to their specific legal framework, and in reference to potentially useful data over the lifecycle of the archive’s activity.
-In short: capturing more of the core rights data now will safeguard future archival activity better than capturing less of that rights data now.
-
-It is important to note that intellectual property rights in a moving image work are created automatically, regardless of any requirement for formal registration by the creators of the work.
-In addition, it is worth noting that in some legal territories, unlike literary, dramatic, musical or artistic works, moving image works do not have to meet the criterion of ‘original’ to be protected with intellectual property rights.
-Finally, it is worth noting that unpublished works are often treated differently under law to published works, so it is recommended that the cataloguer capture a statement where it is known that a work is unpublished (for example, home movies).
-
-The recommended properties below are preceded by some background information.
-
-\subsubsection{Background information} 
-\label{sec:background_information} 
-
-\paragraph{Source of data} 
-\label{sec:source_of_data} \
-
-Regarding the source of intellectual property data, it is recommended to obtain the relevant information from onscreen text, taken from the first official manifestation in the primary country of origin.
-Historically this has been a theatrical release in the primary country of production, but as that model changes to include simultaneous online publication of moving image works across multiple territories, this recommendation should accommodate this fluidity: capture the data from the best available manifestation source representing the arguable ‘first fixation’ of the work, and document that source in your work record.
-Alternatively, use information given by the production companies or rights holders, or from other authoritative secondary sources.
-
-\paragraph{Authors of a moving image Work} 
-\label{sec:authors_of_a_moving_image_work} \
-
-The Authors of a moving image work are the first owners of the intellectual property rights.
-As the defined authors of the moving image work differ substantially across territories, the following examples illustrate these differences, and emphasise the usefulness of a broad data capture policy.
-
-UK: The Producer and the Principal Director are the Authors of the work, and therefore the first copyright holders.
-
-Producer: this can be either a person (natural person) or a company (legal person).
-The producer is defined as ‘the person by whom the arrangements necessary for the making of the film are undertaken’.
-The notion of the ‘producer’ presupposes that at the core of the production process there is a person or company which co-ordinates, controls and organises the production.
-For this reason, the recommendation below is to capture both Production Company and named individual Producer.
-
-Principal Director: as credited onscreen.
-
-France: distinct from the United Kingdom model, in France it is those natural persons (not legal persons) who make a creative contribution to the film that are considered authors, so production company / producer are not authors.
-
-Director
-
-Author of the script
-
-Author of the adaptation (if different)
-
-Author of the dialogue (if different)
-
-Author of musical composition written for the film
-
-(plus ‘assimilated’ authors of pre-existing protected works e.g. author of an original novel, or playwright)
-
-Germany: The German model is very similar to the French, again focusing on the creative contributions made by natural persons, but the list can be extended to include a broader set of persons – e.g. cameramen as author – as German Law does not specify the persons deemed as authors.
-
-USA: The US model has a number of categories of authors who make creative contributions (rather like Germany), but the law does not define the ‘authors’, and in any case most individuals will be contracted under ‘work for hire’ provisions which means that the producer is the owner of the intellectual property rights.
-
-These first owners of the intellectual property rights (or their heirs, in the event of their death) retain these rights until one of two events takes place:
-
-1. They (or their heirs) actively sell, assign or otherwise transfer the rights
-
-2. The rights expire, according to specific legal framework(s)
-
-Again, the definitions of what makes a work ‘out of copyright’ differ across territories and periods, so it is impractical to offer a universally compliant cataloguing approach.
-However, in many contexts, the lapse occurs at a stated period after the death of the last of the Authors (or the ‘connected persons’ in the UK).
-For example, in the United Kingdomframework, the work is out of copyright at 70 years following the last death of these ‘connected persons’: Director, Screenplay author, Dialogue author, Music composer.
-
-In the US, where a moving image Work is often a Work of corporate ownership, the current copyright term for a published Work expires 95 years after initial publication or 120 years after creation, whichever expires first.
-However, between 1923-2002 there were periods where other formalities needed to be followed in order to retain copyright: during some periods, a Item required “notice” (a copyright symbol or statement) on the work; in other periods, the Work had to be renewed in the 28th year after initial publication.^[For guidance on copyright terms in the US, see Peter Hirtle’s chart “Copyright terms and the public domain in the United States,” updated annually. http://copyright.cornell.edu/resources/publicdomain.cfm]
-
-As intellectual property rights can be transferred, and can lapse, it is recommended that cataloguers capture statements about the rights’ status: current / previous / out of copyright, and the dates of transfer / lapse, as described below.
-In addition, as death dates are so critical in establishing the status of out of copyright, it is recommended that cataloguers capture the death dates of key contributors where known (and where feasible, that person records for key ‘authors’ are associated with equivalent entities in an official registry of persons, such as VIAF, ISNI or other).
-
-\paragraph{Layers of protection for the ‘work’ as abstraction, and the ‘fixation’ or ‘recording’ of the work in a concrete form} 
-\label{sec:layers_of_protection_for_the_work_as_abstraction_and_the_fixation_or_recording_of_the_work_in_a_concrete_form} \
-
-The complexity and variation in the intellectual property rights surrounding a moving image work also extends to multiple layers of protection, in some legal frameworks.
-Bluntly described, these multiple layers protect the ‘work’ as an abstraction (with the rights held by the ‘authors’, as defined above) and, separately, the ‘fixation’ or ‘recording’ of the work as a film.
-This second layer is often called Related Rights or Neighbouring Rights, and often these rights are owned by the Producer.
-
-This layered approach is not always present in law, for example in the United Kingdomit is the fixation (the recording) that is protected by copyright.
-But some prominent examples of this layered approach are the United States of America, where a film is protected as an original work of expression as distinct from the recording; and France and Germany, which both have separate protection for the work and the recording.
-
-Given the territorial variation, once again, rather than recommend different data properties for the different countries, instead it is recommended to capture a core set of rights data properties, which should provide information sufficient for all possibilities within the different frameworks.
-
-\paragraph{Orphan works} 
-\label{sec:orphan_works} \
-
-Orphan works are defined as those works which are ‘still protected by copyright but whose authors or other rightholders are not known or cannot be located.’ (from the OHIM Orphan Works Database website at https://oami.europa.eu/ohimportal/en/web/observatory/orphan-works-database).
-The absence of information about ownership has prevented archives from exploiting their collections in revenue-generating or access-driving initiatives: for example, online display of digitised collections.
-
-Multiple formal schemes are emerging to register so-called ‘orphan works’ works in certified, searchable databases.
-These schemes require the registering organisation to undertake ‘diligent search’ (e.g., the OWLS guidelines here: https://www.gov.uk/government/publications/orphan-works-diligent-search-guidance-for-applicants) with minimum requirements, and the registration then allows the organisation to exploit the work within parameters defined in legal frameworks.
-
-Three prominent examples (which offer slightly different exploitation rights as outcomes of registration) are the European Union Orphan Works Database (https://oami.europa.eu/orphanworks/); the United Kingdomversion, called Orphan Works Licensing Scheme, or OWLS, (https://www.gov.uk/copyright-orphan-works); and the Canadian version, called Unlocatable Copyright Owners (http://www.cb-cda.gc.ca/unlocatable-introuvables/brochure1-e.html).
-The United States has not yet passed legislation on orphan works, but the Register of Copyrights is actively seeking to change the laws.^[Priorities and special projects of the United States Copyright Office (October 2011), http://copyright.gov/docs/priorities.pdf]
-
-The cataloguer within a moving image archive that is undertaking such registration should add data derived from that registration activity, for example unique identifier for the registration, URL to online database record, link to certificate on PDF, etc.
-
-\paragraph{Rights-protected works that may be used within, or created during, a film production} 
-\label{sec:rights_protected_works} \
-
-These are the types of protected works which are often contained within a new moving image work, or indeed created by the making of a moving image work, and which are often referred to as ‘underlying rights’ or “third-party rights.” When establishing Manifestation rights (see below), these underlying rights must be investigated and cleared as required.
-
-Literary Works – such as a pre-existing novel or play used as the basis for the film screenplay
-
-Dramatic Works – Script(s)
-
-Musical Works – pre-existing music; commissioned music
-
-Artistic Works – such as décor, costumes
-
-Performances – actors’ performances, musical performances of pre-existing mu-
-sic, musical performances in commissioned music
-
-Sound Recordings – if commissioned for pre-existing music
-
-Films – such as archival footage; special effect footage
 
 \subsubsection{Recommended properties to capture in describing the rights context of a moving image Work}
 \label{sec:recommended_properties_to_capture1}
@@ -185,24 +64,6 @@ Films – such as archival footage; special effect footage
 
   g. date of expiry of licence granted by registration scheme
 
-\subsection{Rights in a Manifestation}
-\label{sec:rights_in_a_manifestation}
-
-The rights in a Manifestation are typically licences, contracts or agreements between the Work’s copyright owner / intellectual property rights owner, and a third party, enabling that third party to exploit the work legally by copying it, distributing, broadcasting or publishing it, extracting from it, incorporating it in another work, etc.
-
-Typically, a Work’s owner can offer multiple licences to multiple parties to exploit the work in different publication territories, publication formats, publication platforms; and typically the licence can be exclusive or non-exclusive (in other words, multiple parties can be granted similar exploitation rights to the same work at the same time).
-Finally, the licence typically states a date range within which the exploitation can take place, with the extreme (and rare) example being ‘in perpetuity’, enabling the licensee to exploit the work within the terms without an end date.
-
-Examples of publication modes or platforms and other exploitation models which are often used in moving image Manifestation licences: Theatrical, Home Video, Television, VOD (Video on Demand), DTO (Download to Own), Educational, B2B (Business to Business) footage sales, Plane/Ship/Hotel.(see \nameref{sec:manifestation_types}).
-
-Often an exploitation of a moving image Work in a particular Manifestation requires the licensee to obtain additional clearances from third parties, as these ‘underlying rights’ (eg music, performers, stills) exist in parallel to the core intellectual property rights in the moving image Work.
-Depending on the context, and the importance of this information for the institution, the cataloguer may consider capturing the clearance of these underlying rights, as previously described in H.1.1.6.
-
-Finally, where an archive holds copyright / intellectual property rights in a work, that archive may itself grant licences to third parties to exploit the work.
-This situation, where the archive supplies permission or licence to another party to exploit a work, is often referred to as ‘rights out’ or sales – the opposite of ‘rights in’ or acquisitions, meaning the archive obtains an exploitation licence from the owner.
-In that case, the cataloguer should document not only rights in but also rights out: name and contact details for licensee, territories, platforms, date ranges, exclusive or non-exclusive.
-
-Given the context above, it may be useful for an archive to capture whether it is an acquirer of the manifestation rights being documented, a granter of the rights, or simply a documenter of the rights.
 
 \subsubsection{Recommended properties to capture in describing the rights context of a Manifestation}
 \label{sec:recommended_properties_to_capture2}
@@ -229,34 +90,6 @@ Given the context above, it may be useful for an archive to capture whether it i
 
 8. Filename of agreement: Capture the filename of an electronic version of any agreement pertaining to the manifestation’s licence, or where possible a link to the file in a persistent, available directory within the organisation’s infrastructure.
 
-\subsection{Rights in an Item}
-\label{sec:rights_in_an_item}
-
-The rights in a moving image Item typically refer to the ownership (or transfer of ownership) of an object, either on a physical / analogue carrier such as a 35mm film print, or a digital file such as a DCP / DCDM or ProRes.
-The transfer of ownership (sometimes referred to in legal terms as ‘transfer of title’) is important for an archive to document, as it establishes legal ownership of the collection.
-
-Typically, the transfer involves a contract, deed or agreement signed by both parties to certify that ownership of the object is transferred to the archive, and often this is a complex legal document.
-It is recommended therefore that the cataloguer capture the essential metadata elements below, and where feasible they should associate the catalogue record with an electronic version of the contract, by capturing filename / link to that document.
-
-It should be understood that ownership of the Item does not imply any rights to exploit the Work, as outlined in the Manifestation section (for example, to digitise the object and display online, or distribute to cinemas); and it certainly does not imply any change in the intellectual property rights in the work itself.
-However, often during acquisition decision-making, an archive will undertake research into the broader rights context: is the work in or out of copyright?; if it is, who owns that copyright?; if they are unknown can it be considered an orphan work?; has it been registered as such?; if it is not an orphan work?, who owns the exploitation rights in the relevant territories, platforms?
-Cataloguers should therefore consider capturing details of this rights check activity when documenting the transfer of ownership of the item.
-
-Particular acquisition agreements between object owner and archive may enforce restrictions on the archive, preventing them from undertaking certain activities on the item (for example, preventing them from digitising the item for preservation, or preventing them from exhibiting the item in internal cinema).
-Any such restrictions should be captured in a ‘Provisos of acquisition’, ‘Conditions of access’ or ‘Conditions of reproduction’ set of fields, as outlined below.
-In addition, the acquisition agreement may enforce a protocol for disposal of any objects which are not ultimately accessioned into the archive’s permanent collection: for example, disposal may require approval by acquisition source.
-
-However, it is important to note that any acquisition agreement or contract must not undermine the archive’s rights under law.
-For example, in the UK, under recent legislative changes (Copyright Exceptions) a moving image archive has the right to ‘copy works for archiving and preservation reasons if they are part of a permanent collection and it is not reasonably practicable to purchase a replacement’ (from https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/375956/Libraries_Archives_and_Museums.pdf).
-Therefore a specific acquisition agreement could not attempt to prevent
-that right to copy for preservation.
-
-In the United States, an archive’s right to copy for access and preservation is covered under Section 108.
-However, this section only applies to archives and libraries with specific qualifications.^[http://www.copyright.gov/title17/92chap1.html#108] The current Register of Copyrights has set revising Section 108 as one of her priorities.^[http://search.copyright.gov/search?utf8=%E2%9C%93&affiliate=copyright&query=section+108]
-
-In Italy, since 2004, the Cineteca Nazionale can legally use the copies acquired by legal deposit (3 years after the deposit), or by copying/printing for cultural and non-profit purposes by way of derogation from copyright law.
-
-Below, a set of properties are recommended for describing the rights around the Acquisition, and separately around the Loan, of moving image items.
 
 \subsubsection{Recommended properties to capture in describing the rights context of a moving image Item}
 \label{sec:recommended_properties_to_capture3}
