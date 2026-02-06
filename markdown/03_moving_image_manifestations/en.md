@@ -524,7 +524,7 @@ If no language can be determined, the information can be omitted or indicated by
 More than one language can occur in different forms, depending on how the content is expressed: the usage type of the languages defines the form with which the language is expressed, for example, spoken, sung, written, etc.
 
 Record the usage type of a language by taking the most suitable value from a controlled list.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:language_usage_types}.
+A suggested list, which is open and not exhaustive, can be found in \nameref{sec:language_usage_types}.[ADD LINK TO SECTION ON LANGUAGE USAGE IN WORKS CHAPTER]
 
 If usage type(s) cannot be determined, indicate a value of “unknown”.
 

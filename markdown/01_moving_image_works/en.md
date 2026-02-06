@@ -588,7 +588,22 @@ If no language can be determined, the information can be omitted or indicated by
 \paragraph{Usage Type}
 \label{sec:work_usage_type} \
 
-Record the usage type of a language (e.g. spoken, intertitles, subtitles, etc.) by taking the most suitable term from a controlled list elaborated in-house or referring to an existing authoritative list. See \nameref{sec:language_usage_types}.
+Record the usage type of a language (e.g. spoken, intertitles, subtitles, etc.) by taking the most suitable term from a controlled list elaborated in-house or referring to an existing authoritative list, e.g.:
+
+\subsection{Language Usage Types}
+\label{sec:language_usage_types} 
+
+ * Dialogue language(s)
+   *Spoken language
+   *Sung language
+    *Signed language
+    *No dialogue
+ * Written languages
+    *Subtitles
+    *Captions
+    *Intertitles
+ * Language(s) of summaries on containers
+ * Language(s) of accompanying material
 
 Optionally, record language usage type at the Manifestation/Item level (see \nameref{sec:manifest_language}).
 A value of “original” can be added to the Language element here to indicate that statements made about the language(s) for a particular Manifestation/Item are indicative of the language(s) of the “original” Work. ^[The indication of “original” values at the Manifestation level follows EN 15907 attributes of a Manifestation, pp. 10-11]

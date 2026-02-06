@@ -7,20 +7,6 @@ The value lists provided in this appendix are not definitive and are usually lim
 If no pre-existing and authoritative lists are available, a non-exhaustive but more comprehensive set of terms is provided.^[It is recognised that vocabulary lists often require frequent updates, additions or amendments. For this reason, should resources permit, it would be ideal to separate value lists from the rules and locate them in a central, online repository, like metadataregistry.org. RDF-based repositories like this can supply up-to-date vocabularies on demand and have additional advantages over traditional value lists such as those found in this Appendix.] The example terms have come from a variety of institutions.
 
 
-\subsection{Language Usage Types}
-\label{sec:language_usage_types} 
-
-  Dialogue language(s)
-    Spoken language
-    Sung language
-    Signed language
-    No dialogue
-  Written languages
-    Subtitles
-    Captions
-    Intertitles
-  Language(s) of summaries on containers
-  Language(s) of accompanying material
 
 \subsection{Manifestation/Item Physical Description}
 \label{sec:manifestation_item_physical_description} 
