@@ -179,15 +179,15 @@ Some social media platform titling incorporates identifying # key words, which i
 
 ```{=latex}
 \begin{tcolorbox}
-Part 3. Toast [bread emoji] mukbang#asmr#mukbang#food#eating#toast#bread#shorts#viralvideo#fyp
+Part 3. Toast [bread emoji] mukbang\#asmr\#mukbang\#food\#eating\#toast\#bread\#shorts\#viralvideo\#fyp
 \end{tcolorbox}
 ```
 An actual bread emoji is used within the title on YouTube, so as with the I love Huckabees example above, titling options include
 
 ```{=latex}
 \begin{tcolorbox}
-Part 3. Toast [bread emoji] mukbang#asmr#mukbang#food#eating#toast#bread#shorts#viralvideo#fyp [Preferred/Title Proper] \\
-Part 3. Toast mukbang#asmr#mukbang#food#eating#toast#bread#shorts#viralvideo#fyp [Alternative or Non-preferred] \\
+Part 3. Toast [bread emoji] mukbang\#asmr\#mukbang\#food\#eating\#toast\#bread\#shorts\#viralvideo\#fyp [Preferred/Title Proper] \\
+Part 3. Toast mukbang\#asmr\#mukbang\#food\#eating\#toast\#bread\#shorts\#viralvideo\#fyp [Alternative or Non-preferred] \\
 (A bread emoji features after the word Toast in the YouTube site title.) [Note]
 \end{tcolorbox}
 ```
@@ -198,7 +198,7 @@ Or
 \begin{tcolorbox}
 Part 3. Toast [bread emoji] mukbang [Preferred/Title Proper] \\
 Part 3. Toast mukbang [Alternative or Non-preferred] \\
-Part 3. Toast mukbang#asmr#mukbang#food#eating#toast#bread#shorts#viralvideo#fyp [Alternative or Non-preferred] \\
+Part 3. Toast mukbang\#asmr\#mukbang\#food\#eating\#toast\#bread\#shorts\#viralvideo\#fyp [Alternative or Non-preferred] \\
 (A bread emoji features after the word Toast in the YouTube site title, and the second alternative title reflects the full titling on YouTube) [Note]
 \end{tcolorbox}
 ```
