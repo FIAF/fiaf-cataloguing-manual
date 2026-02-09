@@ -157,7 +157,7 @@ I love Huckabees [Alternative or Non-preferred] \\
 
 Moving images created for social media platforms and sites, e.g. YouTube, TikTok, etc. can often use mixtures of capitalisation and characters, symbols, and emojis in the titles given to uploaded moving images. Institutions are already starting to acquire materials from these sources, so should decide on the titling principles and stylistics they will follow with these.
 
-Sometimes the titling of these can be challenging because they frequently do not have an actual title on the moving image itself, so the only available one that can be used is what the individual who uploaded it called it. This can often cause problems with existing titling stylistics in an organisation's cataloguing systems, and also ties in with questions about how much of often long titles should be included. Thus in this 5 hours and 21 minutes moving image uploaded onto YouTube the first part of the title is all in capitals, then after two exclamation marks moves to a mixture of capitals and lower case, and finally to all lower case:
+Sometimes the titling of these can be challenging because they frequently do not have an actual title on the moving image itself, so the only available one that can be used is what the individual who uploaded it called it. This can often cause problems with existing titling stylistics in an institution's cataloguing systems, and also ties in with questions about how much of often long titles should be included. Thus in this 5 hours and 21 minutes moving image uploaded onto YouTube the first part of the title is all in capitals, then after two exclamation marks moves to a mixture of capitals and lower case, and finally to all lower case:
 
 ```{=latex}
 \begin{tcolorbox}
