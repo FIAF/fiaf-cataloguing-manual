@@ -155,6 +155,58 @@ I love Huckabees [Alternative or Non-preferred] \\
 \end{tcolorbox}
 ```
 
+Moving images created for social media platforms and sites, e.g. YouTube, TikTok, etc. can often use mixtures of capitalisation and characters, symbols, and emojis in the titles given to uploaded moving images. Institutions are already starting to acquire materials from these sources, so should decide on the titling principles and stylistics they will follow with these.
+
+Sometimes the titling of these can be challenging because they frequently do not have an actual title on the moving image itself, so the only available one that can be used is what the individual who uploaded it called it. This can often cause problems with existing titling stylistics in an organisation's cataloguing systems, and also ties in with questions about how much of often long titles should be included. Thus in this 5 hours and 21 minutes moving image uploaded onto YouTube the first part of the title is all in capitals, then after two exclamation marks moves to a mixture of capitals and lower case, and finally to all lower case:
+
+```{=latex}
+\begin{tcolorbox}
+ASMR HELLO KITTY TOYS SURPRISE UNBOXING 5 HOURS !! HUGE Sanrio Mystery Blind Boxes mini toys
+\end{tcolorbox}
+```
+An institution may decide to keep the above in full and exactly as laid out for the main preferred title proper, or may decide to standardise capitalisation in line with their existing practice for the main preferred title proper, e.g.  
+
+```{=latex}
+\begin{tcolorbox}
+ASMR Hello Kitty toys surprise unboxing 5 hours !! Sanrio mystery blind boxes mini toys [Preferred/Title Proper] \\
+ASMR HELLO KITTY TOYS SURPRISE UNBOXING 5 HOURS !! HUGE Sanrio Mystery Blind Boxes mini toys [Alternative or Non-preferred] \\
+(Alternative title capitalisation and punctuation reflects that of the YouTube site title) [Note]
+\end{tcolorbox}
+```
+Or further decide to remove odd looking punctuations in the middle that may create searching and access issues in their systems.
+
+Some social media platform titling incorporates identifying # key words, which is drifting into the area of descriptions, forms, and genres for which an institution may have separate fields: 
+
+```{=latex}
+\begin{tcolorbox}
+Part 3. Toast [bread emoji] mukbang#asmr#mukbang#food#eating#toast#bread#shorts#viralvideo#fyp
+\end{tcolorbox}
+```
+An actual bread emoji is used within the title on YouTube, so as with the I love Huckabees example above, titling options include
+
+```{=latex}
+\begin{tcolorbox}
+Part 3. Toast [bread emoji] mukbang#asmr#mukbang#food#eating#toast#bread#shorts#viralvideo#fyp [Preferred/Title Proper] \\
+Part 3. Toast mukbang#asmr#mukbang#food#eating#toast#bread#shorts#viralvideo#fyp [Alternative or Non-preferred] \\
+(A bread emoji features after the word Toast in the YouTube site title.) [Note]
+\end{tcolorbox}
+```
+
+Or
+
+```{=latex}
+\begin{tcolorbox}
+Part 3. Toast [bread emoji] mukbang [Preferred/Title Proper] \\
+Part 3. Toast mukbang [Alternative or Non-preferred] \\
+Part 3. Toast mukbang#asmr#mukbang#food#eating#toast#bread#shorts#viralvideo#fyp [Alternative or Non-preferred] \\
+(A bread emoji features after the word Toast in the YouTube site title, and the second alternative title reflects the full titling on YouTube) [Note]
+\end{tcolorbox}
+```
+
+
+It is for an individual institution to decide on the best form of title to use in these cases, balancing exact replication with database capabalities, search functionalities, and user access.
+
+
 \subsection{Title Types}   
 \label{sec:title_types}
  
