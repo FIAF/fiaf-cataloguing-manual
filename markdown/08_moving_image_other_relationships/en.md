@@ -130,7 +130,7 @@ Express the relationship between a moving image Work or Variant and a moving ima
 Describe or demonstrate Work-to-Manifestation relationships through linking to the Work identifier, through the usage of relator terms, or according to the confines of your data structure.
 
 
-\section{Manifestations_from chapter} 
+\section{Manifestations from chapter} 
 \label{sec:manifestations_from_chapter} 
 
 \subsubsection{“Other” Relationships}
@@ -221,7 +221,7 @@ Describe or demonstrate Manifestation-to-Variant relationships through linking t
 
 
 
-\subsubsection{Items_from_chapter}    
+\subsubsection{Items from chapter}    
 \label{sec:items_from_chapter} 
 
 Express relationships that are not covered by the Agent and Event relationships.
