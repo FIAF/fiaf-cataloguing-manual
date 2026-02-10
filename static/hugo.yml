@@ -4,11 +4,18 @@ title: FIAF Cataloguing Manual
 theme: hextra
 menu:
   main:
-  - name: Search
+  - identifier: docs
+    name: Cataloguing manual
+    pageRef: /docs
+    weight: 1
+  - identifier: search
+    name: Search
+    weight: 2
     params:
-      type: search
   - name: GitHub
     url: "https://github.com/FIAF/fiaf-cataloguing-manual"
+    params:
+ #     icon: github
 params:
   navbar:
     displayTitle: true
