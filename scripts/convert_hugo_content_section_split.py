@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import argparse
 import re
+import shutil
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
@@ -164,7 +165,15 @@ def convert_tcolorbox(text: str) -> str:
             line = re.sub(r"\\indent\\hspace\{[^}]+\}\s*", "", line)
             line = line.replace("\\\\", "<br/>")
             lines.append(line)
-        return "\n".join(["> " + l for l in lines])
+        if not lines:
+            return "> [!EXAMPLE]"
+        quoted = ["> [!EXAMPLE]"]
+        for line in lines:
+            if line.strip():
+                quoted.append("> " + line)
+            else:
+                quoted.append(">")
+        return "\n".join(quoted)
 
     return re.sub(r"```\{=latex\}\s*\n(.*?)```", _replace, text, flags=re.S)
 
@@ -344,6 +353,21 @@ def build_chapter_sources() -> List[Path]:
     return sorted((ROOT / "markdown").glob("*/en.md"))
 
 
+def copy_diagrams() -> None:
+    src_dir = ROOT / "src" / "diagrams"
+    if not src_dir.exists():
+        return
+    dest_dir = ROOT / "static" / "static" / "diagrams"
+    dest_dir.mkdir(parents=True, exist_ok=True)
+    allowed = {".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp"}
+    for path in src_dir.iterdir():
+        if not path.is_file():
+            continue
+        if path.suffix.lower() not in allowed:
+            continue
+        shutil.copy2(path, dest_dir / path.name)
+
+
 def split_sections(text: str) -> Tuple[str, List[str]]:
     lines = text.splitlines()
     section_re = re.compile(r"^\s*\\subsection\*?(?:\[[^\]]+\])?\{")
@@ -454,6 +478,7 @@ def main() -> int:
         outputs[dest] = content
 
     if not args.dry_run:
+        copy_diagrams()
         for dest, content in outputs.items():
             dest.parent.mkdir(parents=True, exist_ok=True)
             dest.write_text(content, encoding="utf-8")
