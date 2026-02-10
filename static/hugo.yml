@@ -12,6 +12,7 @@ menu:
     name: Search
     weight: 2
     params:
+      type: search
   - name: GitHub
     url: "https://github.com/FIAF/fiaf-cataloguing-manual"
     params:
