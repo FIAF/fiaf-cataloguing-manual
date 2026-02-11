@@ -19,7 +19,7 @@ In the case of purely digital media, an Item is defined as the availability of t
 \label{sec:elements_of_a_moving_image_item}
 
 A majority of the physical and digital description elements of moving image Items are intended to be inherited from the Manifestations, as they serve as the exemplars of Manifestations.
-In some databases, selection of a physical carrier type initiates provision of element fields relevant to that type at a Manifestation level, or an Item level, or both (e.g. in a 2 Level hierarchy.
+In some databases, selection of a physical media type initiates provision of element fields relevant to that type at a Manifestation level, or an Item level, or both (e.g. in a 2 Level hierarchy.
 See “Shallow hierarchy model: 2 levels” in \nameref{sec:elements_of_description}).
 
 Ideally the information need only be recorded once irrespective of where in the data structure an institution must place it.
@@ -113,29 +113,29 @@ Further data relating to the condition, preservation, location, and, acquisition
 
 These may be either added to the Item description itself or, where this is not possible, related to other separate files or databases, via physical link or text indication.
 
-\paragraph{Carrier Type} 
-\label{sec:carrier_type} \
+\paragraph{Media Type} 
+\label{sec:media_type} \
 
-Carrier type is the medium on or the encoding format in which the Item is fixed.
+Media type is the medium on or the encoding format in which the Item is fixed.
 
-Its description consists of a general carrier type, which describes the basic proper- ties of the Item’s physical format, for example, film, video tape, digital file, etc., and a specific carrier type, which corresponds to the gauge, in case of films and tapes, and for digital files, to the physical carrier on which the file is stored.
+Its description consists of a general media type, which describes the basic proper- ties of the Item’s physical format, for example, film, video tape, digital file, etc., and a specific media type, which corresponds to the gauge, in case of films and tapes, and for digital files, to the physical carrier on which the file is stored.
 
-\subparagraph{General Carrier Type} 
-\label{sec:item_general_carrier_type} \
+\subparagraph{General Media Type} 
+\label{sec:item_general_media_type} \
 
-The broad media type of the Item (e.g., film, video, audio, optical, digital file).
+The broad media type of the Item (e.g., film, video, digital file).
 Re- cording this high-level information will enable simple searching for only film, video, digi- tal, etc. elements rather than searching by all possible formats and carriers.
 
 Record only if this information is not captured at the Manifestation level or if required at the Item level by the system in use.
 
-A suggested list can be found in \nameref{sec:manifestation_item_general_carrier_type}.
+A suggested list can be found in \nameref{sec:manifestation_item_general_media_type}.
 
-For reasons of clarity and to avoid redundancy, optionally, institutions can decide to skip the general carrier type description for film and video, since it is already implicit in the specific carrier type.
+For reasons of clarity and to avoid redundancy, optionally, institutions can decide to skip the general media type description for film and video, since it is already implicit in the specific media type.
 
-\subparagraph{Specific Carrier Type} 
-\label{sec:item_specific_carrier_type} \
+\subparagraph{Specific Media Type} 
+\label{sec:item_specific_media_type} \
 
-Record the specific carrier type, by indicating
+Record the specific media type, by indicating
 
 1. For film and video: the width of the film stock or of the magnetic tape on which the Item is fixed;
 
@@ -149,8 +149,8 @@ Information on the specific codecs and resolution are captured in other Item ele
 For optical media, only add commercially produced media here.
 If the optical media is “writable” and is being used to store a digital file, put the digital file format in the gen- eral carrrier type, and the optical storage media in specific media type.
 
-Record the specific carrier type, selecting from a suitable controlled list.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_item_specific_carrier_type}.
+Record the specific media type, selecting from a suitable controlled list.
+A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_item_specific_media_type}.
 
 \paragraph{Item Status} 
 \label{sec:item_status}} \
