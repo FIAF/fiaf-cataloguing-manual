@@ -155,16 +155,16 @@ I love Huckabees [Alternative or Non-preferred] \\
 \end{tcolorbox}
 ```
 
-Moving images created for social media platforms and sites, e.g. YouTube, TikTok, etc. can often use mixtures of capitalisation and characters, symbols, and emojis in the titles given to uploaded moving images. Institutions are already starting to acquire materials from these sources, so should decide on the titling principles and stylistics they will follow with these.
+Moving images created for social media platforms and sites, e.g. YouTube, TikTok, etc. can often use mixtures of capitalisation and characters, symbols, and emojis in the titles given to them on uploaded. Institutions are already starting to acquire materials from these sources, so should decide on the titling principles and stylistics they will follow and apply systematically.
 
-Sometimes the titling of these can be challenging because they frequently do not have an actual title on the moving image itself, so the only available one that can be used is what the individual who uploaded it called it. This can often cause problems with existing titling stylistics in an institution's cataloguing systems, and also ties in with questions about how much of often long titles should be included. Thus in this 5 hours and 21 minutes moving image uploaded onto YouTube the first part of the title is all in capitals, then after two exclamation marks moves to a mixture of capitals and lower case, and finally to all lower case:
+Sometimes the titling of these can be challenging because they frequently do not have an actual title on the moving image itself, so the only available one that can be used is what the individual who uploaded it called it. This can often cause problems with existing titling stylistics in an institution's cataloguing systems, and also ties in with questions about how much of often long titles should be included. Thus in the ecample below of a 5 hours and 21 minutes moving image uploaded onto YouTube the first part of the title is all in capitals, then after two exclamation marks moves to a mixture of capitals and lower case, and finally to all lower case:
 
 ```{=latex}
 \begin{tcolorbox}
 ASMR HELLO KITTY TOYS SURPRISE UNBOXING 5 HOURS !! HUGE Sanrio Mystery Blind Boxes mini toys
 \end{tcolorbox}
 ```
-An institution may decide to keep the above in full and exactly as laid out for the main preferred title proper, or may decide to standardise capitalisation in line with their existing practice for the main preferred title proper, e.g.  
+An institution may decide to keep the title in full and exactly as laid out for their main preferred title proper, as with the above example; or, may decide to standardise capitalisation in line with their existing practice for the main preferred title proper, e.g.  
 
 ```{=latex}
 \begin{tcolorbox}
@@ -173,7 +173,7 @@ ASMR HELLO KITTY TOYS SURPRISE UNBOXING 5 HOURS !! HUGE Sanrio Mystery Blind Box
 (Alternative title capitalisation and punctuation reflects that of the YouTube site title) [Note]
 \end{tcolorbox}
 ```
-Or further decide to remove odd looking punctuations in the middle that may create searching and access issues in their systems.
+Or further decide to remove unusual punctuations in the middle that may create searching and access issues in their systems.
 
 Some social media platform titling incorporates identifying # key words, which is drifting into the area of descriptions, forms, and genres for which an institution may have separate fields: 
 
@@ -204,7 +204,7 @@ Part 3. Toast mukbang\#asmr\#mukbang\#food\#eating\#toast\#bread\#shorts\#viralv
 ```
 
 
-It is for an individual institution to decide on the best form of title to use in these cases, balancing exact replication with database capabalities, search functionalities, and user access.
+It is for an individual institution to decide on the best form of title to use in these cases, balancing exact replication or consistency of stylistics, with database capabalities, search functionalities, and user access.
 
 
 \subsection{Title Types}   
