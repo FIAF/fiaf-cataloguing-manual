@@ -16,11 +16,33 @@ menu:
   - name: GitHub
     url: "https://github.com/FIAF/fiaf-cataloguing-manual"
     params:
- #     icon: github
+      icon: github
+  - name: Language-switch
+    weight: 7
+    params:
+        type: language-switch
+        label: true
+
+
 params:
   navbar:
-    displayTitle: true
-    displayLogo: false
+    displayTitle: false
+    displayLogo: true
+    logo:
+      path: logoNoirFIAF.png
+      link: /docs
+      width: 70
+      height: 40
+
   editURL:
     enable: true
     base: "https://github.com/FIAF/fiaf-cataloguing-manual/tree/181-static-site/static/content/"
+
+defaultContentLanguage: en
+languages:
+  en:
+    languageName: English
+    weight: 1
+  de:
+    languageName: Deutsch
+    weight: 2
