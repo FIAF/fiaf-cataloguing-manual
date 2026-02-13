@@ -1,0 +1,6 @@
+:root {
+  /* “Pure” red accent */
+  --primary-hue: 0deg;
+  --primary-saturation: 100%;
+  --primary-lightness: 70%;
+}
