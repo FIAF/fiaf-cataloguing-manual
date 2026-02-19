@@ -284,7 +284,7 @@ Preservation Event information consists of the following sub-elements:
   - Preservation type
   - Preservation Date
 
-- Preservation type
+**Preservation type**
 
 Record the general type of the preservation activity performed, for example, duplication, transfer, etc. Selection should be made from a controlled list of terms, e.g.:
 * Duplication (Printing / Recording)
@@ -294,7 +294,7 @@ Record the general type of the preservation activity performed, for example, dup
 * Reconstruction
 * Restoration
 
-- Preservation Date
+**Preservation Date**
 
 Record the date or time span in which the preservation activity was performed.
 (Dates should be formatted according to ISO 8601 or some other recognised standard.)
