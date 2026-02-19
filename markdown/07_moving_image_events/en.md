@@ -96,10 +96,11 @@ Publication Event information consists of the following sub-elements:
   - Publication date
   - Region
 
-- Publication type
+**Publication type**
 
 For Works/Variants, record the type of Publication Event for Works/Variants, for example, publication, release, distribution, broadcast, online transmission.
 Selection should be made from a controlled list of values, e.g.:
+
 * Release
 * Publication
 * Distribution
@@ -119,12 +120,12 @@ For Manifestations, the Publication Event that originated the embodiment of a sp
 For this reason, conceptually, and also in practice, “publication type” overlaps the main definition of “Manifestation type,” as explained in \nameref{sec:boundaries_between_manifestations} and, as such, is already described.
 Institutions have the option to decide whether to repeat this information or not.
 
-- Publication date
+**Publication date**
 
 Record the date on which Work/Variant or Manifestation was released or otherwise made available.
 Dates should be formatted according to ISO 8601 or some other recognised standard.
 
-- Region
+**Region**
 
 Record the country or other political or physical geographic entity where the Publication Event took place (e.g. first projection in the framework of a theatrical distribution) or made the Work/Variant or Manifestation available (e.g. distribution area).
 
@@ -158,21 +159,21 @@ Award(s) or Nomination(s) Event information consists of the following sub-elemen
   - Award name
   - Achievement
 
-- Award(s)/Nomination(s) date
+**Award(s)/Nomination(s) date**
 
 Record the date the award was bestowed on an Agent associated with the Work, Variant or Manifestation.
 (Dates should be formatted according to ISO 8601 or some other recognised standard.)
 
-- Nomination only
+**Nomination only**
 
 Indicate if the Work, Variant or Manifestation (or a specific achievement in the creation of it) was nominated but not among the winners.
 This element can be realised in a system as a “flag.” If there was only a nomination, this element would be set to a logical value of “true.”
 
-- Award name
+**Award name**
 
 The name of the award or trophy, possibly including a numeric designation (e.g. 2nd Prize)
 
-- Achievement
+**Achievement**
 
 A phrase describing a specific achievement for which the award was given, if not for the Work, Variant or Manifestation in total.
 
@@ -197,27 +198,28 @@ Production Event information consists of the following sub-elements:
   - Year/Date
   - Event details
 
-- Production Event type
+**Production Event type**
 
 Selection should be made from a controlled list of values, e.g.:
+
 * Casting
 * Outdoor shooting
 * Indoor shooting
 * Post-Production
 
-- Location
+**Location**
 
 Any geographic name(s) or address(es) of the location(s) where the event took place
 
-- Region
+**Region**
 
 The country or other large-scale geographic entity where the event took place
 
-- Year/Date
+**Year/Date**
 
 The year/date or time-span during which the event took place. Dates should be formatted according to ISO 8601 or some other recognised standard.
 
-- Event details
+**Event details**
 
 Any further information about the event either in plain textual form, or as an instance of a data type from another schema
 
@@ -242,24 +244,24 @@ Copyright/IPR Registration Event information consists of the following sub-eleme
   - Name of applicant
   - Registration number
 
-- Registration date
+**Registration date**
 
 The date on which the registration was filed or the date on which registration became effective.
 (Dates should be formatted according to ISO 8601 or some other recognised standard.)
 
-- Registration agency
+**Registration agency**
 
 Name of the agency issuing the registration certificate (e.g. “UK Intellectual Property Office,” name of a legal deposit library, etc.).
 
-- Regional scope
+**Regional scope**
 
 The geographic region for which copyright is claimed.
 
-- Name of applicant
+**Name of applicant**
 
 Name of the Agent claiming copyright in the Work or Variant.
 
-- Registration number
+**Registration number**
 
 The number assigned by the registration agency.
 
@@ -284,9 +286,10 @@ Preservation Event information consists of the following sub-elements:
   - Preservation type
   - Preservation Date
 
-- Preservation type
+**Preservation type**
 
 Record the general type of the preservation activity performed, for example, duplication, transfer, etc. Selection should be made from a controlled list of terms, e.g.:
+
 * Duplication (Printing / Recording)
 * Transfer
 * Reproduction
@@ -294,7 +297,7 @@ Record the general type of the preservation activity performed, for example, dup
 * Reconstruction
 * Restoration
 
-- Preservation Date
+**Preservation Date**
 
 Record the date or time span in which the preservation activity was performed.
 (Dates should be formatted according to ISO 8601 or some other recognised standard.)
@@ -328,32 +331,32 @@ Decision event information consists of the following sub-elements:
   - Regional scope
   - Certificate number
   - Verdict
-  - Decision type
 
-- Decision type
+**Decision type**
 
 Record the type or status of the decision event.
 Usually the term adopted is “censorship” or “revision” for decisions mandated by law, “rating” for decisions under a voluntary scheme.
 Further types may include special forms of evaluation, e.g. for tax privileges, as long as these are distinct from awards.
 
 Selection should be made from a controlled list of terms. e.g.:
+
 * Censorship
 * Revision
 * Rating
 
-- Decision date
+**Decision date**
 
 Record the date on which the verdict was announced or on which the verdict was declared valid. Dates should be formatted according to ISO 8601 or some other recognised standard.
 
-- Regional scope
+**Regional scope**
 
 Record the geographic region for which the verdict is (was) valid.
 
-- Certificate number
+**Certificate number**
 
 Record in Arabic numerals the number issued by the agency as a unique identifier of the act(s) of rating or censorship such as censorship visas or rating certificates.
 
-- Verdict
+**Verdict**
 
 Record the outcome of the act of rating or censorship.
 
@@ -376,9 +379,10 @@ Manufacture event information consists of the following sub-elements:
   - Manufacture date
   - Manufacture region
 
-- Manufacture type
+**Manufacture type**
 
 Record the general type of the manufacture activity performed, for example, film printing, tele-cine, video copying, etc. Selection should be made from a controlled list of terms, e.g.:
+
 * Film printing
 * Telecine
 * Video copying
@@ -386,11 +390,11 @@ Record the general type of the manufacture activity performed, for example, film
 * Mastering
 * Uploading
 
-- Date of Manufacture
+**Manufacture date**
 
 Record the date or time span on which the Manufacture Event took place. (Dates should be formatted according to ISO 8601 or some other recognised standard.)
 
-- Region of Manufacture/embodiment
+**Manufacture region**
 
 Record the country or other political or physical geographic entity where the Manufacture Event took place (e.g. the region/place where the laboratory was located).
 (For the treatment of the geographical names, see Getty Thesaurus of Geographic Names (TGN), or some other recognised standard.)
@@ -414,21 +418,22 @@ Inspection Event information consists of the following sub-elements:
   - Inspection date
   - Inspection detail
 
-- Inspection type
+**Inspection type**
 
 The general type of inspection activity performed.
 
 If desired and if applicable, record one or more general type(s) of the inspection activity performed (e.g. projection prep, inventory). Selection should be made from a controlled list of terms. This includes statements about past or future inspections scheduled for the item.^[YCR 6.5, 6.6]
 
-- Inspection date
+**Inspection date**
 
 The date or time span in which the inspection activity was performed. (Dates should be formatted according to ISO 8601 or some other recognised standard.)
 
-- Inspection detail
+**Inspection detail**
 
 Information describing the condition of the Item in greater detail.
 
 If desired and if applicable, record information about the condition of the Item, including nature and extent of damage. Selection should be made from a controlled list of terms, e.g.:
+
 * Brittle
 * Buckled
 * Light Scratches
@@ -456,32 +461,34 @@ An Acquisition Event information consists of the following sub-elements:
   - Accession date
   - Acquisition detail
 
-- Acquisition type
+**Acquisition type**
 
 Describes the means by which the Item was acquired, for example, donation, exchange, loan, etc. Select from a controlled list of terms, e.g.:
+
 * Donation
 * Exchange
 * Loan
 * Purchase
 * Off-air recording
 
-- Acquisition date
+**Acquisition date**
 
 The date on which the Item was physically acquired. This date is distinct from an Accession date, which should be entered only once any required assessment has been completed, and the Item has been formally added to the inventory of the collection. (Dates should be formatted according to ISO 8601 or some other recognised standard.)
 
-- Acquisition source
+**Acquisition source**
 
 The name of the person or organisation from which the Item was obtained, indicating whether the acquisition was direct from, for example, the donor or via an intermediary or agent. Select from a controlled list of terms, e.g.:
+
 * Donor
 * Agent
 * Intermediary
 
-- Accession date
+**Accession date**
 
 The date on which the Item was formally added to the inventory of the collection.
 (Dates should be formatted according to ISO 8601 or some other recognised standard.)
 
-- Acquisition detail
+**Acquisition detail**
 
 Information describing the acquisition of the Item in greater detail.
 
