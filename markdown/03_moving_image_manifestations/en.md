@@ -51,6 +51,13 @@ It may also include, censorship submission prints, working assembly prints, rush
 
 An institution may create Works in their own right for different in-production filmed aspects, e.g. Screen Tests, Rushes, etc. which are then related to the main, final moving image Work in an associative relationship. Each of these Works would then have their own linked Pre-Release Manifestation. Decisions on this may depend on the quantity and/or nature of materials acquired and an institution's preference. For further details about possibilities and options in structuring and cataloguing production materials and using Pre-release Manifestations see [ADD LINK TO NEW SECTION ON TITLES AND STRUCTURES OF PRODUCTION MATERIALS CURRENTLY BEING EDITED IN BRANCH 259 DOCUMENT OF MANUAL]
 
+Pre-Release Manifestation can also be used with moving images which started production but were never finished and for which footage exists and may have been acquired by an institution.
+
+Depending on the quantity and nature of materials, an institution may create Works in their own right for different in-production filmed aspects, e.g. Screen Tests, Rushes, etc. which are then related to the main, final moving image Work in an associative relationship. Each of these Works would then have their own linked Pre-Release Manifestation.
+
+Equally, an institution may choose to link all acquired production Items (whether analogue or digital) to a single Pre-Release Manifestation linked to the main complete Work, or possibly to several different Pre-Release Manifestations such as one for Screen Tests, one for Rushes, one for general production material, etc.
+
+
 It may also be used for initial record creation purposes prior to material being viewed and catalogued, which may then subsequently result in further Pre-Release Manifestations and/or Works/Variants
 
 ```{=latex}
@@ -65,6 +72,13 @@ Beauty jungle: Artist Test – Shirley Ann Field
 \end{tcolorbox}
 ```
 
+Depending on the quantity and nature of materials, an institution may create Works in their own right for different in-production filmed aspects, e.g. Screen Tests, Rushes, etc. which are then related to the main, final moving image Work in an associative relationship. Each of these Works would then have their own linked Pre-Release Manifestation.
+
+Equally, an institution may choose to link all acquired production Items (whether analogue or digital) to a single Pre-Release Manifestation linked to the main complete Work, or possibly to several different Pre-Release Manifestations such as one for Screen Tests, one for Rushes, one for general production material, etc.
+
+For examples of these see [ADD INTERNAL LINK TO APPENDIX 1 SECTION ON TITLES AND STRUCTURES FOR PRODUCTION MATERIAL]
+
+It may also be used for initial record creation purposes prior to material being viewed and catalogued, which may then subsequently result in further Pre-Release Manifestations and/or Works/Variants
 
 In addition, it may be applied to moving image Manifestations assembled for submission to censorship/ratings bodies, or moving image Manifestations with cuts resulting from those censorship activities.
 
