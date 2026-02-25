@@ -43,13 +43,13 @@ EN15907 does not specify any Manifestation types other than Unknown. The Manifes
 
 A moving image Manifestation type that may be used to represent any embodiments of a moving image Work that exist before the finalisation or release of the moving image Work. Also use for partially realised projects, i.e. productions that started filming but then project ceased before completion, for which footage exists and may have been acquired by an institution.
 
-A Pre-Release Manifestation is effectively a Production Manifestation for which acquired Items used in the production of a film can be linked. Technically, a Pre-Release Manifestation does not refer to any release at all, but rather to embodiments of the creative process that goes into the creation or construction of the Work itself, i.e. raw or semi-edited footage that has been shot in the making of a moving image, whether it has been used in the ultimate finished Work or not. Its use also maintains the EN15907 structure when cataloguing production materials and not confusing Items that constitute these with Items that are simply copies of the completed, released film.
+A Pre-Release Manifestation is effectively a Production Manifestation for which acquired Items created or used in the production of a film can be linked. Technically, a Pre-Release Manifestation does not refer to any release at all, but rather to embodiments of the creative process that goes into the creation or construction of the Work itself, i.e. raw or semi-edited footage that has been shot in the making of a moving image, whether it has been used in the ultimate finished Work or not. Effectively, it is a convenient device in order to maintain the EN15907 structure when cataloguing production materials and not to confuse Items that constitute these with Items that are simply copies of the completed, released film.
 
 It applies to production material in general, including: original shooting elements (i.e. original camera negative, working print, original video, editing file) and/or the first recording/mixing of the sound (separate original soundtracks – dialogues, sound, music, – or the first mixed soundtrack).
 
 It may also include, censorship submission prints, working assembly prints, rushes, costume tests, lighting tests, make-up tests, etc. where an institution may need or prefer to group together all production material, i.e. an institution may usually create rushes and tests as separate individual associated records but, where these are acquired as part of a large collection of production material for one particular moving image it prefers, for practical reasons, to keep records together for ease of access or for restoration work purposes.
 
-A Pre-Release Manifestation is effectively a Production Manifestation for which acquired Items used in the production of a film can be linked. Technically, a Pre-Release Manifestation does not refer to any release at all, but rather to embodiments of the creative process that goes into the creation or construction of the Work itself, i.e. raw or semi-edited footage that has been shot in the making of a moving image, whether it has been used in the ultimate finished Work or not. Effectively, it is a convenient device in order to maintain the EN15907 structure when cataloguing production materials and not to confuse Items that constitute these with Items that are simply copies of the completed, released film.
+An institution may create Works in their own right for different in-production filmed aspects, e.g. Screen Tests, Rushes, etc. which are then related to the main, final moving image Work in an associative relationship. Each of these Works would then have their own linked Pre-Release Manifestation. Decisions on this may depend on the quantity and/or nature of materials acquired and an institution's preference. For further details about possibilities and options in structuring and cataloguing production materials and using Pre-release Manifestations see [ADD LINK TO NEW SECTION ON TITLES AND STRUCTURES OF PRODUCTION MATERIALS CURRENTLY BEING EDITED IN BRANCH 259 DOCUMENT OF MANUAL]
 
 Pre-Release Manifestation can also be used with moving images which started production but were never finished and for which footage exists and may have been acquired by an institution.
 
@@ -58,6 +58,7 @@ Depending on the quantity and nature of materials, an institution may create Wor
 Equally, an institution may choose to link all acquired production Items (whether analogue or digital) to a single Pre-Release Manifestation linked to the main complete Work, or possibly to several different Pre-Release Manifestations such as one for Screen Tests, one for Rushes, one for general production material, etc.
 
 
+It may also be used for initial record creation purposes prior to material being viewed and catalogued, which may then subsequently result in further Pre-Release Manifestations and/or Works/Variants
 
 ```{=latex}
 \begin{tcolorbox}
@@ -537,7 +538,7 @@ If no language can be determined, the information can be omitted or indicated by
 More than one language can occur in different forms, depending on how the content is expressed: the usage type of the languages defines the form with which the language is expressed, for example, spoken, sung, written, etc.
 
 Record the usage type of a language by taking the most suitable value from a controlled list.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:language_usage_types}.
+A suggested list, which is open and not exhaustive, can be found in \nameref{sec:language_usage_types}.[ADD LINK TO SECTION ON LANGUAGE USAGE IN WORKS CHAPTER]
 
 If usage type(s) cannot be determined, indicate a value of “unknown”.
 
@@ -1039,90 +1040,4 @@ Instances of any Event type can have Agent and “Other” relationships.
 Record one or more Event type, for example, “decision,” “manufacture,” etc., to express the nature of the Event’s relationship to the Manifestation.
 Selection should be made from a controlled list of terms.
 A suggested list, which is open and not exhaustive, can be found in \nameref{sec:event_type}.
-
-\subsubsection{“Other” Relationships}
-\label{sec:manifest_other_relationships}
-
-Expresses relationships that are not covered by the Agent and Event relationships.
-Aggregation relationships are expressed at the Work/Variant level (see \nameref{sec:aggregates_compilations_multi_component_productions}).
-
-Commonly-occurring relationships include:
-
-*Manifestations that the moving image Manifestation forms part of (e.g. series/serials).*
-
-```{=latex}
-\begin{tcolorbox}
-Le cryptogramme rouge (35mm print, m 984, m 48’ (18fps) \\
-3° episode of the serial Les vampires (L. Feuillade, 1915).
-\end{tcolorbox}
-```
-
-*Manifestation(s) that the moving image Manifestation has a sequential relationship with (e.g. series/serials).*
-
-*Manifestation(s) that are promotional material(s) (i.e. trailers) for a particular Manifestation.*
-
-```{=latex}
-\begin{tcolorbox}
-Rashomon (Japan, 1950, A. Kurosawa) “has as promotional material”: Rashomon, Italian trailer (35mm), of the Italian theatrical release (1952).
-\end{tcolorbox}
-```
-
-*Non-moving image Works/Manifestation(s), about or relating to the moving image Manifestation (e.g. objects, articles, documents such as a review relating to a DVD home video publication, advertising materials referring to a specific theatrical distribution, related materials such as censorship visas, laboratory technical papers, etc.)*
-
-```{=latex}
-\begin{tcolorbox}
-Metro. Issue 157. June 2008. “DVD review: Blade Runner: The Final Cut”, by Steven Aoun.
-\end{tcolorbox}
-```
-
-```{=latex}
-\begin{tcolorbox}
-Der Dritte Mann (German film poster for the German-language Release Manifestation of the film The third man (United Kingdom, 1949, Carol Reed)
-\end{tcolorbox}
-```
-
-*Pre-release Manifestation(s) relating to a Release Manifestation.*
-
-```{=latex}
-\begin{tcolorbox}
-Blow-up (UK-Italy, 1966, Michelangelo Antonioni )and Blow-up censorship cuts (35mm) of the Italian theatrical release (1967).
-\end{tcolorbox}
-```
-
-```{=latex}
-\begin{tcolorbox}
-Othello, Orson Welles, USA- Italy-Morocco-France, 1952 and Otello, dailies and rushes, positive silent and some with sound, 35mm, containing shots included in only a very limited extent in the first theatrical release (their title proper in Italian is: Otello).
-\end{tcolorbox}
-```
-
-Record one or more “Other” relationship type to express the nature of the relationship to the Manifestation, choosing the most specific term possible from existing relator terms lists, for example, “commentary on,” “review of,” etc. 
-Selection should be made from a controlled list of values.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_other_relationship_types}.
-
-Or, compose a term to describe the relationship between the Manifestation being catalogued and the related Manifestation.
-
-In a note, add any additional information concerning the relationship considered relevant.
-
-Describe or demonstrate Manifestation-to-Manifestation relationships through linking to the Manifestation identifier of the related Manifestation, through the usage of relator terms, or according to the confines of your data structure.
-
-If the cataloguing system allows the procedure, attach a digital file that reproduces any associated “document.”
-
-\subsubsection{Item(s)}
-\label{sec:items}
-
-Express the relationship between a moving image Manifestation and a moving image Item (e.g. Part/part of).
-
-Here could be listed the unique Item identifiers associated to this Manifestation, noting their “part of “ relationships to the Manifestation.
-
-\subsubsection{Work}
-\label{sec:work}
-
-Express the relationship between a moving image Manifestation and a moving image Work (e.g., Part/part of).
-Describe or demonstrate Manifestation-to-Work relationships through linking to the Manifestation identifier, through the usage of relator terms, or according to the confines of your data structure.
-
-\subsubsection{Variant}
-\label{sec:variant}
-
-Express the relationship between a moving image Manifestation and a moving image Variant (e.g., Part/part of).
-Describe or demonstrate Manifestation-to-Variant relationships through linking to the Manifestation identifier, through the usage of relator terms, or according to the confines of your data structure.
 
