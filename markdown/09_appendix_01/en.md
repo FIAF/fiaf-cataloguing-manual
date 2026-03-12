@@ -1168,13 +1168,13 @@ Reflect the Part term used in any source of information, for example, “part,�
 
 Newsreel/cinemagazine companies often had their own official titling for issues/episodes, using numbers or number/letter combinations, e.g.
 
-•	The March of Time 1st Year No.2
-•	Pathé News No. 62
-•	Filmske Novosti. Broj 43. 1972
-•	Actualités Françaises 1957 N.10
-•	The USSR Today Nr 53(9) 1960 Moscow
-•	Australian Diary No. 56
-•	DDR Magazin 13/69
+•	The March of Time 1st Year No.2  
+•	Pathé News No. 62  
+•	Filmske Novosti. Broj 43. 1972  
+•	Actualités Françaises 1957 N.10  
+•	The USSR Today Nr 53(9) 1960 Moscow  
+•	Australian Diary No. 56  
+•	DDR Magazin 13/69  
 
 These often feature on the opening titles of an item, or are listed in official catalogues of the newsreel/cinemagazine companies, and should be replicated and used as the preferred title for the Item and its linked Manifestation, and Work.
 
