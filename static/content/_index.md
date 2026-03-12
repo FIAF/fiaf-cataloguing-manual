@@ -8,10 +8,29 @@ This site is a technical demonstration of how the [FIAF Cataloging Manual](googl
 
 This is a very interesting sentance. [^1]
 
-#### Example
+#### Alerts/callouts
 
-> [!EXAMPLE]
+> [!example]
 > Lawrence of Arabia (1962)
+
+> [!important]
+> possibly dont do this
+
+#### Code
+
+```
+{
+    "name": "France",
+    "capital": "Paris",
+    "population": 67364357,
+    "area": 551695,
+    "currency": "Euro",
+    "languages": ["French"],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg"
+}
+```
 
 
 #### Diagram/embedded image
