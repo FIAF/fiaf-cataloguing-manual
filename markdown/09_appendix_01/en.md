@@ -155,9 +155,9 @@ I love Huckabees [Alternative or Non-preferred] \\
 \end{tcolorbox}
 ```
 
-Moving images created for social media platforms and sites, e.g. YouTube, TikTok, etc. can often use mixtures of capitalisation and characters, symbols, and emojis in the titles given to them on uploaded. Institutions are already starting to acquire materials from these sources, so should decide on the titling principles and stylistics they will follow and apply systematically.
+Moving images created for social media platforms and sites, e.g. YouTube, TikTok, etc. can often use mixtures of capitalisation and characters, symbols, and emojis in the titles given to them on their uploaded entries. Institutions are already starting to acquire materials from these sources, so should decide on the titling principles and stylistics they will follow and apply systematically.
 
-Sometimes the titling of these can be challenging because they frequently do not have an actual title on the moving image itself, so the only available one that can be used is what the individual who uploaded it called it. This can often cause problems with existing titling stylistics in an institution's cataloguing systems, and also ties in with questions about how much of often long titles should be included. Thus in the example below of a 5 hours and 21 minutes moving image uploaded onto YouTube the first part of the title is all in capitals, then after two exclamation marks moves to a mixture of capitals and lower case, and finally to all lower case:
+Sometimes the titling of these can be challenging because they frequently do not have an actual title on the moving image itself, so the only available one that can be used is what the individual who uploaded it called it. This can often cause problems with existing titling stylistics in an institution's cataloguing systems, and also ties in with questions about how much of often long titles should be included. Thus, in the example below of a 5 hours and 21 minutes moving image uploaded onto YouTube the first part of the title is all in capitals, then after two exclamation marks moves to a mixture of capitals and lower case, and finally to all lower case:
 
 ```{=latex}
 \begin{tcolorbox}
@@ -1178,7 +1178,7 @@ Newsreel/cinemagazine companies often had their own official titling for issues/
 
 These often feature on the opening titles of an item, or are listed in official catalogues of the newsreel/cinemagazine companies, and should be replicated and used as the preferred title for the Item and its linked Manifestation, and Work.
 
-As with the other previous serials/series examples, the Work for the individual newsreel issue can also further be linked to a Work record for the newsreel Series (either in a hierarchical or related record linking, depending on your data system):
+As with the other previous serials/series examples, the Work for the individual newsreel issue can also further be linked to a Work record for the newsreel Series (either in a hierarchical or related record linking, depending on your system):
 
 [INSERT [DIAGRAM BPN 1. Numbered episodes of a series/serial section HERE]
 
@@ -1212,7 +1212,7 @@ The original broadcast date can be entered in the Date field for the Work, and t
 
 Alternatively, if an institution prefers, a fully devised/supplied title could be used, or one taken from secondary sources. Television listings magazines or publicity often use such titles even though there is no actual title on-screen. 
 
-Thus, Panorama [2011-01-24] could also have had the preferred title of “Stop stalking me”, or “Panorama. Series 59. Episode 3”. It is often preferable to use these more descriptive partially or fully supplied/devised titles, both for greater clarity and identification and it can be less confusing in terms of titling where repeat broadcasts may also be acquired. If using fully devised/supplied or other source titles, however, it is important to note on the catalogued record that they are not on-screen titles and cite the source used.
+Thus, Panorama [2011-01-24] could also have had the preferred title of “Stop stalking me”, or “Panorama. Series 59. Episode 3”. It is often preferable to use these more descriptive partially or fully supplied/devised titles, both for greater clarity and identification and because it can be less confusing in terms of titling where repeat broadcasts may also be acquired. If using fully devised/supplied or other source titles, however, it is important to note on the catalogued record that they are not on-screen titles and cite the source used.
 
 
 \paragraph{Analytics/Components of identified newsreels/cinemagazines}
