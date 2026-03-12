@@ -1061,7 +1061,7 @@ Or, optionally, with the Collection Work being in an associated relationship wit
 Trailers do not strictly constitute production material as they are effectively entities in their own right, potentially with Agents that are different to those of the moving image itself. They are a type of advertisement for the moving image and have their own publication via cinema release, television broadcast, or online streaming. They would follow the titling laid out in A.2.5.1. and A.2.5.2 above and usually be linked in an associative relationship with the original moving image for which they are trailers.
 
 
-\subsubsection{Titles of series/serials} 
+\subsubsection{Titles and structuring of series/serials} 
 \label{sec:titles_of_series_serials} 
 
 The guidelines and principles laid out in this section can be applicable across all the categories of Works, Variants, Manifestations and Items (WVMI).
@@ -1166,6 +1166,33 @@ Work (Monographic) – Pride and prejudice. Part One \\ \\
 
 Reflect the Part term used in any source of information, for example, “part,” “chapter,” “episode,” etc. Equally, if the number is in numerals then use those, and if alphabetical, i.e. One, Two, Three, etc., use those.
 
+Newsreel/cinemagazine companies often had their own official titling for issues/episodes, using numbers or number/letter combinations, e.g.
+
+•	The March of Time 1st Year No.2
+•	Pathé News No. 62
+•	Filmske Novosti. Broj 43. 1972
+•	Actualités Françaises 1957 N.10
+•	The USSR Today Nr 53(9) 1960 Moscow
+•	Australian Diary No. 56
+•	DDR Magazin 13/69
+
+These often feature on the opening titles of an item, or are listed in official catalogues of the newsreel/cinemagazine companies, and should be replicated and used as the preferred title for the Item and its linked Manifestation, and Work.
+
+As with the other previous serials/series examples, the Work for the individual newsreel issue can also further be linked to a Work record for the newsreel Series (either in a hierarchical or related record linking, depending on your data system):
+
+[INSERT [DIAGRAM BPN 1. Numbered episodes of a series/serial section HERE]
+
+[INSERT [DIAGRAM BPN 2. Numbered episodes of a series/serial section HERE]
+
+Where the issue number cannot be identified, then use a date or year, if discernible, within a partially devised title, for example:
+
+•	British Paramount News. 1939
+•	British Paramount News. November 1939
+•	British Paramount News. 1939-11-05
+•	British Paramount News [05/11/1939]
+•	British Paramount News. c.1939
+
+
 \paragraph{Episodes of a series/serial with no individual title or numbered parts}
 \label{sec:episodes_of_a_series_serial} \
 
@@ -1177,34 +1204,16 @@ Within the hierarchical structure this new Manifestation would link to the Work 
 
 The new Manifestation/Item title could be added to the Work level as an Alternative title type.
 
-```{=latex}
-\begin{tcolorbox}
-Work (Serial) – Panorama \\ \\
-Work (Monographic) – Panorama [2011-01-23] \\ \\
-\indent\hspace{1cm} Manifestation 1 – Panorama [2011-01-23] \\ \\
-\indent\hspace{2cm} Item – Panorama [2011-01-23] \\ \\
-\indent\hspace{1cm} Manifestation 2 – Panorama [2011-05-03] \\ \\
-\indent\hspace{2cm} Item – Panorama [2011-05-03]
-\end{tcolorbox}
-```
+[INSERT DIAGRAM 3. PANORAMA. In Episodes of a series/serial with no individual title or numbered parts HERE]
 
-In the above example the Manifestations “Panorama [2011-01-23] and “Panorama [2011-05-03]” both link hierarchically to the same Work, entitled “Panorama [2011-01-23]” as they are broadcasts on different dates of exactly the same programme.
+In the above example the Manifestations “Panorama [2011-01-24] and “Panorama [2011-01-30]” both link hierarchically to the same Work, entitled “Panorama [2011-01-24]” as they are broadcasts on different dates of exactly the same programme.
 
-Alternatively, the cataloguer can supply the type of unit and number, with the option of utilising square brackets for clarity.
-
-```{=latex}
-\begin{tcolorbox}
-Work (Serial) – Panorama \\ \\
-Work (Monographic) – Panorama. [Episode 1] \\ \\
-\indent\hspace{1cm} Manifestation – Panorama. [Episode 1]\\ \\
-\indent\hspace{2cm} Item – Panorama. [Episode 1] \\ \\
-\indent\hspace{1cm} Manifestation – Panorama. [Episode 1] (repeat broadcast) \\ \\
-\indent\hspace{2cm} Item – Panorama. [Episode 1] (repeat broadcast)
-\end{tcolorbox}
-```
-
-In the above example, the Manifestations with different broadcast dates both link hierarchically to the same Work. 
 The original broadcast date can be entered in the Date field for the Work, and the repeat broadcast date can be entered in a Date field for the Manifestation/Item, should one exist, or in a Notes field for the Manifestation/Item.
+
+Alternatively, if an institution prefers, a fully devised/supplied title could be used, or one taken from secondary sources. Television listings magazines or publicity often use such titles even though there is no actual title on-screen. 
+
+Thus, Panorama [2011-01-24] could also have had the preferred title of “Stop stalking me”, or “Panorama. Series 59. Episode 3”. It is often preferable to use these more descriptive partially or fully supplied/devised titles, both for greater clarity and identification and it can be less confusing in terms of titling where repeat broadcasts may also be acquired. If using fully devised/supplied or other source titles, however, it is important to note on the catalogued record that they are not on-screen titles and cite the source used.
+
 
 \paragraph{Analytics/Components of identified newsreels/cinemagazines}
 \label{sec:analytics_components_of_identified_newsreels_cinemagazines} \
@@ -1241,26 +1250,12 @@ British Paramount news. President Roosevelt opens World Fair
 
 Within a hierarchical structure, the Item President Roosevelt opens World Fair would be linked as “part of” the Theatrical Manifestation British Paramount news No. 856, i.e. the whole newsreel issue, which in turn would be linked to the Work record for the whole issue also with the title British Paramount news No. 856.
 
-```{=latex}
-\begin{tcolorbox}
-Work (Series) – British Paramount news \\ \\ 
-Work (Monographic) – British Paramount news. No. 856 \\ \\ 
-\indent\hspace{1cm} Manifestation – British Paramount news. No. 856 \\ \\ 
-\indent\hspace{2cm} Item – President Roosevelt opens World Fair
-\end{tcolorbox}
-```
+[INSERT DIAGRAM BPN.3. In Analytics/Components of identified newsreels/cinemagazines HERE]
 
 OR
 
-```{=latex}
-\begin{tcolorbox}
-Work (Series) – British Paramount news \\ \\ 
-Work (Monographic) – British Paramount news. No. 856 \\ \\ 
-\indent\hspace{1cm} Manifestation – British Paramount news. No. 856 \\ \\ 
-\indent\hspace{2cm} Item – British Paramount news. No. 856. \\
-\indent\hspace{2cm} President Roosevelt opens World Fair
-\end{tcolorbox}
-```
+[INSERT DIAGRAM BPN.4. In Analytics/Components of identified newsreels/cinemagazines HERE]
+
 
 At the Work level each of the titled analytics/components making up the whole, i.e. the separate news reports, can be added as additional alternative titles.
 
@@ -1272,7 +1267,8 @@ This would involve using the title of the appropriate Manifestation pertaining t
 ```{=latex}
 \begin{tcolorbox}
 British Paramount news No. 856. [Reel 2] \\
-British Paramount news No.856. [Incomplete]
+British Paramount news No.856. (Reel 2) \\
+British Paramount news No.856. Reel 2
 \end{tcolorbox}
 ```
 
@@ -1280,10 +1276,12 @@ OR
 
 ```{=latex}
 \begin{tcolorbox}
-British Paramount news No.856. Reel 2 \\
+British Paramount news No.856. [Incomplete] \\
+British Paramount news No.856. (Incomplete) \\
 British Paramount news No.856. Incomplete
 \end{tcolorbox}
 ```
+[INSERT DIAGRAM BPN 5. In Analytics/Components of identified newsreels/cinemagazines HERE]
 
 With any inter-title designations on the print then added as alternative type titles.
 
@@ -1295,11 +1293,91 @@ Preferred Title: British Paramount news No. 856. [Reel 2] \\
 \end{tcolorbox}
 ```
 
-If deemed necessary or helpful for the purposes of discovery, the alternative titles added to Items should also be added to the Work level record.
-
 Alternatively, the titles of each analytic/component may be included in a notes and/or contents field.
 
 Square brackets may be used within titles for encasing necessary extra qualifying or clarification elements that are not on the actual print.
+
+Use the form of titling that fits with the practice of your institution.
+An institution may acquire both a whole copy of the newsreel/cinemagazine issue and a part of it. An Item record should be made for each, e.g. 
+
+[INSERT DIAGRAM BPN 6. In Analytics/Components of identified newsreels/cinemagazines HERE]
+
+Or it may be that only parts of a newsreel/cinemagazine episode are acquired at different times. As these will be in different cans/containers and are separate acquisitions, then they are separate Items.
+Again, the inter-title on the part can be used to create the title of the Item:
+
+[INSERT DIAGRAM BPN 7.In Analytics/Components of identified newsreels/cinemagazines HERE]
+
+Again, if preferred, then the newsreel series title can be incorporated within the episode title along with the inter-title heading:
+
+[INSERT DIAGRAM BPN 8.In Analytics/Components of identified newsreels/cinemagazines]
+
+Where a story element from a newsreel/cinemagazine issue has been acquired (but the issue it is from has not yet been identified, while the newsreel/cinemagazine series it is from is known) then the inter-title heading on the film itself should be used as the title for the Work, Manifestation and Item. The Work would constitute an Analytic Work and can be linked directly to the newsreel/cinemagazine Serial Work record.
+
+[INSERT DIAGRAM 9. GBN. In Analytics/Components of identified newsreels/cinemagazines HERE]
+
+If the full episode/issue is subsequently identified, then the Item can either be 
+•	re-linked to a pre-existing Work/Manifestation record for the whole issue, and the Analytic Work and its Manifestation deleted/removed
+or
+•	the Analytic Work record and its Manifestation can be revised and made into the Monographic Work episode and whole issue released Manifestation
+The Item then becomes a simple partial acquisition of the whole, retaining the story element title
+
+[INSERT DIAGRAM 10. GBN. In Analytics/Components of identified newsreels/cinemagazines HERE]
+
+With some institutions, rather than a Serial – Monographic Work structure, the nature of the material they hold may mean they only ever need a Serial – Analytic Work structure. For example, an archive with a large collection of the individual story elements of multiple local regional news television programmes held on videotapes, rather than whole individual programmes – especially where the precise episode they are from is unclear or less relevant for that institution. These can be catalogued under their individual story element title, and linked to a Serial Work record for the local news series. As component parts of a whole issue the individual story elements constitute “Analytic” types.
+
+	In some collections of local news programmes only the Analytic story elements and their dates of filming are catalogued rather than the whole issues/episodes in which they featured and the broadcast date of those. If the Work/Item represents the unedited footage that was shot rather than the exact edit that was used or shown in a particular broadcast news programme, then it should have a linked Pre-Release type of Manifestation
+
+[INSERT DIAGRAM 11. TSW. Analytics/Components of identified newsreels/cinemagazines HERE]
+
+Where such individual story elements may have been aggragated together into compilations reels, tapes, or files then see [LINK TO AGGREGATES CHAPTER AND RELEVANT SECTION]
+If deemed necessary or helpful for the purposes of discovery, the alternative titles added to Items should also be added to the Work level record.
+
+\paragraph{Further enhanced structuring possibilities with analytic/component parts and identified newsreels/cinemagazines} 
+\label{sec:further_enhanced_structuring_possibilities_with analytic_component_parts_and_identified_newsreels_cinemagazines} \
+
+There may also be instances, particularly with news and newsreel collections where a Serial-Monographic-Analytic Works construction, in a grandparent-parent-child hierarchical structure could be considered and used in certain databases that have an EN15907 structure. 
+
+This is not a structuring or architecture that is covered within the EN15907 Standard itself, but it is one which exploits and extends the EN15907 basic structure model further in conjunction with Work/Variant Description types (ADD LINK TO SECTION ON THESE – WAS D.1 BUT NOW MOVED IN GITHUB DEVELOP DOCUMENT). This could suit institutions with huge newsreel collections, particularly where the individual story elements are what are searched on by users. is starting to evolve in some institutions in very particular scenarios.
+
+This would be where there may be instances of the Analytic individual story elements having their own later publication, or “manifestation” and there is a need or preference by an institution for keeping all the records together in a vertical hierarchy. It may also suit institutions with huge newsreel collections, particularly where the individual story elements of issues are what are searched on and accessed by users.
+
+For example:
+Topical Budget was a British silent newsreel that ran c.1911-1931. Each episode or issue of the weekly newsreel contained 4-5 short separate news story elements. 
+
+In the early 21st century individual story elements from each newsreel issue were digitised and streamed by an institution. One Analytic component from an issue, rather than the whole issue itself, now had a new “release” Internet Manifestation in its own right using the component story element title. 
+
+For practical and efficiency reasons, as well as systems workflows, an institution may find it  necessary and preferable to be able to keep everything in a hierarchy together under the Serial Work, particularly in systems where a hierarchy is visible and accessible for navigation into all linked records.
+
+This type of 3-tier Works structuring is a logical extension of the 2-tier Serial-Monographic parent-child linked hierarchical structures used already in many institutions.[ADD THE FOLLOWING FOOTNOTE HERE   This also corresponds with structures in UNESCO CCF/B (Common Communications Format / Bibliographic, UNESCO PGI-92/WS/9, Paris, 1992,(INSERT LINK) relating to vertical structuring and Series-Monograph-Component types (which are the basis for EN15907 Description levels aka Work/Variant Description Types).]
+
+[INSERT DIAGRAM 12. TB. In Further enhanced structuring possibilities with analytic/component parts and identified newsreels/cinemagazines HERE]
+
+This would then ultimately have the following record structure:
+
+[INSERT DIAGRAM 13. TB. In Further enhanced structuring possibilities with analytic/component parts and identified newsreels/cinemagazines HERE]
+
+as well as additional “Other relationships” between some of these, i.e. an associative contains/contained in relationship between the Mongographic and Analytic Work and a source item/derived item relationship between the two Items.
+
+Under existing EN15907, usual structuring would be to create new Analytic Works (with their own new Manifestations and Items) and relate those Works to the original whole newsreel issue in which they featured, in an associative “Other Relationship”. In a system where Serial and Monographic Works usually sit in a horizontal Other Relationships structure then this can be followed, i.e.
+
+[INSERT DIAGRAM 14. TB. In Further enhanced structuring possibilities with analytic/component parts and identified newsreels/cinemagazines HERE]
+
+\paragraph{Further enhanced structuring possibilities with large newsreel/cinemagazine or television series/serials} 
+\label{sec:further_enhanced_structuring_possibilities_with_large_newsreel_cinemagazine_or_television_series_serials} \
+
+A further, and similar, enhanced hierarchical structuring of different types of Works records has also started to be used by some institutions in order to cope with systems response issues to accessing very large or long-running series/serials where hundreds, or even thousands, of Monographic Works (or Mongraphic and Analytic Works) are all child records of the same Serial Work. This involves the further subdividing of the Serial Work into multiple further child Serial Works by date year or decades and linking the relevant Monographic Works to these. 
+
+For example, a collection of all the UK daily morning news and magazine programme Good Morning Britain:
+
+[INSERT DIAGRAM 15. GMB. In Further enhanced structuring possibilities with large newsreel/cinemagazine or television series/serials HERE]
+
+Whilst not actually stipulated or covered in the EN15907 standard model, the inherent flexibility of the structure does potentially enable possible stretching of the standard, and it could be argued that it is logically acceptable structuring within EN15907. 
+
+Whilst system work-arounds that impact on data standards are not to be advocated, it is recognised that this may sometimes be unavoidable and have to be done by an institution for pragmatic and purely practical reasons, particularly where there may be impacts on accessibility for both internal and external users. 
+
+In some instances, this concept could even lead to a Great Grandparent-Grandparent-Parent-Child Work hierarchical relationship structure:
+
+[INSERT DIAGRAM 16. TB. In Further enhanced structuring possibilities with large newsreel/cinemagazine or television series/serials HERE]
 
 \paragraph{Analytics/components of unidentified newsreels/ cinemagazines} 
 \label{sec:analytics_components_of_unidentified_newsreels_cinemagazines} \
