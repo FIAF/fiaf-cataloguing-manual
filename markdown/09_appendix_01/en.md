@@ -1430,6 +1430,51 @@ Analytic is only used for a whole component rather than a fragment of a whole.
 Square brackets around a whole devised title are optional, as this can alternatively be inferred by use of a Supplied/Devised Title Type designation.
 Many electronic systems can be punctuation sensitive, so presence of square brackets [], particularly at the start of a title, could impact on searchability.
 
+\paragraph{Titles and structuring of Variant newsreel/cinemagazine episodes} 
+\label{sec:titles_and_structures_of_variant_newsreel_cinemagazine_episodes} \
+
+With some newsreels/cinemagazines, versions were made for showing in different countries, either with a different commentator voicing it or varying differences in the stories or elements making up an issue.
+
+For example, the cinemagazine series London Line was made in the United Kingdom but was also aimed at audiences in Commonwealth countries such as Nigeria, Australia, Canada, Kenya, and Ghana, etc. as well. Each issue of the cinemagazine had a different version, i.e. one aimed at West African audiences, another East African version, another a Canadian version, etc. These versions all had component stories in common but also contained other stories/elements with a subject matter more specifically related to each geographical area. The different presenters for each version also reflected the latter.
+
+In cases of potentially different versions of a newsreel/cinemagazine episode, there are different cataloguing options depending on varying factors.
+
+For Item(s) that have not yet been viewed, then if the film header, can, accompanying paperwork, legacy records, etc. indicate that an item acquired is a particular version of a newsreel/cinemagazine episode, then the Item can be created and linked to the original episode Work and Manifestation. By having a partially devised title for the Item(s) the version distinctions could be indicated, e.g. 
+
+[insert [DIAGRAM 17. LL. In Titles and structuring of Variant newsreel/cinemagazine episodes HERE]
+
+This could be a temporary measure prior to viewing, checking, and fuller cataloguing. For example, after further researches and viewing it could be established that the Work/Variant and Manifestations for what was designated “East African Version” was more specifically that released in Kenya, so titling can subsequently be revised to London Line Greets ’69 [Kenyan Version] for the Item and its linked Manifestation, and Work/Variant.
+
+In the case of versions it is important to decide whether the content of the episode remains largely the same. 
+
+If the episode has the same content, the commentary is the same (just perhaps a direct translation in a different language with a different commentator/presenter) then the Item simply represents a Variant and/or Manifestation of the original Work.
+
+If, for example, London Line No. 373 simply had different presenters for one version but the same commentary – or the level of difference was not yet known from researches – then the following data structures can be used:
+
+[INSERT [DIAGRAM 18. LL. In Titles and structuring of Variant newsreel/cinemagazine episodes HERE]
+
+Or if you institution does not use Variants:
+
+[INSERT [DIAGRAM 19. LL. In Titles and structuring of Variant newsreel/cinemagazine episodes HERE]
+
+The above diagrams also illustrate the structure that could be used where there is an additional separate acquisition of one of the component elements of one of the versions.
+
+However, always create a new Work if:
+
+•	any of the content is different, e.g. two of the stories in the newsreel/cinemagazine episode are identical across all versions, but the third is different  
+•	the stories remain the same but there are new different interconnecting segments with different presenters  
+•	the stories/footage remains the same but the wording of the commentary is changed, e.g. to give a different slant, emphasis, or impression  
+
+Content descriptions (e.g. synopses and/or shotlists), Subjects, Cast, Credits, etc. relevant to each can then be added to the Variant or Work record accordingly. The Item which matches with these can then be linked with this Work/Variant, via a relevant specific Manifestation.
+
+If preferred, then partially devised titles can be used for easy identification across the new Works/ Variants, Manifestations, and Items, as in the examples featured. Use whichever practice or stylistic is preferred by your institution for these, e.g. square brackets, punctuation system within the titling itself, or a corresponding title type, etc.
+
+[INSERT [DIAGRAM 20. LL. In Titles and structuring of Variant newsreel/cinemagazine episodes HERE]
+
+And if variations are minor and Variants are used, then structure would like this:
+
+[INSERT [DIAGRAM 21. LL. In Titles and structuring of Variant newsreel/cinemagazine episodes HERE]
+
 \subsection[Moving images with probable or questionable titles]{Moving images with probable or questionable titles 
 \footnote {Based on AMIM2, 1F2.1.}} 
 \label{sec:moving_images_with_probable_or_questionable_titles}
