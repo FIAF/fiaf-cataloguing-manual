@@ -1016,7 +1016,7 @@ Unidentified television series. Quiz show. Unidentified episodes
 
 For a more comprehensive list of form terms to use with for FULLY or PARTIALLY Supplied/Devised titles, see \nameref{sec:list_of_form_terms_for_supplied_devised_titles}.
 
-\subsubsection{Titles and structures for production materials (including out-takes, screen tests, rushes)} 
+\subsubsection{Titles and structuring for production materials (including out-takes, screen tests, rushes)} 
 \label{sec:titles_and_structures_for_production_materials_including_outtakes_screen_tests_rushes}
 
 Constructing titles for production materials usually falls into the categories of either Partially Supplied/Devised titling or Fully Supplied/Devised titling, involving the title of the moving image with which the production material is associated + the relevant form, e.g. rushes, screen tests, etc. Titling options for production materials records have been described in both A.2.5.1 and A.2.5.2 above. 
@@ -1186,11 +1186,11 @@ As with the other previous serials/series examples, the Work for the individual 
 
 Where the issue number cannot be identified, then use a date or year, if discernible, within a partially devised title, for example:
 
-•	British Paramount News. 1939
-•	British Paramount News. November 1939
-•	British Paramount News. 1939-11-05
-•	British Paramount News [05/11/1939]
-•	British Paramount News. c.1939
+•	British Paramount News. 1939  
+•	British Paramount News. November 1939  
+•	British Paramount News. 1939-11-05  
+•	British Paramount News [05/11/1939]  
+•	British Paramount News. c.1939  
 
 
 \paragraph{Episodes of a series/serial with no individual title or numbered parts}
