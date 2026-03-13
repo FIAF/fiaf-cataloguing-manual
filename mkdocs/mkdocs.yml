@@ -1,12 +1,16 @@
 site_name: FIAF Moving Image Cataloguing Manual
 site_description: International Federation of Film Archives Moving Image Cataloguing Manual
 docs_dir: docs
+repo_url: https://github.com/FIAF/fiaf-cataloguing-manual
+repo_name: FIAF/fiaf-cataloguing-manual
+edit_uri: edit/develop/mkdocs/docs/
 
 theme:
   name: material
   logo: assets/logo.png
   favicon: assets/logo.png
   features:
+    - content.action.view
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.indexes
