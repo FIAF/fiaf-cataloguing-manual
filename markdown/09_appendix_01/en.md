@@ -1178,7 +1178,7 @@ Newsreel/cinemagazine companies often had their own official titling for issues/
 
 These often feature on the opening titles of an item, or are listed in official catalogues of the newsreel/cinemagazine companies, and should be replicated and used as the preferred title for the Item and its linked Manifestation, and Work.
 
-As with the other previous serials/series examples, the Work for the individual newsreel issue can also further be linked to a Work record for the newsreel Series (either in a hierarchical or related record linking, depending on your system):
+As with the other previous serials/series examples, the Work for the individual newsreel issue can also further be linked to a Work record for the newsreel Series (either via a hierarchical or related record linking, depending on your system):
 
 [INSERT [DIAGRAM BPN 1. Numbered episodes of a series/serial section HERE]
 
@@ -1226,12 +1226,11 @@ Such Items should be linked to a Work/Manifestation reflecting the whole issue, 
 
 Newsreels and cinemagazines^[BFI definitions: Newsreels = Films dating from 1910 to 1979, which report on local and international events and which were regularly screened at cinemas, e.g. Pathé News 1910-1970; Warwick Bioscope Chronicle 1910-1915; Topical Budget 1911-1931; Newsreel Flying Machine Compilation 1910. Cinemagazines = Short magazine film including more than two interest items, e.g. Aussie Oddities (1948), This Week in Britain (1950-1980)] usually consisted of several separate reports that were all analytics/components of a particular issue, and also usually had inter-title headings within the newsreel itself.
 
-If an institution acquires only a part of a newsreel issue, then any inter-title heading that is on the acquired print may be used as the title of the Item, particularly in cases where the title of the newsreel issue as a whole (i.e.
-the Work/Manifestation) is unknown.
+If an institution acquires only a part of a newsreel issue, then any inter-title heading that is on the acquired print may be used as the title of the Item, particularly in cases where the title of the newsreel issue as a whole (i.e. the Work/Manifestation) is unknown.
 
-For example, British Paramount news No. 856 contains the inter-titled headed segments President Roosevelt opens World Fair; 70th birthday of US coast to coast railway; and, Princesses play with baby pandas.
+For example,*British Paramount news No. 856* contains the inter-titled headed segments *President Roosevelt opens World Fair*;*70th birthday of US coast to coast railway*; and, *Princesses play with baby pandas*.
 
-Should an institution only acquire a reel of the segment President Roosevelt opens World Fair, then this can be designated as the title of the Item.
+Should an institution only acquire a reel of the segment *President Roosevelt opens World Fair*, then this can be designated as the title of the Item.
 
 Where it is known with which particular newsreel issue or series the acquired segment belongs then there is also the option to incorporate the newsreel series/issue title within the title assigned to the segment, for example:
 
@@ -1248,7 +1247,7 @@ British Paramount news. President Roosevelt opens World Fair
 \end{tcolorbox}
 ```
 
-Within a hierarchical structure, the Item President Roosevelt opens World Fair would be linked as “part of” the Theatrical Manifestation British Paramount news No. 856, i.e. the whole newsreel issue, which in turn would be linked to the Work record for the whole issue also with the title British Paramount news No. 856.
+Within a hierarchical structure, the Item *President Roosevelt opens World Fair* would be linked as “part of” the Theatrical Manifestation *British Paramount news No. 856*, i.e. the whole newsreel issue, which in turn would be linked to the Work record for the whole issue also with the title *British Paramount news No. 856*.  
 
 [INSERT DIAGRAM BPN.3. In Analytics/Components of identified newsreels/cinemagazines HERE]
 
@@ -1261,8 +1260,7 @@ At the Work level each of the titled analytics/components making up the whole, i
 
 Alternatively, the component titles can be listed in a Summary or Description field for the Work.
 
-Should the Item acquired incorporate more than one inter-titled component, for example only reel 2 of a 2 reel Item is acquired that includes both 70th birthday of US coast to coast railway and Princesses play with baby pandas, then a different approach may be taken.
-This would involve using the title of the appropriate Manifestation pertaining to the whole newsreel issue and adding qualifying details, optionally in square brackets, as a second element of the title to create a title for the Item.
+Should the Item acquired incorporate more than one inter-titled component, for example only reel 2 of a 2 reel Item is acquired that includes both *70th birthday of US coast to coast railway* and *Princesses play with baby pandas*, then a different approach may be taken. This would involve using the title of the appropriate Manifestation pertaining to the whole newsreel issue and adding qualifying details, optionally in square brackets, as a second element of the title to create a title for the Item.
 
 ```{=latex}
 \begin{tcolorbox}
@@ -1307,7 +1305,7 @@ Again, the inter-title on the part can be used to create the title of the Item:
 
 [INSERT DIAGRAM BPN 7.In Analytics/Components of identified newsreels/cinemagazines HERE]
 
-Again, if preferred, then the newsreel series title can be incorporated within the episode title along with the inter-title heading:
+As mentioned previously, if preferred, then the newsreel series title can be incorporated within the episode title along with the inter-title heading:
 
 [INSERT DIAGRAM BPN 8.In Analytics/Components of identified newsreels/cinemagazines]
 
@@ -1315,7 +1313,7 @@ Where a story element from a newsreel/cinemagazine issue has been acquired (but 
 
 [INSERT DIAGRAM 9. GBN. In Analytics/Components of identified newsreels/cinemagazines HERE]
 
-If the full episode/issue is subsequently identified, then the Item can either be 
+If the full episode/issue is subsequently identified, then the Item can either be   
 •	re-linked to a pre-existing Work/Manifestation record for the whole issue, and the Analytic Work and its Manifestation deleted/removed
 or
 •	the Analytic Work record and its Manifestation can be revised and made into the Monographic Work episode and whole issue released Manifestation
@@ -1323,9 +1321,9 @@ The Item then becomes a simple partial acquisition of the whole, retaining the s
 
 [INSERT DIAGRAM 10. GBN. In Analytics/Components of identified newsreels/cinemagazines HERE]
 
-With some institutions, rather than a Serial – Monographic Work structure, the nature of the material they hold may mean they only ever need a Serial – Analytic Work structure. For example, an archive with a large collection of the individual story elements of multiple local regional news television programmes held on videotapes, rather than whole individual programmes – especially where the precise episode they are from is unclear or less relevant for that institution. These can be catalogued under their individual story element title, and linked to a Serial Work record for the local news series. As component parts of a whole issue the individual story elements constitute “Analytic” types.
+With some institutions, rather than a Serial – Monographic Work structure, the nature of the material they hold may mean they only ever need a Serial – Analytic Work structure. For example, an archive with a large collection of the individual story elements of multiple local regional news television programmes held on videotapes, rather than whole individual programmes – especially where the precise episode they are from is unclear or less relevant for that institution. These can be catalogued under their individual story element title, and linked to a Serial Work record for the local news series. As component parts of a whole issue the individual story elements constitute “Analytic” types. 
 
-	In some collections of local news programmes only the Analytic story elements and their dates of filming are catalogued rather than the whole issues/episodes in which they featured and the broadcast date of those. If the Work/Item represents the unedited footage that was shot rather than the exact edit that was used or shown in a particular broadcast news programme, then it should have a linked Pre-Release type of Manifestation
+In some collections of local news programmes only the Analytic story elements and their dates of filming are catalogued rather than the whole issues/episodes in which they featured and the broadcast date of those. If the Work/Item represents the unedited footage that was shot rather than the exact edit that was used or shown in a particular broadcast news programme, then it should have a linked Pre-Release type of Manifestation
 
 [INSERT DIAGRAM 11. TSW. Analytics/Components of identified newsreels/cinemagazines HERE]
 
@@ -1337,9 +1335,9 @@ If deemed necessary or helpful for the purposes of discovery, the alternative ti
 
 There may also be instances, particularly with news and newsreel collections where a Serial-Monographic-Analytic Works construction, in a grandparent-parent-child hierarchical structure could be considered and used in certain databases that have an EN15907 structure. 
 
-This is not a structuring or architecture that is covered within the EN15907 Standard itself, but it is one which exploits and extends the EN15907 basic structure model further in conjunction with Work/Variant Description types (ADD LINK TO SECTION ON THESE – WAS D.1 BUT NOW MOVED IN GITHUB DEVELOP DOCUMENT). This could suit institutions with huge newsreel collections, particularly where the individual story elements are what are searched on by users. is starting to evolve in some institutions in very particular scenarios.
+This is not a structuring or architecture that is covered within the EN15907 Standard itself, but it is one which exploits and extends the EN15907 basic structure model further in conjunction with Work/Variant Description types (ADD LINK TO SECTION ON THESE – WAS D.1 BUT NOW MOVED IN GITHUB DEVELOP DOCUMENT). This could suit institutions with huge newsreel collections, particularly where the individual story elements are what are searched on by users, and use of this type of structuring is also starting to evolve in some institutions in very particular scenarios.
 
-This would be where there may be instances of the Analytic individual story elements having their own later publication, or “manifestation” and there is a need or preference by an institution for keeping all the records together in a vertical hierarchy. It may also suit institutions with huge newsreel collections, particularly where the individual story elements of issues are what are searched on and accessed by users.
+One such is where there may be instances of the Analytic individual story elements having their own later publication, or “manifestation”, and there is a need or preference by an institution for keeping all the records together in a vertical hierarchy. It may also suit institutions with huge newsreel collections, particularly where the individual story elements of issues are what are searched on and accessed by users.
 
 For example:
 Topical Budget was a British silent newsreel that ran c.1911-1931. Each episode or issue of the weekly newsreel contained 4-5 short separate news story elements. 
@@ -1371,9 +1369,9 @@ For example, a collection of all the UK daily morning news and magazine programm
 
 [INSERT DIAGRAM 15. GMB. In Further enhanced structuring possibilities with large newsreel/cinemagazine or television series/serials HERE]
 
-Whilst not actually stipulated or covered in the EN15907 standard model, the inherent flexibility of the structure does potentially enable possible stretching of the standard, and it could be argued that it is logically acceptable structuring within EN15907. 
+While not actually stipulated or covered in the EN15907 standard model, the inherent flexibility of that model and structure does potentially enable possible stretching of the standard, and it could be argued that it is logically acceptable structuring within EN15907. 
 
-Whilst system work-arounds that impact on data standards are not to be advocated, it is recognised that this may sometimes be unavoidable and have to be done by an institution for pragmatic and purely practical reasons, particularly where there may be impacts on accessibility for both internal and external users. 
+Whilst system work-arounds that impact on data standards are not to be advocated and avoided if possible, it is recognised that this may sometimes be unavoidable and have to be done by an institution for pragmatic and purely practical reasons, particularly where there may be impacts on accessibility for both internal and external users. 
 
 In some instances, this concept could even lead to a Great Grandparent-Grandparent-Parent-Child Work hierarchical relationship structure:
 
@@ -1435,7 +1433,7 @@ Many electronic systems can be punctuation sensitive, so presence of square brac
 
 With some newsreels/cinemagazines, versions were made for showing in different countries, either with a different commentator voicing it or varying differences in the stories or elements making up an issue.
 
-For example, the cinemagazine series London Line was made in the United Kingdom but was also aimed at audiences in Commonwealth countries such as Nigeria, Australia, Canada, Kenya, and Ghana, etc. as well. Each issue of the cinemagazine had a different version, i.e. one aimed at West African audiences, another East African version, another a Canadian version, etc. These versions all had component stories in common but also contained other stories/elements with a subject matter more specifically related to each geographical area. The different presenters for each version also reflected the latter.
+For example, the cinemagazine series London Line was made in the United Kingdom but was aimed at audiences in Commonwealth countries such as Nigeria, Australia, Canada, Kenya, and Ghana, etc. as well. Each issue of the cinemagazine had a different version, i.e. one aimed at West African audiences, another East African version, another a Canadian version, etc. These versions all had component stories in common but also contained other stories/elements with a subject matter more specifically related to each geographical area. The different presenters for each version also reflected the latter.
 
 In cases of potentially different versions of a newsreel/cinemagazine episode, there are different cataloguing options depending on varying factors.
 
@@ -1471,7 +1469,7 @@ If preferred, then partially devised titles can be used for easy identification 
 
 [INSERT [DIAGRAM 20. LL. In Titles and structuring of Variant newsreel/cinemagazine episodes HERE]
 
-And if variations are minor and Variants are used, then structure would like this:
+And if variations are minor and Variants are used, then structure would look like this:
 
 [INSERT [DIAGRAM 21. LL. In Titles and structuring of Variant newsreel/cinemagazine episodes HERE]
 
