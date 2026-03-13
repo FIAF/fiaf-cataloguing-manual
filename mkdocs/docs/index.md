@@ -12,10 +12,10 @@ This is a very interesting sentence. [^1]
 
 #### Alerts/callouts
 
-!!! example ""
+!!! example "Example"
     Lawrence of Arabia (1962)
 
-!!! important ""
+!!! warning "Warning"
     Possibly don't do this
 
 #### Code
