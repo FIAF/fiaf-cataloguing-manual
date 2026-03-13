@@ -3,7 +3,7 @@
 A work-in-progress static site build of the [FIAF Moving Image Cataloguing Manual](https://www.fiafnet.org/pages/E-Resources/Cataloguing-Manual.html).
 
 The current branch is building and publishing a live preview at:
-**https://fiaf-cataloguing-manual-mkdocs.s3-website.fr-par.scw.cloud/**
+https://fiaf-cataloguing-manual.s3-website.fr-par.scw.cloud/
 
 ---
 
