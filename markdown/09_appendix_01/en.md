@@ -1314,9 +1314,13 @@ Where a story element from a newsreel/cinemagazine issue has been acquired (but 
 [INSERT DIAGRAM 9. GBN. In Analytics/Components of identified newsreels/cinemagazines HERE]
 
 If the full episode/issue is subsequently identified, then the Item can either be   
-•	re-linked to a pre-existing Work/Manifestation record for the whole issue, and the Analytic Work and its Manifestation deleted/removed
-or
-•	the Analytic Work record and its Manifestation can be revised and made into the Monographic Work episode and whole issue released Manifestation
+
+•	re-linked to a pre-existing Work/Manifestation record for the whole issue, and the Analytic Work and its Manifestation deleted/removed  
+
+or  
+
+•	the Analytic Work record and its Manifestation can be revised and made into the Monographic Work episode and whole issue released Manifestation  
+
 The Item then becomes a simple partial acquisition of the whole, retaining the story element title
 
 [INSERT DIAGRAM 10. GBN. In Analytics/Components of identified newsreels/cinemagazines HERE]
