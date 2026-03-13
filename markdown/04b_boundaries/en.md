@@ -398,6 +398,63 @@ Where no Variant structure exists then the cataloguer would decide whether it co
 
 It is up to every archive or institution to choose and make its own policy on whether to use Variants or Manifestations.
 
+\subsection{Boundaries between Manifestations} 
+\label{sec:boundaries_between_manifestations}
+
+The boundaries between one Manifestation and another are drawn on the basis of two criteria: changes in the publication context and changes in format.^[The definitions that individuate a “new” M. I. Manifestation and distinguish one from another are mainly based on YEE 2008 (draft), 81.] The distinction between one Manifestation and another can be made according to one of the two criteria or the presence of both.
+
+\subsubsection{Changes in the Publication Context} 
+\label{sec:changes_in_the_publication_context}
+     
+If the embodiment of a Work/Variant involves contextual changes, related to the publication or release process, the resulting product is a new Manifestation, e.g., a change from theatrical release to home video distribution; a change of release country and different dubbed/subtitled language; a change of broadcast company/streaming platform; a re-release or repeat broadcast on a different date, etc.
+
+In this case, create a new Manifestation and characterise it according to a controlled list.
+A suggested list, which is open and not exhaustive, can be found at \nameref{sec:manifestation_types}
+
+\subsubsection{Changes in the Format} 
+\label{sec:changes_in_the_format}
+
+If the embodiment of a Work/Variant involves changes in format, the resulting product is a new Manifestation, e.g., a change from 70mm to 35mm.
+
+Create a new Manifestation when there is evidence of at least one (or more than one) of the following changes from the original format:
+
+*Changes to the physical format or the digital file on which it is fixed.*
+
+*Changes to the display characteristics (i.e. in aspect ratio, sound or colour characteristics, etc.)*
+
+*Change in the container (i.e. cassette to cartridge as container for a tape).*
+
+Include and describe any of the distinguishing physical changes according to the guidelines in \nameref{sec:format_of_a_moving_image_manifestation}.
+
+The example below shows a number of possible Manifestations of the original Italian version of Il gattopardo (Italy, France, Luchino Visconti, 1963).
+
+*Change in format.^[Information about the cinematographic process and aspect ratio is taken from: http://www.imdb.it/title/tt0057091/technical.]*
+
+```{=latex}
+\begin{tcolorbox}
+Il gattopardo (Italy, France, Luchino Visconti, 1963) \\
+Theatrical release, 35mm, Cinemascope – aspect ratio 2,35 : 1 \\
+Theatrical release, 70mm, Cinemascope – aspect ratio 2,20 : 1
+\end{tcolorbox}
+```
+
+*Change in format and publication context.*
+
+```{=latex}
+\begin{tcolorbox}
+Il gattopardo (Luchino Visconti, 1963) \\
+Home video publication, DVD – aspect ratio 2,21 :1 – Medusa Video, Italia, 00/00/2009
+\end{tcolorbox}
+```
+
+In-house copying of an institution’s holding onto a different format, e.g. a video transfer of a 35mm film does not necessitate creation of a new Manifestation.
+In this case there is also the option of simply creating an Item for the copy, and linking it to the same Manifestation as the source Item.
+
+This option depends on an institution’s policy.
+Some may choose always to create a new Manifestation (i.e. a Preservation Manifestation) in such cases , whilst others may decide to create a new Manifestation where change in format and change in distribution/publication coincide but simply create a new Item linked to an existing Manifestation where change in format is as a result of in-house copying.
+
+It is for an institution to decide on which approach it prefers and apply consistently.
+
 \subsection{Boundaries between Manifestations and Events}
 \label{sec:boundaries_between_manifestations_and_events}
 
@@ -453,11 +510,11 @@ In many cases, an institution is only going to create those Manifestations that 
 
 A broadcast as a Publication Event could suit where collections consist solely of cinematographic films. However, several institutions have collections consisting of both films and television programmes, where there needs to be a consistency and standardisation in structuring hierarchical metadata .
 
-For a television programme, its broadcast is the actual primary manifestation of its Work not simply an event in the life-cycle of the Work. With the flexibility offered by Manifestation type it is possible and preferable to have a ‘Broadcast’ Manifestation type that can be used with television programme Works, thus maintaining the integrity of the EN15907 hierarchical structure. 
+For a television programme, its broadcast is the actual primary, and often only, manifestation of its Work not simply an event in the life-cycle of the Work. With the flexibility offered by Manifestation type it is possible and preferable to have a ‘Broadcast’ Manifestation type that can be used with television programme Works, thus maintaining the integrity of the EN15907 hierarchical structure. 
  
 This means that the one standard and structuring can be applied with mixed collections within the one moving image database system, rather than try to use EN15907 with films and another standard, such as PBCore, with television programmes. 
 
-Institutions may also not only collect and acquire items, but develop their own VOD (Video on Demand) channels, e.g. BFIplayer which provides a mixture of Free, Subscription and Transactional VOD, using digital items to stream the content.
+Institutions may also not only collect and acquire items, but stream their own VOD (Video on Demand) channels, e.g. BFIplayer which provides a mixture of Free, Subscription and Transactional VOD, using digital items to stream the content.
 Thus, having an Internet Manifestation type means that both acquired or produced VOD materials can be captured within an EN15907 structure. The actual digital Items held and representing records for the files used in streaming can then be linked to these Manifestations.
 
 There is also the consideration of a pure EN15907 structure approach meaning disparate pieces of relevant and related data sitting in the Manifestation and the Event and how that may impact user access. Also, how to cope with a potential tangle of complex structuring with a variety of materials in a collection for the same Work, and realistic resourcing and capabilities of differing database systems used by Archives and institutions. This manual recognises both the purist and pragmatic approaches.
@@ -467,3 +524,10 @@ For those cataloguing in non-relational databases, paper or card catalogues, or 
 As with the ability to utilise EN15907 within a 4, 3, 2 or 1-level hierarchy, the same fundamental principle applies with use and structure of Events with Works, Variants, Manifestations or Items; namely, that it does not matter what data systems or structures an institution uses – whether index card or complex computer systems -  as long as their records capture the relevant data concerned.
 
 With a fundamental aim of EN15907 being interoperability, then use of types such as those in the list of Manifestation Types at [INSERT INTERNAL LINK TO RELEVANT SECTION] is key to the flexibility and use of the data architecture reflecting the standard and makes this a lot more achievable; especially in systems where Events structures are minimal or do not exist. Because there is an overlap in Manifestation and Event type terms it could make potential mapping and interoperability achievable.
+
+\subsection{Boundaries between Items}    
+\label{sec:boundaries_between_items} 
+
+The boundaries between moving image Items is determined primarily by the boundaries between Manifestations (see \nameref{sec:boundaries_between_manifestations}).
+There may be multiple Items associated to a Manifestation that are, for all intents and purposes, exact copies, but which may have small differences that do not necessitate representation as a Manifestation.
+For example, an institution may have two DVD-R copies of the same Manifestation, with cosmetic differences in their labels.

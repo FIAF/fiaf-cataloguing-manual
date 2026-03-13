@@ -141,7 +141,7 @@ Re- cording this high-level information will enable simple searching for only fi
 
 Record only if this information is not captured at the Manifestation level or if required at the Item level by the system in use.
 
-A suggested list can be found in \nameref{sec:manifestation_item_general_carrier_type}.
+A suggested list can be found in \nameref{sec:manifest_general_carrier_type}.
 
 For reasons of clarity and to avoid redundancy, optionally, institutions can decide to skip the general carrier type description for film and video, since it is already implicit in the specific carrier type.
 
@@ -163,13 +163,19 @@ For optical media, only add commercially produced media here.
 If the optical media is “writable” and is being used to store a digital file, put the digital file format in the gen- eral carrrier type, and the optical storage media in specific media type.
 
 Record the specific carrier type, selecting from a suitable controlled list.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_item_specific_carrier_type}.
+A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifest_specific_carrier_type}.
 
 \paragraph{Item Status} 
 \label{sec:item_status} \
 
-Description of the preservation or access status of the Item, for example Master, Viewing, etc. Select term from a controlled list.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:item_preservation_access_status}.
+Description of the preservation or access status of the Item. Select term from a controlled list, e.g.  
+
+Master   
+Viewing   
+Accessioned   
+On Loan  
+Status pending   
+Removed
 
 \paragraph{Sound}  
 \label{sec:sound} \
@@ -451,7 +457,47 @@ Ideally, elements covering information and details regarding the condition of an
 This could be recorded using single or multiple specific headed fields (i.e., covering Base, Emulsion, Image, Perforations, etc.), and then sub-sections of the latter, to incorporate data ranging from graded scales designations (either numerical or alphabetical, for example 1-5, A-G, Perfect – Very Poor) with clear definitions of what each designation means; condition terms selected from a controlled list; free text additional qualification or clarification in observations or comments sections; identification of technical assessor; and, dates.
 
 Record the condition of the Item including its base and/or emulsion and/or perforations, where applicable.
-Selection should be made from a controlled list of terms, for example, “brittle”, “buckled”, “tears,” etc. A suggested list, which is open and not exhaustive, can be found in \nameref{sec:item_copy_condition_base_emulsion_film_and_video}.
+Selection should be made from a controlled list of terms, for example, “brittle”, “buckled”, “tears,” etc. 
+
+\subsubsection{Item Copy Condition Perforations – Film} 
+\label{sec:item_copy_condition_perforations_film}
+
+* Foil Patches
+* Torn
+* Pulled
+* Missing
+
+\subsubsection{Item Surface Deposit – Film and Video}
+\label{sec:item_surface_deposit_film_and_video} 
+
+* Mould
+* Rust
+* Oil deposits
+* Dirt
+* Drying marks
+
+\subsubsection{Image – Film and Video} 
+\label{sec:image_film_and_video}
+
+For film, this relates to the inherent qualities of the Emulsion rather than the physical
+condition of the Emulsion.
+
+For video, refer to AV Artifact Atlas for guidance on terms.
+
+http://avaa.bavc.org/artifactatlas/index.php/A/V_Artifact_Atlas
+
+* Discolouration
+* Magenta Bias
+* Faded
+* Print through in mould
+* Drop-outs
+
+\subsubsection{Item Decomposition – Film and Video}
+\label{sec:item_decomposition_film_and_video} 
+
+* Powder
+* Sticky
+* Sticky at head
 
 Capture the date on which the condition of the Item was recorded (using ISO standard^[ISO 8601]).
 The identification of the individual who carried out the technical assessment and has recorded the condition should also be given.
@@ -473,13 +519,6 @@ This could be a single simple field, or could include multiple fields to reflect
 \label{sec:notes_for_items} 
 
 Notes for Items are an annotation providing additional information relating specifically to Item attributes and relationships.^[Based on RDA 2.20.1.Basic Instructions on Making Notes on Manifestations or Items] See \nameref{sec:cataloguers_notes}.
-
-\subsection{Boundaries between Items}    
-\label{sec:boundaries_between_items} 
-
-The boundaries between moving image Items is determined primarily by the boundaries between Manifestations (see \nameref{sec:boundaries_between_manifestations}).
-There may be multiple Items associated to a Manifestation that are, for all intents and purposes, exact copies, but which may have small differences that do not necessitate representation as a Manifestation.
-For example, an institution may have two DVD-R copies of the same Manifestation, with cosmetic differences in their labels.
 
 \subsection{Relationships of an Item}    
 \label{sec:relationships_of_an_item} 
@@ -507,76 +546,3 @@ Record one or more Event types, for example, “preservation,” “inspection,�
 Selection should be made from a controlled list of terms.
 A suggested list, which is open and not exhaustive, can be found in \nameref{sec:event_type}.
 
-\subsubsection{Other Relationships}    
-\label{sec:item_other_relationships} 
-
-Express relationships that are not covered by the Agent and Event relationships.
-These may include compilations of convenience, i.e. where an institution has transferred copies
-of two or more films onto one reel/tape/DVD etc. for convenient storage.^[See Appendix \nameref{sec:aggregate_or_carrier}]
-
-*Item(s) associated with the moving image Item.*
-
-It is possible for a moving image Item to have a horizontal relationship with another Item as a related object.
-Such associative relationships are more prevalent and varied at the Work level, but there are instances where Items need to be related, for example, where an institution has separate Items for Yellow, Cyan and Magenta Separation Negatives, each of which have to be combined in Technicolor Three Colour Strip Process to make a new colour print.
-Or, hold separate sound and image Items that would both be needed to make a new print.
-Similarly, in the case of restorations where separate Items or elements have been used to create a new restored Item.
-
-```{=latex}
-\begin{tcolorbox}
-The Wizard of Oz (United States of America, 1939, Victor Fleming) \\
-Yellow Separation Negative, Cyan Separation Negative, Magenta Separation Negative
-\end{tcolorbox}
-```
-
-```{=latex}
-\begin{tcolorbox}
-Local hero (United Kingdom, 1983, Bill Forsyth) \\
-DPX sequence, WAV audio file
-\end{tcolorbox}
-```
-
-*An Item that contains other Items (e.g. two or more separate Items are held on the same reel/tape/DVD etc. for convenient storage).*
-
-```{=latex}
-\begin{tcolorbox}
-Selezione Fregoli 2002 \\
-Compilation of 16 short Fregoli films, spliced together for projection convenience.
-\end{tcolorbox}
-```
-
-```{=latex}
-\begin{tcolorbox}
-Laughing gas (United States of America, 1914, Charlie Chaplin) \\
-Those love pangs (United States of America, 1914, Charlie Chaplin) \\
-(two Charlie Chaplin short comedies spliced together on one reel - for storage convenience).
-\end{tcolorbox}
-```
-
-*Item that is the source of a moving image Item (e.g. In-house copying of an Item to create a new Item for preservation or access)*
-
-```{=latex}
-\begin{tcolorbox}
-  35mm CTA Duplicating Postive copy of Carnival (c.1927) made from a 35mm \\
-  Nitrate Negative copy of Carnival (c.1927)
-\end{tcolorbox}
-```
-
-*Non-moving image Works/Items (e.g. Objects, documents, etc. relating to a specific Item)*
-
-```{=latex}
-\begin{tcolorbox}
-  Shots of 1932 (United Kingdom, 1932) (home movie) 9.5mm Safety film Item related to paper donor agreement
-\end{tcolorbox}
-```
-
-Record one or more “Other” relationship type terms to express the nature of the relationship to the Item, choosing the most specific term possible from existing relator terms lists, for example, “accompanied by,” “contained in,” etc. Selection should be made from a controlled list of values.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:item_other_relationship_types}.
-
-In a note, add any additional information concerning the relationship considered relevant.
-
-If the cataloguing system allows, attach a digital file that reproduces any associated “document”.
-
-\subsubsection{Manifestation}    
-\label{sec:manifestation} 
-
-Express the relationship between a moving image Manifestation and a moving image Item (e.g. Part/part of).
