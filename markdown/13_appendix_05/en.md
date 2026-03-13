@@ -191,7 +191,7 @@ For Aggregate Manifestations record the length/duration of the whole, i.e. the t
 In addition there is the option to qualify this with details of the duration of each individual unit in either a Notes field, or in multiple occurrences of the duration fields, depending on what systems used permit or an institution decides.
 (See \nameref{sec:physical_extent_of_an_aggregate_manifestation} and \nameref{sec:duration_of_an_aggregate_manifestation})
 
-\subsubsection{Titling of Aggregates}  
+\subsection{Titling of Aggregates}  
 \label{sec:titling_of_aggregates}
 
 The title of the aggregating Work should reflect that of the Manifestation.
@@ -265,54 +265,14 @@ Bond of fear and Blackout (double feature)
 This model involves creation of a new aggregating Work record.
 Works link together in associative relationship “contains/contained in” and aggregate Manifestation links to aggregating Work in “part of” relationship.
 
-```pikchr
-B1: box rad 5px "Sabrina" "(1954) (Work)" fit at (0,3) 
-
-B2: box rad 5px "Funny Face" "(1956) (Work)" fit at (4,3) 
-
-B3: box rad 5px "Breakfast at Tiffanys" "(1961) (Work)" fit at (0,2) 
-
-B4: box rad 5px "The Audrey Hepburn Collection" "(DVD Manifestation, 2008)" "(Collection Aggregate)" fit at (2,1) 
-
-B5: box rad 5px "The Audrey Hepburn Collection" "(DVD Item)" fit at (2,0) 
-
-B6: box rad 5px "The Audrey Hepburn Collection" "(2008) (Work)" fit at (2,3) 
-
-arrow <-> from B1.e to B6.w
-
-arrow <-> from B6.e to B2.w
-
-arrow <-> from B6.s to B4.n
-
-arrow <-> from B4.s to B5.n
-
-arrow <-> right 0.2 from B3.e then up until even with B6 then right to B6.w
-```
+![](/app/src/diagrams/figure_10.png)
 
 \paragraph{Model: Collection Aggregate Manifestation within a many-to-many Works/Variants-Manifestation database system} 
 \label{sec:collection_aggregate_manifestation_within_a_many_to_many} \
     
 A single Aggregate Manifestation links to the many individual Works/Variants in “part of” relationship.
 
-```pikchr
-B1: box rad 5px "Sabrina" "(1954) (Work)" fit at (0,2) 
-
-B2: box rad 5px "Funny Face" "(1956) (Work)" fit at (1.5,2) 
-
-B3: box rad 5px "Breakfast at Tiffanys" "(1961) (Work)" fit at (3,2) 
-
-B4: box rad 5px "The Audrey Hepburn Collection" "(DVD Manifestation, 2008)" "(Collection Aggregate)" fit at (1.5,1) 
-
-B5: box rad 5px "The Audrey Hepburn Collection" "(DVD Item)" fit at (1.5,0) 
-
-arrow <-> down 0.2 from B1.s then right until even with B4 then down to B4.n
-
-arrow <-> from B2.s to B4.n
-
-arrow <-> down 0.2 from B3.s then left until even with B4 then down to B4.n
-
-arrow <-> from B4.s to B5.n
-```
+![](/app/src/diagrams/figure_11.png)
 
 \paragraph{Model: Collection Aggregate Manifestation with no aggregated Item, only unaggregated individual Items}
 \label{sec:collection_aggregate_manifestation_with_no_aggregated_item} \
@@ -324,37 +284,7 @@ The original individual Works and aggregating Work link together in associative 
 This model may occur particularly with internet broadcasts and digital files, whereby an aggregate Internet Manifestation is available as an Internet broadcast, but is streamed in from individual digital files (i.e. individual Items) seamlessly and consecutively, not from a single aggregated digital file, i.e. a thematic compilation of three short films of the late 19th century is devised and entitled “Victorian Cinema 3”^[Example Victorian Cinema 3 is an illustrative example only, and not yet streamed in this way].
 The internet user views the whole aggregate Manifestation as one entity, but it is streamed from separate digital Items streamed seamlessly one after the other.
 
-```pikchr
-B1: box rad 5px "Pierrots" "(Work, c.1902)" fit at (0,3) 
-
-B2: box rad 5px "Victorian Cinema 3" "(Work, 1998)" fit at (1.5,3) 
-
-B3: box rad 5px "Lady Cyclists" "(Work, 1899)" fit at (3,3) 
-
-B4: box rad 5px "Washing the Sweep" "(Work, 1898)" fit at (3,2) 
-
-B5: box rad 5px "Victorian Cinema 3" "(Internet Manifestation, 2014)" fit at (1.5,1) 
-
-B6: box rad 5px "Pierrots" "(Digital Item)" fit at (0,0) 
-
-B7: box rad 5px "Lady Cyclists" "(Digital Item)" fit at (1.5,0) 
-
-B8: box rad 5px "Washing the Sweep" "(Digital Item)" fit at (3,0) 
-
-arrow <-> from B1.e to B2.w
-
-arrow <-> from B2.e to B3.w
-
-arrow <-> from B2.s to B5.n
-
-arrow right 0.2 from B2.e then down until even with B4 then right to B4.w
-
-arrow left from B5.w then left until even with B6 then right to B6.n
-
-arrow <-> from B5.s to B7.n
-
-arrow right 0.2 from B5.e then right until even with B8 then right to B8.n
-```
+![](/app/src/diagrams/figure_12.png)
 
 In the above scenario each of the Items could be given the same location/package number and each could have the alternative title of “Victorian Cinema 3”.
 Similarly, the individual titles could also be added as alternative titles to the aggregating Work if an institution wishes, to aid searchability and access.
@@ -372,70 +302,14 @@ Modelling for Augmented Collection Aggregates follows the same principles as tho
 This involves creation of a new aggregating Work record.
 Works link together in associative relationship “contains/contained in” and aggregate Manifestation links to aggregating Work in “part of” relationship.
 
-```pikchr
-C1: box rad 5px "Casablanca" "(1943) Work" fit at (0,3) 
-
-C2: box rad 5px "Casablanca. Special Edition" "(2003) [Aggregating] Work" fit at (2,3) 
-
-C3: box rad 5px "Casablanca" "(TV Episode, 1955) Work" fit at (4,3) 
- 
-C4: box rad 5px "You Must Remember This" "(1989) (Work)" fit at (0,2) 
-
-C5: box rad 5px "Bacall on Bogart" "(1988) Work" fit at (4,2) 
-
-C6: box rad 5px "Carrotblanca" "(1995) Work" fit at (1,1) 
-
-C7: box rad 5px "Casablanca. Trailer" "(1942) Work" fit at (3,1) 
-
-C8: box rad 5px "Casablanca. Special Edition" "(DVD Manifestation, 2003)" "(Augmented Aggregate)" fit at (2,0)
-
-arrow <-> from C1.e to C2.w 
-
-arrow <-> from C2.e to C3.w 
-
-arrow down 0.2 from C2.s then left until even with C4 then down to C4.n
-
-arrow down 0.2 from C2.s then right until even with C5 then down to C5.n
-
-arrow down 0.2 from C2.s then left until even with C6 then down to C6.n
-
-arrow down 0.2 from C2.s then right until even with C7 then down to C7.n
-
-arrow from C2.s to C8.n
-```
+![](/app/src/diagrams/figure_13.png)
 
 \paragraph{Model: Augmented Aggregate Manifestation within a many-to-many Work/Variants-Manifestations database system} 
 \label{sec:augmented_aggregate_manifestation_within_a_many_to_many} \
 
 Single Aggregate Manifestation links to all individual Works/Variants in “part of” relationship.
 
-```pikchr
-C1: box rad 5px "Casablanca" "(1943) Work" fit at (0,3) 
-
-C2: box rad 5px "Casablanca" "(TV Episode, 1955) Work" fit at (4,3) 
-
-C3: box rad 5px "You Must Remember This" "(1989) (Work)" fit at (0,2) 
-
-C4: box rad 5px "Bacall on Bogart" "(1988) Work" fit at (4,2) 
-
-C5: box rad 5px "Carrotblanca" "(1995) Work" fit at (0,1) 
-
-C6: box rad 5px "Casablanca. Trailer" "(1942) Work" fit at (4,1) 
-
-C7: box rad 5px "Casablanca. Special Edition" "(DVD Manifestation, 2003)" "(Augmented Aggregate)" fit at (2,0)
-
-arrow right from C1.e then right until even with C7 then down to C7.n
-
-arrow right from C3.e then right until even with C7 then down to C7.n
-
-arrow right from C5.e then right until even with C7 then down to C7.n
-
-arrow left from C2.w then left until even with C7 then down to C7.n
-
-arrow left from C4.w then left until even with C7 then down to C7.n
-
-arrow left from C6.w then left until even with C7 then down to C7.n
-```
+![](/app/src/diagrams/figure_14.png)
 
 An institution can choose whether to create all components of the Augmented aggregate Manifestation as Works, or selected ones.
 
@@ -485,98 +359,21 @@ There could then be a clarifying note on the Manifestation where necessary, i.e.
 
 See example below for The thick of it DVD boxed set:
 
-```pikchr
-B1: box rad 5px "The Thick of It" "(Work - Serial)" fit at (2,4) 
-
-B2: box rad 5px "The Thick of It" "The Complete Series 1-3 & Specials" "(DVD Manifestation) (Collection Aggregate)" fit at (0,3) 
-
-B3: box rad 5px "The Thick of It" "The Complete Series 1-3 & Specials" "(DVD Item)" fit at (0,0) 
-
-B4: box rad 5px "The Thick of It" "Episode 1" "(Work - Monographic)" fit at (2,2) 
-
-B5: box rad 5px "The Thick of It. Episode 1" "(TV transmission)" "Manifestation" fit at (2,1) 
-
-B6: box rad 5px "The Thick of It. Episode 1" "(VHS Cassette Item)" fit at (2,0) 
-
-B7: box rad 5px "The Thick of It" "Episode 2" "(Work - Monographic)" fit at (4,2) 
-
-B8: box rad 5px "The Thick of It. Episode 2" "(TV transmission)" "Manifestation" fit at (4,1) 
-
-B9: box rad 5px "The Thick of It. Episode 2" "(VHS Cassette Item)" fit at (4,0) 
-
-arrow <-> left from B1.w then left until even with B2 then down to B2.n
-
-arrow <-> from B2.s to B3.n
-
-arrow <-> from B2.s to B3.n
-
-arrow <-> from B1.s to B4.n
-
-arrow <-> from B4.s to B5.n
-
-arrow <-> from B5.s to B6.n
-
-arrow <-> right from B1.e then right until even with B7 then down to B7.n
-
-arrow <-> from B7.s to B8.n
-
-arrow <-> from B8.s to B9.n
-
-```
+![](/app/src/diagrams/figure_15.png)
 
 Alternatively, a model similar to \nameref{sec:collection_aggregate_manifestation_within_a_many_to_many} can be used, whereby a single Aggregate Manifestation links to the many individual Works/Variants in “part of” relationship:
 
-```pikchr
-B1: box rad 5px "ER (Work - Serial)" fit at (1,3) 
-
-B2: box rad 5px "ER. One Day" "(Season 1, Episode 1)" "(Work – Monographic)" fit at (0,2) 
-
-B3: box rad 5px "ER. Going Home" "(Season 1, Episode 2)" "(Work – Monographic)" fit at (2,2) 
-
-B4: box rad 5px "etc." invis fit at (4,2) 
-
-B5: box rad 5px "ER. The Complete First and Second Season" "(Season 1, Episode 2)" "(DVD Manifestation (Collection Aggregate)" fit at (1,1) 
-
-B6: box rad 5px "ER. The Complete First and Second Season" "(Season 1, Episode 2)" "(DVD Item)" fit at (1,0) 
-
-arrow left 0.2 from B1.w then left until even with B2 then down to B2.n
-
-arrow down 0.2 from B2.s then right until even with B5 then down to B5.n
-
-arrow right 0.2 from B1.e then right until even with B3 then down to B3.n
-
-arrow down 0.2 from B3.s then right until even with B5 then down to B5.n
-
-arrow down 0.34 from B4.s then right until even with B5 then down to B5.n
-
-arrow <-> from B5.s to B6.n
+```{=latex}
+\begin{center}
+```
+![](/app/src/diagrams/figure_16.png){width=300px}
+```{=latex}
+\end{center}
 ```
 
 Where this Serial Work–Monographic Work hierarchy structure does not exist, then a new aggregating Work may be created and linked via an associated contains/contained in relationship in line with models for any other Collection Aggregate.
 
-```pikchr
-B1: box rad 5px "ER – The Complete First" "and Second Season" "(Work – Monographic)" fit at (0,3) 
-
-B2: box rad 5px "ER – The Complete First" "and Second Season" "(DVD Manifestation – 4 disc set)" "(Collection Aggregate)" fit at (0,0) 
-
-B3: box rad 5px "ER. Day One" "(Season 1, Episode 1)"  "(Work – Monographic)" fit at (3,3) 
-
-B4: box rad 5px "ER. Day One" "(TV transmission Manifestation)"  "22/09/1994" fit at (3,2) 
-
-B5: box rad 5px "ER. Going Home" "(Season 1, Episode 2)"  "(Work – Monographic)" fit at (3,1) 
-
-B6: box rad 5px "ER. Going Home" "(TV transmission Manifestation)"  "29/09/1994" fit at (3,0) 
-
-arrow <-> from B1.s to B2.n
-
-arrow <-> from B3.s to B4.n
-
-arrow <-> from B5.s to B6.n
-
-arrow <-> from B1.e to B3.w
-
-arrow right 0.2 from B1.e then down until even with B5 then right to B5.w
-```
+![](/app/src/diagrams/figure_17.png)
 
 For how this might be modelled in a flat or single hierarchy system see \nameref{sec:example_seven}
 

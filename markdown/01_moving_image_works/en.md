@@ -109,7 +109,113 @@ Providing this information helps the cataloguer and user understand the context 
 For example, a television series could be catalogued as a Serial, which implies that there could be related Works (episodes) catalogued as Monographs.
 
 Record the level of description of the work being catalogued, for example, “analytic,” “monographic,” “serial,” etc., according to a controlled vocabulary.
-The terms used in this Manual are derived from traditional bibliographic cataloguing rules and from EN 15907 (and are defined in Appendix D.1), but an institution may choose to create its own list of terms. See \nameref{sec:work_variant_description_types}.
+The terms used in this Manual are derived from traditional bibliographic cataloguing rules and from EN 15907, but an institution may choose to create its own list of terms.
+
+\subsection{Work/Variant Description Types} 
+\label{sec:work_variant_description_types} 
+
+The Types below reflect terms used in Section 4.1.2 Attributes in the CEN standard EN15907. (INSERT LINK TO EN15907 IN A FOOTNOTE along with "The terms and their definitions used in the EN15907 Standard itself are rooted in those from UNESCO CCF/B (Common Communications Format / Bibliographic, UNESCO PGI-92/WS/9, Paris, 1992,(INSERT LINK) which related to bibliographic information.)
+
+**Analytic (component part)**: content that is contained in another content. 
+A component part may itself be either monographic or serial. Component here means intentional component part not fragments or excerpts of a moving image, e.g. an individual element from a larger newsreel issue.
+
+Examples:
+
+```{=latex}
+\begin{tcolorbox}
+Work [Monographic] – Topical Budget 657-1 \\
+Manifestation: Theatrical Release - 35mm - UK - 27th March 1924
+\\
+Work [Analytic (component part)] – One way of solving the traffic problem \\
+Manifestation 1: Internet – digital file – UK -2015 – BFIplayer (streaming channel) \\
+\\
+
+\end{tcolorbox}
+```
+```{=latex}
+\begin{tcolorbox}
+Work [Monographic] - Kwaidan
+Manifestation: Theatrical Release - 35mm - Japan - December 1964
+\\
+Work [Analytic (component part)] - The woman of the snow
+Manifestation: Theatrical Release - 35mm - United Kingdom - October 1968 \\
+\\
+
+\end{tcolorbox}
+```
+
+**Monographic**: Complete content in one part or intended to be completed in a finite number of parts.
+
+This is also applicable to television episodes.
+The record for the television series itself is catalogued as a Serial.
+
+```{=latex}
+\begin{tcolorbox}
+Coronation Street [1960-12-09] \\
+Spaced. Series 1 Episode 1. 1999-09-02
+\end{tcolorbox}
+```
+
+**Serial**: Content issued in successive parts and intended to be continued indefinitely, or across a span of time.
+A Work record for a television series is catalogued as a “Serial.” Individual episodes may be catalogued as a Monographic record.
+
+```{=latex}
+\begin{tcolorbox}
+Gaumont British News (1934-) \\
+Flash Gordon’s Trip to Mars (1938) \\
+Chemistry Essentials (1996) \\
+Breaking Bad (2008-01-20 – 2013-09-29)
+\end{tcolorbox}
+```
+
+**Collection**: Content issued in several independent parts; an ‘umbrella’ work title covering a number of different Works/Variants/Manifestations^[This aligns with EN15907 definitions relating to Work types and is different and distinct from Collection Aggregates].
+
+```{=latex}
+\begin{tcolorbox}
+Pleasure (Joan Littlewood, c1963) (Footage shot on behalf of Joan Littlewood as part of her ‘Fun Palace’ project.) \\
+The ‘Dogme’ films (Each individually numbered.) \\
+Shadows of progress: documentary film in post-war Britain 1951-1977
+\end{tcolorbox}
+```
+
+Other uses for Collection:^[BFI CID Stylistics Manual, A.1.3 Filmographic Level, p. 8]
+
+Archive-acquired collections of works not originally intended for general release or broadcast all have component parts that form the collection as a whole, usually acquired on a series of numerous film reels or videotapes, etc. each with an identifying title.
+
+```{=latex}
+\begin{tcolorbox}
+David Lean home movies \\
+William Butlin personal films \\
+Hollywood interviews (unedited production material for series Hollywood) \\
+BFI London Film Festival Awards 2010 – production material, etc. \\
+Fifties features (videotape collection of production material, with each of the tapes given an identifying acquisition title: \\
+B1-3 Sylvia Syms I/V \\
+B4-6 Sylvia Syms I/V \& Jill Craigie I/V \\
+\end{tcolorbox}
+```
+
+“David Lean home movies,” “Fifties features,” etc. would be the Work titles for the collection-level description, with Collection as its description level.
+
+The individual components of this collection would also be created as individual Monographic Works.
+
+```{=latex}
+\begin{tcolorbox}
+Egypt \\
+India \\
+India no.2 \\
+Kenya
+\end{tcolorbox}
+```
+
+These titles should then be linked to the collection-level description and assigned “part of” relationship.
+
+Aggregate compilation videos/DVDs that are collections of individual works existing as entities in their own right, e.g. Portrait of a miner is a DVD of various Mining review shorts which had their own individual release as complete entities or works.
+
+- Portrait of a miner would be created as the work title, with the description level of Collection.
+
+- Each of the Mining review Works used in Portrait of a miner would then be linked to it and assigned a “contained in” relationship (see \nameref{sec:modelling_aggregates}).
+
+Provide a list of the compiled works contained in the Collections Work in its Synopsis or Summary field.
 
 \subsection{Elements of a Work} 
 \label{sec:elements_of_a_work_variant}
@@ -482,7 +588,22 @@ If no language can be determined, the information can be omitted or indicated by
 \paragraph{Usage Type}
 \label{sec:work_usage_type} \
 
-Record the usage type of a language (e.g. spoken, intertitles, subtitles, etc.) by taking the most suitable term from a controlled list elaborated in-house or referring to an existing authoritative list. See \nameref{sec:language_usage_types}.
+Record the usage type of a language (e.g. spoken, intertitles, subtitles, etc.) by taking the most suitable term from a controlled list elaborated in-house or referring to an existing authoritative list, e.g.:
+
+\subsection{Language Usage Types}
+\label{sec:language_usage_types} 
+
+ * Dialogue language(s)
+   *Spoken language
+   *Sung language
+    *Signed language
+    *No dialogue
+ * Written languages
+    *Subtitles
+    *Captions
+    *Intertitles
+ * Language(s) of summaries on containers
+ * Language(s) of accompanying material
 
 Optionally, record language usage type at the Manifestation/Item level (see \nameref{sec:manifest_language}).
 A value of “original” can be added to the Language element here to indicate that statements made about the language(s) for a particular Manifestation/Item are indicative of the language(s) of the “original” Work. ^[The indication of “original” values at the Manifestation level follows EN 15907 attributes of a Manifestation, pp. 10-11]
@@ -817,122 +938,3 @@ If adding place as a subject it would not therefore be Cornwall but the Isle of 
 
 Actual filming locations data can be added in a different field (in the EN15907 structure locations and production information can be added to a linked Production Event).
 
-\subsubsection[Other relationships]{Other relationships 
-\footnote {EN 15907 8.5 HasAsSubject; YCR, 1.2.7 Relationships With Other Moving Image Works or Other Kinds of Works}} 
-\label{sec:work_other_relationships}
- 
-If desired or appropriate, express relationships that are not covered by the Agent, Subject, and Event relationships, including all kinds of aggregation and re-use of Works and their Variants.
-(See \nameref{sec:aggregates_compilations_multi_component_productions}.)
-
-Commonly-occurring relationships include:^[OLAC TF, Part I, Moving Image Work Definition and Boundaries, Commonly-Occurring Relationships, p. 16.]
-
-*Work(s) that the moving image Work is based on (e.g. moving images adapted from novels, plays, etc.)*
-
-```{=latex}
-\begin{tcolorbox}
-The grapes of wrath (United States of America, 1940, John Ford), based on the homonymous novel by John Steinbeck (1939).
-\end{tcolorbox}
-```
-
-*Work(s) that the moving image Work is a performance of (moving image recordings made of live stage presentations of music, plays, dance, etc.)*
-
-```{=latex}
-\begin{tcolorbox}
-Pink Floyd: live at Pompeii (Belgium,West Germany, France, 1972, Adrian Maben ), concert filmed in the old Pompeii amphitheatre.
-\end{tcolorbox}
-```
-
-*Work(s) that the moving image Work forms part of (e.g. series/serials, aggregations/compilations)*
-
-```{=latex}
-\begin{tcolorbox}
-Fantômas contre Fantômas (Serial in 5 episodes, Louis Feuillade 1914, production Société des Etablissements Gaumont).
-\end{tcolorbox}
-```
-
-```{=latex}
-\begin{tcolorbox}
-Fiddlesticks, Ub Iwerks, 1930, episode of the animation series Flip the Frog (Celebrity Pictures, distr. Metro Goldwyn-Mayer, 1930-1933 (38 issues).
-\end{tcolorbox}
-```
-
-*Work(s) that the moving image Work has a sequential relationship with (e.g. sequels, prequels, serials)*
-
-```{=latex}
-\begin{tcolorbox}
-The Godfather Part I \\
-The Godfather Part II \\
-The Godfather Part III Francis Ford Coppola (United States of America, 1972- 1974-1990)
-\end{tcolorbox}
-```
-
-*Work(s) about the moving image Work (e.g. documentary about the making of a feature film or TV programme)*
-
-```{=latex}
-\begin{tcolorbox}
-La ciociara quarant’anni dopo (Italy, 2001, Stefano Landini), documentary on the restoration of La ciociara (Italy, 1960, Vittorio De Sica).
-\end{tcolorbox}
-```
-
-```{=latex}
-\begin{tcolorbox}
-Reise nach Metropoli (Germany, 2009, Artem Demenok), documentary on the restoration of Metropolis (Fritz Lang, 1927).
-\end{tcolorbox}
-```
-
-*Work(s) that are promotional material of the moving image Work (e.g. Trailers)*
-
-```{=latex}
-\begin{tcolorbox}
-Wuthering Heights (Film Trailer) (United States of America, 1939) is the trailer for Wuthering Heights (United States of America, 1939, William Wyler)
-\end{tcolorbox}
-```
-
-*Non-moving image Works that the moving image Work has a relationship with (e.g. Books, articles, scripts, posters, documents, etc)*
-
-```{=latex}
-\begin{tcolorbox}
-Kes (United Kingdom, 1969, Ken Loach), book “Life after Kes: an anthology of the film Kes”, by Simon W. Golding. GET Publishing, 2005. ISBN. 0954879333
-\end{tcolorbox}
-```
-
-```{=latex}
-\begin{tcolorbox}
-Land and freedom (United Kingdom, 1995, Ken Loach), script Land and freedom (c.1993) (script for ‘Land and freedom’, with opening sequence different from earlier scripts).
-\end{tcolorbox}
-```
-
-```{=latex}
-\begin{tcolorbox}
-Carry on camping (United Kingdom, 1969, Gerald Thomas), archival documents - general production correspondence including notes from the pre-production meeting, studio agreement, final screen credits, and draft trailer script).
-\end{tcolorbox}
-```
-
-```{=latex}
-\begin{tcolorbox}
-The wicked lady (United Kingdom, 1945, Leslie Arliss), costume
-\end{tcolorbox}
-```
-
-Record one or more “Other” relationship type terms to express the nature of the relationship to the Work/Variant, choosing the most specific term possible from a controlled list of values , for example, “based on,” “contained in,” etc. .
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:other_relationships_for_works_variants_manifestations_items}.
-
-Or, compose a term to describe the relationship between the Work being catalogued and the related Work.
-
-In a note, add any additional information concerning the relationship considered relevant.
-
-Describe or demonstrate Work-to-Work relationships through linking to the Work identifier of the related Work, through the usage of relator terms, or according to the confines of the institution’s data structure.
-
-Remember, a Work based on a pre-existing Work should be identified as a Variant of the same Work unless it has been so significantly changed as to have become a new related Work.^[YCR, 1.1.7 Works based on previous works, pp. 24-25.] See \nameref{sec:boundaries_between_works} and \nameref{sec:boundaries_between_works_and_variants} for determining when a Work should be identified as a new, but related Work and when it should be identified as a Variant of the original Work.
-
-\subsubsection{Variants}  
-\label{sec:variants} 
-
-Express the relationship between a moving image Work and a moving image Variant (e.g., Part/part of).
-Describe or demonstrate Work-to-Variant relationships through linking to the Work identifier, through the usage of relator terms, or according to the confines of your data structure.
-
-\subsubsection{Manifestations}  
-\label{sec:manifestations}
-
-Express the relationship between a moving image Work or Variant and a moving image Manifestation (e.g., Part/part of).
-Describe or demonstrate Work-to-Manifestation relationships through linking to the Work identifier, through the usage of relator terms, or according to the confines of your data structure.

@@ -144,81 +144,7 @@ This distinction applies to cataloguing structures using a 4-level hierarchy: Wo
 When using a 3-level hierarchy - Work, Manifestation, and Item – minor changes will indicate new Manifestations rather than new Variants.
 In all cases, major changes warrant the creation of new Work records.
 
-```pikchr
-B1: box rad 5px "Does the material in question constitute exactly the same content as the" "original release in the country of origin?" fit at (3.5,0)
-
-B2: box rad 5px "No" fit at (0,-0.5); arrow down 0.1 from B1.s then left until even with B2 then down to B2.n
-
-B3: box rad 5px "Are the differences minor?" fit at (0,-1); arrow from B2.s to B3.n
-
-B4: box rad 5px "Catalogue material as" "VARIANT of original work" fit at (0,-1.5); arrow from B3.s to B4.n
-
-B5: box rad 5px "Minor changes in" "performers/performance" fit at (1,-2)
-arrow down from B4.s then down until even with B5 then right to B5.w
-
-B6: box rad 5px "Removal/replacement/addition of" "some but not most contributors" fit at (2.5,-2.5); arrow down 0.1 from B5.s then down until even with B6 then right to B6.w
-
-B7: box rad 5px "Examples" "Changes to crew/cast related to different language versions." "Changes to crew/cast related to restorations/preservations." fit at (2.5,-3.5); arrow from B6.s to B7.n
-
-B8: box rad 5px "Minor changes in footage" "or continuity" fit at (1,-4.5); arrow down from B4.s then down until even with B8 then right to B8.w
-
-B9: box rad 5px " Editing differences including footage" "or continuity changes from" "original work. " fit at (2.5,-5); arrow down from B8.s then down until even with B9 then right to B9.w
-
-B10: box rad 5px "Examples" "- Rules of the Game" "- Blade Runner (1982/2007)" "- Mr. Arkadin (1955/1956)" fit at (2.5,-6); arrow from B9.s to B10.n
-
-B11: box rad 5px " Edits of work for reasons of duration/" "censorship/augmentation etc " fit at (2.5,-7); arrow down from B8.s then down until even with B11 then right to B11.w
-
-B12: box rad 5px "Examples" "Television or airline versions of works edited" "for duration, language, content, etc" "Preservation/restoration/alternate ending versions." fit at (2.5,-8); arrow from B11.s to B12.n
-
-B13: box rad 5px "Minor changes in" "textual aspect" fit at (1,-9); arrow from B11.s to B12.n; arrow down from B4.s then down until even with B13 then right to B13.w
-
-B14: box rad 5px " Changes/additions/removal " " of some dialogue," "narration, audio or text" fit at (2.5,-9.5); arrow down from B13.s then down until even with B14 then right to B14.w
-
-B15: box rad 5px "Examples" "Addition/removal of explanatory text, dubbing," " subtitles etc. Star Wars Episode 2 (2002)""(dubbed into 19 languages). Sonorized" "versions of silent films: Cabirira (1914/1931)" fit at (2.5,-10.5); arrow from B14.s to B15.n
-
-B16: box rad 5px "Subtitles/dubbing etc of"  "same textual content into" "different languages" fit at (2.5,-11.5); arrow down from B13.s then down until even with B16 then right to B16.w
-
-B17: box rad 5px "Examples" "- Deep Impact (1998, EnglishDialogue) /" "Impacto Profundo (1998," "Portuguese dialogue,Spanish subtitles)" fit at (2.5,-12.5); arrow from B16.s to B17.n
-
-B18: box rad 5px "Are the differences major? " fit at (5,-1); arrow down 0.1 from B2.s then right until even with B18 then down to B18.n
-
-B19: box rad 5px "Catalogue material as"  "NEW WORK"fit at (5,-1.5);
-arrow from B18.s to B19.n
-
-B20: box rad 5px "Major changes in" "performers/performance" fit at (6,-2); arrow down 0.2 from B19.s then down until even with B20 then right to B20.w
-
-B21: box rad 5px "Each filming of" "a performance-based work" fit at (7.5,-2.5); arrow down 0.2 from B20.s then down until even with B21 then right to B21.w
-
-B22: box rad 5px "Example" "Filmed stage performances" "of Macbeth or Hamlet" fit at (7.5,-3); arrow from B21.s to B22.n
-
-B23: box rad 5px "Removal/replacement of" "most contributors" fit at (7.5,-3.5); arrow down 0.2 from B20.s then down until even with B23 then right to B23.w
-
-B24: box rad 5px "Example" "- Chickens Come Home (1931)" fit at (7.5,-4); arrow from B23.s to B24.n
-
-B25: box rad 5px "Major changes in" "footage or continuity" fit at (6,-4.5); arrow down 0.2 from B19.s then down until even with B25 then right to B25.w
-
-B26: box rad 5px "Remakes of the same story/plot" fit at (7.5,-5); arrow down 0.2 from B25.s then down until even with B26 then right to B26.w
-
-B27: box rad 5px "Examples" "- Planet of the Apes (1968/2001)" "- Scarface (1932/1983)" "- The Man Who Knew Too Much(1934/1956)" fit at (7.5,-5.75); arrow from B26.s to B27.n
-
-B28: box rad 5px "Different language versions" "shot at the same time" fit at (7.5,-6.5); arrow down 0.2 from B25.s then down until even with B28 then right to B28.w
-
-B29: box rad 5px "Examples" "- Dracula (1931): English and Spanish" "- Anna Christie (1930/1931): English and German" fit at (7.5,-7.25); arrow from B28.s to B29.n
-
-B30: box rad 5px "Major changes in" "textual aspect" fit at (6,-8); arrow down 0.2 from B19.s then down until even with B30 then right to B30.w
-
-B31: box rad 5px "Complete change of dialogue" "or narration to an existing" "work" fit at (7.5,-8.5); arrow down 0.2 from B30.s then down until even with B31 then right to B31.w
-
-B32: box rad 5px "Example" "- What's Up, Tiger Lily? (1966)" fit at (7.5,-9.25); arrow from B31.s to B32.n
-
-B33: box rad 5px "Edits of the same footage by different" "people into new sequences."  fit at (7.5,-10); arrow down 0.2 from B30.s then down until even with B33 then right to B33.w
-
-B34: box rad 5px "Example" "- 1910-13 Scott Arctic footage"  fit at (7.5,-10.5); arrow from B33.s to B34.n
-
-B35: box rad 5px "Yes" fit at (7,-0.5); arrow down 0.1 from B1.s then right until even with B35 then down to B35.n
-
-B36: box rad 5px "Catalogue material as" "MANIFESTATION of original" fit at (7,-1); arrow from B35.s to B36.n
-```
+![](/app/src/diagrams/figure_18.png)
 
 \subsubsection{Boundaries between Variants}
 \label{sec:boundaries_between_variants}
@@ -472,6 +398,63 @@ Where no Variant structure exists then the cataloguer would decide whether it co
 
 It is up to every archive or institution to choose and make its own policy on whether to use Variants or Manifestations.
 
+\subsection{Boundaries between Manifestations} 
+\label{sec:boundaries_between_manifestations}
+
+The boundaries between one Manifestation and another are drawn on the basis of two criteria: changes in the publication context and changes in format.^[The definitions that individuate a “new” M. I. Manifestation and distinguish one from another are mainly based on YEE 2008 (draft), 81.] The distinction between one Manifestation and another can be made according to one of the two criteria or the presence of both.
+
+\subsubsection{Changes in the Publication Context} 
+\label{sec:changes_in_the_publication_context}
+     
+If the embodiment of a Work/Variant involves contextual changes, related to the publication or release process, the resulting product is a new Manifestation, e.g., a change from theatrical release to home video distribution; a change of release country and different dubbed/subtitled language; a change of broadcast company/streaming platform; a re-release or repeat broadcast on a different date, etc.
+
+In this case, create a new Manifestation and characterise it according to a controlled list.
+A suggested list, which is open and not exhaustive, can be found at \nameref{sec:manifestation_types}
+
+\subsubsection{Changes in the Format} 
+\label{sec:changes_in_the_format}
+
+If the embodiment of a Work/Variant involves changes in format, the resulting product is a new Manifestation, e.g., a change from 70mm to 35mm.
+
+Create a new Manifestation when there is evidence of at least one (or more than one) of the following changes from the original format:
+
+*Changes to the physical format or the digital file on which it is fixed.*
+
+*Changes to the display characteristics (i.e. in aspect ratio, sound or colour characteristics, etc.)*
+
+*Change in the container (i.e. cassette to cartridge as container for a tape).*
+
+Include and describe any of the distinguishing physical changes according to the guidelines in \nameref{sec:format_of_a_moving_image_manifestation}.
+
+The example below shows a number of possible Manifestations of the original Italian version of Il gattopardo (Italy, France, Luchino Visconti, 1963).
+
+*Change in format.^[Information about the cinematographic process and aspect ratio is taken from: http://www.imdb.it/title/tt0057091/technical.]*
+
+```{=latex}
+\begin{tcolorbox}
+Il gattopardo (Italy, France, Luchino Visconti, 1963) \\
+Theatrical release, 35mm, Cinemascope – aspect ratio 2,35 : 1 \\
+Theatrical release, 70mm, Cinemascope – aspect ratio 2,20 : 1
+\end{tcolorbox}
+```
+
+*Change in format and publication context.*
+
+```{=latex}
+\begin{tcolorbox}
+Il gattopardo (Luchino Visconti, 1963) \\
+Home video publication, DVD – aspect ratio 2,21 :1 – Medusa Video, Italia, 00/00/2009
+\end{tcolorbox}
+```
+
+In-house copying of an institution’s holding onto a different format, e.g. a video transfer of a 35mm film does not necessitate creation of a new Manifestation.
+In this case there is also the option of simply creating an Item for the copy, and linking it to the same Manifestation as the source Item.
+
+This option depends on an institution’s policy.
+Some may choose always to create a new Manifestation (i.e. a Preservation Manifestation) in such cases , whilst others may decide to create a new Manifestation where change in format and change in distribution/publication coincide but simply create a new Item linked to an existing Manifestation where change in format is as a result of in-house copying.
+
+It is for an institution to decide on which approach it prefers and apply consistently.
+
 \subsection{Boundaries between Manifestations and Events}
 \label{sec:boundaries_between_manifestations_and_events}
 
@@ -513,31 +496,13 @@ The boundaries between Manifestations and Events and structuring decisions will 
 Some system databases may not have the ability or full functionality to have Events records, but do have Manifestations; in which case they may make use of a wider list of Manifestation Types and have fields relating to EN15907 Events data embedded within the Manifestation record itself. These systems will be more likely to make use of a structure of multiple Manifestations rather than one Manifestation with multiple publication Events.
 For example:
 
-```pikchr
-W: box rad 5px "Work" at (2.5,1) 
-M1: box rad 5px "Theatrical Manifestation." "Germany, January 1995." "35mm film, 96 minutes, in German" at (0,0) fit
-M2: box rad 5px "Theatrical Manifestation." "Austria, March 1995." "35mm film, 96 minutes, in German" at (2.5,0) fit
-M3: box rad 5px "Theatrical Manifestation." "Switzerland, February 1995." "35mm film, 96 minutes, in German"  at (5,0) fit
-arrow down 0.2 from W.s then right until even with M1 then down to M1.n
-arrow from W.s to M2.n
-arrow down 0.2 from W.s then left until even with M3 then down to M3.n
-```
+![](/app/src/diagrams/figure_05.png)
 
 The EN15907 standard does not have date or release country as being core elements of a Manifestation, envisaging that information being in an associated Event. However, many systems do include those fields within their Manifestation records, as actual attributes of the Manifestation, as can be seen in some of the examples featured in Appendix I.[ADD LINK] In systems with no, or minimal, Events records capabilities it is the most logical alternative place to capture that important relevant data.
 
 Other systems may have developed and utilise Events more in line with EN15907 to reflect data about different releases in various countries, e.g.   
 
-```pikchr
-W: box rad 5px "Work" at (0,2) 
-M: box rad 5px "Theatrical Manifestation." "35mm film, 96 minutes, in German" at (0,0.75) fit 
-E1: box rad 5px "Theatrical publication." "Event in Germany," "January 1995" at (2.5,1.5) fit
-E2: box rad 5px "Theatrical publication." "Event in Austria," "March 1995" at (2.5,0.75) fit
-E3: box rad 5px "Theatrical publication." "Event in Switzerland," "February 1996 " at (2.5,0) fit
-arrow from W.s to M.n
-arrow right 0.2 from M.e then up until even with E1 then right to E1.w
-arrow from M.e to E2.w
-arrow right 0.2 from M.e then down until even with E3 then right to E3.w
-```
+![](/app/src/diagrams/figure_06.png)
 
 Structuring decisions around Manifestations and Events may also depend on the nature, size, use, and user needs of an institution’s moving image collections.
 
@@ -545,11 +510,11 @@ In many cases, an institution is only going to create those Manifestations that 
 
 A broadcast as a Publication Event could suit where collections consist solely of cinematographic films. However, several institutions have collections consisting of both films and television programmes, where there needs to be a consistency and standardisation in structuring hierarchical metadata .
 
-For a television programme, its broadcast is the actual primary manifestation of its Work not simply an event in the life-cycle of the Work. With the flexibility offered by Manifestation type it is possible and preferable to have a ‘Broadcast’ Manifestation type that can be used with television programme Works, thus maintaining the integrity of the EN15907 hierarchical structure. 
+For a television programme, its broadcast is the actual primary, and often only, manifestation of its Work not simply an event in the life-cycle of the Work. With the flexibility offered by Manifestation type it is possible and preferable to have a ‘Broadcast’ Manifestation type that can be used with television programme Works, thus maintaining the integrity of the EN15907 hierarchical structure. 
  
 This means that the one standard and structuring can be applied with mixed collections within the one moving image database system, rather than try to use EN15907 with films and another standard, such as PBCore, with television programmes. 
 
-Institutions may also not only collect and acquire items, but develop their own VOD (Video on Demand) channels, e.g. BFIplayer which provides a mixture of Free, Subscription and Transactional VOD, using digital items to stream the content.
+Institutions may also not only collect and acquire items, but stream their own VOD (Video on Demand) channels, e.g. BFIplayer which provides a mixture of Free, Subscription and Transactional VOD, using digital items to stream the content.
 Thus, having an Internet Manifestation type means that both acquired or produced VOD materials can be captured within an EN15907 structure. The actual digital Items held and representing records for the files used in streaming can then be linked to these Manifestations.
 
 There is also the consideration of a pure EN15907 structure approach meaning disparate pieces of relevant and related data sitting in the Manifestation and the Event and how that may impact user access. Also, how to cope with a potential tangle of complex structuring with a variety of materials in a collection for the same Work, and realistic resourcing and capabilities of differing database systems used by Archives and institutions. This manual recognises both the purist and pragmatic approaches.
@@ -559,3 +524,10 @@ For those cataloguing in non-relational databases, paper or card catalogues, or 
 As with the ability to utilise EN15907 within a 4, 3, 2 or 1-level hierarchy, the same fundamental principle applies with use and structure of Events with Works, Variants, Manifestations or Items; namely, that it does not matter what data systems or structures an institution uses – whether index card or complex computer systems -  as long as their records capture the relevant data concerned.
 
 With a fundamental aim of EN15907 being interoperability, then use of types such as those in the list of Manifestation Types at [INSERT INTERNAL LINK TO RELEVANT SECTION] is key to the flexibility and use of the data architecture reflecting the standard and makes this a lot more achievable; especially in systems where Events structures are minimal or do not exist. Because there is an overlap in Manifestation and Event type terms it could make potential mapping and interoperability achievable.
+
+\subsection{Boundaries between Items}    
+\label{sec:boundaries_between_items} 
+
+The boundaries between moving image Items is determined primarily by the boundaries between Manifestations (see \nameref{sec:boundaries_between_manifestations}).
+There may be multiple Items associated to a Manifestation that are, for all intents and purposes, exact copies, but which may have small differences that do not necessitate representation as a Manifestation.
+For example, an institution may have two DVD-R copies of the same Manifestation, with cosmetic differences in their labels.

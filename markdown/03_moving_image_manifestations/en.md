@@ -18,78 +18,423 @@ A Manifestation can therefore be associated or linked to more than one Work/Vari
 
 For Aggregate Manifestations see \nameref{sec:aggregates_compilations_multi_component_productions}.
 
-\subsection{Boundaries between Manifestations} 
-\label{sec:boundaries_between_manifestations}
-
-The boundaries between one Manifestation and another are drawn on the basis of two criteria: changes in the publication context and changes in format.^[The definitions that individuate a “new” M. I. Manifestation and distinguish one from another are mainly based on YEE 2008 (draft), 81.] The distinction between one Manifestation and another can be made according to one of the two criteria or the presence of both.
-
-\subsubsection{Changes in the Publication Context} 
-\label{sec:changes_in_the_publication_context}
-     
-If the embodiment of a Work/Variant involves contextual changes, related to the publication or release process, the resulting product is a new Manifestation, e.g., a change from theatrical release to home video distribution; a change of release country and different dubbed/subtitled language; a change of broadcast company/streaming platform; a re-release or repeat broadcast on a different date, etc.
-
-In this case, create a new Manifestation and characterise it according to a controlled list.
-A suggested list, which is open and not exhaustive, can be found at \nameref{sec:manifestation_types}
-
-\subsubsection{Changes in the Format} 
-\label{sec:changes_in_the_format}
-
-If the embodiment of a Work/Variant involves changes in format, the resulting product is a new Manifestation, e.g., a change from 70mm to 35mm.
-
-Create a new Manifestation when there is evidence of at least one (or more than one) of the following changes from the original format:
-
-*Changes to the physical format or the digital file on which it is fixed.*
-
-*Changes to the display characteristics (i.e. in aspect ratio, sound or colour characteristics, etc.)*
-
-*Change in the container (i.e. cassette to cartridge as container for a tape).*
-
-Include and describe any of the distinguishing physical changes according to the guidelines in \nameref{sec:format_of_a_moving_image_manifestation}.
-
-The example below shows a number of possible Manifestations of the original Italian version of Il gattopardo (Italy, France, Luchino Visconti, 1963).
-
-*Change in format.^[Information about the cinematographic process and aspect ratio is taken from: http://www.imdb.it/title/tt0057091/technical.]*
-
-```{=latex}
-\begin{tcolorbox}
-Il gattopardo (Italy, France, Luchino Visconti, 1963) \\
-Theatrical release, 35mm, Cinemascope – aspect ratio 2,35 : 1 \\
-Theatrical release, 70mm, Cinemascope – aspect ratio 2,20 : 1
-\end{tcolorbox}
-```
-
-*Change in format and publication context.*
-
-```{=latex}
-\begin{tcolorbox}
-Il gattopardo (Luchino Visconti, 1963) \\
-Home video publication, DVD – aspect ratio 2,21 :1 – Medusa Video, Italia, 00/00/2009
-\end{tcolorbox}
-```
-
-In-house copying of an institution’s holding onto a different format, e.g. a video transfer of a 35mm film does not necessitate creation of a new Manifestation.
-In this case there is also the option of simply creating an Item for the copy, and linking it to the same Manifestation as the source Item.
-
-This option depends on an institution’s policy.
-Some may choose always to create a new Manifestation (i.e. a Preservation Manifestation) in such cases , whilst others may decide to create a new Manifestation where change in format and change in distribution/publication coincide but simply create a new Item linked to an existing Manifestation where change in format is as a result of in-house copying.
-
-It is for an institution to decide on which approach it prefers and apply consistently.
-
 \subsection{Attributes of a Manifestation} 
 \label{sec:attributes_of_a_manifestation} 
 
 \subsubsection{Manifestation Type}
 \label{sec:manifestation_type} 
 
-As previously mentioned, a Manifestation is defined on the basis of two criteria: changes in the publication context and changes in format.
+As mentioned at [INSERT INTERNAL LINK TO BOUNDARIES CHAPTER SECTION], a Manifestation is defined on the basis of two criteria: changes in the publication context and changes in format.
 The element Manifestation Type describes the specific type of change.
 
 The Manifestation Type is expressed by a phrase denoting the relationship between the Manifestation and the associated Work/Variant, for example, “pre-release,” “theatrical distribution,” “not for release,” “original,” etc.
 
 Record the Manifestation Type by taking the most suitable term from a controlled list.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_types}.
 
-If it is impossible to determine the specific Manifestation Type the information can be omitted or indicated by a value of “unknown.”
+\subsection{Manifestation Types} 
+\label{sec:manifestation_types} 
+
+The Manifestation types below can be used with Manifestations associated with either Works or Variants.
+
+EN15907 does not specify any Manifestation types other than Unknown. The Manifestation types listed below are based on existing types widely used by various archives and used with Manifestations associated with either Works or Variants. They are not the only possible types that can be used - this is not a definitive list of types. Institutions should use the types and terminologies best suited for their requirements and collections.
+
+\subsubsection{Pre-Release (or Production)} 
+\label{sec:pre_release} 
+
+A moving image Manifestation type that may be used to represent any embodiments of a moving image Work that exist before the finalisation or release of the moving image Work. Also use for partially realised projects, i.e. productions that started filming but then project ceased before completion, for which footage exists and may have been acquired by an institution.
+
+A Pre-Release Manifestation is effectively a Production Manifestation for which acquired Items created or used in the production of a film can be linked. Technically, a Pre-Release Manifestation does not refer to any release at all, but rather to embodiments of the creative process that goes into the creation or construction of the Work itself, i.e. raw or semi-edited footage that has been shot in the making of a moving image, whether it has been used in the ultimate finished Work or not. Effectively, it is a convenient device in order to maintain the EN15907 structure when cataloguing production materials and not to confuse Items that constitute these with Items that are simply copies of the completed, released film.
+
+It applies to production material in general, including: original shooting elements (i.e. original camera negative, working print, original video, editing file) and/or the first recording/mixing of the sound (separate original soundtracks – dialogues, sound, music, – or the first mixed soundtrack).
+
+It may also include, censorship submission prints, working assembly prints, rushes, costume tests, lighting tests, make-up tests, etc. where an institution may need or prefer to group together all production material, i.e. an institution may usually create rushes and tests as separate individual associated records but, where these are acquired as part of a large collection of production material for one particular moving image it prefers, for practical reasons, to keep records together for ease of access or for restoration work purposes.
+
+An institution may create Works in their own right for different in-production filmed aspects, e.g. Screen Tests, Rushes, etc. which are then related to the main, final moving image Work in an associative relationship. Each of these Works would then have their own linked Pre-Release Manifestation. Decisions on this may depend on the quantity and/or nature of materials acquired and an institution's preference. For further details about possibilities and options in structuring and cataloguing production materials and using Pre-release Manifestations see [ADD LINK TO NEW SECTION ON TITLES AND STRUCTURES OF PRODUCTION MATERIALS CURRENTLY BEING EDITED IN BRANCH 259 DOCUMENT OF MANUAL]
+
+Pre-Release Manifestation can also be used with moving images which started production but were never finished and for which footage exists and may have been acquired by an institution.
+
+Depending on the quantity and nature of materials, an institution may create Works in their own right for different in-production filmed aspects, e.g. Screen Tests, Rushes, etc. which are then related to the main, final moving image Work in an associative relationship. Each of these Works would then have their own linked Pre-Release Manifestation.
+
+Equally, an institution may choose to link all acquired production Items (whether analogue or digital) to a single Pre-Release Manifestation linked to the main complete Work, or possibly to several different Pre-Release Manifestations such as one for Screen Tests, one for Rushes, one for general production material, etc.
+
+
+It may also be used for initial record creation purposes prior to material being viewed and catalogued, which may then subsequently result in further Pre-Release Manifestations and/or Works/Variants
+
+```{=latex}
+\begin{tcolorbox}
+Something’s got to give (Rushes)
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}
+Beauty jungle: Artist Test – Shirley Ann Field
+\end{tcolorbox}
+```
+
+Depending on the quantity and nature of materials, an institution may create Works in their own right for different in-production filmed aspects, e.g. Screen Tests, Rushes, etc. which are then related to the main, final moving image Work in an associative relationship. Each of these Works would then have their own linked Pre-Release Manifestation.
+
+Equally, an institution may choose to link all acquired production Items (whether analogue or digital) to a single Pre-Release Manifestation linked to the main complete Work, or possibly to several different Pre-Release Manifestations such as one for Screen Tests, one for Rushes, one for general production material, etc.
+
+For examples of these see [ADD INTERNAL LINK TO APPENDIX 1 SECTION ON TITLES AND STRUCTURES FOR PRODUCTION MATERIAL]
+
+It may also be used for initial record creation purposes prior to material being viewed and catalogued, which may then subsequently result in further Pre-Release Manifestations and/or Works/Variants
+
+In addition, it may be applied to moving image Manifestations assembled for submission to censorship/ratings bodies, or moving image Manifestations with cuts resulting from those censorship activities.
+
+Detail on the specific nature of the Pre-Release Manifestation (e.g. censorship cuts, working assembly edit, etc.) can be added as a property of the Manifestation Type, from controlled vocabulary or free text, as preferred.
+
+Manifestation Types can represent a unique instance (e.g. the original negative, the first recording/mixing of the sound, censorship cuts, the working assembly edit, etc.) or, more than one instance.
+
+```{=latex}
+\begin{tcolorbox}
+Censorship submission print
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}
+Censorship cuts
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}
+Make-up tests
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}
+Costume tests
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}
+Screen tests general
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}
+Camera negative
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}
+Assembly edit
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}
+Rushes/Dailies
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}
+Sound mixes
+\end{tcolorbox}
+```
+
+These describe the context, not the format. For example, a censorship print may exist as multiple Items (35mm print, ProRes, MP4)
+
+As mentioned previously, some of these could also be achieved by creating separate Works, rather than capturing these as Manifestations of the film work.
+
+```{=latex}
+\begin{tcolorbox}
+Il gattopardo (Luchino Visconti, 1963)
+Pre-release, original camera negative – 35mm – Technirama (horizontal frame 8 perf) – Anamorphic – aspect ratio 2,55:1
+Work: Il gattopardo (Italy, 1963, Luchino Visconti)
+Variant “first cut”: 206’ – first projection – 1963/03/28 (date of first projection) – Rome, Italy
+Manifestation 1: Pre-release (original camera negative) – Film – 35mm – 2,55: 1 Anamorphic – Technirama (horizontal frame 8 perf) – Colour Technicolor
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}
+La voce del silenzio (Georg Wilhelm Pabst, 1953)
+Pre-release, Censorship cuts – 35mm – sound positive – 1,37: 1 – black and white
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}
+Work: La voce del silenzio (Italy, 1953, Georg Wilhelm Pabst)
+Manifestation1: Pre-release (censorship cuts) – Film – 35mm – sound positive – 1,37:1 – black and white
+\end{tcolorbox}
+```
+
+\subsection{Theatrical distribution} 
+\label{sec:theatrical_distribution} 
+
+A moving image Manifestation type representing Manifestations distributed and exhibited in cinema theatres. The classic examples are 35mm positive prints, or the DCP (Digital Cinema Package).
+
+These Manifestation types can be more than one instance, created at the same time or in a different moment, from the same “reproduction” masters.
+
+```{=latex}
+\begin{tcolorbox}
+L’aigle à deux têtes (France, 1948, Jean Cocteau)
+
+Manifestation 1 : Theatrical distribution (France – 1948 – 22/09/1948 – first projection) – 35mm French – Les Films Ariane (producer, distributor)
+Manifestation 2 : Home Video Publication (France – 2010) – TF1 Vidéo (Boulogne-Billancourt) (publisher)
+
+Dubbed Variant
+Manifestation 1: Theatrical distribution (Italy – 1949 – censorship visa) – 35mm – Italian (dubbed) – title “L’aquila a due teste” – Italfrancofilm (distributor)
+Manifestation 2: Home Video Publication (Italy – 2009 – 25/09/2009) - DVD – French and dubbed Italian (spoken languages), Italian subtitles – Gruppo Editoriale Minerva Raro Video (publisher) – DVD edition by Gabrielle Lucantonio.
+\end{tcolorbox}
+```
+
+If required there are also further sub-categories of Theatrical distribution which can be used.
+
+\subsubsection{Non-theatrical distribution}
+\label{sec:non_theatrical_distribution} 
+
+A moving image Manifestation screened or exhibited outside the public theatrical context. For example, industrial film, training film, medical film, where screening often takes place within a private institutional context; film club screenings; educational screenings.
+
+```{=latex}
+\begin{tcolorbox}
+The Queen (United Kingdom, 2006, Stephen Frears)
+Variant: Censored for airplanes (UK and USA?)
+Manifestation: Non-theatrical distribution (USA – Delta Airlines).
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}
+Che cos’è la geografia (Italy, 1953) (genre: Educational Film)
+Manifestation 1: Non-theatrical distribution – 16mm- silent with Italian intertitles –b/n – 20’
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}
+United Nations peacekeeping: situation report, United States of America, 1978 (United Nations Film)(genre: Educational film)
+Manifestation 1: Non-theatrical distribution – 16mm- sound– colour
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}
+Stevie Wonder salutes Nelson Mandela, United States of America, 1985 (United Nations Film) (genre: educational film)
+Manifestation 1: Non-theatrical distribution– 16mm- sound– color – 8’
+\end{tcolorbox}
+```
+
+\subsubsection{Not for release}
+\label{sec:not_for_release} 
+
+Any moving image Manifestation where the viewing activity was private, due to the nature of the work or the nature of the viewing. For example, amateur film / home movies, where screening usually takes place in a private familial context only; or an uncut manifestation of a feature film screened for crew only.
+
+```{=latex}
+\begin{tcolorbox}
+Albert Einstein at country home, Caputh, near Berlin, May 1931. (genre: home movie)
+Manifestation 1: Not for release– film – 16mm 
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}
+Incontro con Paolo e Vittorio Taviani, Italy, 2004 (genre: event record)
+Manifestation 1 (Original): Not for release – MiniDV – 2004 – Italy –CSC-Cineteca Nazionale
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}
+Viaggio in Congo (Italy, 1912, Guido Piacenza) shots not edited)
+Augmented / Preservation Variant – (ordering of the shots and addition of explaining intertitles based on the personal diary records of the director) (ordering and editing, including new explaining intertitles, based on personal diary records of the director)
+Manifestation 1: Not for release (archival access) – film 35mm – b/n – silent
+\end{tcolorbox}
+```
+
+\subsubsection{Unreleased}
+\label{sec:unreleased} 
+
+Refers to Manifestations which do not represent a release/distribution event, but where the work was intended for release (therefore, distinct from “Not for release”, see above), e.g. the film was made, completed and intended for release, but was not then released due to censorship or political impediments, or other reason.
+
+```{=latex}
+\begin{tcolorbox}
+Robinson Warszawksi (Poland, 1948, Jerzy Zarzycki)
+Film was never released. It ran into censorship problems for portraying the heroism of non-Communist underground movement that also fought against the Nazis. Film was re-edited with major plot changes and released as Miasto Nieujarzmione in 1950.
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}
+Primavera (Italy, ca. 1920, Licurgo Tioli) (Italian silent film, which is not included in the censorship records and according to the sources, was never released/distributed, but it exists as a nitrate tinted 35mm print at the CSC-Cineteca Nazionale in Rome).
+\end{tcolorbox}
+```
+
+\subsubsection{Home viewing publication}
+\label{sec:home_viewing_publication} 
+
+A published Manifestation for viewing in the home or similar small-scale private context, of any type of work. For example, a Blu-ray release of a feature film, for viewing in the home; or a DVD compilation release of a set of non-fiction film works.
+
+```{=latex}
+\begin{tcolorbox}
+A day in the life. Four portraits of post-war Britain (UK, DVD/Blu-ray, 2010)
+\end{tcolorbox}
+```
+
+The most used formats are VHS, DVD, and Laserdisc, but this definition can also include 9.5mm Pathé Baby or 8mm packages in use from the 1950s-1980s (e.g.. the 1977 Star Wars home video in 8mm).
+
+NOTE: When the production process involves changes related to the publication, marketing, etc. (e.g., a change in publisher, a repackaging, a new distributor and so on), the resulting product may be considered a new Manifestation as well (see \nameref{sec:boundaries_between_manifestations}).
+
+```{=latex}
+\begin{tcolorbox}
+Fellini Satyricon (Italy, 1969, Federico Fellini)
+Manifestation 1: Home Video Publication – VHS (Italy – 1987 – De Laurentiis/ Ricordi Video (publisher)
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}
+The Queen (United Kingdom, 2006, Stephen Frears)
+Manifestation 1: Theatrical distribution (UK – 2006 – first projection) – 35mm – English
+Manifestation 2: TV Broadcast (UK 2007-09-02)
+Manifestation 3: Home video – DVD (UK distribution – 2007-03-12)
+Manifestation 4: Home video – DVD Blue Ray (USA – 2007-04-24)
+\end{tcolorbox}
+```
+
+\subsubsection{Broadcast}
+\label{sec:broadcast} 
+
+A moving image Manifestation type for TV transmission. It encompasses professional video and digital formats, i.e. Digital Betacam, HDCam, etc.
+
+```{=latex}
+\begin{tcolorbox}
+The Queen (United Kingdom, 2006, Stephen Frears)
+Manifestation 2: TV Broadcast (UK 2007-09-02)
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}
+It happened one night (United States of America, 1934, Frank Capra)
+Manifestation 1: Theatrical distribution (United States of America, 1934): 35mm – black and white – 105 minutes – Columbia Pictures Corp. (producer, distributor) –
+Manifestation 2: Broadcast (broadcast on Turner Classic Movies – 2013-11-01, 08:00) black and white – mono – 105 minutes.
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}
+Lazarus rising, (in the series Supernatural), Season 4 Episode 1 (United States of America, 2008, Kim Manners)
+Manifestation 1: TV Broadcast (USA 2008-09-18, 21:00-21:55, The CW) colour – stereo – 55 minutes (slot); 40 minutes (actual running time)
+Manifestation 2: TV Broadcast (UK, 2009-01-25, 21:00-22:00, ITV2) colour – stereo – 60 minutes (slot); 40 minutes (actual running time)
+\end{tcolorbox}
+```
+
+\subsubsection{Internet}
+\label{sec:internet} 
+
+A moving image Manifestation distributed on the Internet (stream or download) for works of any type, those conceived as Internet works or those conceived in other type but subsequently distributed on the internet (for free or paid subscription).
+
+```{=latex}
+\begin{tcolorbox}
+Amor pedestre (Italy, 1914, Marcel Fabre)
+Manifestation 1: Theatrical distribution – Italian intertitles – film – 35mm – silent – tinted – 1914 – Italy
+Manifestation 2: Internet – digital file – [201-?] – Cineteca Italiana (internet publisher) 
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}
+A film Johnnie (United States of America, 1914, George Nichols)
+Translated Variant: Danish intertitles -35mm silent – tinted – Denmark 191[?] -Title: Chaplin fridsstöraren
+Preservation Variant: (of Translated Variant)
+Manifestation 1: Internet – digital file – [201-?] – European Film Gateway (internet publisher) http://www.europeanfilmgateway.eu/it/node/33/detail/A+film+Johnnie/video:MTU4Yzg1OWUtZGJhZC00ZGUxLTg2MWYtZDEyM2Y0YTA3ODQ0X1VtVndiM05wZEc5eWVWTmxjblpwWTJWU1pYTnZkWEpqWlhNdlVtVndiM05wZEc5eWVWTmxjblpwWTJWU1pYTnZkWEpqWlZSNWNHVT06OmF2Q3JlYXRpb24uZGZpLmRrL0RGSV9hdkNyZWF0aW9uXzQwNjM0/paging:dmlkZW8tMS00LWltYWdlLTEtNC1zb3VuZC0xLTQtcGVyc29uLTEtNC10ZXh0LTEtNA== 13’)
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}
+Brennende Grenze (Germany, 1926-27, Erich Waschneck)
+Manifestation 1: Internet –digital file – [200-?] –Deutsches Filminstitut – DIF (internet publisher) http://www.filmportal.de/node/42289/video/1219949 – 2h 26’ 18’’
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}
+Hollywood Stadium mystery (USA 1938, David Howard )
+Manifestation 1: Theatrical distribution – English (spoken language) – film – 35mm b/n – 1938 -USA
+Manifestation 2: Internet – digital file – 619.3 MB – [200-?] – United States of America – archive.org (internet publisher)  
+Manifestation: Internet – digital file – 512Kb MPEG4 – [200-?] – United States of America – archive.org (internet publisher) 
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}
+Cat-Women of the Moon (United States of America, 1953, Arthur Hilton)
+Manifestation 1 : Theatrical distribution: English (spoken language) – film – 35mm – b/n – 1953 – USA
+Manifestation 2: Internet – English (spoken language) digital file – DivX – [200-?] – United States of America; – 442.1 MB
+Manifestation 3: Internet – English (spoken language) – digital file – 512Kb MPEG4 – [200-?] – United States of America; – 259.6 MB
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}
+A Syrian love story (United Kingdom, Sweden, Denmark, 2015, Sean McAllister)
+Manifestation 1: Theatrical distribution: Arabic, English, French (spoken language); English subtitles – Digital – Digital Cinema Package (DCP) – colour – 2015-09-18 – United Kingdom
+Manifestation 2: Internet: Arabic, English, French (spoken language); English subtitles – digital file
+\end{tcolorbox}
+```
+
+\subsubsection{Preservation}
+\label{sec:preservation} 
+
+Refers to manifestations which represent the outcome(s) of an institution’s internal copying of moving image items held in their collection for preservation purposes. This often involves copying of the moving image onto a different format, e.g. digitised file(s), for preservation and/or access purposes.  
+
+[ADD LINK TO ILLUSTRATIVE DIAGRAM IN NEW APPENDIX WHEN ADDED]
+
+\subsubsection{Restoration}
+\label{sec:restoration} 
+
+Refers to manifestations which represent the outcome(s) of restoration events/activities, usually involving selection and aggregation of materials from diverse source elements to replicate an ‘original’ or ‘ideal’ manifestation.
+Some institutions may use this to refer to restorations undertaken by the institution (not to be confused with the actual published Variant, resulting from reconstruction made by aggregating different sources, see \nameref{sec:boundaries_between_works_and_variants}.
+
+If required there is the option of creating more than one Restoration Manifestation to group specific outcomes of the project, e.g. a Manifestation for a Demonstration Reel, Raw scans, final digital DCP and DCDM materials resulting from the restoration process, etc. particularly where there may be several Items, or copies, relating to these on different formats.
+
+    Example:
+
+A very ambitious application might result in the following structure, where separate Manifestations are created for different stages of the restoration process with the key categories:
+1. Raw Scan: linked to its item source via a Preservation event (type: digitisation).
+2. DCDM (Digital Cinema Distribution Master) and DCP (Digital Cinema Package) under one Manifestation
+3. Blu-ray/DVD - ISO as Manifestations and burned physical discs as a items
+4. Viewing file for internet publication
+
+Each of these Manifestations differs from the others in terms of its technical parameters (e.g., encoding, resolution, compression, file formats), which justifies the separation into different Manifestations.
+
+  Example:
+
+```{=latex}
+\begin{tcolorbox}
+The great white silence (United Kingdom, Herbert Pointing, 1924) (DVD –Dual Format Edition – BFI) (2010 restoration)
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}
+Metropolis (Germany, Fritz Lang, 1927)
+The Complete Metropolis – Blu Ray – (2010 restoration – Kino International, USA, 2010)
+\end{tcolorbox}
+```
+
+```{=latex}
+\begin{tcolorbox}
+Nosferatu. Eine Symphonie des Grauens (Germany, 1922, Friedrich Wilhelm Murnau) Blu-Ray of the Restoration Variant: 2005-2006 restoration – Murnau Stiftung/Transit Classics – Deluxe Edition – 2014 – EAN 888430505797
+\end{tcolorbox}
+```
+
+\subsubsection{Unknown}
+\label{sec:unknown} 
+
+Use only when there is insufficient contextual information to enable informed use of any specific Manifestation type from the list above.
+For example, to be used when undertaking data cleaning of obsolete legacy Manifestations, when no information is available and it is not practical to examine the primary source to establish context.
 
 Statements made about Language, Format and/or Extent may have an added value of “original” to indicate characteristics of an “original Work,” where such a concept is required or desired.^[The indication of “original” values at the Manifestation level follows EN 15907 attributes of a Manifestation, pp. 10-11.] Associating the value of “original” with a particular Manifestation indicates it has privileged status in relation to other possible Manifestations.
 
@@ -193,7 +538,7 @@ If no language can be determined, the information can be omitted or indicated by
 More than one language can occur in different forms, depending on how the content is expressed: the usage type of the languages defines the form with which the language is expressed, for example, spoken, sung, written, etc.
 
 Record the usage type of a language by taking the most suitable value from a controlled list.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:language_usage_types}.
+A suggested list, which is open and not exhaustive, can be found in \nameref{sec:language_usage_types}.[ADD LINK TO SECTION ON LANGUAGE USAGE IN WORKS CHAPTER]
 
 If usage type(s) cannot be determined, indicate a value of “unknown”.
 
@@ -262,12 +607,15 @@ Its description consists of a general media type, which describes the basic prop
 \subparagraph{General Media Type}
 \label{sec:manifest_general_media_type} \
 
-The broad media type of the Manifestation (e.g., film, video, digital file).
-Recording this high-level information will enable simple searching for only film, video, digital, etc. elements rather than searching by all possible formats and carriers.
+The broad media type of the Manifestation (e.g., film, video, audio, optical, digital file).
+Recording this high-level information will enable simple searching for only film, video, digital, etc. elements rather than searching by all possible formats and carriers. A suggested list, which is open and not exhaustive, can include:
 
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_item_specific_media_type}.
-
-For reasons of clarity and to avoid redundancy, optionally, institutions can decide to skip the general media type description, since it is already implicit in the specific media type.
+Film
+Video Tape
+Video Disc
+Digital Tape
+Digital Disc
+Digital File
 
 \subparagraph{Specific Media Type}
 \label{sec:manifest_specific_media_type} \
@@ -286,29 +634,156 @@ Information on the specific codecs and resolution are captured in Item elements.
 For optical media, only add commercially produced media here.
 If the optical media is “writable” and is being used to store a digital file, put the digital file format in the general media type, and the optical storage media in specific media type.
 
-Select the value from a suitable controlled list.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_item_specific_media_type}.
+Institutions should develop standard lists of terms to indicate the specific carrier type or refer to authoritative existing lists.
 
-\paragraph{Projection Characteristics of a Manifestation{
+For optical media, only add commercially produced media here. If the optical media is “writable” and is being used to store a digital file, put the digital file format in the General Carrier Type, and the optical storage media in Specific.
+
+```{=latex}
+\begin{tcolorbox}
+YEE (http://myee.bol.ucla.edu/catrul.doc 5.3.3 (physical carriers)
+AMIM2 5D, pp. 18-19 (for gauges/width values)
+AMIM2 5B7, pp. 10-11 (including both “tape” and “disc” based video formats).
+RDA 3.20; YEE (http://myee.bol.ucla.edu/catrul.doc 5.3.14 (for encoding formats).
+PBCore instantiationPhysical http://metadataregistry.org/concept/list/vocabulary\_id/145.html (for physical carriers)
+PBCore instantiationDigital (http://pbcore.org/pbcoreinstantiation/instantiationdigital/) (for broad digital formats)
+\end{tcolorbox}
+```
+
+Additional sources of information include several SMPTE standards, engineering guidelines, and recommended practices. These are some of the most common terms, but not a complete or definitive list.
+
+\setlength\extrarowheight{2pt} 
+\begin{xltabular}{\textwidth}{|L|L|L|L|L|L|}
+\hline
+\textbf{Film Gauge} & 
+\textbf{Video} & 
+\textbf{Audio} & 
+\textbf{Optical} & 
+\textbf{Digital File} & 
+\textbf{Digital File Encoding} \\
+\hline
+35mm & 
+1-inch C Format & 
+2” audioreel & 
+CD & 
+DPX & 
+MPEG-4 \\
+\hline
+16mm & 
+Digital Betacam & 
+1” audioreel & 
+DVD & 
+MOV & 
+Quicktime \\
+\hline
+Super 16mm & 
+Betacam SP & 
+½” audioreel & 
+Blu-Ray & 
+MP4 & 
+Real video \\
+\hline
+8mm & 
+2-inch Quadruplex & 
+¼” audioreel & 
+Laser Disc & 
+MXF & 
+SVCD \\
+\hline
+Super8mm & 
+HDCAM SR & 
+audiocassette & 
+& 
+AVI & 
+VCD \\
+\hline
+9.5mm & 
+D1 & 
+35mm magnetic track & 
+& 
+& 
+Windows Media \\
+\hline
+17.5mm & 
+D5 & 
+16mm magnetic track & 
+& 
+& 
+\\
+\hline
+70mm & 
+DVCPRO HD & 
+& 
+& 
+& 
+\\
+\hline
+\end{xltabular} 
+
+For digital files, list the physical carrier on which the file is stored. For all other materials, use this element to provide more specific information on the physical carrier.
+
+Institutions should develop standard lists of terms to indicate the specific carrier type or refer to authoritative existing lists.
+
+These are some of the most common terms, but not a complete or definitive list.
+
+LTO5
+LTO6
+T10000D
+HDD (abbreviated for “external hard drive”)
+DVD-R
+Blu-Ray 
+
+For reasons of clarity and to avoid redundancy, optionally, institutions can decide to skip the general carrier type description, since it is already implicit in the specific carrier type.
+
+\subsubsection{Projection Characteristics of a Manifestation{
 \label{sec:projection_characteristics_of_a_manifestation} \
 
 The projection characteristics of a Manifestation include aspect ratio and aperture or image format.
 
-**Aspect Ratio**
+**Aspect Ratio/Image Ratio**
 
-The aspect ratio (also known as projection ratio) is the projected image area visible on screen, expressed as a value of width to height (the value of height always being “1”), for example, 2.34:1, 2.39:1.
+The aspect ratio (also known as the image ratio or projection ratio) is the projected image area visible on screen, expressed as a value of width to height (the value of height always being “1”), for example, 2.34:1, 2.39:1.
 Selection should be made from a controlled list of values.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:aspect_ratio}.
+A suggested list of examples, which is open and not exhaustive, includes:
+
+- 1.33:1
+- 1.37:1
+- 1.19:1
+- 2.55:1
+- 2.35:1
+- 1.66:1
+- 1.75:1
+- 1.85:1
+- 2.39:1
+- 4:3
+
+Fuller details and examples of “aspect ratio” value lists can be found in the Technical Glossary of Common Audiovisual Terms (National Film and Sound Archive Australia), [The Advanced Projection Manual](https://iupress.org/9782960029611/the-advanced-projection-manual) and the PBCore essenceTrackAspect Ratio http://metadataregistry.org/concept/list/vocabulary_id/129.html
+
 
 The aspect ratio reflects the compositional intentions of the original content makers and the intended presentation of the moving image content.^[This definition from Academy Film Archive in-house glossary of terms, and OLAC, Moving Image Works, Part 3a: Operational Definitions (08/09) (PDF Document), http://olacinc.org/drupal/capc_files/MIW_3a.pdf.] If the aspect ratio of a Work/Variant is altered, moving image information is lost, creating a Manifestation/Item with different moving image content.^[OLAC, Moving Image Works, Part 3a: Operational Definitions (08/09) (PDF Document), http://olacinc.org/drupal/capc_files/MIW_3a.pdf] The Manifestation should reflect the projected image of the Work/Variant that it represents, rather than that on the Item.
 Institutions may record variations in projection characteristics as Item-specifics, rather than create multiple Manifestations.
 
 **Aperture/Image Format**
 
-The actual exposed image or picture area as it appears on the moving image itself, for example Academy, Full screen, Widescreen, etc. The image format does not necessarily bear any relation to the preferred projection ratio (aspect ratio) of the moving image.^[This definition from Academy Film Archive in-house glossary of terms.]
+The actual exposed image or picture area as it appears on the moving image itself, for example Academy, Full screen, Widescreen, etc. The image format (aperture) does not necessarily bear any relation to the preferred image ratio (projection ration or aspect ratio) of the moving image.^[This definition from Academy Film Archive in-house glossary of terms.]
 
 Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:aperture}.
+A suggested list of examples, which is open and not exhaustive, includes:
+
+- Academy 
+- Widescreen 
+- Cinemascope 
+- Movietone 
+- Flat 
+- Full Height 
+- Full Screen 
+- Anamorphic 
+- 3D 
+- Pan and scan 
+- Pillarbox (bars added at the sides) 
+- Letterbox/Widescreen (bars added at the top and bottom) 
+- Windowbox (bars added at the side and the top and bottom) 
+
+Further examples can be found in [INSERT LINK TO FIAF ADVANCED PROJECTION MANUAL HERE]
 
 \paragraph{Sound Characteristics of a Manifestation}
 \label{sec:sound_characteristics_of_a_manifestation} \
@@ -317,17 +792,28 @@ Sound characteristics are technical specifications relating to the placement of 
 
 Its description consists of a statement about the presence or absence of sound, and optionally, in case of presence, of the description of the method with which the sound has been fixed.
 
-Indicate the presence or absence of sound in the Manifestation, i.e. “sound,”, “silent,” “mute”.
-Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_item_sound_type}.
+Indicate the presence or absence of sound in the Manifestation. Selection should be made from a controlled list of terms, e.g.:
+Sound  
+Silent  
+Mute  
+Combined  
+Combined as Mute  
+Combined as Sound  
+Mixed  
+Temporary 
 
 Optionally, use a flag-type value indicating if the Manifestation includes recorded sound or not (i.e.: has sound: yes/no).
 
 \subparagraph{Sound Systems}
 \label{sec:sound_systems} \
 
-Describes the technical or proprietary system used to record the sound on a Manifestation/Item, for example, Dolby SR, Dolby Digital, etc. Select from a controlled list.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:item_sound_system}.
+Describes the technical or proprietary system used to record the sound on a Manifestation. Select from a controlled list, e.g.:
+Dolby SR
+Dolby Digital
+Mute
+Combined Magnetic Sound
+Combined Optical Sound
+VA RCA Duplex
 
 \subparagraph{Sound Channel Configuration}
 \label{sec:manifest_sound_channel_configuration} \
@@ -335,8 +821,12 @@ A suggested list, which is open and not exhaustive, can be found in \nameref{sec
 If the Manifestation has sound, note here the track configuration (e.g., mono, stereo, etc.).
 Selection should be made from a controlled list of terms.
 
-In case of presence of sound, optionally, if considered relevant, record the name of the physical principle of sound recording, for example, “Needle,”, “Optical”, “Magnetic” etc. Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_item_sound_fixation_type}.
+In case of presence of sound, optionally, if considered relevant, record the name of the physical principle of sound recording. Selection should be made from a controlled list of terms, e.g.:
+Needle sound
+Optical
+Magnetic
+Analogue sound
+Digital
 
 If the Work/Variant associated with the Manifestation in hand had sound originally, but the Manifestation lacks sound, describe it as silent (or mute) and give a note to that effect.^[Based on AMIM2 5C3.]
 
@@ -351,11 +841,28 @@ Colour is also the specific colours, tones, etc. (including black and white) pre
 
 It consists of a designation of the colour state and, optionally, of the description of the colour system.
 
-Record the colour state of a Manifestation, for example, Black and white (tinted), Colour, Colour + Black & White, etc. Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_item_colour_type}.
+Record the colour state of a Manifestation. Selection should be made from a controlled list of terms, e.g.:
+Colour
+Colour + Black & White
+Tinted
+Black and white
+Black and white (tinted)
+Black and white (toned)
+Black and white (tinted and toned)
+Sepia
 
-Optionally, if considered relevant, describe the system or process by which colour is fixed on the media or as part of the digital encoding, for example, Pathécolor, Technicolor, RGB etc. Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_item_colour_standard}.
+Optionally, if considered relevant, describe the system or process by which colour is fixed on the carrier or as part of the digital encoding. Selection should be made from a controlled list of terms, e.g.:
+Pathécolor
+Technicolor
+Kinemacolor
+Anscocolor
+Ferraniacolor
+Fujicolor
+Kodachrome
+Eastmancolor
+
+RGB
+YUV
 
 \subsubsection[Extent of a Manifestation{Extent of a Manifestation 
 \footnote {Partially based on EN 15907, 6.8 except for the physical components/units number, which is not provided for in the standard.}} 
@@ -381,8 +888,15 @@ A hard-disk stored film in 3 files
 \end{tcolorbox}
 ```
 
-Record the number of the logical units of a Manifestation in Arabic numerals, and, if necessary, specify the type of unit, for example, reel, roll, disc, file, etc. Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_unit_types}.
+Record the number of the logical units of a Manifestation in Arabic numerals, and, if necessary, specify the type of unit. Selection should be made from a controlled list of terms, e.g:
+Reel
+Roll
+Cassette
+Cartridge
+Loop
+Disc
+File
+Digital tape
 
 If the number of the logical units of a Manifestation is uncertain, use a question mark following the unit count^[AMIM2, 5B5, p.9] or record the uncertain number preceded by “approximately.”^[RDA: 3.4.0.4]
 
@@ -527,176 +1041,3 @@ Record one or more Event type, for example, “decision,” “manufacture,” e
 Selection should be made from a controlled list of terms.
 A suggested list, which is open and not exhaustive, can be found in \nameref{sec:event_type}.
 
-\subsubsection{“Other” Relationships}
-\label{sec:manifest_other_relationships}
-
-Expresses relationships that are not covered by the Agent and Event relationships.
-Aggregation relationships are expressed at the Work/Variant level (see \nameref{sec:aggregates_compilations_multi_component_productions}).
-
-Commonly-occurring relationships include:
-
-*Manifestations that the moving image Manifestation forms part of (e.g. series/serials).*
-
-```{=latex}
-\begin{tcolorbox}
-Le cryptogramme rouge (35mm print, m 984, m 48’ (18fps) \\
-3° episode of the serial Les vampires (L. Feuillade, 1915).
-\end{tcolorbox}
-```
-
-*Manifestation(s) that the moving image Manifestation has a sequential relationship with (e.g. series/serials).*
-
-*Manifestation(s) that are promotional material(s) (i.e. trailers) for a particular Manifestation.*
-
-```{=latex}
-\begin{tcolorbox}
-Rashomon (Japan, 1950, A. Kurosawa) “has as promotional material”: Rashomon, Italian trailer (35mm), of the Italian theatrical release (1952).
-\end{tcolorbox}
-```
-
-*Non-moving image Works/Manifestation(s), about or relating to the moving image Manifestation (e.g. objects, articles, documents such as a review relating to a DVD home video publication, advertising materials referring to a specific theatrical distribution, related materials such as censorship visas, laboratory technical papers, etc.)*
-
-```{=latex}
-\begin{tcolorbox}
-Metro. Issue 157. June 2008. “DVD review: Blade Runner: The Final Cut”, by Steven Aoun.
-\end{tcolorbox}
-```
-
-```{=latex}
-\begin{tcolorbox}
-Der Dritte Mann (German film poster for the German-language Release Manifestation of the film The third man (United Kingdom, 1949, Carol Reed)
-\end{tcolorbox}
-```
-
-*Pre-release Manifestation(s) relating to a Release Manifestation.*
-
-```{=latex}
-\begin{tcolorbox}
-Blow-up (UK-Italy, 1966, Michelangelo Antonioni )and Blow-up censorship cuts (35mm) of the Italian theatrical release (1967).
-\end{tcolorbox}
-```
-
-```{=latex}
-\begin{tcolorbox}
-Othello, Orson Welles, USA- Italy-Morocco-France, 1952 and Otello, dailies and rushes, positive silent and some with sound, 35mm, containing shots included in only a very limited extent in the first theatrical release (their title proper in Italian is: Otello).
-\end{tcolorbox}
-```
-
-Record one or more “Other” relationship type to express the nature of the relationship to the Manifestation, choosing the most specific term possible from existing relator terms lists, for example, “commentary on,” “review of,” etc. 
-Selection should be made from a controlled list of values.
-A suggested list, which is open and not exhaustive, can be found in \nameref{sec:manifestation_other_relationship_types}.
-
-Or, compose a term to describe the relationship between the Manifestation being catalogued and the related Manifestation.
-
-In a note, add any additional information concerning the relationship considered relevant.
-
-Describe or demonstrate Manifestation-to-Manifestation relationships through linking to the Manifestation identifier of the related Manifestation, through the usage of relator terms, or according to the confines of your data structure.
-
-If the cataloguing system allows the procedure, attach a digital file that reproduces any associated “document.”
-
-\subsubsection{Item(s)}
-\label{sec:items}
-
-Express the relationship between a moving image Manifestation and a moving image Item (e.g. Part/part of).
-
-Here could be listed the unique Item identifiers associated to this Manifestation, noting their “part of “ relationships to the Manifestation.
-
-\subsubsection{Work}
-\label{sec:work}
-
-Express the relationship between a moving image Manifestation and a moving image Work (e.g., Part/part of).
-Describe or demonstrate Manifestation-to-Work relationships through linking to the Manifestation identifier, through the usage of relator terms, or according to the confines of your data structure.
-
-\subsubsection{Variant}
-\label{sec:variant}
-
-Express the relationship between a moving image Manifestation and a moving image Variant (e.g., Part/part of).
-Describe or demonstrate Manifestation-to-Variant relationships through linking to the Manifestation identifier, through the usage of relator terms, or according to the confines of your data structure.
-
-\subsection{Boundaries between Manifestations and Events}
-\label{sec:boundaries_between_manifestations_and_events}
-
-As mentioned previously, there is no rule within EN15907 as to the categories of Manifestation Type there can be, only that its values come from a controlled vocabulary list. The only one stipulated value that exists is that of a category of ‘Unknown’.
-
-Overlaps between use of Manifestations and Events, and Manifestation types and Event Publication types, have partly been due to some ambiguity within the EN15907 standard itself. But also, how the latter has been interpreted and evolved since it was conceived in order to deal with the nature and range of actual moving image material and technological developments, as well as the realities and practicalities for institutions using different cataloguing systems and databases, and user access needs.
-
-\setlength\extrarowheight{2pt} 
-\begin{xltabular}{\textwidth}{|L|L|}
-\hline
-\textbf{Manifestation types} & 
-\textbf{Event Publication types} \\
-\hline
-Theatrical distribution & 
-Theatrical distribution \\
-\hline
-Non-theatrical distribution & 
-Non-theatrical distribution \\
-\hline
-Broadcast & 
-Broadcast \\
-\hline
-Internet & 
-Online transmission \\
-\hline
-Pre-release & 
-Pre-release \\
-\hline
-Home viewing & 
-Home video publication \\
-\hline
-Unknown & 
-Unknown \\
-\hline
-\end{xltabular} 
-
-The boundaries between Manifestations and Events and structuring decisions will be dependent on the types of records, architecture, and concatenation and display capabilities of multiple linked data within an institution’s database or other cataloguing system. 
-
-Some system databases may not have the ability or full functionality to have Events records, but do have Manifestations; in which case they may make use of a wider list of Manifestation Types and have fields relating to EN15907 Events data embedded within the Manifestation record itself. These systems will be more likely to make use of a structure of multiple Manifestations rather than one Manifestation with multiple publication Events.
-For example:
-
-```pikchr
-W: box rad 5px "Work" at (2.5,1) 
-M1: box rad 5px "Theatrical Manifestation." "Germany, January 1995." "35mm film, 96 minutes, in German" at (0,0) fit
-M2: box rad 5px "Theatrical Manifestation." "Austria, March 1995." "35mm film, 96 minutes, in German" at (2.5,0) fit
-M3: box rad 5px "Theatrical Manifestation." "Switzerland, February 1995." "35mm film, 96 minutes, in German"  at (5,0) fit
-arrow down 0.2 from W.s then right until even with M1 then down to M1.n
-arrow from W.s to M2.n
-arrow down 0.2 from W.s then left until even with M3 then down to M3.n
-```
-
-The EN15907 standard does not have date or release country as being core elements of a Manifestation, envisaging that information being in an associated Event. However, many systems do include those fields within their Manifestation records, as actual attributes of the Manifestation, as can be seen in some of the examples featured in \nameref{sec:examples_of_records}. In systems with no, or minimal, Events records capabilities it is the most logical alternative place to capture that important relevant data.
-
-Other systems may have developed and utilise Events more in line with EN15907 to reflect data about different releases in various countries, e.g.   
-
-```pikchr
-W: box rad 5px "Work" at (0,2) 
-M: box rad 5px "Theatrical Manifestation." "35mm film, 96 minutes, in German" at (0,0.75) fit 
-E1: box rad 5px "Theatrical publication." "Event in Germany," "January 1995" at (2.5,1.5) fit
-E2: box rad 5px "Theatrical publication." "Event in Austria," "March 1995" at (2.5,0.75) fit
-E3: box rad 5px "Theatrical publication." "Event in Switzerland," "February 1996 " at (2.5,0) fit
-arrow from W.s to M.n
-arrow right 0.2 from M.e then up until even with E1 then right to E1.w
-arrow from M.e to E2.w
-arrow right 0.2 from M.e then down until even with E3 then right to E3.w
-```
-
-Structuring decisions around Manifestations and Events may also depend on the nature, size, use, and user needs of an institution’s moving image collections.
-
-In many cases, an institution is only going to create those Manifestations that pertain to acquired Item(s) in their collections, rather than add data about all international releases generally, so there will not usually be a need for a complexity of multiple linked Manifestations and/or Events records and data.  
-
-A broadcast as a Publication Event could suit where collections consist solely of cinematographic films. However, several institutions have collections consisting of both films and television programmes, where there needs to be a consistency and standardisation in structuring hierarchical metadata .
-
-For a television programme, its broadcast is the actual primary manifestation of its Work not simply an event in the life-cycle of the Work. With the flexibility offered by Manifestation type it is possible and preferable to have a ‘Broadcast’ Manifestation type that can be used with television programme Works, thus maintaining the integrity of the EN15907 hierarchical structure. 
- 
-This means that the one standard and structuring can be applied with mixed collections within the one moving image database system, rather than try to use EN15907 with films and another standard, such as PBCore, with television programmes. 
-
-Institutions may also not only collect and acquire items, but develop their own VOD (Video on Demand) channels, e.g. BFIplayer which provides a mixture of Free, Subscription and Transactional VOD, using digital items to stream the content.
-Thus, having an Internet Manifestation type means that both acquired or produced VOD materials can be captured within an EN15907 structure. The actual digital Items held and representing records for the files used in streaming can then be linked to these Manifestations.
-
-There is also the question of a “pure EN15907 structure" approach meaning disparate pieces of relevant and related data sitting in the Manifestation and the Event and how that may impact user access, how to prevent a tangle of complex structuring with a variety of materials in a collection for the same Work, and realistic resourcing and capabilities of database systems used by Archives and institutions. This manual recognises both the purist and pragmatic approaches.
-
-For those cataloguing in non-relational databases, paper or card catalogues, or Excel,  then many of the elements that EN15907 sees as being linked “related” records, including Events, will always be an attribute of the main 1-level hierarchy moving image record.
-
-As with the ability to utilise EN15907 within a 4, 3, 2 or 1-level hierarchy, the same fundamental principle applies with use and structure of Events with Works, Variants, Manifestations or Items; namely, that it does not matter what data systems or structures an institution uses – whether index card or complex computer systems -  as long as their records capture the relevant data concerned.
-
-With a fundamental aim of EN15907 being interoperability, then use of the FIAF list of Manifestation Types is key to the flexibility and use of the data architecture reflecting the standard and makes this a lot more achievable; especially in systems where Events structures are minimal or do not exist. Because there is an overlap in Manifestation and Event type terms it could make potential mapping and interoperability achievable.
