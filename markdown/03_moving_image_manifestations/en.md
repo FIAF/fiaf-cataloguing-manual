@@ -571,7 +571,7 @@ The format of a Manifestation is the description of the physical artefact or the
 The concept of format as applied to Manifestations is the “ideal” representation of all the physical items or computer files that bear the same characteristics and descend from a common Work/Variant, regardless of what is actually held in a collection.
 
 A majority of the physical and digital description elements of moving image Manifestations are intended to be inherited by the Items, as they serve as the exemplars of Manifestations.
-In some databases, selection of a physical carrier type initiates provision of element fields relevant to that type at a Manifestation level, or an Item level, or both (e.g.
+In some databases, selection of a physical media type initiates provision of element fields relevant to that type at a Manifestation level, or an Item level, or both (e.g.
 in a 2-Level hierarchy.
 See “Shallow hierarchy model: 2 levels” found at \nameref{sec:elements_of_description}).
 
@@ -592,20 +592,20 @@ In a note (See \nameref{sec:cataloguers_notes}), explain the format changes used
 
 The description of the format of a Manifestation is articulated in the following elements:
 
-- Carrier type
+- Media type
 - Projection characteristics
 - Sound characteristics
 - Colour characteristics
 
-\paragraph{Carrier Type of a Manifestation}
-\label{sec:carrier_type_of_a_manifestation} \
+\paragraph{Media Type of a Manifestation}
+\label{sec:media_type_of_a_manifestation} \
 
-Carrier type is the medium on or the encoding format in which the Manifestation is fixed.
+The media type is the medium on or the encoding format in which the Manifestation is fixed.
 
-Its description consists of a general carrier type, which describes the basic properties of the Manifestation’s physical format, for example, film, video tape, digital file, etc., and a specific carrier type, which corresponds to the gauge, in case of films and tapes, and for digital files, to the physical carrier on which the file is stored.
+Its description consists of a general media type, which describes the basic properties of the Manifestation’s physical format, for example, film, video tape, digital file, etc., and a specific media type, which corresponds to the gauge, in case of films and tapes, and for digital files, to the physical carrier on which the file is stored.
 
-\subparagraph{General Carrier Type}
-\label{sec:manifest_general_carrier_type} \
+\subparagraph{General Media Type}
+\label{sec:manifest_general_media_type} \
 
 The broad media type of the Manifestation (e.g., film, video, audio, optical, digital file).
 Recording this high-level information will enable simple searching for only film, video, digital, etc. elements rather than searching by all possible formats and carriers. A suggested list, which is open and not exhaustive, can include:
@@ -617,10 +617,10 @@ Digital Tape
 Digital Disc
 Digital File
 
-\subparagraph{Specific Carrier Type}
-\label{sec:manifest_specific_carrier_type} \
+\subparagraph{Specific Media Type}
+\label{sec:manifest_specific_media_type} \
 
-Record the specific carrier type, by indicating
+Record the specific media type, by indicating
 
   1. For film and video: the width of the film stock or of the magnetic tape on which the Manifestation is fixed;
 
@@ -632,7 +632,7 @@ For purposes of distinguishing the format change that constitutes a new Manifest
 Information on the specific codecs and resolution are captured in Item elements.
 
 For optical media, only add commercially produced media here.
-If the optical media is “writable” and is being used to store a digital file, put the digital file format in the general carrrier type, and the optical storage media in specific media type.
+If the optical media is “writable” and is being used to store a digital file, put the digital file format in the general media type, and the optical storage media in specific media type.
 
 Institutions should develop standard lists of terms to indicate the specific carrier type or refer to authoritative existing lists.
 
