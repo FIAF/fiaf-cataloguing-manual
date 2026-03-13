@@ -2,4 +2,4 @@
 /src/render
 .DS_Store
 src/manual.pdf
-static/hugo.deb
+site/
