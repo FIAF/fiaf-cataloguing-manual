@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """Convert FIAF Markdown source to MkDocs content tree.
 
-Fork of convert_hugo_content_section_split.py with MkDocs-specific changes:
-- Output root: mkdocs/docs/docs/
+MkDocs-specific conversion:
+- Output root: docs/
 - Index filenames: index.md (not _index.md)
 - Callout format: MkDocs Material admonitions instead of GitHub-style alerts
 - Frontmatter: title only (no weight; ordering via explicit nav in mkdocs.yml)
-- Diagram copy target: mkdocs/docs/diagrams/
+- Diagram copy target: docs/diagrams/
 """
 import argparse
 import re
@@ -17,6 +17,29 @@ from typing import Dict, List, Optional, Tuple
 
 
 ROOT = Path(__file__).resolve().parents[1]
+
+# Maps source folder names to output paths relative to docs/.
+# Sources not listed here are skipped.
+SOURCE_FOLDER_MAP: Dict[str, str] = {
+    "00_preliminary": "preliminary",
+    "01_moving_image_works": "works",
+    "02_moving_image_variants": "variants",
+    "03_moving_image_manifestations": "manifestations",
+    "04a_moving_image_items": "items",
+    "04b_boundaries": "boundaries",
+    "06_moving_image_agents": "agents",
+    "07_moving_image_events": "events",
+    "08_moving_image_other_relationships": "other-relationships",
+    "09_appendix_01": "appendices/titles",
+    "10_appendix_02": "appendices/cataloguers-notes",
+    "12_appendix_04": "appendices/value-lists",
+    "13_appendix_05": "appendices/aggregates",
+    "16_appendix_08": "appendices/element-comparison",
+    "17_appendix_09": "appendices/rights",
+    "18_appendix_10": "appendices/record-examples",
+    "19_appendix_11": "appendices/bibliography",
+    "20_appendix_12": "appendices/element-list",
+}
 
 
 @dataclass
@@ -32,14 +55,14 @@ class Footnotes:
 
     def add(self, text: str) -> str:
         self._notes.append(text.strip())
-        return f"[^fn{len(self._notes)}]"
+        return f"[^{len(self._notes)}]"
 
     def render(self) -> str:
         if not self._notes:
             return ""
         lines = ["", ""]
         for i, note in enumerate(self._notes, start=1):
-            lines.append(f"[^fn{i}]: {note}")
+            lines.append(f"[^{i}]: {note}")
         return "\n".join(lines) + "\n"
 
 
@@ -62,7 +85,7 @@ def normalize_label(label: str) -> str:
 
 
 def dest_to_url(dest_path: Path) -> str:
-    rel = dest_path.relative_to(ROOT / "mkdocs" / "docs")
+    rel = dest_path.relative_to(ROOT / "markdown")
     if rel.name == "index.md":
         rel = rel.parent
     else:
@@ -84,7 +107,7 @@ def iter_sections(lines: List[str]) -> List[Tuple[str, str, Optional[str], Optio
         r"^\s*\\(section|subsection|subsubsection|paragraph|subparagraph)\*?(?:\[(?P<toc>[^\]]+)\])?\{?(?P<rest>.*)$"
     )
     label_re = re.compile(r"\\label\{([^}]+)\}")
-    foot_re = re.compile(r"\\footnote\s*\{([^}]*)\}")
+    foot_re = re.compile(r"\\footnote\s*\{((?:[^{}]|\{[^{}]*\})*)\}")
     while i < len(lines):
         line = lines[i]
         m = header_re.match(line)
@@ -93,8 +116,14 @@ def iter_sections(lines: List[str]) -> List[Tuple[str, str, Optional[str], Optio
             continue
         level = m.group(1)
         title = m.group("toc") or m.group("rest").strip()
-        title = title.rstrip("}").strip()
-        label = None
+        # Extract \label{...} if it appears inline on the same header line
+        inline_label = label_re.search(title)
+        if inline_label:
+            label = inline_label.group(1)
+            title = title[: inline_label.start()].strip()
+        else:
+            label = None
+        title = title.rstrip("}").strip().rstrip("\\")
         footnote = None
         start = i
         end = i + 1
@@ -169,6 +198,54 @@ def convert_latex_inline(text: str) -> str:
     # LaTeX grouping braces wrapping square-bracket content: {[...]} → [...]
     text = re.sub(r"\{(\[[^\]]*\])\}", r"\1", text)
     return text
+
+
+# Patterns that look like 2-space-indented paragraphs but are NOT standalone
+# examples: lettered list items (a. / a)), roman numeral items (i. / iv)),
+# numbered items (1. / 1)), and bare "Example(s):" labels.
+_INDENTED_NON_EXAMPLE_RE = re.compile(
+    r"^  ("
+    r"[a-zA-Z][.)]\s"            # lettered: "a. " or "a) "
+    r"|[ivxlcdmIVXLCDM]+[.)]\s"  # roman numerals: "i. " or "iv) "
+    r"|\d+[.)]\s"                 # numbered: "1. " or "1) "
+    r"|Examples?:\s*$"            # bare label only
+    r")"
+)
+
+
+def convert_indented_examples(text: str) -> str:
+    """Convert freestanding 2-space-indented paragraphs to example admonitions.
+
+    Some example content in the LaTeX source was written with 2-space leading
+    indentation but without tcolorbox wrappers.  After pandoc conversion these
+    appear as plain indented paragraphs.  A paragraph qualifies when:
+      - its first line starts with exactly 2 spaces followed by a non-space, AND
+      - it is preceded by a blank line (i.e. it starts a new paragraph), AND
+      - it does not match the exclusion patterns above (list items, labels).
+    """
+    lines = text.split("\n")
+    result: List[str] = []
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        prev_blank = not result or result[-1].strip() == ""
+        if (
+            prev_blank
+            and re.match(r"^  \S", line)
+            and not _INDENTED_NON_EXAMPLE_RE.match(line)
+        ):
+            # Collect all consecutive non-blank lines as one example block.
+            para: List[str] = []
+            while i < len(lines) and lines[i].strip():
+                para.append(lines[i])
+                i += 1
+            result.append('!!! example "Example"')
+            for pline in para:
+                result.append("    " + pline.lstrip())
+        else:
+            result.append(line)
+            i += 1
+    return "\n".join(result)
 
 
 def convert_tcolorbox(text: str) -> str:
@@ -256,7 +333,8 @@ def convert_footnotes(text: str, footnotes: Footnotes) -> str:
     def repl_latex(match: re.Match) -> str:
         return footnotes.add(match.group(1))
 
-    text = re.sub(r"\\footnote\s*\{([^}]*)\}", repl_latex, text)
+    # Allow one level of nested braces so \nameref{} inside \footnote{} is captured
+    text = re.sub(r"\\footnote\s*\{((?:[^{}]|\{[^{}]*\})*)\}", repl_latex, text)
 
     # Parse ^[...] with a bracket-balanced scanner so that nested brackets
     # inside footnote content (e.g. Markdown links like [text](url)) are
@@ -308,44 +386,52 @@ def convert_text(
     raw = re.sub(r"^\s*\\tableofcontents\s*$", "", raw, flags=re.M)
     raw = re.sub(r"^\s*\\appendix\s*$", "", raw, flags=re.M)
     raw = re.sub(r"^\s*\\setlength\\extrarowheight.*$", "", raw, flags=re.M)
+    # Strip standalone LaTeX font-size commands that have no web equivalent
+    raw = re.sub(r"^\s*\\(?:tiny|scriptsize|footnotesize|small|normalsize|large|Large|LARGE|huge|Huge)\s*$", "", raw, flags=re.M)
+    # Convert Pandoc image-width attributes {width=Npx} to MkDocs attr_list syntax { width="N" }
+    raw = re.sub(r"\{width=(\d+)px\}", r'{ width="\1" }', raw)
 
     raw = convert_tcolorbox(raw)
     raw = convert_xltabular(raw)
+    raw = process_outside_fences(raw, convert_indented_examples)
     raw = process_outside_fences(raw, convert_latex_inline)
 
     lines = raw.splitlines()
     footnotes = Footnotes()
     lines = convert_sections(lines, footnotes)
 
-    # If the first H2 matches the frontmatter title, drop it (and its anchor).
+    # If the first heading (any level) matches the frontmatter title, drop it
+    # (and its anchor).  Subsection pages start at H3, not H2, so we match
+    # any heading level rather than only H2.
     fm_title = None
     if frontmatter:
         m = re.search(r"^title:\s*(.+)$", frontmatter, flags=re.M)
         if m:
             fm_title = m.group(1).strip()
-    removed_title = False
+    removed_level = 0
     if fm_title:
         for idx, line in enumerate(lines):
-            if line.startswith("## "):
-                heading = line[3:].strip()
+            m = re.match(r"^(#{2,}) (.+)", line)
+            if m:
+                heading = m.group(2).strip()
                 if heading == fm_title:
+                    removed_level = len(m.group(1))
                     if idx > 0 and lines[idx - 1].startswith("<a id="):
                         lines.pop(idx - 1)
                         idx -= 1
                     lines.pop(idx)
-                    removed_title = True
                 break
 
-    if removed_title:
+    if removed_level:
+        # Demote by (removed_level - 1) so the next heading level becomes H2.
+        shift = removed_level - 1
+
         def demote(line: str) -> str:
-            if line.startswith("###### "):
-                return "##### " + line[7:]
-            if line.startswith("##### "):
-                return "#### " + line[6:]
-            if line.startswith("#### "):
-                return "### " + line[5:]
-            if line.startswith("### "):
-                return "## " + line[4:]
+            m = re.match(r"^(#{2,}) ", line)
+            if m:
+                current = len(m.group(1))
+                new_level = max(2, current - shift)
+                return "#" * new_level + line[current:]
             return line
 
         lines = [demote(line) for line in lines]
@@ -353,6 +439,9 @@ def convert_text(
 
     body = process_outside_fences(body, lambda t: convert_nameref(t, label_map))
     body = process_outside_fences(body, lambda t: convert_footnotes(t, footnotes))
+    # Resolve any \nameref{} embedded inside footnote content
+    for i, note in enumerate(footnotes._notes):
+        footnotes._notes[i] = convert_nameref(note, label_map)
     body = body.strip() + footnotes.render()
 
     if frontmatter is None:
@@ -386,15 +475,21 @@ def build_frontmatter(title: str) -> str:
     return f"---\ntitle: {title}\n---\n"
 
 
-def build_chapter_sources() -> List[Path]:
-    return sorted((ROOT / "markdown").glob("*/en.md"))
+def build_chapter_sources() -> List[Tuple[Path, str]]:
+    """Return (source_path, output_subfolder) for each mapped source folder."""
+    results = []
+    for src in sorted((ROOT / "source_pdf_markdown").glob("*/en.md")):
+        folder = src.parent.name
+        if folder in SOURCE_FOLDER_MAP:
+            results.append((src, SOURCE_FOLDER_MAP[folder]))
+    return results
 
 
 def copy_diagrams() -> None:
     src_dir = ROOT / "src" / "diagrams"
     if not src_dir.exists():
         return
-    dest_dir = ROOT / "mkdocs" / "docs" / "diagrams"
+    dest_dir = ROOT / "markdown" / "diagrams"
     dest_dir.mkdir(parents=True, exist_ok=True)
     allowed = {".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp"}
     for path in src_dir.iterdir():
@@ -445,14 +540,14 @@ def main() -> int:
     args = parser.parse_args()
 
     sources = build_chapter_sources()
+    docs_root = ROOT / "markdown"
 
     pages: List[Tuple[Path, str, str]] = []
     label_map: Dict[str, LabelInfo] = {}
 
-    for src in sources:
+    for src, out_subfolder in sources:
         if not src.exists():
             raise FileNotFoundError(src)
-        folder = src.parent.name
 
         raw = src.read_text(encoding="utf-8")
         _, body = split_frontmatter(raw)
@@ -463,7 +558,7 @@ def main() -> int:
             first_block = blocks[0]
             index_raw = "\n\n".join([preamble, first_block]).strip()
             fm = build_frontmatter(chapter_title)
-            index_dest = ROOT / "mkdocs/docs/docs" / folder / "index.md"
+            index_dest = docs_root / out_subfolder / "index.md"
             pages.append((index_dest, fm, index_raw))
             new_labels = extract_labels_from_block(index_raw, index_dest)
             for key, val in new_labels.items():
@@ -484,7 +579,7 @@ def main() -> int:
                 slug_counts[slug] = count
                 if count > 1:
                     slug = f"{slug}-{count}"
-                dest = ROOT / "mkdocs/docs/docs" / folder / slug / "index.md"
+                dest = docs_root / out_subfolder / slug / "index.md"
                 fm = build_frontmatter(title)
                 pages.append((dest, fm, block))
                 new_labels = extract_labels_from_block(block, dest)
@@ -493,8 +588,8 @@ def main() -> int:
                         print(f"Warning: duplicate label {key} in {src}", flush=True)
                     label_map[key] = val
         else:
-            index_dest = ROOT / "mkdocs/docs/docs" / folder / "index.md"
-            title = folder.replace("_", " ").title()
+            index_dest = docs_root / out_subfolder / "index.md"
+            title = out_subfolder.split("/")[-1].replace("-", " ").title()
             fm = build_frontmatter(title)
             pages.append((index_dest, fm, body.strip()))
             new_labels = extract_labels_from_block(body, index_dest)
@@ -509,11 +604,18 @@ def main() -> int:
         outputs[dest] = content
 
     if not args.dry_run:
+        # Remove old double-nested docs/docs/ directory if present
+        old_docs = docs_root / "docs"
+        if old_docs.exists() and old_docs.is_dir():
+            shutil.rmtree(old_docs)
+            print("Removed old docs/docs/ directory.", flush=True)
         copy_diagrams()
         for dest, content in outputs.items():
             dest.parent.mkdir(parents=True, exist_ok=True)
             dest.write_text(content, encoding="utf-8")
         print(f"Written {len(outputs)} files.", flush=True)
+    else:
+        print(f"Dry run: would write {len(outputs)} files.", flush=True)
 
     return 0
 

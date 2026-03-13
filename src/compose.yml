@@ -1,7 +1,0 @@
-services:
-  ubuntu:
-    image: ubuntu:latest
-    container_name: manual
-    tty: true
-    volumes:
-      - ../../fiaf-cataloguing-manual:/app

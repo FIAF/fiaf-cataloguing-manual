@@ -1,0 +1,106 @@
+/* Brown font family */
+@font-face {
+  font-family: "Brown";
+  src: url("fonts/BrownStdRegular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Brown";
+  src: url("fonts/BrownStdLight.otf") format("opentype");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Brown";
+  src: url("fonts/BrownStdBold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Brown";
+  src: url("fonts/BrownStdThin.otf") format("opentype");
+  font-weight: 100;
+  font-style: normal;
+}
+
+/* FIAF brand colors */
+:root,
+[data-md-color-scheme="default"],
+[data-md-color-scheme="slate"] {
+  --md-text-font:        "Brown";
+  --md-text-font-family: "Brown", sans-serif;
+  --md-code-font:        "Roboto Mono";
+  --md-code-font-family: "Roboto Mono", SFMono-Regular, Consolas, Menlo, monospace;
+  --md-typeset-a-color:  #e30521;
+}
+
+:root {
+  /* Header: white background so black logo is visible */
+  --md-primary-fg-color:        #ffffff;
+  --md-primary-fg-color--light: #f1f2f2;
+  --md-primary-fg-color--dark:  #e0e0e0;
+  --md-primary-bg-color:        #1a1a1a;
+  --md-primary-bg-color--light: rgba(26,26,26,0.7);
+
+  /* Red accent: FIAF #e30521 */
+  --md-accent-fg-color:              #e30521;
+  --md-accent-fg-color--transparent: rgba(227,5,33,0.1);
+  --md-accent-bg-color:              #ffffff;
+
+  /* Page background */
+  --md-default-bg-color: #f1f2f2;
+}
+
+/* Red bottom border on header for brand accent */
+.md-header {
+  border-bottom: 3px solid #e30521;
+  box-shadow: none;
+}
+
+/* Dark mode — neutralise Material's default blue hue */
+[data-md-color-scheme="slate"] {
+  --md-hue:                     0;
+  --md-default-bg-color:        #1a1a1a;
+  --md-default-fg-color:        #f1f2f2;
+  --md-primary-fg-color:        #1a1a1a;
+  --md-primary-fg-color--light: #2e2e2e;
+  --md-primary-fg-color--dark:  #000000;
+  --md-primary-bg-color:        #f1f2f2;
+  --md-primary-bg-color--light: rgba(241,242,242,0.7);
+  --md-accent-fg-color:         #e30521;
+  --md-accent-fg-color--transparent: rgba(227,5,33,0.1);
+}
+
+/* Links */
+.md-content a {
+  color: #e30521;
+}
+.md-content a:hover {
+  color: #c72b1a;
+}
+
+/* Active nav item indicator */
+.md-nav__link--active {
+  color: #e30521 !important;
+}
+
+/* Example admonitions — use FIAF red instead of default purple */
+.md-typeset .admonition.example,
+.md-typeset details.example {
+  border-color: #e30521;
+}
+.md-typeset .example > .admonition-title,
+.md-typeset .example > summary {
+  background-color: rgba(227, 5, 33, 0.08);
+}
+.md-typeset .example > .admonition-title::before,
+.md-typeset .example > summary::before {
+  background-color: #e30521;
+}
+
+/* Logo sizing */
+.md-header__button.md-logo img {
+  height: 2rem;
+  width: auto;
+}
