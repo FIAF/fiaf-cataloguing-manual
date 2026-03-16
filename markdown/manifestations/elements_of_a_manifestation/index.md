@@ -68,7 +68,7 @@ Its usage qualifies whether the specific language is dialogue, dubbed, subtitles
 <a id="sec-language_terms"></a>
 ### Language Terms
 Where possible, record the language(s) using the full form of name, e.g., French, Italian, etc. rather than abbreviations or codes, by taking the most suitable value(s) from a controlled list.
-This can be an in-house list but it is preferable to use a standard language list such as ISO 639 (http://www.loc.gov/standards/iso639-2/php/code_list.php).
+This can be an in-house list but it is preferable to use a standard language list such as ISO 639 ([http://www.loc.gov/standards/iso639-2/php/code_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php)).
 
 Optionally, record the language code as found in ISO 639.
 
@@ -167,12 +167,12 @@ Institutions should develop standard lists of terms to indicate the specific car
 For optical media, only add commercially produced media here. If the optical media is “writable” and is being used to store a digital file, put the digital file format in the General Carrier Type, and the optical storage media in Specific.
 
 !!! example "Example"
-    YEE (http://myee.bol.ucla.edu/catrul.doc 5.3.3 (physical carriers)
-    AMIM2 5D, pp. 18-19 (for gauges/width values)
-    AMIM2 5B7, pp. 10-11 (including both “tape” and “disc” based video formats).
-    RDA 3.20; YEE (http://myee.bol.ucla.edu/catrul.doc 5.3.14 (for encoding formats).
-    PBCore instantiationPhysical http://metadataregistry.org/concept/list/vocabulary_id/145.html (for physical carriers)
-    PBCore instantiationDigital (http://pbcore.org/pbcoreinstantiation/instantiationdigital/) (for broad digital formats)
+    YEE ([http://myee.bol.ucla.edu/catrul.doc](http://myee.bol.ucla.edu/catrul.doc)) 5.3.3 (physical carriers) <br/>
+    AMIM2 5D, pp. 18-19 (for gauges/width values) <br/>
+    AMIM2 5B7, pp. 10-11 (including both “tape” and “disc” based video formats). <br/>
+    RDA 3.20; YEE ([http://myee.bol.ucla.edu/catrul.doc](http://myee.bol.ucla.edu/catrul.doc)) 5.3.14 (for encoding formats). <br/>
+    PBCore instantiationPhysical [http://metadataregistry.org/concept/list/vocabulary_id/145.html](http://metadataregistry.org/concept/list/vocabulary_id/145.html) (for physical carriers) <br/>
+    PBCore instantiationDigital ([http://pbcore.org/pbcoreinstantiation/instantiationdigital/](http://pbcore.org/pbcoreinstantiation/instantiationdigital/)) (for broad digital formats)
 
 Additional sources of information include several SMPTE standards, engineering guidelines, and recommended practices. These are some of the most common terms, but not a complete or definitive list.
 
@@ -223,7 +223,7 @@ A suggested list of examples, which is open and not exhaustive, includes:
 - 2.39:1
 - 4:3
 
-Fuller details and examples of “aspect ratio” value lists can be found in the Technical Glossary of Common Audiovisual Terms (National Film and Sound Archive Australia), [The Advanced Projection Manual](https://iupress.org/9782960029611/the-advanced-projection-manual) and the PBCore essenceTrackAspect Ratio http://metadataregistry.org/concept/list/vocabulary_id/129.html
+Fuller details and examples of “aspect ratio” value lists can be found in the Technical Glossary of Common Audiovisual Terms (National Film and Sound Archive Australia), [The Advanced Projection Manual](https://iupress.org/9782960029611/the-advanced-projection-manual) and the PBCore essenceTrackAspect Ratio [http://metadataregistry.org/concept/list/vocabulary_id/129.html](http://metadataregistry.org/concept/list/vocabulary_id/129.html)
 
 
 The aspect ratio reflects the compositional intentions of the original content makers and the intended presentation of the moving image content.[^6] If the aspect ratio of a Work/Variant is altered, moving image information is lost, creating a Manifestation/Item with different moving image content.[^7] The Manifestation should reflect the projected image of the Work/Variant that it represents, rather than that on the Item.
@@ -460,8 +460,8 @@ Dates and country of Manifestation are not elements of a Manifestation under EN1
 [^3]: Based on FIAF 1991, 5.3.4.2.
 [^4]: The V-ISAN represents the third segment of the ISAN number, which consists of a 96-bits number structured as follows: the first is the root, which identifies the work, the second is the episode section, which identifies the part within a multi-part work, the third is the so-called version section, which identifies variants and Manifestations (particularly as far as format changes and “media embodiments”, such as Blu-Ray, digital files, tapes, etc.., are concerned): see [http://www.isan.org/docs/isan_user_guide.pdf](http://www.isan.org/docs/isan_user_guide.pdf), Version 2.2.2. February 2012, 13/49.
 [^5]: DOI (= Digital Object Identifier): see [http://www.doi.org/](http://www.doi.org/).
-[^6]: This definition from Academy Film Archive in-house glossary of terms, and OLAC, Moving Image Works, Part 3a: Operational Definitions (08/09) (PDF Document), http://olacinc.org/drupal/capc_files/MIW_3a.pdf.
-[^7]: OLAC, Moving Image Works, Part 3a: Operational Definitions (08/09) (PDF Document), http://olacinc.org/drupal/capc_files/MIW_3a.pdf
+[^6]: This definition from Academy Film Archive in-house glossary of terms, and OLAC, Moving Image Works, Part 3a: Operational Definitions (08/09) (PDF Document), [http://olacinc.org/drupal/capc_files/MIW_3a.pdf](http://olacinc.org/drupal/capc_files/MIW_3a.pdf).
+[^7]: OLAC, Moving Image Works, Part 3a: Operational Definitions (08/09) (PDF Document), [http://olacinc.org/drupal/capc_files/MIW_3a.pdf](http://olacinc.org/drupal/capc_files/MIW_3a.pdf)
 [^8]: This definition from Academy Film Archive in-house glossary of terms.
 [^9]: RDA 3.17. 01
 [^10]: Based on AMIM2 5C3.
@@ -470,7 +470,7 @@ Dates and country of Manifestation are not elements of a Manifestation under EN1
 [^13]: AMIM2, 5B5, p.9
 [^14]: RDA: 3.4.0.4
 [^15]: Based on FIAF 1991, 5.3.4.2.
-[^16]: Definition of “Stretch frame” taken from: http://www.nfsa.gov.au/preservation/glossary/stretch-frame.
+[^16]: Definition of “Stretch frame” taken from: [http://www.nfsa.gov.au/preservation/glossary/stretch-frame](http://www.nfsa.gov.au/preservation/glossary/stretch-frame).
 [^17]: Adapted from FIAF 5.3.4.2.
 [^18]: Based on RDA 2.20.1.Basic Instructions on Making Notes on Manifestations or Items
 

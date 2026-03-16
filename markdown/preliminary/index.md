@@ -143,17 +143,17 @@ RDA
 Section 3: Person, Family, & Corporate Body (Chapters 8-11)
 Section 4: Concept, Object, Event & Place (Chapters 12-16)
 Appendix F: Additional Instructions on Names of Persons
-ISAAR (CPF): International Standard Archival Authority Record for Corporate Bodies, Persons and Families, 2nd Edition (http://www.ica.org/10203/standards/isaar-cpf-international-standard-archival-authority-record-for-corporate-bodies-persons-and-families-2nd-edition.html) - International Council of Archives);
+ISAAR (CPF): International Standard Archival Authority Record for Corporate Bodies, Persons and Families, 2nd Edition ([http://www.ica.org/10203/standards/isaar-cpf-international-standard-archival-authority-record-for-corporate-bodies-persons-and-families-2nd-edition.html](http://www.ica.org/10203/standards/isaar-cpf-international-standard-archival-authority-record-for-corporate-bodies-persons-and-families-2nd-edition.html)) - International Council of Archives);
 
-EFG Metadata Schema & Vocabularies – 3.6 Agent (http://www.efgproject.eu/guidelines_and_standards.php)
+EFG Metadata Schema & Vocabularies – 3.6 Agent ([http://www.efgproject.eu/guidelines_and_standards.php](http://www.efgproject.eu/guidelines_and_standards.php))
 
 Authority files
 
 VIAF (The Virtual International Authority File)
 
-ISNI (International Standard Name Identifier (ISO 27729) – (http://www.isni.org/)
+ISNI (International Standard Name Identifier (ISO 27729) – [http://www.isni.org/](http://www.isni.org/)
 
-IdREf (Identifiants et Référentiels) – (http://www.icacds.org.uk/eng/ISAAR(CPF)2ed.pdf)
+IdREf (Identifiants et Référentiels) – [http://www.icacds.org.uk/eng/ISAAR(CPF)2ed.pdf](http://www.icacds.org.uk/eng/ISAAR(CPF)2ed.pdf)
 
 Library of Congress Subject Headings (LCSH) and the Library of Congress Genre-Form Thesaurus (LCGFT)
 
@@ -179,7 +179,7 @@ An Item is the physical product of a Manifestation of a Work or Variant, i.e. th
 #### Boundaries between entities
 The traditional practice within moving image archives of incorporating variation information into a record enabled this one record to carry within it all the details relative to the differing components of a whole.[^18] Within the framework of the FRBR and RDA models, and the EN 15907 schema, the work record represents this “one record,” incorporating certain descriptive details, but the placement of the variation information changes. Different editions, versions, or variations are represented by the variant and manifestation entities, and the differences are recorded at the appropriate level or on the particular entity record, or designated in some way as belonging to the specific entity. The treatment of an “information resource” by using the four-tier hierarchy to express the concept allows it to be described and viewed at each of the four levels: for example, a documentary is, simultaneously, a particular copy or component pieces (item(s)), a particular publication (manifestation), a particular edition (variant), and a particular piece of work (work).
 
-It remains essential to users of archival moving image material that information describing the original work and information describing the item in hand are presented in a manner that clearly delineates this relationship. The relationship in library terms is described as the concept of “edition” and it includes any changes in content or changes in carrier. Separate editions of printed library material are catalogued separately, and usually no attempt is made to determine whether edition statements always indicate major changes in content.[^19] “Publication,” in the context of a moving image archive, is used interchangeably with “distribution” and means “making the resource available.”[^20] For moving image materials, the terms most analogous to this concept of edition are “versions with major changes” and “variations with minor changes.”[^21] (see http://www.fiafnet.org/images/tinyUpload/E-Resources/Commission-And-PIP-Resources/CDC-resources/FIAF_Cat_Rules.pdf)
+It remains essential to users of archival moving image material that information describing the original work and information describing the item in hand are presented in a manner that clearly delineates this relationship. The relationship in library terms is described as the concept of “edition” and it includes any changes in content or changes in carrier. Separate editions of printed library material are catalogued separately, and usually no attempt is made to determine whether edition statements always indicate major changes in content.[^19] “Publication,” in the context of a moving image archive, is used interchangeably with “distribution” and means “making the resource available.”[^20] For moving image materials, the terms most analogous to this concept of edition are “versions with major changes” and “variations with minor changes.”[^21] (see [http://www.fiafnet.org/images/tinyUpload/E-Resources/Commission-And-PIP-Resources/CDC-resources/FIAF_Cat_Rules.pdf](http://www.fiafnet.org/images/tinyUpload/E-Resources/Commission-And-PIP-Resources/CDC-resources/FIAF_Cat_Rules.pdf))
 
 In moving image archives, both the occurrence of a change in the content and the extent of the change are important. In most cases, for moving image materials, the changes in content are a function of some form of editing.
 

@@ -61,7 +61,7 @@ Variants may include both the Agents of the original Work and of the particular 
 This describes the activity or role of the Agent in relation to the moving image Work/Variant (e.g. credit terms). 
 
 Record one or more Agent Activity terms, for example, “animator,” “cast,” “choreographer,” “production company” etc., to express the nature of the agent’s relationship to the Work or Variant. 
-Choose the single most specific term, if possible. Selection should be made from a controlled list of terms, such as the [FIAF Glossary of Filmographic Terms](http://www.fiafnet.org/publications/GlossaryMasterComboMarch2015.html.htm ). 
+Choose the single most specific term, if possible. Selection should be made from a controlled list of terms, such as the [FIAF Glossary of Filmographic Terms](http://www.fiafnet.org/publications/GlossaryMasterComboMarch2015.html). 
 
 If no suggested terms apply, compose a term to describe the relationship between the Agent and the Work/Variant being catalogued. 
 If the relationship is ambiguous, use a value to indicate this, for example, “unknown” or “on-screen participant” to indicate a person appearing on screen in a capacity that is indeterminate or not covered by typical terms.[^5] 

@@ -333,11 +333,11 @@ For example, DCPs (contained in MXF files) are comprised of a JPEG2000 video fil
 
 Examples for value lists:
 
-PBCore essenceTrackEncoding vocabulary:    
-http://metadataregistry.org/concept/list/vocabulary_id/156.html
+PBCore essenceTrackEncoding vocabulary:
+[http://metadataregistry.org/concept/list/vocabulary_id/156.html](http://metadataregistry.org/concept/list/vocabulary_id/156.html)
 
-EBUCore Video Compression Code:    
-https://www.ebu.ch/metadata/cs/web/ebu_VideoCompressionCodeCS_p.xml.htm
+EBUCore Video Compression Code:
+[https://www.ebu.ch/metadata/cs/web/ebu_VideoCompressionCodeCS_p.xml.htm](https://www.ebu.ch/metadata/cs/web/ebu_VideoCompressionCodeCS_p.xml.htm)
 
 <a id="sec-audio_codec"></a>
 ### Audio Codec
@@ -345,11 +345,11 @@ The audio compression standard used in the audio file, whether it is contained i
 
 Examples for value lists:
 
-PBCore essenceTrackEncoding vocabulary:      
-http://metadataregistry.org/concept/list/vocabulary_id/156.html
+PBCore essenceTrackEncoding vocabulary:
+[http://metadataregistry.org/concept/list/vocabulary_id/156.html](http://metadataregistry.org/concept/list/vocabulary_id/156.html)
 
-EBUCore Video Compression Code:     
-https://www.ebu.ch/metadata/cs/web/ebu_VideoCompressionCodeCS_p.xml.htm
+EBUCore Video Compression Code:
+[https://www.ebu.ch/metadata/cs/web/ebu_VideoCompressionCodeCS_p.xml.htm](https://www.ebu.ch/metadata/cs/web/ebu_VideoCompressionCodeCS_p.xml.htm)
 
 <a id="sec-resolution"></a>
 ### Resolution
@@ -426,7 +426,7 @@ condition of the Emulsion.
 
 For video, refer to AV Artifact Atlas for guidance on terms.
 
-http://avaa.bavc.org/artifactatlas/index.php/A/V_Artifact_Atlas
+[http://avaa.bavc.org/artifactatlas/index.php/A/V_Artifact_Atlas](http://avaa.bavc.org/artifactatlas/index.php/A/V_Artifact_Atlas)
 
 * Discolouration
 * Magenta Bias

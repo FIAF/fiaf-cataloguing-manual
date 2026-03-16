@@ -107,6 +107,6 @@ More importantly, it is not always practical or feasible for many cataloguing sy
 An aggregating Work record for the above enables adding of credits, for example, the music composer for the soundtrack on the aggregate, the interviewees, etc.; associative “contains/contained in” relationship links to any individual films or newsreel works; and then any other remaining details of the Work that cannot be linked in associative relationships may be added as free text in synopsis or notes fields.
 
 [^1]: Working Group on Aggregates. Final Report of the Working Group on Aggregates, September 12, 2011, [http://www.ifla.org/files/assets/cataloguing/frbrrg/AggregatesFinalReport.pdf](http://www.ifla.org/files/assets/cataloguing/frbrrg/AggregatesFinalReport.pdf)
-[^2]: Definition of “Compilation” in [http://www.isan.org/resources/glossary.html#index_A](http://www.isan.org/resources/glossary.html#index_A) (ISAN Glossary of Terms)
+[^2]: Definition of “Compilation” in [http://www.isan.org/resources/glossary.html#index_A](http://www.isan.org/resources/glossary.html#index_A)
 [^3]: Example Victorian Cinema 3 is an illustrative example only, and not yet streamed in this way
 
