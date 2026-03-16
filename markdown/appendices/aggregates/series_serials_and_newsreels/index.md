@@ -59,6 +59,10 @@ These stories also are not “independently created Works/Variants” but filmed
 The “whole” would then have a Transmission Manifestation.
 The component parts do not.
 
-It is possible that only individual components of newsreels/news programmes may be acquired by an institution.
-In such cases it is simply a matter of a partial/incomplete acquisition, in the same way that only 2 reels of a 3 reel feature film might be acquired.
-The acquisition Item record would be linked as “part of” the whole Manifestation (see [Analytics/Components of identified newsreels/cinemagazines](/appendices/titles/title_types/#sec-analytics_components_of_identified_newsreels_cinemagazines)).
+It is possible that only individual components of newsreels/news programmes may be acquired by an institution. In such cases it is simply a matter of a partial/incomplete acquisition, in the same way that only 2 reels of a 3 reel feature film might be acquired. The Item record for that acquisition would be linked as “part of” the whole Manifestation ( see A.2.6.3 Analytics/Components of identified newsreels/cinemagazines )
+
+Where several individual whole components of various newsreels/news programmes have been used to create compilation films or reels, then as described in E.2.1. [ADD LINK] the nature of these should be assessed. As mentioned previously, any aggregate will always have an element of intention, whether simple or complex.
+
+Such compilations constitute Collection Aggregates, i.e. a new Work record would be created for the compilation and then structured in an associative “contains/contained in” relationship with the original whole newsreel issue Work records from which they came.[ADD LINK TO SECTION  E.5.1.3 Collection Aggregates model].
+
+In instances of untitled reels containing multiple different newsreel/cinemagazine story elements, then a partially or fully supplied/devised title can be created, along with any useful additional alternative or help titles (see ADD LINK TO SECTION A.2.5.1 AND A.2.5.2)

@@ -35,7 +35,7 @@ It may differ from the title found on a particular manifestation of the Work; th
 See [Title Types](/appendices/titles/title_types/#sec-title_types) for additional information.
 
 This may be via use of a “Title type” qualifier.
-See [Titles of series/serials](/appendices/titles/title_types/#sec-titles_of_series_serials) for other options
+See [Titles and structuring of series/serials](/appendices/titles/title_types/#sec-titles_of_series_serials) for other options
 
 !!! example "Example"
     Gone with the wind (United States of America, 1939, Victor Fleming) <br/>

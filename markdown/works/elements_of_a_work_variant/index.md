@@ -77,7 +77,7 @@ See [Title Types](/appendices/titles/title_types/#sec-title_types) for additiona
 
 For creating titles for untitled or unidentified entities see [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](/appendices/titles/title_types/#sec-supplied_devised_titles).Television programmes and other types of content that are part of a series/serial should have both the series/serial title and the episode title included in the Work record.
 This may be via use of a “Title type” qualifier.
-See [Titles of series/serials](/appendices/titles/title_types/#sec-titles_of_series_serials) for other options.
+See [Titles and structuring of series/serials](/appendices/titles/title_types/#sec-titles_of_series_serials) for other options.
 
 !!! example "Example"
     Gone with the wind (United States of America, 1939, Victor Fleming) <br/>
