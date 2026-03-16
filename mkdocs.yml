@@ -47,6 +47,10 @@ markdown_extensions:
   - footnotes
   - attr_list
   - md_in_html
+  - abbr
+  - pymdownx.snippets:
+      auto_append:
+        - markdown/includes/abbreviations.md
   - toc:
       permalink: true
 
