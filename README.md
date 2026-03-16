@@ -25,13 +25,28 @@ The site is built with [MkDocs](https://www.mkdocs.org/) using the [Material the
 Content is organised into chapter directories under `markdown/`:
 
 ```
-preliminary/   works/       variants/      manifestations/   items/
-boundaries/    agents/      events/        other-relationships/
-appendices/titles/          appendices/cataloguers-notes/
-appendices/value-lists/     appendices/aggregates/
-appendices/element-comparison/  appendices/rights/
-appendices/record-examples/ appendices/bibliography/
-appendices/element-list/
+markdown/
+├── preliminary/
+├── works/
+├── variants/
+├── manifestations/
+├── items/
+├── boundaries/
+├── agents/
+├── events/
+├── other-relationships/
+├── appendices/
+│   ├── titles/
+│   ├── cataloguers-notes/
+│   ├── value-lists/
+│   ├── aggregates/
+│   ├── element-comparison/
+│   ├── rights/
+│   ├── record-examples/
+│   ├── bibliography/
+│   └── element-list/
+├── assets/          ← CSS, logo, favicon (not markdown)
+└── diagrams/        ← diagram images (not markdown)
 ```
 
 Each chapter index is `{chapter}/index.md`; subsections are `{chapter}/{slug}/index.md`.
