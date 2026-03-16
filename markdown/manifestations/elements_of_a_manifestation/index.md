@@ -453,7 +453,7 @@ Notes for Manifestations are annotations providing additional information relati
 
 <a id="sec-date_and_country_of_manifestation"></a>
 ## Date and Country of Manifestation
-Dates and country of Manifestation are not elements of a Manifestation under EN15907, as in the latter it envisages this data being on linked Publication Events. However, in some systems they may be structured as elements of a Manifestation. For further consideration of this see [ADD internal LINK TO Boundaries between Manifestation Types and Event types section] .
+Dates and country of Manifestation are not elements of a Manifestation under EN 15907, as in the latter it envisages this data being on linked Publication Events. However, in some systems they may be structured as elements of a Manifestation. For further consideration of this see [ADD internal LINK TO Boundaries between Manifestation Types and Event types section] .
 
 [^1]: Partially based on EN 15907, 6.8 except for the physical components/units number, which is not provided for in the standard.
 [^2]: Based on FIAF 1991, 5.3.4.1, 87.

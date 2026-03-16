@@ -66,7 +66,7 @@ It is recognised that institutions use a variety of systems and data structures 
 
 <a id="sec-relationship_of_fiaf_cataloguing_rules_to_functional_requirements"></a>
 ## Relationship of FIAF Cataloguing Rules to Functional Requirements of Bibliographic Records (FRBR), Resource Description and Access (RDA) and The European Standards Committee (CEN) Cinematographic Works Standard EN 15907
-The authors of this manual have chosen to focus on current standards and practices, such as those outlined in FRBR, RDA, and EN15907, while expanding them to be more specific and granular regarding the particular needs of moving image cataloguing. Listed below are some of the key attributes of these standards and their relationship to recommendations in the FIAF Cataloguing Manual.
+The authors of this manual have chosen to focus on current standards and practices, such as those outlined in FRBR, RDA, and EN 15907, while expanding them to be more specific and granular regarding the particular needs of moving image cataloguing. Listed below are some of the key attributes of these standards and their relationship to recommendations in the FIAF Cataloguing Manual.
 
 
 1. The conceptual model Functional Requirements for Bibliographic Records (FRBR), published in 1998 by the International Federation of Libraries Association. FRBR is one of the models underlying RDA: Resource Description and Access[^3], and it provides “a framework that identifies and clearly defines the entities of interest to users of bibliographic records, the attributes of each entity, and the types of relationships that operate between entities.”[^4]
@@ -241,7 +241,7 @@ Because, however, it is not always possible for a cataloguer to determine an ori
 [^5]: RDA 0.0 and 0.1, p. 0-1.
 [^6]: [https://tech.ebu.ch/MetadataEbuCore](https://tech.ebu.ch/MetadataEbuCore)
 [^7]: [http://pbcore.org/](http://pbcore.org/)
-[^8]: Taken from EN15907. Item – Definition from the standard. [http://filmstandards.org/fsc/index.php/EN_15907_Item](http://filmstandards.org/fsc/index.php/EN_15907_Item)
+[^8]: Taken from EN 15907. Item – Definition from the standard. [http://filmstandards.org/fsc/index.php/EN_15907_Item](http://filmstandards.org/fsc/index.php/EN_15907_Item)
 [^9]: FRBR Final Report, pp. 12-16; Taylor, p. 4.
 [^10]: Yee. “The Concept of Work for Moving Image Materials, p. 33.
 [^11]: EN 15907, 4.1.1, p. 8.

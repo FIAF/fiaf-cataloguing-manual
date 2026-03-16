@@ -36,14 +36,14 @@ Record the Manifestation Type by taking the most suitable term from a controlled
 
 The Manifestation types below can be used with Manifestations associated with either Works or Variants.
 
-EN15907 does not specify any Manifestation types other than Unknown. The Manifestation types listed below are based on existing types widely used by various archives and used with Manifestations associated with either Works or Variants. They are not the only possible types that can be used - this is not a definitive list of types. Institutions should use the types and terminologies best suited for their requirements and collections.
+EN 15907 does not specify any Manifestation types other than Unknown. The Manifestation types listed below are based on existing types widely used by various archives and used with Manifestations associated with either Works or Variants. They are not the only possible types that can be used - this is not a definitive list of types. Institutions should use the types and terminologies best suited for their requirements and collections.
 
 \subsubsection{Pre-Release (or Production)} 
 \label{sec:pre_release} 
 
 A moving image Manifestation type that may be used to represent any embodiments of a moving image Work that exist before the finalisation or release of the moving image Work. Also use for partially realised projects, i.e. productions that started filming but then project ceased before completion, for which footage exists and may have been acquired by an institution.
 
-A Pre-Release Manifestation is effectively a Production Manifestation for which acquired Items created or used in the production of a film can be linked. Technically, a Pre-Release Manifestation does not refer to any release at all, but rather to embodiments of the creative process that goes into the creation or construction of the Work itself, i.e. raw or semi-edited footage that has been shot in the making of a moving image, whether it has been used in the ultimate finished Work or not. Effectively, it is a convenient device in order to maintain the EN15907 structure when cataloguing production materials and not to confuse Items that constitute these with Items that are simply copies of the completed, released film.
+A Pre-Release Manifestation is effectively a Production Manifestation for which acquired Items created or used in the production of a film can be linked. Technically, a Pre-Release Manifestation does not refer to any release at all, but rather to embodiments of the creative process that goes into the creation or construction of the Work itself, i.e. raw or semi-edited footage that has been shot in the making of a moving image, whether it has been used in the ultimate finished Work or not. Effectively, it is a convenient device in order to maintain the EN 15907 structure when cataloguing production materials and not to confuse Items that constitute these with Items that are simply copies of the completed, released film.
 
 It applies to production material in general, including: original shooting elements (i.e. original camera negative, working print, original video, editing file) and/or the first recording/mixing of the sound (separate original soundtracks – dialogues, sound, music, – or the first mixed soundtrack).
 
@@ -1011,7 +1011,7 @@ Notes for Manifestations are annotations providing additional information relati
 \subsubsection{Date and Country of Manifestation}
 \label{sec:date_and_country_of_manifestation}
 
-Dates and country of Manifestation are not elements of a Manifestation under EN15907, as in the latter it envisages this data being on linked Publication Events. However, in some systems they may be structured as elements of a Manifestation. For further consideration of this see [ADD internal LINK TO Boundaries between Manifestation Types and Event types section] .
+Dates and country of Manifestation are not elements of a Manifestation under EN 15907, as in the latter it envisages this data being on linked Publication Events. However, in some systems they may be structured as elements of a Manifestation. For further consideration of this see [ADD internal LINK TO Boundaries between Manifestation Types and Event types section] .
 
 \subsection{Relationships of a Manifestation}
 \label{sec:relationships_of_a_manifestation}

@@ -1337,9 +1337,9 @@ If deemed necessary or helpful for the purposes of discovery, the alternative ti
 \paragraph{Further enhanced structuring possibilities with analytic/component parts and identified newsreels/cinemagazines} 
 \label{sec:further_enhanced_structuring_possibilities_with analytic_component_parts_and_identified_newsreels_cinemagazines} \
 
-There may also be instances, particularly with news and newsreel collections where a Serial-Monographic-Analytic Works construction, in a grandparent-parent-child hierarchical structure could be considered and used in certain databases that have an EN15907 structure. 
+There may also be instances, particularly with news and newsreel collections where a Serial-Monographic-Analytic Works construction, in a grandparent-parent-child hierarchical structure could be considered and used in certain databases that have an EN 15907 structure. 
 
-This is not a structuring or architecture that is covered within the EN15907 Standard itself, but it is one which exploits and extends the EN15907 basic structure model further in conjunction with Work/Variant Description types (ADD LINK TO SECTION ON THESE – WAS D.1 BUT NOW MOVED IN GITHUB DEVELOP DOCUMENT). This could suit institutions with huge newsreel collections, particularly where the individual story elements are what are searched on by users, and use of this type of structuring is also starting to evolve in some institutions in very particular scenarios.
+This is not a structuring or architecture that is covered within the EN 15907 Standard itself, but it is one which exploits and extends the EN 15907 basic structure model further in conjunction with Work/Variant Description types (ADD LINK TO SECTION ON THESE – WAS D.1 BUT NOW MOVED IN GITHUB DEVELOP DOCUMENT). This could suit institutions with huge newsreel collections, particularly where the individual story elements are what are searched on by users, and use of this type of structuring is also starting to evolve in some institutions in very particular scenarios.
 
 One such is where there may be instances of the Analytic individual story elements having their own later publication, or “manifestation”, and there is a need or preference by an institution for keeping all the records together in a vertical hierarchy. It may also suit institutions with huge newsreel collections, particularly where the individual story elements of issues are what are searched on and accessed by users.
 
@@ -1350,7 +1350,7 @@ In the early 21st century individual story elements from each newsreel issue wer
 
 For practical and efficiency reasons, as well as systems workflows, an institution may find it  necessary and preferable to be able to keep everything in a hierarchy together under the Serial Work, particularly in systems where a hierarchy is visible and accessible for navigation into all linked records.
 
-This type of 3-tier Works structuring is a logical extension of the 2-tier Serial-Monographic parent-child linked hierarchical structures used already in many institutions.[ADD THE FOLLOWING FOOTNOTE HERE   This also corresponds with structures in UNESCO CCF/B (Common Communications Format / Bibliographic, UNESCO PGI-92/WS/9, Paris, 1992,(INSERT LINK) relating to vertical structuring and Series-Monograph-Component types (which are the basis for EN15907 Description levels aka Work/Variant Description Types).]
+This type of 3-tier Works structuring is a logical extension of the 2-tier Serial-Monographic parent-child linked hierarchical structures used already in many institutions.[ADD THE FOLLOWING FOOTNOTE HERE   This also corresponds with structures in UNESCO CCF/B (Common Communications Format / Bibliographic, UNESCO PGI-92/WS/9, Paris, 1992,(INSERT LINK) relating to vertical structuring and Series-Monograph-Component types (which are the basis for EN 15907 Description levels aka Work/Variant Description Types).]
 
 [INSERT DIAGRAM 12. TB. In Further enhanced structuring possibilities with analytic/component parts and identified newsreels/cinemagazines HERE]
 
@@ -1360,7 +1360,7 @@ This would then ultimately have the following record structure:
 
 as well as additional “Other relationships” between some of these, i.e. an associative contains/contained in relationship between the Mongographic and Analytic Work and a source item/derived item relationship between the two Items.
 
-Under existing EN15907, usual structuring would be to create new Analytic Works (with their own new Manifestations and Items) and relate those Works to the original whole newsreel issue in which they featured, in an associative “Other Relationship”. In a system where Serial and Monographic Works usually sit in a horizontal Other Relationships structure then this can be followed, i.e.
+Under existing EN 15907, usual structuring would be to create new Analytic Works (with their own new Manifestations and Items) and relate those Works to the original whole newsreel issue in which they featured, in an associative “Other Relationship”. In a system where Serial and Monographic Works usually sit in a horizontal Other Relationships structure then this can be followed, i.e.
 
 [INSERT DIAGRAM 14. TB. In Further enhanced structuring possibilities with analytic/component parts and identified newsreels/cinemagazines HERE]
 
@@ -1373,7 +1373,7 @@ For example, a collection of all the UK daily morning news and magazine programm
 
 [INSERT DIAGRAM 15. GMB. In Further enhanced structuring possibilities with large newsreel/cinemagazine or television series/serials HERE]
 
-While not actually stipulated or covered in the EN15907 standard model, the inherent flexibility of that model and structure does potentially enable possible stretching of the standard, and it could be argued that it is logically acceptable structuring within EN15907. 
+While not actually stipulated or covered in the EN 15907 standard model, the inherent flexibility of that model and structure does potentially enable possible stretching of the standard, and it could be argued that it is logically acceptable structuring within EN 15907. 
 
 Whilst system work-arounds that impact on data standards are not to be advocated and avoided if possible, it is recognised that this may sometimes be unavoidable and have to be done by an institution for pragmatic and purely practical reasons, particularly where there may be impacts on accessibility for both internal and external users. 
 

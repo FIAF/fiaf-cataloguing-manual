@@ -140,7 +140,7 @@ With fiction moving images, care is needed not to confuse place within the story
 
 If adding place as a subject it would not therefore be Cornwall but the Isle of Man, since that is what the film is actually about and where it is set.
 
-Actual filming locations data can be added in a different field (in the EN15907 structure locations and production information can be added to a linked Production Event).
+Actual filming locations data can be added in a different field (in the EN 15907 structure locations and production information can be added to a linked Production Event).
 
 [^1]: EN 15907 5.2 Event
 [^2]: EN 15907 8.1 Relationships. General

@@ -391,5 +391,5 @@ If known and considered of relevance, record the name of the city or smaller geo
 [^2]: Adapted from EN 15907 6.11 Production Event, p. 20
 [^3]: EN 15907 6.15 IPR Registration, pp. 23-24
 [^4]: EN 15907, 6.13 Decision event, pp. 26-27
-[^5]: There is no designated separate Restoration Event in EN15907, and as there can often be an overlap in the types of activity associated with both preservation and restoration, we extended the definition in the 2016 FIAF Moving Image Cataloguing Manual to cover restoring and reconstruction of content too. We have also now referred to it as a Preservation/Restoration Event to increase clarity.
+[^5]: There is no designated separate Restoration Event in EN 15907, and as there can often be an overlap in the types of activity associated with both preservation and restoration, we extended the definition in the 2016 FIAF Moving Image Cataloguing Manual to cover restoring and reconstruction of content too. We have also now referred to it as a Preservation/Restoration Event to increase clarity.
 

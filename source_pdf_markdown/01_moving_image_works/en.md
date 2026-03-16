@@ -114,7 +114,7 @@ The terms used in this Manual are derived from traditional bibliographic catalog
 \subsection{Work/Variant Description Types} 
 \label{sec:work_variant_description_types} 
 
-The Types below reflect terms used in Section 4.1.2 Attributes in the CEN standard EN15907. (INSERT LINK TO EN15907 IN A FOOTNOTE along with "The terms and their definitions used in the EN15907 Standard itself are rooted in those from UNESCO CCF/B (Common Communications Format / Bibliographic, UNESCO PGI-92/WS/9, Paris, 1992,(INSERT LINK) which related to bibliographic information.)
+The Types below reflect terms used in Section 4.1.2 Attributes in the CEN standard EN 15907. (INSERT LINK TO EN 15907 IN A FOOTNOTE along with "The terms and their definitions used in the EN 15907 Standard itself are rooted in those from UNESCO CCF/B (Common Communications Format / Bibliographic, UNESCO PGI-92/WS/9, Paris, 1992,(INSERT LINK) which related to bibliographic information.)
 
 **Analytic (component part)**: content that is contained in another content. 
 A component part may itself be either monographic or serial. Component here means intentional component part not fragments or excerpts of a moving image, e.g. an individual element from a larger newsreel issue.
@@ -168,7 +168,7 @@ Breaking Bad (2008-01-20 – 2013-09-29)
 \end{tcolorbox}
 ```
 
-**Collection**: Content issued in several independent parts; an ‘umbrella’ work title covering a number of different Works/Variants/Manifestations^[This aligns with EN15907 definitions relating to Work types and is different and distinct from Collection Aggregates].
+**Collection**: Content issued in several independent parts; an ‘umbrella’ work title covering a number of different Works/Variants/Manifestations^[This aligns with EN 15907 definitions relating to Work types and is different and distinct from Collection Aggregates].
 
 ```{=latex}
 \begin{tcolorbox}
@@ -936,5 +936,5 @@ With fiction moving images, care is needed not to confuse place within the story
 
 If adding place as a subject it would not therefore be Cornwall but the Isle of Man, since that is what the film is actually about and where it is set.
 
-Actual filming locations data can be added in a different field (in the EN15907 structure locations and production information can be added to a linked Production Event).
+Actual filming locations data can be added in a different field (in the EN 15907 structure locations and production information can be added to a linked Production Event).
 

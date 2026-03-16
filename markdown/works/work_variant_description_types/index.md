@@ -1,7 +1,7 @@
 ---
 title: Work/Variant Description Types
 ---
-The Types below reflect terms used in Section 4.1.2 Attributes in the CEN standard EN15907. (INSERT LINK TO EN15907 IN A FOOTNOTE along with "The terms and their definitions used in the EN15907 Standard itself are rooted in those from UNESCO CCF/B (Common Communications Format / Bibliographic, UNESCO PGI-92/WS/9, Paris, 1992,(INSERT LINK) which related to bibliographic information.)
+The Types below reflect terms used in Section 4.1.2 Attributes in the CEN standard EN 15907. (INSERT LINK TO EN 15907 IN A FOOTNOTE along with "The terms and their definitions used in the EN 15907 Standard itself are rooted in those from UNESCO CCF/B (Common Communications Format / Bibliographic, UNESCO PGI-92/WS/9, Paris, 1992,(INSERT LINK) which related to bibliographic information.)
 
 **Analytic (component part)**: content that is contained in another content. 
 A component part may itself be either monographic or serial. Component here means intentional component part not fragments or excerpts of a moving image, e.g. an individual element from a larger newsreel issue.
@@ -81,6 +81,6 @@ Aggregate compilation videos/DVDs that are collections of individual works exist
 
 Provide a list of the compiled works contained in the Collections Work in its Synopsis or Summary field.
 
-[^1]: This aligns with EN15907 definitions relating to Work types and is different and distinct from Collection Aggregates
+[^1]: This aligns with EN 15907 definitions relating to Work types and is different and distinct from Collection Aggregates
 [^2]: BFI CID Stylistics Manual, A.1.3 Filmographic Level, p. 8
 

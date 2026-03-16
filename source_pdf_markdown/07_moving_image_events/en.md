@@ -15,7 +15,7 @@ TODO?
 
 An Event characterises occurrences in the lifecycle of a moving image Work, Variant, Manifestation, or Item. In addition, instances of any Event type can have Agent and "Other" relationships.
 
-The EN15907 standard gives the following event types:  
+The EN 15907 standard gives the following event types:  
 
 - Publication Event - A public screening or broadcast of a Manifestation, or a public release on a physical distribution medium or online. A publication event may be associated with instances of Agent, e.g. in the role of publisher, exhibition organiser, etc.  
 - Decision Event - A decision about the suitability of a cinematographic work or variant for a particular audience. Includes censorship and rating decisions. A Decision Event may be associated with instances of Agent, e.g. in the role of the agency performing the rating or censorship.  
@@ -343,7 +343,7 @@ Name of the Agent claiming copyright in the Work or Variant.
 \subsubsection{Preservation/Restoration}  
 \label{sec:preservation_restoration}
 
-A Preservation/Restoration Event is associated with a new Variant, Manifestation or Items resulting from the preservation/restoration process in which the contents of one or more Items (or fragments thereof) from Manifestations of a Work were transferred with the intention of restoring or reconstructing the content as originally intended, or safeguarding it from decay.^[There is no designated separate Restoration Event in EN15907, and as there can often be an overlap in the types of activity associated with both preservation and restoration, we extended the definition in the 2016 FIAF Moving Image Cataloguing Manual to cover restoring and reconstruction of content too. We have also now referred to it as a Preservation/Restoration Event to increase clarity.]  
+A Preservation/Restoration Event is associated with a new Variant, Manifestation or Items resulting from the preservation/restoration process in which the contents of one or more Items (or fragments thereof) from Manifestations of a Work were transferred with the intention of restoring or reconstructing the content as originally intended, or safeguarding it from decay.^[There is no designated separate Restoration Event in EN 15907, and as there can often be an overlap in the types of activity associated with both preservation and restoration, we extended the definition in the 2016 FIAF Moving Image Cataloguing Manual to cover restoring and reconstruction of content too. We have also now referred to it as a Preservation/Restoration Event to increase clarity.]  
 
 This includes statements about past or future treatments scheduled for the item.  If desired and if applicable, record one or more general types of past or future treatment activities (e.g. "added leaders", "cleaned ultrasonically", "tears repair", etc.). Selection should be made from a controlled list of values.
 
