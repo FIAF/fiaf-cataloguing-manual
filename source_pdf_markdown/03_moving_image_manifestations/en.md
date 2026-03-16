@@ -526,7 +526,7 @@ Its usage qualifies whether the specific language is dialogue, dubbed, subtitles
 \label{sec:language_terms} \
 
 Where possible, record the language(s) using the full form of name, e.g., French, Italian, etc. rather than abbreviations or codes, by taking the most suitable value(s) from a controlled list.
-This can be an in-house list but it is preferable to use a standard language list such as ISO 639 (http://www.loc.gov/standards/iso639-2/php/code_list.php).
+This can be an in-house list but it is preferable to use a standard language list such as ISO 639 ([http://www.loc.gov/standards/iso639-2/php/code_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php)).
 
 Optionally, record the language code as found in ISO 639.
 
@@ -640,12 +640,12 @@ For optical media, only add commercially produced media here. If the optical med
 
 ```{=latex}
 \begin{tcolorbox}
-YEE (http://myee.bol.ucla.edu/catrul.doc 5.3.3 (physical carriers)
-AMIM2 5D, pp. 18-19 (for gauges/width values)
-AMIM2 5B7, pp. 10-11 (including both “tape” and “disc” based video formats).
-RDA 3.20; YEE (http://myee.bol.ucla.edu/catrul.doc 5.3.14 (for encoding formats).
-PBCore instantiationPhysical http://metadataregistry.org/concept/list/vocabulary\_id/145.html (for physical carriers)
-PBCore instantiationDigital (http://pbcore.org/pbcoreinstantiation/instantiationdigital/) (for broad digital formats)
+YEE ([http://myee.bol.ucla.edu/catrul.doc](http://myee.bol.ucla.edu/catrul.doc)) 5.3.3 (physical carriers) \\
+AMIM2 5D, pp. 18-19 (for gauges/width values) \\
+AMIM2 5B7, pp. 10-11 (including both “tape” and “disc” based video formats). \\
+RDA 3.20; YEE ([http://myee.bol.ucla.edu/catrul.doc](http://myee.bol.ucla.edu/catrul.doc)) 5.3.14 (for encoding formats). \\
+PBCore instantiationPhysical [http://metadataregistry.org/concept/list/vocabulary_id/145.html](http://metadataregistry.org/concept/list/vocabulary_id/145.html) (for physical carriers) \\
+PBCore instantiationDigital ([http://pbcore.org/pbcoreinstantiation/instantiationdigital/](http://pbcore.org/pbcoreinstantiation/instantiationdigital/)) (for broad digital formats)
 \end{tcolorbox}
 ```
 
@@ -756,10 +756,10 @@ A suggested list of examples, which is open and not exhaustive, includes:
 - 2.39:1
 - 4:3
 
-Fuller details and examples of “aspect ratio” value lists can be found in the Technical Glossary of Common Audiovisual Terms (National Film and Sound Archive Australia), [The Advanced Projection Manual](https://iupress.org/9782960029611/the-advanced-projection-manual) and the PBCore essenceTrackAspect Ratio http://metadataregistry.org/concept/list/vocabulary_id/129.html
+Fuller details and examples of “aspect ratio” value lists can be found in the Technical Glossary of Common Audiovisual Terms (National Film and Sound Archive Australia), [The Advanced Projection Manual](https://iupress.org/9782960029611/the-advanced-projection-manual) and the PBCore essenceTrackAspect Ratio [http://metadataregistry.org/concept/list/vocabulary_id/129.html](http://metadataregistry.org/concept/list/vocabulary_id/129.html)
 
 
-The aspect ratio reflects the compositional intentions of the original content makers and the intended presentation of the moving image content.^[This definition from Academy Film Archive in-house glossary of terms, and OLAC, Moving Image Works, Part 3a: Operational Definitions (08/09) (PDF Document), http://olacinc.org/drupal/capc_files/MIW_3a.pdf.] If the aspect ratio of a Work/Variant is altered, moving image information is lost, creating a Manifestation/Item with different moving image content.^[OLAC, Moving Image Works, Part 3a: Operational Definitions (08/09) (PDF Document), http://olacinc.org/drupal/capc_files/MIW_3a.pdf] The Manifestation should reflect the projected image of the Work/Variant that it represents, rather than that on the Item.
+The aspect ratio reflects the compositional intentions of the original content makers and the intended presentation of the moving image content.^[This definition from Academy Film Archive in-house glossary of terms, and OLAC, Moving Image Works, Part 3a: Operational Definitions (08/09) (PDF Document), [http://olacinc.org/drupal/capc_files/MIW_3a.pdf](http://olacinc.org/drupal/capc_files/MIW_3a.pdf).] If the aspect ratio of a Work/Variant is altered, moving image information is lost, creating a Manifestation/Item with different moving image content.^[OLAC, Moving Image Works, Part 3a: Operational Definitions (08/09) (PDF Document), [http://olacinc.org/drupal/capc_files/MIW_3a.pdf](http://olacinc.org/drupal/capc_files/MIW_3a.pdf)] The Manifestation should reflect the projected image of the Work/Variant that it represents, rather than that on the Item.
 Institutions may record variations in projection characteristics as Item-specifics, rather than create multiple Manifestations.
 
 **Aperture/Image Format**
@@ -974,7 +974,7 @@ For more information about Aggregates see \nameref{sec:aggregates_compilations_m
 \label{sec:duration_of_a_manifestation_associated} \
 
 When recording duration of Manifestations of a Work/Variant of the silent era, take into account that the rate of frames per second varied over the years and between Variants/Manifestations.
-Also take into account the so-called “stretch frame” practice, adopted after the silent era, which “increases the number of frames printed on a film to enable films shot at silent speeds to be projected at sound speed and retain the original temporal characteristics.” ^[Definition of “Stretch frame” taken from: http://www.nfsa.gov.au/preservation/glossary/stretch-frame.]
+Also take into account the so-called “stretch frame” practice, adopted after the silent era, which “increases the number of frames printed on a film to enable films shot at silent speeds to be projected at sound speed and retain the original temporal characteristics.” ^[Definition of “Stretch frame” taken from: [http://www.nfsa.gov.au/preservation/glossary/stretch-frame](http://www.nfsa.gov.au/preservation/glossary/stretch-frame).]
 
 In a note, indicate the frame rate on which the duration is based or if the Manifestation is the result of a “stretch frame” practice.^[Adapted from FIAF 5.3.4.2.] (See also \nameref{sec:frame_rate})
 

@@ -6,7 +6,7 @@
 \subsection{Definition}  
 \label{sec:definition}
 
-A moving image aggregate is a Manifestation embodying two or more distinct Works/Variants.^[Adapted from Working Group on Aggregates definition for a moving image context . Final Report of the Working Group on Aggregates, September 12, 2011, http://www.ifla.org/files/assets/cataloguing/frbrrg/AggregatesFinalReport.pdf]
+A moving image aggregate is a Manifestation embodying two or more distinct Works/Variants.^[Adapted from Working Group on Aggregates definition for a moving image context . Final Report of the Working Group on Aggregates, September 12, 2011, [http://www.ifla.org/files/assets/cataloguing/frbrrg/AggregatesFinalReport.pdf](http://www.ifla.org/files/assets/cataloguing/frbrrg/AggregatesFinalReport.pdf)]
 
 It is not necessary to create an actual Manifestation Type of “Aggregate Manifestation” in existing Manifestation Type lists.
 
@@ -222,7 +222,7 @@ Under FRBR and CEN an aggregate Manifestation is allowed to have a many-to-many 
 
 However, many database systems are structured in a way that does not allow this and will only permit links or relationships between Manifestation records and a single Work/Variant record at all times, i.e., a one-to-many Work/Variant-Manifestation relationship.
 
-There are also potential implications for those organisations using international identifiers or registration numbers, e.g., ISAN gives a number to what they define “compilation”: “a compilation work is a collection of two or more separate works (each identified with its own ISAN) in a single distribution package”^[Definition of “Compilation” in [http://www.isan.org/resources/glossary.html#index_A](http://www.isan.org/resources/glossary.html#index_A) (ISAN Glossary of Terms)].
+There are also potential implications for those organisations using international identifiers or registration numbers, e.g., ISAN gives a number to what they define “compilation”: “a compilation work is a collection of two or more separate works (each identified with its own ISAN) in a single distribution package”^[Definition of “Compilation” in [http://www.isan.org/resources/glossary.html#index_A](http://www.isan.org/resources/glossary.html#index_A)].
 
 This may have a bearing and impact on decisions relating to whether to produce an aggregating Work or not.
 
