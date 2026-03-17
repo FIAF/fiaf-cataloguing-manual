@@ -23,6 +23,9 @@ theme:
     - search.suggest
     - toc.follow
   font: false
+  icon:
+    admonition:
+      example: material/movie-open
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
