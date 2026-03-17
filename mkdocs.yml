@@ -63,7 +63,6 @@ nav:
   - Manual:
     - Preliminary:
       - preliminary/index.md
-      - Dedication, Acknowledgements & Introduction: preliminary/index.md
       - Purpose, Scope, and Use: preliminary/purpose_scope_and_use/index.md
       - Core Elements of Description: preliminary/core_elements_of_description/index.md
       - Sources of Information: preliminary/prelim_sources_of_information/index.md
