@@ -65,14 +65,17 @@ Supplied/Devised titles), corporate bodies that are not principal creators of th
 Works:
 
 !!! example "Example"
-    A Star is born (Motion picture : 1954) <br/>
+    A Star is born (Motion picture : 1954) 
+
     A Star is born (Television programme : 1961)
 
 Variants:
 
 !!! example "Example"
-    Police story III – Supercop. English subtitled version <br/>
-    Blade runner (Motion picture. 1982. 2007 version) <br/>
+    Police story III – Supercop. English subtitled version 
+
+    Blade runner (Motion picture. 1982. 2007 version) 
+
     Blade runner (Motion picture. 1987. 25th anniversary edition)
 
 It is not necessary to append Variant information to the Work identifying title for every type of Variant; many of the types of modifications that lead to Variants are too complex to include and much of the data that identifies a particular Variant will consist of data elements that form part of the Variant description.
@@ -159,7 +162,8 @@ If other title information is clearly of very minor importance, for example a ne
 But (without separation into “title proper” and “other title information”):
 
 !!! example "Example"
-    Berlin – Die Sinfonie der Großstadt<br/>
+    Berlin – Die Sinfonie der Großstadt
+
     Pompeii, frozen in Fire
 
 <a id="sec-alternative"></a>
@@ -207,22 +211,33 @@ important (either for identification or for access).[^23]
 - Help/Search: Titles which may or may not have been used in verified sources but which clearly help when searching. Use the “Help/Search” title type for stylistic variations including, abbreviations (e.g., Dr./Doctor), numerals (e.g., 45/forty five), acronyms (e.g., FIAF/International Federation of Film Archives) symbols and other characters (e.g., &/and, £/pound), different spelling (Southsea/South Sea).[^24]
 
 !!! example "Example"
-    The fast & the furious 5 <br/>
-    The fast and the furious 5 <br/>
-    The fast & the furious 5 Rio heist <br/>
-    The fast and the furious 5 Rio heist <br/>
-    Fast & furious 5 <br/>
-    Fast and furious 5 <br/>
-    Fast & furious 5 Rio heist <br/>
-    Fast and furious 5 Rio heist <br/>
-    The fast & the furious five <br/>
-    The fast and the furious five <br/>
+    The fast & the furious 5 
+
+    The fast and the furious 5 
+
+    The fast & the furious 5 Rio heist 
+
+    The fast and the furious 5 Rio heist 
+
+    Fast & furious 5 
+
+    Fast and furious 5 
+
+    Fast & furious 5 Rio heist 
+
+    Fast and furious 5 Rio heist 
+
+    The fast & the furious five 
+
+    The fast and the furious five 
+
     The fast & the furious five Rio heist
 
 - Series/Serial title: the series/serial title of a Work that constitutes an episode/part
 
 !!! example "Example"
-    Mary Tyler Moore show = Series/Serial Title <br/>
+    Mary Tyler Moore show = Series/Serial Title 
+
     Chuckles bites the dust = Preferred Title
 
 (see [Title](/variants/elements_of_a_variant/#sec-work_title))
@@ -238,7 +253,8 @@ Parallel titles are recorded with wording and spelling as established by an appr
 Where this involves transcription between scripts, use an appropriate standard for transliterations.[^25]
 
 !!! example "Example"
-    Chandralekha [No English language title translation available; <br/>
+    Chandralekha [No English language title translation available; 
+
     archive holds Indian release copy – title is romanized.]
 
 When a title is an international co-production, or is produced in a bi- or multi-lingual country of origin, and is released simultaneously under separate titles in the languages of the country of origin or countries of co-production as well as in other languages, record all the parallel titles in the languages of the countries of co-production and in the language of the copy the institution holds, if it is in an additional language.
@@ -249,9 +265,12 @@ Historically, parallel titles have been placed within the title field itself, fo
 These guidelines recommend the use of separate fields that distinguish between the preferred title and any subsequent parallel title(s) but if this is not possible, the older approach is acceptable.
 
 !!! example "Example"
-    Der Fangschuss = Coup de grâce [Work is a German-French co-production. The Work was released in the U.S. under the French title.] <br/>
-    <br/>
-    Der Fangschuss (Preferred Title) <br/>
+    Der Fangschuss = Coup de grâce [Work is a German-French co-production. The Work was released in the U.S. under the French title.] 
+
+
+
+    Der Fangschuss (Preferred Title) 
+
     Coup de grâce (Parallel Title)
 
 Alternatively, an institution may opt to have fewer Title Types and simply use Preferred and Alternative Title Types (i.e., designating parallel titles as Alternative Title Types).
@@ -438,33 +457,45 @@ Some archives place the entire sequence of components in the title field in brac
 Other archives place only the qualifying form term in square or round brackets.
 
 !!! example "Example"
-    Le Cercle Rouge. Theatrical trailer <br/>
-    The misfits. TV trailers <br/>
-    L’armée des ombres. Rushes <br/>
+    Le Cercle Rouge. Theatrical trailer 
+
+    The misfits. TV trailers 
+
+    L’armée des ombres. Rushes 
+
     Le samourai. Excerpt
 
 OR
 
 !!! example "Example"
-    Le Cercle Rouge (Theatrical trailer) <br/>
-    The misfits (TV Trailers) <br/>
-    L’armée des ombres (Rushes) <br/>
+    Le Cercle Rouge (Theatrical trailer) 
+
+    The misfits (TV Trailers) 
+
+    L’armée des ombres (Rushes) 
+
     Le samourai (Excerpt)
 
 OR
 
 !!! example "Example"
-    [Le Cercle Rouge. Theatrical trailer] <br/>   
-    [The Misfits. TV trailers] <br/>   
-    L’armée des ombres [Rushes] <br/>   
+    [Le Cercle Rouge. Theatrical trailer] 
+
+    [The Misfits. TV trailers] 
+
+    L’armée des ombres [Rushes] 
+
     [Le samourai. Excerpt]
 
 OR
 
 !!! example "Example"
-    Title: Le Cercle Rouge, Form: Theatrical trailer <br/>
-    Title: The Misfits, Form: TV trailers <br/>
-    Title: L’armée des ombres, Form: Rushes <br/>
+    Title: Le Cercle Rouge, Form: Theatrical trailer 
+
+    Title: The Misfits, Form: TV trailers 
+
+    Title: L’armée des ombres, Form: Rushes 
+
     Title: Le samourai, Form: Excerpt
 
 For constructing partially supplied/devised titles where the moving image is a component part of a known larger Work, but the title of the component part is not known:
@@ -485,7 +516,8 @@ Use numbers to distinguish separate content when there is more than one unidenti
 OR
 
 !!! example "Example"
-    Series Title: The Mighty Boosh <br/>
+    Series Title: The Mighty Boosh 
+
     Episode Title: Unidentified episode
 
 !!! example "Example"
@@ -494,7 +526,8 @@ OR
 OR
 
 !!! example "Example"
-    Series Title: Flash Gordon conquers the universe <br/>
+    Series Title: Flash Gordon conquers the universe 
+
     Episode Title: Unidentified episode
 
 !!! example "Example"
@@ -503,9 +536,12 @@ OR
 OR
 
 !!! example "Example"
-    Series Title: This hour has seven days <br/>
-    Episode Title: Unidentified episode <br/>
-    Summary/Content description: International espionage <br/>
+    Series Title: This hour has seven days 
+
+    Episode Title: Unidentified episode 
+
+    Summary/Content description: International espionage 
+
     Year: 196?
 
 !!! example "Example"
@@ -514,7 +550,8 @@ OR
 OR
 
 !!! example "Example"
-    Series Title: Heckle and Jeckle <br/>
+    Series Title: Heckle and Jeckle 
+
     Episode Title: Unidentified episode
 
 <a id="sec-fully_supplied_devised_titles"></a>
@@ -539,9 +576,12 @@ Optionally (or additionally), establish a link with the form index adopted by th
 Institutions should rely upon in-house lists of standardised form terms, or utilise established standardised lists such as Library of Congress Genre/Form Terms for Library and Archival Materials (LCGFT), or rely upon the list provided in [List of form terms for Supplied/Devised titles](/appendices/value-lists/list_of_form_terms_for_supplied_devised_titles/#sec-list_of_form_terms_for_supplied_devised_titles).
 
 !!! example "Example"
-    Announcements <br/>
-    Bloopers <br/>
-    Commercials <br/>
+    Announcements 
+
+    Bloopers 
+
+    Commercials 
+
     Home movies
 
 If the content being described consists of two or more forms, record the one or two most predominate forms followed by the phrase “and other content,”[^34] or “and other segments” or something similar as long as consistency is achieved.
@@ -583,49 +623,86 @@ Record or index the name(s) in the form by which the creator/collector/assembler
 If no name has been recorded, but the subject of the content is a person, family or corporate body, express the title in a way that clearly indicates that the subject of the content is the named person, family or corporate body.[^38]
 
 !!! example "Example"
-    Compilation on Emmanuelle Devos <br/>
-    Early balloon footage. <br/>
-    World War I patriotic marches. No. 3 <br/>
-    Ads and tours of Seattle industry <br/>
-    Ponselle, Rosa. Screentests. <br/>
-    Theodore Roosevelt. 1905 inaugural ceremony. Speeches <br/>
-    James Cagney, ca. 1965. Interviews  <br/>
-      ABC Network fall season preview. 1964-65 season. Unedited footage  <br/>
-    optionally: Unedited footage. ABC Network fall season preview. 1964-65 season <br/>
-    Academy Awards, 17th. Best actor and actress. Unedited footage  <br/>
-    optionally, Unedited footage. Academy Awards, 17th. Best actor and actress  <br/>
-    optionally, Unedited 17th Academy Awards footage. Best actor and actress <br/>
-    Academy Awards. Award presentation, Conrad Nagel. Unedited footage <br/>
-    Anna Held. Unedited footage <br/>
-    CBS logo reel <br/>
-    Eddie Cantor and others. Unedited footage <br/>
+    Compilation on Emmanuelle Devos 
+
+    Early balloon footage. 
+
+    World War I patriotic marches. No. 3 
+
+    Ads and tours of Seattle industry 
+
+    Ponselle, Rosa. Screentests. 
+
+    Theodore Roosevelt. 1905 inaugural ceremony. Speeches 
+
+    James Cagney, ca. 1965. Interviews  
+
+      ABC Network fall season preview. 1964-65 season. Unedited footage  
+
+    optionally: Unedited footage. ABC Network fall season preview. 1964-65 season 
+
+    Academy Awards, 17th. Best actor and actress. Unedited footage  
+
+    optionally, Unedited footage. Academy Awards, 17th. Best actor and actress  
+
+    optionally, Unedited 17th Academy Awards footage. Best actor and actress 
+
+    Academy Awards. Award presentation, Conrad Nagel. Unedited footage 
+
+    Anna Held. Unedited footage 
+
+    CBS logo reel 
+
+    Eddie Cantor and others. Unedited footage 
+
     World Series, 1956. Game no. 7. Unedited footage
 
 For unidentified moving images, use the term “unidentified” in the title.
 Use numbers to distinguish separate content when there is more than one unidentified segment in a particular descriptor category.
 
 !!! example "Example"
-    Unidentified cartoon <br/>
-    Unidentified cartoon. Warner Brothers  <br/>
-    optionally: Unidentified Warner Brothers cartoon <br/>
-    Unidentified short about Africa <br/>
-    Unidentified film. James Cagney/Joe E. Brown <br/>
-    Unidentified equestrian film <br/>
-    Unidentified films. Excerpts <br/>
-    Unidentified film. Kay Kyser musical  <br/>
-    optionally: Unidentified Kay Kyser musical <br/>
-    Unidentified film. Warner Brothers. Outtakes <br/>
-    optionally: Unidentified Warner Brothers outtakes <br/>
-    Unidentified film. Western <br/>
-    optionally: Unidentified Western <br/>
-    Unidentified newsreel. Excerpts. Auto race subjects, 1930s <br/>
-    Unidentified newsreel. Native American ritual dances, fifth wheel car, Fremont <br/>
-    High game <br/>
-    Unidentified newsreel, Russian <br/>
-    optionally: Unidentified Russian newsreel <br/>
-    Unidentified shorts <br/>
-    Unidentified television programme. Wrestling. DuMont prod. no. 1757 <br/>
-    Travelogue. Greenland expedition. Unidentified excerpts <br/>
+    Unidentified cartoon 
+
+    Unidentified cartoon. Warner Brothers  
+
+    optionally: Unidentified Warner Brothers cartoon 
+
+    Unidentified short about Africa 
+
+    Unidentified film. James Cagney/Joe E. Brown 
+
+    Unidentified equestrian film 
+
+    Unidentified films. Excerpts 
+
+    Unidentified film. Kay Kyser musical  
+
+    optionally: Unidentified Kay Kyser musical 
+
+    Unidentified film. Warner Brothers. Outtakes 
+
+    optionally: Unidentified Warner Brothers outtakes 
+
+    Unidentified film. Western 
+
+    optionally: Unidentified Western 
+
+    Unidentified newsreel. Excerpts. Auto race subjects, 1930s 
+
+    Unidentified newsreel. Native American ritual dances, fifth wheel car, Fremont 
+
+    High game 
+
+    Unidentified newsreel, Russian 
+
+    optionally: Unidentified Russian newsreel 
+
+    Unidentified shorts 
+
+    Unidentified television programme. Wrestling. DuMont prod. no. 1757 
+
+    Travelogue. Greenland expedition. Unidentified excerpts 
+
     Unidentified television series. Quiz show. Unidentified episodes
 
 For a more comprehensive list of form terms to use with for FULLY or PARTIALLY Supplied/Devised titles, see [List of form terms for Supplied/Devised titles](/appendices/value-lists/list_of_form_terms_for_supplied_devised_titles/#sec-list_of_form_terms_for_supplied_devised_titles).
@@ -685,24 +762,49 @@ The series/serial title may be indicated within (i) the title field itself, or (
 Individual institutions should select which is most appropriate for their own systems and for clarity of identification and retrieval.
 
 !!! example "Example"
-    Work (Serial) – Mary Tyler Moore show <br/> <br/>
-    Work (Monographic) – Chuckles bites the dust <br/> <br/>
-    Manifestation – Chuckles bites the dust <br/> <br/>
+    Work (Serial) – Mary Tyler Moore show 
+
+
+
+    Work (Monographic) – Chuckles bites the dust 
+
+
+
+    Manifestation – Chuckles bites the dust 
+
+
+
     Item – Chuckles bites the dust
 
 OR
 
 !!! example "Example"
-    Work (Serial) – Mary Tyler Moore show <br/> <br/>
-    Work (Monographic) – Mary Tyler Moore show. Chuckles bites the dust <br/> <br/>
-    Manifestation – Mary Tyler Moore show. Chuckles bites the dust <br/> <br/>
+    Work (Serial) – Mary Tyler Moore show 
+
+
+
+    Work (Monographic) – Mary Tyler Moore show. Chuckles bites the dust 
+
+
+
+    Manifestation – Mary Tyler Moore show. Chuckles bites the dust 
+
+
+
     Item – Mary Tyler Moore show. Chuckles bites the dust
 OR
 
 !!! example "Example"
-    Work (Monographic) – Chuckles bites the dust (Preferred title) <br/>
-    Mary Tyler Moore show (Series title) <br/> <br/>
-    Manifestation – Chuckles bites the dust <br/> <br/>                    
+    Work (Monographic) – Chuckles bites the dust (Preferred title) 
+
+    Mary Tyler Moore show (Series title) 
+
+
+
+    Manifestation – Chuckles bites the dust 
+
+
+
     Item – Chuckles bites the dust
 
 <a id="sec-numbered_episodes_of_a_series_serial"></a>
@@ -718,40 +820,87 @@ It is worth bearing in mind that serials are always intended to be viewed in a s
 Therefore serial title, episode numbers, and episode titles are usually included on the Item itself or in secondary sources, and should be reflected in the record to aid in discovery and identification.
 
 !!! example "Example"
-    Flash Gordon’s trip to Mars. Chapter 12. Ming the Merciless <br/> <br/>
-    Work (Serial) – Flash Gordon’s trip to Mars <br/> <br/>
-    Work (Monographic) – Ming the Merciless <br/> <br/>
-    Manifestation – Ming the Merciless <br/> <br/>
-    Item – Ming the Merciless <br/> <br/>
+    Flash Gordon’s trip to Mars. Chapter 12. Ming the Merciless 
+
+
+
+    Work (Serial) – Flash Gordon’s trip to Mars 
+
+
+
+    Work (Monographic) – Ming the Merciless 
+
+
+
+    Manifestation – Ming the Merciless 
+
+
+
+    Item – Ming the Merciless 
+
+
+
     [with “Chapter 12” element being added to a separate relevant Part field]
 
 OR
 
 !!! example "Example"
-    Work (Serial) – Flash Gordon’s trip to Mars <br/> <br/>
-    Work (Monographic) – Flash Gordon’s trip to Mars. <br/>
-    Chapter 12. Ming the Merciless <br/> <br/>
-    Manifestation – Flash Gordon’s trip to Mars. <br/>
-    Chapter 12. Ming the Merciless <br/> <br/>
-    Item – Flash Gordon’s trip to Mars. <br/>
+    Work (Serial) – Flash Gordon’s trip to Mars 
+
+
+
+    Work (Monographic) – Flash Gordon’s trip to Mars. 
+
+    Chapter 12. Ming the Merciless 
+
+
+
+    Manifestation – Flash Gordon’s trip to Mars. 
+
+    Chapter 12. Ming the Merciless 
+
+
+
+    Item – Flash Gordon’s trip to Mars. 
+
     Chapter 12. Ming the Merciless
 
 OR
 
 !!! example "Example"
-    Work (Serial) – Flash Gordon’s trip to Mars <br/> <br/>
-    Work (Monographic) – Ming the Merciless <br/> <br/>
-    Manifestation – Flash Gordon’s trip to Mars. <br/>
-    Chapter 12. Ming the Merciless <br/> <br/>
-    Item – Flash Gordon’s trip to Mars. <br/>
+    Work (Serial) – Flash Gordon’s trip to Mars 
+
+
+
+    Work (Monographic) – Ming the Merciless 
+
+
+
+    Manifestation – Flash Gordon’s trip to Mars. 
+
+    Chapter 12. Ming the Merciless 
+
+
+
+    Item – Flash Gordon’s trip to Mars. 
+
     Chapter 12. Ming the Merciless
 
 The same principle can be applied to episodes of a series/serial that do not have their own individual titles but have numbered parts.
 
 !!! example "Example"
-    Work (Serial) – Pride and prejudice <br/> <br/>
-    Work (Monographic) – Pride and prejudice. Part One <br/> <br/>
-    Manifestation – Pride and prejudice. Part One <br/> <br/>
+    Work (Serial) – Pride and prejudice 
+
+
+
+    Work (Monographic) – Pride and prejudice. Part One 
+
+
+
+    Manifestation – Pride and prejudice. Part One 
+
+
+
     Item – Pride and prejudice. Part One
 
 Reflect the Part term used in any source of information, for example, “part,” “chapter,” “episode,” etc. Equally, if the number is in numerals then use those, and if alphabetical, i.e. One, Two, Three, etc., use those.
@@ -845,23 +994,29 @@ Alternatively, the component titles can be listed in a Summary or Description fi
 Should the Item acquired incorporate more than one inter-titled component, for example only reel 2 of a 2 reel Item is acquired that includes both *70th birthday of US coast to coast railway* and *Princesses play with baby pandas*, then a different approach may be taken. This would involve using the title of the appropriate Manifestation pertaining to the whole newsreel issue and adding qualifying details, optionally in square brackets, as a second element of the title to create a title for the Item.
 
 !!! example "Example"
-    British Paramount news No. 856. [Reel 2] <br/>
-    British Paramount news No.856. (Reel 2) <br/>
+    British Paramount news No. 856. [Reel 2] 
+
+    British Paramount news No.856. (Reel 2) 
+
     British Paramount news No.856. Reel 2
 
 OR
 
 !!! example "Example"
-    British Paramount news No.856. [Incomplete] <br/>
-    British Paramount news No.856. (Incomplete) <br/>
+    British Paramount news No.856. [Incomplete] 
+
+    British Paramount news No.856. (Incomplete) 
+
     British Paramount news No.856. Incomplete
 [INSERT DIAGRAM BPN 5. In Analytics/Components of identified newsreels/cinemagazines HERE]
 
 With any inter-title designations on the print then added as alternative type titles.
 
 !!! example "Example"
-    Preferred Title: British Paramount news No. 856. [Reel 2] <br/>
-    Alternative Title : 70th birthday of US coast to coast railway <br/>
+    Preferred Title: British Paramount news No. 856. [Reel 2] 
+
+    Alternative Title : 70th birthday of US coast to coast railway 
+
     Alternative Title : Princesses play with baby pandas
 
 Alternatively, the titles of each analytic/component may be included in a notes and/or contents field.

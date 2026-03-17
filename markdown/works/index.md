@@ -30,19 +30,23 @@ Works include:
 *Moving Image realisations based on new scripts or adapted from pre-existing textual works such as novels, plays, etc.*
 
 !!! example "Example"
-    Hamlet (UK, 1948, Laurence Olivier) <br/>  
+    Hamlet (UK, 1948, Laurence Olivier) 
+
     Hamlet (United States of America, 1996, Kenneth Branagh)
 
 !!! example "Example"
-    Les misérables (France, 1958, Jean-Paul Le Chanois)    <br/>
+    Les misérables (France, 1958, Jean-Paul Le Chanois)    
+
     Les misérables (United States of America, 1998, Bille August)
 
 !!! example "Example"
-    Trollflöjten (Sweden, 1975, Ingmar Bergman)    <br/>
+    Trollflöjten (Sweden, 1975, Ingmar Bergman)    
+
     Il flauto magico (Italy, 1976, Giulio Gianini and Emanuele Luzzati)
 
 !!! example "Example"
-    Tosca (Italy, 1939, Karl Koch)    <br/>
+    Tosca (Italy, 1939, Karl Koch)    
+
     Tosca (Italy, 1973, Luigi Magni)
 
 *Moving Image realisations of scheduled performances or events such as concerts, original theatre performances, sports events, etc.[^4] These are distinguished from cinematically staged theatrical or musical events for the purpose of creating a unique moving image work such as the Tosca and Hamlet examples provided above.*
@@ -51,7 +55,8 @@ Works include:
     Simon and Garfunkel: The Concert in Central Park (United States of America, 1982, Michael Lindsay-Hogg)
 
 !!! example "Example"
-    Olympia 1. Teil – Fest der Völker (Germany, 1938, Leni Riefenstahl) <br/>
+    Olympia 1. Teil – Fest der Völker (Germany, 1938, Leni Riefenstahl) 
+
     Olympia 2. Teil – Fest der Schönheit (Germany, 1938, Leni Riefenstahl)
 
 !!! example "Example"

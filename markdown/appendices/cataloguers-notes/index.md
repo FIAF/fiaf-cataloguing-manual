@@ -26,22 +26,26 @@ In general, make the following notes, if they are considered to be important:[^4
 - notes differentiating WVMI entities with similar titles
 
 !!! example "Example"
-    sex, lies and videotape (United States of America, 1989) <br/>
+    sex, lies and videotape (United States of America, 1989) 
+
     Title represented onscreen in lower-case.
 
 !!! example "Example"
     Herr der Ringe Die Zwei Türme (Germany, New Zealand, United States of America, 2002, Peter Jackson) Part II of trilogy. Majority German financing nationality confirmed, thus German title assigned as Preferred title and The Lord of the Rings The Fellowship of the Ring as Alternative.
 
 !!! example "Example"
-    Le cœur de la France (France, 1967, Roger Leenhardt) <br/>
+    Le cœur de la France (France, 1967, Roger Leenhardt) 
+
     The word “cœur” does not actually appear in the title, but is represented by a heart-shaped symbol.
 
 !!! example "Example"
-    Carlyle Films (production company) <br/>
+    Carlyle Films (production company) 
+
     Not to be confused with Carlyle Corporate Communications who also trade as Carlyle Films
 
 !!! example "Example"
-    Harrison Ford (actor) Silent film actor, retired from the screen in 1932. <br/>
+    Harrison Ford (actor) Silent film actor, retired from the screen in 1932. 
+
     Harrison Ford (actor) Not to be confused with the silent movie actor of the 1920s of the same name.
 
 The following instructions for notes should be considered neither all-inclusive nor mandatory. The number and type of notes included in a description must be dictated by the moving images being described and the needs of the individual institution.[^5]

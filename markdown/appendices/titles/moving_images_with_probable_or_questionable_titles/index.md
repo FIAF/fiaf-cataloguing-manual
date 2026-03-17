@@ -17,25 +17,34 @@ Some institutions may use the probable or questionable title as the preferred ti
 Example concerning an Archive holding a copy of the Italian version of an unidentified American silent comedy, with Italian intertitles [^2] [^3]:
 
 !!! example "Example"
-    Primary Title on Item: Title proper – Nipote Modello <br/>
-    Primary Title for Manifestation: Title proper – Nipote Modello <br/>
-    Primary Title for Variant: Preferred title – Nipote Modello <br/>
+    Primary Title on Item: Title proper – Nipote Modello 
+
+    Primary Title for Manifestation: Title proper – Nipote Modello 
+
+    Primary Title for Variant: Preferred title – Nipote Modello 
+
     Primary Title for Work: Supplied/devised title – Unidentified film. Silent American comedy
 
 or
 
 !!! example "Example"
-    Primary Title on Item: Title proper – Nipote Modello <br/>
-    Primary Title for Manifestation/Item record: Title proper – Nipote Modello <br/>
-    Primary Title for Variant record: Preferred title – Nipote Modello <br/>
+    Primary Title on Item: Title proper – Nipote Modello 
+
+    Primary Title for Manifestation/Item record: Title proper – Nipote Modello 
+
+    Primary Title for Variant record: Preferred title – Nipote Modello 
+
     Primary Title for Work: Supplied/devised title – Unidentified silent American Comedy. Nipote Modello
 
 or
 
 !!! example "Example"
-    Primary Title on Item: Title proper – Nipote Modello <br/>
-    Primary Title for Manifestation/Item record: Title proper – Nipote Modello <br/>
-    Primary Title for Variant record: Preferred title – Nipote Modello <br/>
+    Primary Title on Item: Title proper – Nipote Modello 
+
+    Primary Title for Manifestation/Item record: Title proper – Nipote Modello 
+
+    Primary Title for Variant record: Preferred title – Nipote Modello 
+
     Primary Title for Work record: Preferred title – Nipote Modello
 
 The treatment of probable or questionable titles may vary among institutions.

@@ -36,10 +36,14 @@ Alternatively some systems (for example, those containing MARC21 records) indica
 Alternative practices | ISBD practice
 
 !!! example "Example"
-    Die Hard | Die hard    <br/>
-    Die DREIGROSCHENOPER | Die Dreigroschenoper    <br/>
-    LES PATTERSON SAVES THE WORLD | Les Patterson saves the world     <br/>
-    Les MISERABLES | Les miserables    <br/>
+    Die Hard | Die hard    
+
+    Die DREIGROSCHENOPER | Die Dreigroschenoper    
+
+    LES PATTERSON SAVES THE WORLD | Les Patterson saves the world     
+
+    Les MISERABLES | Les miserables    
+
     American in Paris, An | An American in Paris
 
 MARC21 tag

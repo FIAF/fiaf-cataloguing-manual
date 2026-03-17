@@ -29,14 +29,17 @@ The example below shows a number of possible Manifestations of the original Ital
 *Change in format.[^2]*
 
 !!! example "Example"
-    Il gattopardo (Italy, France, Luchino Visconti, 1963) <br/>
-    Theatrical release, 35mm, Cinemascope – aspect ratio 2,35 : 1 <br/>
+    Il gattopardo (Italy, France, Luchino Visconti, 1963) 
+
+    Theatrical release, 35mm, Cinemascope – aspect ratio 2,35 : 1 
+
     Theatrical release, 70mm, Cinemascope – aspect ratio 2,20 : 1
 
 *Change in format and publication context.*
 
 !!! example "Example"
-    Il gattopardo (Luchino Visconti, 1963) <br/>
+    Il gattopardo (Luchino Visconti, 1963) 
+
     Home video publication, DVD – aspect ratio 2,21 :1 – Medusa Video, Italia, 00/00/2009
 
 In-house copying of an institution’s holding onto a different format, e.g. a video transfer of a 35mm film does not necessitate creation of a new Manifestation.

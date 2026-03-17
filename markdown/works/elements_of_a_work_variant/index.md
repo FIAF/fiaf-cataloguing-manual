@@ -38,20 +38,25 @@ It is critical that each Identifier be unique.
 *Pietro Fosco is the pseudonym of Giovanni Pastrone used in the ISAN registration.*
 
 !!! example "Example"
-    Cabiria (Italy, 1914, Piero Fosco)  <br/>
+    Cabiria (Italy, 1914, Piero Fosco)  
+
     Work identifier – ISAN number: ISAN 0000-0000-7B37-0000-J-0000-0000-H
 
 !!! example "Example"
-    Volver (Spain, 2006, Pedro Almodovar)  <br/>
+    Volver (Spain, 2006, Pedro Almodovar)  
+
     Work identifier – ISAN number: ISAN 0000-0001-6B16-0000-Y-0000-0000-9
 
 !!! example "Example"
-    Metropolis (Germany, 1927, Fritz Lang)  <br/>
+    Metropolis (Germany, 1927, Fritz Lang)  
+
     Work identifier – VIAF number: 219448355
 
 !!! example "Example"
-    The boxer (United States, Ireland, 1997, Jim Sheridan)  <br/>
-    Work identifier – EIDR number: 10.5240/5896-B203-017D-11A5-EB7F-W  <br/>
+    The boxer (United States, Ireland, 1997, Jim Sheridan)  
+
+    Work identifier – EIDR number: 10.5240/5896-B203-017D-11A5-EB7F-W  
+
     Work identifier – ISAN number: 0000-0000-60A5-0000-E-0000-0000-W
 
 <a id="sec-work_identifier_type"></a>
@@ -59,10 +64,14 @@ It is critical that each Identifier be unique.
 If an institution’s system allows, a "Type" can be applied with an Identifier to define the source of the Identifier. 
 
 !!! example "Example"
-    The boxer (United States, Ireland, 1997, Jim Sheridan) <br/>
-    Work identifier: 10.5240/5896-B203-017D-11A5-EB7F-W <br/>
-    Identifier type: EIDR <br/>
-    Work identifier: 0000-0000-60A5-0000-E-0000-0000-W <br/>
+    The boxer (United States, Ireland, 1997, Jim Sheridan) 
+
+    Work identifier: 10.5240/5896-B203-017D-11A5-EB7F-W 
+
+    Identifier type: EIDR 
+
+    Work identifier: 0000-0000-60A5-0000-E-0000-0000-W 
+
     Identifier type: ISAN
 
 <a id="sec-work_title"></a>
@@ -80,32 +89,46 @@ This may be via use of a “Title type” qualifier.
 See [Titles and structuring of series/serials](/appendices/titles/title_types/#sec-titles_of_series_serials) for other options.
 
 !!! example "Example"
-    Gone with the wind (United States of America, 1939, Victor Fleming) <br/>
-    Gone with the wind – Preferred Title of the Work <br/>
-    Via col vento – Variant title – Dubbed (Italian) <br/>
-    Gejaagd door de win – Variant title – Dubbed (Dutch) <br/>
-    Autant en emporte le vent – Variant title – Dubbed – (French) <br/>
+    Gone with the wind (United States of America, 1939, Victor Fleming) 
+
+    Gone with the wind – Preferred Title of the Work 
+
+    Via col vento – Variant title – Dubbed (Italian) 
+
+    Gejaagd door de win – Variant title – Dubbed (Dutch) 
+
+    Autant en emporte le vent – Variant title – Dubbed – (French) 
+
     風と共に去りぬ – Variant title – Dubbed (Japanese)
 
 !!! example "Example"
-    Аленький цветочек (USSR, 1952, Lev Atamanov) <br/>
-    Аленький цветочек – Title of the Work <br/>
-    Alenkiy tsvetochek: Alternative (transliterated) title of Work/ Variant (Preferred title if systems don’t use Cyrillic) <br/>
-    Feuerrotes Blümchen – Variant title – Dubbed (German) <br/>
+    Аленький цветочек (USSR, 1952, Lev Atamanov) 
+
+    Аленький цветочек – Title of the Work 
+
+    Alenkiy tsvetochek: Alternative (transliterated) title of Work/ Variant (Preferred title if systems don’t use Cyrillic) 
+
+    Feuerrotes Blümchen – Variant title – Dubbed (German) 
+
     The Scarlet Flower – Variant title – Dubbed (English)
 
 !!! example "Example"
-    La passeggiata (Italy, 1953, Renato Rascel) <br/>
-    La passeggiata – Preferred Title of the Work <br/>
+    La passeggiata (Italy, 1953, Renato Rascel) 
+
+    La passeggiata – Preferred Title of the Work 
+
     La prospettiva – Alternative title (Working title)
 
 !!! example "Example"
-    Anathan (Japan, 1953, Joseph von Sternberg) <br/>
-    Anathan – Preferred Title of the Work <br/>
+    Anathan (Japan, 1953, Joseph von Sternberg) 
+
+    Anathan – Preferred Title of the Work 
+
     The saga of Anathan – Alternative Title of the Work/Variant
 
 !!! example "Example"
-    Mary Tyler Moore show – Series title <br/>
+    Mary Tyler Moore show – Series title 
+
     Chuckles bites the dust – Preferred title
 
 See [Title](/appendices/titles/#sec-appendix_title) for fuller titling details and information.
@@ -238,29 +261,37 @@ If ISO formatting and/or the Date Precision qualifier are not applied, then use 
 *Probable Year (with qualifying note to indicate date is probably 1969)*
 
 !!! example "Example"
-    [1969?] <br/>
-    1969? <br/>
+    [1969?] 
+
+    1969? 
+
     Circa 1969
 
 *Approximate Year*
 
 !!! example "Example"
-    [Circa 1960] <br/>
-    Circa 1960 <br/>
+    [Circa 1960] 
+
+    Circa 1960 
+
     1960 circa
 
 *Decade Certain*
 
 !!! example "Example"
-    191- <br/>
-    Decade 1910 <br/>
+    191- 
+
+    Decade 1910 
+
     1910 decade
 
 *Probable Decade (with qualifying note to indicate that date is probable decade date)*
 
 !!! example "Example"
-    [191-?] <br/>
-    1910 decade <br/>
+    [191-?] 
+
+    1910 decade 
+
     Decade 1910
 
 *Use for time spans, the outside limits of which can be precisely determined*
@@ -276,7 +307,8 @@ If ISO formatting and/or the Date Precision qualifier are not applied, then use 
 In instances such as these, a note should be given which further explains the Date.
 
 !!! example "Example"
-    [Personal record. Eugene Meyer family. Family camping trip through the Canadian Rockies]. -- US, 1926. <br/>
+    [Personal record. Eugene Meyer family. Family camping trip through the Canadian Rockies]. -- US, 1926. 
+
     [Note] Year from notes accompanying item, attached to inventory, and from Merlo Pusey’s Eugene Meyer, (New York: Knopf, 1974), p.195
 
 <a id="sec-languages"></a>

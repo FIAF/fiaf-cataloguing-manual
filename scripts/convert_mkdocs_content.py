@@ -259,9 +259,18 @@ def convert_tcolorbox(text: str) -> str:
         lines = []
         for line in inner.strip().splitlines():
             line = re.sub(r"\\indent\\hspace\{[^}]+\}\s*", "", line)
-            line = line.replace("\\\\", "<br/>")
-            line = convert_latex_inline(line)
-            lines.append(line)
+            parts = line.split("\\\\")
+            # A trailing \\ produces an empty last part; remove it but still
+            # emit a blank line so the break renders as a paragraph separator.
+            has_trailing_break = len(parts) > 1 and not parts[-1].strip()
+            if has_trailing_break:
+                parts = parts[:-1]
+            for j, part in enumerate(parts):
+                if j > 0:
+                    lines.append("")  # blank line between \\ separated parts
+                lines.append(convert_latex_inline(part))
+            if has_trailing_break:
+                lines.append("")  # blank line after trailing \\
         if not lines:
             return '!!! example "Example"\n'
         # MkDocs Material admonition: 4-space indent

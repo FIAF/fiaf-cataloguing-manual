@@ -36,26 +36,40 @@ In most cases the statement of responsibility or name was not intended to be par
 Create alternative titles for cases where, in the judgment of the cataloguer, such titles would be helpful points of access.
 
 !!! example "Example"
-    Work <br/>
-    Preferred title: Victor/Victoria <br/>
+    Work 
+
+    Preferred title: Victor/Victoria 
+
     Alternative title: Blake Edwards’ Victor/Victoria (title from onscreen)
 
 !!! example "Example"
-    Work <br/>
-    Preferred title: Il Casanova di Federico Fellini <br/>
-    Alternative (Parallel) title: Fellini’s Casanova <br/>
-    Alternative title: Casanova <br/>
-    Variant <br/>
-    Preferred title for English language version: Fellini’s Casanova <br/> 
-    (Research indicates that the possessive form of proper name <br/>
-    is part of the English release title.) <br/>
-    Alternative (Parallel) title for English language version: <br/>
-    Il Casanova di Federico Fellini <br/>
+    Work 
+
+    Preferred title: Il Casanova di Federico Fellini 
+
+    Alternative (Parallel) title: Fellini’s Casanova 
+
+    Alternative title: Casanova 
+
+    Variant 
+
+    Preferred title for English language version: Fellini’s Casanova 
+
+    (Research indicates that the possessive form of proper name 
+
+    is part of the English release title.) 
+
+    Alternative (Parallel) title for English language version: 
+
+    Il Casanova di Federico Fellini 
+
     Alternative title: Casanova
 
 !!! example "Example"
-    Work/Variant/Manifestation/Item <br/>
-    Preferred title: Fisherman’s luck? <br/>
+    Work/Variant/Manifestation/Item 
+
+    Preferred title: Fisherman’s luck? 
+
     Alternative (Part) title: Gandy Goose in Fisherman’s luck?
 
 <a id="sec-possessives"></a>
@@ -79,33 +93,42 @@ Where numbers, symbols (e.g. ½, &, +, %) or other characters (e.g. £, $, °) e
 An alternative title should also be added giving the numbers, symbols or characters in writing (in the language of origin) to assist in searching and sorting for list production.
 
 !!! example "Example"
-    8½ [Preferred/Title Proper] <br/>
+    8½ [Preferred/Title Proper] 
+
     Otto e mezzo [Alternative]
 
 !!! example "Example"
-    Catch-22 [Preferred/Title Proper] <br/>
+    Catch-22 [Preferred/Title Proper] 
+
     Catch Twenty-two [Alternative]
 
 !!! example "Example"
-    37°2 le matin [Preferred/Title Proper] <br/>
-    Trente sept deux degrees le matin [Alternative] <br/>
-    Trente-sept deux le matin [Alternative] <br/>
+    37°2 le matin [Preferred/Title Proper] 
+
+    Trente sept deux degrees le matin [Alternative] 
+
+    Trente-sept deux le matin [Alternative] 
+
     37.2 degrees in the morning [Alternative]
 
 !!! example "Example"
-    The £25,000 kiss [Preferred/Title Proper] <br/>
+    The £25,000 kiss [Preferred/Title Proper] 
+
     The twenty five thousand pounds kiss [Alternative]
 
 !!! example "Example"
-    Se7en [Preferred/Title Proper] <br/>
+    Se7en [Preferred/Title Proper] 
+
     Seven [Alternative]
 
 Where possible a word should be used as a substitute when creating the title if a symbol or graphic design used cannot be replicated, with a note explaining this.
 See [Notes](/variants/elements_of_a_variant/#sec-notes).
 
 !!! example "Example"
-    I [heart] Huckabees [Preferred/Title Proper] <br/>
-    I love Huckabees [Alternative or Non-preferred] <br/>
+    I [heart] Huckabees [Preferred/Title Proper] 
+
+    I love Huckabees [Alternative or Non-preferred] 
+
     (Onscreen title shows a heart symbol for the middle word.) [Note]
 
 Moving images created for social media platforms and sites, e.g. YouTube, TikTok, etc. can often use mixtures of capitalisation and characters, symbols, and emojis in the titles given to them on their uploaded entries. Institutions are already starting to acquire materials from these sources, so should decide on the titling principles and stylistics they will follow and apply systematically.
@@ -117,8 +140,10 @@ Sometimes the titling of these can be challenging because they frequently do not
 An institution may decide to keep the title in full and exactly as laid out for their main preferred title proper, as with the above example; or, may decide to standardise capitalisation in line with their existing practice for the main preferred title proper, e.g.  
 
 !!! example "Example"
-    ASMR Hello Kitty toys surprise unboxing 5 hours !! Sanrio mystery blind boxes mini toys [Preferred/Title Proper] <br/>
-    ASMR HELLO KITTY TOYS SURPRISE UNBOXING 5 HOURS !! HUGE Sanrio Mystery Blind Boxes mini toys [Alternative or Non-preferred] <br/>
+    ASMR Hello Kitty toys surprise unboxing 5 hours !! Sanrio mystery blind boxes mini toys [Preferred/Title Proper] 
+
+    ASMR HELLO KITTY TOYS SURPRISE UNBOXING 5 HOURS !! HUGE Sanrio Mystery Blind Boxes mini toys [Alternative or Non-preferred] 
+
     (Alternative title capitalisation and punctuation reflects that of the YouTube site title) [Note]
 Or further decide to remove unusual punctuations in the middle that may create searching and access issues in their systems.
 
@@ -129,16 +154,21 @@ Some social media platform titling incorporates identifying # key words, which i
 An actual bread emoji is used within the title on YouTube, so as with the I love Huckabees example above, titling options include
 
 !!! example "Example"
-    Part 3. Toast [bread emoji] mukbang\#asmr\#mukbang\#food\#eating\#toast\#bread\#shorts\#viralvideo\#fyp [Preferred/Title Proper] <br/>
-    Part 3. Toast mukbang\#asmr\#mukbang\#food\#eating\#toast\#bread\#shorts\#viralvideo\#fyp [Alternative or Non-preferred] <br/>
+    Part 3. Toast [bread emoji] mukbang\#asmr\#mukbang\#food\#eating\#toast\#bread\#shorts\#viralvideo\#fyp [Preferred/Title Proper] 
+
+    Part 3. Toast mukbang\#asmr\#mukbang\#food\#eating\#toast\#bread\#shorts\#viralvideo\#fyp [Alternative or Non-preferred] 
+
     (A bread emoji features after the word Toast in the YouTube site title.) [Note]
 
 Or
 
 !!! example "Example"
-    Part 3. Toast [bread emoji] mukbang [Preferred/Title Proper] <br/>
-    Part 3. Toast mukbang [Alternative or Non-preferred] <br/>
-    Part 3. Toast mukbang\#asmr\#mukbang\#food\#eating\#toast\#bread\#shorts\#viralvideo\#fyp [Alternative or Non-preferred] <br/>
+    Part 3. Toast [bread emoji] mukbang [Preferred/Title Proper] 
+
+    Part 3. Toast mukbang [Alternative or Non-preferred] 
+
+    Part 3. Toast mukbang\#asmr\#mukbang\#food\#eating\#toast\#bread\#shorts\#viralvideo\#fyp [Alternative or Non-preferred] 
+
     (A bread emoji features after the word Toast in the YouTube site title, and the second alternative title reflects the full titling on YouTube) [Note]
 
 

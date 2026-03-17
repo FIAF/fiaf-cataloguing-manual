@@ -15,6 +15,8 @@ Give an explanatory note for the addition, if necessary.
 Optionally, enclose the cataloguer’s description in square brackets.
 
 !!! example "Example"
-    Original Chinese Title: 精武英雄    <br/>
-    Transliterated Pinyin Title: Jīng wǔ yīngxióng    <br/>
+    Original Chinese Title: 精武英雄    
+
+    Transliterated Pinyin Title: Jīng wǔ yīngxióng    
+
     English Translated Title: Fist of Legend

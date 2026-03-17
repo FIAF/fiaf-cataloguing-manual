@@ -11,23 +11,31 @@ If one or more identifiers are available, record each according to its standardi
 The following examples reflect both 3 and 4 level hierarchies, i.e. ones that use Variants and ones that do not have Variants but utilise Manifestations instead.
 
 !!! example "Example"
-    Lola rennt (Germany, 1998, Tom Tykwer) <br/>
-    Work identifier: ISAN 0000-0000-606A-0000-0-0000-0000-3 <br/>
-    Variant identifier (original German): ISAN 0000-0000-606A-0000-0-0000-0002-0 <br/>
+    Lola rennt (Germany, 1998, Tom Tykwer) 
+
+    Work identifier: ISAN 0000-0000-606A-0000-0-0000-0000-3 
+
+    Variant identifier (original German): ISAN 0000-0000-606A-0000-0-0000-0002-0 
+
     Manifestation identifier: Home video publication (2007) – Run Lola Run – DVD – English – V-ISAN: ISAN 0000-0000-606A-0000-0-0000-0001-1 (DVD-31943)
 
 !!! example "Example"
-    Shichinin no samurai (Japan, 1954, Akira Kurosawa) <br/>
-    Work identifier: ISAN 0000-0001-61AE-0000-1-0000-0001-W <br/>
+    Shichinin no samurai (Japan, 1954, Akira Kurosawa) 
+
+    Work identifier: ISAN 0000-0001-61AE-0000-1-0000-0001-W 
+
     Variant identifier (Dubbed Spanish – Castellano): Los Siete Samurai: ISAN 0000-0001-61AE-0000-1-0000-0001-W
 
 !!! example "Example"
-    Les chevaliers du ciel (France, 2005, Gérard Pirès) <br/>
+    Les chevaliers du ciel (France, 2005, Gérard Pirès) 
+
     Manifestation identifier: Home video publication – DVD – Fox Pathé Europa (publisher) – 2006 – ISAN 0000-0001-8CFA-0000-I-0000-000-
 
 !!! example "Example"
-    8 1/2 (Italy, 1962, Federico Fellini) Otto e mezzo – Alternative title of the Work <br/>
-    Work identifier: ISAN 0000-0000-161F-0000-W-0000-0000-F <br/>
+    8 1/2 (Italy, 1962, Federico Fellini) Otto e mezzo – Alternative title of the Work 
+
+    Work identifier: ISAN 0000-0000-161F-0000-W-0000-0000-F 
+
     Manifestation identifier: V- ISAN 0000-0000-161F-0000-W-0000-0002-B – Italian (spoken); Japanese (subtitles) – DVD – Blu-ray – 2013/01/11 – Japan)
 
 <a id="sec-manifest_identifier_type"></a>
@@ -84,15 +92,18 @@ A suggested list, which is open and not exhaustive, can be found in [Language Us
 If usage type(s) cannot be determined, indicate a value of “unknown”.
 
 !!! example "Example"
-    Caccia tragica (Italy, Giuseppe De Santis, 1947) <br/>
+    Caccia tragica (Italy, Giuseppe De Santis, 1947) 
+
     Not for release (archival) – 35mm – Italian (spoken), Romanian (intertitles)
 
 !!! example "Example"
-    New York stories, (United States of America, Woody Allen, Francis Ford Coppola, Martin Scorsese, 1989 <br/>
+    New York stories, (United States of America, Woody Allen, Francis Ford Coppola, Martin Scorsese, 1989 
+
     Home video publication – DVD, English (spoken); – Italian, German; English, Italian, German, French, Spanish (subtitles) – Buena Vista (publisher), 2002/05/16
 
 !!! example "Example"
-    The Bridge. Episode 1 (Sweden, Denmark, Charlotte Sieling, 2011) <br/>
+    The Bridge. Episode 1 (Sweden, Denmark, Charlotte Sieling, 2011) 
+
     TV broadcast – United Kingdom, 2012-04-21 - Swedish (Dialogue (original)), Danish (Dialogue (original)), English (Subtitles)
 
 <a id="sec-format_of_a_moving_image_manifestation"></a>
@@ -167,11 +178,16 @@ Institutions should develop standard lists of terms to indicate the specific car
 For optical media, only add commercially produced media here. If the optical media is “writable” and is being used to store a digital file, put the digital file format in the General Carrier Type, and the optical storage media in Specific.
 
 !!! example "Example"
-    YEE ([http://myee.bol.ucla.edu/catrul.doc](http://myee.bol.ucla.edu/catrul.doc)) 5.3.3 (physical carriers) <br/>
-    AMIM2 5D, pp. 18-19 (for gauges/width values) <br/>
-    AMIM2 5B7, pp. 10-11 (including both “tape” and “disc” based video formats). <br/>
-    RDA 3.20; YEE ([http://myee.bol.ucla.edu/catrul.doc](http://myee.bol.ucla.edu/catrul.doc)) 5.3.14 (for encoding formats). <br/>
-    PBCore instantiationPhysical [http://metadataregistry.org/concept/list/vocabulary_id/145.html](http://metadataregistry.org/concept/list/vocabulary_id/145.html) (for physical carriers) <br/>
+    YEE ([http://myee.bol.ucla.edu/catrul.doc](http://myee.bol.ucla.edu/catrul.doc)) 5.3.3 (physical carriers) 
+
+    AMIM2 5D, pp. 18-19 (for gauges/width values) 
+
+    AMIM2 5B7, pp. 10-11 (including both “tape” and “disc” based video formats). 
+
+    RDA 3.20; YEE ([http://myee.bol.ucla.edu/catrul.doc](http://myee.bol.ucla.edu/catrul.doc)) 5.3.14 (for encoding formats). 
+
+    PBCore instantiationPhysical [http://metadataregistry.org/concept/list/vocabulary_id/145.html](http://metadataregistry.org/concept/list/vocabulary_id/145.html) (for physical carriers) 
+
     PBCore instantiationDigital ([http://pbcore.org/pbcoreinstantiation/instantiationdigital/](http://pbcore.org/pbcoreinstantiation/instantiationdigital/)) (for broad digital formats)
 
 Additional sources of information include several SMPTE standards, engineering guidelines, and recommended practices. These are some of the most common terms, but not a complete or definitive list.
@@ -341,8 +357,10 @@ Logical extent is the number of discrete logical units which make up the Manifes
 For digital Manifestations, there can be two extents: one for the number of files, and one for the extent of the carrier (e.g., 2 LTO6 tapes).
 
 !!! example "Example"
-    A home video publication: DVD in 2 discs <br/>
-    A theatrical print: in 6 reels <br/>
+    A home video publication: DVD in 2 discs 
+
+    A theatrical print: in 6 reels 
+
     A hard-disk stored film in 3 files
 
 Record the number of the logical units of a Manifestation in Arabic numerals, and, if necessary, specify the type of unit. Selection should be made from a controlled list of terms, e.g:
@@ -413,7 +431,8 @@ For Aggregate Manifestations record the duration of the whole, i.e. the total ru
 In addition there is the option to qualify this with details of the duration of each individual unit in either a Notes field, or in multiple occurrences of the duration fields, depending on what systems used permit or an institution decides.
 
 !!! example "Example"
-    DVD “The Audrey Hepburn Collection” contains 3 films, all with extra features. The running times for each of those 3 units are given on the container. <br/>
+    DVD “The Audrey Hepburn Collection” contains 3 films, all with extra features. The running times for each of those 3 units are given on the container. 
+
     The total running time of these may be added as duration, with an additional clarifying note detailing the running times of the individual units.
 
 For more information about Aggregates see [Aggregates (Compilations, Multi-component productions)](/appendices/aggregates/).

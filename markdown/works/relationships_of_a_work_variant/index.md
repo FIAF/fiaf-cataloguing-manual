@@ -48,53 +48,117 @@ Subject - reflects the content of the Work, what it features and what it is abou
 There are no rules as to how many genre and subject terms can be associated with a Work. It will be different from moving image to moving image and down to the assessment of the individual cataloguer within the levels of subject cataloguing decided by their institution.
 
 !!! example "Example"
-    **Main title** <br/> 
-    A trip down Market Street before the fire / [Miles Brothers]. <br/> <br/>
-    **Published/Created**  <br/>
-    United States. [United States : Miles Brothers, 1906]. <br/> <br/>
-    **Summary**  <br/>
-    The following is a scene-by-scene description of the film: [Frame: 0300 (part 1)] The film begins looking northeast on Market Street just west of the intersection of Hyde, Grove and 8th streets. The dark building at right is the Odd Fellows Hall and the grey building beyond (across 8th St.) is the Grant Building (1905). A white postal service automobile is at left center. The three large buildings receding down Market Street at left are [0319 (part 1)] the Murphy Building (1889), [0353 (part 1)] the Donohoe Building (1890), and the Flood Building (1905). [etc.; this is an excerpt from the full record.] <br/> <br/>
-    **Subjects** <br/>
-    Market Street (San Francisco, Calif.) <br/>
-    Street-railroads--California--San Francisco. <br/>
-    Horse-drawn vehicles--California--San Francisco. <br/>
-    City traffic--California--San Francisco. <br/>
-    Pedestrians--California--San Francisco. <br/>
-    Automobiles--California--San Francisco. <br/> <br/>
-    **Form/Genre** <br/>
-    Actualities (Motion pictures) <br/>
-    Short films. <br/>
-    Silent films. <br/>
+    **Main title** 
+
+    A trip down Market Street before the fire / [Miles Brothers]. 
+
+
+
+    **Published/Created**  
+
+    United States. [United States : Miles Brothers, 1906]. 
+
+
+
+    **Summary**  
+
+    The following is a scene-by-scene description of the film: [Frame: 0300 (part 1)] The film begins looking northeast on Market Street just west of the intersection of Hyde, Grove and 8th streets. The dark building at right is the Odd Fellows Hall and the grey building beyond (across 8th St.) is the Grant Building (1905). A white postal service automobile is at left center. The three large buildings receding down Market Street at left are [0319 (part 1)] the Murphy Building (1889), [0353 (part 1)] the Donohoe Building (1890), and the Flood Building (1905). [etc.; this is an excerpt from the full record.] 
+
+
+
+    **Subjects** 
+
+    Market Street (San Francisco, Calif.) 
+
+    Street-railroads--California--San Francisco. 
+
+    Horse-drawn vehicles--California--San Francisco. 
+
+    City traffic--California--San Francisco. 
+
+    Pedestrians--California--San Francisco. 
+
+    Automobiles--California--San Francisco. 
+
+
+
+    **Form/Genre** 
+
+    Actualities (Motion pictures) 
+
+    Short films. 
+
+    Silent films. 
+
     Nonfiction films.
 
 !!! example "Example"
-    **Main title**  <br/>
-    Mardi Gras parade -- US : Thomas A. Edison, Inc. [producer, distributor], [190-?].  <br/> <br/>
-    **Summary**  <br/>
-    Early actuality footage, shot from a single location on a street in New Orleans, showing a Mardi Gras parade. Mule drawn floats, children and adults in costumes, and brass bands march down the street, as crowds of spectators mill about the sidewalks, sometimes spilling into the street. <br/> <br/>
-    **Subjects**  <br/>
-    1. Carnival -- Louisiana -- New Orleans. 2. Parades -- Louisiana – New Orleans. 3. Holidays. <br/> <br/>
-    **Genres**  <br/>
+    **Main title**  
+
+    Mardi Gras parade -- US : Thomas A. Edison, Inc. [producer, distributor], [190-?].  
+
+
+
+    **Summary**  
+
+    Early actuality footage, shot from a single location on a street in New Orleans, showing a Mardi Gras parade. Mule drawn floats, children and adults in costumes, and brass bands march down the street, as crowds of spectators mill about the sidewalks, sometimes spilling into the street. 
+
+
+
+    **Subjects**  
+
+    1. Carnival -- Louisiana -- New Orleans. 2. Parades -- Louisiana – New Orleans. 3. Holidays. 
+
+
+
+    **Genres**  
+
     1. Actualities. 2. Shorts.
 
 !!! example "Example"
-    **Main title**  <br/>
-    British Canadian Pathe news. No. 83A / L.E. Ouimet presents. -- CA : British Canadian Pathe News [producer], 1919 ; CA : Specialty Film Ltd. [distributor], 1919. <br/> <br/>
-    **Contents**  <br/>
-    London: Ilford Municipal Market proves great success (43 ft.) -- Yarmouth, Eng.: Happy hours by the sea (46 ft.) -- Lauzon, Que.: World’s largest drydock (84 ft.) -- Toronto: Cycle racing at Exhibition Park (218 ft.) -- Kingston: [Geo. Vernot, Canadian swimmer, demonstrates strokes] (140 ft.) -- Fresno, Cal.: [Staged train wreck at fair] (69 ft.) -- Gary, Ind.: [Federal troops in big steel centers as result of recent riots] (150 ft.) -- Getting together, an animated cartoon by Bert Green (65 ft.) – A Review of events in Great Britain: Yarmouth: Deutschland, German Navy ship, now tourist attraction; London: “Pussy-foot” Johnson trying to make Britain “dry;” Doncaster: horse racing; Manchester: statue of Abraham Lincoln unveiled, gift of the U.S. to England’s great Cotton City (123 ft.). <br/> <br/>
-    **Subjects**  <br/>
-    1. Markets -- England -- London. 2. London (England) -- Description. 3. Seaside resorts -- England. 4. Yarmouth (Isle of Wight) -- Description. 5. Drydocks -- Canada. 6. Saint Henri (Quebec) -- Description. 7. Bicycle racing -- Canada. 8. Swimming -- Canada. 9. Strikes and lockouts -- Steel industry -- United States. 10. Prohibition -- England. 11. Horse-racing -- England. 12. Doncaster (South Yorkshire) -- Description.13. Lincoln, Abraham, 1809-1865 -- Statues. 14. Manchester (Greater Manchester) -- Description. <br/> <br/>
-    **Genre**  <br/>
+    **Main title**  
+
+    British Canadian Pathe news. No. 83A / L.E. Ouimet presents. -- CA : British Canadian Pathe News [producer], 1919 ; CA : Specialty Film Ltd. [distributor], 1919. 
+
+
+
+    **Contents**  
+
+    London: Ilford Municipal Market proves great success (43 ft.) -- Yarmouth, Eng.: Happy hours by the sea (46 ft.) -- Lauzon, Que.: World’s largest drydock (84 ft.) -- Toronto: Cycle racing at Exhibition Park (218 ft.) -- Kingston: [Geo. Vernot, Canadian swimmer, demonstrates strokes] (140 ft.) -- Fresno, Cal.: [Staged train wreck at fair] (69 ft.) -- Gary, Ind.: [Federal troops in big steel centers as result of recent riots] (150 ft.) -- Getting together, an animated cartoon by Bert Green (65 ft.) – A Review of events in Great Britain: Yarmouth: Deutschland, German Navy ship, now tourist attraction; London: “Pussy-foot” Johnson trying to make Britain “dry;” Doncaster: horse racing; Manchester: statue of Abraham Lincoln unveiled, gift of the U.S. to England’s great Cotton City (123 ft.). 
+
+
+
+    **Subjects**  
+
+    1. Markets -- England -- London. 2. London (England) -- Description. 3. Seaside resorts -- England. 4. Yarmouth (Isle of Wight) -- Description. 5. Drydocks -- Canada. 6. Saint Henri (Quebec) -- Description. 7. Bicycle racing -- Canada. 8. Swimming -- Canada. 9. Strikes and lockouts -- Steel industry -- United States. 10. Prohibition -- England. 11. Horse-racing -- England. 12. Doncaster (South Yorkshire) -- Description.13. Lincoln, Abraham, 1809-1865 -- Statues. 14. Manchester (Greater Manchester) -- Description. 
+
+
+
+    **Genre**  
+
     1. Newsreels.
 
 !!! example "Example"
-    **Main title**  <br/>
-    O Beijo da mulher aranha = Kiss of the spider woman / director, Hector Babenco ; producer, David Weisman ; screenplay, Leonard Schrader. -- BR : HB Filmes [producer], 1895 ; US Sugarloaf Films [producer], 1985 ; US : Island Alive [distributor], 1985. <br/> <br/>
-    **Summary**  <br/>
-    Molina, a homosexual window-trimmer convicted on a morals charge, shares a dreary prison cell with Valentin, a clandestinely-held politically active journalist who has been endlessly tortured by prison authorities in a vain attempt to extract information about his activities. Both men could not be farthe apart in personal attitudes, lifestyles, and emotional makeup: Molina is a glib raconteur, who dwells in a fantasy world of glamorous movies from yesteryear, of romantic screen heroes and tragic heroines. Valentin is a self-disciplined intellectual who is devoted to the cause of human rights and his political concerns. [etc. ; this is an excerpt from the full record] <br/> <br/>
-    **Subjects**  <br/>
-    1. Prisoners -- Drama. 2. Interpersonal relations -- Drama. 3. Homosexuality, Male -- Drama. 4. Political prisoners -- Drama. 5. Torture -- Drama. <br/> <br/>
-    **Genres**  <br/>
+    **Main title**  
+
+    O Beijo da mulher aranha = Kiss of the spider woman / director, Hector Babenco ; producer, David Weisman ; screenplay, Leonard Schrader. -- BR : HB Filmes [producer], 1895 ; US Sugarloaf Films [producer], 1985 ; US : Island Alive [distributor], 1985. 
+
+
+
+    **Summary**  
+
+    Molina, a homosexual window-trimmer convicted on a morals charge, shares a dreary prison cell with Valentin, a clandestinely-held politically active journalist who has been endlessly tortured by prison authorities in a vain attempt to extract information about his activities. Both men could not be farthe apart in personal attitudes, lifestyles, and emotional makeup: Molina is a glib raconteur, who dwells in a fantasy world of glamorous movies from yesteryear, of romantic screen heroes and tragic heroines. Valentin is a self-disciplined intellectual who is devoted to the cause of human rights and his political concerns. [etc. ; this is an excerpt from the full record] 
+
+
+
+    **Subjects**  
+
+    1. Prisoners -- Drama. 2. Interpersonal relations -- Drama. 3. Homosexuality, Male -- Drama. 4. Political prisoners -- Drama. 5. Torture -- Drama. 
+
+
+
+    **Genres**  
+
     1. Drama. 2. Features.
 
 <a id="sec-assigning_subject_terms"></a>
@@ -118,9 +182,12 @@ Decisions will depend on resources, technologies, an institution’s requirement
 For example, one practice for fiction moving images may be to assess what they are mainly about and apply  2-3 core subject terms reflecting the central themes or the nub of what they are about, plus any extra ones deemed necessary or relevant, e.g.:
 
 !!! example "Example"
-    The Bourne Identity (USA, 2002) <br/>
-    Form = Fiction <br/>
-    Genre(s) = Thriller, Crime, Action and Adventure <br/>
+    The Bourne Identity (USA, 2002) 
+
+    Form = Fiction 
+
+    Genre(s) = Thriller, Crime, Action and Adventure 
+
     Subject(s) = Identity, Black ops, Political assassinations
 
 Subject terms *Car chases*, *Paris*, *Motorways*, *Guns*, *Fights*, *Surveillance*, etc. all feature within the film, but are not what it is about. However, if your institution uses wide keyword ranges in cataloguing, similar to IMDB's multiple "plot keywords" on Work records, then they would be relevant to apply.

@@ -43,8 +43,10 @@ The treatment of the aggregate title may differ from institution to institution,
 There is the option of an institution using a devised/supplied title (see [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](/appendices/titles/title_types/#sec-supplied_devised_titles)).
 
 !!! example "Example"
-    Bond of fear ; Blackout <br/>
-    Odeon Entertainment double feature: Bond of fear and Blackout [DVD double feature] <br/>
+    Bond of fear ; Blackout 
+
+    Odeon Entertainment double feature: Bond of fear and Blackout [DVD double feature] 
+
     Bond of fear and Blackout (double feature)
 
 <a id="sec-collection_aggregate_manifestation_within_a_one_to_many"></a>
@@ -101,7 +103,8 @@ Similarly synopsis or notes fields can then be utilised to give full description
 More importantly, it is not always practical or feasible for many cataloguing systems to deal with creating records for non-moving image materials such as booklets, or text.
 
 !!! example "Example"
-    Charlie Chaplin. The Mutual films. Volume 1. <br/>
+    Charlie Chaplin. The Mutual films. Volume 1. 
+
     Contains: 6 short Chaplin Mutual films – Behind the screen, The immigrant, Easy Street, The rink, The cure, The adventurer. Plus DVD extras: Topical Budget newsreel footage of Chaplin on voyage and visit back to Britain; filmed interview with Carl Davis [who did music soundtrack for the aggregate]; on-screen text biographies of Edna Purviance and Eric Campbell. Plus sleeve notes by Frank Scheide.
 
 An aggregating Work record for the above enables adding of credits, for example, the music composer for the soundtrack on the aggregate, the interviewees, etc.; associative “contains/contained in” relationship links to any individual films or newsreel works; and then any other remaining details of the Work that cannot be linked in associative relationships may be added as free text in synopsis or notes fields.

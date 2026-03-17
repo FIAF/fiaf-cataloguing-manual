@@ -38,18 +38,27 @@ This may be via use of a “Title type” qualifier.
 See [Titles and structuring of series/serials](/appendices/titles/title_types/#sec-titles_of_series_serials) for other options
 
 !!! example "Example"
-    Gone with the wind (United States of America, 1939, Victor Fleming) <br/>
-    Gone with the wind – Preferred Title of the Work <br/>
-    Via col vento – Variant title – Dubbed (Italian) <br/>
-    Gejaagd door de win – Variant title – Dubbed (Dutch) <br/>
-    Autant en emporte le vent – Variant title – Dubbed – (French) <br/>
+    Gone with the wind (United States of America, 1939, Victor Fleming) 
+
+    Gone with the wind – Preferred Title of the Work 
+
+    Via col vento – Variant title – Dubbed (Italian) 
+
+    Gejaagd door de win – Variant title – Dubbed (Dutch) 
+
+    Autant en emporte le vent – Variant title – Dubbed – (French) 
+
     風と共に去りぬ – Variant title – Dubbed (Japanese)
 
 !!! example "Example"
-    Аленький цветочек (USSR, 1952, Lev Atamanov) <br/>
-    Аленький цветочек – Title of the Work <br/>
-    Alenkiy tsvetochek: Alternative (transliterated) title of Work/ Variant (Preferred title if systems don’t use Cyrillic) <br/>
-    Feuerrotes Blümchen – Variant title – Dubbed (German) <br/>
+    Аленький цветочек (USSR, 1952, Lev Atamanov) 
+
+    Аленький цветочек – Title of the Work 
+
+    Alenkiy tsvetochek: Alternative (transliterated) title of Work/ Variant (Preferred title if systems don’t use Cyrillic) 
+
+    Feuerrotes Blümchen – Variant title – Dubbed (German) 
+
     The Scarlet Flower – Variant title – Dubbed (English)
 
 <a id="sec-country_of_reference"></a>
@@ -140,29 +149,37 @@ If ISO formatting and/or the Date Precision qualifier are not applied, then use 
 *Probable Year (with qualifying note to indicate date is probably 1969)*
 
 !!! example "Example"
-    [1969?] <br/>
-    1969? <br/>
+    [1969?] 
+
+    1969? 
+
     Circa 1969
 
 *Approximate Year*
 
 !!! example "Example"
-    [Circa 1960] <br/>
-    Circa 1960 <br/>
+    [Circa 1960] 
+
+    Circa 1960 
+
     1960 circa
 
 *Decade Certain*
 
 !!! example "Example"
-    191- <br/>
-    Decade 1910 <br/>
+    191- 
+
+    Decade 1910 
+
     1910 decade
 
 *Probable Decade (with qualifying note to indicate that date is probable decade date)*
 
 !!! example "Example"
-    [191-?] <br/>
-    1910 decade <br/>
+    [191-?] 
+
+    1910 decade 
+
     Decade 1910
 
 *Use for time spans, the outside limits of which can be precisely determined*
@@ -178,7 +195,8 @@ If ISO formatting and/or the Date Precision qualifier are not applied, then use 
 In instances such as these, a note should be given which further explains the Date.
 
 !!! example "Example"
-    [Personal record. Eugene Meyer family. Family camping trip through the Canadian Rockies]. -- US, 1926. <br/>
+    [Personal record. Eugene Meyer family. Family camping trip through the Canadian Rockies]. -- US, 1926. 
+
     [Note] Year from notes accompanying item, attached to inventory, and from Merlo Pusey’s Eugene Meyer, (New York: Knopf, 1974), p.195
 
 <a id="sec-languages"></a>
@@ -230,23 +248,36 @@ If acceptable summaries are already available in secondary sources, cataloguers 
 A content description may also be a shotlist or listing of the contents of an aggregate Work/Variant (see [Aggregates (Compilations, Multi-component productions)](/appendices/aggregates/)). Shotlists are the ideal content description to have or aim to have, particularly for non-fiction moving images, but it is recognised that resources and accessibility mean this is not always possible or practical for an archive or institution.
 
 !!! example "Example"
-    Title: Pathe News [Excerpts No. 6] <br/>
+    Title: Pathe News [Excerpts No. 6] 
+
     Contents: “Newest U.S. Submarine Goes into Commission,” Pathe News No. 60 [1921] (160 ft.) -- “Span of New Memorial Bridge to Connect N.H. and Maine,” Pathe News No. 57 [1923] (72 ft.) -- “Celebrate 300th Anniversary of Settling of Portsmouth,”Pathe News No. 69 [1923] (99 ft.) -- “World’s Largest Sub Takes First Plunge,” Pathe News No. 93 [1927], (c) 21Nov27; MP4478 (134 ft.) -- “New Memorial Bridge between N.H. and Maine!” Pathe News No. 70 [1923] (105 ft.) -- “Launch Largest Submarine Cruiser,” Pathe Sound News No. 1 [1930], (c) 29Dec29; MP1025 (80 ft.).
 
 !!! example "Example"
-    Title: Victorian Cinema: 4: Bamforth/Riley/Hepworth <br/>
-    Contents: <br/>
-    Weary Willie (1898) (78ft), <br/>
-    Catching the Milk Thief (1899) (140ft) <br/>
-    The Tramp and the Baby’s Bottle (1899) (214ft), <br/>
-    Women’s Rights (1899) (289ft), <br/>
-    A Kiss in the Tunnel (1899) (367ft), <br/>
-    Boy’s Cricket Match and Fight (1900) (475ft), <br/>
-    [… real example shortened] <br/>
+    Title: Victorian Cinema: 4: Bamforth/Riley/Hepworth 
+
+    Contents: 
+
+    Weary Willie (1898) (78ft), 
+
+    Catching the Milk Thief (1899) (140ft) 
+
+    The Tramp and the Baby’s Bottle (1899) (214ft), 
+
+    Women’s Rights (1899) (289ft), 
+
+    A Kiss in the Tunnel (1899) (367ft), 
+
+    Boy’s Cricket Match and Fight (1900) (475ft), 
+
+    [… real example shortened] 
+
     End
 
 !!! example "Example"
-    Title: Magnificent Reproductions of the Great Yorkshire Show in Bradford (1901) <br/> <br/>
+    Title: Magnificent Reproductions of the Great Yorkshire Show in Bradford (1901) 
+
+
+
     Mitchell & Kenyon 641: Panning shot across a road to the Yorkshire Agricultural Society building with a diffuse crowd of people in front of the building. As the shot passes the building, a number of people can be seen sitting down, including mothers with babies and some older people (00.36). Cut to a close-up shot of the building, with a sign reading “The Yorkshire Agricultural Society. Established 1837” (00.45). Cut to a horse-drawn cart spraying some sort of liquid on the path as it moves along. Lettering on the back of the cart reads “Bradford City Council no. 30” (00.58). Cut to wide steps, with a number of smartly dressed men walking down them (presumably entering the show) (01.14). Cut to a shot of the blades of a windmill as they turn (01.23). Cut to a general shot of the show, with crowds and various stalls (02.07). A marquee in the background has the sign “R. Hornsby & Sons Ltd., Grantham”. Another sign reads “Marshall. Sons & Co.”. Chimneys and houses can be seen in the background (02.27min).
 
 The content description can be based on a viewing of the work, accompanying documentation, or secondary sources, but the source should be clearly noted.
@@ -275,7 +306,8 @@ This may be done where there is value to the user in keeping all the information
 This may also be applied where no History fields exist in an institution’s system at Manifestation or Item levels, or a no hierarchy one level structure is used.
 
 !!! example "Example"
-    Christopher Columbus (United Kingdom, 1949, David MacDonald) <br/>
+    Christopher Columbus (United Kingdom, 1949, David MacDonald) 
+
     There are three documented versions. Version one: which has the shortened reels 3A and 3B; Version two: which has the shorter ending; Version three: which has the long ending (this script is based on the full length reels 3A and 3B and on the short ending, as this is the export version.
     The short ending (version two) has Columbus reinstated by the King and Queen, him leaving their presence and telling Juana he will be remembered longer than the monarchs as he walks down a corridor. The longer version (version three) has a more American feel with two sailors informing Columbus of the great nation his discovery will give rise to, complete with quotes from Jefferson, Lincoln and Roosevelt.
 
@@ -299,11 +331,16 @@ Document information related to the censorship history of a Work/Variant, includ
 *The outcome of the act of rating or censorship.*
 
 !!! example "Example"
-    À bout de souffle (France, 1960, Jean-Luc Godard) <br/>
-    <br/>
-    In Italy, this film has three different theatrical distributions, corresponding to three different visas (“visto di censura”) from the official censorship body (Ufficio di revisione cinematografica). <br/>
-    Censored Variant: Theatrical distribution in Italy – censorship visa n. 32329 – date: 1960-07-05 – Length 2463m – original French – not for under 16 years <br/>
-    Dubbed, Censored Variant: Theatrical distribution in Italy – censorship visa n. 57609 – date: 1971-01-23 – Length 2440m. – Italian <br/>
+    À bout de souffle (France, 1960, Jean-Luc Godard) 
+
+
+
+    In Italy, this film has three different theatrical distributions, corresponding to three different visas (“visto di censura”) from the official censorship body (Ufficio di revisione cinematografica). 
+
+    Censored Variant: Theatrical distribution in Italy – censorship visa n. 32329 – date: 1960-07-05 – Length 2463m – original French – not for under 16 years 
+
+    Dubbed, Censored Variant: Theatrical distribution in Italy – censorship visa n. 57609 – date: 1971-01-23 – Length 2440m. – Italian 
+
     Dubbed, Censored Variant: Theatrical distribution in Italy– censorship visa n. 64662 – date: 1974-05-20 – Length 2430m. – Italian dubbed
 
 <a id="sec-other_work_variant_history"></a>

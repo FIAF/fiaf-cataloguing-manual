@@ -9,19 +9,27 @@ A component part may itself be either monographic or serial. Component here mean
 Examples:
 
 !!! example "Example"
-    Work [Monographic] – Topical Budget 657-1 <br/>
+    Work [Monographic] – Topical Budget 657-1 
+
     Manifestation: Theatrical Release - 35mm - UK - 27th March 1924
-    <br/>
-    Work [Analytic (component part)] – One way of solving the traffic problem <br/>
-    Manifestation 1: Internet – digital file – UK -2015 – BFIplayer (streaming channel) <br/>
-    <br/>
+
+
+    Work [Analytic (component part)] – One way of solving the traffic problem 
+
+    Manifestation 1: Internet – digital file – UK -2015 – BFIplayer (streaming channel) 
+
+
+
 !!! example "Example"
     Work [Monographic] - Kwaidan
     Manifestation: Theatrical Release - 35mm - Japan - December 1964
-    <br/>
+
+
     Work [Analytic (component part)] - The woman of the snow
-    Manifestation: Theatrical Release - 35mm - United Kingdom - October 1968 <br/>
-    <br/>
+    Manifestation: Theatrical Release - 35mm - United Kingdom - October 1968 
+
+
+
 
 **Monographic**: Complete content in one part or intended to be completed in a finite number of parts.
 
@@ -29,23 +37,29 @@ This is also applicable to television episodes.
 The record for the television series itself is catalogued as a Serial.
 
 !!! example "Example"
-    Coronation Street [1960-12-09] <br/>
+    Coronation Street [1960-12-09] 
+
     Spaced. Series 1 Episode 1. 1999-09-02
 
 **Serial**: Content issued in successive parts and intended to be continued indefinitely, or across a span of time.
 A Work record for a television series is catalogued as a “Serial.” Individual episodes may be catalogued as a Monographic record.
 
 !!! example "Example"
-    Gaumont British News (1934-) <br/>
-    Flash Gordon’s Trip to Mars (1938) <br/>
-    Chemistry Essentials (1996) <br/>
+    Gaumont British News (1934-) 
+
+    Flash Gordon’s Trip to Mars (1938) 
+
+    Chemistry Essentials (1996) 
+
     Breaking Bad (2008-01-20 – 2013-09-29)
 
 **Collection**: Content issued in several independent parts; an ‘umbrella’ work title covering a number of different Works/Variants/Manifestations[^1].
 
 !!! example "Example"
-    Pleasure (Joan Littlewood, c1963) (Footage shot on behalf of Joan Littlewood as part of her ‘Fun Palace’ project.) <br/>
-    The ‘Dogme’ films (Each individually numbered.) <br/>
+    Pleasure (Joan Littlewood, c1963) (Footage shot on behalf of Joan Littlewood as part of her ‘Fun Palace’ project.) 
+
+    The ‘Dogme’ films (Each individually numbered.) 
+
     Shadows of progress: documentary film in post-war Britain 1951-1977
 
 Other uses for Collection:[^2]
@@ -53,22 +67,32 @@ Other uses for Collection:[^2]
 Archive-acquired collections of works not originally intended for general release or broadcast all have component parts that form the collection as a whole, usually acquired on a series of numerous film reels or videotapes, etc. each with an identifying title.
 
 !!! example "Example"
-    David Lean home movies <br/>
-    William Butlin personal films <br/>
-    Hollywood interviews (unedited production material for series Hollywood) <br/>
-    BFI London Film Festival Awards 2010 – production material, etc. <br/>
-    Fifties features (videotape collection of production material, with each of the tapes given an identifying acquisition title: <br/>
-    B1-3 Sylvia Syms I/V <br/>
-    B4-6 Sylvia Syms I/V & Jill Craigie I/V <br/>
+    David Lean home movies 
+
+    William Butlin personal films 
+
+    Hollywood interviews (unedited production material for series Hollywood) 
+
+    BFI London Film Festival Awards 2010 – production material, etc. 
+
+    Fifties features (videotape collection of production material, with each of the tapes given an identifying acquisition title: 
+
+    B1-3 Sylvia Syms I/V 
+
+    B4-6 Sylvia Syms I/V & Jill Craigie I/V 
+
 
 “David Lean home movies,” “Fifties features,” etc. would be the Work titles for the collection-level description, with Collection as its description level.
 
 The individual components of this collection would also be created as individual Monographic Works.
 
 !!! example "Example"
-    Egypt <br/>
-    India <br/>
-    India no.2 <br/>
+    Egypt 
+
+    India 
+
+    India no.2 
+
     Kenya
 
 These titles should then be linked to the collection-level description and assigned “part of” relationship.

@@ -15,23 +15,28 @@ The boundaries between one Work and another (i.e where a new Work would be creat
 *Remakes of the same story/plot.*
 
 !!! example "Example"
-    The man who knew too much (UK, 1934, Alfred Hitchcock) <br/> 
+    The man who knew too much (UK, 1934, Alfred Hitchcock) 
+
     The man who knew too much (USA, 1956, Alfred Hitchcock)
 
 !!! example "Example"
-    T’amerò sempre (Italy, 1933, Mario Camerini) <br/>
+    T’amerò sempre (Italy, 1933, Mario Camerini) 
+
     T’amerò sempre (Italy, 1943, Mario Camerini)
 
 !!! example "Example"
-    Planet of the apes (United States of America, 1968, Franklin J. Schaffner)  <br/>
+    Planet of the apes (United States of America, 1968, Franklin J. Schaffner)  
+
     Planet of the apes (United States of America, 2001, Tim Burton)
 
 !!! example "Example"
-    Scarface (United States of America, 1932, Howard Hawks)  <br/>
+    Scarface (United States of America, 1932, Howard Hawks)  
+
     Scarface (United States of America, 1983, Brian De Palma)
 
 !!! example "Example"
-    Die Dreigroschenoper (Germany, 1931, Georg Wilhelm Pabst)  <br/>
+    Die Dreigroschenoper (Germany, 1931, Georg Wilhelm Pabst)  
+
     Die Dreigroschenoper (Germany,1962, Wolfgang Staudte)
 
 *Different language versions shot at the same time, released simultaneously,
@@ -44,16 +49,20 @@ sometimes with different casts.*
     Anna Christie (United States of America, 1930, Clarence Brown, English; 1931, German)
 
 !!! example "Example"
-    Der Fangschuß (France/Germany, 1976, Volker Schlöndorff, German)  <br/>
+    Der Fangschuß (France/Germany, 1976, Volker Schlöndorff, German)  
+
     Le Coup de grâce (France/Germany, 1976, Volker Schlöndorff, French)
 
 !!! example "Example"
-    Die Dreigroschenoper (Germany, 1931, Georg Wilhelm Pabst, German)  <br/>
+    Die Dreigroschenoper (Germany, 1931, Georg Wilhelm Pabst, German)  
+
     L’opéra de quat’sous (France, 1931, Georg Wilhelm Pabst, French)
 
 !!! example "Example"
-    La canzone dell’amore (United States of America, 1930, Gennaro Righelli, English)  <br/>
-    Liebeslied (Germany, 1930, Constantin J. Davis, German)  <br/>
+    La canzone dell’amore (United States of America, 1930, Gennaro Righelli, English)  
+
+    Liebeslied (Germany, 1930, Constantin J. Davis, German)  
+
     La dernière berceuse (France, 1930, Jean Cassagne, French)
 
 *Editing of the same raw footage by different people into different sequences.*
@@ -115,7 +124,8 @@ It is possible for a moving image Variant to be modified in such a way as to cre
 *Example of a release of a dubbed film abridged or augmented.*
 
 !!! example "Example"
-    Il gattopardo (Italy, France,1963, Luchino Visconti)  <br/>
+    Il gattopardo (Italy, France,1963, Luchino Visconti)  
+
     Dubbed/ Abridged: The leopard, English (spoken language) -1963 – United States of America – 161’ (Theatrical distribution in United States of America, the 20th Century Fox cut 45 minutes); Subtitled: The leopard, English (spoken language) -1980 – United States of America (reintegrates the original running time of 187’).
 
 **Change in textual and spoken word aspect**
@@ -125,7 +135,8 @@ It is possible for a moving image Variant to be modified in such a way as to cre
 *Example of a release of a foreign film (dubbed), subtitled in a different language.*
 
 !!! example "Example"
-    Die kleine und die grosse Liebe (Germany, 1938, Joseph von Backy) <br/>
+    Die kleine und die grosse Liebe (Germany, 1938, Joseph von Backy) 
+
     Dubbed/Subtitled Variant: Il piccolo e il grande amore, Italian (spoken language), English (subtitles) – Italy – 1938
 
 **Change in performance/performers**
@@ -133,9 +144,12 @@ It is possible for a moving image Variant to be modified in such a way as to cre
 *Addition, removal and/or replacement of some of the contributors (e.g., cast and/or crew), associated with a Work.*
 
 !!! example "Example"
-    The re-dubbed North American English version of the Japanese movie, Godzilla 2000: Millennium (1999), includes the following credits unique to this Variant: <br/>
-    Dubbing Director: Mike Schlesinger <br/>
-    Media: Cinema/TV/VHS/DVD <br/>
+    The re-dubbed North American English version of the Japanese movie, Godzilla 2000: Millennium (1999), includes the following credits unique to this Variant: 
+
+    Dubbing Director: Mike Schlesinger 
+
+    Media: Cinema/TV/VHS/DVD 
+
     Dubbing Studio: Tristar Pictures/Sony Pictures Entertainment
 
 TODO TABLE MISSING HERE.
@@ -164,32 +178,38 @@ Examples[^6]:
 *Editing of a Work to create realisations that are shorter in extent/duration.*
 
 !!! example "Example"
-    Große Freiheit Nr. 7 (Germany, 1944) (112 minutes)  <br/>
+    Große Freiheit Nr. 7 (Germany, 1944) (112 minutes)  
+
     Shortened Variant Große Freiheit Nr. 7 (109 minutes)
 
 !!! example "Example"
     Works censored or edited for television broadcast, for showing on airplanes, for showing in different parts of the country/world, etc.
 
 !!! example "Example"
-    Annie Leibovitz, Life through a Lens (United States of America, 2007-01-03), broadcast in TV series American Masters  <br/> 
+    Annie Leibovitz, Life through a Lens (United States of America, 2007-01-03), broadcast in TV series American Masters  
+
     Shortened Variant (for British television): Annie Leibovitz, Life through a Lens (UK, 2008-06-10), broadcast in TV series Imagine
 
 !!! example "Example"
-    Last Tango in Paris (United States of America, 1972, Bernardo Bertolucci)   <br/>
+    Last Tango in Paris (United States of America, 1972, Bernardo Bertolucci)   
+
     Censored Variant: Ultimo tango a Parigi (Italy, 1988, Broadcast)
 
 *Addition of new footage to a Work to update informational/educational content; for preservation/restoration; to offer different endings or alternate takes.*
 
 !!! example "Example"
-    Blackmail (UK, 1929, Alfred Hitchcock)  <br/>
+    Blackmail (UK, 1929, Alfred Hitchcock)  
+
     Augmented Variant: United Kingdom– 1929 (longer, with some scenes shot on purpose)
 
 !!! example "Example"
-    Little Shop of Horrors (United States of America, 1986, Frank Oz)   <br/>
+    Little Shop of Horrors (United States of America, 1986, Frank Oz)   
+
     Augmented Variant: alternate ending of 23 minutes, included in the 2012 Warner Home Video – Blu-ray, DVD edition
 
 !!! example "Example"
-    Nosferatu. Eine Symphonie des Grauens (Germany, 1922, Friedrich Wilhelm Murnau)   <br/>
+    Nosferatu. Eine Symphonie des Grauens (Germany, 1922, Friedrich Wilhelm Murnau)   
+
     Preservation/Restoration Variant: restoration by Friedrich-Wilhelm Murnau-Stiftung; Luciano Berriatùa (restorer) – Germany – 2005/6 (reconstruction based on different sources)
 
 **Change in textual aspect**
@@ -199,27 +219,33 @@ Examples[^6]:
 Examples[^7]:
 
 !!! example "Example"
-    The addition or removal of explanatory text, dubbing, subtitles, etc.  <br/>
+    The addition or removal of explanatory text, dubbing, subtitles, etc.  
+
     Star Wars Episode II: Attack of the Clones (2002) was dubbed into 19 foreign language versions, which were released on the same date as the English language version.
 
 !!! example "Example"
-    Cabiria (Italy, 1914, Giovanni Pastrone)  <br/>
+    Cabiria (Italy, 1914, Giovanni Pastrone)  
+
     Sonorized Variant: Italy, 1931
 
 !!! example "Example"
-    A dog’s life (United States of America, 1918, Charles Chaplin)  <br/>
+    A dog’s life (United States of America, 1918, Charles Chaplin)  
+
     Sonorized Variant: Vita da cani – sonorized with Italian intertitles – 193?
 
 !!! example "Example"
-    The yellow mask (United States of America, 1930, Harry Lachman)  <br/>
+    The yellow mask (United States of America, 1930, Harry Lachman)  
+
     Augmented Variant: Il principe corsaro – 1931: only with music, songs and sound effects, plus new Italian intertitles, but without dialogue, according to a 1930 law, which involved the first spoken foreign films distributed in Italy.
 
 !!! example "Example"
-    Hallelujah! (United States of America, 1929, King Vidor)  <br/>
+    Hallelujah! (United States of America, 1929, King Vidor)  
+
     Augmented Variant: Alleluia! – addition of music, songs, sound effects, and new Italian intertitles, but without dialogue; Italy, 1930
 
 !!! example "Example"
-    La presa di Roma (Italy, 1905)  <br/>
+    La presa di Roma (Italy, 1905)  
+
     Preservation/restoration Variant: addition of stills and explanation texts; Italy, 2007. Restoration by Centro Sperimentale di Cinematografia-Cineteca Nazionale
 
 **Change in performance/performers**
@@ -229,11 +255,13 @@ Examples[^7]:
 *Examples of restored versions of works which include credits for the responsible individuals and institutions.*
 
 !!! example "Example"
-    Nosferatu. Eine Symphonie des Grauens (Germany, 1922, Friedrich Wilhelm Murnau)   <br/>
+    Nosferatu. Eine Symphonie des Grauens (Germany, 1922, Friedrich Wilhelm Murnau)   
+
     Preservation/augmented Variant – 2005/6: restoration by the Friedrich-Wilhelm Murnau-Stiftung; Luciano Berriatùa (restorer)
 
 !!! example "Example"
-    Die freudlose Gasse (Germany, 1925, Georg Wilhelm Pabst);  <br/>
+    Die freudlose Gasse (Germany, 1925, Georg Wilhelm Pabst);  
+
     Preservation/augmented Variant – Germany – 2008. Digitale Restaurierung: Filmarchiv Austria, Wien, Stephanie Gratzer in Zusammenarbeit mit der Galerie Krems; Wissenschaftliche Beratung: Stephan Droessler, Nikolaus Wostry; Projectleitung: Ernst Kleininger, Nikolaus Wostry (from the credits on the DVD)
 
 !!! example "Example"
@@ -242,16 +270,20 @@ Examples[^7]:
 *Examples of language versions which credit the individuals responsible for dubbing or subtitles.*
 
 !!! example "Example"
-    Senso (Italy, 1954, Luchino Visconti)  <br/>
+    Senso (Italy, 1954, Luchino Visconti)  
+
     Subtitled Variant: French subtitles – 1955: subtitles by Georges Sadoul
 
 !!! example "Example"
-    Cinderella (United States of America, 1950, Clyde Geronimi, Wilfred Jackson, Hamilton Luske)   <br/>
+    Cinderella (United States of America, 1950, Clyde Geronimi, Wilfred Jackson, Hamilton Luske)   
+
     Dubbed variant: Cendrillon, French (spoken language) – France – 1991: Dominique Poulain, voice of Cinderella)
 
 !!! example "Example"
-    Sons of the Desert (United States of America, 1933, William A. Seiter):  <br/>
-    Dubbed Variant 1:I figli del deserto – Italian (spoken language) -1935: Carlo Cassola, voice of Oliver Hardy;  <br/>
+    Sons of the Desert (United States of America, 1933, William A. Seiter):  
+
+    Dubbed Variant 1:I figli del deserto – Italian (spoken language) -1935: Carlo Cassola, voice of Oliver Hardy;  
+
     Dubbed Variant 2:, I figli del deserto – Italian (spoken language) 1946: Alberto Sordi, voice of Oliver Hardy.
 
 When an institution has set a policy not to use Variants, the boundaries will usually be between a Work and Manifestations, i.e., a new Manifestation linked to the Work would be created rather than a Variant, or else a separate new Work, depending on assessment of the level of change or variation.

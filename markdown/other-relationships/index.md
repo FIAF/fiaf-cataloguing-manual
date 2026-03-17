@@ -33,8 +33,10 @@ Commonly-occurring relationships include:[^2]
 *Work(s) that the moving image Work has a sequential relationship with (e.g. sequels, prequels, serials)*
 
 !!! example "Example"
-    The Godfather Part I <br/>
-    The Godfather Part II <br/>
+    The Godfather Part I 
+
+    The Godfather Part II 
+
     The Godfather Part III Francis Ford Coppola (United States of America, 1972- 1974-1990)
 
 *Work(s) about the moving image Work (e.g. documentary about the making of a feature film or TV programme)*
@@ -98,7 +100,8 @@ Commonly-occurring relationships include:
 *Manifestations that the moving image Manifestation forms part of (e.g. series/serials).*
 
 !!! example "Example"
-    Le cryptogramme rouge (35mm print, m 984, m 48’ (18fps) <br/>
+    Le cryptogramme rouge (35mm print, m 984, m 48’ (18fps) 
+
     3° episode of the serial Les vampires (L. Feuillade, 1915).
 
 *Manifestation(s) that the moving image Manifestation has a sequential relationship with (e.g. series/serials).*
@@ -168,28 +171,34 @@ Or, hold separate sound and image Items that would both be needed to make a new 
 Similarly, in the case of restorations where separate Items or elements have been used to create a new restored Item.
 
 !!! example "Example"
-    The Wizard of Oz (United States of America, 1939, Victor Fleming) <br/>
+    The Wizard of Oz (United States of America, 1939, Victor Fleming) 
+
     Yellow Separation Negative, Cyan Separation Negative, Magenta Separation Negative
 
 !!! example "Example"
-    Local hero (United Kingdom, 1983, Bill Forsyth) <br/>
+    Local hero (United Kingdom, 1983, Bill Forsyth) 
+
     DPX sequence, WAV audio file
 
 *An Item that contains other Items (e.g. two or more separate Items are held on the same reel/tape/DVD etc. for convenient storage).*
 
 !!! example "Example"
-    Selezione Fregoli 2002 <br/>
+    Selezione Fregoli 2002 
+
     Compilation of 16 short Fregoli films, spliced together for projection convenience.
 
 !!! example "Example"
-    Laughing gas (United States of America, 1914, Charlie Chaplin) <br/>
-    Those love pangs (United States of America, 1914, Charlie Chaplin) <br/>
+    Laughing gas (United States of America, 1914, Charlie Chaplin) 
+
+    Those love pangs (United States of America, 1914, Charlie Chaplin) 
+
     (two Charlie Chaplin short comedies spliced together on one reel - for storage convenience).
 
 *Item that is the source of a moving image Item (e.g. In-house copying of an Item to create a new Item for preservation or access)*
 
 !!! example "Example"
-    35mm CTA Duplicating Postive copy of Carnival (c.1927) made from a 35mm <br/>
+    35mm CTA Duplicating Postive copy of Carnival (c.1927) made from a 35mm 
+
       Nitrate Negative copy of Carnival (c.1927)
 
 [^1]: EN 15907 8.5 HasAsSubject; YCR, 1.2.7 Relationships With Other Moving Image Works or Other Kinds of Works

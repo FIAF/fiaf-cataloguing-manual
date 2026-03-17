@@ -76,37 +76,52 @@ If more than one Agent is associated with a particular role connected with a Wor
 Preserving the ordering of the credited persons should be determined by the requirements of individual institutions.[^6] 
 
 !!! example "Example"
-    Les Enfants du paradis <br/>
-    réalisation, Marcel Carné <br/>
-    scenario et dialogue, Jacques Prevert <br/> 
+    Les Enfants du paradis 
+
+    réalisation, Marcel Carné 
+
+    scenario et dialogue, Jacques Prevert 
+
     musique, Maurice Thiriet
 
 OR
 
 !!! example "Example"
-    Enfants du paradis, Les <br/>
-    director, Marcel Carné <br/>
-    script and dialogue, Jacques Prevert <br/> 
+    Enfants du paradis, Les 
+
+    director, Marcel Carné 
+
+    script and dialogue, Jacques Prevert 
+
     music, Maurice Thiriet
  
 !!! example "Example"
-    Star wars <br/>
-    Director, George Lucas <br/> 
-    Executive Producer, George Lucas <br/> 
-    Producer, Gary Kurtz <br/>
+    Star wars 
+
+    Director, George Lucas 
+
+    Executive Producer, George Lucas 
+
+    Producer, Gary Kurtz 
+
     Screenplay, George Lucas
 
 If Agents are added as index points rather than listed or described in order of importance, an organisation may choose to put the Agent Activity or role term(s) at the end of the name. 
 
 !!! example "Example"
-    Les Enfants du paradis <br/> 
-    Carné, Marcel, réalisation <br/>
-    Prevert, Jacques, scenario, dialogue <br/> 
+    Les Enfants du paradis 
+
+    Carné, Marcel, réalisation 
+
+    Prevert, Jacques, scenario, dialogue 
+
     Thiriet, Maurice, musique
  
 !!! example "Example"
-    Star wars  <br/>
-    Lucas, George, director, executive producer, screenplay <br/> 
+    Star wars  
+
+    Lucas, George, director, executive producer, screenplay 
+
     Kurtz, Gary, producer
 
 [^1]: RDA 2.20.7.3
