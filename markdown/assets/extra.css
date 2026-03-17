@@ -99,6 +99,13 @@
   background-color: #e30521;
 }
 
+/* Section numbers injected by heading_numbers.py hook */
+.section-number {
+  font-weight: 300;
+  color: var(--md-default-fg-color--light);
+  margin-right: 0.15em;
+}
+
 /* Logo sizing */
 .md-header__button.md-logo img {
   height: 2rem;
