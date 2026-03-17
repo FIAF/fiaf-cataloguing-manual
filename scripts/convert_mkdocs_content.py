@@ -21,24 +21,24 @@ ROOT = Path(__file__).resolve().parents[1]
 # Maps source folder names to output paths relative to docs/.
 # Sources not listed here are skipped.
 SOURCE_FOLDER_MAP: Dict[str, str] = {
-    "00_preliminary": "00_preliminary",
-    "01_moving_image_works": "01_works",
-    "02_moving_image_variants": "02_variants",
-    "03_moving_image_manifestations": "03_manifestations",
-    "04a_moving_image_items": "04_items",
-    "04b_boundaries": "05_boundaries",
-    "06_moving_image_agents": "06_agents",
-    "07_moving_image_events": "07_events",
-    "08_moving_image_other_relationships": "08_other-relationships",
-    "09_appendix_01": "09_appendices/titles",
-    "10_appendix_02": "09_appendices/cataloguers-notes",
-    "12_appendix_04": "09_appendices/value-lists",
-    "13_appendix_05": "09_appendices/aggregates",
-    "16_appendix_08": "09_appendices/element-comparison",
-    "17_appendix_09": "09_appendices/rights",
-    "18_appendix_10": "09_appendices/record-examples",
-    "19_appendix_11": "09_appendices/bibliography",
-    "20_appendix_12": "09_appendices/element-list",
+    "00_preliminary": "preliminary",
+    "01_moving_image_works": "works",
+    "02_moving_image_variants": "variants",
+    "03_moving_image_manifestations": "manifestations",
+    "04a_moving_image_items": "items",
+    "04b_boundaries": "boundaries",
+    "06_moving_image_agents": "agents",
+    "07_moving_image_events": "events",
+    "08_moving_image_other_relationships": "other-relationships",
+    "09_appendix_01": "appendices/titles",
+    "10_appendix_02": "appendices/cataloguers-notes",
+    "12_appendix_04": "appendices/value-lists",
+    "13_appendix_05": "appendices/aggregates",
+    "16_appendix_08": "appendices/element-comparison",
+    "17_appendix_09": "appendices/rights",
+    "18_appendix_10": "appendices/record-examples",
+    "19_appendix_11": "appendices/bibliography",
+    "20_appendix_12": "appendices/element-list",
 }
 
 
@@ -259,18 +259,9 @@ def convert_tcolorbox(text: str) -> str:
         lines = []
         for line in inner.strip().splitlines():
             line = re.sub(r"\\indent\\hspace\{[^}]+\}\s*", "", line)
-            parts = line.split("\\\\")
-            # A trailing \\ produces an empty last part; remove it but still
-            # emit a blank line so the break renders as a paragraph separator.
-            has_trailing_break = len(parts) > 1 and not parts[-1].strip()
-            if has_trailing_break:
-                parts = parts[:-1]
-            for j, part in enumerate(parts):
-                if j > 0:
-                    lines.append("")  # blank line between \\ separated parts
-                lines.append(convert_latex_inline(part))
-            if has_trailing_break:
-                lines.append("")  # blank line after trailing \\
+            line = line.replace("\\\\", "<br/>")
+            line = convert_latex_inline(line)
+            lines.append(line)
         if not lines:
             return '!!! example "Example"\n'
         # MkDocs Material admonition: 4-space indent
