@@ -50,6 +50,9 @@ markdown_extensions:
   - toc:
       permalink: true
 
+hooks:
+  - hooks/heading_numbers.py
+
 plugins:
   - search
 
@@ -112,43 +115,43 @@ nav:
     - Other Relationships:
       - other-relationships/index.md
       - Other Relationships for Works, Variants, Manifestations, Items: other-relationships/other_relationships_for_works_variants_manifestations_items/index.md
-  - Appendices:
-    - Titles and Title Types:
-      - appendices/titles/index.md
-      - Title Types: appendices/titles/title_types/index.md
-      - Moving Images with Probable or Questionable Titles: appendices/titles/moving_images_with_probable_or_questionable_titles/index.md
-      - Titling of Aggregates: appendices/titles/title_titling_of_aggregates/index.md
-    - Cataloguer's Notes:
-      - appendices/cataloguers-notes/index.md
-      - Attributes: appendices/cataloguers-notes/note_attributes/index.md
-      - Elements: appendices/cataloguers-notes/elements/index.md
-      - Relationships: appendices/cataloguers-notes/relationships/index.md
-    - Value Lists:
-      - appendices/value-lists/index.md
-      - List of Form Terms for Supplied/Devised Titles: appendices/value-lists/list_of_form_terms_for_supplied_devised_titles/index.md
-    - Aggregates:
-      - appendices/aggregates/index.md
-      - Identifying Aggregates: appendices/aggregates/identifying_aggregates/index.md
-      - Types of Moving Image Aggregates: appendices/aggregates/types_of_moving_image_aggregates/index.md
-      - Titling of Aggregates: appendices/aggregates/titling_of_aggregates/index.md
-      - Modelling Aggregates: appendices/aggregates/modelling_aggregates/index.md
-      - Series, Serials and Newsreels: appendices/aggregates/series_serials_and_newsreels/index.md
-      - Credits (Agents) for Aggregates: appendices/aggregates/credits_agents_for_aggregates/index.md
-    - Comparison between Elements of Description:
-      - appendices/element-comparison/index.md
-    - Rights/Copyright/IPR Registration:
-      - appendices/rights/index.md
-      - Rights in a Manifestation: appendices/rights/rights_in_a_manifestation/index.md
-      - Rights in an Item: appendices/rights/rights_in_an_item/index.md
-    - Examples of Records:
-      - appendices/record-examples/index.md
-      - Example 2. Documentary film in 4-level hierarchy: appendices/record-examples/example_two/index.md
-      - Example 3. Silent feature film in 3-level Hierarchy Model: appendices/record-examples/example_three/index.md
-      - Example 4. Short feature film in 3-level Hierarchy Model: appendices/record-examples/example_four/index.md
-      - Example 5. Home Movie in 3-level Hierarchy Model: appendices/record-examples/example_five/index.md
-      - Example 6. Television Serial and Episode records: appendices/record-examples/example_six/index.md
-      - Example 7. Aggregate DVD Television Serial and Episode records: appendices/record-examples/example_seven/index.md
-    - Bibliography:
-      - appendices/bibliography/index.md
-    - List of Elements:
-      - appendices/element-list/index.md
+    - Appendices:
+      - Titles and Title Types:
+        - appendices/titles/index.md
+        - Title Types: appendices/titles/title_types/index.md
+        - Moving Images with Probable or Questionable Titles: appendices/titles/moving_images_with_probable_or_questionable_titles/index.md
+        - Titling of Aggregates: appendices/titles/title_titling_of_aggregates/index.md
+      - Cataloguer's Notes:
+        - appendices/cataloguers-notes/index.md
+        - Attributes: appendices/cataloguers-notes/note_attributes/index.md
+        - Elements: appendices/cataloguers-notes/elements/index.md
+        - Relationships: appendices/cataloguers-notes/relationships/index.md
+      - Value Lists:
+        - appendices/value-lists/index.md
+        - List of Form Terms for Supplied/Devised Titles: appendices/value-lists/list_of_form_terms_for_supplied_devised_titles/index.md
+      - Aggregates:
+        - appendices/aggregates/index.md
+        - Identifying Aggregates: appendices/aggregates/identifying_aggregates/index.md
+        - Types of Moving Image Aggregates: appendices/aggregates/types_of_moving_image_aggregates/index.md
+        - Titling of Aggregates: appendices/aggregates/titling_of_aggregates/index.md
+        - Modelling Aggregates: appendices/aggregates/modelling_aggregates/index.md
+        - Series, Serials and Newsreels: appendices/aggregates/series_serials_and_newsreels/index.md
+        - Credits (Agents) for Aggregates: appendices/aggregates/credits_agents_for_aggregates/index.md
+      - Comparison between Elements of Description:
+        - appendices/element-comparison/index.md
+      - Rights/Copyright/IPR Registration:
+        - appendices/rights/index.md
+        - Rights in a Manifestation: appendices/rights/rights_in_a_manifestation/index.md
+        - Rights in an Item: appendices/rights/rights_in_an_item/index.md
+      - Examples of Records:
+        - appendices/record-examples/index.md
+        - Example 2. Documentary film in 4-level hierarchy: appendices/record-examples/example_two/index.md
+        - Example 3. Silent feature film in 3-level Hierarchy Model: appendices/record-examples/example_three/index.md
+        - Example 4. Short feature film in 3-level Hierarchy Model: appendices/record-examples/example_four/index.md
+        - Example 5. Home Movie in 3-level Hierarchy Model: appendices/record-examples/example_five/index.md
+        - Example 6. Television Serial and Episode records: appendices/record-examples/example_six/index.md
+        - Example 7. Aggregate DVD Television Serial and Episode records: appendices/record-examples/example_seven/index.md
+      - Bibliography:
+        - appendices/bibliography/index.md
+      - List of Elements:
+        - appendices/element-list/index.md
