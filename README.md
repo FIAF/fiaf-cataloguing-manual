@@ -1,8 +1,6 @@
 # FIAF Moving Image Cataloguing Manual
 
-A work-in-progress static site build of the [FIAF Moving Image Cataloguing Manual](https://www.fiafnet.org/pages/E-Resources/Cataloguing-Manual.html).
-
-The current branch is building and publishing a live preview at:
+A static site build of the [FIAF Moving Image Cataloguing Manual](https://www.fiafnet.org/pages/E-Resources/Cataloguing-Manual.html), published at:
 https://fiaf-cataloguing-manual.s3-website.fr-par.scw.cloud/
 
 ---
@@ -80,7 +78,7 @@ This overwrites all files in `markdown/`. Edit the source files in `markdown/` d
 
 ### Deployment
 
-On every push to the `181-static-site` branch, GitHub Actions builds the site and syncs it to a [Scaleway Object Storage](https://www.scaleway.com/en/object-storage/) bucket in the Paris region using the AWS CLI.
+On every push to the `develop` branch, GitHub Actions builds the site and syncs it to a [Scaleway Object Storage](https://www.scaleway.com/en/object-storage/) bucket in the Paris region using the AWS CLI.
 
 The workflow requires two repository secrets:
 

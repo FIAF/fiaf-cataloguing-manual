@@ -3,7 +3,7 @@ site_description: International Federation of Film Archives Moving Image Catalog
 docs_dir: markdown
 repo_url: https://github.com/FIAF/fiaf-cataloguing-manual
 repo_name: FIAF/fiaf-cataloguing-manual
-edit_uri: edit/181-static-site/markdown/
+edit_uri: edit/develop/markdown/
 
 theme:
   name: material

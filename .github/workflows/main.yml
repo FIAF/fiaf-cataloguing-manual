@@ -3,7 +3,7 @@ name: build_and_publish
 on:
   push:
     branches:
-      - 181-static-site
+      - develop
 
 jobs:
   build-and-publish:
