@@ -111,3 +111,14 @@
   height: 2rem;
   width: auto;
 }
+
+/* Dark mode logo swap */
+.md-header__button.md-logo .md-logo__img--dark {
+  display: none;
+}
+[data-md-color-scheme="slate"] .md-header__button.md-logo .md-logo__img--light {
+  display: none;
+}
+[data-md-color-scheme="slate"] .md-header__button.md-logo .md-logo__img--dark {
+  display: block;
+}
