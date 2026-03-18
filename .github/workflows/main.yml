@@ -14,8 +14,8 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Install MkDocs Material
-        run: pip install mkdocs-material
+      - name: Install dependencies
+        run: pip install mkdocs-material mkdocs-exporter
 
       - name: Build site
         run: mkdocs build
@@ -42,6 +42,8 @@ jobs:
           playwright install-deps chromium
 
       - name: Build site with PDF
+        env:
+          CI_PDF: true
         run: mkdocs build
 
       - name: Sync PDF to Scaleway bucket
