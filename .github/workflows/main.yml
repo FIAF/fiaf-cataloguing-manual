@@ -31,6 +31,7 @@ jobs:
 
   build-and-publish-pdf:
     runs-on: ubuntu-latest
+    needs: build-and-publish
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
