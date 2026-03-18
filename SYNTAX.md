@@ -6,6 +6,8 @@ Content is written in [Markdown](https://www.markdownguide.org/) and rendered by
 
 Use standard Markdown headings. Top-level section pages start at `##`; subsections nest from there.
 
+Do not use `#` (h1) in markdown files. MkDocs uses the page title from `nav:` in `mkdocs.yml` as the h1 heading — adding one in the file would create a duplicate.
+
 ```md
 ## Section Title
 
