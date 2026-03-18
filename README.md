@@ -17,8 +17,7 @@ The site is built with [MkDocs](https://www.mkdocs.org/) using the [Material the
 | `mkdocs.yml` | Site configuration and navigation |
 | `markdown/assets/` | CSS, logo, and favicon |
 | `markdown/diagrams/` | Diagram images |
-| `source_pdf_markdown/` | Original LaTeX/Markdown hybrid source (migration input only) |
-| `scripts/` | Migration and diagram generation tools |
+| `scripts/diagrams/` | Diagram generation scripts |
 
 Content is organised into chapter directories under `markdown/`:
 
@@ -65,16 +64,6 @@ mkdocs serve
 ```
 
 The site is served at `http://localhost:8000`.
-
-### Content migration
-
-The `markdown/` directory was generated from `source_pdf_markdown/` using the conversion script. To regenerate:
-
-```sh
-python3 scripts/convert_mkdocs_content.py
-```
-
-This overwrites all files in `markdown/`. Edit the source files in `markdown/` directly for ongoing content work — the conversion script is only needed if re-migrating from the LaTeX source.
 
 ### Deployment
 

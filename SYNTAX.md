@@ -51,7 +51,8 @@ Examples are rendered as MkDocs Material admonitions:
 
 ```md
 !!! example "Example"
-    Lola rennt (Germany, 1998, Tom Tykwer) <br/>
+    Lola rennt (Germany, 1998, Tom Tykwer)
+    
     Work identifier: ISAN 0000-0000-606A-0000-0-0000-0000-3
 ```
 
