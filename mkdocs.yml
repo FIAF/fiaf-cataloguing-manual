@@ -61,6 +61,23 @@ hooks:
 
 plugins:
   - search
+  - exporter:
+      formats:
+        pdf:
+          enabled: true
+          stylesheets:
+            - markdown/assets/print.css
+          aggregator:
+            enabled: true
+            output: assets/fiaf-cataloguing-manual.pdf
+            covers: limits
+      buttons:
+        - title: Download PDF
+          icon: material-file-download-outline
+          enabled: !!python/name:mkdocs_exporter.formats.pdf.buttons.download.enabled
+          attributes:
+            href: !!python/name:mkdocs_exporter.formats.pdf.buttons.download.href
+            download: fiaf-cataloguing-manual.pdf
 
 nav:
   - Home:
