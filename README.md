@@ -11,40 +11,39 @@ The site is built with [MkDocs](https://www.mkdocs.org/) using the [Material the
 
 ### Directory structure
 
-| Path | Purpose |
-| --- | --- |
-| `markdown/` | Master content — one `index.md` per section/subsection |
-| `mkdocs.yml` | Site configuration and navigation |
-| `markdown/assets/` | CSS, logo, and favicon |
-| `markdown/diagrams/` | Diagram images |
-| `source_pdf_markdown/` | Original LaTeX/Markdown hybrid source (migration input only) |
-| `scripts/` | Migration and diagram generation tools |
-
-Content is organised into chapter directories under `markdown/`:
-
 ```
-markdown/
-├── preliminary/
-├── works/
-├── variants/
-├── manifestations/
-├── items/
-├── boundaries/
-├── agents/
-├── events/
-├── other-relationships/
-├── appendices/
-│   ├── titles/
-│   ├── cataloguers-notes/
-│   ├── value-lists/
-│   ├── aggregates/
-│   ├── element-comparison/
-│   ├── rights/
-│   ├── record-examples/
-│   ├── bibliography/
-│   └── element-list/
-├── assets/          ← CSS, logo, favicon (not markdown)
-└── diagrams/        ← diagram images (not markdown)
+fiaf-cataloguing-manual/
+├── markdown/              ← master content — one index.md per section/subsection
+│   ├── preliminary/
+│   ├── works/
+│   ├── variants/
+│   ├── manifestations/
+│   ├── items/
+│   ├── boundaries/
+│   ├── agents/
+│   ├── events/
+│   ├── other-relationships/
+│   ├── appendices/
+│   │   ├── titles/
+│   │   ├── cataloguers-notes/
+│   │   ├── value-lists/
+│   │   ├── aggregates/
+│   │   ├── element-comparison/
+│   │   ├── rights/
+│   │   ├── record-examples/
+│   │   ├── bibliography/
+│   │   └── element-list/
+│   ├── assets/            ← CSS, logo, favicon
+│   └── diagrams/          ← diagram images
+├── scripts/
+│   └── diagrams/          ← Python scripts that generate diagram images
+├── hooks/
+│   └── heading_numbers.py ← MkDocs hook for auto-numbering headings
+├── overrides/
+│   └── partials/          ← MkDocs Material theme overrides (logo.html)
+├── mkdocs.yml             ← site configuration and navigation
+├── compose.yml            ← Docker Compose setup for local preview
+└── SYNTAX.md              ← Markdown syntax guide for contributors
 ```
 
 Each chapter index is `{chapter}/index.md`; subsections are `{chapter}/{slug}/index.md`.
@@ -65,16 +64,6 @@ mkdocs serve
 ```
 
 The site is served at `http://localhost:8000`.
-
-### Content migration
-
-The `markdown/` directory was generated from `source_pdf_markdown/` using the conversion script. To regenerate:
-
-```sh
-python3 scripts/convert_mkdocs_content.py
-```
-
-This overwrites all files in `markdown/`. Edit the source files in `markdown/` directly for ongoing content work — the conversion script is only needed if re-migrating from the LaTeX source.
 
 ### Deployment
 
