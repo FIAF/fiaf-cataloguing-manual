@@ -64,7 +64,7 @@ plugins:
   - exporter:
       formats:
         pdf:
-          enabled: true
+          enabled: !ENV [CI_PDF, false]
           stylesheets:
             - markdown/assets/print.css
           aggregator:
