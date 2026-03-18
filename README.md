@@ -11,39 +11,39 @@ The site is built with [MkDocs](https://www.mkdocs.org/) using the [Material the
 
 ### Directory structure
 
-| Path | Purpose |
-| --- | --- |
-| `markdown/` | Master content — one `index.md` per section/subsection |
-| `mkdocs.yml` | Site configuration and navigation |
-| `markdown/assets/` | CSS, logo, and favicon |
-| `markdown/diagrams/` | Diagram images |
-| `scripts/diagrams/` | Diagram generation scripts |
-
-Content is organised into chapter directories under `markdown/`:
-
 ```
-markdown/
-├── preliminary/
-├── works/
-├── variants/
-├── manifestations/
-├── items/
-├── boundaries/
-├── agents/
-├── events/
-├── other-relationships/
-├── appendices/
-│   ├── titles/
-│   ├── cataloguers-notes/
-│   ├── value-lists/
-│   ├── aggregates/
-│   ├── element-comparison/
-│   ├── rights/
-│   ├── record-examples/
-│   ├── bibliography/
-│   └── element-list/
-├── assets/          ← CSS, logo, favicon (not markdown)
-└── diagrams/        ← diagram images (not markdown)
+fiaf-cataloguing-manual/
+├── markdown/              ← master content — one index.md per section/subsection
+│   ├── preliminary/
+│   ├── works/
+│   ├── variants/
+│   ├── manifestations/
+│   ├── items/
+│   ├── boundaries/
+│   ├── agents/
+│   ├── events/
+│   ├── other-relationships/
+│   ├── appendices/
+│   │   ├── titles/
+│   │   ├── cataloguers-notes/
+│   │   ├── value-lists/
+│   │   ├── aggregates/
+│   │   ├── element-comparison/
+│   │   ├── rights/
+│   │   ├── record-examples/
+│   │   ├── bibliography/
+│   │   └── element-list/
+│   ├── assets/            ← CSS, logo, favicon
+│   └── diagrams/          ← diagram images
+├── scripts/
+│   └── diagrams/          ← Python scripts that generate diagram images
+├── hooks/
+│   └── heading_numbers.py ← MkDocs hook for auto-numbering headings
+├── overrides/
+│   └── partials/          ← MkDocs Material theme overrides (logo.html)
+├── mkdocs.yml             ← site configuration and navigation
+├── compose.yml            ← Docker Compose setup for local preview
+└── SYNTAX.md              ← Markdown syntax guide for contributors
 ```
 
 Each chapter index is `{chapter}/index.md`; subsections are `{chapter}/{slug}/index.md`.
