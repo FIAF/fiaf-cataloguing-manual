@@ -1,0 +1,10 @@
+@page {
+  margin: 25mm 20mm;
+
+  @bottom-center {
+    content: counter(page);
+    font-family: "Brown", sans-serif;
+    font-size: 9pt;
+    color: #666;
+  }
+}
