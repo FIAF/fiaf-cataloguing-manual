@@ -12,7 +12,7 @@ A moving image Variant is an entity that may be used to indicate any change to c
 Such Variants can be produced by minor additions, deletions or substitutions to the content.
 As a general guideline, changes that would result in a different content description should be treated as a separate Work rather than a Variant, particularly regarding EN 15907 standard.
 
-Changes that could be described as Variants are detailed in [Boundaries between Works and Variants](/boundaries/#sec-boundaries_between_works_and_variants), and may include the addition of subtitles, dubbing, and editing as a result of censorship or adjustment of duration, e.g. for TV programming.
+Changes that could be described as Variants are detailed in [Boundaries between Works and Variants](/boundaries/boundaries_between_works_and_variants/), and may include the addition of subtitles, dubbing, and editing as a result of censorship or adjustment of duration, e.g. for TV programming.
 For institutions that have made a policy decision not to use the Variant, these changes may constitute Manifestation differences.
 
 The determination of a Variant requires human analysis, and as such is an interpretative practice.

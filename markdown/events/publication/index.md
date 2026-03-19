@@ -37,7 +37,7 @@ If known and considered of relevance, record the specific restrictions for acces
 ## Award(s) or Nomination(s)[^1]
 The bestowal of an award relating to the Work/Variant or Manifestation. This excludes awards for Agents alone (e.g. "for lifetime achievement"), but includes awards for individual achievements within the context of a Work or Variant (e.g. "Best screenplay"). Awards will usually be associated at the level of the Work, except for cases where features of a particular Variant are explicitly mentioned (e.g. "Best audio commentary for the visually impaired") or the award relates to a particular Manifestation (such as a DVD edition).
 
-An Award(s) or Nomination(s) Event may be associated with instances of Agent in the role of e.g. publisher, distributor, broadcaster , etc. See [Distributor (theatrical)](/agents/manifestation_agent_types/#sec-distributor_theatrical) and [sec:work_variant_agent_types](#sec-work_variant_agent_types). If the award was given for the achievement of a specific Agent within the context of the Work/Variant or Manifestation, identify the Agent. Also used to identify Agents that have sponsored the award.
+An Award(s) or Nomination(s) Event may be associated with instances of Agent in the role of e.g. publisher, distributor, broadcaster , etc. See [Distributor (theatrical)](/agents/agents_for_manifestations/#sec-distributor_theatrical) and [sec:work_variant_agent_types](#sec-work_variant_agent_types). If the award was given for the achievement of a specific Agent within the context of the Work/Variant or Manifestation, identify the Agent. Also used to identify Agents that have sponsored the award.
 
 An Award(s) or Nomination(s) Event may be associated with instances of other Events during which award winners were selected (e.g. film festival).
 
@@ -85,7 +85,7 @@ A distinct event in the course of production of a Work or Variant, including the
 
 May include year/date of shooting of non-professional, actuality or unedited footage.
 
-A Production Event may be associated with instances of Agent in the role of e.g. production company, location scout, etc. Selection should be made from a controlled list of values. See [Distributor (theatrical)](/agents/manifestation_agent_types/#sec-distributor_theatrical) and [sec:work_variant_agent_types](#sec-work_variant_agent_types).
+A Production Event may be associated with instances of Agent in the role of e.g. production company, location scout, etc. Selection should be made from a controlled list of values. See [Distributor (theatrical)](/agents/agents_for_manifestations/#sec-distributor_theatrical) and [sec:work_variant_agent_types](#sec-work_variant_agent_types).
 
 Record all the existing relationships of a Production/Publication Event, if the information is known and considered of relevance.
 
@@ -206,7 +206,7 @@ A Preservation/Restoration Event is associated with a new Variant, Manifestation
 
 This includes statements about past or future treatments scheduled for the item.  If desired and if applicable, record one or more general types of past or future treatment activities (e.g. "added leaders", "cleaned ultrasonically", "tears repair", etc.). Selection should be made from a controlled list of values.
 
-A Preservation/Restoration Event has as typical Agent(s) the institution(s) or individual professionals that make preservation decisions. Selection should be made from a controlled list of values. See [Distributor (theatrical)](/agents/manifestation_agent_types/#sec-distributor_theatrical) and [sec:work_variant_agent_types](#sec-work_variant_agent_types).
+A Preservation/Restoration Event has as typical Agent(s) the institution(s) or individual professionals that make preservation decisions. Selection should be made from a controlled list of values. See [Distributor (theatrical)](/agents/agents_for_manifestations/#sec-distributor_theatrical) and [sec:work_variant_agent_types](#sec-work_variant_agent_types).
 
 A Preservation/Restoration Event can be in relationship with instances of “Other” relationships (such as technical reports, documentation material, promotional material for the specific project, etc.).
 

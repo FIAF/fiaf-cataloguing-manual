@@ -12,7 +12,8 @@ The terms used in this Manual are derived from traditional bibliographic catalog
 
 The Types below reflect terms used in Section 4.1.2 Attributes in the CEN standard EN 15907. (INSERT LINK TO EN 15907 IN A FOOTNOTE along with "The terms and their definitions used in the EN 15907 Standard itself are rooted in those from UNESCO CCF/B (Common Communications Format / Bibliographic, UNESCO PGI-92/WS/9, Paris, 1992,(INSERT LINK) which related to bibliographic information.)
 
-**Analytic (component part)**: content that is contained in another content. 
+### Analytic (component part)
+Content that is contained in another content.
 A component part may itself be either monographic or serial. Component here means intentional component part not fragments or excerpts of a moving image, e.g. an individual element from a larger newsreel issue.
 
 Examples:
@@ -40,8 +41,8 @@ Examples:
 
 
 
-**Monographic**: Complete content in one part or intended to be completed in a finite number of parts.
-
+### Monographic
+Complete content in one part or intended to be completed in a finite number of parts.
 This is also applicable to television episodes.
 The record for the television series itself is catalogued as a Serial.
 
@@ -50,7 +51,8 @@ The record for the television series itself is catalogued as a Serial.
 
     Spaced. Series 1 Episode 1. 1999-09-02
 
-**Serial**: Content issued in successive parts and intended to be continued indefinitely, or across a span of time.
+### Serial
+Content issued in successive parts and intended to be continued indefinitely, or across a span of time.
 A Work record for a television series is catalogued as a “Serial.” Individual episodes may be catalogued as a Monographic record.
 
 !!! example "Example"
@@ -62,7 +64,8 @@ A Work record for a television series is catalogued as a “Serial.” Individua
 
     Breaking Bad (2008-01-20 – 2013-09-29)
 
-**Collection**: Content issued in several independent parts; an ‘umbrella’ work title covering a number of different Works/Variants/Manifestations[^2].
+### Collection
+Content issued in several independent parts; an ‘umbrella’ work title covering a number of different Works/Variants/Manifestations[^2].
 
 !!! example "Example"
     Pleasure (Joan Littlewood, c1963) (Footage shot on behalf of Joan Littlewood as part of her ‘Fun Palace’ project.) 
