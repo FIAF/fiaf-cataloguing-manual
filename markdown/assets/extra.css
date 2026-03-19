@@ -28,14 +28,12 @@
 :root,
 [data-md-color-scheme="default"],
 [data-md-color-scheme="slate"] {
-  --md-text-font:        "Brown";
-  --md-text-font-family: "Brown", sans-serif;
-  --md-code-font:        "Roboto Mono";
-  --md-code-font-family: "Roboto Mono", SFMono-Regular, Consolas, Menlo, monospace;
-  --md-typeset-a-color:  #e30521;
+  --md-text-font:       "Brown";
+  --md-code-font:       "Roboto Mono";
+  --md-typeset-a-color: #e30521;
 }
 
-:root {
+[data-md-color-scheme="default"] {
   /* Header: white background so black logo is visible */
   --md-primary-fg-color:        #ffffff;
   --md-primary-fg-color--light: #f1f2f2;
@@ -49,7 +47,7 @@
   --md-accent-bg-color:              #ffffff;
 
   /* Page background */
-  --md-default-bg-color: #f1f2f2;
+  --md-default-bg-color: #ffffff;
 }
 
 /* Red bottom border on header for brand accent */
