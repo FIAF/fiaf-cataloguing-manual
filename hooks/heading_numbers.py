@@ -35,6 +35,9 @@ def _assign(pages: list, chapter: str) -> None:
             if isinstance(value, str) and value not in _page_numbers:
                 sub += 1
                 _page_numbers[value] = f"{chapter}.{sub}"
+            elif isinstance(value, list):
+                sub += 1
+                _assign(value, f"{chapter}.{sub}")
 
 
 def on_config(config):
@@ -46,7 +49,7 @@ def on_config(config):
             continue
         label, value = next(iter(top_item.items()))
 
-        if label == "Manual" and isinstance(value, list):
+        if label == "Home" and isinstance(value, list):
             chapter_num = 0
             appendix_idx = 0
             for section_item in value:
