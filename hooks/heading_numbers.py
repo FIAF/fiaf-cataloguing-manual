@@ -21,6 +21,9 @@ import re
 # Populated in on_config; maps src_path → chapter string e.g. "0", "1", "A"
 _page_numbers: dict[str, str] = {}
 
+# Populated in on_config; maps nav section title → chapter string e.g. "0", "1", "A"
+_nav_labels: dict[str, str] = {}
+
 
 def _assign(pages: list, chapter: str) -> None:
     """Walk a section's page list and assign chapter numbers, skipping duplicates."""
@@ -41,8 +44,9 @@ def _assign(pages: list, chapter: str) -> None:
 
 
 def on_config(config):
-    global _page_numbers
+    global _page_numbers, _nav_labels
     _page_numbers = {}
+    _nav_labels = {}
 
     for top_item in config.get("nav", []):
         if not isinstance(top_item, dict):
@@ -62,15 +66,33 @@ def on_config(config):
                     for appendix_item in section_pages:
                         if not isinstance(appendix_item, dict):
                             continue
-                        appendix_pages = next(iter(appendix_item.values()))
+                        appendix_label, appendix_pages = next(iter(appendix_item.items()))
                         if isinstance(appendix_pages, list):
-                            _assign(appendix_pages, chr(ord("A") + appendix_idx))
+                            letter = chr(ord("A") + appendix_idx)
+                            _assign(appendix_pages, letter)
+                            _nav_labels[appendix_label] = letter
                             appendix_idx += 1
                 else:
                     _assign(section_pages, str(chapter_num))
+                    _nav_labels[section_label] = str(chapter_num)
                     chapter_num += 1
 
     return config
+
+
+def on_nav(nav, config, files):
+    from mkdocs.structure.nav import Section
+
+    def _prefix(items):
+        for item in items:
+            if isinstance(item, Section) and item.title in _nav_labels:
+                num = _nav_labels[item.title]
+                item.title = f"{num}. {item.title}"
+            if hasattr(item, "children") and item.children:
+                _prefix(item.children)
+
+    _prefix(nav.items)
+    return nav
 
 
 def on_post_page(output: str, page, config, **kwargs) -> str:
