@@ -1,0 +1,5 @@
+{% if "content.action.view" in features %}
+  <a href="{{ page.edit_url | replace('edit', 'blob') }}" title="{{ lang.t('source.link.title') }}" class="md-content__button md-icon">
+    {% include ".icons/material/pencil.svg" %}
+  </a>
+{% endif %}
