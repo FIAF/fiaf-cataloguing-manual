@@ -7,7 +7,7 @@ title: Event Type
 | [Award(s) or Nomination(s)](/events/publication/#sec-awards_or_nominations) | [Award(s) or Nomination(s)](/events/publication/#sec-awards_or_nominations) | [Award(s) or Nomination(s)](/events/publication/#sec-awards_or_nominations) |  |
 | [Production](/events/publication/#sec-production) | [Production](/events/publication/#sec-production) |  |  |
 | [Rights/Copyright/IPR Registration](/events/publication/#sec-values_rights_copyright_ipr_registration) | [Rights/Copyright/IPR Registration](/events/publication/#sec-values_rights_copyright_ipr_registration) | Licensing | Licensing |
-|  | [Preservation](/manifestations/theatrical_distribution/#sec-preservation) | [Preservation](/manifestations/theatrical_distribution/#sec-preservation) | [Preservation](/manifestations/theatrical_distribution/#sec-preservation) |
+|  | [Preservation](/manifestations/attributes_of_a_manifestation/#sec-preservation) | [Preservation](/manifestations/attributes_of_a_manifestation/#sec-preservation) | [Preservation](/manifestations/attributes_of_a_manifestation/#sec-preservation) |
 |  | [Decision](/events/publication/#sec-decision) | [Decision](/events/publication/#sec-decision) |  |
 |  |  | [Manufacture](/events/publication/#sec-manufacture) |  |
 |  |  |  | [Inspection](/events/accessioning_and_source/#sec-inspection) |

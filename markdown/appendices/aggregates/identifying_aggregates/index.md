@@ -93,7 +93,7 @@ Special Stills Photographer: Snowdon Un ballo in maschera, John Swannell La verg
 Supervising Co-ordinating Editor: Marie-Thérèse Boiché
 
 Each component title should not usually be created as a new Work, as this is not how the content was conceived (i.e., it was designed to be packaged and viewed together and is not separable) and none of them would then have any Manifestation record as an individual Work.
-Those institutions that have the ability or desire to separate them out to tie separate descriptions (e.g., credits) to each component part (i.e. representing the parent-child relationship), may represent them as Analytic Works (see [Work/Variant Description Types](/works/work_variant_description_types/#sec-work_variant_description_types)).
+Those institutions that have the ability or desire to separate them out to tie separate descriptions (e.g., credits) to each component part (i.e. representing the parent-child relationship), may represent them as Analytic Works (see [Work/Variant Description Types](/works/attributes_of_a_moving_image_work_variant/#sec-work_variant_description_type)).
 
 Should an institution acquire some or all of the components on different physical Items, then these should be linked to the Manifestation for the whole.
 In such cases it is simply a matter of a partial/incomplete acquisition, in the same way that only 2 reels of a 3 reel feature film might be acquired.

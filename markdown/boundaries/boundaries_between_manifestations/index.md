@@ -8,7 +8,7 @@ The boundaries between one Manifestation and another are drawn on the basis of t
 If the embodiment of a Work/Variant involves contextual changes, related to the publication or release process, the resulting product is a new Manifestation, e.g., a change from theatrical release to home video distribution; a change of release country and different dubbed/subtitled language; a change of broadcast company/streaming platform; a re-release or repeat broadcast on a different date, etc.
 
 In this case, create a new Manifestation and characterise it according to a controlled list.
-A suggested list, which is open and not exhaustive, can be found at [Manifestation Types](/manifestations/manifestation_types/#sec-manifestation_types)
+A suggested list, which is open and not exhaustive, can be found at [Manifestation Types](/manifestations/attributes_of_a_manifestation/#sec-manifestation_type)
 
 <a id="sec-changes_in_the_format"></a>
 ## Changes in the Format

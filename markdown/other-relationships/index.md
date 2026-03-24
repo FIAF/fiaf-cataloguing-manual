@@ -75,7 +75,7 @@ In a note, add any additional information concerning the relationship considered
 
 Describe or demonstrate Work-to-Work relationships through linking to the Work identifier of the related Work, through the usage of relator terms, or according to the confines of the institution’s data structure.
 
-Remember, a Work based on a pre-existing Work should be identified as a Variant of the same Work unless it has been so significantly changed as to have become a new related Work.[^3] See [Boundaries between Works](/boundaries/#sec-boundaries_between_works) and [Boundaries between Works and Variants](/boundaries/#sec-boundaries_between_works_and_variants) for determining when a Work should be identified as a new, but related Work and when it should be identified as a Variant of the original Work.
+Remember, a Work based on a pre-existing Work should be identified as a Variant of the same Work unless it has been so significantly changed as to have become a new related Work.[^3] See [Boundaries between Works](/boundaries/boundaries_between_works/) and [Boundaries between Works and Variants](/boundaries/boundaries_between_works_and_variants/) for determining when a Work should be identified as a new, but related Work and when it should be identified as a Variant of the original Work.
 
 <a id="sec-variants"></a>
 ### Variants
