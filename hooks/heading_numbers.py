@@ -94,7 +94,7 @@ def on_config(config):
     return config
 
 
-def on_nav(nav, _config, _files):
+def on_nav(nav, **kwargs):
     """Prefix sidebar section titles with their chapter/appendix number."""
 
     def _prefix(items):
