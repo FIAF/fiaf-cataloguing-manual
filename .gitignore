@@ -3,3 +3,4 @@
 .DS_Store
 src/manual.pdf
 site/
+__pycache__/
