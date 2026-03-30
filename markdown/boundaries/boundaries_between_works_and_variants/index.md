@@ -13,3 +13,4 @@ When using a 3-level hierarchy - Work, Manifestation, and Item – minor changes
 In all cases, major changes warrant the creation of new Work records.
 
 ![](/diagrams/figure_18.png)
+<center><object data="/diagrams/figure_18.drawio.svg" type="image/svg+xml" width="100%"></object></center>
