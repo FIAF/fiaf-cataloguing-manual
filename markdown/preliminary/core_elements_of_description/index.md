@@ -46,6 +46,8 @@ Where there is a user need or requirement, some institutions may also develop da
 The full list of elements of description for each entity is set out in the following charts and diagrams, and in Chapters 1-3.
 See [Examples of records containing core elements in the different levels of hierarchy](/appendices/record-examples/) for examples of real records which contain these core elements (as well as others) across the hierarchies.
 
+<center><object data="/diagrams/figure_01.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+
 ![](/diagrams/figure_01.png)
 ![](/diagrams/figure_02.png)
 ![](/diagrams/figure_03.png)
