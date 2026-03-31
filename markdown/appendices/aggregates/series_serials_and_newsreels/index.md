@@ -23,21 +23,15 @@ There could then be a clarifying note on the Manifestation where necessary, i.e.
 
 See example below for The thick of it DVD boxed set:
 
-![](/diagrams/figure_15.png)
+<center><object data="/diagrams/figure_15.drawio.svg" type="image/svg+xml"></object></center>
 
 Alternatively, a model similar to [Model: Collection Aggregate Manifestation within a many-to-many Works/Variants-Manifestation database system](/appendices/aggregates/modelling_aggregates/#sec-collection_aggregate_manifestation_within_a_many_to_many) can be used, whereby a single Aggregate Manifestation links to the many individual Works/Variants in “part of” relationship:
 
-```{=latex}
-\begin{center}
-```
-![](/diagrams/figure_16.png){ width="300" }
-```{=latex}
-\end{center}
-```
+<center><object data="/diagrams/figure_16.drawio.svg" type="image/svg+xml"></object></center>
 
 Where this Serial Work–Monographic Work hierarchy structure does not exist, then a new aggregating Work may be created and linked via an associated contains/contained in relationship in line with models for any other Collection Aggregate.
 
-![](/diagrams/figure_17.png)
+<center><object data="/diagrams/figure_17.drawio.svg" type="image/svg+xml"></object></center>
 
 For how this might be modelled in a flat or single hierarchy system see [Example 7. Aggregate DVD Television Serial and Episode records in 1-level Hierarchy Models](/appendices/record-examples/example_seven/#sec-example_seven)
 
