@@ -725,28 +725,27 @@ Below are some of the potential structuring options for the same production mate
 
 1. Where a new Work is created for each type of production material, each with a Pre-release Manifestation, and relevant Items linked to those; with an associated related link/reference to the released Work record:
 
-[INSERT DIAGRAM 1 WITH SEVERAL NEW WORKS, EACH WITH OWN MANIFESTATION AND RELEVANT ITEM(S) STRUCTURE]
+<center><object data="/diagrams/title_type_01.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 2. Where one new Work is created as a general one for any production material, with multiple Pre-release Manifestations for each type of production material and relevant Items linked to each of those; with an associated related link/reference to the released Work record:
 
-[INSERT DIAGRAM 4 WITH ONE NEW WORK, MULTIPLE MANIFESTATIONS AND RELEVANT ITEM(S) STRUCTURE]
+<center><object data="/diagrams/title_type_04.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 3. Where one new Work is created as a general one for any production material, with one general Pre-release Manifestation and all Items linked to that; with an associated related link/reference to the released Work record:
 
-[INSERT DIAGRAM 2 WITH ONE MAIN WORK, ONE MANIFESTATION, ALL ITEMS UNDER ONE]
+<center><object data="/diagrams/title_type_02.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 4. Where one general Pre-release Manifestation is created linked to the original released Work record and all production material Items linked to that one Manifestation:
 
-[INSERT DIAGRAM 3 WITH ORIGINAL WORK, ONE NEW MANIFESTATION, ALL PRODUCTION MATERIAL ITEMS UNDER THE LATTER]
+<center><object data="/diagrams/title_type_03.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 Where an institution acquires large collections or amounts of production materials associated with a moving image or moving image serial then a structure utilising a Collection level Work with multiple linked Monographic level Works is advisable [ADD INTERNAL LINK TO WORK/VARIANT DESCRIPTION TYPE, APPENDIX D.1]. For example, the acquisition of a large quantity of production material associated with the 13-part television documentary series Hollywood (United Kingdom, 1980) [ADD LINK TO https://en.wikipedia.org/wiki/Hollywood_(British_TV_series) IN A FOOTNOTE HERE], which can be structured with the Collection Work and Monographic Works in a hierarchical relationship, e.g.:
 
-[INSERT PRODUCTION MATERIALS COLLECTION AND MONOGRAPHIC WORKS STRUCTURING DIAGRAM 1 HERE]
+<center><object data="/diagrams/title_type_05.drawio.svg" type="image/svg+xml" width="60%"></object></center>
 
 Or, optionally, with the Collection Work being in an associated relationship with each Monographic Work:
 
-[INSERT PRODUCTION MATERIALS COLLECTION AND MONOGRAPHIC WORKS STRUCTURING DIAGRAM 2 HERE]
-
+<center><object data="/diagrams/title_type_06.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 Trailers do not strictly constitute production material as they are effectively entities in their own right, potentially with Agents that are different to those of the moving image itself. They are a type of advertisement for the moving image and have their own publication via cinema release, television broadcast, or online streaming. They would follow the titling laid out in A.2.5.1. and A.2.5.2 above and usually be linked in an associative relationship with the original moving image for which they are trailers.
 
