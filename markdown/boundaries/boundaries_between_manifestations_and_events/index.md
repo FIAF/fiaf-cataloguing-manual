@@ -21,7 +21,7 @@ The absence of Date and Country as Manifestation Elements and specific different
 
 That would imply something like this
 
-[Insert BME Diagram 3]
+<center><object data="/diagrams/bme_03.drawio.svg" type="image/svg+xml" width="80%"></object></center>
 
 Some system databases may not have the ability or full functionality to have Events records, but do have Manifestations; in which case they may make use of a wider list of Manifestation Types and have fields relating to EN 15907 Events data embedded within the Manifestation record itself. These systems will be more likely to make use of a structure of multiple Manifestations rather than one Manifestation with multiple publication Events.
 For example:
@@ -47,13 +47,15 @@ This means that the one standard and structuring can be applied with mixed colle
 Institutions may also not only collect and acquire items, but stream their own VOD (Video on Demand) channels, e.g. BFIplayer which provides a mixture of Free, Subscription and Transactional VOD, using digital items to stream the content.
 Thus, having an Internet Manifestation type means that both acquired or produced VOD materials can be captured within an EN 15907 structure. The actual digital Items held and representing records for the files used in streaming can then be linked to these Manifestations.
 
-Where institutions use a 4 or 3 level hierarchy andhave moving image collections that include both film and television programmes, significant amounts of production materials, digitisation projects for preservation/restoration, and streaming content, then there seems less complexity and more structural logic and sense to developing use of Manifestation Type, e.g.
+Where institutions use a 4 or 3 level hierarchy and have moving image collections that include both film and television programmes, significant amounts of production materials, digitisation projects for preservation/restoration, and streaming content, then there seems less complexity and more structural logic and sense to developing use of Manifestation Type, e.g.
 
-[Insert Diagram BME 1 here]
+<center><object data="/diagrams/bme_01.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+
 
 Or in a 4-level hierarchy this (NB. The TV and Internet Manifestations will link to Agents and other Event types, although may be less likely to have a Publication Event as often the Elements such as date/time/place are found within the Manifestation record itself in several database systems.) 
 
-[Insert Diagram BME 2 here]
+<center><object data="/diagrams/bme_02.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+
 
 Those archives opting for this sort of structuring tend to have date, publication country, and broadcaster/streamer fields within their Manifestation records – effectively Publication Events data is embedded within the Manifestation record itself.
 
