@@ -28,7 +28,7 @@ For example:
 
 <center><object data="/diagrams/figure_05.drawio.svg" type="image/svg+xml"></object></center>
 
-The EN 15907 standard does not have date or release country as being core elements of a Manifestation, envisaging that information being in an associated Event. However, many systems do include those fields within their Manifestation records, as actual attributes of the Manifestation, as can be seen in some of the examples featured in Appendix I.[ADD LINK] In systems with no, or minimal, Events records capabilities it is the most logical alternative place to capture that important relevant data.
+As previously mentioned, the EN 15907 standard does not have date or release country as being core elements of a Manifestation, envisaging that information being in an associated Event. However, many systems do include those fields within their Manifestation records, as actual attributes of the Manifestation, as can be seen in some of the examples featured in Appendix I.[ADD LINK] In systems with no, or minimal, Events records capabilities it is the most logical alternative place to capture that important relevant data.
 
 Other systems may have developed and utilise Events more in line with EN 15907 to reflect data about different releases in various countries, e.g.   
 
@@ -45,6 +45,7 @@ For a television programme, its broadcast is the actual primary, and often only,
 This means that the one standard and structuring can be applied with mixed collections within the one moving image database system, rather than try to use EN 15907 with films and another standard, such as PBCore, with television programmes. 
 
 Institutions may also not only collect and acquire items, but stream their own VOD (Video on Demand) channels, e.g. BFIplayer which provides a mixture of Free, Subscription and Transactional VOD, using digital items to stream the content.
+
 Thus, having an Internet Manifestation type means that both acquired or produced VOD materials can be captured within an EN 15907 structure. The actual digital Items held and representing records for the files used in streaming can then be linked to these Manifestations.
 
 Where institutions use a 4 or 3 level hierarchy and have moving image collections that include both film and television programmes, significant amounts of production materials, digitisation projects for preservation/restoration, and streaming content, then there seems less complexity and more structural logic and sense to developing use of Manifestation Type, e.g.
@@ -52,14 +53,14 @@ Where institutions use a 4 or 3 level hierarchy and have moving image collection
 <center><object data="/diagrams/bme_01.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 
-Or in a 4-level hierarchy this (NB. The TV and Internet Manifestations will link to Agents and other Event types, although may be less likely to have a Publication Event as often the Elements such as date/time/place are found within the Manifestation record itself in several database systems.) 
+Or in a 4-level hierarchy this: 
 
 <center><object data="/diagrams/bme_02.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 
 Those archives opting for this sort of structuring tend to have date, publication country, and broadcaster/streamer fields within their Manifestation records – effectively Publication Events data is embedded within the Manifestation record itself.
 
-There is also the consideration of a pure EN 15907 structure approach meaning disparate pieces of relevant and related data sitting in the Manifestation and the Event and how that may impact user access. Also, how to cope with a potential tangle of complex structuring with a variety of materials in a collection for the same Work, and realistic resourcing and capabilities of differing database systems used by Archives and institutions. This manual recognises both the purist and pragmatic approaches.
+There is also the consideration of a pure EN 15907 structure approach meaning disparate pieces of relevant and related data sitting in the Manifestation and the Event and how that may impact user access. Also, how to cope with potential complex structuring with a variety of materials in a collection for the same Work, and contexts such as the realistic resourcing and capabilities of differing database systems used by Archives and institutions. This manual recognises both the purist and pragmatic approaches and it is for an institution to assess and choose.
 
 For those cataloguing in non-relational databases, paper or card catalogues, or Excel,  then many of the elements that EN 15907 sees as being linked “related” records, including Events, will always be an attribute of the main 1-level hierarchy moving image record.
 
