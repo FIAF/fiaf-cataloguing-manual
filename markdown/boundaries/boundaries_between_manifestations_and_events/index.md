@@ -26,13 +26,13 @@ That would imply something like this
 Some system databases may not have the ability or full functionality to have Events records, but do have Manifestations; in which case they may make use of a wider list of Manifestation Types and have fields relating to EN 15907 Events data embedded within the Manifestation record itself. These systems will be more likely to make use of a structure of multiple Manifestations rather than one Manifestation with multiple publication Events.
 For example:
 
-![](/diagrams/figure_05.png)
+<center><object data="/diagrams/figure_05.drawio.svg" type="image/svg+xml"></object></center>
 
 The EN 15907 standard does not have date or release country as being core elements of a Manifestation, envisaging that information being in an associated Event. However, many systems do include those fields within their Manifestation records, as actual attributes of the Manifestation, as can be seen in some of the examples featured in Appendix I.[ADD LINK] In systems with no, or minimal, Events records capabilities it is the most logical alternative place to capture that important relevant data.
 
 Other systems may have developed and utilise Events more in line with EN 15907 to reflect data about different releases in various countries, e.g.   
 
-![](/diagrams/figure_06.png)
+<center><object data="/diagrams/figure_06.drawio.svg" type="image/svg+xml"></object></center>
 
 Structuring decisions around Manifestations and Events may also depend on the nature, size, use, and user needs of an institution’s moving image collections.
 

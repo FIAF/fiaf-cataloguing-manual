@@ -54,13 +54,13 @@ There is the option of an institution using a devised/supplied title (see [Suppl
 This model involves creation of a new aggregating Work record.
 Works link together in associative relationship “contains/contained in” and aggregate Manifestation links to aggregating Work in “part of” relationship.
 
-![](/diagrams/figure_10.png)
+<center><object data="/diagrams/figure_10.drawio.svg" type="image/svg+xml"></object></center>
 
 <a id="sec-collection_aggregate_manifestation_within_a_many_to_many"></a>
 ### Model: Collection Aggregate Manifestation within a many-to-many Works/Variants-Manifestation database system
 A single Aggregate Manifestation links to the many individual Works/Variants in “part of” relationship.
 
-![](/diagrams/figure_11.png)
+<center><object data="/diagrams/figure_11.drawio.svg" type="image/svg+xml"></object></center>
 
 <a id="sec-collection_aggregate_manifestation_with_no_aggregated_item"></a>
 ### Model: Collection Aggregate Manifestation with no aggregated Item, only unaggregated individual Items
@@ -71,7 +71,7 @@ The original individual Works and aggregating Work link together in associative 
 This model may occur particularly with internet broadcasts and digital files, whereby an aggregate Internet Manifestation is available as an Internet broadcast, but is streamed in from individual digital files (i.e. individual Items) seamlessly and consecutively, not from a single aggregated digital file, i.e. a thematic compilation of three short films of the late 19th century is devised and entitled “Victorian Cinema 3”[^3].
 The internet user views the whole aggregate Manifestation as one entity, but it is streamed from separate digital Items streamed seamlessly one after the other.
 
-![](/diagrams/figure_12.png)
+<center><object data="/diagrams/figure_12.drawio.svg" type="image/svg+xml"></object></center>
 
 In the above scenario each of the Items could be given the same location/package number and each could have the alternative title of “Victorian Cinema 3”.
 Similarly, the individual titles could also be added as alternative titles to the aggregating Work if an institution wishes, to aid searchability and access.
@@ -87,13 +87,13 @@ Modelling for Augmented Collection Aggregates follows the same principles as tho
 This involves creation of a new aggregating Work record.
 Works link together in associative relationship “contains/contained in” and aggregate Manifestation links to aggregating Work in “part of” relationship.
 
-![](/diagrams/figure_13.png)
+<center><object data="/diagrams/figure_13.drawio.svg" type="image/svg+xml"></object></center>
 
 <a id="sec-augmented_aggregate_manifestation_within_a_many_to_many"></a>
 ### Model: Augmented Aggregate Manifestation within a many-to-many Work/Variants-Manifestations database system
 Single Aggregate Manifestation links to all individual Works/Variants in “part of” relationship.
 
-![](/diagrams/figure_14.png)
+<center><object data="/diagrams/figure_14.drawio.svg" type="image/svg+xml"></object></center>
 
 An institution can choose whether to create all components of the Augmented aggregate Manifestation as Works, or selected ones.
 
