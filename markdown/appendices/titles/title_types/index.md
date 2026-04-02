@@ -1079,17 +1079,17 @@ For practical and efficiency reasons, as well as systems workflows, an instituti
 
 This type of 3-tier Works structuring is a logical extension of the 2-tier Serial-Monographic parent-child linked hierarchical structures used already in many institutions.[ADD THE FOLLOWING FOOTNOTE HERE   This also corresponds with structures in UNESCO CCF/B (Common Communications Format / Bibliographic, UNESCO PGI-92/WS/9, Paris, 1992,(INSERT LINK) relating to vertical structuring and Series-Monograph-Component types (which are the basis for EN 15907 Description levels aka Work/Variant Description Types).]
 
-[INSERT DIAGRAM 12. TB. In Further enhanced structuring possibilities with analytic/component parts and identified newsreels/cinemagazines HERE]
+<center><object data="/diagrams/numb_13.drawio.svg" type="image/svg+xml"></object></center>
 
 This would then ultimately have the following record structure:
 
-[INSERT DIAGRAM 13. TB. In Further enhanced structuring possibilities with analytic/component parts and identified newsreels/cinemagazines HERE]
+<center><object data="/diagrams/numb_14.drawio.svg" type="image/svg+xml"></object></center>
 
 as well as additional “Other relationships” between some of these, i.e. an associative contains/contained in relationship between the Mongographic and Analytic Work and a source item/derived item relationship between the two Items.
 
 Under existing EN 15907, usual structuring would be to create new Analytic Works (with their own new Manifestations and Items) and relate those Works to the original whole newsreel issue in which they featured, in an associative “Other Relationship”. In a system where Serial and Monographic Works usually sit in a horizontal Other Relationships structure then this can be followed, i.e.
 
-[INSERT DIAGRAM 14. TB. In Further enhanced structuring possibilities with analytic/component parts and identified newsreels/cinemagazines HERE]
+<center><object data="/diagrams/numb_15.drawio.svg" type="image/svg+xml"></object></center>
 
 <a id="sec-further_enhanced_structuring_possibilities_with_large_newsreel_cinemagazine_or_television_series_serials"></a>
 ### Further enhanced structuring possibilities with large newsreel/cinemagazine or television series/serials
@@ -1097,7 +1097,7 @@ A further, and similar, enhanced hierarchical structuring of different types of 
 
 For example, a collection of all the UK daily morning news and magazine programme Good Morning Britain:
 
-[INSERT DIAGRAM 15. GMB. In Further enhanced structuring possibilities with large newsreel/cinemagazine or television series/serials HERE]
+<center><object data="/diagrams/numb_16.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 While not actually stipulated or covered in the EN 15907 standard model, the inherent flexibility of that model and structure does potentially enable possible stretching of the standard, and it could be argued that it is logically acceptable structuring within EN 15907. 
 
@@ -1105,7 +1105,7 @@ Whilst system work-arounds that impact on data standards are not to be advocated
 
 In some instances, this concept could even lead to a Great Grandparent-Grandparent-Parent-Child Work hierarchical relationship structure:
 
-[INSERT DIAGRAM 16. TB. In Further enhanced structuring possibilities with large newsreel/cinemagazine or television series/serials HERE]
+<center><object data="/diagrams/numb_17.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 <a id="sec-analytics_components_of_unidentified_newsreels_cinemagazines"></a>
 ### Analytics/components of unidentified newsreels/ cinemagazines
@@ -1157,7 +1157,7 @@ In cases of potentially different versions of a newsreel/cinemagazine episode, t
 
 For Item(s) that have not yet been viewed, then if the film header, can, accompanying paperwork, legacy records, etc. indicate that an item acquired is a particular version of a newsreel/cinemagazine episode, then the Item can be created and linked to the original episode Work and Manifestation. By having a partially devised title for the Item(s) the version distinctions could be indicated, e.g. 
 
-[insert [DIAGRAM 17. LL. In Titles and structuring of Variant newsreel/cinemagazine episodes HERE]
+<center><object data="/diagrams/numb_18.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 This could be a temporary measure prior to viewing, checking, and fuller cataloguing. For example, after further researches and viewing it could be established that the Work/Variant and Manifestations for what was designated “East African Version” was more specifically that released in Kenya, so titling can subsequently be revised to London Line Greets ’69 [Kenyan Version] for the Item and its linked Manifestation, and Work/Variant.
 
@@ -1167,11 +1167,11 @@ If the episode has the same content, the commentary is the same (just perhaps a 
 
 If, for example, London Line No. 373 simply had different presenters for one version but the same commentary – or the level of difference was not yet known from researches – then the following data structures can be used:
 
-[INSERT [DIAGRAM 18. LL. In Titles and structuring of Variant newsreel/cinemagazine episodes HERE]
+<center><object data="/diagrams/numb_19.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 Or if you institution does not use Variants:
 
-[INSERT [DIAGRAM 19. LL. In Titles and structuring of Variant newsreel/cinemagazine episodes HERE]
+<center><object data="/diagrams/numb_20.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 The above diagrams also illustrate the structure that could be used where there is an additional separate acquisition of one of the component elements of one of the versions.
 
@@ -1185,11 +1185,11 @@ Content descriptions (e.g. synopses and/or shotlists), Subjects, Cast, Credits, 
 
 If preferred, then partially devised titles can be used for easy identification across the new Works/ Variants, Manifestations, and Items, as in the examples featured. Use whichever practice or stylistic is preferred by your institution for these, e.g. square brackets, punctuation system within the titling itself, or a corresponding title type, etc.
 
-[INSERT [DIAGRAM 20. LL. In Titles and structuring of Variant newsreel/cinemagazine episodes HERE]
+<center><object data="/diagrams/numb_21.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 And if variations are minor and Variants are used, then structure would look like this:
 
-[INSERT [DIAGRAM 21. LL. In Titles and structuring of Variant newsreel/cinemagazine episodes HERE]
+<center><object data="/diagrams/numb_22.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 [^1]: Term “Identifying title” corresponds with EN 15907. This is the equivalent of “Uniform title” in FRBR and “Preferred title” in RDA.
 [^2]: Adapted from FIAF, 1.4. Other title information, p. 25.
