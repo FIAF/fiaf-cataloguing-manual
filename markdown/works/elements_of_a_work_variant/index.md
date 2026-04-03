@@ -35,12 +35,13 @@ Use what makes sense for your institution; there is no recommendation for one pa
 However, it is recommended that at least one unique identifier be included in the record.
 It is critical that each Identifier be unique.
 
-*Pietro Fosco is the pseudonym of Giovanni Pastrone used in the ISAN registration.*
 
 !!! example "Example"
     Cabiria (Italy, 1914, Piero Fosco)  
 
     Work identifier – ISAN number: ISAN 0000-0000-7B37-0000-J-0000-0000-H
+
+    Note: Pietro Fosco is the pseudonym of Giovanni Pastrone used in the ISAN registration.
 
 !!! example "Example"
     Volver (Spain, 2006, Pedro Almodovar)  
@@ -197,7 +198,7 @@ b) Retain the old geo-political countries which relate to or are given in the fi
 
 c) Where countries have attained independence from former empires, multinational states or unions, earlier films made by production companies/studios in the same geographical areas of the countries concerned may be culturally and linguistically a part of their heritage, or there is a need or desire for an institution to identify such films distinct from those in other areas of the same empire or union. e.g. Ukraine. Thus, Ukraine could be added as an additional country to films made during the times it was part of the Russian Empire or USSR. In that case add Ukraine as an additional country, preferably as an ISO code ([https://www.iso.org/obp/ui/#iso:code:3166:UA](https://www.iso.org/obp/ui/#iso:code:3166:UA)). Under ISO this technically pertains to the country post-1991, with use of the Soviet Union/USSR before then. Under LC/MARC though, country Ukraine “covers both the Ukrainian SSR (1917-Aug.24 1991) and the newly independent Ukraine (25 Aug. 1991- )”. [It should be noted that 1917 is historically inaccurate: The Ukrainian SSR was established only in 1919].
 
-d) Alternatively create a country for the Ukrainian SSR, Georgian SSR, Armenian SSR, etc. and apply those as additional production countries. Sometimes these Soviet Socialist Republics (SSRs) existed independently until joining together to form the USSR in 1922, and it may be relevant to just use these as production country for any films made between 1918 and 1922. However, there are no ISO codes for separate Soviet Socialist republics except for Byelorussian SSR. [ADD FOOTNOTE: SSRs were often officially formed on different dates between 1918 and the 1930s, and there were also often subsequent boundary changes between them. For further exploration of this see ADD LINK TO CDC FIAF website Ukraine document if latter has been enhanced with additional details]
+d) Alternatively create a country for the Ukrainian SSR, Georgian SSR, Armenian SSR, etc. and apply those as additional production countries. Sometimes these Soviet Socialist Republics (SSRs) existed independently until joining together to form the USSR in 1922, and it may be relevant to just use these as production country for any films made between 1918 and 1922. However, there are no ISO codes for separate Soviet Socialist republics except for Byelorussian SSR. [^200]
 
 e) Combinations of any of the above.
 
@@ -446,13 +447,13 @@ Information on the provenance of the specific Items in an archive’s collection
 ### Censorship History
 Document information related to the censorship history of a Work/Variant, including:[^16]
 
-*Any events in which a Manifestation/Item of a Work/Variant was evaluated by a censorship body or an accredited rating agency.* 
+- Any events in which a Manifestation/Item of a Work/Variant was evaluated by a censorship body or an accredited rating agency.
 
-*The geographic region for which the verdict is (was) valid.*
+- The geographic region for which the verdict is (was) valid.
 
-*Any identifier issued by the agency uniquely identifying the act of rating or censorship and associated documents such as censorship visa or rating certificates.*
+- Any identifier issued by the agency uniquely identifying the act of rating or censorship and associated documents such as censorship visa or rating certificates.
 
-*The outcome of the act of rating or censorship.*
+- The outcome of the act of rating or censorship.
 
 !!! example "Example"
     À bout de souffle (France, 1960, Jean-Luc Godard) 
@@ -500,6 +501,7 @@ According to the 2004 law, the biggest part of the cast and crew, the locations,
 [^3]: The first of these was the formula followed by the British Film Institute. BFI CID Stylistics Manual – 2nd Edition. A.8.1., which subsequently changed to using a country of reference ordering based more on the on-screen ordering of production companies. CID Cataloguing Manual|Moving Image Catalogue (revised 2022). F.4 and F.4.1.
 [^4]: http://www.iso.org/iso/home/standards/country_codes.htm
 [^5]: ISO 3166-3 Codes for the representation of names of countries and their subdivisions -- Part 3: Code for formerly used names of countries, is available for purchase as a PDF on the ISO website: [http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=2130](http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=2130)
+[^200]: SSRs were often officially formed on different dates between 1918 and the 1930s, and there were also often subsequent boundary changes between them. For further exploration of this see ADD LINK TO CDC FIAF website Ukraine document if latter has been enhanced with additional details
 [^6]: EN 15907, 6.6 Year of Reference, p. 20
 [^7]: Irish Film Archive, p. 13.
 [^8]: FIAF, 3.5.4, p. 64

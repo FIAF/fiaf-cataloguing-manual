@@ -2,38 +2,8 @@
 title: Introduction
 ---
 
-## Dedication
-This manual is dedicated to **Christian Dimitriu** (1945-2016), whose contributions to the field of moving image archiving and FIAF, are immeasurable; and to **Ronny Loewy** (1946-2012), whose knowledge of moving image metadata standards was a primary and crucial source of information during the development of this publication; and to **Laurent Bismuth** (1965-2021), a passionate advocate of CEN 15907 standard whose extensive cataloguing knowledge and expertise and contributions in discussions during the compilation of this publication were invaluable.
-
-<a id="sec-acknowledgements"></a>
-## Acknowledgements
-This manual is a result of the combined efforts of many professionals to whom we owe our gratitude.
-
-Contributors to early, formative discussions that informed the basis for our approach include Anna Bohn, Marco Rendina, Rosario López de Prado, Anne-Marie Grapton, Andrea Leigh, and Kelley McGrath.
-
-Many professionals from the FIAF Cataloguing Rules Revision Working Group graciously volunteered their knowledge and experience to the review of this manual.
-A special thanks to Laurent Bismuth, Georg Eckes, and Detlev Balzer for their thoughtful suggestions for improvement.
-We also appreciate Detlev for hosting the FIAF Cataloguing and Documentation Commission (CDC) wiki on his filmstandards.org website.
-
-Several of the illuminating charts and examples, and other formatting needs (such as URLs) were kindly handled by Marian Hausner, Mats Skärstrand, and Miriam Campos-Quinn.
-Marian Hausner also did a painstaking job constructing the bibliography.
-
-This work could not have been done without the support and guidance of the British Film Institute who contributed institutional policies and documents for our use.
-In particular, we want to mention Gabriele Popp, who encouraged and supported BFI staff involvement, and Stephen McConnachie, who generously contributed content and freely gave of his time and knowledge.
-
-We thank current and former members of the CDC, the members of the FIAF Executive Committee, and the FIAF Senior Administrator for their support, especially Christophe Dupin, Rachael Stoeltje, and Olga Futemma.
-
-A very special thank you is owed to Nancy Goldman, who managed numerous steps of the project, such as convening and chairing meetings and guiding the project’s development.
-She also contributed to the authoring of the manual and invested many hours in providing valuable insight and constructive criticism.
-
-Lastly, we are indebted to Linda Tadic, who did a superb job of editing the manual and offered us the wisdom of her expertise, especially in the realm of digital media; and also to designer Lara Denil for all her hard work in improving and transforming the final layout of the manual for publication.
-
-Natasha Fairbairn (Co-author)     
-Maria Assunta Pimpinelli (Co-author ; co-Chair, FIAF Rules Revision)     
-Thelma Ross (Co-author ; co-Chair, FIAF Rules Revision)
-
 <a id="sec-introduction"></a>
-## Introduction
+
 The archival moving image field has changed dramatically in recent years, with technological advances revolutionising cataloguing, preservation, and access practices.
 To help cataloguers and archivists respond to these changes, FIAF presents the *FIAF Moving Image Cataloguing Manual (FIAF Manual)*, a revision of the 1991 *FIAF Cataloguing Rules for Film Archives (FIAF Rules)*.
 These new guidelines, created by the FIAF Cataloguing and Documentation Commission and the FIAF Cataloguing Rules Revision Working Group, will help cataloguers create cataloguing or metadata records that will meet requirements of new database technologies and new metadata standards while remaining compatible with older methods and standards.
@@ -83,7 +53,6 @@ While these guidelines are intended to be applicable to all forms of moving imag
 **FRBR-based CEN Terms in Brief**
 
 These guidelines use the terminology of CEN Cinematographic Works Standards for terms reflecting the core structuring of moving image records - namely Work, Variant, Manifestation and Item.
-It is worthwhile providing brief definitions for preliminary guidance here (whilst FRBR is discussed in more depth in [Appendix F.3 Relationship of FIAF Cataloguing Rules to Functional Requirements of Bibliographic Records](#manual-F.3))
 
 *Work*
 
@@ -115,47 +84,51 @@ Functional Requirements for Bibliographic Records (FRBR) was published in 1998 b
 
 FRBR identifies and defines three groups of entities:[^9]
 
-Group 1 (products of intellectual or artistic endeavor)
+- Group 1 (products of intellectual or artistic endeavor)
 
-Work
-Expression
-Manifestation
-Item
-Group 2 (responsible for content, production, or custodianship of Group 1 entities)
+    - Work     
+    - Expression     
+    - Manifestation     
+    - Item 
 
-Person
-Corporate Body
-Group 3 (may serve as subjects of Group 1 entities)
+- Group 2 (responsible for content, production, or custodianship of Group 1 entities)
 
-Group 1 and 2 entities
-Concept
-Object
-Event
-Place
+    - Person     
+    - Corporate Body     
+
+- Group 3 (may serve as subjects of Group 1 entities)
+
+    - Group 1 and 2 entities
+    - Concept
+    - Object
+    - Event
+    - Place
+    
 This manual focuses almost exclusively on the Group 1 entities, their attributes and relationships. Although it also briefly provides guidelines for the description of the Group 2 and Group 3 entities, we recommend the use of other manuals and appropriate existing national or international standards for more detail in these areas.
 
 <a id="sec-existing_standards_for_describing_entities"></a>
 #### Existing standards for describing Entities
 Existing standards for describing Entities include:
 
-RDA
+- RDA
 
-Section 3: Person, Family, & Corporate Body (Chapters 8-11)
-Section 4: Concept, Object, Event & Place (Chapters 12-16)
-Appendix F: Additional Instructions on Names of Persons
-ISAAR (CPF): International Standard Archival Authority Record for Corporate Bodies, Persons and Families, 2nd Edition ([http://www.ica.org/10203/standards/isaar-cpf-international-standard-archival-authority-record-for-corporate-bodies-persons-and-families-2nd-edition.html](http://www.ica.org/10203/standards/isaar-cpf-international-standard-archival-authority-record-for-corporate-bodies-persons-and-families-2nd-edition.html)) - International Council of Archives);
+    - Section 3: Person, Family, & Corporate Body (Chapters 8-11)
+    - Section 4: Concept, Object, Event & Place (Chapters 12-16)
+    - Appendix F: Additional Instructions on Names of Persons
+    
+- ISAAR (CPF): International Standard Archival Authority Record for Corporate Bodies, Persons and Families, 2nd Edition ([http://www.ica.org/10203/standards/isaar-cpf-international-standard-archival-authority-record-for-corporate-bodies-persons-and-families-2nd-edition.html](http://www.ica.org/10203/standards/isaar-cpf-international-standard-archival-authority-record-for-corporate-bodies-persons-and-families-2nd-edition.html)) - International Council of Archives);
 
-EFG Metadata Schema & Vocabularies – 3.6 Agent ([http://www.efgproject.eu/guidelines_and_standards.php](http://www.efgproject.eu/guidelines_and_standards.php))
+- EFG Metadata Schema & Vocabularies – 3.6 Agent ([http://www.efgproject.eu/guidelines_and_standards.php](http://www.efgproject.eu/guidelines_and_standards.php))
 
 Authority files
 
-VIAF (The Virtual International Authority File)
+- VIAF (The Virtual International Authority File)
 
-ISNI (International Standard Name Identifier (ISO 27729) – [http://www.isni.org/](http://www.isni.org/)
+- ISNI (International Standard Name Identifier (ISO 27729) – [http://www.isni.org/](http://www.isni.org/)
 
-IdREf (Identifiants et Référentiels) – [http://www.icacds.org.uk/eng/ISAAR(CPF)2ed.pdf](http://www.icacds.org.uk/eng/ISAAR(CPF)2ed.pdf)
+- IdREf (Identifiants et Référentiels) – [http://www.icacds.org.uk/eng/ISAAR(CPF)2ed.pdf](http://www.icacds.org.uk/eng/ISAAR(CPF)2ed.pdf)
 
-Library of Congress Subject Headings (LCSH) and the Library of Congress Genre-Form Thesaurus (LCGFT)
+- Library of Congress Subject Headings (LCSH) and the Library of Congress Genre-Form Thesaurus (LCGFT)
 
 <a id="sec-definitions_of_the_work_and_variant_entities"></a>
 #### Definitions of the “Work” and ”Variant” Entities
@@ -215,24 +188,21 @@ These user tasks are listed because they are pertinent to moving image catalogui
 
 To find, identify, select, and acquire: [^24]
 
-All the versions (Variants) of a sought Work (for example the various “director’s cuts” of Blade runner as well as the original release version), specified by its title, or by its title in conjunction with the name of one of its creators or by date, that are held by your collection or to which you license access.
+- All the versions (Variants) of a sought Work (for example the various “director’s cuts” of Blade runner as well as the original release version), specified by its title, or by its title in conjunction with the name of one of its creators or by date, that are held by your collection or to which you license access.
 
-All the copies (Manifestations or Items) of a particular version (Variant) of a Work (for example, all the copies you hold of the studio’s director’s cut) that are held by your collection or to which you license access.
+- All the copies (Manifestations or Items) of a particular version (Variant) of a Work (for example, all the copies you hold of the studio’s director’s cut) that are held by your collection or to which you license access.
 
-All the Works of a particular person (for example, director, actor, costume designer) or corporate body (for example, studio) that are held by your collection or to which you license access.
+- All the Works of a particular person (for example, director, actor, costume designer) or corporate body (for example, studio) that are held by your collection or to which you license access.
 
-All the Works on a subject (for example, the Vietnam War) that are held by your collection or to which you license access.
+- All the Works on a subject (for example, the Vietnam War) that are held by your collection or to which you license access.
 
-All the Works in a particular form or genre (for example, animation, gangster films) that are held by your collection or to which you license access.
+- All the Works in a particular form or genre (for example, animation, gangster films) that are held by your collection or to which you license access.
 
-Representation (or, principle of transcription)
+### Representation (or, principle of transcription)
 
 The basic principle of transcription is an area in which archival moving image cataloguing frequently deviates from traditional library cataloguing. Whereas traditional library cataloguers typically transcribe descriptive data directly from the physical item, this is not always the case in archival moving image cataloguing. Because of this, earlier moving image cataloguing rules and standards (FIAF, AMIM) have suggested the term “preferred” rather than “chief” source of filmographic information for representing moving images. The importance of reflecting the original details of a moving image work is a primary principle of organisation for moving image archives. This underlies another practice of moving image cataloguing, which was also recommended in the 1991 FIAF Rules, namely choosing the original release title in country of origin as the preferred title for a work. Other titles (e.g., translated titles, re-release or reissue titles, titles on the item or accompanying material, etc.), are recorded at the appropriate entity level, or designated as belonging to the appropriate entity, and linking mechanisms from other titles to the original release title should be utilised.
 
 Because, however, it is not always possible for a cataloguer to determine an original release title, guidelines are also provided for choice of the preferred title of the work when either: 1) the concept of original release title is not applicable (as in the case of unedited footage), or when 2) a cataloguer is unable, through research, to determine the original release title.
-
-<a id="sec-preliminary_notes"></a>
-## Preliminary Notes
 
 [^1]: FIAF, 1991, p. ix.
 [^2]: Adapted from AMIM2, p.1.
@@ -258,4 +228,3 @@ Because, however, it is not always possible for a cataloguer to determine an ori
 [^22]: Patton, Glenn E. 2009. Functional requirements for authority data: a conceptual model. München: K.G. Saur.
 [^23]: FRBR Final Report, p. 82; RDA, 0.0, Purpose and Scope
 [^24]: Yee, 2007, p. 16.
-

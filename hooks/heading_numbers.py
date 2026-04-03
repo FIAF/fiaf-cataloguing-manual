@@ -63,7 +63,7 @@ def on_config(config):
         # The entire manual lives under the "Home" nav entry in mkdocs.yml.
         # All chapter and appendix sections are direct children of it.
         if label == "Home" and isinstance(value, list):
-            chapter_num = 0
+            chapter_num = 1
             appendix_idx = 0
             for section_item in value:
                 if not isinstance(section_item, dict):
@@ -84,6 +84,8 @@ def on_config(config):
                             # Record the label so on_nav can prefix it in the sidebar.
                             _nav_labels[appendix_label] = letter
                             appendix_idx += 1
+                elif section_label in ['Dedication', 'Acknowledgements', 'Introduction']:
+                    pass
                 else:
                     # Regular chapter — numbered from 0 (Preliminary) upwards.
                     _assign(section_pages, str(chapter_num))

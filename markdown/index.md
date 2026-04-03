@@ -1,8 +1,6 @@
 ---
-title: Home
+title: The FIAF Moving Image Cataloguing Manual
 ---
-
-## The FIAF Moving Image Cataloguing Manual
 
 The FIAF Moving Image Cataloguing Manual (2016), published by the [FIAF Cataloguing and Documentation Commission (CDC)](https://www.fiafnet.org/pages/Community/Cataloguing-Documentation-Commission.html), is available for free in this online edition.
 
