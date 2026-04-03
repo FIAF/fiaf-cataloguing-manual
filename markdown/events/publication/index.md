@@ -1,17 +1,18 @@
 ---
 title: Manifestation Publication Types
 ---
-Release  
-Publication  
-Distribution  
-Broadcast  
-Online Transmission (e.g. Internet, Intranet)  
-Pre-Release  
-Theatrical distribution  
-Non-theatrical distribution  
-Not for release  
-Home video publication  
-Unknown
+
+- Release  
+- Publication  
+- Distribution  
+- Broadcast  
+- Online Transmission (e.g. Internet, Intranet)  
+- Pre-Release  
+- Theatrical distribution  
+- Non-theatrical distribution  
+- Not for release  
+- Home video publication  
+- Unknown
 
 **Publication date**
 
@@ -119,10 +120,10 @@ Selection should be made from a controlled list of values, e.g.:
 
 **Location**
 
-Casting  
-Outdoor shooting  
-Indoor shooting  
-Post-Production  
+- Casting  
+- Outdoor shooting  
+- Indoor shooting  
+- Post-Production  
 
  
 - Location
@@ -222,16 +223,16 @@ Preservation/Restoration Event information consists of the following sub-element
   
 Record the general type of the preservation/restoration activity performed. Selection should be made from a controlled list of terms, which may include:
  
-Conservation / Repair  
-Image Digitisation  
-Sound Digitisation  
-Reconstruction  
-Image Restoration  
-Image Grading  
-Sound Restoration  
-Printing / Recording   
-Duplication   
-Transfer   
+- Conservation / Repair  
+- Image Digitisation  
+- Sound Digitisation  
+- Reconstruction  
+- Image Restoration  
+- Image Grading  
+- Sound Restoration  
+- Printing / Recording   
+- Duplication   
+- Transfer   
 
 - Preservation/Restoration Date
 Record the date or time span in which the preservation/restoration activity was performed. (Dates should be formatted according to ISO 8601 or some other recognised standard.)
@@ -392,4 +393,3 @@ If known and considered of relevance, record the name of the city or smaller geo
 [^3]: EN 15907 6.15 IPR Registration, pp. 23-24
 [^4]: EN 15907, 6.13 Decision event, pp. 26-27
 [^5]: There is no designated separate Restoration Event in EN 15907, and as there can often be an overlap in the types of activity associated with both preservation and restoration, we extended the definition in the 2016 FIAF Moving Image Cataloguing Manual to cover restoring and reconstruction of content too. We have also now referred to it as a Preservation/Restoration Event to increase clarity.
-
