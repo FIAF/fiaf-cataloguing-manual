@@ -107,7 +107,7 @@ Media type is the medium on or the encoding format in which the Item is fixed.
 Its description consists of a general media type, which describes the basic proper- ties of the Item’s physical format, for example, film, video tape, digital file, etc., and a specific media type, which corresponds to the gauge, in case of films and tapes, and for digital files, to the physical carrier on which the file is stored.
 
 <a id="sec-item_general_media_type"></a>
-#### General Media Type
+#### General Media Type (aka General Carrier Type)
 The broad media type of the Item (e.g., film, video, digital file).
 Re- cording this high-level information will enable simple searching for only film, video, digi- tal, etc. elements rather than searching by all possible formats and carriers.
 
@@ -118,7 +118,7 @@ A suggested list can be found in [sec:manifest_general_carrier_type](#sec-manife
 For reasons of clarity and to avoid redundancy, optionally, institutions can decide to skip the general media type description for film and video, since it is already implicit in the specific media type.
 
 <a id="sec-item_specific_media_type"></a>
-#### Specific Media Type
+#### Specific Media Type (aka Specific Carrier Type)
 Record the specific media type, by indicating
 
 1. For film and video: the width of the film stock or of the magnetic tape on which the Item is fixed;
@@ -133,7 +133,7 @@ Information on the specific codecs and resolution are captured in other Item ele
 For optical media, only add commercially produced media here.
 If the optical media is “writable” and is being used to store a digital file, put the digital file format in the gen- eral carrrier type, and the optical storage media in specific media type.
 
-Record the specific carrier type, selecting from a suitable controlled list.
+Record the specific media type, selecting from a suitable controlled list.
 A suggested list, which is open and not exhaustive, can be found in [sec:manifest_specific_carrier_type](#sec-manifest_specific_carrier_type).
 
 <a id="sec-item_status"></a>
