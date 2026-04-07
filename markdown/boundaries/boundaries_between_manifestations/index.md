@@ -50,14 +50,7 @@ This option depends on an institution’s policy.
 Some may choose always to create a new Manifestation (i.e. a Preservation Manifestation) in such cases,
 
 
-[INSERT M diagram second example (which has two manifestations and an item under each)]
-
-
 whilst others may decide to create a new Manifestation where change in format and change in distribution/publication coincide but simply create a new Item linked to an existing Manifestation where change in format is as a result of in-house copying
-
-
-[INSERT M diagram first example (which has one manifestation and a linked film and digital Item)]
-
 
 It is for an institution to decide on which approach it prefers and apply consistently.
 
