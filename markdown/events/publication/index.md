@@ -20,7 +20,6 @@ For Manifestations, the Publication Event that originated the embodiment of a sp
 - Publication date
 Record the date on which Work/Variant or Manifestation was released or otherwise made available. Dates should be formatted according to ISO 8601 or some other recognised standard. The date should be that of the specific event of the Manifestation publication, e.g. a moving image Manifestation may have Publication dates in separate Publication events  a Manifestation for its first theatrical release date of 1957, and then Manifestations for the broadcast date (in 1981) and streaming date (in 2020). 
  
-- Region
 **Region**
 
 Record the country or other political or physical geographic entity where the Publication Event took place (e.g. first projection in the framework of a theatrical distribution) or made the Work/Variant or Manifestation available (e.g. distribution area).
