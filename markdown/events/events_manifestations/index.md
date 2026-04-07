@@ -13,14 +13,6 @@ Record all the existing relationships of a Publication Event, if the information
 
 Publication Event information consists of the following sub-elements:
 
-- Publication type
-- Publication date
-- Region
-  
-
-- Publication type
-
-Record the Publication type for Manifestations, for example, “pre-release,” “theatrical distribution,” etc. Selection should be made from a controlled list of terms. See [sec:manifestation_publication_types](#sec-manifestation_publication_types).
   - Publication type
   - Publication date
   - Region
@@ -43,7 +35,7 @@ Selection should be made from a controlled list of values, e.g.:
 * Broadcast
 * Unknown
 
-Record the Publication type for Manifestations, for example, “pre-release,” “theatrical distribution,” etc. Selection should be made from a controlled list of terms (see above).
+Record the Publication type for Manifestations, for example, “pre-release,” “theatrical distribution,” etc. Selection should be made from a controlled list of terms. See [sec:manifestation_publication_types](#sec-manifestation_publication_types).
 
 [^1]: Some institutions specifically dealing with TV material may wish to use an actual “TV Transmission Manifestation” for this data.
 
