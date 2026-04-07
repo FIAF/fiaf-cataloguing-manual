@@ -3,7 +3,7 @@ title: Moving Image Works
 ---
 <a id="sec-moving_image_works_definition"></a>
 ## Definitions[^1]
-Brief definitions of the standard CEN terms Work/Variant/Manifestation/Item used in the Manual were provided at the end of the Introduction (see [Introduction](/preliminary/#sec-introduction)).
+Brief definitions of the standard CEN terms Work/Variant/Manifestation/Item used in the Manual were provided at the end of the Introduction (see [Introduction](/introduction)).
 This and the following sections provide in-depth definitions of the terms as used in these guidelines, beginning with the highest level in the description hierarchy: Moving Image Work.
 
 <a id="sec-moving_image_work"></a>
@@ -76,4 +76,3 @@ Works include:
 [^4]: Adapted from the definition of a Cinematographic Work in EN 15907, 4.1.1, p.8.
 [^5]: Adapted from the definition of a Cinematographic Work in EN 15907, 4.1.1, p.8.
 [^6]: These are invented examples for illustrative purposes
-

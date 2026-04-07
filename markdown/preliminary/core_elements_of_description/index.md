@@ -8,19 +8,19 @@ They represent an ideal minimum set of metadata for moving image cataloguing.
 
 | **CORE CONCEPT** | **TOP-LEVEL ELEMENT** | **SUB-ELEMENT** |
 | --- | --- | --- |
-| Title | 1.3.2 Title [Work] | -- |
-| Series / Serial [^2] | 1.3.2 Title [Work] | 1.3.2.1 Title Type = Series/Serial [Work] |
-| Cast | 1.4.1 Agents (e.g. Cast, Credits, Person, Organisation, etc.) [Work] | 1.4.1.1 Agent Activity = Cast [Work] |
-| Credits (including Production Companies) | 1.4.1 Agents [Work] | 1.4.1.1 Agent Activity = Credit (use term for actual role)  [Work] |
-| Country of Reference | 1.3.3 Country of reference [Work] |  |
-| *Original Format | 2.3.4 Format of a moving image Manifestation [Manifestation] | 2.3.4.1.2 Specific Carrier Type: [Manifestation] |
-| *Original Length | 2.3.5 Extent of a Manifestation [Manifestation] | 2.3.5.2 Physical extent of a Manifestation |
-| *Original Duration | 2.3.5 Extent of a Manifestation [Manifestation] | 2.3.5.3 Duration of a Manifestation |
-| *Original Language | 1.3.5 Language(s) [Work] | 1.3.5.1 Language Term + 1.3.5.2 Usage type [Work] |
-| Year of Reference | 1.3.4 Year/Date of reference [Work] | 1.3.4.1 Date Type [Work] |
-| Identifier | As appropriate: 1.3.1 Work/Variant Identifier [Work/Variant] AND/OR 2.3.1 Identifier [Manifestation] AND/OR 3.1.1 Identifier [Item] | As appropriate: 1.3.1.1 Identifier Type [Work/Variant] AND/OR 2.3.1.1 Identifier Type [Manifestation] AND/OR 3.1.1.1 Identifier Type [Item] |
-| Subject/Genre/Form [^3] | 1.4.3 Subject/Genre/Form terms [Work] |  |
-| Content Description | 1.3.6 Content description (synopses, shotlists, etc) |  |
+| Title | Title [Work] | -- |
+| Series / Serial [^2] | Title [Work] | Title Type = Series/Serial [Work] |
+| Cast | Agents (e.g. Cast, Credits, Person, Organisation, etc.) [Work] | Agent Activity = Cast [Work] |
+| Credits (including Production Companies) | Agents [Work] | Agent Activity = Credit (use term for actual role)  [Work] |
+| Country of Reference | Country of reference [Work] |  |
+| *Original Format | Format of a moving image Manifestation [Manifestation] | Specific Carrier Type: [Manifestation] |
+| *Original Length | Extent of a Manifestation [Manifestation] | Physical extent of a Manifestation |
+| *Original Duration | Extent of a Manifestation [Manifestation] | Duration of a Manifestation |
+| *Original Language | Language(s) [Work] | Language Term + Usage type [Work] |
+| Year of Reference | Year/Date of reference [Work] | Date Type [Work] |
+| Identifier | As appropriate: Work/Variant Identifier [Work/Variant] AND/OR Identifier [Manifestation] AND/OR Identifier [Item] | As appropriate: Identifier Type [Work/Variant] AND/OR Identifier Type [Manifestation] AND/OR Identifier Type [Item] |
+| Subject/Genre/Form [^3] | Subject/Genre/Form terms [Work] |  |
+| Content Description | Content description (synopses, shotlists, etc) |  |
 
 The concept of “original” in this manual indicates the first known manifestation of the Work, which is not determined by its release status.
 The concept of “original” must be flexible enough to be applied to released and unreleased Works.
@@ -72,4 +72,3 @@ Properties expressed in one record, with abstracts, contextual and object data s
 [^1]: Adapted from CEN TC 372 EN 15744 element set
 [^2]: EN15744 definitions “A series is a group of separate items related to one another by the fact that each item bears, in addition to its own title, a collective title applying to the group as a whole. A serial is a type of “short subject” work which is characterized principally by the episodic development of a story”. This Core Concept is referencing the name of another Work that a Work may be “part of”, where the latter has been conceived within the context/intention of being an element of a Series or Serial. It is not being used here as a Work/Variant Description Type. (See D.1 Work/Variant Description Types)
 [^3]: Form = Fiction, Non-fiction, etc. Some institutions may incorporate these as a genre term, whilst others may have them as a separate category to genre.
-

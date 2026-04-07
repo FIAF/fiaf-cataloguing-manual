@@ -44,7 +44,11 @@ It is possible for a moving image Variant to be modified in such a way as to cre
 
     Dubbing Studio: Tristar Pictures/Sony Pictures Entertainment
 
-TODO TABLE MISSING HERE.
+| Character | Japanese actor | Tristar Pictures English dub |
+| --- | --- | --- |
+| Godzilla |  Tsutomu Kitagawa | Tsutomu Kitagawa |
+| Yuji Shinoda | Takehiro Murata | Francois Chau |
+| Yuki Ichinose | Naomi Nishida | Denise Iketani |
 
 If much of the original textual and spoken word material remains, most of the original footage remains in roughly the same continuity, however abridged, and substantially most of the contributors are the same, the existence of alterations more often than not constitute a new Variant, rather than a new Work.
 

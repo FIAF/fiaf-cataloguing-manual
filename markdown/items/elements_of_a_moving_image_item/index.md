@@ -8,7 +8,7 @@ See “Shallow hierarchy model: 2 levels” in [Elements of description across W
 Ideally the information need only be recorded once irrespective of where in the data structure an institution must place it.
 Therefore guidelines for the treatment of physical/digital description elements are explained fully in the Manifestation chapter.
 
-This chapter contains Item-specific physical/digital description elements beginning at Section 3.1.5 (see [Item Specifics/Extent (e.g. physical/Digital description)](/items/elements_of_a_moving_image_item/#sec-item_specifics_extent).
+This chapter contains Item-specific physical/digital description elements beginning at [Item Specifics/Extent (e.g. physical/Digital description)](/items/elements_of_a_moving_image_item/#sec-item_specifics_extent).
 For example, properties such as Extent and Format at the Manifestation level represent the “ideal,” and item-specific information will capture where it differs from this ideal.
 Only elements that are considered Item-specific have guidelines for the recording of data.
 Physical/digital description elements that are considered Manifestation-specific, but which may be repeated at the Item level, contain hyperlinks to the relevant sections in the Manifestation chapter.
@@ -45,7 +45,8 @@ For example, if a film in the collection is missing the first reel where opening
 
 For creating titles for untitled or unidentified entities see [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](/appendices/titles/title_types/#sec-supplied_devised_titles)
 
-For the treatment of Aggregates (e.g. compilations of whole Manifestations) as applied to Items, see Appendix [E.4 Titling of Aggregates] for titling of Aggregates.
+For the treatment of Aggregates (e.g. compilations of whole Manifestations) as applied to Items, see the appendix concerning 
+[Titling of Aggregates](/appendices/aggregates/titling_of_aggregates)
 
 For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see [Purpose](/preliminary/purpose_scope_and_use/#sec-purpose).
 
@@ -69,20 +70,21 @@ Optionally, if available, record a suitable repository identifier or a registere
 <a id="sec-item_item_element_type"></a>
 ## Item Element Type[^2]
 Record the nature or function of the moving image Item, describing its place in the photochemical or digital production or duplication process. Selection should be made from a controlled list of terms, e.g.:
-Colour Positive
-Colour Negative
-Copper Toned Positive
-Cyan Matrix
-Direct BW Positive
-Original negative
-Duplicate negative
-Positive
-Original positive (reversal film)
-Duplicate positive
-Lavender
-Image negative
-Sound negative
-DCP
+
+- Colour Positive
+- Colour Negative
+- Copper Toned Positive
+- Cyan Matrix
+- Direct BW Positive
+- Original negative
+- Duplicate negative
+- Positive
+- Original positive (reversal film)
+- Duplicate positive
+- Lavender
+- Image negative
+- Sound negative
+- DCP
 
 <a id="sec-item_specifics_extent"></a>
 ## Item Specifics/Extent (e.g. physical/Digital description)
@@ -113,7 +115,7 @@ Re- cording this high-level information will enable simple searching for only fi
 
 Record only if this information is not captured at the Manifestation level or if required at the Item level by the system in use.
 
-A suggested list can be found in [sec:manifest_general_carrier_type](#sec-manifest_general_carrier_type).
+A suggested list can be found in [Manifestation General Media Type](/manifestations/elements_of_a_manifestation/#general-media-type).
 
 For reasons of clarity and to avoid redundancy, optionally, institutions can decide to skip the general media type description for film and video, since it is already implicit in the specific media type.
 
@@ -134,18 +136,18 @@ For optical media, only add commercially produced media here.
 If the optical media is “writable” and is being used to store a digital file, put the digital file format in the gen- eral carrrier type, and the optical storage media in specific media type.
 
 Record the specific carrier type, selecting from a suitable controlled list.
-A suggested list, which is open and not exhaustive, can be found in [sec:manifest_specific_carrier_type](#sec-manifest_specific_carrier_type).
+A suggested list, which is open and not exhaustive, can be found in [Manifestation Specific Media Type](/manifestations/elements_of_a_manifestation/#specific-media-type).
 
 <a id="sec-item_status"></a>
 ### Item Status
 Description of the preservation or access status of the Item. Select term from a controlled list, e.g.  
 
-Master   
-Viewing   
-Accessioned   
-On Loan  
-Status pending   
-Removed
+- Master   
+- Viewing   
+- Accessioned   
+- On Loan  
+- Status pending   
+- Removed
 
 <a id="sec-sound"></a>
 ### Sound
@@ -153,14 +155,15 @@ Technical specifications relating to the fixation of sound in a moving image Man
 This element is for high-level description of sound on the item; i.e., noting whether it has sound, is silent, etc.
 
 Indicate the presence or absence of sound in the Item. Selection should be made from a controlled list of terms, e.g.:
-Sound  
-Silent  
-Mute  
-Combined  
-Combined as Mute  
-Combined as Sound  
-Mixed  
-Temporary 
+
+- Sound  
+- Silent  
+- Mute  
+- Combined  
+- Combined as Mute  
+- Combined as Sound  
+- Mixed  
+- Temporary 
 
 Record only if this information is not captured at the Manifestation level or if required at the Item level by the system in use.
 
@@ -173,12 +176,13 @@ If the Item has sound, note here the track configuration (e.g., mono, stereo, et
 See also [Sound Characteristics of a Manifestation](/manifestations/elements_of_a_manifestation/#sec-sound_characteristics_of_a_manifestation)
 
 Describes the technical or proprietary system used to record the sound on a Item. Select from a controlled list, e.g.:
-Dolby SR
-Dolby Digital
-Mute
-Combined Magnetic Sound
-Combined Optical Sound
-VA RCA Duplex
+
+- Dolby SR
+- Dolby Digital
+- Mute
+- Combined Magnetic Sound
+- Combined Optical Sound
+- VA RCA Duplex
 
 <a id="sec-colour"></a>
 ### Colour
@@ -273,50 +277,50 @@ Selection should be made from a controlled list of terms, e.g.:
 
 **FILM**
 
-Eastman Kodak
-Fuji
-Agfa
+- Eastman Kodak
+- Fuji
+- Agfa
 
 **VIDEO**
 
-3M
-Agfa
-Agfa Gavaert
-Akai
-Ampex
-Ansco
-BASF
-Brifco
-Fuji
-Sony
+- 3M
+- Agfa
+- Agfa Gavaert
+- Akai
+- Ampex
+- Ansco
+- BASF
+- Brifco
+- Fuji
+- Sony
 
 **AUDIO**
 
-Ampex
-Scotch
-3M
-Shamrock
+- Ampex
+- Scotch
+- 3M
+- Shamrock
 
 **OPTICAL**
 
-Maxell
-Memorex
-Philips
-Verbatim
+- Maxell
+- Memorex
+- Philips
+- Verbatim
 
 **DIGITAL TAPE**
 
-Fuji
-HP
-Oracle
-Sony
+- Fuji
+- HP
+- Oracle
+- Sony
 
 **HARD DRIVES**
 
-Hitachi
-Seagate
-Toshiba
-Western Digital
+- Hitachi
+- Seagate
+- Toshiba
+- Western Digital
 
 <a id="sec-stock_batch"></a>
 ### Stock Batch
@@ -395,7 +399,7 @@ These observations should aim to be as clear and concise as possible, avoiding a
 For example, establish whether to use “scratched”, “scratches” or “scratch marks” and be as consistent as possible.
 This enables better searching and accessibility of data.
 
-Record these actions as an Event (see [Events](/items/relationships_of_an_item/#sec-items_events)), with the person or entity performing the action as an Agent (see [sec:items_agents](#sec-items_agents)).
+Record these actions as an Event (see [Events](/items/relationships_of_an_item/#sec-items_events)), with the person or entity performing the action as an [Agent](/items/relationships_of_an_item/).
 
 Ideally, elements covering information and details regarding the condition of an acquired Item would include those listed below.
 
@@ -405,14 +409,14 @@ Record the condition of the Item including its base and/or emulsion and/or perfo
 Selection should be made from a controlled list of terms, for example, “brittle”, “buckled”, “tears,” etc. 
 
 <a id="sec-item_copy_condition_perforations_film"></a>
-## Item Copy Condition Perforations – Film
+#### Item Copy Condition Perforations – Film
 * Foil Patches
 * Torn
 * Pulled
 * Missing
 
 <a id="sec-item_surface_deposit_film_and_video"></a>
-## Item Surface Deposit – Film and Video
+#### Item Surface Deposit – Film and Video
 * Mould
 * Rust
 * Oil deposits
@@ -420,7 +424,7 @@ Selection should be made from a controlled list of terms, for example, “brittl
 * Drying marks
 
 <a id="sec-image_film_and_video"></a>
-## Image – Film and Video
+#### Image – Film and Video
 For film, this relates to the inherent qualities of the Emulsion rather than the physical
 condition of the Emulsion.
 
@@ -435,7 +439,7 @@ For video, refer to AV Artifact Atlas for guidance on terms.
 * Drop-outs
 
 <a id="sec-item_decomposition_film_and_video"></a>
-## Item Decomposition – Film and Video
+#### Item Decomposition – Film and Video
 * Powder
 * Sticky
 * Sticky at head
@@ -448,7 +452,7 @@ As stated above, people or companies performing inspections are Agents.
 Note any indication that the Item is in need of servicing prior to being accessed for use.
 
 <a id="sec-item_location"></a>
-### Item Location
+#### Item Location
 Item descriptions should indicate a storage location number in order to provide access and retrieval.
 Movements and changes of location should also be logged in order to ascertain the precise location of an Item at any given time.
 If possible, use the Item Identifier and Identifier Type fields to note an Item’s location (see [Identifier](/items/elements_of_a_moving_image_item/#sec-item_identifier)).
@@ -466,4 +470,3 @@ Notes for Items are an annotation providing additional information relating spec
 [^5]: RDA 7.17.3 Colour of Moving Image
 [^6]: ISO 8601
 [^7]: Based on RDA 2.20.1.Basic Instructions on Making Notes on Manifestations or Items
-
