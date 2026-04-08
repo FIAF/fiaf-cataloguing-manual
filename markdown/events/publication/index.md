@@ -84,7 +84,7 @@ A distinct event in the course of production of a Work or Variant, including the
 
 May include year/date of shooting of non-professional, actuality or unedited footage.
 
-A Production Event may be associated with instances of Agent in the role of e.g. production company, location scout, etc. Selection should be made from a controlled list of values. See [Distributor (theatrical)](/agents/agents_for_manifestations/#sec-distributor_theatrical) and [sec:work_variant_agent_types](#sec-work_variant_agent_types).
+A Production Event may be associated with instances of Agent in the role of e.g. production company, location scout, etc. Selection should be made from a controlled list of values. See [sec:work_variant_agent_types](#sec-work_variant_agent_types).
 
 Record all the existing relationships of a Production/Publication Event, if the information is known and considered of relevance.
 
@@ -95,7 +95,6 @@ Production Event information consists of the following sub-elements:
 - Region
 - Year/Date
 - Event details
-- Production Event type
 
 Selection should be made from a controlled list of values.  See [Production Event Types](/events/publication/#sec-production_event_types).
 
@@ -118,22 +117,8 @@ Selection should be made from a controlled list of values, e.g.:
 
 **Location**
 
-Casting  
-Outdoor shooting  
-Indoor shooting  
-Post-Production  
-
- 
-- Location
 Any geographic name(s) or address(es) of the location(s) where the event took place
 
-- Region
-The country or other large-scale geographic entity where the event took place
-
-- Year/Date
-The year/date or time-span during which the event took place. Dates should be formatted according to ISO 8601 or some other recognised standard.
-
-- Event details
 **Region**
 
 The country or other large-scale geographic entity where the event took place
