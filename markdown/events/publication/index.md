@@ -96,16 +96,6 @@ Production Event information consists of the following sub-elements:
 - Year/Date
 - Event details
 
-Selection should be made from a controlled list of values.  See [Production Event Types](/events/publication/#sec-production_event_types).
-
-<a id="sec-production_event_types"></a>
-## Production Event Types
-  - Production Event type
-  - Location
-  - Region
-  - Year/Date
-  - Event details
-
 **Production Event type**
 
 Selection should be made from a controlled list of values, e.g.:
