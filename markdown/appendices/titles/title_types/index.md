@@ -681,21 +681,13 @@ Whichever option is chosen, any production material Items should be linked to a 
 
 Below are some of the potential structuring options for the same production materials. The Item titles reflect those of the actual Item itself, i.e. what was on film leaders or film cans as acquired, or in accordance with Partially Supplied/Devised or Fully Supplied/Devised titling. The latter forms of titling have been applied to the Pre-release Manifestation and also to any new production material Works:
 
-1. Where a new Work is created for each type of production material, each with a Pre-release Manifestation, and relevant Items linked to those; with an associated related link/reference to the released Work record:
+1. Where a new Work is created for each type of production material, each with a Pre-release Manifestation, and relevant Items linked to those; with an associated related link/reference to the released Work record: <br><center><object data="/diagrams/title_type_01.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
-<center><object data="/diagrams/title_type_01.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+2. Where one new Work is created as a general one for any production material, with multiple Pre-release Manifestations for each type of production material and relevant Items linked to each of those; with an associated related link/reference to the released Work record: <br><center><object data="/diagrams/title_type_04.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
-2. Where one new Work is created as a general one for any production material, with multiple Pre-release Manifestations for each type of production material and relevant Items linked to each of those; with an associated related link/reference to the released Work record:
+3. Where one new Work is created as a general one for any production material, with one general Pre-release Manifestation and all Items linked to that; with an associated related link/reference to the released Work record: <br><center><object data="/diagrams/title_type_02.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
-<center><object data="/diagrams/title_type_04.drawio.svg" type="image/svg+xml" width="100%"></object></center>
-
-3. Where one new Work is created as a general one for any production material, with one general Pre-release Manifestation and all Items linked to that; with an associated related link/reference to the released Work record:
-
-<center><object data="/diagrams/title_type_02.drawio.svg" type="image/svg+xml" width="100%"></object></center>
-
-4. Where one general Pre-release Manifestation is created linked to the original released Work record and all production material Items linked to that one Manifestation:
-
-<center><object data="/diagrams/title_type_03.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+4. Where one general Pre-release Manifestation is created linked to the original released Work record and all production material Items linked to that one Manifestation: <br><center><object data="/diagrams/title_type_03.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 Where an institution acquires large collections or amounts of production materials associated with a moving image or moving image serial then a structure utilising a Collection level Work with multiple linked Monographic level Works is advisable [ADD INTERNAL LINK TO WORK/VARIANT DESCRIPTION TYPE, APPENDIX D.1]. For example, the acquisition of a large quantity of production material associated with the 13-part television documentary series Hollywood (United Kingdom, 1980) [ADD LINK TO https://en.wikipedia.org/wiki/Hollywood_(British_TV_series) IN A FOOTNOTE HERE], which can be structured with the Collection Work and Monographic Works in a hierarchical relationship, e.g.:
 
