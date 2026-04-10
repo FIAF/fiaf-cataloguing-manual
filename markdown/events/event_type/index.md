@@ -3,7 +3,7 @@ title: Event Type
 ---
 | **Work** | **Variant** | **Manifestation** | **Item** |
 | --- | --- | --- | --- |
-| [Manifestation Publication Types](/events/publication/#sec-publication) | [Manifestation Publication Types](/events/publication/#sec-publication) | [Manifestation Publication Types](/events/publication/#sec-publication) |  |
+|  |  | [Manifestation Publication Types](/events/publication/#sec-publication) |  |
 | [Award(s) or Nomination(s)](/events/publication/#sec-awards_or_nominations) | [Award(s) or Nomination(s)](/events/publication/#sec-awards_or_nominations) | [Award(s) or Nomination(s)](/events/publication/#sec-awards_or_nominations) |  |
 | [Production](/events/publication/#sec-production) | [Production](/events/publication/#sec-production) |  |  |
 | [Rights/Copyright/IPR Registration](/events/publication/#sec-values_rights_copyright_ipr_registration) | [Rights/Copyright/IPR Registration](/events/publication/#sec-values_rights_copyright_ipr_registration) | Licensing | Licensing |
