@@ -1,5 +1,5 @@
 ---
-title: Moving Image Events
+title: Events
 ---
 
 An Event characterises occurrences in the lifecycle of a moving image Work, Variant, Manifestation, or Item. In addition, instances of any Event type can have Agent and "Other" relationships.
