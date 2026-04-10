@@ -14,7 +14,7 @@ title: Event Types
 |  |  |  | [Acquisition](/events/events_manifestations-2/#sec-acquisition) | 
 
 
-Record one or more Event types, for example, “preservation,” “inspection,” “acquisition”, etc., to express the nature of the Event’s relationship to the Work, Variant, Manifestation, or Item. The table above demonstrates what Event Type is applicable with each of those.
+Record one or more Event types to express the nature of the Event’s relationship to the Work, Variant, Manifestation, or Item. The table above demonstrates what Event Type is applicable with each of those.
 
 <a id="sec-publication"></a>
 ## Publication
