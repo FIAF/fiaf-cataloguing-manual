@@ -1,15 +1,7 @@
 ---
 title: Manifestation/Item Acquisition, Accessioning and Source
 ---
-If desired and if applicable, record information about the condition of the Item, including nature and extent of damage. Selection should be made from a controlled list of terms, e.g.:
 
-* Brittle
-* Buckled
-* Light Scratches
-* Heavy Scratches
-* Tears
-* Warped
-* Hydrolysis
 
 <a id="sec-acquisition"></a>
 ## Acquisition
