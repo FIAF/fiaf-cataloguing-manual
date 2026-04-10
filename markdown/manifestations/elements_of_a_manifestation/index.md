@@ -87,7 +87,7 @@ If no language can be determined, the information can be omitted or indicated by
 More than one language can occur in different forms, depending on how the content is expressed: the usage type of the languages defines the form with which the language is expressed, for example, spoken, sung, written, etc.
 
 Record the usage type of a language by taking the most suitable value from a controlled list.
-A suggested list, which is open and not exhaustive, can be found in [Language Usage Types](/works/elements_of_a_work_variant/#sec-languages).[ADD LINK TO SECTION ON LANGUAGE USAGE IN WORKS CHAPTER]
+A suggested list, which is open and not exhaustive, can be found in [Language Usage Types](/works/elements_of_a_work_variant/#sec-languages).
 
 If usage type(s) cannot be determined, indicate a value of “unknown”.
 
@@ -150,12 +150,12 @@ Its description consists of a general media type, which describes the basic prop
 The broad media type of the Manifestation (e.g., film, video, audio, optical, digital file).
 Recording this high-level information will enable simple searching for only film, video, digital, etc. elements rather than searching by all possible formats and carriers. A suggested list, which is open and not exhaustive, can include:
 
-Film
-Video Tape
-Video Disc
-Digital Tape
-Digital Disc
-Digital File
+- Film
+- Video Tape
+- Video Disc
+- Digital Tape
+- Digital Disc
+- Digital File
 
 <a id="sec-manifest_specific_media_type"></a>
 #### Specific Media Type
@@ -209,12 +209,12 @@ Institutions should develop standard lists of terms to indicate the specific car
 
 These are some of the most common terms, but not a complete or definitive list.
 
-LTO5
-LTO6
-T10000D
-HDD (abbreviated for “external hard drive”)
-DVD-R
-Blu-Ray 
+- LTO5
+- LTO6
+- T10000D
+- HDD (abbreviated for “external hard drive”)
+- DVD-R
+- Blu-Ray 
 
 For reasons of clarity and to avoid redundancy, optionally, institutions can decide to skip the general carrier type description, since it is already implicit in the specific carrier type.
 
@@ -266,7 +266,7 @@ A suggested list of examples, which is open and not exhaustive, includes:
 - Letterbox/Widescreen (bars added at the top and bottom) 
 - Windowbox (bars added at the side and the top and bottom) 
 
-Further examples can be found in [INSERT LINK TO FIAF ADVANCED PROJECTION MANUAL HERE]
+Further examples can be found in [The Advanced Projection Manual](https://iupress.org/9782960029611/the-advanced-projection-manual/).
 
 <a id="sec-sound_characteristics_of_a_manifestation"></a>
 ### Sound Characteristics of a Manifestation
@@ -275,26 +275,28 @@ Sound characteristics are technical specifications relating to the placement of 
 Its description consists of a statement about the presence or absence of sound, and optionally, in case of presence, of the description of the method with which the sound has been fixed.
 
 Indicate the presence or absence of sound in the Manifestation. Selection should be made from a controlled list of terms, e.g.:
-Sound  
-Silent  
-Mute  
-Combined  
-Combined as Mute  
-Combined as Sound  
-Mixed  
-Temporary 
+
+- Sound  
+- Silent  
+- Mute  
+- Combined  
+- Combined as Mute  
+- Combined as Sound  
+- Mixed  
+- Temporary 
 
 Optionally, use a flag-type value indicating if the Manifestation includes recorded sound or not (i.e.: has sound: yes/no).
 
 <a id="sec-sound_systems"></a>
 #### Sound Systems
 Describes the technical or proprietary system used to record the sound on a Manifestation. Select from a controlled list, e.g.:
-Dolby SR
-Dolby Digital
-Mute
-Combined Magnetic Sound
-Combined Optical Sound
-VA RCA Duplex
+
+- Dolby SR
+- Dolby Digital
+- Mute
+- Combined Magnetic Sound
+- Combined Optical Sound
+- VA RCA Duplex
 
 <a id="sec-manifest_sound_channel_configuration"></a>
 #### Sound Channel Configuration
@@ -302,11 +304,12 @@ If the Manifestation has sound, note here the track configuration (e.g., mono, s
 Selection should be made from a controlled list of terms.
 
 In case of presence of sound, optionally, if considered relevant, record the name of the physical principle of sound recording. Selection should be made from a controlled list of terms, e.g.:
-Needle sound
-Optical
-Magnetic
-Analogue sound
-Digital
+
+- Needle sound
+- Optical
+- Magnetic
+- Analogue sound
+- Digital
 
 If the Work/Variant associated with the Manifestation in hand had sound originally, but the Manifestation lacks sound, describe it as silent (or mute) and give a note to that effect.[^10]
 
@@ -321,27 +324,29 @@ Colour is also the specific colours, tones, etc. (including black and white) pre
 It consists of a designation of the colour state and, optionally, of the description of the colour system.
 
 Record the colour state of a Manifestation. Selection should be made from a controlled list of terms, e.g.:
-Colour
-Colour + Black & White
-Tinted
-Black and white
-Black and white (tinted)
-Black and white (toned)
-Black and white (tinted and toned)
-Sepia
+
+- Colour
+- Colour + Black & White
+- Tinted
+- Black and white
+- Black and white (tinted)
+- Black and white (toned)
+- Black and white (tinted and toned)
+- Sepia
 
 Optionally, if considered relevant, describe the system or process by which colour is fixed on the carrier or as part of the digital encoding. Selection should be made from a controlled list of terms, e.g.:
-Pathécolor
-Technicolor
-Kinemacolor
-Anscocolor
-Ferraniacolor
-Fujicolor
-Kodachrome
-Eastmancolor
 
-RGB
-YUV
+- Pathécolor
+- Technicolor
+- Kinemacolor
+- Anscocolor
+- Ferraniacolor
+- Fujicolor
+- Kodachrome
+- Eastmancolor
+
+- RGB
+- YUV
 
 <a id="sec-extent_of_a_manifestation"></a>
 ## Extent of a Manifestation[^1]
@@ -364,14 +369,15 @@ For digital Manifestations, there can be two extents: one for the number of file
     A hard-disk stored film in 3 files
 
 Record the number of the logical units of a Manifestation in Arabic numerals, and, if necessary, specify the type of unit. Selection should be made from a controlled list of terms, e.g:
-Reel
-Roll
-Cassette
-Cartridge
-Loop
-Disc
-File
-Digital tape
+
+- Reel
+- Roll
+- Cassette
+- Cartridge
+- Loop
+- Disc
+- File
+- Digital tape
 
 If the number of the logical units of a Manifestation is uncertain, use a question mark following the unit count[^13] or record the uncertain number preceded by “approximately.”[^14]
 
@@ -472,7 +478,7 @@ Notes for Manifestations are annotations providing additional information relati
 
 <a id="sec-date_and_country_of_manifestation"></a>
 ## Date and Country of Manifestation
-Dates and country of Manifestation are not elements of a Manifestation under EN 15907, as in the latter it envisages this data being on linked Publication Events. However, in some systems they may be structured as elements of a Manifestation. For further consideration of this see [ADD internal LINK TO Boundaries between Manifestation Types and Event types section] .
+Dates and country of Manifestation are not elements of a Manifestation under EN 15907, as in the latter it envisages this data being on linked Publication Events. However, in some systems they may be structured as elements of a Manifestation. For further consideration of this see [Boundaries between Manifestations and Events](/boundaries/boundaries_between_manifestations_and_events)
 
 [^1]: Partially based on EN 15907, 6.8 except for the physical components/units number, which is not provided for in the standard.
 [^2]: Based on FIAF 1991, 5.3.4.1, 87.
@@ -492,4 +498,3 @@ Dates and country of Manifestation are not elements of a Manifestation under EN 
 [^16]: Definition of “Stretch frame” taken from: [http://www.nfsa.gov.au/preservation/glossary/stretch-frame](http://www.nfsa.gov.au/preservation/glossary/stretch-frame).
 [^17]: Adapted from FIAF 5.3.4.2.
 [^18]: Based on RDA 2.20.1.Basic Instructions on Making Notes on Manifestations or Items
-

@@ -2,7 +2,7 @@
 title: Display issues
 ---
 Although these guidelines are primarily focused on content, many users may also welcome some guidance in data presentation.
-Section 0.4 gathers some of the common display questions with recommendations.
+This section gathers some of the common display questions with recommendations.
 
 <a id="sec-punctuation"></a>
 ## Punctuation
@@ -37,13 +37,13 @@ Alternative practices | ISBD practice
 
 !!! example "Example"
     Die Hard | Die hard    
-
+!!! example "Example"
     Die DREIGROSCHENOPER | Die Dreigroschenoper    
-
+!!! example "Example"
     LES PATTERSON SAVES THE WORLD | Les Patterson saves the world     
-
+!!! example "Example"
     Les MISERABLES | Les miserables    
-
+!!! example "Example"
     American in Paris, An | An American in Paris
 
 MARC21 tag
@@ -53,4 +53,3 @@ MARC21 tag
 
 [^1]: [http://www.ifla.org/files/assets/cataloguing/isbd/isbd-cons_20110321.pdf](http://www.ifla.org/files/assets/cataloguing/isbd/isbd-cons_20110321.pdf)
 [^2]: [http://www.fiafnet.org/~fiafnet/uk/publications/fep_cataloguingRules.html](http://www.fiafnet.org/~fiafnet/uk/publications/fep_cataloguingRules.html)
-

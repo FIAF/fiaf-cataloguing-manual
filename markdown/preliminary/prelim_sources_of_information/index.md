@@ -57,7 +57,7 @@ In instances where Primary source data relating to on-screen titles and credits,
 !!! example "Example"
     Il vangelo secondo Matteo (Italy, 1964)
 
-Work History note: The credits in the opening titles on actual prints of the film give 'Alessandro Clerici' as playing the role of Pontius Pilate. However, he was in fact played by Alessandro Tasca (aka Alessandro Tasca di Cutò). Verified by his daughter Ama Tasca di Cutò in correspondence with the BFI (February 2020)  and further researched by the BFI in conjunction with Cineteca Bologna. Alessandro Tasca also discusses his taking on the role of Pilate in Pasolini's film, and his fee for the day's work, in correspondence with Orson Welles (housed at the University of Michigan). Distribution information from c.1964/65 from UniItalia in Rome and from other English distribution companies of the film in the 1960s also cite 'Alessandro Tasca' as the credit for Pontius Pilate.
+    Work History note: The credits in the opening titles on actual prints of the film give 'Alessandro Clerici' as playing the role of Pontius Pilate. However, he was in fact played by Alessandro Tasca (aka Alessandro Tasca di Cutò). Verified by his daughter Ama Tasca di Cutò in correspondence with the BFI (February 2020)  and further researched by the BFI in conjunction with Cineteca Bologna. Alessandro Tasca also discusses his taking on the role of Pilate in Pasolini's film, and his fee for the day's work, in correspondence with Orson Welles (housed at the University of Michigan). Distribution information from c.1964/65 from UniItalia in Rome and from other English distribution companies of the film in the 1960s also cite 'Alessandro Tasca' as the credit for Pontius Pilate.
 
 [^1]: Based on RDA 2.2.4 Other Sources of Information
 [^2]: RDA 2.20.2.3 Title Source
@@ -68,4 +68,3 @@ Work History note: The credits in the opening titles on actual prints of the fil
 [^7]: RDA 2.2.4 Other Sources of Information
 [^8]: RDA 2.2.4 Other Sources of Information
 [^9]: See the name note on the [BFI record for Richard Greene](https://collections-search.bfi.org.uk/web/Details/People/177651)
-

@@ -353,49 +353,7 @@ Not all the above information has to be in the archive title if not discernible,
 !!! example "Example"
     Jones Collection footage. No. 5
 
-```pikchr
-
-B1: box rad 5px "Start:" "Workflow for:" "1. No titles (intended to have a formal title but lacking one)" "2. Untitled (not intended to have a formal title)" "3. Unidentified/indeterminate"  fit at (3,6) 
-
-B2: box rad 5px "Is it a recognised" "form/genre?" fit at (3,5)
-
-B3: box rad 5px "Does it have" "a relationship to a" "particular work/ variant," "or multi-part work?" fit at (2,4)
-
-B4: box rad 5px "Is it related to" " a common theme " "or a person, family " "or corporate body " "as subject?" fit at (4,4)
-
-B5: box rad 5px " Is title of " " that related " "work/ variant," " multi-part work" "known?" fit at (0,1.5)
-
-B6: box rad 5px  " Is title of " " that related " "work/ variant," "multi-part work known?  " fit at (6,1.5)
-
-B7: box rad 5px "Create partially devised/" "supplied title with title of" "work/variant or multi-part" "work + form term" fit at (0,0)
-
-B8: box rad 5px "Create fully devised/" "supplied title with form" "term + additional" "descriptive information" fit at (2,0)
-
-B9: box rad 5px "Create fully devised/" "supplied title with theme" "or subject term term +" "additional descriptive" "information"  fit at (4,0)
-
-B10: box rad 5px "Create fully devised/" "supplied title with descriptive"  "information covering the" "“five Ws”: who, what," "when, where" fit at (6,0) 
-
-arrow from B1.s to B2.n
-
-arrow "yes" left 0.2 from B2.w then left until even with B3 then down to B3.n
-
-arrow "no" right 0.2 from B2.e then right until even with B4 then down to B4.n
-
-arrow "yes" rjust from B4.s to B9.n
-
-arrow "no" right 0.2 from B4.e then right until even with B6 then down to B6.n
-
-arrow "yes" rjust from B6.s to B10.n
-
-arrow "no" rjust from B3.s to B8.n
-
-arrow "yes" left 0.2 from B3.w then left until even with B5 then down to B5.n
-
-arrow "yes" rjust from B5.s to B7.n
-
-arrow "no" right 0.2 from B5.e then right until even with B8 then down to B8.n
-
-```
+<center><object data="/diagrams/supplied_devised.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 <a id="sec-partially_supplied_devised_titles"></a>
 ### Partially Supplied/Devised Titles[^4]
@@ -723,28 +681,13 @@ Whichever option is chosen, any production material Items should be linked to a 
 
 Below are some of the potential structuring options for the same production materials. The Item titles reflect those of the actual Item itself, i.e. what was on film leaders or film cans as acquired, or in accordance with Partially Supplied/Devised or Fully Supplied/Devised titling. The latter forms of titling have been applied to the Pre-release Manifestation and also to any new production material Works:
 
-1. Where a new Work is created for each type of production material, each with a Pre-release Manifestation, and relevant Items linked to those; with an associated related link/reference to the released Work record:
+1. Where a new Work is created for each type of production material, each with a Pre-release Manifestation, and relevant Items linked to those; with an associated related link/reference to the released Work record: <br><center><object data="/diagrams/title_type_01.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
+2. Where one new Work is created as a general one for any production material, with multiple Pre-release Manifestations for each type of production material and relevant Items linked to each of those; with an associated related link/reference to the released Work record: <br><center><object data="/diagrams/title_type_04.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
-<center><object data="/diagrams/title_type_01.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+3. Where one new Work is created as a general one for any production material, with one general Pre-release Manifestation and all Items linked to that; with an associated related link/reference to the released Work record: <br><center><object data="/diagrams/title_type_02.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
-
-2. Where one new Work is created as a general one for any production material, with multiple Pre-release Manifestations for each type of production material and relevant Items linked to each of those; with an associated related link/reference to the released Work record:
-
-
-<center><object data="/diagrams/title_type_04.drawio.svg" type="image/svg+xml" width="100%"></object></center>
-
-
-3. Where one new Work is created as a general one for any production material, with one general Pre-release Manifestation and all Items linked to that; with an associated related link/reference to the released Work record:
-
-
-<center><object data="/diagrams/title_type_02.drawio.svg" type="image/svg+xml" width="100%"></object></center>
-
-
-4. Where one general Pre-release Manifestation is created linked to the original released Work record and all production material Items linked to that one Manifestation:
-
-
-<center><object data="/diagrams/title_type_03.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+4. Where one general Pre-release Manifestation is created linked to the original released Work record and all production material Items linked to that one Manifestation: <br><center><object data="/diagrams/title_type_03.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 
 Where an institution acquires large collections or amounts of production materials associated with a moving image or moving image serial then a structure utilising a Collection level Work with multiple linked Monographic level Works is advisable [ADD INTERNAL LINK TO WORK/VARIANT DESCRIPTION TYPE, APPENDIX D.1]. For example, the acquisition of a large quantity of production material associated with the 13-part television documentary series Hollywood (United Kingdom, 1980) [ADD LINK TO https://en.wikipedia.org/wiki/Hollywood_(British_TV_series) IN A FOOTNOTE HERE], which can be structured with the Collection Work and Monographic Works in a hierarchical relationship, e.g.:

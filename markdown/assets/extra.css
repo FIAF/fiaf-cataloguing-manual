@@ -35,7 +35,7 @@
 
 [data-md-color-scheme="default"] {
   /* Header: white background so black logo is visible */
-  --md-primary-fg-color:        #ffffff;
+  --md-primary-fg-color:        #eeeeee;
   --md-primary-fg-color--light: #f1f2f2;
   --md-primary-fg-color--dark:  #e0e0e0;
   --md-primary-bg-color:        #1a1a1a;
@@ -52,7 +52,7 @@
 
 /* Red bottom border on header for brand accent */
 .md-header {
-  border-bottom: 3px solid #e30521;
+  border-bottom: 1px solid #000000;
   box-shadow: none;
 }
 
@@ -119,4 +119,10 @@
 }
 [data-md-color-scheme="slate"] .md-logo .md-logo__img--dark {
   display: block !important;
+}
+
+.md-header__title {
+  display: flex;
+  align-items: center;
+  height: 2rem;
 }
