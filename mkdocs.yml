@@ -145,18 +145,10 @@ nav:
         - agents/agents_for_items/index.md
     - Events:
       - events/index.md
-      - Events (Works/Variants):
-        - events/events_summary/index.md
-      - Event Type:
-        - events/event_type/index.md
-      - Events - Manifestations:
-        - events/events_manifestations/index.md
-      - Manifestation Publication Types:
-        - events/publication/index.md
-      - Events - Items:
-        - events/events_manifestations-2/index.md
-      - Manifestation/Item Acquisition, Accessioning and Source:
-        - events/accessioning_and_source/index.md
+      - Event Types:
+        - events/event_types/index.md
+      - Further Event Types:
+        - events/further_event_types/index.md
     - Other Relationships:
       - other-relationships/index.md
       - Other Relationships for Works, Variants, Manifestations, Items:
