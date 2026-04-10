@@ -13,7 +13,7 @@ theme:
   features:
     - content.action.view
     - content.footnote.tooltips
-    - navigation.tabs
+    # - navigation.tabs
     - navigation.tabs.sticky
     - navigation.indexes
     - navigation.top
@@ -65,9 +65,13 @@ plugins:
 nav:
   - Home:
     - index.md
+    - Dedication:
+      - dedication/index.md
+    - Acknowledgements:
+      - acknowledgements/index.md
+    - Introduction:
+      - introduction/index.md
     - Preliminary:
-      - Introduction:
-        - preliminary/introduction/index.md
       - Purpose, Scope, and Use:
         - preliminary/purpose_scope_and_use/index.md
       - Core Elements of Description:

@@ -7,7 +7,7 @@ Acceptable sources of information for moving image Works, Variants, Manifestatio
 Primary sources include information on the actual Item itself.
 For example, for moving image materials, titles and main production credits are transcribed from the frames usually in the opening credits, and other production credits from the end titles and credits.
 Secondary sources include information written on containers and reference materials.
-For example, credit, title, date, and other information derived from publications such as AFI Catalog of Feature Films: 1930-1939, or [Det Danske Filminstitut Filmdatabasen](https://www.dfi.dk/viden-om-film/filmdatabasen) , etc.
+For example, credit, title, date, and other information derived from publications such as AFI Catalog of Feature Films: 1930-1939, [Det Danske Filminstitut Filmdatabasen](https://www.dfi.dk/viden-om-film/filmdatabasen) , [ADD LINK TO https://www.filmportal.de/etc.
 
 Although primary sources are generally preferred, this manual allows for the use of secondary sources no matter the entity, attribute or relationship described in recognition that there may be constraints on the amount of research or viewing a cataloguer can do.
 
@@ -57,7 +57,7 @@ In instances where Primary source data relating to on-screen titles and credits,
 !!! example "Example"
     Il vangelo secondo Matteo (Italy, 1964)
 
-Work History note: The credits in the opening titles on actual prints of the film give 'Alessandro Clerici' as playing the role of Pontius Pilate. However, he was in fact played by Alessandro Tasca (aka Alessandro Tasca di Cutò). Verified by his daughter Ama Tasca di Cutò in correspondence with the BFI (February 2020)  and further researched by the BFI in conjunction with Cineteca Bologna. Alessandro Tasca also discusses his taking on the role of Pilate in Pasolini's film, and his fee for the day's work, in correspondence with Orson Welles (housed at the University of Michigan). Distribution information from c.1964/65 from UniItalia in Rome and from other English distribution companies of the film in the 1960s also cite 'Alessandro Tasca' as the credit for Pontius Pilate.
+    Work History note: The credits in the opening titles on actual prints of the film give 'Alessandro Clerici' as playing the role of Pontius Pilate. However, he was in fact played by Alessandro Tasca (aka Alessandro Tasca di Cutò). Verified by his daughter Ama Tasca di Cutò in correspondence with the BFI (February 2020)  and further researched by the BFI in conjunction with Cineteca Bologna. Alessandro Tasca also discusses his taking on the role of Pilate in Pasolini's film, and his fee for the day's work, in correspondence with Orson Welles (housed at the University of Michigan). Distribution information from c.1964/65 from UniItalia in Rome and from other English distribution companies of the film in the 1960s also cite 'Alessandro Tasca' as the credit for Pontius Pilate.
 
 [^1]: Based on RDA 2.2.4 Other Sources of Information
 [^2]: RDA 2.20.2.3 Title Source
@@ -68,4 +68,3 @@ Work History note: The credits in the opening titles on actual prints of the fil
 [^7]: RDA 2.2.4 Other Sources of Information
 [^8]: RDA 2.2.4 Other Sources of Information
 [^9]: See the name note on the [BFI record for Richard Greene](https://collections-search.bfi.org.uk/web/Details/People/177651)
-

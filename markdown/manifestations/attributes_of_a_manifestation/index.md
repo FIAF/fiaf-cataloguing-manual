@@ -3,7 +3,7 @@ title: Attributes of a Manifestation
 ---
 <a id="sec-manifestation_type"></a>
 ## Manifestation Type
-As mentioned at [INSERT INTERNAL LINK TO BOUNDARIES CHAPTER SECTION], a Manifestation is defined on the basis of two criteria: changes in the publication context and changes in format.
+As mentioned at [Boundaries between Manifestations](/boundaries/boundaries_between_manifestations), a Manifestation is defined on the basis of two criteria: changes in the publication context and changes in format.
 The element Manifestation Type describes the specific type of change.
 
 The Manifestation Type is expressed by a phrase denoting the relationship between the Manifestation and the associated Work/Variant, for example, “pre-release,” “theatrical distribution,” “not for release,” “original,” etc.
@@ -24,7 +24,7 @@ It applies to production material in general, including: original shooting eleme
 
 It may also include, censorship submission prints, working assembly prints, rushes, costume tests, lighting tests, make-up tests, etc. where an institution may need or prefer to group together all production material, i.e. an institution may usually create rushes and tests as separate individual associated records but, where these are acquired as part of a large collection of production material for one particular moving image it prefers, for practical reasons, to keep records together for ease of access or for restoration work purposes.
 
-An institution may create Works in their own right for different in-production filmed aspects, e.g. Screen Tests, Rushes, etc. which are then related to the main, final moving image Work in an associative relationship. Each of these Works would then have their own linked Pre-Release Manifestation. Decisions on this may depend on the quantity and/or nature of materials acquired and an institution's preference. For further details about possibilities and options in structuring and cataloguing production materials and using Pre-release Manifestations see [ADD LINK TO NEW SECTION ON TITLES AND STRUCTURES OF PRODUCTION MATERIALS CURRENTLY BEING EDITED IN BRANCH 259 DOCUMENT OF MANUAL]
+An institution may create Works in their own right for different in-production filmed aspects, e.g. Screen Tests, Rushes, etc. which are then related to the main, final moving image Work in an associative relationship. Each of these Works would then have their own linked Pre-Release Manifestation. Decisions on this may depend on the quantity and/or nature of materials acquired and an institution's preference. For further details about possibilities and options in structuring and cataloguing production materials and using Pre-release Manifestations see [Titles and structuring for production materials](/appendices/titles/title_types/#titles-and-structuring-for-production-materials-including-out-takes-screen-tests-rushes).
 
 Pre-Release Manifestation can also be used with moving images which started production but were never finished and for which footage exists and may have been acquired by an institution.
 
@@ -55,32 +55,16 @@ Detail on the specific nature of the Pre-Release Manifestation (e.g. censorship 
 
 Manifestation Types can represent a unique instance (e.g. the original negative, the first recording/mixing of the sound, censorship cuts, the working assembly edit, etc.) or, more than one instance.
 
-!!! example "Example"
-    Censorship submission print
 
-!!! example "Example"
-    Censorship cuts
-
-!!! example "Example"
-    Make-up tests
-
-!!! example "Example"
-    Costume tests
-
-!!! example "Example"
-    Screen tests general
-
-!!! example "Example"
-    Camera negative
-
-!!! example "Example"
-    Assembly edit
-
-!!! example "Example"
-    Rushes/Dailies
-
-!!! example "Example"
-    Sound mixes
+- Censorship submission print
+- Censorship cuts
+- Make-up tests
+- Costume tests
+- Screen tests general
+- Camera negative
+- Assembly edit
+- Rushes/Dailies
+- Sound mixes
 
 These describe the context, not the format. For example, a censorship print may exist as multiple Items (35mm print, ProRes, MP4)
 
@@ -255,17 +239,14 @@ Some institutions may use this to refer to restorations undertaken by the instit
 
 If required there is the option of creating more than one Restoration Manifestation to group specific outcomes of the project, e.g. a Manifestation for a Demonstration Reel, Raw scans, final digital DCP and DCDM materials resulting from the restoration process, etc. particularly where there may be several Items, or copies, relating to these on different formats.
 
-    Example:
-
 A very ambitious application might result in the following structure, where separate Manifestations are created for different stages of the restoration process with the key categories:
+
 1. Raw Scan: linked to its item source via a Preservation event (type: digitisation).
 2. DCDM (Digital Cinema Distribution Master) and DCP (Digital Cinema Package) under one Manifestation
 3. Blu-ray/DVD - ISO as Manifestations and burned physical discs as a items
 4. Viewing file for internet publication
 
 Each of these Manifestations differs from the others in terms of its technical parameters (e.g., encoding, resolution, compression, file formats), which justifies the separation into different Manifestations.
-
-  Example:
 
 !!! example "Example"
     The great white silence (United Kingdom, Herbert Pointing, 1924) (DVD –Dual Format Edition – BFI) (2010 restoration)

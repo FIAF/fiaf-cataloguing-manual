@@ -1,17 +1,18 @@
 ---
 title: Manifestation Publication Types
 ---
-Release  
-Publication  
-Distribution  
-Broadcast  
-Online Transmission (e.g. Internet, Intranet)  
-Pre-Release  
-Theatrical distribution  
-Non-theatrical distribution  
-Not for release  
-Home video publication  
-Unknown
+
+- Release  
+- Publication  
+- Distribution  
+- Broadcast  
+- Online Transmission (e.g. Internet, Intranet)  
+- Pre-Release  
+- Theatrical distribution  
+- Non-theatrical distribution  
+- Not for release  
+- Home video publication  
+- Unknown
 
 **Publication date**
 
@@ -20,7 +21,6 @@ For Manifestations, the Publication Event that originated the embodiment of a sp
 - Publication date
 Record the date on which Work/Variant or Manifestation was released or otherwise made available. Dates should be formatted according to ISO 8601 or some other recognised standard. The date should be that of the specific event of the Manifestation publication, e.g. a moving image Manifestation may have Publication dates in separate Publication events  a Manifestation for its first theatrical release date of 1957, and then Manifestations for the broadcast date (in 1981) and streaming date (in 2020). 
  
-- Region
 **Region**
 
 Record the country or other political or physical geographic entity where the Publication Event took place (e.g. first projection in the framework of a theatrical distribution) or made the Work/Variant or Manifestation available (e.g. distribution area).
@@ -85,7 +85,7 @@ A distinct event in the course of production of a Work or Variant, including the
 
 May include year/date of shooting of non-professional, actuality or unedited footage.
 
-A Production Event may be associated with instances of Agent in the role of e.g. production company, location scout, etc. Selection should be made from a controlled list of values. See [Distributor (theatrical)](/agents/agents_for_manifestations/#sec-distributor_theatrical) and [sec:work_variant_agent_types](#sec-work_variant_agent_types).
+A Production Event may be associated with instances of Agent in the role of e.g. production company, location scout, etc. Selection should be made from a controlled list of values. See [sec:work_variant_agent_types](#sec-work_variant_agent_types).
 
 Record all the existing relationships of a Production/Publication Event, if the information is known and considered of relevance.
 
@@ -96,17 +96,6 @@ Production Event information consists of the following sub-elements:
 - Region
 - Year/Date
 - Event details
-- Production Event type
-
-Selection should be made from a controlled list of values.  See [Production Event Types](/events/publication/#sec-production_event_types).
-
-<a id="sec-production_event_types"></a>
-## Production Event Types
-  - Production Event type
-  - Location
-  - Region
-  - Year/Date
-  - Event details
 
 **Production Event type**
 
@@ -119,22 +108,8 @@ Selection should be made from a controlled list of values, e.g.:
 
 **Location**
 
-Casting  
-Outdoor shooting  
-Indoor shooting  
-Post-Production  
-
- 
-- Location
 Any geographic name(s) or address(es) of the location(s) where the event took place
 
-- Region
-The country or other large-scale geographic entity where the event took place
-
-- Year/Date
-The year/date or time-span during which the event took place. Dates should be formatted according to ISO 8601 or some other recognised standard.
-
-- Event details
 **Region**
 
 The country or other large-scale geographic entity where the event took place
@@ -164,31 +139,14 @@ Copyright/IPR Registration Event information consists of the following sub-eleme
 - Regional scope
 - Name of applicant
 - Registration number
-  - Registration Date
-  - Registration Agency
-  - Regional scope
-  - Name of applicant
-  - Registration number
 
 **Registration date**
 
-- Registration  date
 The date on which the registration was filed or the date on which registration became effective. (Dates should be formatted according to ISO 8601 or some other recognised standard.)
 
-- Registration agency
-Name of the agency issuing the registration certificate (e.g. "UK Intellectual Property Office," name of a legal deposit library, etc.).
-
-- Regional scope
-The geographic region for which copyright is claimed.
-
-- Name of applicant
-Name of the Agent claiming copyright in the Work or Variant.
-
-- Registration number
-The number assigned by the registration agency. 
 **Registration agency**
 
-Name of the agency issuing the registration certificate (e.g. “UK Intellectual Property Office,” name of a legal deposit library, etc.).
+Name of the agency issuing the registration certificate (e.g. "UK Intellectual Property Office," name of a legal deposit library, etc.).
 
 **Regional scope**
 
@@ -200,13 +158,15 @@ Name of the Agent claiming copyright in the Work or Variant.
 
 **Registration number**
 
+The number assigned by the registration agency. 
+
 <a id="sec-preservation_restoration"></a>
 ## Preservation/Restoration
 A Preservation/Restoration Event is associated with a new Variant, Manifestation or Items resulting from the preservation/restoration process in which the contents of one or more Items (or fragments thereof) from Manifestations of a Work were transferred with the intention of restoring or reconstructing the content as originally intended, or safeguarding it from decay.[^5]  
 
 This includes statements about past or future treatments scheduled for the item.  If desired and if applicable, record one or more general types of past or future treatment activities (e.g. "added leaders", "cleaned ultrasonically", "tears repair", etc.). Selection should be made from a controlled list of values.
 
-A Preservation/Restoration Event has as typical Agent(s) the institution(s) or individual professionals that make preservation decisions. Selection should be made from a controlled list of values. See [Distributor (theatrical)](/agents/agents_for_manifestations/#sec-distributor_theatrical) and [sec:work_variant_agent_types](#sec-work_variant_agent_types).
+A Preservation/Restoration Event has as typical Agent(s) the institution(s) or individual professionals that make preservation decisions. Selection should be made from a controlled list of values. See [sec:work_variant_agent_types](#sec-work_variant_agent_types).
 
 A Preservation/Restoration Event can be in relationship with instances of “Other” relationships (such as technical reports, documentation material, promotional material for the specific project, etc.).
 
@@ -222,24 +182,19 @@ Preservation/Restoration Event information consists of the following sub-element
   
 Record the general type of the preservation/restoration activity performed. Selection should be made from a controlled list of terms, which may include:
  
-Conservation / Repair  
-Image Digitisation  
-Sound Digitisation  
-Reconstruction  
-Image Restoration  
-Image Grading  
-Sound Restoration  
-Printing / Recording   
-Duplication   
-Transfer   
+- Conservation / Repair  
+- Image Digitisation  
+- Sound Digitisation  
+- Reconstruction  
+- Image Restoration  
+- Image Grading  
+- Sound Restoration  
+- Printing / Recording   
+- Duplication   
+- Transfer   
 
-- Preservation/Restoration Date
-Record the date or time span in which the preservation/restoration activity was performed. (Dates should be formatted according to ISO 8601 or some other recognised standard.)
 
-Add in a note any information describing the preservation process in detail.
-
-This can include: 
-**Preservation type**
+**Preservation/Restoration type**
 
 Record the general type of the preservation activity performed, for example, duplication, transfer, etc. Selection should be made from a controlled list of terms, e.g.:
 
@@ -250,7 +205,12 @@ Record the general type of the preservation activity performed, for example, dup
 * Reconstruction
 * Restoration
 
-**Preservation Date**
+**Preservation/Restoration Date**
+
+Record the date or time span in which the preservation/restoration activity was performed. (Dates should be formatted according to ISO 8601 or some other recognised standard.)
+Add in a note any information describing the preservation process in detail.
+
+This can include: 
 
 -	Genesis of the project or reason why preservation was undertaken  
 -	Significant challenges  
@@ -268,56 +228,33 @@ A Preservation/Restoration Event can be used in conjunction with Preservation or
 ## Decision[^4]
 A Decision Event is an event in which a Manifestation of a certain Work/Variant is evaluated by a censorship body or an accredited rating agency.
 
-A Decision Event may be associated with instances of Agent, e.g. in the role of the agency performing the rating or censorship.
-
-A Decision Event may be associated with instances of “Other” relationship(s) (e.g., the original censorship documents).
+A Decision Event may be associated with instances of Agent, e.g. in the role of the agency performing the rating or censorship, and also with instances of “Other” relationship(s) (e.g., the original censorship documents).
 
 Record all the existing relationships for the Decision Event, if the information is known and considered of relevance.
 
 Decision event information consists of the following sub-elements:
+
 - Decision type  
 - Decision date  
 - Regional scope  
 - Certificate number  
 - Verdict  
-- Decision type  
-
-- Decision type
-Record the type or status of the decision event. Usually the term adopted is "censorship" or “revision” for decisions mandated by law, "rating" for decisions under a voluntary scheme. Further types may include special forms of evaluation, e.g. for tax privileges, as long as these are distinct from awards.
-
-!!! example "Example"
-    - Decision type
-    - Decision date
-    - Regional scope
-    - Certificate number
-    - Verdict
 
 **Decision type**
 
+Record the type or status of the decision event. Usually the term adopted is "censorship" or “revision” for decisions mandated by law, "rating" for decisions under a voluntary scheme. Further types may include special forms of evaluation, e.g. for tax privileges, as long as these are distinct from awards.
 
 Selection should be made from a controlled list of terms, including ones such as:
 
-Censorship  
-Revision  
-Rating  
-Selection should be made from a controlled list of terms. e.g.:
+- Censorship  
+- Revision  
+- Rating  
 
-* Censorship
-* Revision
-* Rating
 
 **Decision date**
 
-- Decision date
 Record the date on which the verdict was announced or on which the verdict was declared valid. Dates should be formatted according to ISO 8601 or some other recognised standard.
 
-- Regional scope
-Record the geographic region for which the verdict is (was) valid.
-
-- Certificate number
-Record in Arabic numerals the number issued by the agency as a unique identifier of the act(s) of rating or censorship such as censorship visas or rating certificates.
-
-- Verdict
 **Regional scope**
 
 Record the geographic region for which the verdict is (was) valid.
@@ -350,31 +287,16 @@ Manufacture event information consists of the following sub-elements:
 - Manufacture date  
 - Manufacture region  
 
-- Manufacture type
-Record the general type of the manufacture activity performed, for example, film printing, tele-cine, video copying, etc. Selection should be made from a controlled list of terms, including ones such as:
-
-Film printing  
-Telecine  
-Video copying  
-Scanning  
-Mastering  
-Uploading  
-
-- Date of Manufacture
-Record the date or time span on which the Manufacture Event took place. (Dates should be formatted according to ISO 8601 or some other recognised standard.)
-
-- Region of Manufacture/embodiment
-Record the country or other political or physical geographic entity where the Manufacture Event took place (e.g. the region/place where the laboratory was located). (For the treatment of the geographical names, see Getty Thesaurus of Geographic Names (TGN), or some other recognised standard.)
 **Manufacture type**
 
-Record the general type of the manufacture activity performed, for example, film printing, tele-cine, video copying, etc. Selection should be made from a controlled list of terms, e.g.:
+Record the general type of the manufacture activity performed, for example, film printing, tele-cine, video copying, etc. Selection should be made from a controlled list of terms, including ones such as:
 
-* Film printing
-* Telecine
-* Video copying
-* Scanning
-* Mastering
-* Uploading
+- Film printing  
+- Telecine  
+- Video copying  
+- Scanning  
+- Mastering  
+- Uploading  
 
 **Manufacture date**
 
@@ -392,4 +314,3 @@ If known and considered of relevance, record the name of the city or smaller geo
 [^3]: EN 15907 6.15 IPR Registration, pp. 23-24
 [^4]: EN 15907, 6.13 Decision event, pp. 26-27
 [^5]: There is no designated separate Restoration Event in EN 15907, and as there can often be an overlap in the types of activity associated with both preservation and restoration, we extended the definition in the 2016 FIAF Moving Image Cataloguing Manual to cover restoring and reconstruction of content too. We have also now referred to it as a Preservation/Restoration Event to increase clarity.
-

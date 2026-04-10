@@ -353,49 +353,7 @@ Not all the above information has to be in the archive title if not discernible,
 !!! example "Example"
     Jones Collection footage. No. 5
 
-```pikchr
-
-B1: box rad 5px "Start:" "Workflow for:" "1. No titles (intended to have a formal title but lacking one)" "2. Untitled (not intended to have a formal title)" "3. Unidentified/indeterminate"  fit at (3,6) 
-
-B2: box rad 5px "Is it a recognised" "form/genre?" fit at (3,5)
-
-B3: box rad 5px "Does it have" "a relationship to a" "particular work/ variant," "or multi-part work?" fit at (2,4)
-
-B4: box rad 5px "Is it related to" " a common theme " "or a person, family " "or corporate body " "as subject?" fit at (4,4)
-
-B5: box rad 5px " Is title of " " that related " "work/ variant," " multi-part work" "known?" fit at (0,1.5)
-
-B6: box rad 5px  " Is title of " " that related " "work/ variant," "multi-part work known?  " fit at (6,1.5)
-
-B7: box rad 5px "Create partially devised/" "supplied title with title of" "work/variant or multi-part" "work + form term" fit at (0,0)
-
-B8: box rad 5px "Create fully devised/" "supplied title with form" "term + additional" "descriptive information" fit at (2,0)
-
-B9: box rad 5px "Create fully devised/" "supplied title with theme" "or subject term term +" "additional descriptive" "information"  fit at (4,0)
-
-B10: box rad 5px "Create fully devised/" "supplied title with descriptive"  "information covering the" "“five Ws”: who, what," "when, where" fit at (6,0) 
-
-arrow from B1.s to B2.n
-
-arrow "yes" left 0.2 from B2.w then left until even with B3 then down to B3.n
-
-arrow "no" right 0.2 from B2.e then right until even with B4 then down to B4.n
-
-arrow "yes" rjust from B4.s to B9.n
-
-arrow "no" right 0.2 from B4.e then right until even with B6 then down to B6.n
-
-arrow "yes" rjust from B6.s to B10.n
-
-arrow "no" rjust from B3.s to B8.n
-
-arrow "yes" left 0.2 from B3.w then left until even with B5 then down to B5.n
-
-arrow "yes" rjust from B5.s to B7.n
-
-arrow "no" right 0.2 from B5.e then right until even with B8 then down to B8.n
-
-```
+<center><object data="/diagrams/supplied_devised.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 <a id="sec-partially_supplied_devised_titles"></a>
 ### Partially Supplied/Devised Titles[^4]
@@ -723,29 +681,26 @@ Whichever option is chosen, any production material Items should be linked to a 
 
 Below are some of the potential structuring options for the same production materials. The Item titles reflect those of the actual Item itself, i.e. what was on film leaders or film cans as acquired, or in accordance with Partially Supplied/Devised or Fully Supplied/Devised titling. The latter forms of titling have been applied to the Pre-release Manifestation and also to any new production material Works:
 
-1. Where a new Work is created for each type of production material, each with a Pre-release Manifestation, and relevant Items linked to those; with an associated related link/reference to the released Work record:
+1. Where a new Work is created for each type of production material, each with a Pre-release Manifestation, and relevant Items linked to those; with an associated related link/reference to the released Work record: <br><center><object data="/diagrams/title_type_01.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
-<center><object data="/diagrams/title_type_01.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+2. Where one new Work is created as a general one for any production material, with multiple Pre-release Manifestations for each type of production material and relevant Items linked to each of those; with an associated related link/reference to the released Work record: <br><center><object data="/diagrams/title_type_04.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
-2. Where one new Work is created as a general one for any production material, with multiple Pre-release Manifestations for each type of production material and relevant Items linked to each of those; with an associated related link/reference to the released Work record:
+3. Where one new Work is created as a general one for any production material, with one general Pre-release Manifestation and all Items linked to that; with an associated related link/reference to the released Work record: <br><center><object data="/diagrams/title_type_02.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
-<center><object data="/diagrams/title_type_04.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+4. Where one general Pre-release Manifestation is created linked to the original released Work record and all production material Items linked to that one Manifestation: <br><center><object data="/diagrams/title_type_03.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
-3. Where one new Work is created as a general one for any production material, with one general Pre-release Manifestation and all Items linked to that; with an associated related link/reference to the released Work record:
-
-<center><object data="/diagrams/title_type_02.drawio.svg" type="image/svg+xml" width="100%"></object></center>
-
-4. Where one general Pre-release Manifestation is created linked to the original released Work record and all production material Items linked to that one Manifestation:
-
-<center><object data="/diagrams/title_type_03.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 Where an institution acquires large collections or amounts of production materials associated with a moving image or moving image serial then a structure utilising a Collection level Work with multiple linked Monographic level Works is advisable [ADD INTERNAL LINK TO WORK/VARIANT DESCRIPTION TYPE, APPENDIX D.1]. For example, the acquisition of a large quantity of production material associated with the 13-part television documentary series Hollywood (United Kingdom, 1980) [ADD LINK TO https://en.wikipedia.org/wiki/Hollywood_(British_TV_series) IN A FOOTNOTE HERE], which can be structured with the Collection Work and Monographic Works in a hierarchical relationship, e.g.:
 
+
 <center><object data="/diagrams/title_type_05.drawio.svg" type="image/svg+xml" width="60%"></object></center>
+
 
 Or, optionally, with the Collection Work being in an associated relationship with each Monographic Work:
 
+
 <center><object data="/diagrams/title_type_06.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+
 
 Trailers do not strictly constitute production material as they are effectively entities in their own right, potentially with Agents that are different to those of the moving image itself. They are a type of advertisement for the moving image and have their own publication via cinema release, television broadcast, or online streaming. They would follow the titling laid out in A.2.5.1. and A.2.5.2 above and usually be linked in an associative relationship with the original moving image for which they are trailers.
 
@@ -885,6 +840,7 @@ OR
 
     Chapter 12. Ming the Merciless
 
+
 The same principle can be applied to episodes of a series/serial that do not have their own individual titles but have numbered parts.
 
 !!! example "Example"
@@ -902,6 +858,7 @@ The same principle can be applied to episodes of a series/serial that do not hav
 
     Item – Pride and prejudice. Part One
 
+
 Reflect the Part term used in any source of information, for example, “part,” “chapter,” “episode,” etc. Equally, if the number is in numerals then use those, and if alphabetical, i.e. One, Two, Three, etc., use those.
 
 Newsreel/cinemagazine companies often had their own official titling for issues/episodes, using numbers or number/letter combinations, e.g.
@@ -916,11 +873,17 @@ Newsreel/cinemagazine companies often had their own official titling for issues/
 
 These often feature on the opening titles of an item, or are listed in official catalogues of the newsreel/cinemagazine companies, and should be replicated and used as the preferred title for the Item and its linked Manifestation, and Work.
 
-As with the other previous serials/series examples, the Work for the individual newsreel issue can also further be linked to a Work record for the newsreel Series (either via a hierarchical or related record linking, depending on your system):
+As with the other previous serials/series examples, the Work for the individual newsreel issue can also further be linked to a Work record for the newsreel Series, either via a hierarchical
 
-[INSERT [DIAGRAM BPN 1. Numbered episodes of a series/serial section HERE]
 
-[INSERT [DIAGRAM BPN 2. Numbered episodes of a series/serial section HERE]
+<center><object data="/diagrams/numb_01.drawio.svg" type="image/svg+xml"></object></center>
+
+
+ or related record linking, depending on your system
+
+
+<center><object data="/diagrams/numb_02.drawio.svg" type="image/svg+xml"></object></center>
+
 
 Where the issue number cannot be identified, then use a date or year, if discernible, within a partially devised title, for example:
 
@@ -941,7 +904,9 @@ Within the hierarchical structure this new Manifestation would link to the Work 
 
 The new Manifestation/Item title could be added to the Work level as an Alternative title type.
 
-[INSERT DIAGRAM 3. PANORAMA. In Episodes of a series/serial with no individual title or numbered parts HERE]
+
+<center><object data="/diagrams/numb_03.drawio.svg" type="image/svg+xml"></object></center>
+
 
 In the above example the Manifestations “Panorama [2011-01-24] and “Panorama [2011-01-30]” both link hierarchically to the same Work, entitled “Panorama [2011-01-24]” as they are broadcasts on different dates of exactly the same programme.
 
@@ -979,11 +944,14 @@ OR
 
 Within a hierarchical structure, the Item *President Roosevelt opens World Fair* would be linked as “part of” the Theatrical Manifestation *British Paramount news No. 856*, i.e. the whole newsreel issue, which in turn would be linked to the Work record for the whole issue also with the title *British Paramount news No. 856*.  
 
-[INSERT DIAGRAM BPN.3. In Analytics/Components of identified newsreels/cinemagazines HERE]
+
+<center><object data="/diagrams/numb_04.drawio.svg" type="image/svg+xml"></object></center>
+
 
 OR
 
-[INSERT DIAGRAM BPN.4. In Analytics/Components of identified newsreels/cinemagazines HERE]
+
+<center><object data="/diagrams/numb_05.drawio.svg" type="image/svg+xml"></object></center>
 
 
 At the Work level each of the titled analytics/components making up the whole, i.e. the separate news reports, can be added as additional alternative titles.
@@ -1007,7 +975,9 @@ OR
     British Paramount news No.856. (Incomplete) 
 
     British Paramount news No.856. Incomplete
-[INSERT DIAGRAM BPN 5. In Analytics/Components of identified newsreels/cinemagazines HERE]
+
+<center><object data="/diagrams/numb_06.drawio.svg" type="image/svg+xml"></object></center>
+
 
 With any inter-title designations on the print then added as alternative type titles.
 
@@ -1025,20 +995,28 @@ Square brackets may be used within titles for encasing necessary extra qualifyin
 Use the form of titling that fits with the practice of your institution.
 An institution may acquire both a whole copy of the newsreel/cinemagazine issue and a part of it. An Item record should be made for each, e.g. 
 
-[INSERT DIAGRAM BPN 6. In Analytics/Components of identified newsreels/cinemagazines HERE]
+
+<center><object data="/diagrams/numb_07.drawio.svg" type="image/svg+xml"></object></center>
+
 
 Or it may be that only parts of a newsreel/cinemagazine episode are acquired at different times. As these will be in different cans/containers and are separate acquisitions, then they are separate Items.
 Again, the inter-title on the part can be used to create the title of the Item:
 
-[INSERT DIAGRAM BPN 7.In Analytics/Components of identified newsreels/cinemagazines HERE]
+
+<center><object data="/diagrams/numb_08.drawio.svg" type="image/svg+xml"></object></center>
+
 
 As mentioned previously, if preferred, then the newsreel series title can be incorporated within the episode title along with the inter-title heading:
 
-[INSERT DIAGRAM BPN 8.In Analytics/Components of identified newsreels/cinemagazines]
+
+<center><object data="/diagrams/numb_09.drawio.svg" type="image/svg+xml"></object></center>
+
 
 Where a story element from a newsreel/cinemagazine issue has been acquired (but the issue it is from has not yet been identified, while the newsreel/cinemagazine series it is from is known) then the inter-title heading on the film itself should be used as the title for the Work, Manifestation and Item. The Work would constitute an Analytic Work and can be linked directly to the newsreel/cinemagazine Serial Work record.
 
-[INSERT DIAGRAM 9. GBN. In Analytics/Components of identified newsreels/cinemagazines HERE]
+
+<center><object data="/diagrams/numb_10.drawio.svg" type="image/svg+xml"></object></center>
+
 
 If the full episode/issue is subsequently identified, then the Item can either be   
 
@@ -1050,13 +1028,17 @@ or
 
 The Item then becomes a simple partial acquisition of the whole, retaining the story element title
 
-[INSERT DIAGRAM 10. GBN. In Analytics/Components of identified newsreels/cinemagazines HERE]
+
+<center><object data="/diagrams/numb_11.drawio.svg" type="image/svg+xml"></object></center>
+
 
 With some institutions, rather than a Serial – Monographic Work structure, the nature of the material they hold may mean they only ever need a Serial – Analytic Work structure. For example, an archive with a large collection of the individual story elements of multiple local regional news television programmes held on videotapes, rather than whole individual programmes – especially where the precise episode they are from is unclear or less relevant for that institution. These can be catalogued under their individual story element title, and linked to a Serial Work record for the local news series. As component parts of a whole issue the individual story elements constitute “Analytic” types. 
 
 In some collections of local news programmes only the Analytic story elements and their dates of filming are catalogued rather than the whole issues/episodes in which they featured and the broadcast date of those. If the Work/Item represents the unedited footage that was shot rather than the exact edit that was used or shown in a particular broadcast news programme, then it should have a linked Pre-Release type of Manifestation
 
-[INSERT DIAGRAM 11. TSW. Analytics/Components of identified newsreels/cinemagazines HERE]
+
+<center><object data="/diagrams/numb_12.drawio.svg" type="image/svg+xml"></object></center>
+
 
 Where such individual story elements may have been aggragated together into compilations reels, tapes, or files then see [LINK TO AGGREGATES CHAPTER AND RELEVANT SECTION]
 If deemed necessary or helpful for the purposes of discovery, the alternative titles added to Items should also be added to the Work level record.
@@ -1078,17 +1060,23 @@ For practical and efficiency reasons, as well as systems workflows, an instituti
 
 This type of 3-tier Works structuring is a logical extension of the 2-tier Serial-Monographic parent-child linked hierarchical structures used already in many institutions.[ADD THE FOLLOWING FOOTNOTE HERE   This also corresponds with structures in UNESCO CCF/B (Common Communications Format / Bibliographic, UNESCO PGI-92/WS/9, Paris, 1992,(INSERT LINK) relating to vertical structuring and Series-Monograph-Component types (which are the basis for EN 15907 Description levels aka Work/Variant Description Types).]
 
-[INSERT DIAGRAM 12. TB. In Further enhanced structuring possibilities with analytic/component parts and identified newsreels/cinemagazines HERE]
+
+<center><object data="/diagrams/numb_13.drawio.svg" type="image/svg+xml"></object></center>
+
 
 This would then ultimately have the following record structure:
 
-[INSERT DIAGRAM 13. TB. In Further enhanced structuring possibilities with analytic/component parts and identified newsreels/cinemagazines HERE]
+
+<center><object data="/diagrams/numb_14.drawio.svg" type="image/svg+xml"></object></center>
+
 
 as well as additional “Other relationships” between some of these, i.e. an associative contains/contained in relationship between the Mongographic and Analytic Work and a source item/derived item relationship between the two Items.
 
 Under existing EN 15907, usual structuring would be to create new Analytic Works (with their own new Manifestations and Items) and relate those Works to the original whole newsreel issue in which they featured, in an associative “Other Relationship”. In a system where Serial and Monographic Works usually sit in a horizontal Other Relationships structure then this can be followed, i.e.
 
-[INSERT DIAGRAM 14. TB. In Further enhanced structuring possibilities with analytic/component parts and identified newsreels/cinemagazines HERE]
+
+<center><object data="/diagrams/numb_15.drawio.svg" type="image/svg+xml"></object></center>
+
 
 <a id="sec-further_enhanced_structuring_possibilities_with_large_newsreel_cinemagazine_or_television_series_serials"></a>
 ### Further enhanced structuring possibilities with large newsreel/cinemagazine or television series/serials
@@ -1096,7 +1084,9 @@ A further, and similar, enhanced hierarchical structuring of different types of 
 
 For example, a collection of all the UK daily morning news and magazine programme Good Morning Britain:
 
-[INSERT DIAGRAM 15. GMB. In Further enhanced structuring possibilities with large newsreel/cinemagazine or television series/serials HERE]
+
+<center><object data="/diagrams/numb_16.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+
 
 While not actually stipulated or covered in the EN 15907 standard model, the inherent flexibility of that model and structure does potentially enable possible stretching of the standard, and it could be argued that it is logically acceptable structuring within EN 15907. 
 
@@ -1104,7 +1094,9 @@ Whilst system work-arounds that impact on data standards are not to be advocated
 
 In some instances, this concept could even lead to a Great Grandparent-Grandparent-Parent-Child Work hierarchical relationship structure:
 
-[INSERT DIAGRAM 16. TB. In Further enhanced structuring possibilities with large newsreel/cinemagazine or television series/serials HERE]
+
+<center><object data="/diagrams/numb_17.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+
 
 <a id="sec-analytics_components_of_unidentified_newsreels_cinemagazines"></a>
 ### Analytics/components of unidentified newsreels/ cinemagazines
@@ -1156,7 +1148,9 @@ In cases of potentially different versions of a newsreel/cinemagazine episode, t
 
 For Item(s) that have not yet been viewed, then if the film header, can, accompanying paperwork, legacy records, etc. indicate that an item acquired is a particular version of a newsreel/cinemagazine episode, then the Item can be created and linked to the original episode Work and Manifestation. By having a partially devised title for the Item(s) the version distinctions could be indicated, e.g. 
 
-[insert [DIAGRAM 17. LL. In Titles and structuring of Variant newsreel/cinemagazine episodes HERE]
+
+<center><object data="/diagrams/numb_18.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+
 
 This could be a temporary measure prior to viewing, checking, and fuller cataloguing. For example, after further researches and viewing it could be established that the Work/Variant and Manifestations for what was designated “East African Version” was more specifically that released in Kenya, so titling can subsequently be revised to London Line Greets ’69 [Kenyan Version] for the Item and its linked Manifestation, and Work/Variant.
 
@@ -1166,11 +1160,15 @@ If the episode has the same content, the commentary is the same (just perhaps a 
 
 If, for example, London Line No. 373 simply had different presenters for one version but the same commentary – or the level of difference was not yet known from researches – then the following data structures can be used:
 
-[INSERT [DIAGRAM 18. LL. In Titles and structuring of Variant newsreel/cinemagazine episodes HERE]
+
+<center><object data="/diagrams/numb_19.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+
 
 Or if you institution does not use Variants:
 
-[INSERT [DIAGRAM 19. LL. In Titles and structuring of Variant newsreel/cinemagazine episodes HERE]
+
+<center><object data="/diagrams/numb_20.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+
 
 The above diagrams also illustrate the structure that could be used where there is an additional separate acquisition of one of the component elements of one of the versions.
 
@@ -1184,11 +1182,15 @@ Content descriptions (e.g. synopses and/or shotlists), Subjects, Cast, Credits, 
 
 If preferred, then partially devised titles can be used for easy identification across the new Works/ Variants, Manifestations, and Items, as in the examples featured. Use whichever practice or stylistic is preferred by your institution for these, e.g. square brackets, punctuation system within the titling itself, or a corresponding title type, etc.
 
-[INSERT [DIAGRAM 20. LL. In Titles and structuring of Variant newsreel/cinemagazine episodes HERE]
+
+<center><object data="/diagrams/numb_21.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+
 
 And if variations are minor and Variants are used, then structure would look like this:
 
-[INSERT [DIAGRAM 21. LL. In Titles and structuring of Variant newsreel/cinemagazine episodes HERE]
+
+<center><object data="/diagrams/numb_22.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+
 
 [^1]: Term “Identifying title” corresponds with EN 15907. This is the equivalent of “Uniform title” in FRBR and “Preferred title” in RDA.
 [^2]: Adapted from FIAF, 1.4. Other title information, p. 25.
