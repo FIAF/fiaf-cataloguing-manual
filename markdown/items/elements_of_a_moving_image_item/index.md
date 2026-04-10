@@ -408,6 +408,9 @@ This could be recorded using single or multiple specific headed fields (i.e., co
 Record the condition of the Item including its base and/or emulsion and/or perforations, where applicable.
 Selection should be made from a controlled list of terms, for example, “brittle”, “buckled”, “tears,” etc. 
 
+<a id="sec-item_copy_condition_base_emulsion_film_and_video"></a>
+#### Item Copy Condition Base/Emulsion - Film and Video
+
 <a id="sec-item_copy_condition_perforations_film"></a>
 #### Item Copy Condition Perforations – Film
 * Foil Patches
