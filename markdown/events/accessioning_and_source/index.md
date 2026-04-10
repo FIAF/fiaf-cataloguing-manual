@@ -2,7 +2,7 @@
 title: Further Event Types - Items
 ---
 
-The following are two further Event Types relating to Item - Acquisition and Inspection Events. Those institutions which use systems that do not have or use Events will usually capture this data in fields embedded within the Item record or linking to records in another database, e.g. a separate Donors database with its own acquisition records. Alternatively, there may be a reference to paper 
+The following are two further Event Types relating to Item - Acquisition and Inspection Events. Those institutions which use systems that do not have or use Events will usually capture this data in fields embedded within the Item record or linking to records in another database, e.g. a possible separate Donors database with its own acquisition records capturing names, dates, etc.
 
 <a id="sec-acquisition"></a>
 ## Acquisition
@@ -52,7 +52,7 @@ The date on which the Item was formally added to the inventory of the collection
 
 <a id="sec-inspection"></a>
 ## Inspection
-The inspection of a particular Item for the purposes of assessing and recording the condition or treatment of the Item.
+The inspection of a particular Item for the purposes of assessing and recording the condition or treatment of the Item. This frequently ties in with a Preservation/Restoration Event [ADD LINK TO THAT]
 
 An Inspection Event may be associated with instances of Agent in the role of e.g. inventory archivist, lab technician, projectionist, etc.
 
