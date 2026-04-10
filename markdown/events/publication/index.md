@@ -14,11 +14,10 @@ title: Manifestation Publication Types
 - Home video publication  
 - Unknown
 
-**Publication date**
-
 For Manifestations, the Publication Event that originated the embodiment of a specific Work/Variant in a Manifestation, corresponds to criteria individuated to distinguish the boundaries between Manifestations. For this reason, conceptually, and also in practice, “publication type” overlaps the main definition of “Manifestation type,” as explained in 2.1 Boundaries between Manifestations and, as such, is already described. Institutions have the option to decide whether to repeat this information or not.
 
-- Publication date
+**Publication date**
+
 Record the date on which Work/Variant or Manifestation was released or otherwise made available. Dates should be formatted according to ISO 8601 or some other recognised standard. The date should be that of the specific event of the Manifestation publication, e.g. a moving image Manifestation may have Publication dates in separate Publication events  a Manifestation for its first theatrical release date of 1957, and then Manifestations for the broadcast date (in 1981) and streaming date (in 2020). 
  
 **Region**
