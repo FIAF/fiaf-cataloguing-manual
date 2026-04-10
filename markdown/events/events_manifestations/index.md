@@ -13,7 +13,7 @@ title: Event Types
 |  |  |  | [Inspection](/events/accessioning_and_source/#sec-inspection) |
 |  |  |  | [Acquisition](/events/events_manifestations-2/#sec-acquisition) | 
 
-Record one or more Event type, for example, “publication,” “copyright/IPR registration,” “festival showing,” etc., to express the nature of the Event’s relationship to the Work/Variant. Selection should be made from a controlled list of terms. A suggested list, which is open and not exhaustive, can be found in D.4 Event Types.
+
 
 <a id="sec-publication"></a>
 ## Publication
