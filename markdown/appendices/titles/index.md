@@ -150,13 +150,14 @@ Or further decide to remove unusual punctuations in the middle that may create s
 Some social media platform titling incorporates identifying # key words, which is drifting into the area of descriptions, forms, and genres for which an institution may have separate fields: 
 
 !!! example "Example"
-    Part 3. Toast [bread emoji] mukbang\#asmr\#mukbang\#food\#eating\#toast\#bread\#shorts\#viralvideo\#fyp
+    Part 3. Toast🍞mukbang \#asmr \#mukbang \#food \#eating \#toast \#bread \#shorts \#viralvideo \#fyp
+
 An actual bread emoji is used within the title on YouTube, so as with the I love Huckabees example above, titling options include
 
 !!! example "Example"
-    Part 3. Toast [bread emoji] mukbang\#asmr\#mukbang\#food\#eating\#toast\#bread\#shorts\#viralvideo\#fyp [Preferred/Title Proper] 
+    Part 3. Toast [bread emoji] mukbang \#asmr \#mukbang \#food \#eating \#toast \#bread \#shorts \#viralvideo \#fyp [Preferred/Title Proper]
 
-    Part 3. Toast mukbang\#asmr\#mukbang\#food\#eating\#toast\#bread\#shorts\#viralvideo\#fyp [Alternative or Non-preferred] 
+    Part 3. Toast mukbang \#asmr \#mukbang \#food \#eating \#toast \#bread \#shorts \#viralvideo \#fyp [Alternative or Non-preferred] 
 
     (A bread emoji features after the word Toast in the YouTube site title.) [Note]
 
@@ -167,10 +168,9 @@ Or
 
     Part 3. Toast mukbang [Alternative or Non-preferred] 
 
-    Part 3. Toast mukbang\#asmr\#mukbang\#food\#eating\#toast\#bread\#shorts\#viralvideo\#fyp [Alternative or Non-preferred] 
+    Part 3. Toast mukbang \#asmr \#mukbang \#food \#eating \#toast \#bread \#shorts \#viralvideo \#fyp [Alternative or Non-preferred] 
 
     (A bread emoji features after the word Toast in the YouTube site title, and the second alternative title reflects the full titling on YouTube) [Note]
-
 
 It is for an individual institution to decide on the best form of title to use in these cases, balancing exact replication or consistency of stylistics, with database capabalities, search functionalities, and user access.
 
@@ -178,4 +178,3 @@ It is for an individual institution to decide on the best form of title to use i
 [^2]: Adapted from RDA 6.2.1.3 General Guidelines on Recording Titles of Works
 [^3]: BFI CID Stylistics Manual, A.2.3 Words not to be capitalised (unless the last word of the title), p. 10
 [^4]: BFI CID Stylistics Manual, A.2.4.4 Numerals in the title; A.2.4.5 & (ampersand) occurring in a title; A.2.4.6 Other characters; A.2.4.7 Unusual symbols not on the system
-
