@@ -405,8 +405,19 @@ Ideally, elements covering information and details regarding the condition of an
 
 This could be recorded using single or multiple specific headed fields (i.e., covering Base, Emulsion, Image, Perforations, etc.), and then sub-sections of the latter, to incorporate data ranging from graded scales designations (either numerical or alphabetical, for example 1-5, A-G, Perfect – Very Poor) with clear definitions of what each designation means; condition terms selected from a controlled list; free text additional qualification or clarification in observations or comments sections; identification of technical assessor; and, dates.
 
-Record the condition of the Item including its base and/or emulsion and/or perforations, where applicable.
-Selection should be made from a controlled list of terms, for example, “brittle”, “buckled”, “tears,” etc. 
+<a id="sec-item_copy_condition_base_emulsion_film_and_video"></a>
+#### Item Copy Condition Base/Emulsion - Film and Video
+
+Record information about the condition of the Item including the nature and extent of any damage to its base and/or emulsion and/or perforations, where applicable.
+Selection should be made from a controlled list of terms, e.g. 
+
+* Brittle
+* Buckled
+* Light Scratches
+* Heavy Scratches
+* Tears
+* Warped
+* Hydrolysis
 
 <a id="sec-item_copy_condition_perforations_film"></a>
 #### Item Copy Condition Perforations – Film
@@ -440,6 +451,7 @@ For video, refer to AV Artifact Atlas for guidance on terms.
 
 <a id="sec-item_decomposition_film_and_video"></a>
 #### Item Decomposition – Film and Video
+
 * Powder
 * Sticky
 * Sticky at head
