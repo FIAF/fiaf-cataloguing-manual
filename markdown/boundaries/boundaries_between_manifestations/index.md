@@ -47,10 +47,13 @@ In this case there is also the option of simply creating an Item for the copy, a
 
 This option depends on an institution’s policy.
 
-Some may choose always to create a new Manifestation (i.e. a Preservation Manifestation) in such cases,
+Some may choose always to create a new Manifestation (i.e. a Preservation Manifestation) in such cases , 
 
+<center><object data="/diagrams/pres_02.drawio.svg" type="image/svg+xml" width="80%"></object></center>
 
-whilst others may decide to create a new Manifestation where change in format and change in distribution/publication coincide but simply create a new Item linked to an existing Manifestation where change in format is as a result of in-house copying
+whilst others may decide to create a new Manifestation where change in format and change in distribution/publication coincide but simply create a new Item linked to an existing Manifestation where change in format is as a result of in-house copying.
+
+<center><object data="/diagrams/pres_01.drawio.svg" type="image/svg+xml" width="80%"></object></center>
 
 It is for an institution to decide on which approach it prefers and apply consistently.
 
