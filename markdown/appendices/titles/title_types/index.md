@@ -706,6 +706,10 @@ NBC programs (a collection of promos for NBC programs) - The Three Musketeers. (
 | unedited footage | For unedited footage shot for a particular moving image programme, or series. | - 60 minutes. 1969-01-07. Unedited footage. Smothers Brothers reading. Newhart, airport controller |
 | unedited newsfilm | For unedited footage shot for a news programme or news series; includes television and newsreels. | - Movietone News. Lowell Thomas Remembers. Unedited newsfilm. |
 | unedited sound track | For unedited sound track recorded for a particular moving image. | - Stargate: The Ark of Truth. Unedited sound track |
+
+
+[^1]: Adapted from UCLA Film & Television Archive, Cataloging Procedure Manual—Voyager, Section 5, Filmographic Record – Body of the Description, http://old.cinema.ucla.edu/CPM%20Voyager/CPMV05.html#5.2
+
 For a more comprehensive list of form terms to use with for FULLY or PARTIALLY Supplied/Devised titles, see [List of form terms for Supplied/Devised titles](/appendices/value-lists/list_of_form_terms_for_supplied_devised_titles/#sec-list_of_form_terms_for_supplied_devised_titles).
 
 <a id="sec-titles_and_structures_for_production_materials_including_outtakes_screen_tests_rushes"></a>
