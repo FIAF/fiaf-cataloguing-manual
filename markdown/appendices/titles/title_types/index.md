@@ -663,6 +663,8 @@ Use numbers to distinguish separate content when there is more than one unidenti
 
     Unidentified television series. Quiz show. Unidentified episodes
 
+For a more comprehensive list of form terms to use with FULLY or PARTIALLY Supplied/Devised titles, see table List of form terms for Supplied/Devised titles.
+
 ---
 title: List of form terms for Supplied/Devised titles
 ---
@@ -710,7 +712,6 @@ NBC programs (a collection of promos for NBC programs) - The Three Musketeers. (
 
 [^1]: Adapted from UCLA Film & Television Archive, Cataloging Procedure Manual—Voyager, Section 5, Filmographic Record – Body of the Description, http://old.cinema.ucla.edu/CPM%20Voyager/CPMV05.html#5.2
 
-For a more comprehensive list of form terms to use with for FULLY or PARTIALLY Supplied/Devised titles, see [List of form terms for Supplied/Devised titles](/appendices/value-lists/list_of_form_terms_for_supplied_devised_titles/#sec-list_of_form_terms_for_supplied_devised_titles).
 
 <a id="sec-titles_and_structures_for_production_materials_including_outtakes_screen_tests_rushes"></a>
 ## Titles and structuring for production materials (including out-takes, screen tests, rushes)
