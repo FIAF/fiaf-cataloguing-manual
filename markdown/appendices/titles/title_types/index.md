@@ -663,6 +663,15 @@ Use numbers to distinguish separate content when there is more than one unidenti
 
     Unidentified television series. Quiz show. Unidentified episodes
 
+---
+title: List of form terms for Supplied/Devised titles
+---
+<a id="sec-list_of_form_terms_for_supplied_devised_titles"></a>
+### List of form terms for Supplied/Devised titles[^1]
+| **FORM TERM** | **USE** | **EXAMPLES** |
+| --- | --- | --- |
+| announcement(s) --- TV announcement(s) -- Theatre announcement(s) | Television or theatrical announcements (short, non-commercial content shown to theatre audiences for various purposes, including requesting the audience not to smoke, talk, etc.) Does not include Public Service Announcements. Archives may use the general term “announcements” or more specific description such as “TV announcement.” For announcements clearly designed to be aired during a particular programme or for a particular moving image work, create a partially supplied/devised Title. | - Announcements. NBC - Announcements. AMC Theatres - Theatre announcements. Animated no smoking announcements - Theatre announcements. Burnley Collection - Forever Amber. Theater announcement - The Adventures of Ozzie and Harriet. Announcement. Special message. Salesman greetings |
+
 For a more comprehensive list of form terms to use with for FULLY or PARTIALLY Supplied/Devised titles, see [List of form terms for Supplied/Devised titles](/appendices/value-lists/list_of_form_terms_for_supplied_devised_titles/#sec-list_of_form_terms_for_supplied_devised_titles).
 
 <a id="sec-titles_and_structures_for_production_materials_including_outtakes_screen_tests_rushes"></a>
