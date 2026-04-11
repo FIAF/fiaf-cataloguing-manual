@@ -204,8 +204,8 @@ Preservation/Restoration Event information consists of the following sub-element
 - Preservation/Restoration date
     
 
-- Preservation/Restoration type
-  
+**Preservation/Restoration type**
+
 Record the general type of the preservation/restoration activity performed. Selection should be made from a controlled list of terms, which may include:
  
 - Conservation / Repair  
@@ -219,23 +219,10 @@ Record the general type of the preservation/restoration activity performed. Sele
 - Duplication   
 - Transfer   
 
-
-**Preservation/Restoration type**
-
-Record the general type of the preservation activity performed, for example, duplication, transfer, etc. Selection should be made from a controlled list of terms, e.g.:
-
-* Duplication (Printing / Recording)
-* Transfer
-* Reproduction
-* Digitisation
-* Reconstruction
-* Restoration
-
-[cHECK IN CLOSED ISSUES WHICH OF THESE TWO IS THE LIST THAT WAS FINALLY DECIDED ON]
-
 **Preservation/Restoration Date**
 
 Record the date or time span in which the preservation/restoration activity was performed. (Dates should be formatted according to ISO 8601 or some other recognised standard.)
+
 Add in a note any information describing the preservation process in detail.
 
 This can include: 
