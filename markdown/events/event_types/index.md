@@ -222,6 +222,7 @@ Record the general type of the preservation/restoration activity performed. Sele
 **Preservation/Restoration Date**
 
 Record the date or time span in which the preservation/restoration activity was performed. (Dates should be formatted according to ISO 8601 or some other recognised standard.)
+
 Add in a note any information describing the preservation process in detail.
 
 This can include: 
