@@ -9,3 +9,5 @@ The FIAF Moving Image Cataloguing Manual is the result of many years of labor an
 If you have any questions or feedback, please contact [cdc@fiafnet.org](mailto:cdc@fiafnet.org).
 
 Happy cataloguing!
+
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
