@@ -28,7 +28,6 @@ fiaf-cataloguing-manual/
 │   ├── appendices/
 │   │   ├── titles/
 │   │   ├── cataloguers-notes/
-│   │   ├── value-lists/
 │   │   ├── aggregates/
 │   │   ├── element-comparison/
 │   │   ├── rights/
@@ -37,12 +36,10 @@ fiaf-cataloguing-manual/
 │   │   └── element-list/
 │   ├── assets/            ← CSS, logo, favicon
 │   └── diagrams/          ← diagram images
-├── scripts/
-│   └── diagrams/          ← Python scripts that generate diagram images
 ├── hooks/
 │   └── heading_numbers.py ← MkDocs hook for auto-numbering headings
 ├── overrides/
-│   └── partials/          ← MkDocs Material theme overrides (logo.html)
+│   └── partials/          ← MkDocs Material theme overrides
 ├── mkdocs.yml             ← site configuration and navigation
 ├── compose.yml            ← Docker Compose setup for local preview
 └── SYNTAX.md              ← Markdown syntax guide for contributors
