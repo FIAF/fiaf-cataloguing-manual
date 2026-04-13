@@ -663,7 +663,35 @@ Use numbers to distinguish separate content when there is more than one unidenti
 
     Unidentified television series. Quiz show. Unidentified episodes
 
-For a more comprehensive list of form terms to use with FULLY or PARTIALLY Supplied/Devised titles, see table List of form terms for Supplied/Devised titles.
+For a more comprehensive list of form terms to use with FULLY or PARTIALLY Supplied/Devised titles, see table List of form terms for Supplied/Devised titles [ADD LINK].
+
+
+<a id="sec-fragments_segments_of_unidentified_moving_images_film_or_television_programmes)"></a>
+### Fragments/segments of unidentified moving images (film or television programmes)
+Similar principles apply to any unidentified and incomplete segments or fragments of films or television programmes that have been acquired.
+
+For example, a reel of a silent fiction film with no title given on either the print or can, or any indication of what it is, other than it is clearly part of a longer film, should be assigned a relevant Item title in accordance with the guidelines in [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](/appendices/titles/title_types/#sec-supplied_devised_titles), for example:
+
+!!! example "Example"
+    Unidentified silent film segment
+
+or where possible following the who/what/where/when ordering principles in creating a devised title.[^44]
+
+!!! example "Example"
+    Medieval battle segment. Unidentified silent film
+
+OR
+
+!!! example "Example"
+    Unidentified silent film. Medieval battle segment
+
+The Item title would then be utilised to create the Manifestation and Work level records as well.
+
+In such cases the Work would be assigned the attribute Monographic.
+Analytic is only used for a whole component rather than a fragment of a whole.
+
+Square brackets around a whole devised title are optional, as this can alternatively be inferred by use of a Supplied/Devised Title Type designation.
+Many electronic systems can be punctuation sensitive, so presence of square brackets [], particularly at the start of a title, could impact on searchability.
 
 ---
 title: List of form terms for Supplied/Devised titles
@@ -1160,33 +1188,6 @@ Work level titles created in this way would be described as having the CEN attri
 Further clarifications could then be put into synopsis/description or notes fields areas of the Work.
 
 Should the whole Work of which the Item is a part subsequently be identified, then the Analytic record can be either modified or deleted and the Item linked via a “part of” relationship to a whole issue Theatrical Manifestation, which is in turn “part of” a whole Work, or Monographic Work.[^43]
-
-<a id="sec-fragments_segments_of_unidentified_moving_images_film_or_television_programmes)"></a>
-### Fragments/segments of unidentified moving images (film or television programmes)
-Similar principles apply to any unidentified and incomplete segments or fragments of films or television programmes that have been acquired.
-
-For example, a reel of a silent fiction film with no title given on either the print or can, or any indication of what it is, other than it is clearly part of a longer film, should be assigned a relevant Item title in accordance with the guidelines in [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](/appendices/titles/title_types/#sec-supplied_devised_titles), for example:
-
-!!! example "Example"
-    Unidentified silent film segment
-
-or where possible following the who/what/where/when ordering principles in creating a devised title.[^44]
-
-!!! example "Example"
-    Medieval battle segment. Unidentified silent film
-
-OR
-
-!!! example "Example"
-    Unidentified silent film. Medieval battle segment
-
-The Item title would then be utilised to create the Manifestation and Work level records as well.
-
-In such cases the Work would be assigned the attribute Monographic.
-Analytic is only used for a whole component rather than a fragment of a whole.
-
-Square brackets around a whole devised title are optional, as this can alternatively be inferred by use of a Supplied/Devised Title Type designation.
-Many electronic systems can be punctuation sensitive, so presence of square brackets [], particularly at the start of a title, could impact on searchability.
 
 <a id="sec-titles_and_structures_of_variant_newsreel_cinemagazine_episodes"></a>
 ### Titles and structuring of Variant newsreel/cinemagazine episodes
