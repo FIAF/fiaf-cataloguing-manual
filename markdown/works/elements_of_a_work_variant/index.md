@@ -172,7 +172,9 @@ An institution should compile its own rules for ordering of country of reference
 
 Record the country of origin using the full form of the country name, e.g. United Kingdom rather than UK, by taking the most suitable value(s) from a controlled list. This can be an in-house list but the use of a standard list such as ISO 3166[^4] is preferable. If ISO is used, apply the English Short Name that is associated to a code. Optionally, record the country code as found in ISO 3166-1-alpha 2.
 
-If the country name has changed, record the name of the country as it was at the time of production, e.g., Czechoslovakia for a Work/Variant produced in 1970, but Czechia or Slovakia for one from 2012.[^5]
+If the country borders have changed, or two new countries are formed from one former country, then record the name of the country as it was at the time of production, e.g., Czechoslovakia for a Work/Variant produced in 1970, but Czechia or Slovakia for one from 2012.[^5]
+
+Similarly, the same principle applies in the case where two previously separate countries or sovereign states have officially joined together to form a new one, e.g. Tanganyika joined with Zanzibar to become Tanzania on 26th April 1964, so a 1962 film would be given the country of reference of Tanganyika or Zanzibar, as appropriate, but a 1966 film would be given the country of reference of Tanzania.
 
 <ins>Some general notes on countries which are/have been occupied:
 
@@ -183,6 +185,8 @@ So, for example, after the takeover of Austria by Germany in 1938 it was deemed 
 Alternatively, such films may be given two production countries, that of the original country and that of the occupying/annexing country. Using the example above, films made in annexed countries such as Austria and Czechoslovakia often used Austrian and Czech directors, crew, actors, etc. and those countries may deem that these films are a part of their national heritage and that, irrespective of the occupier's position that their countries did not exist any more this was not the case, they were simply temporarily occupied and annexed by another country. 
 
 Similarly, films made in World War II in unoccupied Vichy France would have production country France, while those made in occupied France could have production country Germany (if made wholly by German authorities) or two production countries, Germany and France. The same with annexed Korea from 1910 to 1945, where films may have production countries of Japan and Korea.
+
+The same also applies to previously colonised countries, under direct or indirect rule [RESEARCH A BIT MORE TO ADD SOME FURTHER SENTENCES HERE]
 
 It is for each institution to consider and decide what production countries to add on a Work record for moving images made in occupied or annexed countries, and apply consistently in cataloguing.
 
