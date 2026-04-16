@@ -44,8 +44,13 @@ _nav_entries: list[dict] = []
 # src_path → Path to the individual PDF rendered for that page
 _page_pdfs: dict[str, Path] = {}
 
-# src_path → list of (section_number_or_None, heading_text) for h2 headings on that page
-_page_headings: dict[str, list[tuple]] = {}
+# src_path → list of h2 heading dicts for that page, each with shape:
+#   {"num": str|None, "title": str, "children": [{"num": str|None, "title": str}, ...]}
+# children are h3 headings that fall under that h2.
+_page_headings: dict[str, list[dict]] = {}
+
+# src_path → page title (from frontmatter, stripped of any chapter-number prefix)
+_page_titles: dict[str, str] = {}
 
 # Absolute path to the docs/ directory (needed for font file URIs)
 _docs_dir: str = ""
@@ -60,12 +65,13 @@ _site_dir: str = ""
 # ---------------------------------------------------------------------------
 
 def on_nav(nav, config, **kwargs):
-    global _docs_dir, _site_dir, _nav_entries, _page_pdfs, _page_headings
+    global _docs_dir, _site_dir, _nav_entries, _page_pdfs, _page_headings, _page_titles
     _docs_dir = config["docs_dir"]
     _site_dir = config["site_dir"]
     _nav_entries = []
     _page_pdfs = {}
     _page_headings = {}
+    _page_titles = {}
 
     # The entire manual is nested under a single top-level "Home" section.
     home = next(
@@ -178,6 +184,11 @@ def on_post_page(output: str, page, config, **kwargs) -> str:
 
     src = page.file.src_path.replace("\\", "/")
 
+    # Store the page title (frontmatter preferred; strip any "N. " prefix added by
+    # heading_numbers.py so the title is clean for use in synthetic TOC entries).
+    raw_title = (page.meta or {}).get("title") or page.title or ""
+    _page_titles[src] = re.sub(r'^[A-Z0-9]+\.\s+', '', raw_title).strip()
+
     # Prefer the path registered by mkdocs-exporter; fall back to a computed path.
     pdf_path: Path | None = None
     if hasattr(page, "formats") and isinstance(page.formats, dict):
@@ -193,31 +204,35 @@ def on_post_page(output: str, page, config, **kwargs) -> str:
 
     _page_pdfs[src] = pdf_path
 
-    # Extract h2 headings for use as depth-2 TOC entries on pages that have
-    # no nav children.  heading_numbers.py (listed before this hook) has already
-    # injected <span class="section-number">2.1.1</span> into each heading.
-    headings = []
-    for m in re.finditer(r'<h2[^>]*>(.*?)</h2>', output, re.DOTALL):
-        inner = m.group(1)
-        # Strip headerlink anchors (including their ¶ / &para; content).
+    # Extract h2 and h3 headings.  heading_numbers.py has already injected
+    # <span class="section-number">2.1.1</span> into each heading.
+    # h3 headings are stored as children of the h2 they fall under, so that
+    # the TOC can render one extra nesting level for chapter index pages.
+    def _parse_heading_inner(inner: str) -> tuple[str | None, str]:
         inner = re.sub(r'<a[^>]+class="headerlink"[^>]*>.*?</a>', '', inner, flags=re.DOTALL)
-        # Strip footnote reference superscripts whole (tag + content) so the
-        # footnote number doesn't appear as a stray digit in TOC entries,
-        # e.g. "Events (e.g., ...)1" → "Events (e.g., ...)".
         inner = re.sub(r'<sup[^>]*>.*?</sup>', '', inner, flags=re.DOTALL)
         num_m = re.search(r'class="section-number"[^>]*>([^<]+)</span>', inner)
         num = num_m.group(1).strip() if num_m else None
-        # Strip all remaining tags, leaving only text nodes.
         plain = re.sub(r'<[^>]+>', '', inner).strip()
-        # Remove any leftover attr_list / curly-brace artifacts, e.g. "{ #id }".
         plain = re.sub(r'\s*\{[^}]*\}', '', plain).strip()
-        # The plain text is "2.1.1 Title text"; strip the leading number.
         if num and plain.startswith(num):
             title = plain[len(num):].strip()
         else:
             title = plain
-        if title:
-            headings.append((num, title))
+        return num, title
+
+    headings: list[dict] = []
+    current_h2: dict | None = None
+    for m in re.finditer(r'<h([23])[^>]*>(.*?)</h\1>', output, re.DOTALL):
+        level = int(m.group(1))
+        num, title = _parse_heading_inner(m.group(2))
+        if not title:
+            continue
+        if level == 2:
+            current_h2 = {"num": num, "title": title, "children": []}
+            headings.append(current_h2)
+        elif level == 3 and current_h2 is not None:
+            current_h2["children"].append({"num": num, "title": title})
     _page_headings[src] = headings
 
     return output
@@ -302,22 +317,55 @@ def _generate_toc() -> None:
     content_w_mm      = _content_w_pts * 25.4 / 72
     content_h_mm      = _content_h_pts * 25.4 / 72
 
-    # 2c. For depth-1 rows with no nav children at depth 2, inject h2 headings
-    #     from page content as depth-2 entries (gives chapters a third TOC level).
+    # 2c. Inject h2 headings from page content into the TOC:
+    #   - depth-0 chapter index pages: always inject as depth-1 entries so
+    #     intro-section headings like "2.0.1 Definitions" appear in the TOC.
+    #   - depth-1 section pages with no nav children at depth 2: inject as
+    #     depth-2 entries (gives chapters a third TOC level).
     enriched: list[dict] = []
     for i, row in enumerate(toc_rows):
         enriched.append(row)
-        if row["depth"] == 1 and row["src_path"] is not None:
-            next_depth = toc_rows[i + 1]["depth"] if i + 1 < len(toc_rows) else -1
-            if next_depth != 2:
-                for num, title in _page_headings.get(row["src_path"], []):
+        if row["src_path"] is None:
+            continue
+        next_depth = toc_rows[i + 1]["depth"] if i + 1 < len(toc_rows) else -1
+        if row["depth"] == 0:
+            # Chapter index pages use heading_numbers.py's ".0" infix, so their
+            # h2s are numbered "2.0.1", "2.0.2" etc.  Inject a synthetic depth-1
+            # entry for the "2.0" intro section (bridging the gap between "2." and
+            # "2.0.1"), then inject each h2 as a depth-2 entry.  This mirrors how
+            # sub-pages work: "2.1 Attrs" (depth-1) → "2.1.1 …" (depth-2).
+            h2_headings = _page_headings.get(row["src_path"], [])
+            if h2_headings:
+                prefix_m = re.match(r'^([A-Z0-9]+)\.\s', row["title"])
+                chapter_num = prefix_m.group(1) if prefix_m else None
+                intro_num   = f"{chapter_num}.0" if chapter_num else None
+                intro_title = _page_titles.get(row["src_path"]) or (
+                    row["title"].split(". ", 1)[1] if ". " in row["title"] else row["title"]
+                )
+                enriched.append({
+                    "title": intro_title,
+                    "depth": 1,
+                    "src_path": row["src_path"],
+                    "page": row["page"],
+                    "number": intro_num,
+                })
+                for h2 in h2_headings:
                     enriched.append({
-                        "title": title,
+                        "title": h2["title"],
                         "depth": 2,
                         "src_path": row["src_path"],
                         "page": row["page"],
-                        "number": num,
+                        "number": h2["num"],
                     })
+        elif row["depth"] == 1 and next_depth != 2:
+            for h2 in _page_headings.get(row["src_path"], []):
+                enriched.append({
+                    "title": h2["title"],
+                    "depth": 2,
+                    "src_path": row["src_path"],
+                    "page": row["page"],
+                    "number": h2["num"],
+                })
     toc_rows = enriched
 
     # 3. Render the cover page and TOC in a single Playwright session.
