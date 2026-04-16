@@ -58,6 +58,8 @@ markdown_extensions:
 
 hooks:
   - hooks/heading_numbers.py
+  - hooks/pdf_images.py
+  - hooks/pdf_toc.py
 
 plugins:
   - search
@@ -67,6 +69,8 @@ plugins:
           enabled: !ENV [CI_PDF, false]
           stylesheets:
             - markdown/assets/print.css
+          scripts:
+            - markdown/assets/footnotes-preprocess.js
           aggregator:
             enabled: true
             output: assets/fiaf-cataloguing-manual.pdf
