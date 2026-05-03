@@ -20,7 +20,7 @@ Similarly, extra research around the project may provide further relevant inform
 
 ## Restorations - Works/Variants
 
-In the vast majority of cases it will not be necessary to create a new Work record for a Restoration. Since a restoration involves using pre-existing Items in a Collection, which would normally already be linked to a Work via Manifestation(s), it is usually a matter of creating a new linked Variant with a new Restoration Manifestation, and associating the Items created as part of the restoration process to that Restoration Manifestation. 
+In the vast majority of cases it will not be necessary to create a new Work record for a Restoration. Since a restoration involves copying pre-existing Items in a Collection, which would normally already be linked to a Work via Manifestation(s), it is usually a matter of creating a new linked Variant with a new Restoration Manifestation, and associating the Items created as part of the restoration process to that Restoration Manifestation. 
 
 [4 LEVEL DIAGRAM]
 
