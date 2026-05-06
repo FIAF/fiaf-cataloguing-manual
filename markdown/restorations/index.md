@@ -8,6 +8,8 @@ Where the original release may have been heavily cut and censored, or there were
 
 [ADD LINK TO FIAF ETHICS DOCUMENT - https://www.fiafnet.org/pages/Community/fiaf-code-of-ethics-revised-2025-en.html#:~:text=1.6%20FIAF%20affiliates%20acknowledge%20the,one%20of%20its%20original%20formats.]
 
+Restorations are also Variants/Versions. So they go through the same assessment as any Variant before cataloguing, i.e. deciding whether the restored version constitutes minor or major changes,[ADD LINK TO BOUNDARIES BETWEEN WORKS AND VARIANTS] and what, if any, new records may need to be created (depending on your data system and structures).
+
 Cataloguing for Restoration projects usually involves two core aspects:
 
 •	The creation of new records; particularly Variants, Manifestations, and Items, and occasionally Works 
@@ -19,6 +21,10 @@ As existing Items are inspected and assessed as part of the materials selection 
 Similarly, extra research carried out as part of a restoration project may provide further relevant information about both the original Work and restoration(s) that can be added to the Work record to enhance it, e.g. missing credits, production details, etc.
 
 ## Restorations - Works/Variants
+
+Some restorations are simply improving the film/colour/sound quality of deteriorating original prints, without inserting any missing or extra scenes or new music scores, etc.
+
+These would equate with minor changes in versions and not need a new Work record created. Any technical information relating to the restoration would be added to a new Manifestation/Item record.
 
 In the large majority of cases it will not be necessary to create a new Work record for a Restoration. Since a restoration involves copying pre-existing Items in Collections, which would normally already be linked to a Work record via Manifestation(s), it is usually a matter of creating a new linked Variant with a new Restoration Manifestation, and associating the Items created as part of the restoration process to that Restoration Manifestation. 
 
@@ -45,7 +51,7 @@ Restoration Manifestation Type represents the outcome(s) of restoration events/a
 Any dates associated with this Manifestation should be those of the restoration project dates, not the original date of the film, e.g. a 2024-2025 restoration project relating to a 1921 film will have the former dates associated with it.
 Any Variant record will have the date of the actual release of the restored moving image associated with it.
 
-Additionally, there is the option of creating a second, or more, Restoration Manifestation(s) for specific outcomes of the project, such as a Demonstration Reel, particularly where there may be several Items, or copies, of this on different formats. This would be linked to the same Work record as the main Restoration Manifestation, and its nature can be reflected and distinguished from the latter using a semi-devised title.
+Additionally, if required, there is the option of creating a second, or more, Restoration Manifestation(s) for specific outcomes of the project, such as a Demonstration Reel, particularly where there may be several Items, or copies, of this on different formats. This would be linked to the same Work record as the main Restoration Manifestation, and its nature can be reflected and distinguished from the latter using a semi-devised title.
 
 [ADD DIAGRAM demonstrating this]
 
@@ -78,3 +84,9 @@ If the institution is also going to be the main distributers and the final print
 However, if an institution was involved with a restoration project in conjunction with other institutions and acquires a copy of the final print released theatrically for its collection, then any Item for that could be linked to a Theatrical Manifestation for the moving image.
 
 Digital file Items of Restorations that are used for internet streaming by the institution should be linked to a new Internet Manifestation.
+
+The same data can be collected, grouped and recorded in any system. For example: 
+
+If an index card catalogue, or non-relational database, then add the information to an existing record for the original film, possibly under a heading of “Restoration version + [date]”. The original source of any new Items for the project should also be recorded. Or else create a new record for the restoration version, and add the details on that, relating to the original film record using a “See also” reference
+
+
