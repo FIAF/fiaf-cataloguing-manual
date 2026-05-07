@@ -10,4 +10,16 @@ If you have any questions or feedback, please contact [cdc@fiafnet.org](mailto:c
 
 Happy cataloguing!
 
+~
+
+The FIAF Moving Image Cataloguing Manual
+
+Written by Natasha Fairbairn, Maria Assunta Pimpinelli, Thelma Ross
+
+Edited by Linda Tadic
+
+Project Manager: Nancy Goldman for the FIAF Cataloguing and Documentation Commission
+
+April 2016
+
 [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
