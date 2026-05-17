@@ -230,7 +230,7 @@ Alternatively, provide for a distinguishing “precision” field specifying if 
 
 <a id="sec-projection_characteristics"></a>
 ### Projection Characteristics
-For full instructions, see [Projection Characteristics of a Manifestation{](/manifestations/elements_of_a_manifestation/#sec-projection_characteristics_of_a_manifestation)
+For full instructions, see [Projection Characteristics of a Manifestation](/manifestations/elements_of_a_manifestation/#sec-projection_characteristics_of_a_manifestation)
 
 The projection characteristics of a Manifestation/Item include aspect ratio and aperture or image format.
 
@@ -262,7 +262,7 @@ In this qualifier, note whether the duration is exact, approximate, estimated, o
 
 <a id="sec-frame_rate"></a>
 ### Frame Rate
-Frame rate is the native frame rate for the Item.
+Frame rate is the native or preferred (if silent cinema) frame rate for the Item.
 Information related to the frame rate used during a digitisation process is added to Transfer Speed (see [Transfer Speed](/items/elements_of_a_moving_image_item/#sec-transfer_speed)).
 
 Frame Rate and Transfer Speed can sometimes be the same thing, and at other times different, depending on whether it is an Item that is being scanned into a digital file or an Item that is a digital file to start with.
@@ -280,55 +280,8 @@ Select from controlled list of terms, if possible, keep separate lists for analo
 
 <a id="sec-stock"></a>
 ### Stock
-Describes the specific stock/brand on which the Item is captured. This element should be used for all media: film, video, audio, optical, digital tape, external hard drives.
-Selection should be made from a controlled list of terms, e.g.:
-
-**FILM**
-
-- Eastman Kodak
-- Fuji
-- Agfa
-
-**VIDEO**
-
-- 3M
-- Agfa
-- Agfa Gavaert
-- Akai
-- Ampex
-- Ansco
-- BASF
-- Brifco
-- Fuji
-- Sony
-
-**AUDIO**
-
-- Ampex
-- Scotch
-- 3M
-- Shamrock
-
-**OPTICAL**
-
-- Maxell
-- Memorex
-- Philips
-- Verbatim
-
-**DIGITAL TAPE**
-
-- Fuji
-- HP
-- Oracle
-- Sony
-
-**HARD DRIVES**
-
-- Hitachi
-- Seagate
-- Toshiba
-- Western Digital
+Describes the specific stock/brand on which the Item is captured. This element should be used for all media: film, video, audio, optical, digital tape.
+Selection should be made from a controlled list of terms, e.g. Eastman Kodak, Fuji, Agfa for analogue film; e.g. 3M, Agfa, Agfa Gavaert, Akai, Ampex, Ansco, BASF, Brifco, Fuji, Sony for Video; e.g. Ampex, Scotch, 3M, Shamrock for Audio; e.g. Maxell, Memorex, Philips, Verbatim for Optical; e.g. Fuji, HP, Oracle, Sony for Digital Tape.
 
 <a id="sec-stock_batch"></a>
 ### Stock Batch
@@ -367,24 +320,11 @@ EBUCore Video Compression Code:
 ### Resolution
 Note whether the Item’s resolution is Standard Definition, High Definition, etc.
 
-<a id="sec-line_standard_video"></a>
-### Line Standard – Video
-Describes the number of scan lines which make up the image and indicates the resolution, for example, 405, 525, 1080.
-
 <a id="sec-bit_depth"></a>
 ### Bit Depth
 Selection should be made from a controlled list of terms.
 
 Note that bit depth can be used in describing both video and audio files.
-
-<a id="sec-source_device"></a>
-### Source Device
-Record the source playback device used in transfer projects.
-This can be a video deck, film printer, or hardware.
-
-<a id="sec-source_software"></a>
-### Source Software
-Record the source software used in playing a digital file.
 
 <a id="sec-transfer_speed"></a>
 ### Transfer Speed
@@ -404,30 +344,15 @@ and is also important for assessing conservation conditions and establishing and
 #### Item Copy Condition Base/Emulsion - Film and Video
 
 Record information about the condition of the Item including the nature and extent of any damage to its base and/or emulsion and/or perforations, where applicable.
-Selection should be made from a controlled list of terms, e.g. 
-
-* Brittle
-* Buckled
-* Light Scratches
-* Heavy Scratches
-* Tears
-* Warped
-* Hydrolysis
+Selection should be made from a controlled list of terms, e.g. Brittle, Buckled, Light Scratches, Heavy Scratches, Tears, Warped, Hydrolysis.
 
 <a id="sec-item_copy_condition_perforations_film"></a>
 #### Item Copy Condition Perforations – Film
-* Foil Patches
-* Torn
-* Pulled
-* Missing
+Selection should be made from a controlled list of terms, e.g. Foil Patches, Torn, Pulled, Missing.
 
 <a id="sec-item_surface_deposit_film_and_video"></a>
 #### Item Surface Deposit – Film and Video
-* Mould
-* Rust
-* Oil deposits
-* Dirt
-* Drying marks
+Selection should be made from a controlled list of terms, e.g. Mould, Rust, Oil deposits, Dirt, Drying marks.
 
 <a id="sec-image_film_and_video"></a>
 #### Image – Film and Video
