@@ -13,6 +13,10 @@ For example, properties such as Extent and Format at the Manifestation level rep
 Only elements that are considered Item-specific have guidelines for the recording of data.
 Physical/digital description elements that are considered Manifestation-specific, but which may be repeated at the Item level, contain hyperlinks to the relevant sections in the Manifestation chapter.
 
+Further data relating to the condition, preservation, location, and, acquisition, accessioning, and source of the Item are also recommended elements for the Item (see [Access Conditions](/items/elements_of_a_moving_image_item/#sec-access_conditions)). [ADD LINK TO ACQUISITION CHAPTER]
+
+These may be either added to the Item description itself or, where this is not possible, related to other separate files or databases, via physical link or text indication.
+
 <a id="sec-item_identifier"></a>
 ## Identifier
 Create an unambiguous numerical or alphanumerical reference to the moving image Item, such as a call number, barcode, shelf mark, UUID or similar, to uniquely identify the copy.[^3] This may be in addition to separate Acquisition and Accession number(s) or identifier(s). [LINK TO Acquisition part]
@@ -101,7 +105,7 @@ Record the nature or function of the moving image Item, describing its place in 
 - DCP
 
 <a id="sec-item_specifics_extent"></a>
-## Item Specifics/Extent (e.g. physical/Digital description)
+## Item Specifics/Extent (e.g. physical/digital description)
 All moving image Item descriptions should contain details of the physical/digital characteristics of the Items, their location, treatment and condition.
 
 Institutions with archival moving images need to describe their holdings accurately for preservation, copying and reconstruction purposes.
@@ -112,9 +116,6 @@ Each Item should have its own description, whether the physical/digital characte
 
 Institutions may record as much technical information as they wish or need, but the Physical and Digital Description elements of an Item should ideally consist of the elements listed in the sub-sections below where discernible.
 
-Further data relating to the condition, preservation, location, and, acquisition, accessioning, and source of the Item are also recommended elements for the Item (see [Access Conditions](/items/elements_of_a_moving_image_item/#sec-access_conditions)).
-
-These may be either added to the Item description itself or, where this is not possible, related to other separate files or databases, via physical link or text indication.
 
 <a id="sec-media_type"></a>
 ### Media Type
@@ -123,7 +124,7 @@ Media type is the medium on or the encoding format in which the Item is fixed.
 Its description consists of a general media type, which describes the basic proper- ties of the Item’s physical format, for example, film, video tape, digital file, etc., and a specific media type, which corresponds to the gauge, in case of films and tapes, and for digital files, to the physical carrier on which the file is stored.
 
 <a id="sec-item_general_media_type"></a>
-#### General Media Type (aka General Carrier Type)
+#### General Media Type[^5] (aka General Carrier Type)
 The broad media type of the Item (e.g., film, video, digital file).
 Re- cording this high-level information will enable simple searching for only film, video, digi- tal, etc. elements rather than searching by all possible formats and carriers.
 
@@ -134,7 +135,7 @@ A suggested list can be found in [Manifestation General Media Type](/manifestati
 For reasons of clarity and to avoid redundancy, optionally, institutions can decide to skip the general media type description for film and video, since it is already implicit in the specific media type.
 
 <a id="sec-item_specific_media_type"></a>
-#### Specific Media Type (aka Specific Carrier Type)
+#### Specific Media Type[^6] (aka Specific Carrier Type)
 Record the specific media type, by indicating
 
 1. For film and video: the width of the film stock or of the magnetic tape on which the Item is fixed;
@@ -202,7 +203,7 @@ Describes the technical or proprietary system used to record the sound on a Item
 ### Colour
 For full instructions, see [Colour Characteristics of a Manifestation](/manifestations/elements_of_a_manifestation/#sec-colour_characteristics_of_a_manifestation).
 
-The presence of colour(s), tone(s), etc. in an Item.[^5]
+The presence of colour(s), tone(s), etc. in an Item.[^7]
 
 Record only if this information is not captured at the Manifestation level or if required at the Item level by the system in use.
 
@@ -457,7 +458,7 @@ For video, refer to AV Artifact Atlas for guidance on terms.
 * Sticky
 * Sticky at head
 
-Capture the date on which the condition of the Item was recorded (using ISO standard[^6]).
+Capture the date on which the condition of the Item was recorded (using ISO standard[^8]).
 The identification of the individual who carried out the technical assessment and has recorded the condition should also be given.
 Any names should be given in full, rather than initials or abbreviations.
 As stated above, people or companies performing inspections are Agents.
@@ -467,12 +468,14 @@ Note any indication that the Item is in need of servicing prior to being accesse
 
 <a id="sec-notes_for_items"></a>
 ## Notes for Items
-Notes for Items are an annotation providing additional information relating specifically to Item attributes and relationships.[^7] See [Cataloguer’s Notes](/appendices/cataloguers-notes/).
+Notes for Items are an annotation providing additional information relating specifically to Item attributes and relationships.[^9] See [Cataloguer’s Notes](/appendices/cataloguers-notes/).
 
 [^1]: Based on EN 15907, Holding institution
 [^2]: Based on EN 15907, Instantiation type
 [^3]: EN 15907, “Inventory number,” p. 12
 [^4]: See The FIAF Cataloguing Rules for Film Archives (1991). 5. Physical Description. Introduction
-[^5]: RDA 7.17.3 Colour of Moving Image
-[^6]: ISO 8601
+[^5] Based on EN 15907, General Carrier Type
+[^6] Based on EN 15907, Specific Carrier Type
+[^7]: RDA 7.17.3 Colour of Moving Image
+[^8]: ISO 8601
 [^7]: Based on RDA 2.20.1.Basic Instructions on Making Notes on Manifestations or Items
