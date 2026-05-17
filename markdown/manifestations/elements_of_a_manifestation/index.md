@@ -143,7 +143,7 @@ The description of the format of a Manifestation is articulated in the following
 ### Media Type of a Manifestation
 The media type is the medium on or the encoding format in which the Manifestation is fixed.
 
-Its description consists of a general media type, which describes the basic properties of the Manifestation’s physical format, for example, film, video tape, digital file, etc., and a specific media type, which corresponds to the gauge, in case of films and tapes, and for digital files, to the physical carrier on which the file is stored.
+Its description consists of a general media type, which describes the basic proper- ties of the Item’s physical format, for example, film, video tape, digital file, etc., and a specific media type, which corresponds to the gauge, in case of films and tapes, and for digital files, to the physical carrier on which the file is stored or containers, when carriers for files are not separately catalogued.
 
 <a id="sec-manifest_general_media_type"></a>
 #### General Media Type
