@@ -2,7 +2,7 @@
 title: Elements of a Moving Image Item
 ---
 A majority of the physical and digital description elements of moving image Items are intended to be inherited from the Manifestations, as they serve as the exemplars of Manifestations.
-In some databases, selection of a physical media type initiates provision of element fields relevant to that type at a Manifestation level, or an Item level, or both (e.g. in a 2 Level hierarchy.
+In some databases, selection of a general media type initiates provision of element fields relevant to that type at a Manifestation level, or an Item level, or both (e.g. in a 2 Level hierarchy.
 See “Shallow hierarchy model: 2 levels” in [Elements of description across Works, Variants, Manifestations, and Items](/preliminary/core_elements_of_description/#sec-elements_of_description)).
 
 Ideally the information need only be recorded once irrespective of where in the data structure an institution must place it.
@@ -15,15 +15,15 @@ Physical/digital description elements that are considered Manifestation-specific
 
 <a id="sec-item_identifier"></a>
 ## Identifier
-Create an unambiguous numerical or alphanumerical reference to the moving image Item, such as a call number, barcode, shelf mark or similar, to uniquely identify the copy.[^3] This may be in addition to separate Acquisition and Accession number(s) or identifier(s).
+Create an unambiguous numerical or alphanumerical reference to the moving image Item, such as a call number, barcode, shelf mark, UUID or similar, to uniquely identify the copy.[^3] This may be in addition to separate Acquisition and Accession number(s) or identifier(s). [LINK TO Acquisition part]
 
 For digital files, the filename is not an identifier since filenames can change. Filenames are unreliable for uniquely identifying digital objects due to several limitations: users or systems may rename files, causing loss of reference; different versions of the same files from multiple sources can share identical names; and, changing storage locations makes filenames unreliable for tracking. Moreover different systems and organisations may use varying file-naming schemes and have limited interoperability.
 
 Digital systems use UUID (Universally Unique Identifier), Internal Database IDs and Persistent Identifiers, which, unlike UUIDs, may not be globally unique but are essential for internal collection management and control. They play a crucial role in organising and archiving digital content, ensuring unambiguous identification within asset management systems.  This means that the filename is tracked as part of the technical metadata associated with a digital item.
 
-As with Work and Manifestation Identifiers, besides its one unique identifier an Item can have more than one Identifier.
+As with Work, Variant and Manifestation Identifiers, besides its one unique identifier an Item can have more than one Identifier.
 
-For example, a film Item may have a barcode for the can and a shelf number for its location.
+For example, a film Item (and the Item-parts) may have a barcode for the cans and a shelf number for its location.
 Note the type of Identifier using Identifier Type.
 
 <a id="sec-item_identifier_type"></a>
@@ -48,8 +48,6 @@ For creating titles for untitled or unidentified entities see [Supplied/Devised 
 For the treatment of Aggregates (e.g. compilations of whole Manifestations) as applied to Items, see the appendix concerning 
 [Titling of Aggregates](/appendices/aggregates/titling_of_aggregates)
 
-For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see [Purpose](/preliminary/purpose_scope_and_use/#sec-purpose).
-
 For sources of information for the Title, see [Sources of Information](/preliminary/prelim_sources_of_information/#sec-prelim_sources_of_information).
 
 <a id="sec-item_title_type"></a>
@@ -66,6 +64,22 @@ For Items where the only title information is found on a can or leader, use an A
 Record the name of the institution possessing the moving image Item or authorised to make it available.
 
 Optionally, if available, record a suitable repository identifier or a registered namespace identifier for the institution.
+
+<a id="sec-item_location"></a>
+#### Item Location
+Item descriptions should indicate a storage location number in order to provide access and retrieval.
+Movements and changes of location should also be logged in order to ascertain the precise location of an Item at any given time.
+If possible, use the Item Identifier and Identifier Type fields to note an Item’s location (see [Identifier](/items/elements_of_a_moving_image_item/#sec-item_identifier)).
+
+This could be a single simple field, or could include multiple fields to reflect various electronic package or barcode numbers that may be attached to each individual can or container, shelf, or whatever is applicable to an individual institution.
+
+<a id="sec-item_acquisition type"></a>
+#### Item Acquisition Type
+For more information on information which should be documented at acquisition see [LINK TO ACQUISITION CHAPTER]. Record the acquisistion Type at Item level as a value list (e.g. loan, donation) as well as where it came from. Nowadays it becomes more and more important to have information about the provenance of Items in an institutions collection. Ideally record the person/institution by linking to the internal authority records as well as the date when the Item entered the collection.
+
+<a id="sec-item_ownership"></a>
+#### Item Ownership
+It possible, record who has currently ownership of the Item, ideally also tracking the history of the ownership. For example, the Item could have been deposited 20 years ago and no has changed ownership by contract to the holding institution. Many times, preservation decisions might be influenced by ownership status. Ideally record the person/institution by linking to the internal authority records as well as the dates when changes of ownership occured. 
 
 <a id="sec-item_item_element_type"></a>
 ## Item Element Type[^2]
@@ -392,19 +406,6 @@ Record any information on how and to whom the moving image Item can be made avai
 This creates a condition and preservation history for the Item,
 and is also important for assessing conservation conditions and establishing and prioritising collections care and preservation activities.
 
-<a id="sec-item_condition"></a>
-### Item Condition
-Observations about conditions will typically happen in the course of an Event such as inspection of an Item.
-These observations should aim to be as clear and concise as possible, avoiding abbreviations and initials, and as far as possible using controlled vocabulary.
-For example, establish whether to use “scratched”, “scratches” or “scratch marks” and be as consistent as possible.
-This enables better searching and accessibility of data.
-
-Record these actions as an Event (see [Events](/items/relationships_of_an_item/#sec-items_events)), with the person or entity performing the action as an [Agent](/items/relationships_of_an_item/).
-
-Ideally, elements covering information and details regarding the condition of an acquired Item would include those listed below.
-
-This could be recorded using single or multiple specific headed fields (i.e., covering Base, Emulsion, Image, Perforations, etc.), and then sub-sections of the latter, to incorporate data ranging from graded scales designations (either numerical or alphabetical, for example 1-5, A-G, Perfect – Very Poor) with clear definitions of what each designation means; condition terms selected from a controlled list; free text additional qualification or clarification in observations or comments sections; identification of technical assessor; and, dates.
-
 <a id="sec-item_copy_condition_base_emulsion_film_and_video"></a>
 #### Item Copy Condition Base/Emulsion - Film and Video
 
@@ -463,13 +464,6 @@ As stated above, people or companies performing inspections are Agents.
 
 Note any indication that the Item is in need of servicing prior to being accessed for use.
 
-<a id="sec-item_location"></a>
-#### Item Location
-Item descriptions should indicate a storage location number in order to provide access and retrieval.
-Movements and changes of location should also be logged in order to ascertain the precise location of an Item at any given time.
-If possible, use the Item Identifier and Identifier Type fields to note an Item’s location (see [Identifier](/items/elements_of_a_moving_image_item/#sec-item_identifier)).
-
-This could be a single simple field, or could include multiple fields to reflect various electronic package or barcode numbers that may be attached to each individual can or container, shelf, or whatever is applicable to an individual institution.
 
 <a id="sec-notes_for_items"></a>
 ## Notes for Items
