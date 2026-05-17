@@ -9,10 +9,14 @@ Instead they recommend that certain relationships be established without instruc
 
 An Item may have relationships with the following:
 
-- Agent(s), see [Agents for Items](/preliminary/core_agents_fof_items/#sec-agents_for_items)
+- Agent(s)
 - Event(s)
-- Other
 - Manifestation
+- - Other
+ 
+<a id="sec-items_events"></a>
+## Agent(s)
+For relationships with Agent's see [Agents for Items](/preliminary/core_agents_fof_items/#sec-agents_for_items)
 
 <a id="sec-items_events"></a>
 ## Events
@@ -21,7 +25,7 @@ Instances of any Event type can have Agent and “Other” relationships.
 
 Record one or more Event types, for example, “preservation,” “inspection,” “acquisition”, etc., to express the nature of the Event’s relationship to the Item.
 Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in [Event Type](/events/event_type/#sec-event_type).
+A Events related to Items, see [Event For Items](/events/event_for_items/#sec-event_for_items).
 
 [^1]: EN 15907 8.1 Relationships. General
 
