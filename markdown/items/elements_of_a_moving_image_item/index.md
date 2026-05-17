@@ -116,12 +116,11 @@ Each Item should have its own description, whether the physical/digital characte
 
 Institutions may record as much technical information as they wish or need, but the Physical and Digital Description elements of an Item should ideally consist of the elements listed in the sub-sections below where discernible.
 
-
 <a id="sec-media_type"></a>
 ### Media Type
 Media type is the medium on or the encoding format in which the Item is fixed.
 
-Its description consists of a general media type, which describes the basic proper- ties of the Item’s physical format, for example, film, video tape, digital file, etc., and a specific media type, which corresponds to the gauge, in case of films and tapes, and for digital files, to the physical carrier on which the file is stored.
+Its description consists of a general media type, which describes the basic proper- ties of the Item’s physical format, for example, film, video tape, digital file, etc., and a specific media type, which corresponds to the gauge, in case of films and tapes, and for digital files, to the physical carrier on which the file is stored or containers, when carriers for files are not separately catalogued.
 
 <a id="sec-item_general_media_type"></a>
 #### General Media Type[^5] (aka General Carrier Type)
@@ -136,21 +135,15 @@ For reasons of clarity and to avoid redundancy, optionally, institutions can dec
 
 <a id="sec-item_specific_media_type"></a>
 #### Specific Media Type[^6] (aka Specific Carrier Type)
-Record the specific media type, by indicating
-
-1. For film and video: the width of the film stock or of the magnetic tape on which the Item is fixed;
-
-2. For digital files: The physical carrier storing the digital file.
-
-For digital files, it is most important for users to immediately identify the file container or wrapper (MXF, MOV, DPX, etc.) rather than the physical media on which it is stored.
-Physical media storing a file can change, but that does not necessarily mean that the file format has changed.
+The specific media type for analogue film can be the width of the film stock or of the magnetic tape on which the Item is fixed.
+For digital files, it is most important for users to immediately identify the file container or wrapper (MXF, MOV, DPX, etc.) rather than the physical media on which it is stored, because the physical media storing a file can change, but that does not necessarily mean that the file format has changed.
 It is the digital file format that is the important distinguishing factor.
-Information on the specific codecs and resolution are captured in other Item elements.
+Information on the specific codecs and resolution are captured in other Item properties.
 
 For optical media, only add commercially produced media here.
-If the optical media is “writable” and is being used to store a digital file, put the digital file format in the gen- eral carrrier type, and the optical storage media in specific media type.
+If the optical media is “writable” and is being used to store a digital file, put the digital file format in the general media type, and the optical storage media in specific media type.
 
-Record the specific carrier type, selecting from a suitable controlled list.
+Record the specific media type, selecting from a suitable controlled list.
 A suggested list, which is open and not exhaustive, can be found in [Manifestation Specific Media Type](/manifestations/elements_of_a_manifestation/#specific-media-type).
 
 <a id="sec-item_status"></a>
