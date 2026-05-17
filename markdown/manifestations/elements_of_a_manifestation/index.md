@@ -159,23 +159,15 @@ Recording this high-level information will enable simple searching for only film
 
 <a id="sec-manifest_specific_media_type"></a>
 #### Specific Media Type
-Record the specific media type, by indicating
-
-  1. For film and video: the width of the film stock or of the magnetic tape on which the Manifestation is fixed;
-
-  2. For digital files: The physical carrier storing the digital file.
-
-For digital files, it is most important for users to immediately identify the file container or wrapper (MXF, MOV, DPX, etc.) rather than the physical media on which it is stored.
-Physical media storing a file can change, but that does not necessarily mean that the file format has changed.
-For purposes of distinguishing the format change that constitutes a new Manifestation, it is the digital file format that is the important distinguishing factor.
-Information on the specific codecs and resolution are captured in Item elements.
+The specific media type for analogue film can be the width of the film stock or of the magnetic tape on which the Item is fixed.
+For digital files, it is most important for users to immediately identify the file container or wrapper (MXF, MOV, DPX, etc.) rather than the physical media on which it is stored, because the physical media storing a file can change, but that does not necessarily mean that the file format has changed.
+It is the digital file format that is the important distinguishing factor.
+Information on the specific codecs and resolution are captured in other Item properties.
 
 For optical media, only add commercially produced media here.
 If the optical media is “writable” and is being used to store a digital file, put the digital file format in the general media type, and the optical storage media in specific media type.
 
 Institutions should develop standard lists of terms to indicate the specific carrier type or refer to authoritative existing lists.
-
-For optical media, only add commercially produced media here. If the optical media is “writable” and is being used to store a digital file, put the digital file format in the General Carrier Type, and the optical storage media in Specific.
 
 !!! example "Example"
     YEE ([http://myee.bol.ucla.edu/catrul.doc](http://myee.bol.ucla.edu/catrul.doc)) 5.3.3 (physical carriers) 
