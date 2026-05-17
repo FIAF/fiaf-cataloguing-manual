@@ -9,7 +9,7 @@ Instead they recommend that certain relationships be established without instruc
 
 An Item may have relationships with the following:
 
-- Agent(s)
+- Agent(s), see [Agents for Items](/preliminary/core_agents_fof_items/#sec-agents_for_items))
 - Event(s)
 - Other
 - Manifestation
