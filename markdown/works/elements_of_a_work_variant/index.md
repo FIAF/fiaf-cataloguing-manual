@@ -185,20 +185,20 @@ So, for example, after the takeover of Austria by Germany in 1938 it was deemed 
 
 Alternatively, such films may be given two production countries, that of the original country and that of the occupying/annexing country. Using the example above, films made in annexed countries such as Austria and Czechoslovakia often used Austrian and Czech directors, crew, actors, etc. and those countries may deem that these films are a part of their national heritage and that, irrespective of the occupier's position that their countries did not exist any more this was not the case, they were simply temporarily occupied and annexed by another country. 
 
-Another alternative could be to have additional countries of reference in thesauri or value lists, and distinguish via periods of time, e.g. 
+Another alternative could be to have additional countries of reference in thesauri or value lists, and distinguish via time periods, e.g. 
 
 - Austria (pre-1918)
 - Austria (1919-1938)
 - Austria (1938-1945)
 - Austria (post-1945)
 
-There may not always be ISO codes for all of these. 
+There may not always be ISO codes for these, and a clarifying definition of these terms would also be needed.
 
-Similarly, films made in World War II in unoccupied Vichy France would have production country France, while those made in occupied France could have production country Germany (if made wholly by German authorities) or two production countries, Germany and France. The same with annexed Korea from 1910 to 1945, where films may have production countries of Japan and Korea.
+Similarly, films made in World War II in unoccupied Vichy France would have production country France, while those made in occupied France could have the production country Germany (if made wholly by German authorities) or else two production countries, Germany and France. The same with annexed Korea from 1910 to 1945, where films may have production countries of both Japan and Korea.
 
 The same also applies to previously colonised countries, under direct or indirect rule [RESEARCH A BIT MORE TO ADD SOME FURTHER SENTENCES HERE]
 
-It is for each institution to consider and decide what production countries to add on a Work record for moving images made in occupied or annexed countries, and apply consistently in cataloguing.
+It is for each institution to consider and decide what production countries to add on a Work record for moving images made in occupied or annexed countries, and apply consistently in cataloguing. Such decisions should be balanced, and also take into consideration the opinions and experiences of those affected.
 
 If possible use linking with georeferencing data such as GeoNames for place/location of production company or for indexation of film location to enable findability of films produced for example in film studios in Riga with the search term “Latvia” https://www.geonames.org/ . In this way, it is possible to avoid manifesting or perpetuating geopolitical facts that may be contentious. [NB. may need to cover this under nationality in Agents chapter as well, i.e. how to deal with this if you don't have geonames linking possibilities, and covering things like country/border changes, e.g. those actors who were born and died in an area of what was India before partition but is now in Pakistan; similarly those who were born in what was then part of Germany but then changed to be part of Poland, etc.]
 
