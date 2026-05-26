@@ -85,7 +85,7 @@ For more information on information which should be documented at acquisition se
 
 <a id="sec-item_ownership"></a>
 #### Item Ownership
-It possible, record who has currently ownership of the Item, ideally also tracking the history of the ownership. For example, the Item could have been deposited 20 years ago and no has changed ownership by contract to the holding institution. Many times, preservation decisions might be influenced by ownership status. Ideally record the person/institution by linking to the internal authority records as well as the dates when changes of ownership occured. 
+It possible, record who currently has ownership of the Item, ideally also tracking the history of the ownership. For example, the Item could have been deposited 20 years ago and no has changed ownership by contract to the holding institution. Many times, preservation decisions might be influenced by ownership status. Ideally record the person/institution by linking to the internal authority records as well as the dates when changes of ownership occured. 
 
 <a id="sec-item_item_element_type"></a>
 ## Item Element Type[^2]
@@ -111,6 +111,7 @@ Record the nature or function of the moving image Item, describing its place in 
 All moving image Item descriptions should contain details of the physical/digital characteristics of the Items, their location, treatment and condition.
 
 Institutions with archival moving images need to describe their holdings accurately for preservation, copying and reconstruction purposes.
+
 Often there will be physically separate Items, for example image, track, music, different colour bases, etc., which are all essential parts of a single moving image.[^4] Descriptive terminology covering all areas of physical description and attributes should be established in controlled lists of terms, to be applied in the relevant categories.
 The range of these and what they are can be established in-house or utilising an established list, for example, the [FIAF Glossary of Technical Terms](https://www.fiafnet.org/pages/E-Resources/Technical-Terms.html).
 
@@ -119,15 +120,16 @@ Each Item should have its own description, whether the physical/digital characte
 Institutions may record as much technical information as they wish or need, but the Physical and Digital Description elements of an Item should ideally consist of the elements listed in the sub-sections below where discernible.
 
 <a id="sec-media_type"></a>
-### Media Type
+### Media Type (aka Carrier Type)
+
 Media type is the medium on or the encoding format in which the Item is fixed.
 
-Its description consists of a general media type, which describes the basic proper- ties of the Item’s physical format, for example, film, video tape, digital file, etc., and a specific media type, which corresponds to the gauge, in case of films and tapes, and for digital files, to the physical carrier on which the file is stored or containers, when carriers for files are not separately catalogued.
+Its description consists of a **general media** type, which describes the basic properties of the Item’s physical format, for example, film, video tape, digital file, etc., and a **specific media type**, which corresponds to the gauge, in the case of films and tapes, and for digital files, to the physical carrier on which the file is stored or containers, when carriers for files are not separately catalogued.
 
 <a id="sec-item_general_media_type"></a>
 #### General Media Type[^5] (aka General Carrier Type)
-The broad media type of the Item (e.g., film, video, digital file).
-Re- cording this high-level information will enable simple searching for only film, video, digi- tal, etc. elements rather than searching by all possible formats and carriers.
+The broad media type of the Item (e.g., film, video, audio, optical, digital file).
+Recording this high-level information will enable simple searching for only film, video, digital, etc. elements rather than searching by all possible formats and media types.
 
 Record only if this information is not captured at the Manifestation level or if required at the Item level by the system in use.
 
@@ -137,13 +139,12 @@ For reasons of clarity and to avoid redundancy, optionally, institutions can dec
 
 <a id="sec-item_specific_media_type"></a>
 #### Specific Media Type[^6] (aka Specific Carrier Type)
-The specific media type for analogue film can be the width of the film stock or of the magnetic tape on which the Item is fixed.
-For digital files, it is most important for users to immediately identify the file container or wrapper (MXF, MOV, DPX, etc.) rather than the physical media on which it is stored, because the physical media storing a file can change, but that does not necessarily mean that the file format has changed.
-It is the digital file format that is the important distinguishing factor.
-Information on the specific codecs and resolution are captured in other Item properties.
 
-For optical media, only add commercially produced media here.
-If the optical media is “writable” and is being used to store a digital file, put the digital file format in the general media type, and the optical storage media in specific media type.
+The specific media type for analogue film can be the width of the film stock or of the magnetic tape on which the Item is fixed.
+
+For digital files, it is most important for users to immediately identify the file container or wrapper (MXF, MOV, DPX, etc.) rather than the physical media on which it is stored, because the physical media storing a file can change, but that does not necessarily mean that the file format has changed. It is the digital file format that is the important distinguishing factor. Information on the specific codecs and resolution are captured in other Item properties.
+
+For optical media, only add commercially produced media here. If the optical media is “writable” and is being used to store a digital file, put the digital file format in the general media type, and the optical storage media in specific media type.
 
 Record the specific media type, selecting from a suitable controlled list.
 A suggested list, which is open and not exhaustive, can be found in [Manifestation Specific Media Type](/manifestations/elements_of_a_manifestation/#specific-media-type).
@@ -206,16 +207,14 @@ Record only if this information is not captured at the Manifestation level or if
 ### Unit Number
 For full instructions see [Logical Extent of a Manifestation](/manifestations/elements_of_a_manifestation/#sec-logical_extent_of_a_manifestation)
 
-The number of discrete logical units that make up the moving image Item.
-Item unit number(s) may differ from that of the associated Manifestation.
-The unit number in Manifestation relates to the ideal, whereas the Item unit number refers to the actual units held by the institution, e.g. an institution may have only acquired 3 reels of a 4-reel film.
+The number of discrete logical units that make up the moving image Item. Item unit number(s) may differ from that of the associated Manifestation. The unit number in Manifestation relates to the ideal, whereas the Item unit number refers to the actual units held by the institution, e.g. an institution may have only acquired 3 reels of a 4-reel film.
 
 <a id="sec-extent"></a>
 ### Extent
 The actual physical/digital extent is a characteristic of a singular Item, since it can be different for multiple Items exemplifying the same moving image Manifestation.
 
-For film, record footage for the film reel in feet or metres.
-This footage represents actual length, rather than the “ideal” length, which is recorded for Manifestations (see [Physical Extent of a Manifestation](/manifestations/elements_of_a_manifestation/#sec-physical_extent_of_a_manifestation)).
+For film, record footage for the film reel in feet or metres. 
+This footage represents actual length, rather than the “ideal” length, which is recorded for Manifestations (see [Physical Extent of a Manifestation(/manifestations/elements_of_a_manifestation/#sec-physical_extent_of_a_manifestation)).
 If your system allows, provide the Unit of Measurement – feet or metres – in another element.
 Having separate numeric fields can facilitate calculations in determining the amount of footage that will be preserved.
 
@@ -240,12 +239,12 @@ Record only if this information is not captured at the Manifestation level or if
 
 <a id="sec-broadcast_standard_video"></a>
 ### Broadcast Standard - Video
-The broadcast standard for a video or DVD/BluRay: NTSC, PAL, SECAM.
+The broadcast standard for a video or DVD/BluRay, e.g. NTSC, PAL, SECAM, etc.
 
 <a id="sec-duration"></a>
 ### Duration
-Duration in minutes of the moving image(s) contained in the Item, not the total dura- tion of the Manifestation.
-Optionally, include minutes and seconds, or, for a higher level of precision and to enable calculations, use the format HH:MM:SS.
+Duration in minutes of the moving image(s) contained in the Item, not the total duration of the Manifestation.
+Optionally, include minutes and seconds, or, for a higher level of precision and to enable calculations, use the format HH:MM:SS (hours, minutes, seconds).
 This numeric format will help to calculate estimated digital storage in analogue-to-digital transfer projects.
 
 This duration represents actual temporal extent, rather than the “ideal” temporal extent, which is recorded for Manifestations (see [Duration of a Manifestation](/manifestations/elements_of_a_manifestation/#sec-duration_of_a_manifestation)).
@@ -256,7 +255,8 @@ If the duration/running time of an Item is uncertain, use a question mark follow
 If the duration/running time of an Item is indeterminate, record the information using a value of “unknown.”
 
 Alternatively, provide for a distinguishing “precision” field specifying if the duration/ running time is exact, approximate or unknown.
-If the Item is a video or audio tape where the tape stock maximum duration is identified (e.g., Fuji M321-SP 30M is a Betacam SP tape of 30 minutes duration), that maximum duration can be noted in the “precision” field as “stock maximum.” This information can be helpful since it implies the Item can- not be longer than the maximum duration of the stock.
+
+If the Item is a video or audio tape where the tape stock maximum duration is identified (e.g., Fuji M321-SP 30M is a Betacam SP tape of 30 minutes duration), that maximum duration can be noted in the “precision” field as “stock maximum.” This information can be helpful since it implies the Item cannot be longer than the maximum duration of the stock.
 
 <a id="sec-item_duration_precision"></a>
 #### Duration Precision
@@ -267,9 +267,7 @@ In this qualifier, note whether the duration is exact, approximate, estimated, o
 Frame rate is the native or preferred (if silent cinema) frame rate for the Item.
 Information related to the frame rate used during a digitisation process is added to Transfer Speed (see [Transfer Speed](/items/elements_of_a_moving_image_item/#sec-transfer_speed)).
 
-Frame Rate and Transfer Speed can sometimes be the same thing, and at other times different, depending on whether it is an Item that is being scanned into a digital file or an Item that is a digital file to start with.
-For example, a silent film that was shot at a 16 fps frame rate could be transferred at 23.98 fps.
-In this case, the resulting digital file would have a frame rate of 23.98, even though the original film is 16 fps.
+Frame Rate and Transfer Speed can sometimes be the same thing, and at other times different, depending on whether it is an Item that is being scanned into a digital file or an Item that is a digital file to start with. For example, a silent film that was shot at a 16 fps frame rate could be transferred at 23.98 fps. In this case, the resulting digital file would have a frame rate of 23.98, even though the original film is 16 fps.
 
 Precision can be added to this element by adding a “Type” qualifier to note if the frame rate is original, or the transfer rate.
 
@@ -280,10 +278,17 @@ Note that in digital cinema, a film can have Variable frame rates.
 The physical material or video format on which the Item is captured, for example, describing the flexible transparent material that supports a film items’ emulsion (e.g.  acetate, nitrate, polyester) or a magnetic track, (e.g. CTA).
 Select from controlled list of terms, if possible, keep separate lists for analogue film material and analogue video.
 
+Acetate
+Diacetate
+Triacetate (aka CTA)
+Nitrate
+Polyester
+Magnetic tape
+
 <a id="sec-stock"></a>
 ### Stock
 Describes the specific stock/brand on which the Item is captured. This element should be used for all media: film, video, audio, optical, digital tape.
-Selection should be made from a controlled list of terms, e.g. Eastman Kodak, Fuji, Agfa for analogue film; e.g. 3M, Agfa, Agfa Gavaert, Akai, Ampex, Ansco, BASF, Brifco, Fuji, Sony for Video; e.g. Ampex, Scotch, 3M, Shamrock for Audio; e.g. Maxell, Memorex, Philips, Verbatim for Optical; e.g. Fuji, HP, Oracle, Sony for Digital Tape.
+Selection should be made from a controlled list of terms, e.g. Eastman Kodak, Fuji, Agfa for analogue film; 3M, Agfa, Agfa Gavaert, Akai, Ampex, Ansco, BASF, Brifco, Fuji, Sony for Video; Ampex, Scotch, 3M, Shamrock for Audio; Maxell, Memorex, Philips, Verbatim for Optical; Fuji, HP, Oracle, Sony for Digital Tape; Hitachi, Seagate, Toshiba, Western Digital for Hard drives.
 
 <a id="sec-stock_batch"></a>
 ### Stock Batch
@@ -330,7 +335,7 @@ Note that bit depth can be used in describing both video and audio files.
 
 <a id="sec-transfer_speed"></a>
 ### Transfer Speed
-If the Transfer Speed is the same as the [Frame Rate](/items/elements_of_a_moving_image_item/#sec-frame_rate), these values should be the same.
+If the Transfer Speed is the same as the Frame Rate [Frame Rate](/items/elements_of_a_moving_image_item/#sec-frame_rate), these values should be the same.
 However, silent films might be transferred at a higher speed than the original frame rate.
 For example, a silent film that was shot at a 16fps frame rate could be transferred at 23.98 fps.
 It is important to note the transfer speed so an institution can identify how the transferred Item compares to the source Item.
@@ -339,8 +344,11 @@ If the transfer speed is faster than the source frame rate, the target Item coul
 <a id="sec-access_conditions"></a>
 ## Access Conditions
 Record any information on how and to whom the moving image Item can be made available, including details of the condition of the Item and of its treatment, preservation or restoration Events.
-This creates a condition and preservation history for the Item,
-and is also important for assessing conservation conditions and establishing and prioritising collections care and preservation activities.
+This creates a condition and preservation history for the Item, and is also important for assessing conservation conditions and establishing and prioritising collections care and preservation activities.
+
+Observations about Item conditions will typically happen in the course of an Event such as inspection of an Item. These observations and updating on records should aim to be as clear and concise as possible, avoiding abbreviations and intitials, and as far as possible using controlled vocabulary. Besides consistency, this enables better searching and accessibility of data.
+
+These actions can be recorded as an Event [ADD LINK], and the person or entity performing the action linked/added as an Agent [ADD RELEVANT LINK]
 
 <a id="sec-item_copy_condition_base_emulsion_film_and_video"></a>
 #### Item Copy Condition Base/Emulsion - Film and Video
@@ -379,8 +387,7 @@ For video, refer to AV Artifact Atlas for guidance on terms.
 * Sticky at head
 
 Capture the date on which the condition of the Item was recorded (using ISO standard[^8]).
-The identification of the individual who carried out the technical assessment and has recorded the condition should also be given.
-Any names should be given in full, rather than initials or abbreviations.
+The identification of the individual who carried out the technical assessment and has recorded the condition should also be given. Any names should be given in full, rather than initials or abbreviations.
 As stated above, people or companies performing inspections are Agents.
 
 Note any indication that the Item is in need of servicing prior to being accessed for use.
