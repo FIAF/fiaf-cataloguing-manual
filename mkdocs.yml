@@ -135,6 +135,28 @@ nav:
         - boundaries/boundaries_between_manifestations_and_events/index.md
       - Boundaries between Items:
         - boundaries/boundaries_between_items/index.md
+    - Titles and Title Types:
+      - appendices/titles/index.md
+      - Title Types:
+        - appendices/titles/title_types/index.md
+      - Moving Images with Probable or Questionable Titles:
+        - appendices/titles/moving_images_with_probable_or_questionable_titles/index.md
+      - Titling of Aggregates:
+        - appendices/titles/title_titling_of_aggregates/index.md
+    - Aggregates:
+      - appendices/aggregates/index.md
+      - Identifying Aggregates:
+        - appendices/aggregates/identifying_aggregates/index.md
+      - Types of Moving Image Aggregates:
+        - appendices/aggregates/types_of_moving_image_aggregates/index.md
+      - Titling of Aggregates:
+        - appendices/aggregates/titling_of_aggregates/index.md
+      - Modelling Aggregates:
+        - appendices/aggregates/modelling_aggregates/index.md
+      - Series, Serials and Newsreels:
+        - appendices/aggregates/series_serials_and_newsreels/index.md
+      - Credits (Agents) for Aggregates:
+        - appendices/aggregates/credits_agents_for_aggregates/index.md        
     - Agents:
       - agents/index.md
       - Agents for Works/Variants:
@@ -154,14 +176,6 @@ nav:
       - Other Relationships for Works, Variants, Manifestations, Items:
         - other-relationships/other_relationships_for_works_variants_manifestations_items/index.md
     - Appendices:
-      - Titles and Title Types:
-        - appendices/titles/index.md
-        - Title Types:
-          - appendices/titles/title_types/index.md
-        - Moving Images with Probable or Questionable Titles:
-          - appendices/titles/moving_images_with_probable_or_questionable_titles/index.md
-        - Titling of Aggregates:
-          - appendices/titles/title_titling_of_aggregates/index.md
       - Cataloguer's Notes:
         - appendices/cataloguers-notes/index.md
         - Attributes:
@@ -170,20 +184,6 @@ nav:
           - appendices/cataloguers-notes/elements/index.md
         - Relationships:
           - appendices/cataloguers-notes/relationships/index.md
-      - Aggregates:
-        - appendices/aggregates/index.md
-        - Identifying Aggregates:
-          - appendices/aggregates/identifying_aggregates/index.md
-        - Types of Moving Image Aggregates:
-          - appendices/aggregates/types_of_moving_image_aggregates/index.md
-        - Titling of Aggregates:
-          - appendices/aggregates/titling_of_aggregates/index.md
-        - Modelling Aggregates:
-          - appendices/aggregates/modelling_aggregates/index.md
-        - Series, Serials and Newsreels:
-          - appendices/aggregates/series_serials_and_newsreels/index.md
-        - Credits (Agents) for Aggregates:
-          - appendices/aggregates/credits_agents_for_aggregates/index.md
       - Comparison between Elements of Description:
         - appendices/element-comparison/index.md
       - Rights/Copyright/IPR Registration:
