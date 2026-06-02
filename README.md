@@ -22,13 +22,13 @@ fiaf-cataloguing-manual/
 │   ├── manifestations/
 │   ├── items/
 │   ├── boundaries/
+│   ├── titles/
+│   ├── aggregates/
 │   ├── agents/
 │   ├── events/
 │   ├── other-relationships/
 │   ├── appendices/
-│   │   ├── titles/
 │   │   ├── cataloguers-notes/
-│   │   ├── aggregates/
 │   │   ├── element-comparison/
 │   │   ├── rights/
 │   │   ├── record-examples/
