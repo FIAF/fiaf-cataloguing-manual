@@ -8,7 +8,7 @@ A moving image Item is the physical or digital product of a Manifestation of a W
 Whereas the Manifestation record describes the “ideal” of a particular format or publication, the Item record represents the actual holding in a repository’s collection.
 
 An Item may consist of one or more components or parts (Item-parts), i.e. the whole Item may consist for example of 1 reel or 5 reels of analogue film, 2 VHS tapes, 1 DVD, a separate sound and image file, or files for each reel of film when digitised.
-An Item record may contain fields or scope for separate barcodes and condition information for each Item-part of the Item (each can for example) if required.
+An Item record may contain fields or scope for separate barcodes and condition information for each Item-part of the Item (each reel/tape/file for example) and separate barcodes or other identifier for each container of those Item parts if required.
 
 The Item may be whole or incomplete or a fragment.
 In the case of purely digital media, an Item is defined as the availability of the computer file, irrespective of the number of backup copies that may exist.[^1]
