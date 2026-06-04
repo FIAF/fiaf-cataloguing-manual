@@ -298,7 +298,7 @@ Identifying the batch number can assist in identifying problems related to speci
 
 <a id="sec-video_codec"></a>
 ### Video Codec
-The video compression standard used in the digital video Item, for example, D10, MP4, etc.
+A video codec refers to a pair of algorithms used for encoding and decoding digital video.
 
 Video and digital cinema formats contained in wrappers have separate audio files contained in the format with the video file.
 For example, DCPs (contained in MXF files) are comprised of a JPEG2000 video file and a WAV audio file (along with textual information in an XML file), The audio codec is described separately.
