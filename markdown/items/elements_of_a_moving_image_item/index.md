@@ -395,7 +395,9 @@ Note any indication that the Item is in need of servicing prior to being accesse
 
 <a id="sec-notes_for_items"></a>
 ## Notes for Items
-Notes for Items are an annotation providing additional information relating specifically to Item attributes and relationships.[^9] See [Cataloguer’s Notes](/appendices/cataloguers-notes/).
+Notes for Items are an annotation providing additional information relating specifically to Item attributes and relationships.[^9] See [Cataloguer’s Notes](/appendices/cataloguers-notes/). 
+
+Individual institutions may also choose to capture further data as required, e.g. line standard, or source device/software (used in creating in-house copies of acquired moving images), etc.
 
 [^1]: Based on EN 15907, Holding institution
 [^2]: Based on EN 15907, Instantiation type
