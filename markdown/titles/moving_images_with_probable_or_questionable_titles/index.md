@@ -2,7 +2,7 @@
 title: Moving images with probable or questionable titles
 ---
 <a id="sec-moving_images_with_probable_or_questionable_titles"></a>
-### Moving images with probable or questionable titles[^1]
+<!-- ### Moving images with probable or questionable titles[^1] -->
 There are instances where the title from a Manifestation/Item may not be inherited by the Work or Variant.
 Such is the case when a Manifestation/Item contains a probable or questionable title.
 
