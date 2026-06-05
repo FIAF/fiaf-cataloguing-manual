@@ -1,8 +1,8 @@
 ---
-title: Titles and Title Types
+title: Titles
 ---
 <a id="sec-appendix_title"></a>
-## Title
+<!-- ## Title -->
 The following general guidelines for recording Titles largely apply across all the WVMI (Work, Variant, Manifestation, Item) entities, and all Title Types.
 Certain guidelines are specified as applying to one or more of the WVMI entities where pertinent.
 
@@ -10,7 +10,7 @@ When recording a title, apply the guidelines on capitalisation, numbers, diacrit
 If those guidelines refer to an appendix, apply the additional instructions in that appendix, as applicable.[^2]
 
 <a id="sec-title_language"></a>
-### Language[^1]
+## Language[^1]
 Record titles for Works/Variants in the language and script in which they appear on the sources from which they are taken.
 
 Transcribe titles for Manifestations/Items in the language of the title frames or screens.
@@ -19,14 +19,14 @@ Otherwise, record titles for Manifestations/Items in the language and script in 
 Optionally, record a transliterated form of the title for any of the WVMI entities either as a substitute for, or in addition to, the form that appears on the source.
 
 <a id="sec-reflecting_graphics_of_onscreen_titles"></a>
-### Reflecting graphics of on-screen Titles
+## Reflecting graphics of on-screen Titles
 For graphics reasons, many moving image titles appear on screen all in capitals (e.g. ‘ALIEN’, ‘LAWRENCE OF ARABIA’), or all in lower case (e.g. ‘archipelago’) and some are mixed (‘ORANGES and SUNSHINE’, ‘young Hearts Run Free’).
 
 It may be important to your institution to differentiate between a graphics decision and a linguistic decision.
 In some cases, the filmmakers specify that a title is meant to be written a certain way, and in those cases you may choose to follow the filmmakers’ wishes (e.g. ‘sex, lies and videotape’ is not capitalised; ‘GoodFellas’ takes a capital ‘F’ though the word is all capitals on screen.)[^3]
 
 <a id="sec-statements_of_responsibility"></a>
-### Statements of responsibility
+## Statements of responsibility
 If the title on the Manifestation or Item includes a statement of responsibility, the
 name of a company, or a cast member, etc., do not include it as part of the title regardless of linguistic construction.
 
@@ -73,7 +73,7 @@ Create alternative titles for cases where, in the judgment of the cataloguer, su
     Alternative (Part) title: Gandy Goose in Fisherman’s luck?
 
 <a id="sec-possessives"></a>
-### Possessives
+## Possessives
 Do not confuse possessive forms, or other grammatically related phrases, for statements of responsibility with such phrases or forms, which are not statements of responsibility, e.g., character names.
 Treat possessive forms as part of the title.
 
@@ -87,7 +87,7 @@ Treat possessive forms as part of the title.
     Billy Bunter’s double
 
 <a id="sec-other_characters_unusual_symbols"></a>
-### Other characters/unusual symbols
+## Other characters/unusual symbols
 Where numbers, symbols (e.g. ½, &, +, %) or other characters (e.g. £, $, °) exist as part of the title, these should appear as they are on screen.[^4]
 
 An alternative title should also be added giving the numbers, symbols or characters in writing (in the language of origin) to assist in searching and sorting for list production.

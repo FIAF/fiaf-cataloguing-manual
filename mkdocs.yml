@@ -136,9 +136,16 @@ nav:
       - Boundaries between Items:
         - boundaries/boundaries_between_items/index.md
     - Titles and Title Types:
-      - titles/index.md
+      - Titles:
+        - titles/titles/index.md
       - Title Types:
         - titles/title_types/index.md
+      - Supplied/Devised Titles:
+        - titles/supplied_devised_titles/index.md
+      - Titles and structuring for production materials:
+        - titles/production_materials/index.md
+      - Titles and structuring of series/serials:
+        - titles/series_serials/index.md
       - Moving Images with Probable or Questionable Titles:
         - titles/moving_images_with_probable_or_questionable_titles/index.md
       - Titling of Aggregates:
