@@ -1,5 +1,5 @@
 ---
-title: Further Event Types - Items
+title: Further Event Types for Items
 ---
 
 The following are two further Event Types relating to Item - Acquisition and Inspection Events. Those institutions which use systems that do not have or use Events will usually capture this data in fields embedded within the Item record or linking to records in another database, e.g. a possible separate Donors database with its own acquisition records capturing names, dates, etc.
