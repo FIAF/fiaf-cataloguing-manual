@@ -140,7 +140,7 @@ For reasons of clarity and to avoid redundancy, optionally, institutions can dec
 <a id="sec-item_specific_media_type"></a>
 #### Specific Media Type[^6] (aka Specific Carrier Type)
 
-The specific media type for analogue film can be the width of the film stock or of the magnetic tape on which the Item is fixed.
+The specific media type for analogue film and video can be the width of the film stock or of the magnetic tape on which the Item is fixed.
 
 For digital files, it is most important for users to immediately identify the file container or wrapper (MXF, MOV, DPX, etc.) rather than the physical media on which it is stored, because the physical media storing a file can change, but that does not necessarily mean that the file format has changed. It is the digital file format that is the important distinguishing factor. Information on the specific codecs and resolution are captured in other Item properties.
 
@@ -288,7 +288,7 @@ Magnetic tape
 <a id="sec-stock"></a>
 ### Stock
 Describes the specific stock/brand on which the Item is captured. This element should be used for all media: film, video, audio, optical, digital tape.
-Selection should be made from a controlled list of terms, e.g. Eastman Kodak, Fuji, Agfa for analogue film; 3M, Agfa, Agfa Gavaert, Akai, Ampex, Ansco, BASF, Brifco, Fuji, Sony for Video; Ampex, Scotch, 3M, Shamrock for Audio; Maxell, Memorex, Philips, Verbatim for Optical; Fuji, HP, Oracle, Sony for Digital Tape; Hitachi, Seagate, Toshiba, Western Digital for Hard drives.
+Selection should be made from a controlled list of terms, e.g. Agfa, Eastman Kodak, Fujifilm, Gevaert, etc. for analogue film; Akai, BASF, Sony, TDK, etc. for Video; Ampex, Scotch, Shamrock, 3M, etc. for Audio; Maxell, Memorex, Philips, Verbatim, etc. for Optical; Fuji, HP, Oracle, Sony, etc. for Digital Tape; Hitachi, Seagate, Toshiba, Western Digital, etc. for Hard drives.
 
 <a id="sec-stock_batch"></a>
 ### Stock Batch
@@ -329,7 +329,7 @@ Note whether the Item’s resolution is Standard Definition, High Definition, et
 
 <a id="sec-bit_depth"></a>
 ### Bit Depth
-Selection should be made from a controlled list of terms.
+Selection should be made from a controlled list of terms, e.g. 10, 16, 24, 32, etc.
 
 Note that bit depth can be used in describing both video and audio files.
 
@@ -392,6 +392,9 @@ As stated above, people or companies performing inspections are Agents.
 
 Note any indication that the Item is in need of servicing prior to being accessed for use.
 
+<a id="sec-item-location"></a>
+## Item location
+Location information should be indicated in order to provide access and retrieval. Movements and changes of location should also be logged in order to ascertain the precise location of an Item (or Item-parts) at any give time. This can either be added to the Item record itself or displayed from a linked/related container record (i.e. a record for the actual physical film can, videotape box, etc.) - depending on the system used by an individual institution. Some Archives may use barcoding systems for identifying location, with built in tracking.
 
 <a id="sec-notes_for_items"></a>
 ## Notes for Items
