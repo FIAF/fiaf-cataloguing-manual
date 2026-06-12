@@ -30,6 +30,8 @@ In the large majority of cases it will not be necessary to create a new Work rec
 
 [4 LEVEL DIAGRAM]
 
+<center><object data="/diagrams/Jaws restoration eg.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+
 Or if Variants are not used then:
 
 [3 LEVEL DIAGRAM]
