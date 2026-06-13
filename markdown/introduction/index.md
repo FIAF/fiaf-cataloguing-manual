@@ -34,10 +34,7 @@ The FIAF Manual is intended to provide guidance in creating metadata or catalogu
 
 It is recognised that institutions use a variety of systems and data structures and may find it difficult to implement far-ranging changes in their cataloguing practices. The revisions suggested in this manual will help archives harmonise their practices with related standards, models, and schema as far as possible.
 
-<a id="sec-relationship_of_fiaf_cataloguing_rules_to_functional_requirements"></a>
-## Relationship of FIAF Cataloguing Rules to Functional Requirements of Bibliographic Records (FRBR), Resource Description and Access (RDA) and The European Standards Committee (CEN) Cinematographic Works Standard EN 15907
 The authors of this manual have chosen to focus on current standards and practices, such as those outlined in FRBR, RDA, and EN 15907, while expanding them to be more specific and granular regarding the particular needs of moving image cataloguing. Listed below are some of the key attributes of these standards and their relationship to recommendations in the FIAF Cataloguing Manual.
-
 
 1. The conceptual model Functional Requirements for Bibliographic Records (FRBR), published in 1998 by the International Federation of Libraries Association. FRBR is one of the models underlying RDA: Resource Description and Access[^3], and it provides “a framework that identifies and clearly defines the entities of interest to users of bibliographic records, the attributes of each entity, and the types of relationships that operate between entities.”[^4]
     
@@ -50,7 +47,8 @@ They cover the fundamentals for cataloguers for the construction and management 
 
 While these guidelines are intended to be applicable to all forms of moving image materials, archives with extensive broadcasting collections may wish to look to broadcasting-specific metadata schemas such as EBUCore[^6] and PBCore[^7] for additional guidance.
 
-**FRBR-based CEN Terms in Brief**
+<a id="sec-FRBR_based_CEN_Terms_in_Brief"></a>
+### FRBR-based CEN Terms in Brief
 
 These guidelines use the terminology of CEN Cinematographic Works Standards for terms reflecting the core structuring of moving image records - namely Work, Variant, Manifestation and Item.
 
@@ -131,7 +129,8 @@ Authority files
 - Library of Congress Subject Headings (LCSH) and the Library of Congress Genre-Form Thesaurus (LCGFT)
 
 <a id="sec-definitions_of_the_work_and_variant_entities"></a>
-#### Definitions of the “Work” and ”Variant” Entities
+### Definitions of the “Work” and ”Variant” Entities
+
 The FIAF Cataloguing and Documentation Commission has chosen to model this manual on definitions of “Work” and “Variant” adopted by the European Standards Committee, rather than the FRBR and RDA definitions of “Work” and “Expression,” to make these concepts more practical for describing moving images. FRBR and RDA consider “works” and “expressions” to be abstract entities that only acquire physical characteristics at the “manifestation or “item” level. However, moving image “works” are more easily conceptualized as concrete entities. This is because a moving image work only becomes such through a complex process involving multiple contributors. This process results in a “fixed” or “expressed” object (whether analogue or digital) that typically combines a visual part (the moving image), and a textual part (the soundtrack or intertitles).[^10] Therefore, the concept of a moving image work comprises both the content and the process of realisation in a moving image medium.[^11]
 
 Further, this manual continues to follow the precepts already outlined in Film Cataloguing and FIAF Cataloguing Rules for Film Archives by including the concept of “original.” The FIAF Cataloguing Rules for Film Archives recommend using the “original release title or broadcast title in the country of origin, i.e., the country of the principal offices of the production company or individual by whom the moving image work was made”[^12] to identify a Work. “Owing to the complex interrelationships of persons and corporate bodies in the creation of a moving image work, the original release or broadcast title is chosen as the single element which can provide the level of consistency and standardisation requisite for any national and international networking or sharing of cataloguing data.”[^13]
@@ -143,13 +142,13 @@ In this way, a moving image work as a concept is closer to a combining of FRBR a
 The use of the term “variant” is not a mere substitute for the term “expression.” In the context of moving images, variants and expressions cannot be considered equivalent concepts because moving image works are already their own expressions.[^15] As explained above, a moving image work has by definition taken a form (been expressed) and contains specific attributes that correspond to the concept of an “original” or “primary expression.” The variants correspond to all other “expressions.” For example, a colorized version of The asphalt jungle (1950) does not express the original work; it contains a variation from the original idea conceived by John Huston and put into form. If there is no variation from the work as originally conceived, there is no “variant,” but under FRBR there would always be an “expression.” This exemplifies why these concepts are not equal: that is, there may not always be a variant but there must always be an expression.[^16]
 
 <a id="sec-definitions_of_the_manifestation_and_item_entities"></a>
-#### Definitions of the Manifestation and Item Entities
+### Definitions of the Manifestation and Item Entities
 A Manifestation is the embodiment of a Work/Variant and includes all the analogue or digital forms that are derived from a Work/Variant and bear common characteristics with respect to shared intellectual content and physical format. It may be whole or incomplete or a fragment.
 
 An Item is the physical product of a Manifestation of a Work or Variant, i.e. the physical copy of a Work or Variant. It may be whole or incomplete or a fragment. In the case of purely digital media, an Item is defined as the availability of the computer file, irrespective of the number of backup copies that may exist[^17].
 
 <a id="sec-boundaries_between_entities"></a>
-#### Boundaries between entities
+### Boundaries between entities
 The traditional practice within moving image archives of incorporating variation information into a record enabled this one record to carry within it all the details relative to the differing components of a whole.[^18] Within the framework of the FRBR and RDA models, and the EN 15907 schema, the work record represents this “one record,” incorporating certain descriptive details, but the placement of the variation information changes. Different editions, versions, or variations are represented by the variant and manifestation entities, and the differences are recorded at the appropriate level or on the particular entity record, or designated in some way as belonging to the specific entity. The treatment of an “information resource” by using the four-tier hierarchy to express the concept allows it to be described and viewed at each of the four levels: for example, a documentary is, simultaneously, a particular copy or component pieces (item(s)), a particular publication (manifestation), a particular edition (variant), and a particular piece of work (work).
 
 It remains essential to users of archival moving image material that information describing the original work and information describing the item in hand are presented in a manner that clearly delineates this relationship. The relationship in library terms is described as the concept of “edition” and it includes any changes in content or changes in carrier. Separate editions of printed library material are catalogued separately, and usually no attempt is made to determine whether edition statements always indicate major changes in content.[^19] “Publication,” in the context of a moving image archive, is used interchangeably with “distribution” and means “making the resource available.”[^20] For moving image materials, the terms most analogous to this concept of edition are “versions with major changes” and “variations with minor changes.”[^21] (see [http://www.fiafnet.org/images/tinyUpload/E-Resources/Commission-And-PIP-Resources/CDC-resources/FIAF_Cat_Rules.pdf](http://www.fiafnet.org/images/tinyUpload/E-Resources/Commission-And-PIP-Resources/CDC-resources/FIAF_Cat_Rules.pdf))
