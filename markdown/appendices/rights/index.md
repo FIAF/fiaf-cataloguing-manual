@@ -140,7 +140,7 @@ Where Works are added to copyright schemes with external registries or portals, 
 - date of registration
 - date of expiry of licence granted by registration scheme (if applicable)
 
-<a id="sec-copyright_status_1"></a>
+<a id="sec-copyright_status_detail"></a>
 #### Copyright Status
 - Record if the work is e.g. ‘In Copyright’, ‘Out of Copyright’ or ‘Public Domain’, or Undetermined. Use an internal value list.
 - Record the (expected) copyright expiry date (usually 31st December) or the date the work goes into the public domain (usually the 1st January) where known.
