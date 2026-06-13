@@ -1,42 +1,84 @@
 ---
 title: Rights in a Manifestation
 ---
-The rights in a Manifestation are typically licences, contracts or agreements between the Work’s copyright owner / intellectual property rights owner, and a third party, enabling that third party to exploit the work legally by copying it, distributing, broadcasting or publishing it, extracting from it, incorporating it in another work, etc.
+The rights associated with a Manifestation are typically contractual exploitation rights arising from licences, agreements, assignments or other legal arrangements between the Work’s copyright owner or intermediary (e.g. sales agent, distributor) and a third party, relating to a Work and its component elements.  These contracts or agreements enable a third party to legally exploit the work by copying it, distributing, broadcasting or publishing it, extracting from it, incorporating it in another work, etc.
 
-Typically, a Work’s owner can offer multiple licences to multiple parties to exploit the work in different publication territories, publication formats, publication platforms; and typically the licence can be exclusive or non-exclusive (in other words, multiple parties can be granted similar exploitation rights to the same work at the same time).
-Finally, the licence typically states a date range within which the exploitation can take place, with the extreme (and rare) example being ‘in perpetuity’, enabling the licensee to exploit the work within the terms without an end date.
+Exploitation rights are frequently fragmented across territories, rights, formats, platforms, language versions, and time periods and typically licences can be exclusive or non-exclusive (in other words, multiple parties can be granted similar exploitation rights to the same work at the same time).  
 
-Examples of publication modes or platforms and other exploitation models which are often used in moving image Manifestation licences: Theatrical, Home Video, Television, VOD (Video on Demand), DTO (Download to Own), Educational, B2B (Business to Business) footage sales, Plane/Ship/Hotel.(see [Manifestation Types](/manifestations/attributes_of_a_manifestation/#sec-manifestation_type)).
+Finally, a licence will  state a date range within which the exploitation can take place, with the extreme (and rare) example being ‘in perpetuity’, enabling the licensee to exploit the work within the terms without an end date. This means that different parties may separately control different forms of exploitation simultaneously and within the same territory.
+Examples of publication modes or platforms and other exploitation models which are often used in moving image Manifestation licences: Theatrical, Home Video, Television, VOD (Video on Demand), DTO (Download to Own), Educational, B2B (Business to Business) footage sales, Plane/Ship/Hotel.
 
 Often an exploitation of a moving image Work in a particular Manifestation requires the licensee to obtain additional clearances from third parties, as these ‘underlying rights’ (eg music, performers, stills) exist in parallel to the core intellectual property rights in the moving image Work.
-Depending on the context, and the importance of this information for the institution, the cataloguer may consider capturing the clearance of these underlying rights, as previously described in H.1.1.6.
 
-Finally, where an archive holds copyright / intellectual property rights in a work, that archive may itself grant licences to third parties to exploit the work.
-This situation, where the archive supplies permission or licence to another party to exploit a work, is often referred to as ‘rights out’ or sales – the opposite of ‘rights in’ or acquisitions, meaning the archive obtains an exploitation licence from the owner.
-In that case, the cataloguer should document not only rights in but also rights out: name and contact details for licensee, territories, platforms, date ranges, exclusive or non-exclusive.
+<a id="sec-rights_in_rights_out"></a>
+## Rights In and Rights Out
 
-Given the context above, it may be useful for an archive to capture whether it is an acquirer of the manifestation rights being documented, a granter of the rights, or simply a documenter of the rights.
+Where an archive owns the copyright or acquires rights or permissions from another party, this is often referred to as “Rights In” or acquisitions activity. Where an archive grants permissions or licences to external parties, this is often referred to as “Rights Out”, sales or licensing activity. 
 
-<a id="sec-recommended_properties_to_capture2"></a>
-## Recommended properties to capture in describing the rights context of a Manifestation
-1. Relationship to rights being documented:
+From an archive perspective, Manifestation rights documentation may serve several distinct and operational purposes:
 
-  a. Rights Out / Sales (where the archive is the granter of rights to an external party)
+Rights In / Acquirer: To understand what the archive itself may do, an archive may need to determine:
+· whether it may preserve, digitise, restore or migrate a Manifestation;
+· whether it may exhibit, stream, publish or distribute the Manifestation;
+· whether use is restricted to particular territories, platforms or audiences;
+· whether rights have expired or remain active;
+· and whether additional underlying clearances are required.
 
-  b. Rights In / Acquisitions (where the archive is the obtainer of rights from an external party)
+Rights Out / Licensor: To understand what third parties may do, an archive may also need to determine:
+· whether a third party may reuse, publish or license the Manifestation;
+· who is authorised to grant permissions;
+· whether the archive itself can grant permissions;
+· what exploitations are permitted;
+· and what restrictions, territories or time limits apply.
 
-  c. Documenter only (where the archive is neither the granter or obtainer, but simply an observer)
+An archive may also document rights relationships without itself participating in the transaction.When an archive is acting as documenter, the information is not for operational permissions but to record relevant information to understand the context of rights and usage, identify who may control use, and support future rights research.  For this reason, it may be useful to record whether the archive is acting as:
 
-2. Licensee organisation’s or individual’s name, with contact details if required
+· Rights In / Acquirer (where the archive is the obtainer of rights from an external party)
+· Rights Out / Licensor (where the archive is the granter of rights to an external party)
+· Documenter only (where the archive is neither the granter nor obtainer, but simply an observer)
 
-3. Licensing organisation’s or individual’s name, with contact details if required
+<a id="sec-recommended_properties_for_manifestations"></a>
+## Recommended properties for Manifestations
 
-4. Platforms or modes permitted within the license, using controlled value list. Suggested terms include: Theatrical, Home Video, Television, VOD (Video on Demand), DTO (Download to Own), Educational, B2B (Business to Business) footage sales, Plane/Ship/Hotel.
+<a id="sec-relationships_to_rights_being_documented"></a>
+### Relationship to rights being documented
+· Rights In / Acquirer
+· Rights Out / Sales
+· Documenter only 
 
-5. Geographical territories permitted within the license, using controlled value list representing the relevant territories
+<a id="sec-rights_in_acquirer"></a>
+### Rights In / Acquirer
+· Work/Variant/Manifestation 
+· Copyright owner, licensor organisation’s or individual’s name, with contact details if required
+· Modes or platforms permitted within the licence, using controlled value list. Suggested terms include: Theatrical, Non-Theatrical, Home Video, Television, VOD (Video on Demand), DTO (Download to Own), Educational, B2B (Business to Business) Footage sales, Plane/Ship/Hotel.
+· Geographical territories permitted within the license, using controlled value list representing the relevant territories
+· Date range of licence, preferably entered separately as Start Date and End Date, to enable system queries against end date, or perpetuity status
+· Exclusive or non-Exclusive, where known
+· Filename of agreement: Capture the filename of an electronic version of any agreement pertaining to the manifestation’s licence, or where possible a link to the file in a persistent, available directory within the organisation’s infrastructure.
 
-6. Date range of license, preferably entered separately as Start Date and End Date, to enable system queries against end date
+<a id="sec-rights_out_sales"></a>
+### Rights Out / Sales
+· Work/Variant/Manifestation  
+· Licensee organisation’s or individual’s name, with contact details if required
+Modes or platforms permitted within the license, using controlled value list. Suggested terms include: Theatrical, Home Video, Television, VOD (Video on Demand), DTO (Download to Own), Educational, B2B (Business to Business) footage sales, Plane/Ship/Hotel.
+· Geographical territories permitted within the license, using controlled value list representing the relevant territories
+· Date range of license, preferably entered separately as Start Date and End Date, to enable system queries against end date
+· Exclusive or non-Exclusive, where known
+· Filename of agreement: Capture the filename of an electronic version of any agreement pertaining to the manifestation’s licence, or where possible a link to the file in a persistent, available directory within the organisation’s infrastructure.
 
-7. Exclusive or non-Exclusive, where known
+<a id="sec-documenter_only"></a>
+### Documenter Only
+· Work/Variant/Manifestation  
+· Licensor and Licensee organisation’s or individual’s name, where known
+· Modes or platforms within the license, using controlled value list, where known
+· Geographical territories permitted within the license, using controlled value list representing the relevant territories, where known
+· Date range of license, preferably entered separately as Start Date and End Date, where known
+· Exclusive or non-Exclusive, where known
 
-8. Filename of agreement: Capture the filename of an electronic version of any agreement pertaining to the manifestation’s licence, or where possible a link to the file in a persistent, available directory within the organisation’s infrastructure.
+
+
+
+
+
+
+
