@@ -1,5 +1,5 @@
 ---
-title: Rights: Intellectual Property Rights (IPR)/Copyright/Licenses
+title: Intellectual Property Rights (IPR)/Copyright/Licenses
 ---
 <a id="sec-ipr_copyright"></a>
 ## IPR/Copyright
