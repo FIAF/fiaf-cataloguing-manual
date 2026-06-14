@@ -13,7 +13,7 @@ Screengrabs showing properties for Copyright Status, Copyright Ownership and aut
 <a id="sec-example_two"></a>
 ## Example: Sterne
 
-In the Bundesarchivs database, rigths are attached to the Work. Here is an example of how information is attached to the Work record via a specific rigths module.
+In the Bundesarchivs database, rigths are attached to the Work. Here is an example of how information is attached to the Work record via a specific rights module.
 
 [Insert Screengrabs]
 
