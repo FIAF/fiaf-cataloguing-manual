@@ -182,6 +182,12 @@ nav:
       - other-relationships/index.md
       - Other Relationships for Works, Variants, Manifestations, Items:
         - other-relationships/other_relationships_for_works_variants_manifestations_items/index.md
+    - Rights:
+      - rights/index.md
+      - Rights in a Manifestation:
+        - rights/rights_in_a_manifestation/index.md
+      - Rights in an Item:
+        - rights/rights_in_an_item/index.md
     - Appendices:
       - Restorations:
         - restorations/index.md
@@ -195,12 +201,6 @@ nav:
           - appendices/cataloguers-notes/relationships/index.md
       - Comparison between Elements of Description:
         - appendices/element-comparison/index.md
-      - Rights/Copyright/IPR Registration:
-        - appendices/rights/index.md
-        - Rights in a Manifestation:
-          - appendices/rights/rights_in_a_manifestation/index.md
-        - Rights in an Item:
-          - appendices/rights/rights_in_an_item/index.md
       - Examples of Records:
         - appendices/record-examples/index.md
         - Example 2. Documentary film in 4-level hierarchy:
