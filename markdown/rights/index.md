@@ -26,7 +26,7 @@ With that context in mind, the following attempts to define a good practice set 
 
 <a id="sec-source_of_data"></a>
 #### Source of data
-Rights-related information should, wherever possible, be derived from onscreen credits and notices appearing in the earliest authorised manifestation of the work in its primary country of origin. Historically, this has usually meant the first theatrical release in the principal production territory. However, works are often released simultaneously or near-simultaneously in multiple territories and across multiple platforms such as cinemas, broadcast, streaming platforms, and online services. 
+Rights-related information should, wherever possible, be derived from on-screen credits and notices appearing in the earliest authorised manifestation of the work in its primary country of origin. Historically, this has usually meant the first theatrical release in the principal production territory. However, works are often released simultaneously or near-simultaneously in multiple territories and across multiple platforms such as cinemas, broadcast, streaming platforms, and online services. 
 In some contexts, archives may also document aspects of “chain of title”: the sequence of transfers, assignments, inheritances, or licences through which rights ownership or control has passed over time.
 
 A flexible approach is recommended:  record information from the most authoritative available manifestation that can reasonably be considered the earliest authorised fixation or public release of the work. The source of this information should be documented within the cataloguing record. In addition, use information supplied by production companies, rights holders, donors, collecting societies, legal deposit documentation, or other authoritative secondary sources. 
@@ -50,38 +50,40 @@ Terminology and Roles in Rights Documentation: The terminology used in moving im
 
 - Estate: the legal successor(s) administering rights after the death of an author or rights owner. Estates may own rights directly or act through representatives.
 
-- Collective Management Organisation (CMO): an organisation administering rights collectively on behalf of multiple rights holders, particularly for music, performers’ rights, retransmission rights, or public performance rights.
+- Collective Management Organisation (CMO): an organisation administering rights collectively on behalf of multiple rights holders, particularly for music, performers’ rights, re-transmission rights, or public performance rights.
 
 A general rule is that authors of a moving image work are the first owners of the intellectual property rights. The rules for determining the authors of a moving image work vary according to national laws. Broadly, these rules fall into three main groups:  
 
-· Civil-law jurisdictions (e.g. France, Germany, Japan, Russia) tend to recognise multiple co-authors, typically the director, screenwriter/adapter, composer and other creative contributors, as authors.
+- Civil-law jurisdictions (e.g. France, Germany, Japan, Russia) tend to recognise multiple co-authors, typically the director, screenwriter/adapter, composer and other creative contributors, as authors.
   
-· Common-law countries (e.g. UK, Australia, Canada, India) often adopt a producer/commissioning model, naming the director and the person or company who arranged or financed the film as the author (the “maker” or “producer”)
+- Common-law countries (e.g. UK, Australia, Canada, India) often adopt a producer/commissioning model, naming the director and the person or company who arranged or financed the film as the author (the “maker” or “producer”)
   
-· The USA follows a work-for-hire regime: an employer or commissioning party (e.g. a studio) is deemed the author if the film qualifies as a work made for hire. 
+- The USA follows a work-for-hire regime: an employer or commissioning party (e.g. a studio) is deemed the author if the film qualifies as a work made for hire. 
 
 It should be noted that the rules for determining authorship may have changed over time as laws have been updated so it may be useful to check what rules were in place at the time of the production. [Relevant laws can be found on national government websites or on WIPO https://www.wipo.int/wipolex/en/members] 
 
-The identification of authors and contributors, and their associated biographical dates, especially their death dates,is an important component of rights documentation within moving image cataloguing. In many jurisdictions, the duration of copyright protection is calculated by reference to the death date of one or more recognised authors of a work . Internationally, many countries apply the minimum standards established under the Berne Convention, which provides a minimum copyright term of 50 years after the death of the author  (post mortem auctoris),  although numerous territories extend this duration through national or regional legislation e.g., the European Union, Japan and Brazil apply a general term of life plus 70 years; India commonly applies life plus 60 years. Because definitions of authorship and duration rules vary internationally it is recommended that cataloguers record authors, contributors  and death dates in as much detail as possible, even where the immediate legal relevance is uncertain.
+The identification of authors and contributors, and their associated biographical dates, especially their death dates,is an important component of rights documentation within moving image cataloguing. In many jurisdictions, the duration of copyright protection is calculated by reference to the death date of one or more recognised authors of a work . Internationally, many countries apply the minimum standards established under the Berne Convention, which provides a minimum copyright term of 50 years after the death of the author (post mortem auctoris),  although numerous territories extend this duration through national or regional legislation e.g. the European Union, Japan and Brazil apply a general term of life plus 70 years; India commonly applies life plus 60 years. Because definitions of authorship and duration rules vary internationally it is recommended that cataloguers record authors, contributors  and death dates in as much detail as possible, even where the immediate legal relevance is uncertain.
 
-Pseudonymous/Anonymous works: Where the identity of the author is unknown, or intentionally obscured through the use of a pseudonym, copyright duration may be calculated from the date of publication, public communication, or creation of the work rather than from the death date of an identified author. 
+**Pseudonymous/Anonymous works:** Where the identity of the author is unknown, or intentionally obscured through the use of a pseudonym, copyright duration may be calculated from the date of publication, public communication, or creation of the work rather than from the death date of an identified author. 
 
-Performers: The performances by actors, singers, musicians and dancers that are recorded in a moving image work have separate rights (Performers or Neighbouring Rights) which generally last for 50 years.
+**Performers:** The performances by actors, singers, musicians and dancers that are recorded in a moving image work have separate rights (Performers or Neighbouring Rights) which generally last for 50 years.
 
-Pre-existing or embedded works:  In most cases a moving image Work contains underlying rights. These may include:
-· music rights,
-· still image rights,
-· literary adaptation rights,
-· archive footage rights,
-· or rights relating to artworks or designs appearing within the Work.
+**Pre-existing or embedded works:**  In most cases a moving image Work contains underlying rights. These may include:
+- music rights,
+- still image rights,
+- literary adaptation rights,
+- archive footage rights,
+- or rights relating to artworks or designs appearing within the Work.
 
 Such rights may be owned or controlled independently from the principal moving image work and may require separate clearances for particular forms of exploitation.  Depending on the context, and the importance of this information for the institution, the cataloguer may consider capturing details of these underlying rights. Not all embedded rights arise through copyright alone. Moving image works may also contain performers’ rights, trademarks, design rights, personality/publicity rights, privacy interests, or contractual restrictions.
-Orphan Works: Orphan Works are those works still protected by copyright but the copyright owner(s) cannot be found after carrying out due diligence. Some jurisdictions (e.g., European Union, UK, Canada, Japan) have introduced schemes (via licensing or exceptions)  to allow archives to digitise and make available Orphan Works in their collections.
+
+**Orphan Works:** Orphan Works are those works still protected by copyright but the copyright owner(s) cannot be found after carrying out due diligence. Some jurisdictions (e.g., European Union, UK, Canada, Japan) have introduced schemes (via licensing or exceptions)  to allow archives to digitise and make available Orphan Works in their collections.
 
 <a id="sec-production_publication_and_release"></a>
 #### Production, Publication and Release
 
 In addition to authors’ death dates, cataloguers should seek to record other significant dates associated with a work, including production date, completion date, first publication date, first public exhibition or broadcast date, and dates of subsequent versions or restorations. These dates can be critical for calculating copyright duration in jurisdictions where terms are based on publication, communication to the public, corporate authorship. 
+
 Published/Unpublished: Some jurisdictions have different copyright duration rules for unpublished works. The Berne Convention Article 3(3) defines “published works” by two cumulative elements: authorial consent and public availability of copies in sufficient quantity. It also lists acts that, despite public accessibility, do not count as publication: public recitation, dramatic or musical performance, public reading, communication by wire or broadcasting, and exhibition of works of art. In the UK and USA the publication status of a work will have an impact on the duration of copyright. Some countries may have specific rules for posthumous works (e.g. Canada).
 
 <a id="sec-copyright_status"></a>
@@ -94,22 +96,22 @@ Where possible, based on the available information about the authors and their d
 
 <a id="sec-authors_and_creators"></a>
 #### Authors and Creators
-· Producer and Production Companies
-· Director(s), with death dates if known
-· Screenplay author(s), with death dates if known
-· Dialogue author(s) (if different), with death dates if known
-· Author(s) of underlying literary work (book, play, etc) if relevant, with death dates if known
-· Music composer(s), with death dates if known (note that this refers to the composer of any music commissioned for and used in the film, rather than any pre-existing music used within the film – see INSERT INTERNAL LINK)
+- Producer and Production Companies
+- Director(s), with death dates if known
+- Screenplay author(s), with death dates if known
+- Dialogue author(s) (if different), with death dates if known
+- Author(s) of underlying literary work (book, play, etc) if relevant, with death dates if known
+- Music composer(s), with death dates if known (note that this refers to the composer of any music commissioned for and used in the film, rather than any pre-existing music used within the film – see INSERT INTERNAL LINK)
 
 <a id="sec-performers"></a>
 #### Performers
-· Full cast if feasible, or main billed cast at a minimum, with death dates if known
+- Full cast if feasible, or main billed cast at a minimum, with death dates if known
 
 <a id="sec-copyright_holders"></a>
 #### Copyright Holder(s)
-· The name of the person(s) or company(s) that own the copyright
-· Copyright Credit: Names of the Copyright Holder(s), Copyright Date as displayed on screen (often associated with a © symbol). Where there is no on screen copyright credit, this information may be obtained from production companies, rights holders, donors, or other sources.
-· Status of the Copyright Owner
+- The name of the person(s) or company(s) that own the copyright
+- Copyright Credit: Names of the Copyright Holder(s), Copyright Date as displayed on screen (often associated with a © symbol). Where there is no on screen copyright credit, this information may be obtained from production companies, rights holders, donors, or other sources.
+- Status of the Copyright Owner
   a) Current or Active
   b) Previous or Inactive (where rights are known to have transferred), with date of transfer if known, or where rights are       known to have expired
 
