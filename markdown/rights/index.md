@@ -36,7 +36,7 @@ A flexible approach is recommended:  record information from the most authoritat
 
 Terminology and Roles in Rights Documentation: The terminology used in moving image rights documentation varies across legal systems, industries, and institutional practice. Terms such as author, copyright owner, rights holder, producer, distributor, sales agent, licensor, estate, and rights representative are often used interchangeably in practice, although they describe different legal or commercial relationships to a Work. For cataloguing purposes, it is useful to distinguish between:
 
-· Author / Creator: the person(s) recognised by applicable law as having created the Work or a component part of the Work.
+- Author / Creator: the person(s) recognised by applicable law as having created the Work or a component part of the Work.
   
 · First Owner: the person or entity that initially acquires the economic rights in the Work under applicable law. In some jurisdictions this is the author; in others it may be an employer, producer, or commissioning party.
 
