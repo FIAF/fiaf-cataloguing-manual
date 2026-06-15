@@ -18,62 +18,68 @@ Where an archive owns the copyright or acquires rights or permissions from anoth
 From an archive perspective, Manifestation rights documentation may serve several distinct and operational purposes:
 
 Rights In / Acquirer: To understand what the archive itself may do, an archive may need to determine:
-· whether it may preserve, digitise, restore or migrate a Manifestation;
-· whether it may exhibit, stream, publish or distribute the Manifestation;
-· whether use is restricted to particular territories, platforms or audiences;
-· whether rights have expired or remain active;
-· and whether additional underlying clearances are required.
+
+- whether it may preserve, digitise, restore or migrate a Manifestation; 
+- whether it may exhibit, stream, publish or distribute the Manifestation; 
+- whether use is restricted to particular territories, platforms or audiences; 
+- whether rights have expired or remain active; 
+- and whether additional underlying clearances are required. 
 
 Rights Out / Licensor: To understand what third parties may do, an archive may also need to determine:
-· whether a third party may reuse, publish or license the Manifestation;
-· who is authorised to grant permissions;
-· whether the archive itself can grant permissions;
-· what exploitations are permitted;
-· and what restrictions, territories or time limits apply.
 
-An archive may also document rights relationships without itself participating in the transaction.When an archive is acting as documenter, the information is not for operational permissions but to record relevant information to understand the context of rights and usage, identify who may control use, and support future rights research.  For this reason, it may be useful to record whether the archive is acting as:
+- whether a third party may reuse, publish or license the Manifestation; 
+- who is authorised to grant permissions; 
+- whether the archive itself can grant permissions; 
+- what exploitations are permitted 
+- and what restrictions, territories or time limits apply. 
 
-· Rights In / Acquirer (where the archive is the obtainer of rights from an external party)
-· Rights Out / Licensor (where the archive is the granter of rights to an external party)
-· Documenter only (where the archive is neither the granter nor obtainer, but simply an observer)
+An archive may also document rights relationships without itself participating in the transaction. When an archive is acting as documenter, the information is not for operational permissions but to record relevant information to understand the context of rights and usage, identify who may control use, and support future rights research.  For this reason, it may be useful to record whether the archive is acting as:
+
+- Rights In / Acquirer (where the archive is the obtainer of rights from an external party)
+- Rights Out / Licensor (where the archive is the granter of rights to an external party) 
+- Documenter only (where the archive is neither the granter nor obtainer, but simply an observer) 
 
 <a id="sec-recommended_properties_for_manifestations"></a>
 ## Recommended properties for Manifestations
 
 <a id="sec-relationships_to_rights_being_documented"></a>
 ### Relationship to rights being documented
-· Rights In / Acquirer
-· Rights Out / Sales
-· Documenter only 
+
+- Rights In / Acquirer
+- Rights Out / Sales 
+- Documenter only  
 
 <a id="sec-rights_in_acquirer"></a>
 ### Rights In / Acquirer
-· Work/Variant/Manifestation 
-· Copyright owner, licensor organisation’s or individual’s name, with contact details if required
-· Modes or platforms permitted within the licence, using controlled value list. Suggested terms include: Theatrical, Non-Theatrical, Home Video, Television, VOD (Video on Demand), DTO (Download to Own), Educational, B2B (Business to Business) Footage sales, Plane/Ship/Hotel.
-· Geographical territories permitted within the license, using controlled value list representing the relevant territories
-· Date range of licence, preferably entered separately as Start Date and End Date, to enable system queries against end date, or perpetuity status
-· Exclusive or non-Exclusive, where known
-· Filename of agreement: Capture the filename of an electronic version of any agreement pertaining to the manifestation’s licence, or where possible a link to the file in a persistent, available directory within the organisation’s infrastructure.
+
+- Work/Variant/Manifestation
+- Copyright owner, licensor organisation’s or individual’s name, with contact details if required
+- Modes or platforms permitted within the licence, using controlled value list. Suggested terms include: Theatrical, Non-Theatrical, Home Video, Television, VOD (Video on Demand), DTO (Download to Own), Educational, B2B (Business to Business) Footage sales, Plane/Ship/Hotel.
+- Geographical territories permitted within the license, using controlled value list representing the relevant territories
+- Date range of licence, preferably entered separately as Start Date and End Date, to enable system queries against end date, or perpetuity status
+- Exclusive or non-Exclusive, where known
+- Filename of agreement: Capture the filename of an electronic version of any agreement pertaining to the manifestation’s licence, or where possible a link to the file in a persistent, available directory within the organisation’s infrastructure.
 
 <a id="sec-rights_out_sales"></a>
 ### Rights Out / Sales
-· Work/Variant/Manifestation  
-· Licensee organisation’s or individual’s name, with contact details if required
-Modes or platforms permitted within the license, using controlled value list. Suggested terms include: Theatrical, Home Video, Television, VOD (Video on Demand), DTO (Download to Own), Educational, B2B (Business to Business) footage sales, Plane/Ship/Hotel.
-· Geographical territories permitted within the license, using controlled value list representing the relevant territories
-· Date range of license, preferably entered separately as Start Date and End Date, to enable system queries against end date
-· Exclusive or non-Exclusive, where known
-· Filename of agreement: Capture the filename of an electronic version of any agreement pertaining to the manifestation’s licence, or where possible a link to the file in a persistent, available directory within the organisation’s infrastructure.
+
+- Work/Variant/Manifestation
+- Licensee organisation’s or individual’s name, with contact details if required 
+- Modes or platforms permitted within the license, using controlled value list. Suggested terms include: Theatrical, Home Video, Television, VOD (Video on Demand), DTO (Download to Own), Educational, B2B (Business to Business) footage sales, Plane/Ship/Hotel. 
+- Geographical territories permitted within the license, using controlled value list representing the relevant territories
+- Date range of license, preferably entered separately as Start Date and End Date, to enable system queries against end date
+- Exclusive or non-Exclusive, where known
+- Filename of agreement: Capture the filename of an electronic version of any agreement pertaining to the manifestation’s licence, or where possible a link to the file in a persistent, available directory within the organisation’s infrastructure.
 
 <a id="sec-documenter_only"></a>
 ### Documenter Only
-· Work/Variant/Manifestation  
-· Licensor and Licensee organisation’s or individual’s name, where known
-· Modes or platforms within the license, using controlled value list, where known
-· Geographical territories permitted within the license, using controlled value list representing the relevant territories, where known
-· Date range of license, preferably entered separately as Start Date and End Date, where known
-· Exclusive or non-Exclusive, where known
+
+- Work/Variant/Manifestation  
+- Licensor and Licensee organisation’s or individual’s name, where known
+- Modes or platforms within the license, using controlled value list, where known
+- Geographical territories permitted within the license, using controlled value list representing the relevant territories, where known
+- Date range of license, preferably entered separately as Start Date and End Date, where known
+- Exclusive or non-Exclusive, where known
 
 
 
