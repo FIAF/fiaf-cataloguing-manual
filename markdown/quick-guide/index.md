@@ -9,7 +9,7 @@ Here are some recommendations if you are new or start from scratch. Please keep 
    
 3. Use Identifiers, i.e. unique identifiers such as an assigned record number and/or ones from other agencies such as EIDR, ISAN, VIAF, etc.
    
-4. Use and cite references and sources for your data where possible.
+4. Use and cite references and sources for your data wherever possible.
    
 5. Your data is not neutral, reflect your choices, but don't hide the humans behind the data.
    
@@ -17,7 +17,7 @@ Here are some recommendations if you are new or start from scratch. Please keep 
    
 7. Have more than one cataloguer if you can - the database and data quality is a shared responsibility.
    
-8. Since we mentioned it: ideally HAVE at least one professional cataloguer in your institution and someone responsible for maintaining controlled terms.
+8. Since we mentioned it: ideally HAVE at least one professional cataloguer in your institution and someone responsible for maintaining controlled terms/vocabularies.
    
 9. Share your data even if it is incomplete or even incorrect. We have all been there. Update where you can and whenever you can.
     
