@@ -38,19 +38,19 @@ Terminology and Roles in Rights Documentation: The terminology used in moving im
 
 - Author / Creator: the person(s) recognised by applicable law as having created the Work or a component part of the Work.
   
-· First Owner: the person or entity that initially acquires the economic rights in the Work under applicable law. In some jurisdictions this is the author; in others it may be an employer, producer, or commissioning party.
+- First Owner: the person or entity that initially acquires the economic rights in the Work under applicable law. In some jurisdictions this is the author; in others it may be an employer, producer, or commissioning party.
 
-· Copyright Owner: the person or entity currently owning some or all economic rights in the Work. Ownership may change through assignment, inheritance, merger, acquisition, or operation of law.
+- Copyright Owner: the person or entity currently owning some or all economic rights in the Work. Ownership may change through assignment, inheritance, merger, acquisition, or operation of law.
 
-· Rights Holder: a broader practical term referring to any person or organisation exercising control over rights exploitation, licensing, or permissions relating to the Work. A rights holder may or may not be the copyright owner.
+- Rights Holder: a broader practical term referring to any person or organisation exercising control over rights exploitation, licensing, or permissions relating to the Work. A rights holder may or may not be the copyright owner.
 
-· Licensor: a party authorised to grant permissions or licences relating to the Work.
+- Licensor: a party authorised to grant permissions or licences relating to the Work.
 
-· Intermediary: a third party acting on behalf of a copyright owner or rights holder, such as a distributor, broadcaster, publisher, collective management organisation, sales agent, or aggregator.
+- Intermediary: a third party acting on behalf of a copyright owner or rights holder, such as a distributor, broadcaster, publisher, collective management organisation, sales agent, or aggregator.
 
-· Estate: the legal successor(s) administering rights after the death of an author or rights owner. Estates may own rights directly or act through representatives.
+- Estate: the legal successor(s) administering rights after the death of an author or rights owner. Estates may own rights directly or act through representatives.
 
-· Collective Management Organisation (CMO): an organisation administering rights collectively on behalf of multiple rights holders, particularly for music, performers’ rights, retransmission rights, or public performance rights.
+- Collective Management Organisation (CMO): an organisation administering rights collectively on behalf of multiple rights holders, particularly for music, performers’ rights, retransmission rights, or public performance rights.
 
 A general rule is that authors of a moving image work are the first owners of the intellectual property rights. The rules for determining the authors of a moving image work vary according to national laws. Broadly, these rules fall into three main groups:  
 
