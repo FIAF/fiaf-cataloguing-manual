@@ -105,10 +105,12 @@ Where possible, based on the available information about the authors and their d
 
 <a id="sec-performers"></a>
 #### Performers
+
 - Full cast if feasible, or main billed cast at a minimum, with death dates if known
 
 <a id="sec-copyright_holders"></a>
 #### Copyright Holder(s)
+
 - The name of the person(s) or company(s) that own the copyright
 - Copyright Credit: Names of the Copyright Holder(s), Copyright Date as displayed on screen (often associated with a © symbol). Where there is no on screen copyright credit, this information may be obtained from production companies, rights holders, donors, or other sources.
 - Status of the Copyright Owner
@@ -117,23 +119,29 @@ Where possible, based on the available information about the authors and their d
 
 <a id="sec-production_date"></a>
 #### Production Date
+
 Capture a Start Date and End Date if possible, capturing the full known period of production.
 
 <a id="sec-release_date"></a>
 #### Release Date
+
 Taken from first published manifestation, historically the theatrical release in primary country of production, but now with more fluid criteria.
 
 <a id="sec-publication_status"></a>
 #### Publication Status
-Record if the work is Published with the Publication Date or if it is Unpublished.
+
+Record if the work is 'Published' with the Publication Date, or if it is 'Unpublished'.
 
 <a id="sec-preexisting_or_embedded_works"></a>
 #### Pre-existing or embedded works
+
 Detail of any pre-existing or embedded works (moving image, artistic, dramatic, literary or musical works) contained within the moving image work, rights authorship and ownership captured as fully as possible, e.g. title, author(s), creation date.
 
 <a id="sec-external_registration_schemes"></a>
 #### External Registration Schemes
+
 Where Works are added to copyright schemes with external registries or portals, for example the EU’s Orphan Works and Out of Commerce databases, or registered e.g., with the US Copyright Office, the suggested data to capture is:
+
 - name of scheme e.g. EUIPO, US Copyright Office, OWLS (UK)
 - unique identifier for the work in the scheme’s database
 - URL for online record in the scheme’s database / website
@@ -144,11 +152,13 @@ Where Works are added to copyright schemes with external registries or portals, 
 
 <a id="sec-copyright_status_detail"></a>
 #### Copyright Status
+
 - Record if the work is e.g. ‘In Copyright’, ‘Out of Copyright’ or ‘Public Domain’, or Undetermined. Use an internal value list.
 - Record the (expected) copyright expiry date (usually 31st December) or the date the work goes into the public domain (usually the 1st January) where known.
 
 <a id="sec-notes"></a>
 #### Notes
+
 A free-text Notes field may be used to record related information that does not fit easily within the structured properties described or is not strictly copyright related. This may include contractual provisions, restrictions, obligations, uncertainties, risk assessments, or contextual information relevant to the rights management, access, or exploitation of the Work.
 
 
