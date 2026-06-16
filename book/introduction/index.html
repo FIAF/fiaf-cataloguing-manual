@@ -1,0 +1,505 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Introduction - FIAF Moving Image Cataloguing Manual</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../favicon-de23e50b.svg">
+        <link rel="shortcut icon" href="../favicon-8114d1fc.png">
+        <link rel="stylesheet" href="../css/variables-8adf115d.css">
+        <link rel="stylesheet" href="../css/general-0392ca55.css">
+        <link rel="stylesheet" href="../css/chrome-fc474251.css">
+        <link rel="stylesheet" href="../css/print-9e4910d8.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../fonts/fonts-9644e21d.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" id="mdbook-highlight-css" href="../highlight-493f70e1.css">
+        <link rel="stylesheet" id="mdbook-tomorrow-night-css" href="../tomorrow-night-4c0ae647.css">
+        <link rel="stylesheet" id="mdbook-ayu-highlight-css" href="../ayu-highlight-3fdfc3ac.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+        <!-- Provide site root and default themes to javascript -->
+        <script>
+            const path_to_root = "../";
+            const default_light_theme = "light";
+            const default_dark_theme = "navy";
+            window.path_to_searchindex_js = "../searchindex-41eada1d.js";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="../toc-5e47642e.js"></script>
+    </head>
+    <body>
+    <div id="mdbook-help-container">
+        <div id="mdbook-help-popup">
+            <h2 class="mdbook-help-title">Keyboard shortcuts</h2>
+            <div>
+                <p>Press <kbd>←</kbd> or <kbd>→</kbd> to navigate between chapters</p>
+                <p>Press <kbd>S</kbd> or <kbd>/</kbd> to search in the book</p>
+                <p>Press <kbd>?</kbd> to show this help</p>
+                <p>Press <kbd>Esc</kbd> to hide this help</p>
+            </div>
+        </div>
+    </div>
+    <div id="mdbook-body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                let theme = localStorage.getItem('mdbook-theme');
+                let sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            const default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? default_dark_theme : default_light_theme;
+            let theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="mdbook-sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            let sidebar = null;
+            const sidebar_toggle = document.getElementById("mdbook-sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+                sidebar_toggle.checked = false;
+            }
+            if (sidebar === 'visible') {
+                sidebar_toggle.checked = true;
+            } else {
+                html.classList.remove('sidebar-visible');
+            }
+        </script>
+
+        <nav id="mdbook-sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="../toc.html"></iframe>
+            </noscript>
+            <div id="mdbook-sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="mdbook-page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="mdbook-menu-bar-hover-placeholder"></div>
+                <div id="mdbook-menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="mdbook-sidebar-toggle" class="icon-button" for="mdbook-sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="mdbook-sidebar">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M0 96C0 78.3 14.3 64 32 64H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H416c17.7 0 32 14.3 32 32z"/></svg></span>
+                        </label>
+                        <button id="mdbook-theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="mdbook-theme-list">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M371.3 367.1c27.3-3.9 51.9-19.4 67.2-42.9L600.2 74.1c12.6-19.5 9.4-45.3-7.6-61.2S549.7-4.4 531.1 9.6L294.4 187.2c-24 18-38.2 46.1-38.4 76.1L371.3 367.1zm-19.6 25.4l-116-104.4C175.9 290.3 128 339.6 128 400c0 3.9 .2 7.8 .6 11.6c1.8 17.5-10.2 36.4-27.8 36.4H96c-17.7 0-32 14.3-32 32s14.3 32 32 32H240c61.9 0 112-50.1 112-112c0-2.5-.1-5-.2-7.5z"/></svg></span>
+                        </button>
+                        <ul id="mdbook-theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-default_theme">Auto</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-ayu">Ayu</button></li>
+                        </ul>
+                        <button id="mdbook-search-toggle" class="icon-button" type="button" title="Search (`/`)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="/ s" aria-controls="mdbook-searchbar">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352c79.5 0 144-64.5 144-144s-64.5-144-144-144S64 128.5 64 208s64.5 144 144 144z"/></svg></span>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">FIAF Moving Image Cataloguing Manual</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <span class=fa-svg id="print-button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M128 0C92.7 0 64 28.7 64 64v96h64V64H354.7L384 93.3V160h64V93.3c0-17-6.7-33.3-18.7-45.3L400 18.7C388 6.7 371.7 0 354.7 0H128zM384 352v32 64H128V384 368 352H384zm64 32h32c17.7 0 32-14.3 32-32V256c0-35.3-28.7-64-64-64H64c-35.3 0-64 28.7-64 64v96c0 17.7 14.3 32 32 32H64v64c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V384zm-16-88c-13.3 0-24-10.7-24-24s10.7-24 24-24s24 10.7 24 24s-10.7 24-24 24z"/></svg></span>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="mdbook-search-wrapper" class="hidden">
+                    <form id="mdbook-searchbar-outer" class="searchbar-outer">
+                        <div class="search-wrapper">
+                            <input type="search" id="mdbook-searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="mdbook-searchresults-outer" aria-describedby="searchresults-header">
+                            <div class="spinner-wrapper">
+                                <span class=fa-svg id="fa-spin"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M304 48c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zm0 416c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zM48 304c26.5 0 48-21.5 48-48s-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48zm464-48c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zM142.9 437c18.7-18.7 18.7-49.1 0-67.9s-49.1-18.7-67.9 0s-18.7 49.1 0 67.9s49.1 18.7 67.9 0zm0-294.2c18.7-18.7 18.7-49.1 0-67.9S93.7 56.2 75 75s-18.7 49.1 0 67.9s49.1 18.7 67.9 0zM369.1 437c18.7 18.7 49.1 18.7 67.9 0s18.7-49.1 0-67.9s-49.1-18.7-67.9 0s-18.7 49.1 0 67.9z"/></svg></span>
+                            </div>
+                        </div>
+                    </form>
+                    <div id="mdbook-searchresults-outer" class="searchresults-outer hidden">
+                        <div id="mdbook-searchresults-header" class="searchresults-header"></div>
+                        <ul id="mdbook-searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('mdbook-sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('mdbook-sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#mdbook-sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="mdbook-content" class="content">
+                    <main>
+                        <p><a id="sec-introduction"></a></p>
+<p>The archival moving image field has changed dramatically in recent years, with technological advances revolutionising cataloguing, preservation, and access practices.
+To help cataloguers and archivists respond to these changes, FIAF presents the <em>FIAF Moving Image Cataloguing Manual (FIAF Manual)</em>, a revision of the 1991 <em>FIAF Cataloguing Rules for Film Archives (FIAF Rules)</em>.
+These new guidelines, created by the FIAF Cataloguing and Documentation Commission and the FIAF Cataloguing Rules Revision Working Group, will help cataloguers create cataloguing or metadata records that will meet requirements of new database technologies and new metadata standards while remaining compatible with older methods and standards.</p>
+<p>The Manual offers primarily descriptive cataloguing rules rather than a schema of data elements.
+However, it is difficult to discuss rules without mentioning data elements where the rules would be applied (e.g., Title, Date, etc.).
+Thus, the Manual by default provides both a metadata structure (fields or elements) and rules in how to input the values the fields contain.
+It reflects current and recommended cataloguing practices at international film archives represented on the Commission with the goal of interoperability with related cataloguing and metadata standards.</p>
+<p>The cataloguing of moving images encompasses the complex, professional tasks of gathering and arranging data within systems upon which an institution depends.
+Indeed, accurate, well-organised descriptions of both filmographic and technical information about an institution’s collection serve as the basis for informed internal use such as preservation, collections development, and outreach or exhibition.
+They further constitute the key to accessing collections by external users such as scholars, researchers and the general public – both now and for future generations.<sup class="footnote-reference" id="fr-1-1"><a href="#footnote-1">1</a></sup></p>
+<p>Cataloguing archival moving images combines general archival processing methodologies and traditional library cataloguing.
+The process of archiving moving images applies practices held in common with archiving other materials such as papers and manuscripts.
+The materials’ origin or provenance is a key element to understanding their significance.
+Their historical context shows their relationship(s) to other works and, in cases of works with multiple manifestations, the development of individual works.
+Knowledge of this historical context and development of materials can be useful in their preservation.<sup class="footnote-reference" id="fr-2-1"><a href="#footnote-2">2</a></sup> An attempt has been made throughout the guidelines to address capturing provenance and preservation information.</p>
+<p>This manual is intended to address some of the limitations moving image archives face when using guidelines and systems developed primarily for general libraries.</p>
+<p>General library catalogues are built to support the discovery of a specific publication and its various editions.
+This discovery is facilitated by a focus on the creation of access points to author, title and/or subject.
+Many libraries catalogue through bibliographic utilities to pool effort by sharing records of these single publications.
+While this shared bibliographic model works well for libraries, since many will have exact copies of the same publication, it does not  provide all the functions that moving image archives need.
+Because moving image archives’ collections often include unique or rare holdings, such as pre-print elements, master prints, and unreleased material in addition to viewing copies, they need catalogues that go beyond the functions of a library catalogue to meet many of the collection management needs of archives.
+The FIAF Manual is intended to provide guidance in creating metadata or cataloguing records that fulfill these collection management functions.</p>
+<p>It is recognised that institutions use a variety of systems and data structures and may find it difficult to implement far-ranging changes in their cataloguing practices. The revisions suggested in this manual will help archives harmonise their practices with related standards, models, and schema as far as possible.</p>
+<p><a id="sec-relationship_of_fiaf_cataloguing_rules_to_functional_requirements"></a></p>
+<h2 id="relationship-of-fiaf-cataloguing-rules-to-functional-requirements-of-bibliographic-records-frbr-resource-description-and-access-rda-and-the-european-standards-committee-cen-cinematographic-works-standard-en-15907"><a class="header" href="#relationship-of-fiaf-cataloguing-rules-to-functional-requirements-of-bibliographic-records-frbr-resource-description-and-access-rda-and-the-european-standards-committee-cen-cinematographic-works-standard-en-15907">Relationship of FIAF Cataloguing Rules to Functional Requirements of Bibliographic Records (FRBR), Resource Description and Access (RDA) and The European Standards Committee (CEN) Cinematographic Works Standard EN 15907</a></h2>
+<p>The authors of this manual have chosen to focus on current standards and practices, such as those outlined in FRBR, RDA, and EN 15907, while expanding them to be more specific and granular regarding the particular needs of moving image cataloguing. Listed below are some of the key attributes of these standards and their relationship to recommendations in the FIAF Cataloguing Manual.</p>
+<ol>
+<li>
+<p>The conceptual model Functional Requirements for Bibliographic Records (FRBR), published in 1998 by the International Federation of Libraries Association. FRBR is one of the models underlying RDA: Resource Description and Access<sup class="footnote-reference" id="fr-3-1"><a href="#footnote-3">3</a></sup>, and it provides “a framework that identifies and clearly defines the entities of interest to users of bibliographic records, the attributes of each entity, and the types of relationships that operate between entities.”<sup class="footnote-reference" id="fr-4-1"><a href="#footnote-4">4</a></sup></p>
+</li>
+<li>
+<p>RDA: Resource Description and Access (RDA), co-published in 2010 by the American Library Association, the Canadian Library Association, and Chartered Institute of Library and Information Professionals. RDA was developed as a new standard for resource description and access designed for the digital world, and applies FRBR concepts and terminologies. It is intended to eventually supplant Anglo-American Cataloguing Rules (AACR2), which has been the descriptive cataloguing standard in English-speaking communities since the 1960s. Like AACR2, RDA covers all types of content and media.<sup class="footnote-reference" id="fr-5-1"><a href="#footnote-5">5</a></sup></p>
+</li>
+<li>
+<p>The European Standards Committee (CEN) Cinematographic Works Standard (CWS) (EN 15744 and EN 15907). This two-part standard defines the metadata essential for facilitating data exchange between databases and consistent identification of moving images. The metadata schema (EN 15907), which is based in part upon the FRBR conceptual model, was approved in 2010 and disseminated through four workshops held from October 2010 – June 2011. Brief definitions of key elements in the FRBR-based CEN model are at the end of the Introduction.</p>
+</li>
+</ol>
+<p>Although these guidelines are structured to correspond closely with the above standards/models/schema, and use associated terminology, note that neither they nor these guidelines are system-specific.
+They cover the fundamentals for cataloguers for the construction and management of data and records in whatever system or standards used by an institution.</p>
+<p>While these guidelines are intended to be applicable to all forms of moving image materials, archives with extensive broadcasting collections may wish to look to broadcasting-specific metadata schemas such as EBUCore<sup class="footnote-reference" id="fr-6-1"><a href="#footnote-6">6</a></sup> and PBCore<sup class="footnote-reference" id="fr-7-1"><a href="#footnote-7">7</a></sup> for additional guidance.</p>
+<p><strong>FRBR-based CEN Terms in Brief</strong></p>
+<p>These guidelines use the terminology of CEN Cinematographic Works Standards for terms reflecting the core structuring of moving image records - namely Work, Variant, Manifestation and Item.</p>
+<p><em>Work</em></p>
+<p>An entity comprising the intellectual or artistic content and the process of realisation in a cinematographic medium, e.g., what the moving image is called, when it was made, who made it, who was in it, what it is about, etc. This core information usually does not change throughout any Variant or Manifestation.</p>
+<p><em>Variant</em></p>
+<p>An entity that may be used to indicate any change to content-related characteristics that do not significantly change the overall content of a Work as a whole.
+This is similar to a Work since it does not yet describe physical or digital embodiments of the content.
+For example: A film edited for television broadcast will contain most of the content of the original Work, but have some parts edited out.</p>
+<p><em>Manifestation</em></p>
+<p>The embodiment of a moving image Work/Variant.
+Manifestations include all analogue, digital and online media.
+Manifestation information can include a description of what the particular Manifestation should ideally contain, regardless of the Items held in the archive.
+For example: The original release running time of a film is 1:30:00, but the Item held at the archive is missing footage so is shorter.</p>
+<p><em>Item</em></p>
+<p>The physical product of a Manifestation of a Work or Variant, i.e. the physical copy of a Work or Variant.
+An Item may consist of one or more components, i.e. the whole Item may consist of 1 reel or 5 reels, 2 VHS tapes or 1 DVD.
+An Item record may contain fields or scope for separate barcodes and condition information for each component of the item (each reel for example) if required.The Item may be whole or incomplete or a fragment.
+In the case of purely digital media, an Item is defined as the availability of the computer file, irrespective of the number of backup copies that may exist.<sup class="footnote-reference" id="fr-8-1"><a href="#footnote-8">8</a></sup></p>
+<p><a id="sec-entities"></a></p>
+<h3 id="entities"><a class="header" href="#entities">Entities</a></h3>
+<p>Functional Requirements for Bibliographic Records (FRBR) was published in 1998 by the International Federation of Libraries Association. It is based on the entity-attribute-relationship model of analysis, and has been incorporated into the structure of both RDA and EN 15907.</p>
+<p>FRBR identifies and defines three groups of entities:<sup class="footnote-reference" id="fr-9-1"><a href="#footnote-9">9</a></sup></p>
+<ul>
+<li>
+<p>Group 1 (products of intellectual or artistic endeavor)</p>
+<ul>
+<li>Work</li>
+<li>Expression</li>
+<li>Manifestation</li>
+<li>Item</li>
+</ul>
+</li>
+<li>
+<p>Group 2 (responsible for content, production, or custodianship of Group 1 entities)</p>
+<ul>
+<li>Person</li>
+<li>Corporate Body</li>
+</ul>
+</li>
+<li>
+<p>Group 3 (may serve as subjects of Group 1 entities)</p>
+<ul>
+<li>Group 1 and 2 entities</li>
+<li>Concept</li>
+<li>Object</li>
+<li>Event</li>
+<li>Place</li>
+</ul>
+</li>
+</ul>
+<p>This manual focuses almost exclusively on the Group 1 entities, their attributes and relationships. Although it also briefly provides guidelines for the description of the Group 2 and Group 3 entities, we recommend the use of other manuals and appropriate existing national or international standards for more detail in these areas.</p>
+<p><a id="sec-existing_standards_for_describing_entities"></a></p>
+<h4 id="existing-standards-for-describing-entities"><a class="header" href="#existing-standards-for-describing-entities">Existing standards for describing Entities</a></h4>
+<p>Existing standards for describing Entities include:</p>
+<ul>
+<li>
+<p>RDA</p>
+<ul>
+<li>Section 3: Person, Family, &amp; Corporate Body (Chapters 8-11)</li>
+<li>Section 4: Concept, Object, Event &amp; Place (Chapters 12-16)</li>
+<li>Appendix F: Additional Instructions on Names of Persons</li>
+</ul>
+</li>
+<li>
+<p>ISAAR (CPF): International Standard Archival Authority Record for Corporate Bodies, Persons and Families, 2nd Edition (<a href="http://www.ica.org/10203/standards/isaar-cpf-international-standard-archival-authority-record-for-corporate-bodies-persons-and-families-2nd-edition.html">http://www.ica.org/10203/standards/isaar-cpf-international-standard-archival-authority-record-for-corporate-bodies-persons-and-families-2nd-edition.html</a>) - International Council of Archives);</p>
+</li>
+<li>
+<p>EFG Metadata Schema &amp; Vocabularies – 3.6 Agent (<a href="http://www.efgproject.eu/guidelines_and_standards.php">http://www.efgproject.eu/guidelines_and_standards.php</a>)</p>
+</li>
+</ul>
+<p>Authority files</p>
+<ul>
+<li>
+<p>VIAF (The Virtual International Authority File)</p>
+</li>
+<li>
+<p>ISNI (International Standard Name Identifier (ISO 27729) – <a href="http://www.isni.org/">http://www.isni.org/</a></p>
+</li>
+<li>
+<p>IdREf (Identifiants et Référentiels) – <a href="http://www.icacds.org.uk/eng/ISAAR(CPF)2ed.pdf">http://www.icacds.org.uk/eng/ISAAR(CPF)2ed.pdf</a></p>
+</li>
+<li>
+<p>Library of Congress Subject Headings (LCSH) and the Library of Congress Genre-Form Thesaurus (LCGFT)</p>
+</li>
+</ul>
+<p><a id="sec-definitions_of_the_work_and_variant_entities"></a></p>
+<h4 id="definitions-of-the-work-and-variant-entities"><a class="header" href="#definitions-of-the-work-and-variant-entities">Definitions of the “Work” and ”Variant” Entities</a></h4>
+<p>The FIAF Cataloguing and Documentation Commission has chosen to model this manual on definitions of “Work” and “Variant” adopted by the European Standards Committee, rather than the FRBR and RDA definitions of “Work” and “Expression,” to make these concepts more practical for describing moving images. FRBR and RDA consider “works” and “expressions” to be abstract entities that only acquire physical characteristics at the “manifestation or “item” level. However, moving image “works” are more easily conceptualized as concrete entities. This is because a moving image work only becomes such through a complex process involving multiple contributors. This process results in a “fixed” or “expressed” object (whether analogue or digital) that typically combines a visual part (the moving image), and a textual part (the soundtrack or intertitles).<sup class="footnote-reference" id="fr-10-1"><a href="#footnote-10">10</a></sup> Therefore, the concept of a moving image work comprises both the content and the process of realisation in a moving image medium.<sup class="footnote-reference" id="fr-11-1"><a href="#footnote-11">11</a></sup></p>
+<p>Further, this manual continues to follow the precepts already outlined in Film Cataloguing and FIAF Cataloguing Rules for Film Archives by including the concept of “original.” The FIAF Cataloguing Rules for Film Archives recommend using the “original release title or broadcast title in the country of origin, i.e., the country of the principal offices of the production company or individual by whom the moving image work was made”<sup class="footnote-reference" id="fr-12-1"><a href="#footnote-12">12</a></sup> to identify a Work. “Owing to the complex interrelationships of persons and corporate bodies in the creation of a moving image work, the original release or broadcast title is chosen as the single element which can provide the level of consistency and standardisation requisite for any national and international networking or sharing of cataloguing data.”<sup class="footnote-reference" id="fr-13-1"><a href="#footnote-13">13</a></sup></p>
+<p>Likewise, the “original” defined here contains characteristics that persist across any variation or output of a moving image work and that reflect the original intentions of its realisation, including: circumstances of the creation process such as date(s) and place(s) of production, most contributions by agents such as directors, screenwriters, production companies and cast members, as well as certain statements about the contents.<sup class="footnote-reference" id="fr-14-1"><a href="#footnote-14">14</a></sup></p>
+<p>In this way, a moving image work as a concept is closer to a combining of FRBR and RDA’s work and expression entities. This definition also aligns closely with the concept of “work primary expression” formulated by the Online Audiovisual Catalogers (OLAC) Cataloging Policy Committee (CAPC) Moving Image Work-Level Records Task Force and the CEN’s EN 15907. A primary difference here is that EN 15907 specifies for the concept of “original” to be expressed in association with an instance of a Manifestation that embodies the original Work.</p>
+<p>The use of the term “variant” is not a mere substitute for the term “expression.” In the context of moving images, variants and expressions cannot be considered equivalent concepts because moving image works are already their own expressions.<sup class="footnote-reference" id="fr-15-1"><a href="#footnote-15">15</a></sup> As explained above, a moving image work has by definition taken a form (been expressed) and contains specific attributes that correspond to the concept of an “original” or “primary expression.” The variants correspond to all other “expressions.” For example, a colorized version of The asphalt jungle (1950) does not express the original work; it contains a variation from the original idea conceived by John Huston and put into form. If there is no variation from the work as originally conceived, there is no “variant,” but under FRBR there would always be an “expression.” This exemplifies why these concepts are not equal: that is, there may not always be a variant but there must always be an expression.<sup class="footnote-reference" id="fr-16-1"><a href="#footnote-16">16</a></sup></p>
+<p><a id="sec-definitions_of_the_manifestation_and_item_entities"></a></p>
+<h4 id="definitions-of-the-manifestation-and-item-entities"><a class="header" href="#definitions-of-the-manifestation-and-item-entities">Definitions of the Manifestation and Item Entities</a></h4>
+<p>A Manifestation is the embodiment of a Work/Variant and includes all the analogue or digital forms that are derived from a Work/Variant and bear common characteristics with respect to shared intellectual content and physical format. It may be whole or incomplete or a fragment.</p>
+<p>An Item is the physical product of a Manifestation of a Work or Variant, i.e. the physical copy of a Work or Variant. It may be whole or incomplete or a fragment. In the case of purely digital media, an Item is defined as the availability of the computer file, irrespective of the number of backup copies that may exist<sup class="footnote-reference" id="fr-17-1"><a href="#footnote-17">17</a></sup>.</p>
+<p><a id="sec-boundaries_between_entities"></a></p>
+<h4 id="boundaries-between-entities"><a class="header" href="#boundaries-between-entities">Boundaries between entities</a></h4>
+<p>The traditional practice within moving image archives of incorporating variation information into a record enabled this one record to carry within it all the details relative to the differing components of a whole.<sup class="footnote-reference" id="fr-18-1"><a href="#footnote-18">18</a></sup> Within the framework of the FRBR and RDA models, and the EN 15907 schema, the work record represents this “one record,” incorporating certain descriptive details, but the placement of the variation information changes. Different editions, versions, or variations are represented by the variant and manifestation entities, and the differences are recorded at the appropriate level or on the particular entity record, or designated in some way as belonging to the specific entity. The treatment of an “information resource” by using the four-tier hierarchy to express the concept allows it to be described and viewed at each of the four levels: for example, a documentary is, simultaneously, a particular copy or component pieces (item(s)), a particular publication (manifestation), a particular edition (variant), and a particular piece of work (work).</p>
+<p>It remains essential to users of archival moving image material that information describing the original work and information describing the item in hand are presented in a manner that clearly delineates this relationship. The relationship in library terms is described as the concept of “edition” and it includes any changes in content or changes in carrier. Separate editions of printed library material are catalogued separately, and usually no attempt is made to determine whether edition statements always indicate major changes in content.<sup class="footnote-reference" id="fr-19-1"><a href="#footnote-19">19</a></sup> “Publication,” in the context of a moving image archive, is used interchangeably with “distribution” and means “making the resource available.”<sup class="footnote-reference" id="fr-20-1"><a href="#footnote-20">20</a></sup> For moving image materials, the terms most analogous to this concept of edition are “versions with major changes” and “variations with minor changes.”<sup class="footnote-reference" id="fr-21-1"><a href="#footnote-21">21</a></sup> (see <a href="http://www.fiafnet.org/images/tinyUpload/E-Resources/Commission-And-PIP-Resources/CDC-resources/FIAF_Cat_Rules.pdf">http://www.fiafnet.org/images/tinyUpload/E-Resources/Commission-And-PIP-Resources/CDC-resources/FIAF_Cat_Rules.pdf</a>)</p>
+<p>In moving image archives, both the occurrence of a change in the content and the extent of the change are important. In most cases, for moving image materials, the changes in content are a function of some form of editing.</p>
+<p>The treatment of the concepts of “versions with major changes” and “variations with minor changes” in this revision shift to a focus on changes in content and changes to carrier and correlate to the boundaries between the variants (changes in content) of a work and its manifestations (changes in carrier). This does not replace the need to create a version with major changes as a new Work where this is necessary and appropriate <a href="/boundaries/boundaries_between_works_and_variants/">Boundaries between Works and Variants</a>.</p>
+<p><a id="sec-attributes"></a></p>
+<h3 id="attributes"><a class="header" href="#attributes">Attributes</a></h3>
+<p>This manual provides a granular nomenclature for describing the attributes of the moving image entities, Work, Variant, Manifestation and Item (WVMI). The guidelines do not specify the attributes for entities related to the WVMI entities, for example, Agents (i.e., Persons, Families, Corporate Bodies, etc.). For recording the attributes of Agents (e.g. first name, last name, nationality, etc.), refer to authoritative sources such as Functional requirements for authority data: a conceptual model or tools such as the Library of Congress Name Authority File.<sup class="footnote-reference" id="fr-22-1"><a href="#footnote-22">22</a></sup></p>
+<p><a id="sec-user_tasks"></a></p>
+<h3 id="user-tasks"><a class="header" href="#user-tasks">User Tasks</a></h3>
+<p>FRBR and RDA have defined and adopted the following tasks reflecting the traditional core functions of the catalogue:<sup class="footnote-reference" id="fr-23-1"><a href="#footnote-23">23</a></sup></p>
+<p>find—i.e., to find resources that correspond to the user’s stated search criteria</p>
+<p>identify—i.e., to confirm that the resource described corresponds to the resource sought, or to distinguish between two or more resources with similar characteristics</p>
+<p>select—i.e., to select a resource that is appropriate to the user’s needs</p>
+<p>obtain—i.e., to acquire or access the resource described.</p>
+<p>RDA added an additional set of user tasks based on those defined in IFLA’s Working Group on Functional Requirements and Numbering of Authority Records (FRANAR), and describe an entity associated with a resource:</p>
+<p>find—i.e., to find information on that entity and on resources associated with the entity</p>
+<p>identify—i.e., to confirm that the entity described corresponds to the entity sought, or to distinguish between two or more entities with similar names, etc.</p>
+<p>clarify—i.e., to clarify the relationship between two or more such entities, or to clarify the relationship between the entity described and a name by which that entity is known</p>
+<p>understand—i.e., to understand why a particular name or title, or form of name or title, has been chosen as the preferred name or title for the entity.</p>
+<p>These user tasks are listed because they are pertinent to moving image cataloguing and can be adapted to cover many of the search and discovery needs of those who might seek moving images. For example, Martha Yee (2007) provides one adaptation of the functions of the library catalogue for moving images:</p>
+<p>To find, identify, select, and acquire: <sup class="footnote-reference" id="fr-24-1"><a href="#footnote-24">24</a></sup></p>
+<ul>
+<li>
+<p>All the versions (Variants) of a sought Work (for example the various “director’s cuts” of Blade runner as well as the original release version), specified by its title, or by its title in conjunction with the name of one of its creators or by date, that are held by your collection or to which you license access.</p>
+</li>
+<li>
+<p>All the copies (Manifestations or Items) of a particular version (Variant) of a Work (for example, all the copies you hold of the studio’s director’s cut) that are held by your collection or to which you license access.</p>
+</li>
+<li>
+<p>All the Works of a particular person (for example, director, actor, costume designer) or corporate body (for example, studio) that are held by your collection or to which you license access.</p>
+</li>
+<li>
+<p>All the Works on a subject (for example, the Vietnam War) that are held by your collection or to which you license access.</p>
+</li>
+<li>
+<p>All the Works in a particular form or genre (for example, animation, gangster films) that are held by your collection or to which you license access.</p>
+</li>
+</ul>
+<h3 id="representation-or-principle-of-transcription"><a class="header" href="#representation-or-principle-of-transcription">Representation (or, principle of transcription)</a></h3>
+<p>The basic principle of transcription is an area in which archival moving image cataloguing frequently deviates from traditional library cataloguing. Whereas traditional library cataloguers typically transcribe descriptive data directly from the physical item, this is not always the case in archival moving image cataloguing. Because of this, earlier moving image cataloguing rules and standards (FIAF, AMIM) have suggested the term “preferred” rather than “chief” source of filmographic information for representing moving images. The importance of reflecting the original details of a moving image work is a primary principle of organisation for moving image archives. This underlies another practice of moving image cataloguing, which was also recommended in the 1991 FIAF Rules, namely choosing the original release title in country of origin as the preferred title for a work. Other titles (e.g., translated titles, re-release or reissue titles, titles on the item or accompanying material, etc.), are recorded at the appropriate entity level, or designated as belonging to the appropriate entity, and linking mechanisms from other titles to the original release title should be utilised.</p>
+<p>Because, however, it is not always possible for a cataloguer to determine an original release title, guidelines are also provided for choice of the preferred title of the work when either: 1) the concept of original release title is not applicable (as in the case of unedited footage), or when 2) a cataloguer is unable, through research, to determine the original release title.</p>
+<hr>
+<ol class="footnote-definition">
+<li id="footnote-1">
+<p>FIAF, 1991, p. ix. <a href="#fr-1-1">↩</a></p>
+</li>
+<li id="footnote-2">
+<p>Adapted from AMIM2, p.1. <a href="#fr-2-1">↩</a></p>
+</li>
+<li id="footnote-3">
+<p>The other two conceptual models are FRAD (Functional Requirements for Authority Data), <a href="http://www.ifla.org/node/7923">http://www.ifla.org/node/7923</a> and FRSAD Functional Requirements for Subject Authority Data, <a href="http://www.ifla.org/node/1297">http://www.ifla.org/node/1297</a>. <a href="#fr-3-1">↩</a></p>
+</li>
+<li id="footnote-4">
+<p>FRBR Final Reports, p. 3. <a href="#fr-4-1">↩</a></p>
+</li>
+<li id="footnote-5">
+<p>RDA 0.0 and 0.1, p. 0-1. <a href="#fr-5-1">↩</a></p>
+</li>
+<li id="footnote-6">
+<p><a href="https://tech.ebu.ch/MetadataEbuCore">https://tech.ebu.ch/MetadataEbuCore</a> <a href="#fr-6-1">↩</a></p>
+</li>
+<li id="footnote-7">
+<p><a href="http://pbcore.org/">http://pbcore.org/</a> <a href="#fr-7-1">↩</a></p>
+</li>
+<li id="footnote-8">
+<p>Taken from EN 15907. Item – Definition from the standard. <a href="http://filmstandards.org/fsc/index.php/EN_15907_Item">http://filmstandards.org/fsc/index.php/EN_15907_Item</a> <a href="#fr-8-1">↩</a></p>
+</li>
+<li id="footnote-9">
+<p>FRBR Final Report, pp. 12-16; Taylor, p. 4. <a href="#fr-9-1">↩</a></p>
+</li>
+<li id="footnote-10">
+<p>Yee. “The Concept of Work for Moving Image Materials, p. 33. <a href="#fr-10-1">↩</a></p>
+</li>
+<li id="footnote-11">
+<p>EN 15907, 4.1.1, p. 8. <a href="#fr-11-1">↩</a></p>
+</li>
+<li id="footnote-12">
+<p>FIAF, 1991, p. xiii <a href="#fr-12-1">↩</a></p>
+</li>
+<li id="footnote-13">
+<p>FIAF, 1991, p. xiii <a href="#fr-13-1">↩</a></p>
+</li>
+<li id="footnote-14">
+<p>Adapted from the definition of a Cinematographic Work in EN 15907, 4.1.1, p.8. <a href="#fr-14-1">↩</a></p>
+</li>
+<li id="footnote-15">
+<p>Journal of Digital Media Management Vol. 2, 3, 00–00 © Henry Stewart Publications 2047- 1300 (2013) The EN 15907 moving image metadata schema standard and its role in a digital asset management infrastructure, by Detlev Balzar, Stephen McConnachie, Thelma Ross. <a href="#fr-15-1">↩</a></p>
+</li>
+<li id="footnote-16">
+<p>Laurent Bismuth (personal communication, May 08, 2011) <a href="#fr-16-1">↩</a></p>
+</li>
+<li id="footnote-17">
+<p>Digital medium definition taken from CEN’s “Film Identification – enhancing interoperability of metadata. Element sets and structures. FprEN 15907:2010 (E) <a href="#fr-17-1">↩</a></p>
+</li>
+<li id="footnote-18">
+<p>FIAF, 1991, p. xii <a href="#fr-18-1">↩</a></p>
+</li>
+<li id="footnote-19">
+<p>FIAF, 1991, p. xii <a href="#fr-19-1">↩</a></p>
+</li>
+<li id="footnote-20">
+<p>Andrea Leigh, (drawn from personal communication, May 05, 2011) <a href="#fr-20-1">↩</a></p>
+</li>
+<li id="footnote-21">
+<p>FIAF, 1991, p. xii-xiii. They are defined as following in the 1991 rules: Versions with major changes. If the cataloging agency has determined that the item in hand differs significantly from the original work, i.e., major editing has been done, the item is described in a separate cataloging record. The item in hand is designated a version of the original work with major changes, e.g., short version, classroom version, etc., and the distribution information for the separate version is recorded. The relationship to the original work is indicated in the edition/version statement, and, in most instances, in a note. Distribution information relating to the original work may also be indicated in a note. Variations with minor changes. When the cataloging agency determines that an item, although designated as being re-edited, e.g., a “new edition,” has not indeed been changed significantly, it may express this relationship by recording the statement of responsibility for the original in area one, the variation and statement of responsibility for the variation in area two, and the production, distribution information for both the original and variation copies in area three. Multiple edition/version/variation statements may be given when cataloging multiple variations with minor changes. <a href="#fr-21-1">↩</a></p>
+</li>
+<li id="footnote-22">
+<p>Patton, Glenn E. 2009. Functional requirements for authority data: a conceptual model. München: K.G. Saur. <a href="#fr-22-1">↩</a></p>
+</li>
+<li id="footnote-23">
+<p>FRBR Final Report, p. 82; RDA, 0.0, Purpose and Scope <a href="#fr-23-1">↩</a></p>
+</li>
+<li id="footnote-24">
+<p>Yee, 2007, p. 16. <a href="#fr-24-1">↩</a></p>
+</li>
+</ol>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../quick-guide/index.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg></span>
+                            </a>
+
+                            <a rel="next prefetch" href="../preliminary/purpose_scope_and_use/index.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"/></svg></span>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../quick-guide/index.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg></span>
+                    </a>
+
+                    <a rel="next prefetch" href="../preliminary/purpose_scope_and_use/index.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"/></svg></span>
+                    </a>
+            </nav>
+
+        </div>
+
+        <template id=fa-eye><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M288 32c-80.8 0-145.5 36.8-192.6 80.6C48.6 156 17.3 208 2.5 243.7c-3.3 7.9-3.3 16.7 0 24.6C17.3 304 48.6 356 95.4 399.4C142.5 443.2 207.2 480 288 480s145.5-36.8 192.6-80.6c46.8-43.5 78.1-95.4 93-131.1c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C433.5 68.8 368.8 32 288 32zM432 256c0 79.5-64.5 144-144 144s-144-64.5-144-144s64.5-144 144-144s144 64.5 144 144zM288 192c0 35.3-28.7 64-64 64c-11.5 0-22.3-3-31.6-8.4c-.2 2.8-.4 5.5-.4 8.4c0 53 43 96 96 96s96-43 96-96s-43-96-96-96c-2.8 0-5.6 .1-8.4 .4c5.3 9.3 8.4 20.1 8.4 31.6z"/></svg></span></template>
+        <template id=fa-eye-slash><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M38.8 5.1C28.4-3.1 13.3-1.2 5.1 9.2S-1.2 34.7 9.2 42.9l592 464c10.4 8.2 25.5 6.3 33.7-4.1s6.3-25.5-4.1-33.7L525.6 386.7c39.6-40.6 66.4-86.1 79.9-118.4c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C465.5 68.8 400.8 32 320 32c-68.2 0-125 26.3-169.3 60.8L38.8 5.1zM223.1 149.5C248.6 126.2 282.7 112 320 112c79.5 0 144 64.5 144 144c0 24.9-6.3 48.3-17.4 68.7L408 294.5c5.2-11.8 8-24.8 8-38.5c0-53-43-96-96-96c-2.8 0-5.6 .1-8.4 .4c5.3 9.3 8.4 20.1 8.4 31.6c0 10.2-2.4 19.8-6.6 28.3l-90.3-70.8zm223.1 298L373 389.9c-16.4 6.5-34.3 10.1-53 10.1c-79.5 0-144-64.5-144-144c0-6.9 .5-13.6 1.4-20.2L83.1 161.5C60.3 191.2 44 220.8 34.5 243.7c-3.3 7.9-3.3 16.7 0 24.6c14.9 35.7 46.2 87.7 93 131.1C174.5 443.2 239.2 480 320 480c47.8 0 89.9-12.9 126.2-32.5z"/></svg></span></template>
+        <template id=fa-copy><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M502.6 70.63l-61.25-61.25C435.4 3.371 427.2 0 418.7 0H255.1c-35.35 0-64 28.66-64 64l.0195 256C192 355.4 220.7 384 256 384h192c35.2 0 64-28.8 64-64V93.25C512 84.77 508.6 76.63 502.6 70.63zM464 320c0 8.836-7.164 16-16 16H255.1c-8.838 0-16-7.164-16-16L239.1 64.13c0-8.836 7.164-16 16-16h128L384 96c0 17.67 14.33 32 32 32h47.1V320zM272 448c0 8.836-7.164 16-16 16H63.1c-8.838 0-16-7.164-16-16L47.98 192.1c0-8.836 7.164-16 16-16H160V128H63.99c-35.35 0-64 28.65-64 64l.0098 256C.002 483.3 28.66 512 64 512h192c35.2 0 64-28.8 64-64v-32h-47.1L272 448z"/></svg></span></template>
+        <template id=fa-play><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M73 39c-14.8-9.1-33.4-9.4-48.5-.9S0 62.6 0 80V432c0 17.4 9.4 33.4 24.5 41.9s33.7 8.1 48.5-.9L361 297c14.3-8.7 23-24.2 23-41s-8.7-32.2-23-41L73 39z"/></svg></span></template>
+        <template id=fa-clock-rotate-left><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M75 75L41 41C25.9 25.9 0 36.6 0 57.9V168c0 13.3 10.7 24 24 24H134.1c21.4 0 32.1-25.9 17-41l-30.8-30.8C155 85.5 203 64 256 64c106 0 192 86 192 192s-86 192-192 192c-40.8 0-78.6-12.7-109.7-34.4c-14.5-10.1-34.4-6.6-44.6 7.9s-6.6 34.4 7.9 44.6C151.2 495 201.7 512 256 512c141.4 0 256-114.6 256-256S397.4 0 256 0C185.3 0 121.3 28.7 75 75zm181 53c-13.3 0-24 10.7-24 24V256c0 6.4 2.5 12.5 7 17l72 72c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9l-65-65V152c0-13.3-10.7-24-24-24z"/></svg></span></template>
+
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../elasticlunr-ef4e11c1.min.js"></script>
+        <script src="../mark-09e88c2c.min.js"></script>
+        <script src="../searcher-09f2665d.js"></script>
+
+        <script src="../clipboard-1626706a.min.js"></script>
+        <script src="../highlight-abc7f01d.js"></script>
+        <script src="../book-c22b7243.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+
+    </div>
+    </body>
+</html>

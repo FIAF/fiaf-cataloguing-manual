@@ -1,0 +1,699 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Elements of a Work - FIAF Moving Image Cataloguing Manual</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../../favicon-de23e50b.svg">
+        <link rel="shortcut icon" href="../../favicon-8114d1fc.png">
+        <link rel="stylesheet" href="../../css/variables-8adf115d.css">
+        <link rel="stylesheet" href="../../css/general-0392ca55.css">
+        <link rel="stylesheet" href="../../css/chrome-fc474251.css">
+        <link rel="stylesheet" href="../../css/print-9e4910d8.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../fonts/fonts-9644e21d.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" id="mdbook-highlight-css" href="../../highlight-493f70e1.css">
+        <link rel="stylesheet" id="mdbook-tomorrow-night-css" href="../../tomorrow-night-4c0ae647.css">
+        <link rel="stylesheet" id="mdbook-ayu-highlight-css" href="../../ayu-highlight-3fdfc3ac.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+        <!-- Provide site root and default themes to javascript -->
+        <script>
+            const path_to_root = "../../";
+            const default_light_theme = "light";
+            const default_dark_theme = "navy";
+            window.path_to_searchindex_js = "../../searchindex-41eada1d.js";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="../../toc-5e47642e.js"></script>
+    </head>
+    <body>
+    <div id="mdbook-help-container">
+        <div id="mdbook-help-popup">
+            <h2 class="mdbook-help-title">Keyboard shortcuts</h2>
+            <div>
+                <p>Press <kbd>←</kbd> or <kbd>→</kbd> to navigate between chapters</p>
+                <p>Press <kbd>S</kbd> or <kbd>/</kbd> to search in the book</p>
+                <p>Press <kbd>?</kbd> to show this help</p>
+                <p>Press <kbd>Esc</kbd> to hide this help</p>
+            </div>
+        </div>
+    </div>
+    <div id="mdbook-body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                let theme = localStorage.getItem('mdbook-theme');
+                let sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            const default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? default_dark_theme : default_light_theme;
+            let theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="mdbook-sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            let sidebar = null;
+            const sidebar_toggle = document.getElementById("mdbook-sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+                sidebar_toggle.checked = false;
+            }
+            if (sidebar === 'visible') {
+                sidebar_toggle.checked = true;
+            } else {
+                html.classList.remove('sidebar-visible');
+            }
+        </script>
+
+        <nav id="mdbook-sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="../../toc.html"></iframe>
+            </noscript>
+            <div id="mdbook-sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="mdbook-page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="mdbook-menu-bar-hover-placeholder"></div>
+                <div id="mdbook-menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="mdbook-sidebar-toggle" class="icon-button" for="mdbook-sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="mdbook-sidebar">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M0 96C0 78.3 14.3 64 32 64H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H416c17.7 0 32 14.3 32 32z"/></svg></span>
+                        </label>
+                        <button id="mdbook-theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="mdbook-theme-list">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M371.3 367.1c27.3-3.9 51.9-19.4 67.2-42.9L600.2 74.1c12.6-19.5 9.4-45.3-7.6-61.2S549.7-4.4 531.1 9.6L294.4 187.2c-24 18-38.2 46.1-38.4 76.1L371.3 367.1zm-19.6 25.4l-116-104.4C175.9 290.3 128 339.6 128 400c0 3.9 .2 7.8 .6 11.6c1.8 17.5-10.2 36.4-27.8 36.4H96c-17.7 0-32 14.3-32 32s14.3 32 32 32H240c61.9 0 112-50.1 112-112c0-2.5-.1-5-.2-7.5z"/></svg></span>
+                        </button>
+                        <ul id="mdbook-theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-default_theme">Auto</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-ayu">Ayu</button></li>
+                        </ul>
+                        <button id="mdbook-search-toggle" class="icon-button" type="button" title="Search (`/`)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="/ s" aria-controls="mdbook-searchbar">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352c79.5 0 144-64.5 144-144s-64.5-144-144-144S64 128.5 64 208s64.5 144 144 144z"/></svg></span>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">FIAF Moving Image Cataloguing Manual</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <span class=fa-svg id="print-button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M128 0C92.7 0 64 28.7 64 64v96h64V64H354.7L384 93.3V160h64V93.3c0-17-6.7-33.3-18.7-45.3L400 18.7C388 6.7 371.7 0 354.7 0H128zM384 352v32 64H128V384 368 352H384zm64 32h32c17.7 0 32-14.3 32-32V256c0-35.3-28.7-64-64-64H64c-35.3 0-64 28.7-64 64v96c0 17.7 14.3 32 32 32H64v64c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V384zm-16-88c-13.3 0-24-10.7-24-24s10.7-24 24-24s24 10.7 24 24s-10.7 24-24 24z"/></svg></span>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="mdbook-search-wrapper" class="hidden">
+                    <form id="mdbook-searchbar-outer" class="searchbar-outer">
+                        <div class="search-wrapper">
+                            <input type="search" id="mdbook-searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="mdbook-searchresults-outer" aria-describedby="searchresults-header">
+                            <div class="spinner-wrapper">
+                                <span class=fa-svg id="fa-spin"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M304 48c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zm0 416c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zM48 304c26.5 0 48-21.5 48-48s-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48zm464-48c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zM142.9 437c18.7-18.7 18.7-49.1 0-67.9s-49.1-18.7-67.9 0s-18.7 49.1 0 67.9s49.1 18.7 67.9 0zm0-294.2c18.7-18.7 18.7-49.1 0-67.9S93.7 56.2 75 75s-18.7 49.1 0 67.9s49.1 18.7 67.9 0zM369.1 437c18.7 18.7 49.1 18.7 67.9 0s18.7-49.1 0-67.9s-49.1-18.7-67.9 0s-18.7 49.1 0 67.9z"/></svg></span>
+                            </div>
+                        </div>
+                    </form>
+                    <div id="mdbook-searchresults-outer" class="searchresults-outer hidden">
+                        <div id="mdbook-searchresults-header" class="searchresults-header"></div>
+                        <ul id="mdbook-searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('mdbook-sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('mdbook-sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#mdbook-sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="mdbook-content" class="content">
+                    <main>
+                        <p>This section describes the metadata elements that can be used to describe a Work.
+It is up to each institution to choose which elements are most applicable to describe their collections and according to what their system can support.</p>
+<p>This Manual recommends using the qualifier “Type” for several core elements if an institution’s system can support it.
+In these cases, “Type” is used to define the source, function or purpose of the value entered in the main element.
+Using a “Type” qualifier conforms to its use in Dublin Core and other Dublin Core-influenced standards such as EBUCore and PBCore.
+Examples of using “Type” include the Identifier, Title, Date, and Description elements.</p>
+<p><a id="sec-work_variant_identifier"></a></p>
+<h2 id="work-identifier"><a class="header" href="#work-identifier">Work Identifier</a></h2>
+<p>Create an unambiguous reference to the Work using a unique identifier and indicate the type of identifier.
+The identifier should be a numerical or alphanumerical reference.
+This identifier is for the content of the Work, not for a specific Item.
+Variant, Manifestations and Items have their own Identifiers, discussed in later sections.
+This Work Identifier is shared by all Variants, Manifestations and Items associated to the Work.</p>
+<p>In a way, a unique Work Identifier can have more value than a Work’s Title.
+Titles can confuse through different spellings, translations, and are not unique (i.e., King Kong).
+An Identifier refers to a specific Work/Variant and provides clear disambiguation between Works when there is confusion.</p>
+<p>There can be more than one Work unique identifier for the content.
+This commonly occurs when institutions have content assigned identifiers by various standards or distribution agencies (ISAN, EIDR), or a government or other official body in the archive’s country has assigned an identifier to the work.
+An institution will likely have its own internal Identifier as well, often auto-generated by an institution’s information or asset management system.
+For example, a Work may have these associated identifiers:</p>
+<ul>
+<li><a href="https://www.isan.org">International Standard Audiovisual Number (ISAN)</a></li>
+<li><a href="https://www.eidr.org">EIDR (Entertainment Identifier Registry)</a></li>
+<li><a href="https://www.viaf.org">VIAF (Virtual International Authority File)</a></li>
+<li>Locally-generated</li>
+</ul>
+<p>Use what makes sense for your institution; there is no recommendation for one particular resource.
+However, it is recommended that at least one unique identifier be included in the record.
+It is critical that each Identifier be unique.</p>
+<p>!!! example “Example”
+Cabiria (Italy, 1914, Piero Fosco)</p>
+<pre><code>Work identifier – ISAN number: ISAN 0000-0000-7B37-0000-J-0000-0000-H
+
+Note: Pietro Fosco is the pseudonym of Giovanni Pastrone used in the ISAN registration.
+</code></pre>
+<p>!!! example “Example”
+Volver (Spain, 2006, Pedro Almodovar)</p>
+<pre><code>Work identifier – ISAN number: ISAN 0000-0001-6B16-0000-Y-0000-0000-9
+</code></pre>
+<p>!!! example “Example”
+Metropolis (Germany, 1927, Fritz Lang)</p>
+<pre><code>Work identifier – VIAF number: 219448355
+</code></pre>
+<p>!!! example “Example”
+The boxer (United States, Ireland, 1997, Jim Sheridan)</p>
+<pre><code>Work identifier – EIDR number: 10.5240/5896-B203-017D-11A5-EB7F-W  
+
+Work identifier – ISAN number: 0000-0000-60A5-0000-E-0000-0000-W
+</code></pre>
+<p><a id="sec-work_identifier_type"></a></p>
+<h3 id="identifier-type"><a class="header" href="#identifier-type">Identifier Type</a></h3>
+<p>If an institution’s system allows, a “Type” can be applied with an Identifier to define the source of the Identifier.</p>
+<p>!!! example “Example”
+The boxer (United States, Ireland, 1997, Jim Sheridan)</p>
+<pre><code>Work identifier: 10.5240/5896-B203-017D-11A5-EB7F-W 
+
+Identifier type: EIDR 
+
+Work identifier: 0000-0000-60A5-0000-E-0000-0000-W 
+
+Identifier type: ISAN
+</code></pre>
+<p><a id="sec-work_title"></a></p>
+<h2 id="title"><a class="header" href="#title">Title</a></h2>
+<p>Record at least one title, identifying phrase, or name for the moving image Work.
+If your institution is applying the use of “Type” qualifiers, use “Title Type” to state the function of a particular title (see <a href="/works/elements_of_a_work_variant/#sec-work_title_type">Title Type</a> and <a href="/appendices/titles/">Titles and Title Types</a>).</p>
+<p>Ideally, the record should at a minimum contain the “preferred title” (also referred to as “main” or “original” title) of the Work.
+Generally, it is the title of a moving image Work when first released, broadcast, published or transmitted (i.e. mounted online) in the country or countries of origin.
+It may differ from the title found on a particular manifestation of the Work; the actual title on the Manifestation is noted in the Manifestation Title element (see <a href="/manifestations/elements_of_a_manifestation/#sec-manifest_title">Title</a>).
+See <a href="/appendices/titles/title_types/#sec-title_types">Title Types</a> for additional information.</p>
+<p>For creating titles for untitled or unidentified entities see <a href="/appendices/titles/title_types/#sec-supplied_devised_titles">Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)</a>.Television programmes and other types of content that are part of a series/serial should have both the series/serial title and the episode title included in the Work record.
+This may be via use of a “Title type” qualifier.
+See <a href="/appendices/titles/title_types/#sec-titles_of_series_serials">Titles and structuring of series/serials</a> for other options.</p>
+<p>!!! example “Example”
+Gone with the wind (United States of America, 1939, Victor Fleming)</p>
+<pre><code>Gone with the wind – Preferred Title of the Work 
+
+Via col vento – Variant title – Dubbed (Italian) 
+
+Gejaagd door de win – Variant title – Dubbed (Dutch) 
+
+Autant en emporte le vent – Variant title – Dubbed – (French) 
+
+風と共に去りぬ – Variant title – Dubbed (Japanese)
+</code></pre>
+<p>!!! example “Example”
+Аленький цветочек (USSR, 1952, Lev Atamanov)</p>
+<pre><code>Аленький цветочек – Title of the Work 
+
+Alenkiy tsvetochek: Alternative (transliterated) title of Work/ Variant (Preferred title if systems don’t use Cyrillic) 
+
+Feuerrotes Blümchen – Variant title – Dubbed (German) 
+
+The Scarlet Flower – Variant title – Dubbed (English)
+</code></pre>
+<p>!!! example “Example”
+La passeggiata (Italy, 1953, Renato Rascel)</p>
+<pre><code>La passeggiata – Preferred Title of the Work 
+
+La prospettiva – Alternative title (Working title)
+</code></pre>
+<p>!!! example “Example”
+Anathan (Japan, 1953, Joseph von Sternberg)</p>
+<pre><code>Anathan – Preferred Title of the Work 
+
+The saga of Anathan – Alternative Title of the Work/Variant
+</code></pre>
+<p>!!! example “Example”
+Mary Tyler Moore show – Series title</p>
+<pre><code>Chuckles bites the dust – Preferred title
+</code></pre>
+<p>See <a href="/appendices/titles/#sec-appendix_title">Title</a> for fuller titling details and information.</p>
+<p>See <a href="/appendices/aggregates/titling_of_aggregates/#sec-titling_of_aggregates">Titling of Aggregates</a> for titling of Aggregates (e.g., compilations).</p>
+<p>For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see <a href="/preliminary/purpose_scope_and_use/#sec-purpose">Purpose</a>.</p>
+<p>For sources of information for the Title, see <a href="/preliminary/prelim_sources_of_information/#sec-prelim_sources_of_information">Sources of Information</a></p>
+<p><a id="sec-work_title_type"></a></p>
+<h3 id="title-type"><a class="header" href="#title-type">Title Type</a></h3>
+<p>Where relevant for an institution, if the Work, Variant or Manifestation includes multiple titles, such as a title in another language for a dubbed or subtitled variant, record the relevant Variant titles and associate a “Title Type” to each title for differentiation between the various types of titles (see <a href="/appendices/titles/">Titles and Title Types</a>).</p>
+<p><a id="sec-country_of_reference"></a></p>
+<h2 id="country-of-reference"><a class="header" href="#country-of-reference">Country of Reference</a></h2>
+<p>Where known and applicable, record the geographic origin of the moving image Work.
+This should be the country or countries where the principal offices or production facilities of the production company or companies are located.<sup class="footnote-reference" id="fr-1-1"><a href="#footnote-1">1</a></sup>
+Where an official national certificate or designation of a Work exists, use this as the authoritative source, e.g., Italian government department designates what is officially an Italian film.<sup class="footnote-reference" id="fr-2-1"><a href="#footnote-2">2</a></sup>
+When more than one place is associated with a Work/Variant, choose the place(s) with primary importance.</p>
+<p>For institutions who need or require specific ordering of country of reference then the following options are possible examples of how this may be achieved.<sup class="footnote-reference" id="fr-3-1"><a href="#footnote-3">3</a></sup></p>
+<p>If the Work is a multi-national production, the countries added to the record should be in order of financial involvement.
+For example, an Austrian/Italian/French co-production where the Austrian production company/sponsors financed 60%, the Italian 25% and the French 15% then the order of the countries would be: Austria, Italy, France.</p>
+<p>If it is not possible to establish clearly the financial percentages of each country’s involvement, then consider the nationality of the director of the title and/or the majority of personnel involved with the film and select that as being the main country of origin of the film.</p>
+<p>If the production company has branches in more than one country, choose the one responsible for the production of the work.</p>
+<p>If the Work is a multi-national production, with production company branches in multiple countries, and it is not clear which particular one was involved, then choose the predominant production company if known.</p>
+<p>Alternatively, since it is often impossible for a cataloguer to determine with any level of accuracy the precise percentages of financial involvement of companies, assign country of origin based on the nationality of the production companies in the order that they appear on screen (for example,  copyright companies followed by production and then ‘presents’ companies). Look at which companies are named on the screen as copyright holders, production companies, and ‘presents’ companies, with all the attendant credits for production companies such as ‘In association with’, ‘With the participation of’, ‘Supported by’, and add the countries in which these companies are based as country of references for the Work, starting with that of the primary production company.</p>
+<p>It is recognised that countries can lay out their credits differently, sometimes with less important companies listed first, or with a ‘presents’ credit as the only credit of the major production companies.</p>
+<p>If the production company has branches in more than one country, choose the production country of the actual branch responsible for the production of the work. If the Work is a multi-national production, with a production company with branches in multiple countries and it is unclear which branch was involved, choose the predominant production company if known.</p>
+<p>An institution should compile its own rules for ordering of country of reference depending on its preferred practice or needs.</p>
+<p>Record the country of origin using the full form of the country name, e.g. United Kingdom rather than UK, by taking the most suitable value(s) from a controlled list. This can be an in-house list but the use of a standard list such as ISO 3166<sup class="footnote-reference" id="fr-4-1"><a href="#footnote-4">4</a></sup> is preferable. If ISO is used, apply the English Short Name that is associated to a code. Optionally, record the country code as found in ISO 3166-1-alpha 2.</p>
+<p>If the country borders have changed, or two new countries are formed from one former country, then record the name of the country as it was at the time of production, e.g., Czechoslovakia for a Work/Variant produced in 1970, but Czechia or Slovakia for one from 2012.<sup class="footnote-reference" id="fr-5-1"><a href="#footnote-5">5</a></sup></p>
+<p>Similarly, the same principle applies in the case where two previously separate countries or sovereign states have officially joined together to form a new one, e.g. Tanganyika joined with Zanzibar to become Tanzania on 26th April 1964, so a 1962 film would be given the country of reference of Tanganyika or Zanzibar, as appropriate, but a 1966 film would be given the country of reference of Tanzania.</p>
+<p><a id="sec-occupied_/_annexed_countries"></a></p>
+<h3 id="occupiedannexed-countries"><a class="header" href="#occupiedannexed-countries">Occupied/Annexed countries</a></h3>
+<p>There are often complexities and sensitivities around which production country or countries to apply to moving images made in a country under occupation or annexation. These are sometimes connected with the nature and content of those moving images, e.g. propagandic and ideological aspects, but also with levels of autonomy, e.g. if the production companies and film crews were local but occupying authorities had direct control and involvement over scripts, personnel involved, content, final censorship etc. Even if collaborative or puppet national governments and authorities were technically in charge, if still under occupation then it could be viewed as having the production country of the occupying country.</p>
+<p>So, for example, after the takeover of Austria by Germany in 1938 it was deemed by them to have become a province of the German Third Reich, as did areas of the former Czechoslovakia in 1939. Filmmaking in those countries was a part of the German film industry during this time until 1945. These films may therefore be given a production country of Germany.</p>
+<p>Alternatively, such films may be given two production countries, that of the original country and that of the occupying/annexing country. Using the example above, films made in annexed countries such as Austria and Czechoslovakia often used Austrian and Czech directors, crew, actors, etc. and those countries may deem that these films are a part of their national heritage and that, irrespective of the occupier’s position that their countries did not exist any more this was not the case, they were simply temporarily occupied and annexed by another country.</p>
+<p>Another alternative could be to have additional countries of reference in thesauri or value lists, and distinguish via time periods, e.g.</p>
+<ul>
+<li>Austria (pre-1918)</li>
+<li>Austria (1919-1938)</li>
+<li>Austria (1938-1945)</li>
+<li>Austria (post-1945)</li>
+</ul>
+<p>There may not always be ISO codes for these, and a clarifying definition of these terms would also be needed.</p>
+<p>Similarly, films made in World War II in unoccupied Vichy France would have production country France, while those made in occupied France could have the production country Germany (if made wholly by German authorities) or else two production countries, Germany and France. The same with annexed Korea from 1910 to 1945, where films may have production countries of both Japan and Korea.</p>
+<p>The same also applies to previously colonised countries, under direct or indirect rule [RESEARCH A BIT MORE TO ADD SOME FURTHER SENTENCES HERE]</p>
+<p>It is for each institution to consider and decide what production countries to add on a Work record for moving images made in occupied or annexed countries, and apply consistently in cataloguing. Such decisions should be balanced, and also take into consideration the opinions and experiences of those affected.</p>
+<p>If possible use linking with georeferencing data such as GeoNames for place/location of production company or for indexation of film location to enable findability of films produced for example in film studios in Riga with the search term “Latvia” https://www.geonames.org/ . In this way, it is possible to avoid manifesting or perpetuating geopolitical facts that may be contentious. [NB. may need to cover this under nationality in Agents chapter as well, i.e. how to deal with this if you don’t have geonames linking possibilities, and covering things like country/border changes, e.g. those actors who were born and died in an area of what was India before partition but is now in Pakistan; similarly those who were born in what was then part of Germany but then changed to be part of Poland, etc.]</p>
+<p><a id="sec-countries_with_changed_names_/_borders_or_independence_from_former_empires_multinational_states_or_unions"></a></p>
+<h3 id="countries-with-changed-namesborders-or-independence-from-former-empires-multinational-states-or-unions"><a class="header" href="#countries-with-changed-namesborders-or-independence-from-former-empires-multinational-states-or-unions">Countries with changed names/borders, or independence from former empires, multinational states, or unions</a></h3>
+<p>If adding country names rather than georeferencing data is necessary, here are some recommendations and possible options:</p>
+<p>a) Use VIAF, authority records and ISO codes for countries whenever possible</p>
+<p>b) Retain the old geo-political countries which relate to or are given in the film. For example: if a film was made by a Ukrainian filmmaker and company in the 1960s then it would be designated as having a production country of the USSR, since at that time Ukraine was part of the USSR. If it had been made pre-1917 it would be designated as having the country Russian Empire (or Imperial Russia).</p>
+<p>c) Where countries have attained independence from former empires, multinational states or unions, earlier films made by production companies/studios in the same geographical areas of the countries concerned may be culturally and linguistically a part of their heritage, or there is a need or desire for an institution to identify such films distinct from those in other areas of the same empire or union. e.g. Ukraine. Thus, Ukraine could be added as an additional country to films made during the times it was part of the Russian Empire or USSR. In that case add Ukraine as an additional country, preferably as an ISO code (<a href="https://www.iso.org/obp/ui/#iso:code:3166:UA">https://www.iso.org/obp/ui/#iso:code:3166:UA</a>). Under ISO this technically pertains to the country post-1991, with use of the Soviet Union/USSR before then. Under LC/MARC though, country Ukraine “covers both the Ukrainian SSR (1917-Aug.24 1991) and the newly independent Ukraine (25 Aug. 1991- )”. [It should be noted that 1917 is historically inaccurate: The Ukrainian SSR was established only in 1919].</p>
+<p>d) Alternatively create a country for the Ukrainian SSR, Georgian SSR, Armenian SSR, etc. and apply those as additional production countries. Sometimes these Soviet Socialist Republics (SSRs) existed independently until joining together to form the USSR in 1922, and it may be relevant to just use these as production country for any films made between 1918 and 1922. However, there are no ISO codes for separate Soviet Socialist republics except for Byelorussian SSR. <sup class="footnote-reference" id="fr-200-1"><a href="#footnote-200">6</a></sup></p>
+<p>e) Combinations of any of the above.</p>
+<p>It remains the policy decision of an institution or festival to choose a preferred name for display on online platforms and/or in festival catalogues. This decision should not be taken lightly and should be informed by the opinions and experiences of those affected.</p>
+<p><a id="sec-year_date_of_reference"></a></p>
+<h2 id="yeardate-of-reference"><a class="header" href="#yeardate-of-reference">Year/Date of Reference</a></h2>
+<p>A year or fuller date (e.g., day/month/year) is essential to identifying a moving image Work and, where applicable, its Variants.
+A common use of year/date is chronological ordering of lists of Works and their Variants.<sup class="footnote-reference" id="fr-6-1"><a href="#footnote-6">7</a></sup>
+As explained below, these guidelines recommend, where possible, applying two qualifiers to a Date element: Date Type, and Date Precision.</p>
+<p>There is no primary or “preferred” year or date except within the context of the type of Work and, where applicable, its Variants.
+That is, typically, an original date of release or broadcast is essential for identifying a moving image Work and its Variants.
+In the absence of a release or broadcast date, provide a year of creation or production.</p>
+<p>Record any dates associated with the Work or its Variants formatted according to <a href="https://www.iso.org/standard/40874.html">ISO 8601</a> or other available resources, such as <a href="https://www.loc.gov/standards/datetime/">EDTF</a> (Extended Date Time Format).
+ISO 8601 prescribes that dates should be formatted hierarchically as Year-Month-Day, using this convention: YYYY-MM-DD.
+Example: 2015-07-04.
+This structure eliminates confusion when dates can be formatted with month before day or day before month (e.g., 07/04/2015 or 04/7/2015).
+Using the ISO format makes indexing and sorting more efficient.
+Using words (June 11, 2004), while perhaps user-friendly in its narrative construction, are difficult to index as dates.
+Mixing date formats causes confusion in data retrieval and for users!</p>
+<p>Where full dates are not known use Year-Month YYYY-MM or just Year YYYY, as systems permit.</p>
+<p><a id="sec-date_type"></a></p>
+<h3 id="date-type"><a class="header" href="#date-type">Date Type</a></h3>
+<p>The year or date should be associated with an event in the life cycle of the Work or its Variants (see <a href="/works/relationships_of_a_work_variant/#sec-work_events">Events (e.g., IPR registration, screenings, awards, etc.)</a>).
+If your system supports it, apply a “Date Type” qualifier to make the date or year purpose clear.
+Date Type terms should be derived from a controlled vocabulary.
+For a list of initial terms, see <a href="/events/event_type/#sec-event_type">Event Type</a>.</p>
+<p>For Works and Variants, the date is typically related to events such as its creation, availability (i.e. publication, release, distribution, broadcast or transmission) or registration (e.g. for copyright or intellectual property purposes), or bestowal of an award.</p>
+<p>More than one year or date may be associated with a Work or its Variants.
+For example, in the case of a Work comprising segments produced in different years (for example, a home movie); list the years, if known, e.g., 1955, 1956, 1959.<sup class="footnote-reference" id="fr-7-1"><a href="#footnote-7">8</a></sup></p>
+<p>Similarly, a Work may have a production date of 1962, a copyright date of December 1963, and a first release date of January 1964.
+Apply the Date Type qualifier to clarify the purpose of each date.</p>
+<p><a id="sec-date_precision"></a></p>
+<h3 id="date-precision"><a class="header" href="#date-precision">Date Precision</a></h3>
+<p>Where possible, provide a “Date Precision” qualifier to note if the date is precise, approximate, estimated, or a range.
+EDTF also provides codes to denote precision.
+For example, an uncertain or approximate date may be formatted thus: 2004-06~-11 (year and month are approximate; day known).
+Using a Date Precision qualifier, this Date entry could be entered as:</p>
+<p>Date: 2004-06-11<br>Date Type: Creation<br>Date Precision: Approximate</p>
+<p>An institution may choose to use a precision qualifier for imprecise dates.</p>
+<p>If ISO formatting and/or the Date Precision qualifier are not applied, then use consistent terms and formatting to note date approximations.<sup class="footnote-reference" id="fr-8-1"><a href="#footnote-8">9</a></sup>:</p>
+<p><em>One year or the other</em></p>
+<p>!!! example “Example”
+1971 or 1972</p>
+<p><em>Probable Year (with qualifying note to indicate date is probably 1969)</em></p>
+<p>!!! example “Example”
+[1969?]</p>
+<pre><code>1969? 
+
+Circa 1969
+</code></pre>
+<p><em>Approximate Year</em></p>
+<p>!!! example “Example”
+[Circa 1960]</p>
+<pre><code>Circa 1960 
+
+1960 circa
+</code></pre>
+<p><em>Decade Certain</em></p>
+<p>!!! example “Example”
+191-</p>
+<pre><code>Decade 1910 
+
+1910 decade
+</code></pre>
+<p><em>Probable Decade (with qualifying note to indicate that date is probable decade date)</em></p>
+<p>!!! example “Example”
+[191-?]</p>
+<pre><code>1910 decade 
+
+Decade 1910
+</code></pre>
+<p><em>Use for time spans, the outside limits of which can be precisely determined</em></p>
+<p>!!! example “Example”
+between 1906 and 1912</p>
+<p><em>Where system has date start/ date end functionality</em></p>
+<p>!!! example “Example”
+1906 1912</p>
+<p>In instances such as these, a note should be given which further explains the Date.</p>
+<p>!!! example “Example”
+[Personal record. Eugene Meyer family. Family camping trip through the Canadian Rockies]. – US, 1926.</p>
+<pre><code>[Note] Year from notes accompanying item, attached to inventory, and from Merlo Pusey’s Eugene Meyer, (New York: Knopf, 1974), p.195
+</code></pre>
+<p><a id="sec-languages"></a></p>
+<h2 id="languages"><a class="header" href="#languages">Language(s)</a></h2>
+<p>A moving image Work is conceived and presented in a particular language or set of languages.
+Changes to the original language(s), as in the case of dubbing, are considered minor changes and can constitute a Variant of a moving image Work.</p>
+<p>Alternatively, such minor changes can constitute a new Manifestation of a moving image Work rather than a Variant.
+Institutions using cataloguing structures that do not distinguish Variant level information (for example, those that create records primarily at the Manifestation level), should apply this alternative.
+(See guidelines for language in a Manifestation: <a href="/manifestations/elements_of_a_manifestation/#sec-manifest_language">Language</a>)</p>
+<p>Indicate the language(s) (e.g., Italian) and usage(s) (e.g., Italian intertitles) in which the moving image Variant/Manifestation is written, spoken or sung, if applicable.
+More than one language can occur in different forms, depending on how the content is expressed (e.g., French dialogue and English subtitles).</p>
+<p><a id="sec-language_term"></a></p>
+<h3 id="language-term"><a class="header" href="#language-term">Language Term</a></h3>
+<p>Record the language(s) by taking the most suitable value(s) from a controlled list of languages.</p>
+<p>This can be an in-house list but it is preferable to use a standard language list such as the ISO 639 codes, including ISO 639-2, 693-3 and 639-5 (http://www.loc.gov/standards/iso639-2/langhome.html).</p>
+<p>Optionally, record the language code as found in ISO 639, where allowable.</p>
+<p>If no language can be determined, the information can be omitted or indicated by a value of “unknown”.</p>
+<p><a id="sec-work_usage_type"></a></p>
+<h3 id="usage-type"><a class="header" href="#usage-type">Usage Type</a></h3>
+<p>Record the usage type of a language (e.g. spoken, intertitles, subtitles, etc.) by taking the most suitable term from a controlled list elaborated in-house or referring to an existing authoritative list, e.g.:</p>
+<ul>
+<li>Dialogue language(s)
+<ul>
+<li>Spoken language</li>
+<li>Sung language</li>
+<li>Signed language</li>
+<li>No dialogue</li>
+</ul>
+</li>
+<li>Written languages
+<ul>
+<li>Subtitles</li>
+<li>Captions</li>
+<li>Intertitles</li>
+</ul>
+</li>
+<li>Language(s) of summaries on containers</li>
+<li>Language(s) of accompanying material</li>
+</ul>
+<p>Optionally, record language usage type at the Manifestation/Item level (see <a href="/manifestations/elements_of_a_manifestation/#sec-manifest_language">Language</a>).
+A value of “original” can be added to the Language element here to indicate that statements made about the language(s) for a particular Manifestation/Item are indicative of the language(s) of the “original” Work. <sup class="footnote-reference" id="fr-10-1"><a href="#footnote-10">10</a></sup></p>
+<p><a id="sec-content_description"></a></p>
+<h2 id="content-description-synopses-shotlists-etc11"><a class="header" href="#content-description-synopses-shotlists-etc11">Content description (synopses, shotlists, etc)<sup class="footnote-reference" id="fr-9-1"><a href="#footnote-9">11</a></sup></a></h2>
+<p>Write a concise, objective, non-critical summary of the content of the moving image Work and/or Variant.
+Content descriptions can be synposes, brief TV guide-like one sentence description, shotlists, etc. There can be more than one type of content description in the record, e.g. it is possible to have both a shotlist and a synopsis.</p>
+<p>The content description should be written in a style that is easy to read.
+It should not include technical terms, abbreviations, or allusions significant to a specialist audience.
+Avoid slang expressions and colloquialisms fashionable at the time of writing,and, where several cataloguers are viewing independently, they should, ideally, try to achieve a common written style.
+Descriptions should be objective and not include subjective commentary on the quality of the content.
+If acceptable summaries are already available in secondary sources, cataloguers may use these, instead of taking the time to prepare summaries of their own. If using summaries exactly as written, put the summary in quotes and note the source of the summary.<sup class="footnote-reference" id="fr-11-1"><a href="#footnote-11">12</a></sup></p>
+<p>!!! example “Example”
+An historical drama set in 16th century England in which King Henry VIII divorces his wife, Catherine of Aragon, and marries Anne Boleyn, a former lady-in-waiting, who is in love with Sir Thomas Wyatt. After several years, Henry becomes infatuated with Lady Jane Seymour and arranges to have the innocent Anne found in a compromising situation with Sir Thomas. Anne is tried for infidelity, found guilty, and executed.</p>
+<p>!!! example “Example”
+Donald Graham, millionaire ex-convict, plans revenge on society figure John Cabin Brand, whom he blames for the death of his daughter.</p>
+<p>A content description may also be a shotlist or listing of the contents of an aggregate Work/Variant (see <a href="/appendices/aggregates/">Aggregates (Compilations, Multi-component productions)</a>). Shotlists are the ideal content description to have or aim to have, particularly for non-fiction moving images, but it is recognised that resources and accessibility mean this is not always possible or practical for an archive or institution.<sup class="footnote-reference" id="fr-12-1"><a href="#footnote-12">13</a></sup></p>
+<p>!!! example “Example”
+Title: Pathe News [Excerpts No. 6]</p>
+<pre><code>Contents: “Newest U.S. Submarine Goes into Commission,” Pathe News No. 60 [1921] (160 ft.) -- “Span of New Memorial Bridge to Connect N.H. and Maine,” Pathe News No. 57 [1923] (72 ft.) -- “Celebrate 300th Anniversary of Settling of Portsmouth,”Pathe News No. 69 [1923] (99 ft.) -- “World’s Largest Sub Takes First Plunge,” Pathe News No. 93 [1927], (c) 21Nov27; MP4478 (134 ft.) -- “New Memorial Bridge between N.H. and Maine!” Pathe News No. 70 [1923] (105 ft.) -- “Launch Largest Submarine Cruiser,” Pathe Sound News No. 1 [1930], (c) 29Dec29; MP1025 (80 ft.).
+</code></pre>
+<p>!!! example “Example”
+Title: Victorian Cinema: 4: Bamforth/Riley/Hepworth</p>
+<pre><code>Contents: 
+
+Weary Willie (1898) (78ft), 
+
+Catching the Milk Thief (1899) (140ft) 
+
+The Tramp and the Baby’s Bottle (1899) (214ft), 
+
+Women’s Rights (1899) (289ft), 
+
+A Kiss in the Tunnel (1899) (367ft), 
+
+Boy’s Cricket Match and Fight (1900) (475ft), 
+
+[… real example shortened] 
+
+End
+</code></pre>
+<p>!!! example “Example”
+Title: Magnificent Reproductions of the Great Yorkshire Show in Bradford (1901)</p>
+<pre><code>Mitchell &amp; Kenyon 641: Panning shot across a road to the Yorkshire Agricultural Society building with a diffuse crowd of people in front of the building. As the shot passes the building, a number of people can be seen sitting down, including mothers with babies and some older people (00.36). Cut to a close-up shot of the building, with a sign reading “The Yorkshire Agricultural Society. Established 1837” (00.45). Cut to a horse-drawn cart spraying some sort of liquid on the path as it moves along. Lettering on the back of the cart reads “Bradford City Council no. 30” (00.58). Cut to wide steps, with a number of smartly dressed men walking down them (presumably entering the show) (01.14). Cut to a shot of the blades of a windmill as they turn (01.23). Cut to a general shot of the show, with crowds and various stalls (02.07). A marquee in the background has the sign “R. Hornsby &amp; Sons Ltd., Grantham”. Another sign reads “Marshall. Sons &amp; Co.”. Chimneys and houses can be seen in the background (02.27min).
+</code></pre>
+<p>The content description can be based on a viewing of the work, accompanying documentation, or secondary sources, but the source should be clearly noted.</p>
+<p>For unedited Works, where time and resources permit, each scene should be summarized.
+If there are shots of particular significance or interest – of, for example, prominent people or places – these should be recorded.
+Otherwise a general description of scenes and sequences will suffice<sup class="footnote-reference" id="fr-13-1"><a href="#footnote-13">14</a></sup>.</p>
+<p>If applicable, add information about the content of the moving image Variant where it differs from the content of the Work.</p>
+<p><a id="sec-content_description_type"></a></p>
+<h3 id="content-description-type"><a class="header" href="#content-description-type">Content Description Type</a></h3>
+<p>Include a qualifying keyword or otherwise denote the type of summary (e.g. Synopsis, Shotlist, Review).<sup class="footnote-reference" id="fr-14-1"><a href="#footnote-14">15</a></sup></p>
+<p><a id="sec-notes"></a></p>
+<h2 id="notes"><a class="header" href="#notes">Notes</a></h2>
+<p>Notes for moving image Works/Variants are annotations providing additional information or clarification relating specifically to Works/Variants attributes and relationships.<sup class="footnote-reference" id="fr-15-1"><a href="#footnote-15">16</a></sup> See <a href="/appendices/cataloguers-notes/">Cataloguer’s Notes</a>.</p>
+<p><a id="sec-history"></a></p>
+<h2 id="history"><a class="header" href="#history">History</a></h2>
+<p>Record historical information about events of interest in the creation of the original moving image Work/Variant that is of value for your users, such as censorship history, production versions, and the like.
+This historical information may be recorded in association with instances of Events or Agents.</p>
+<p>If desired, institutions may include historical information that crosses over into being about the Manifestation(s) and/or Item(s).
+This may be done where there is value to the user in keeping all the information together for research or clarification purposes rather than across disparate Manifestation and Item records.
+This may also be applied where no History fields exist in an institution’s system at Manifestation or Item levels, or a no hierarchy one level structure is used.</p>
+<p>!!! example “Example”
+Christopher Columbus (United Kingdom, 1949, David MacDonald)</p>
+<pre><code>There are three documented versions. Version one: which has the shortened reels 3A and 3B; Version two: which has the shorter ending; Version three: which has the long ending (this script is based on the full length reels 3A and 3B and on the short ending, as this is the export version.
+The short ending (version two) has Columbus reinstated by the King and Queen, him leaving their presence and telling Juana he will be remembered longer than the monarchs as he walks down a corridor. The longer version (version three) has a more American feel with two sailors informing Columbus of the great nation his discovery will give rise to, complete with quotes from Jefferson, Lincoln and Roosevelt.
+</code></pre>
+<p><a id="sec-custodial_history"></a></p>
+<h3 id="custodial-history"><a class="header" href="#custodial-history">Custodial History</a></h3>
+<p>If desired, write a brief custodial history of the Work/Variant if known, particularly for rare and unique materials.
+Indicate the current holding institution of the original or master material if known.</p>
+<p>Information on the provenance of the specific Items in an archive’s collection should be included in the Item sections.</p>
+<p><a id="sec-censorship_history"></a></p>
+<h3 id="censorship-history"><a class="header" href="#censorship-history">Censorship History</a></h3>
+<p>Document information related to the censorship history of a Work/Variant, including:<sup class="footnote-reference" id="fr-16-1"><a href="#footnote-16">17</a></sup></p>
+<ul>
+<li>
+<p>Any events in which a Manifestation/Item of a Work/Variant was evaluated by a censorship body or an accredited rating agency.</p>
+</li>
+<li>
+<p>The geographic region for which the verdict is (was) valid.</p>
+</li>
+<li>
+<p>Any identifier issued by the agency uniquely identifying the act of rating or censorship and associated documents such as censorship visa or rating certificates.</p>
+</li>
+<li>
+<p>The outcome of the act of rating or censorship.</p>
+</li>
+</ul>
+<p>!!! example “Example”
+À bout de souffle (France, 1960, Jean-Luc Godard)</p>
+<pre><code>In Italy, this film has three different theatrical distributions, corresponding to three different visas (“visto di censura”) from the official censorship body (Ufficio di revisione cinematografica). 
+
+Censored Variant: Theatrical distribution in Italy – censorship visa n. 32329 – date: 1960-07-05 – Length 2463m – original French – not for under 16 years 
+
+Dubbed, Censored Variant: Theatrical distribution in Italy – censorship visa n. 57609 – date: 1971-01-23 – Length 2440m. – Italian 
+
+Dubbed, Censored Variant: Theatrical distribution in Italy– censorship visa n. 64662 – date: 1974-05-20 – Length 2430m. – Italian dubbed
+</code></pre>
+<p><a id="sec-other_work_variant_history"></a></p>
+<h3 id="other-workvariant-history"><a class="header" href="#other-workvariant-history">Other Work/Variant History</a></h3>
+<p>Any other relevant information or clarifications pertaining to the Work/Variant.</p>
+<p><em>Any changes of director, crew, or cast part-way through production.</em></p>
+<p>!!! example “Example”
+Tosca (Italy, 1939, Karl Koch) The film was started by Jean Renoir, but after beginning, Renoir escaped to France because of World War II. The film was completed by his assistant Karl Koch, with Luchino Visconti as assistant.</p>
+<p><em>Any demise of members of the cast or crew associated with the production.</em></p>
+<p>!!! example “Example”
+Foolish Wives (United States of America, 1922, Erich von Stroheim) Actor Rudolph Christians died in mid-shooting; replaced by Robert Edenson who is used mainly as a double.</p>
+<p><em>Explanations regarding length of time between production and release, e.g., due to funding issues, an initial banning, delayed release due to sensitivity over subject matter and world events, etc.</em></p>
+<p>!!! example “Example”
+La porta del cielo (Italy, 1945, Vittorio De Sica) The shooting of the film lasted almost one year (February – November 1944) throughout the period of Nazi occupation of Rome and served as an excuse to hide and protect Jewish people, anti-fascists, etc…</p>
+<p>!!! example “Example”
+La grande illusion (France, 1937, Jean Renoir) The shooting of the film lasted two years (1935-1936) and the first projection was in 1937.</p>
+<p><em>Any other information relevant to the history of the Work and its production.</em></p>
+<p>!!! example “Example”
+Christopher Columbus (United Kingdom, 1949, David MacDonald) Location shooting in Barbados was fraught with difficulties. The re-created ship stuck on launch, was then later rammed, suffered mechanical failure and finally caught fire. The stand-in ship was then lost at sea twice. Location shooting was hampered by the heat and the local gaol had to be used to keep the Technicolor film cool. There was also a troublesome parrot that would shout “tea break” during a dramatic scene.</p>
+<hr>
+<ol class="footnote-definition">
+<li id="footnote-1">
+<p>EN 15907, 6.5 Country of Reference, p. 19 <a href="#fr-1-1">↩</a></p>
+</li>
+<li id="footnote-2">
+<p>The certification of “Italian nationality” is provided by the law/decree 2004, n. 28, part. 5 (but already provided in the former law 1213/1965).
+According to the 2004 law, the biggest part of the cast and crew, the locations, and the technical facilities have to be Italian, and 30% of the budget has to be spent in Italy. There is a number of exceptions for artistic reasons and in case of co-productions. <a href="#fr-2-1">↩</a></p>
+</li>
+<li id="footnote-3">
+<p>The first of these was the formula followed by the British Film Institute. BFI CID Stylistics Manual – 2nd Edition. A.8.1., which subsequently changed to using a country of reference ordering based more on the on-screen ordering of production companies. CID Cataloguing Manual|Moving Image Catalogue (revised 2022). F.4 and F.4.1. <a href="#fr-3-1">↩</a></p>
+</li>
+<li id="footnote-4">
+<p>http://www.iso.org/iso/home/standards/country_codes.htm <a href="#fr-4-1">↩</a></p>
+</li>
+<li id="footnote-5">
+<p>ISO 3166-3 Codes for the representation of names of countries and their subdivisions – Part 3: Code for formerly used names of countries, is available for purchase as a PDF on the ISO website: <a href="http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=2130">http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=2130</a> <a href="#fr-5-1">↩</a></p>
+</li>
+<li id="footnote-200">
+<p>SSRs were often officially formed on different dates between 1918 and the 1930s, and there were also often subsequent boundary changes between them. For further exploration of this see ADD LINK TO CDC FIAF website Ukraine document if latter has been enhanced with additional details <a href="#fr-200-1">↩</a></p>
+</li>
+<li id="footnote-6">
+<p>EN 15907, 6.6 Year of Reference, p. 20 <a href="#fr-6-1">↩</a></p>
+</li>
+<li id="footnote-7">
+<p>Irish Film Archive, p. 13. <a href="#fr-7-1">↩</a></p>
+</li>
+<li id="footnote-8">
+<p>FIAF, 3.5.4, p. 64 <a href="#fr-8-1">↩</a></p>
+</li>
+<li id="footnote-10">
+<p>The indication of “original” values at the Manifestation level follows EN 15907 attributes of a Manifestation, pp. 10-11 <a href="#fr-10-1">↩</a></p>
+</li>
+<li id="footnote-9">
+<p>Adapted from YCR, 1.2.16 Summary of genre, form, and subject matter of work, p. 38. <a href="#fr-9-1">↩</a></p>
+</li>
+<li id="footnote-11">
+<p>FIAF 7.2.12. Summary <a href="#fr-11-1">↩</a></p>
+</li>
+<li id="footnote-12">
+<p>FIAF 7.2.16. Contents <a href="#fr-12-1">↩</a></p>
+</li>
+<li id="footnote-13">
+<p>Irish Film Archive, p. 23. <a href="#fr-13-1">↩</a></p>
+</li>
+<li id="footnote-14">
+<p>EN 15907, 6.17.3 Elements, Description type, p. 30. <a href="#fr-14-1">↩</a></p>
+</li>
+<li id="footnote-15">
+<p>Based on RDA 2.20.1.Basic Instructions on Making Notes on Manifestations or Items <a href="#fr-15-1">↩</a></p>
+</li>
+<li id="footnote-16">
+<p>EN 15907, 6.13 Decision event, pp. 26-27. <a href="#fr-16-1">↩</a></p>
+</li>
+</ol>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../../works/attributes_of_a_moving_image_work_variant/index.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg></span>
+                            </a>
+
+                            <a rel="next prefetch" href="../../works/relationships_of_a_work_variant/index.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"/></svg></span>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../../works/attributes_of_a_moving_image_work_variant/index.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg></span>
+                    </a>
+
+                    <a rel="next prefetch" href="../../works/relationships_of_a_work_variant/index.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"/></svg></span>
+                    </a>
+            </nav>
+
+        </div>
+
+        <template id=fa-eye><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M288 32c-80.8 0-145.5 36.8-192.6 80.6C48.6 156 17.3 208 2.5 243.7c-3.3 7.9-3.3 16.7 0 24.6C17.3 304 48.6 356 95.4 399.4C142.5 443.2 207.2 480 288 480s145.5-36.8 192.6-80.6c46.8-43.5 78.1-95.4 93-131.1c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C433.5 68.8 368.8 32 288 32zM432 256c0 79.5-64.5 144-144 144s-144-64.5-144-144s64.5-144 144-144s144 64.5 144 144zM288 192c0 35.3-28.7 64-64 64c-11.5 0-22.3-3-31.6-8.4c-.2 2.8-.4 5.5-.4 8.4c0 53 43 96 96 96s96-43 96-96s-43-96-96-96c-2.8 0-5.6 .1-8.4 .4c5.3 9.3 8.4 20.1 8.4 31.6z"/></svg></span></template>
+        <template id=fa-eye-slash><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M38.8 5.1C28.4-3.1 13.3-1.2 5.1 9.2S-1.2 34.7 9.2 42.9l592 464c10.4 8.2 25.5 6.3 33.7-4.1s6.3-25.5-4.1-33.7L525.6 386.7c39.6-40.6 66.4-86.1 79.9-118.4c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C465.5 68.8 400.8 32 320 32c-68.2 0-125 26.3-169.3 60.8L38.8 5.1zM223.1 149.5C248.6 126.2 282.7 112 320 112c79.5 0 144 64.5 144 144c0 24.9-6.3 48.3-17.4 68.7L408 294.5c5.2-11.8 8-24.8 8-38.5c0-53-43-96-96-96c-2.8 0-5.6 .1-8.4 .4c5.3 9.3 8.4 20.1 8.4 31.6c0 10.2-2.4 19.8-6.6 28.3l-90.3-70.8zm223.1 298L373 389.9c-16.4 6.5-34.3 10.1-53 10.1c-79.5 0-144-64.5-144-144c0-6.9 .5-13.6 1.4-20.2L83.1 161.5C60.3 191.2 44 220.8 34.5 243.7c-3.3 7.9-3.3 16.7 0 24.6c14.9 35.7 46.2 87.7 93 131.1C174.5 443.2 239.2 480 320 480c47.8 0 89.9-12.9 126.2-32.5z"/></svg></span></template>
+        <template id=fa-copy><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M502.6 70.63l-61.25-61.25C435.4 3.371 427.2 0 418.7 0H255.1c-35.35 0-64 28.66-64 64l.0195 256C192 355.4 220.7 384 256 384h192c35.2 0 64-28.8 64-64V93.25C512 84.77 508.6 76.63 502.6 70.63zM464 320c0 8.836-7.164 16-16 16H255.1c-8.838 0-16-7.164-16-16L239.1 64.13c0-8.836 7.164-16 16-16h128L384 96c0 17.67 14.33 32 32 32h47.1V320zM272 448c0 8.836-7.164 16-16 16H63.1c-8.838 0-16-7.164-16-16L47.98 192.1c0-8.836 7.164-16 16-16H160V128H63.99c-35.35 0-64 28.65-64 64l.0098 256C.002 483.3 28.66 512 64 512h192c35.2 0 64-28.8 64-64v-32h-47.1L272 448z"/></svg></span></template>
+        <template id=fa-play><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M73 39c-14.8-9.1-33.4-9.4-48.5-.9S0 62.6 0 80V432c0 17.4 9.4 33.4 24.5 41.9s33.7 8.1 48.5-.9L361 297c14.3-8.7 23-24.2 23-41s-8.7-32.2-23-41L73 39z"/></svg></span></template>
+        <template id=fa-clock-rotate-left><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M75 75L41 41C25.9 25.9 0 36.6 0 57.9V168c0 13.3 10.7 24 24 24H134.1c21.4 0 32.1-25.9 17-41l-30.8-30.8C155 85.5 203 64 256 64c106 0 192 86 192 192s-86 192-192 192c-40.8 0-78.6-12.7-109.7-34.4c-14.5-10.1-34.4-6.6-44.6 7.9s-6.6 34.4 7.9 44.6C151.2 495 201.7 512 256 512c141.4 0 256-114.6 256-256S397.4 0 256 0C185.3 0 121.3 28.7 75 75zm181 53c-13.3 0-24 10.7-24 24V256c0 6.4 2.5 12.5 7 17l72 72c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9l-65-65V152c0-13.3-10.7-24-24-24z"/></svg></span></template>
+
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../../elasticlunr-ef4e11c1.min.js"></script>
+        <script src="../../mark-09e88c2c.min.js"></script>
+        <script src="../../searcher-09f2665d.js"></script>
+
+        <script src="../../clipboard-1626706a.min.js"></script>
+        <script src="../../highlight-abc7f01d.js"></script>
+        <script src="../../book-c22b7243.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+
+    </div>
+    </body>
+</html>

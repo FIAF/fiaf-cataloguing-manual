@@ -1,0 +1,1691 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>FIAF Moving Image Cataloguing Manual</title>
+        <meta name="robots" content="noindex">
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon-de23e50b.svg">
+        <link rel="shortcut icon" href="favicon-8114d1fc.png">
+        <link rel="stylesheet" href="css/variables-8adf115d.css">
+        <link rel="stylesheet" href="css/general-0392ca55.css">
+        <link rel="stylesheet" href="css/chrome-fc474251.css">
+        <link rel="stylesheet" href="css/print-9e4910d8.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="fonts/fonts-9644e21d.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" id="mdbook-highlight-css" href="highlight-493f70e1.css">
+        <link rel="stylesheet" id="mdbook-tomorrow-night-css" href="tomorrow-night-4c0ae647.css">
+        <link rel="stylesheet" id="mdbook-ayu-highlight-css" href="ayu-highlight-3fdfc3ac.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+        <!-- Provide site root and default themes to javascript -->
+        <script>
+            const path_to_root = "";
+            const default_light_theme = "light";
+            const default_dark_theme = "navy";
+            window.path_to_searchindex_js = "searchindex-41eada1d.js";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="toc-5e47642e.js"></script>
+    </head>
+    <body>
+    <div id="mdbook-help-container">
+        <div id="mdbook-help-popup">
+            <h2 class="mdbook-help-title">Keyboard shortcuts</h2>
+            <div>
+                <p>Press <kbd>←</kbd> or <kbd>→</kbd> to navigate between chapters</p>
+                <p>Press <kbd>S</kbd> or <kbd>/</kbd> to search in the book</p>
+                <p>Press <kbd>?</kbd> to show this help</p>
+                <p>Press <kbd>Esc</kbd> to hide this help</p>
+            </div>
+        </div>
+    </div>
+    <div id="mdbook-body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                let theme = localStorage.getItem('mdbook-theme');
+                let sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            const default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? default_dark_theme : default_light_theme;
+            let theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="mdbook-sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            let sidebar = null;
+            const sidebar_toggle = document.getElementById("mdbook-sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+                sidebar_toggle.checked = false;
+            }
+            if (sidebar === 'visible') {
+                sidebar_toggle.checked = true;
+            } else {
+                html.classList.remove('sidebar-visible');
+            }
+        </script>
+
+        <nav id="mdbook-sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="toc.html"></iframe>
+            </noscript>
+            <div id="mdbook-sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="mdbook-page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="mdbook-menu-bar-hover-placeholder"></div>
+                <div id="mdbook-menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="mdbook-sidebar-toggle" class="icon-button" for="mdbook-sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="mdbook-sidebar">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M0 96C0 78.3 14.3 64 32 64H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H416c17.7 0 32 14.3 32 32z"/></svg></span>
+                        </label>
+                        <button id="mdbook-theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="mdbook-theme-list">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M371.3 367.1c27.3-3.9 51.9-19.4 67.2-42.9L600.2 74.1c12.6-19.5 9.4-45.3-7.6-61.2S549.7-4.4 531.1 9.6L294.4 187.2c-24 18-38.2 46.1-38.4 76.1L371.3 367.1zm-19.6 25.4l-116-104.4C175.9 290.3 128 339.6 128 400c0 3.9 .2 7.8 .6 11.6c1.8 17.5-10.2 36.4-27.8 36.4H96c-17.7 0-32 14.3-32 32s14.3 32 32 32H240c61.9 0 112-50.1 112-112c0-2.5-.1-5-.2-7.5z"/></svg></span>
+                        </button>
+                        <ul id="mdbook-theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-default_theme">Auto</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-ayu">Ayu</button></li>
+                        </ul>
+                        <button id="mdbook-search-toggle" class="icon-button" type="button" title="Search (`/`)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="/ s" aria-controls="mdbook-searchbar">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352c79.5 0 144-64.5 144-144s-64.5-144-144-144S64 128.5 64 208s64.5 144 144 144z"/></svg></span>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">FIAF Moving Image Cataloguing Manual</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <span class=fa-svg id="print-button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M128 0C92.7 0 64 28.7 64 64v96h64V64H354.7L384 93.3V160h64V93.3c0-17-6.7-33.3-18.7-45.3L400 18.7C388 6.7 371.7 0 354.7 0H128zM384 352v32 64H128V384 368 352H384zm64 32h32c17.7 0 32-14.3 32-32V256c0-35.3-28.7-64-64-64H64c-35.3 0-64 28.7-64 64v96c0 17.7 14.3 32 32 32H64v64c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V384zm-16-88c-13.3 0-24-10.7-24-24s10.7-24 24-24s24 10.7 24 24s-10.7 24-24 24z"/></svg></span>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="mdbook-search-wrapper" class="hidden">
+                    <form id="mdbook-searchbar-outer" class="searchbar-outer">
+                        <div class="search-wrapper">
+                            <input type="search" id="mdbook-searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="mdbook-searchresults-outer" aria-describedby="searchresults-header">
+                            <div class="spinner-wrapper">
+                                <span class=fa-svg id="fa-spin"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M304 48c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zm0 416c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zM48 304c26.5 0 48-21.5 48-48s-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48zm464-48c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zM142.9 437c18.7-18.7 18.7-49.1 0-67.9s-49.1-18.7-67.9 0s-18.7 49.1 0 67.9s49.1 18.7 67.9 0zm0-294.2c18.7-18.7 18.7-49.1 0-67.9S93.7 56.2 75 75s-18.7 49.1 0 67.9s49.1 18.7 67.9 0zM369.1 437c18.7 18.7 49.1 18.7 67.9 0s18.7-49.1 0-67.9s-49.1-18.7-67.9 0s-18.7 49.1 0 67.9z"/></svg></span>
+                            </div>
+                        </div>
+                    </form>
+                    <div id="mdbook-searchresults-outer" class="searchresults-outer hidden">
+                        <div id="mdbook-searchresults-header" class="searchresults-header"></div>
+                        <ul id="mdbook-searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('mdbook-sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('mdbook-sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#mdbook-sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="mdbook-content" class="content">
+                    <main>
+                        <h1 id="home"><a href="#home" class="header">Home</a></h1>
+<p>The FIAF Moving Image Cataloguing Manual (2016), published by the <a href="https://www.fiafnet.org/pages/Community/Cataloguing-Documentation-Commission.html">FIAF Cataloguing and Documentation Commission (CDC)</a>, is available for free in this online edition.</p>
+<p>The FIAF Moving Image Cataloguing Manual is the result of many years of labor and collaboration with numerous professionals in the moving image field. It is more than a simple revision of <a href="https://www.fiafnet.org/images/tinyUpload/E-Resources/Commission-And-PIP-Resources/CDC-resources/FIAF_Cat_Rules.pdf"><em>The FIAF Cataloguing Rules for Film Archives</em> (1991)</a>, as it needed to address the changes in information technology that we’ve seen over the past two decades, and align with existing and emerging metadata standards. Although it is specialized in focus, and draws from modern concepts and standards such as FRBR (Functional Requirements for Bibliographic Records), EN 15907, and RDA (Resource Description and Access), it is designed to be compatible with a variety of data structures. It provides charts, decision trees, examples, and other tools to help experts and non-experts alike in performing real-world cataloguing of moving image collections.</p>
+<p>If you have any questions or feedback, please contact <a href="mailto:cdc@fiafnet.org">cdc@fiafnet.org</a>.</p>
+<p>Happy cataloguing!</p>
+<p>~</p>
+<p>The FIAF Moving Image Cataloguing Manual</p>
+<p>Written by Natasha Fairbairn, Maria Assunta Pimpinelli, Thelma Ross</p>
+<p>Edited by Linda Tadic</p>
+<p>Project Manager: Nancy Goldman for the FIAF Cataloguing and Documentation Commission</p>
+<p>April 2016</p>
+<p><a href="https://creativecommons.org/licenses/by-nc/4.0/"><img src="https://licensebuttons.net/l/by-nc/4.0/88x31.png" alt="License: CC BY-NC 4.0"></a></p>
+<div style="break-before: page; page-break-before: always;"></div>
+<h1 id="dedication"><a href="#dedication" class="header">Dedication</a></h1>
+<p>This manual is dedicated to <strong>Christian Dimitriu</strong> (1945-2016), whose contributions to the field of moving image archiving and FIAF, are immeasurable; and to <strong>Ronny Loewy</strong> (1946-2012), whose knowledge of moving image metadata standards was a primary and crucial source of information during the development of this publication; and to <strong>Laurent Bismuth</strong> (1965-2021), a passionate advocate of CEN 15907 standard whose extensive cataloguing knowledge and expertise and contributions in discussions during the compilation of this publication were invaluable.</p>
+<div style="break-before: page; page-break-before: always;"></div>
+<h1 id="acknowledgements"><a href="#acknowledgements" class="header">Acknowledgements</a></h1>
+<p><a id="sec-acknowledgements"></a></p>
+<p>This manual is a result of the combined efforts of many professionals to whom we owe our gratitude.</p>
+<p>Contributors to early, formative discussions that informed the basis for our approach include Anna Bohn, Marco Rendina, Rosario López de Prado, Anne-Marie Grapton, Andrea Leigh, and Kelley McGrath.</p>
+<p>Many professionals from the FIAF Cataloguing Rules Revision Working Group graciously volunteered their knowledge and experience to the review of this manual.
+A special thanks to Laurent Bismuth, Georg Eckes, and Detlev Balzer for their thoughtful suggestions for improvement.
+We also appreciate Detlev for hosting the FIAF Cataloguing and Documentation Commission (CDC) wiki on his filmstandards.org website.</p>
+<p>Several of the illuminating charts and examples, and other formatting needs (such as URLs) were kindly handled by Marian Hausner, Mats Skärstrand, and Miriam Campos-Quinn.
+Marian Hausner also did a painstaking job constructing the bibliography.</p>
+<p>This work could not have been done without the support and guidance of the British Film Institute who contributed institutional policies and documents for our use.
+In particular, we want to mention Gabriele Popp, who encouraged and supported BFI staff involvement, and Stephen McConnachie, who generously contributed content and freely gave of his time and knowledge.</p>
+<p>We thank current and former members of the CDC, the members of the FIAF Executive Committee, and the FIAF Senior Administrator for their support, especially Christophe Dupin, Rachael Stoeltje, and Olga Futemma.</p>
+<p>A very special thank you is owed to Nancy Goldman, who managed numerous steps of the project, such as convening and chairing meetings and guiding the project’s development.
+She also contributed to the authoring of the manual and invested many hours in providing valuable insight and constructive criticism.</p>
+<p>Lastly, we are indebted to Linda Tadic, who did a superb job of editing the manual and offered us the wisdom of her expertise, especially in the realm of digital media; and also to designer Lara Denil for all her hard work in improving and transforming the final layout of the manual for publication.</p>
+<p>Natasha Fairbairn (Co-author)<br>Maria Assunta Pimpinelli (Co-author ; co-Chair, FIAF Rules Revision)<br>Thelma Ross (Co-author ; co-Chair, FIAF Rules Revision)</p>
+<div style="break-before: page; page-break-before: always;"></div>
+<h1 id="quick-guide-for-new-archivists"><a href="#quick-guide-for-new-archivists" class="header">Quick Guide for New Archivists</a></h1>
+<p>Here are some recommendations if you are new or start from scratch. Please keep in mind that these are my own views, but I think they might help:</p>
+<ol>
+<li>
+<p>Write down your in-house cataloguing rules for everyone to use and revise and update over time.</p>
+</li>
+<li>
+<p>When you start from scratch: Inventory first, then work in layers. Don’t always go for the perfect catalogued record at the point of creation; all required data and information may not be immediately available and records can always be added to and enhanced gradually or later.</p>
+</li>
+<li>
+<p>Use Identifiers, i.e. unique identifiers such as an assigned record number and/or ones from other agencies such as EIDR, ISAN, VIAF, etc.</p>
+</li>
+<li>
+<p>Use and cite references and sources for your data wherever possible.</p>
+</li>
+<li>
+<p>Your data is not neutral, reflect your choices, but don’t hide the humans behind the data.</p>
+</li>
+<li>
+<p>Embrace your legacy data and institutional history - and then make a plan to bring it into your database! Contextualise it.</p>
+</li>
+<li>
+<p>Have more than one cataloguer if you can - the database and data quality is a shared responsibility.</p>
+</li>
+<li>
+<p>Since we mentioned it: ideally HAVE at least one professional cataloguer in your institution and someone responsible for maintaining controlled terms/vocabularies.</p>
+</li>
+<li>
+<p>Share your data even if it is incomplete or even incorrect. We have all been there. Update where you can and whenever you can.</p>
+</li>
+<li>
+<p>Enjoy the beauty of a nicely catalogued data record. It keeps you going.</p>
+</li>
+</ol>
+<p>Adelheid Heftberger
+Head of the CDC</p>
+<div style="break-before: page; page-break-before: always;"></div>
+<h1 id="introduction"><a href="#introduction" class="header">Introduction</a></h1>
+<p><a id="sec-introduction"></a></p>
+<p>The archival moving image field has changed dramatically in recent years, with technological advances revolutionising cataloguing, preservation, and access practices.
+To help cataloguers and archivists respond to these changes, FIAF presents the <em>FIAF Moving Image Cataloguing Manual (FIAF Manual)</em>, a revision of the 1991 <em>FIAF Cataloguing Rules for Film Archives (FIAF Rules)</em>.
+These new guidelines, created by the FIAF Cataloguing and Documentation Commission and the FIAF Cataloguing Rules Revision Working Group, will help cataloguers create cataloguing or metadata records that will meet requirements of new database technologies and new metadata standards while remaining compatible with older methods and standards.</p>
+<p>The Manual offers primarily descriptive cataloguing rules rather than a schema of data elements.
+However, it is difficult to discuss rules without mentioning data elements where the rules would be applied (e.g., Title, Date, etc.).
+Thus, the Manual by default provides both a metadata structure (fields or elements) and rules in how to input the values the fields contain.
+It reflects current and recommended cataloguing practices at international film archives represented on the Commission with the goal of interoperability with related cataloguing and metadata standards.</p>
+<p>The cataloguing of moving images encompasses the complex, professional tasks of gathering and arranging data within systems upon which an institution depends.
+Indeed, accurate, well-organised descriptions of both filmographic and technical information about an institution’s collection serve as the basis for informed internal use such as preservation, collections development, and outreach or exhibition.
+They further constitute the key to accessing collections by external users such as scholars, researchers and the general public – both now and for future generations.<sup class="footnote-reference" id="fr-1-1"><a href="#footnote-1">1</a></sup></p>
+<p>Cataloguing archival moving images combines general archival processing methodologies and traditional library cataloguing.
+The process of archiving moving images applies practices held in common with archiving other materials such as papers and manuscripts.
+The materials’ origin or provenance is a key element to understanding their significance.
+Their historical context shows their relationship(s) to other works and, in cases of works with multiple manifestations, the development of individual works.
+Knowledge of this historical context and development of materials can be useful in their preservation.<sup class="footnote-reference" id="fr-2-1"><a href="#footnote-2">2</a></sup> An attempt has been made throughout the guidelines to address capturing provenance and preservation information.</p>
+<p>This manual is intended to address some of the limitations moving image archives face when using guidelines and systems developed primarily for general libraries.</p>
+<p>General library catalogues are built to support the discovery of a specific publication and its various editions.
+This discovery is facilitated by a focus on the creation of access points to author, title and/or subject.
+Many libraries catalogue through bibliographic utilities to pool effort by sharing records of these single publications.
+While this shared bibliographic model works well for libraries, since many will have exact copies of the same publication, it does not  provide all the functions that moving image archives need.
+Because moving image archives’ collections often include unique or rare holdings, such as pre-print elements, master prints, and unreleased material in addition to viewing copies, they need catalogues that go beyond the functions of a library catalogue to meet many of the collection management needs of archives.
+The FIAF Manual is intended to provide guidance in creating metadata or cataloguing records that fulfill these collection management functions.</p>
+<p>It is recognised that institutions use a variety of systems and data structures and may find it difficult to implement far-ranging changes in their cataloguing practices. The revisions suggested in this manual will help archives harmonise their practices with related standards, models, and schema as far as possible.</p>
+<p><a id="sec-relationship_of_fiaf_cataloguing_rules_to_functional_requirements"></a></p>
+<h2 id="relationship-of-fiaf-cataloguing-rules-to-functional-requirements-of-bibliographic-records-frbr-resource-description-and-access-rda-and-the-european-standards-committee-cen-cinematographic-works-standard-en-15907"><a class="header" href="#relationship-of-fiaf-cataloguing-rules-to-functional-requirements-of-bibliographic-records-frbr-resource-description-and-access-rda-and-the-european-standards-committee-cen-cinematographic-works-standard-en-15907">Relationship of FIAF Cataloguing Rules to Functional Requirements of Bibliographic Records (FRBR), Resource Description and Access (RDA) and The European Standards Committee (CEN) Cinematographic Works Standard EN 15907</a></h2>
+<p>The authors of this manual have chosen to focus on current standards and practices, such as those outlined in FRBR, RDA, and EN 15907, while expanding them to be more specific and granular regarding the particular needs of moving image cataloguing. Listed below are some of the key attributes of these standards and their relationship to recommendations in the FIAF Cataloguing Manual.</p>
+<ol>
+<li>
+<p>The conceptual model Functional Requirements for Bibliographic Records (FRBR), published in 1998 by the International Federation of Libraries Association. FRBR is one of the models underlying RDA: Resource Description and Access<sup class="footnote-reference" id="fr-3-1"><a href="#footnote-3">3</a></sup>, and it provides “a framework that identifies and clearly defines the entities of interest to users of bibliographic records, the attributes of each entity, and the types of relationships that operate between entities.”<sup class="footnote-reference" id="fr-4-1"><a href="#footnote-4">4</a></sup></p>
+</li>
+<li>
+<p>RDA: Resource Description and Access (RDA), co-published in 2010 by the American Library Association, the Canadian Library Association, and Chartered Institute of Library and Information Professionals. RDA was developed as a new standard for resource description and access designed for the digital world, and applies FRBR concepts and terminologies. It is intended to eventually supplant Anglo-American Cataloguing Rules (AACR2), which has been the descriptive cataloguing standard in English-speaking communities since the 1960s. Like AACR2, RDA covers all types of content and media.<sup class="footnote-reference" id="fr-5-1"><a href="#footnote-5">5</a></sup></p>
+</li>
+<li>
+<p>The European Standards Committee (CEN) Cinematographic Works Standard (CWS) (EN 15744 and EN 15907). This two-part standard defines the metadata essential for facilitating data exchange between databases and consistent identification of moving images. The metadata schema (EN 15907), which is based in part upon the FRBR conceptual model, was approved in 2010 and disseminated through four workshops held from October 2010 – June 2011. Brief definitions of key elements in the FRBR-based CEN model are at the end of the Introduction.</p>
+</li>
+</ol>
+<p>Although these guidelines are structured to correspond closely with the above standards/models/schema, and use associated terminology, note that neither they nor these guidelines are system-specific.
+They cover the fundamentals for cataloguers for the construction and management of data and records in whatever system or standards used by an institution.</p>
+<p>While these guidelines are intended to be applicable to all forms of moving image materials, archives with extensive broadcasting collections may wish to look to broadcasting-specific metadata schemas such as EBUCore<sup class="footnote-reference" id="fr-6-1"><a href="#footnote-6">6</a></sup> and PBCore<sup class="footnote-reference" id="fr-7-1"><a href="#footnote-7">7</a></sup> for additional guidance.</p>
+<p><strong>FRBR-based CEN Terms in Brief</strong></p>
+<p>These guidelines use the terminology of CEN Cinematographic Works Standards for terms reflecting the core structuring of moving image records - namely Work, Variant, Manifestation and Item.</p>
+<p><em>Work</em></p>
+<p>An entity comprising the intellectual or artistic content and the process of realisation in a cinematographic medium, e.g., what the moving image is called, when it was made, who made it, who was in it, what it is about, etc. This core information usually does not change throughout any Variant or Manifestation.</p>
+<p><em>Variant</em></p>
+<p>An entity that may be used to indicate any change to content-related characteristics that do not significantly change the overall content of a Work as a whole.
+This is similar to a Work since it does not yet describe physical or digital embodiments of the content.
+For example: A film edited for television broadcast will contain most of the content of the original Work, but have some parts edited out.</p>
+<p><em>Manifestation</em></p>
+<p>The embodiment of a moving image Work/Variant.
+Manifestations include all analogue, digital and online media.
+Manifestation information can include a description of what the particular Manifestation should ideally contain, regardless of the Items held in the archive.
+For example: The original release running time of a film is 1:30:00, but the Item held at the archive is missing footage so is shorter.</p>
+<p><em>Item</em></p>
+<p>The physical product of a Manifestation of a Work or Variant, i.e. the physical copy of a Work or Variant.
+An Item may consist of one or more components, i.e. the whole Item may consist of 1 reel or 5 reels, 2 VHS tapes or 1 DVD.
+An Item record may contain fields or scope for separate barcodes and condition information for each component of the item (each reel for example) if required.The Item may be whole or incomplete or a fragment.
+In the case of purely digital media, an Item is defined as the availability of the computer file, irrespective of the number of backup copies that may exist.<sup class="footnote-reference" id="fr-8-1"><a href="#footnote-8">8</a></sup></p>
+<p><a id="sec-entities"></a></p>
+<h3 id="entities"><a class="header" href="#entities">Entities</a></h3>
+<p>Functional Requirements for Bibliographic Records (FRBR) was published in 1998 by the International Federation of Libraries Association. It is based on the entity-attribute-relationship model of analysis, and has been incorporated into the structure of both RDA and EN 15907.</p>
+<p>FRBR identifies and defines three groups of entities:<sup class="footnote-reference" id="fr-9-1"><a href="#footnote-9">9</a></sup></p>
+<ul>
+<li>
+<p>Group 1 (products of intellectual or artistic endeavor)</p>
+<ul>
+<li>Work</li>
+<li>Expression</li>
+<li>Manifestation</li>
+<li>Item</li>
+</ul>
+</li>
+<li>
+<p>Group 2 (responsible for content, production, or custodianship of Group 1 entities)</p>
+<ul>
+<li>Person</li>
+<li>Corporate Body</li>
+</ul>
+</li>
+<li>
+<p>Group 3 (may serve as subjects of Group 1 entities)</p>
+<ul>
+<li>Group 1 and 2 entities</li>
+<li>Concept</li>
+<li>Object</li>
+<li>Event</li>
+<li>Place</li>
+</ul>
+</li>
+</ul>
+<p>This manual focuses almost exclusively on the Group 1 entities, their attributes and relationships. Although it also briefly provides guidelines for the description of the Group 2 and Group 3 entities, we recommend the use of other manuals and appropriate existing national or international standards for more detail in these areas.</p>
+<p><a id="sec-existing_standards_for_describing_entities"></a></p>
+<h4 id="existing-standards-for-describing-entities"><a class="header" href="#existing-standards-for-describing-entities">Existing standards for describing Entities</a></h4>
+<p>Existing standards for describing Entities include:</p>
+<ul>
+<li>
+<p>RDA</p>
+<ul>
+<li>Section 3: Person, Family, &amp; Corporate Body (Chapters 8-11)</li>
+<li>Section 4: Concept, Object, Event &amp; Place (Chapters 12-16)</li>
+<li>Appendix F: Additional Instructions on Names of Persons</li>
+</ul>
+</li>
+<li>
+<p>ISAAR (CPF): International Standard Archival Authority Record for Corporate Bodies, Persons and Families, 2nd Edition (<a href="http://www.ica.org/10203/standards/isaar-cpf-international-standard-archival-authority-record-for-corporate-bodies-persons-and-families-2nd-edition.html">http://www.ica.org/10203/standards/isaar-cpf-international-standard-archival-authority-record-for-corporate-bodies-persons-and-families-2nd-edition.html</a>) - International Council of Archives);</p>
+</li>
+<li>
+<p>EFG Metadata Schema &amp; Vocabularies – 3.6 Agent (<a href="http://www.efgproject.eu/guidelines_and_standards.php">http://www.efgproject.eu/guidelines_and_standards.php</a>)</p>
+</li>
+</ul>
+<p>Authority files</p>
+<ul>
+<li>
+<p>VIAF (The Virtual International Authority File)</p>
+</li>
+<li>
+<p>ISNI (International Standard Name Identifier (ISO 27729) – <a href="http://www.isni.org/">http://www.isni.org/</a></p>
+</li>
+<li>
+<p>IdREf (Identifiants et Référentiels) – <a href="http://www.icacds.org.uk/eng/ISAAR(CPF)2ed.pdf">http://www.icacds.org.uk/eng/ISAAR(CPF)2ed.pdf</a></p>
+</li>
+<li>
+<p>Library of Congress Subject Headings (LCSH) and the Library of Congress Genre-Form Thesaurus (LCGFT)</p>
+</li>
+</ul>
+<p><a id="sec-definitions_of_the_work_and_variant_entities"></a></p>
+<h4 id="definitions-of-the-work-and-variant-entities"><a class="header" href="#definitions-of-the-work-and-variant-entities">Definitions of the “Work” and ”Variant” Entities</a></h4>
+<p>The FIAF Cataloguing and Documentation Commission has chosen to model this manual on definitions of “Work” and “Variant” adopted by the European Standards Committee, rather than the FRBR and RDA definitions of “Work” and “Expression,” to make these concepts more practical for describing moving images. FRBR and RDA consider “works” and “expressions” to be abstract entities that only acquire physical characteristics at the “manifestation or “item” level. However, moving image “works” are more easily conceptualized as concrete entities. This is because a moving image work only becomes such through a complex process involving multiple contributors. This process results in a “fixed” or “expressed” object (whether analogue or digital) that typically combines a visual part (the moving image), and a textual part (the soundtrack or intertitles).<sup class="footnote-reference" id="fr-10-1"><a href="#footnote-10">10</a></sup> Therefore, the concept of a moving image work comprises both the content and the process of realisation in a moving image medium.<sup class="footnote-reference" id="fr-11-1"><a href="#footnote-11">11</a></sup></p>
+<p>Further, this manual continues to follow the precepts already outlined in Film Cataloguing and FIAF Cataloguing Rules for Film Archives by including the concept of “original.” The FIAF Cataloguing Rules for Film Archives recommend using the “original release title or broadcast title in the country of origin, i.e., the country of the principal offices of the production company or individual by whom the moving image work was made”<sup class="footnote-reference" id="fr-12-1"><a href="#footnote-12">12</a></sup> to identify a Work. “Owing to the complex interrelationships of persons and corporate bodies in the creation of a moving image work, the original release or broadcast title is chosen as the single element which can provide the level of consistency and standardisation requisite for any national and international networking or sharing of cataloguing data.”<sup class="footnote-reference" id="fr-13-1"><a href="#footnote-13">13</a></sup></p>
+<p>Likewise, the “original” defined here contains characteristics that persist across any variation or output of a moving image work and that reflect the original intentions of its realisation, including: circumstances of the creation process such as date(s) and place(s) of production, most contributions by agents such as directors, screenwriters, production companies and cast members, as well as certain statements about the contents.<sup class="footnote-reference" id="fr-14-1"><a href="#footnote-14">14</a></sup></p>
+<p>In this way, a moving image work as a concept is closer to a combining of FRBR and RDA’s work and expression entities. This definition also aligns closely with the concept of “work primary expression” formulated by the Online Audiovisual Catalogers (OLAC) Cataloging Policy Committee (CAPC) Moving Image Work-Level Records Task Force and the CEN’s EN 15907. A primary difference here is that EN 15907 specifies for the concept of “original” to be expressed in association with an instance of a Manifestation that embodies the original Work.</p>
+<p>The use of the term “variant” is not a mere substitute for the term “expression.” In the context of moving images, variants and expressions cannot be considered equivalent concepts because moving image works are already their own expressions.<sup class="footnote-reference" id="fr-15-1"><a href="#footnote-15">15</a></sup> As explained above, a moving image work has by definition taken a form (been expressed) and contains specific attributes that correspond to the concept of an “original” or “primary expression.” The variants correspond to all other “expressions.” For example, a colorized version of The asphalt jungle (1950) does not express the original work; it contains a variation from the original idea conceived by John Huston and put into form. If there is no variation from the work as originally conceived, there is no “variant,” but under FRBR there would always be an “expression.” This exemplifies why these concepts are not equal: that is, there may not always be a variant but there must always be an expression.<sup class="footnote-reference" id="fr-16-1"><a href="#footnote-16">16</a></sup></p>
+<p><a id="sec-definitions_of_the_manifestation_and_item_entities"></a></p>
+<h4 id="definitions-of-the-manifestation-and-item-entities"><a class="header" href="#definitions-of-the-manifestation-and-item-entities">Definitions of the Manifestation and Item Entities</a></h4>
+<p>A Manifestation is the embodiment of a Work/Variant and includes all the analogue or digital forms that are derived from a Work/Variant and bear common characteristics with respect to shared intellectual content and physical format. It may be whole or incomplete or a fragment.</p>
+<p>An Item is the physical product of a Manifestation of a Work or Variant, i.e. the physical copy of a Work or Variant. It may be whole or incomplete or a fragment. In the case of purely digital media, an Item is defined as the availability of the computer file, irrespective of the number of backup copies that may exist<sup class="footnote-reference" id="fr-17-1"><a href="#footnote-17">17</a></sup>.</p>
+<p><a id="sec-boundaries_between_entities"></a></p>
+<h4 id="boundaries-between-entities"><a class="header" href="#boundaries-between-entities">Boundaries between entities</a></h4>
+<p>The traditional practice within moving image archives of incorporating variation information into a record enabled this one record to carry within it all the details relative to the differing components of a whole.<sup class="footnote-reference" id="fr-18-1"><a href="#footnote-18">18</a></sup> Within the framework of the FRBR and RDA models, and the EN 15907 schema, the work record represents this “one record,” incorporating certain descriptive details, but the placement of the variation information changes. Different editions, versions, or variations are represented by the variant and manifestation entities, and the differences are recorded at the appropriate level or on the particular entity record, or designated in some way as belonging to the specific entity. The treatment of an “information resource” by using the four-tier hierarchy to express the concept allows it to be described and viewed at each of the four levels: for example, a documentary is, simultaneously, a particular copy or component pieces (item(s)), a particular publication (manifestation), a particular edition (variant), and a particular piece of work (work).</p>
+<p>It remains essential to users of archival moving image material that information describing the original work and information describing the item in hand are presented in a manner that clearly delineates this relationship. The relationship in library terms is described as the concept of “edition” and it includes any changes in content or changes in carrier. Separate editions of printed library material are catalogued separately, and usually no attempt is made to determine whether edition statements always indicate major changes in content.<sup class="footnote-reference" id="fr-19-1"><a href="#footnote-19">19</a></sup> “Publication,” in the context of a moving image archive, is used interchangeably with “distribution” and means “making the resource available.”<sup class="footnote-reference" id="fr-20-1"><a href="#footnote-20">20</a></sup> For moving image materials, the terms most analogous to this concept of edition are “versions with major changes” and “variations with minor changes.”<sup class="footnote-reference" id="fr-21-1"><a href="#footnote-21">21</a></sup> (see <a href="http://www.fiafnet.org/images/tinyUpload/E-Resources/Commission-And-PIP-Resources/CDC-resources/FIAF_Cat_Rules.pdf">http://www.fiafnet.org/images/tinyUpload/E-Resources/Commission-And-PIP-Resources/CDC-resources/FIAF_Cat_Rules.pdf</a>)</p>
+<p>In moving image archives, both the occurrence of a change in the content and the extent of the change are important. In most cases, for moving image materials, the changes in content are a function of some form of editing.</p>
+<p>The treatment of the concepts of “versions with major changes” and “variations with minor changes” in this revision shift to a focus on changes in content and changes to carrier and correlate to the boundaries between the variants (changes in content) of a work and its manifestations (changes in carrier). This does not replace the need to create a version with major changes as a new Work where this is necessary and appropriate <a href="/boundaries/boundaries_between_works_and_variants">Boundaries between Works and Variants</a>.</p>
+<p><a id="sec-attributes"></a></p>
+<h3 id="attributes"><a class="header" href="#attributes">Attributes</a></h3>
+<p>This manual provides a granular nomenclature for describing the attributes of the moving image entities, Work, Variant, Manifestation and Item (WVMI). The guidelines do not specify the attributes for entities related to the WVMI entities, for example, Agents (i.e., Persons, Families, Corporate Bodies, etc.). For recording the attributes of Agents (e.g. first name, last name, nationality, etc.), refer to authoritative sources such as Functional requirements for authority data: a conceptual model or tools such as the Library of Congress Name Authority File.<sup class="footnote-reference" id="fr-22-1"><a href="#footnote-22">22</a></sup></p>
+<p><a id="sec-user_tasks"></a></p>
+<h3 id="user-tasks"><a class="header" href="#user-tasks">User Tasks</a></h3>
+<p>FRBR and RDA have defined and adopted the following tasks reflecting the traditional core functions of the catalogue:<sup class="footnote-reference" id="fr-23-1"><a href="#footnote-23">23</a></sup></p>
+<p>find—i.e., to find resources that correspond to the user’s stated search criteria</p>
+<p>identify—i.e., to confirm that the resource described corresponds to the resource sought, or to distinguish between two or more resources with similar characteristics</p>
+<p>select—i.e., to select a resource that is appropriate to the user’s needs</p>
+<p>obtain—i.e., to acquire or access the resource described.</p>
+<p>RDA added an additional set of user tasks based on those defined in IFLA’s Working Group on Functional Requirements and Numbering of Authority Records (FRANAR), and describe an entity associated with a resource:</p>
+<p>find—i.e., to find information on that entity and on resources associated with the entity</p>
+<p>identify—i.e., to confirm that the entity described corresponds to the entity sought, or to distinguish between two or more entities with similar names, etc.</p>
+<p>clarify—i.e., to clarify the relationship between two or more such entities, or to clarify the relationship between the entity described and a name by which that entity is known</p>
+<p>understand—i.e., to understand why a particular name or title, or form of name or title, has been chosen as the preferred name or title for the entity.</p>
+<p>These user tasks are listed because they are pertinent to moving image cataloguing and can be adapted to cover many of the search and discovery needs of those who might seek moving images. For example, Martha Yee (2007) provides one adaptation of the functions of the library catalogue for moving images:</p>
+<p>To find, identify, select, and acquire: <sup class="footnote-reference" id="fr-24-1"><a href="#footnote-24">24</a></sup></p>
+<ul>
+<li>
+<p>All the versions (Variants) of a sought Work (for example the various “director’s cuts” of Blade runner as well as the original release version), specified by its title, or by its title in conjunction with the name of one of its creators or by date, that are held by your collection or to which you license access.</p>
+</li>
+<li>
+<p>All the copies (Manifestations or Items) of a particular version (Variant) of a Work (for example, all the copies you hold of the studio’s director’s cut) that are held by your collection or to which you license access.</p>
+</li>
+<li>
+<p>All the Works of a particular person (for example, director, actor, costume designer) or corporate body (for example, studio) that are held by your collection or to which you license access.</p>
+</li>
+<li>
+<p>All the Works on a subject (for example, the Vietnam War) that are held by your collection or to which you license access.</p>
+</li>
+<li>
+<p>All the Works in a particular form or genre (for example, animation, gangster films) that are held by your collection or to which you license access.</p>
+</li>
+</ul>
+<h3 id="representation-or-principle-of-transcription"><a class="header" href="#representation-or-principle-of-transcription">Representation (or, principle of transcription)</a></h3>
+<p>The basic principle of transcription is an area in which archival moving image cataloguing frequently deviates from traditional library cataloguing. Whereas traditional library cataloguers typically transcribe descriptive data directly from the physical item, this is not always the case in archival moving image cataloguing. Because of this, earlier moving image cataloguing rules and standards (FIAF, AMIM) have suggested the term “preferred” rather than “chief” source of filmographic information for representing moving images. The importance of reflecting the original details of a moving image work is a primary principle of organisation for moving image archives. This underlies another practice of moving image cataloguing, which was also recommended in the 1991 FIAF Rules, namely choosing the original release title in country of origin as the preferred title for a work. Other titles (e.g., translated titles, re-release or reissue titles, titles on the item or accompanying material, etc.), are recorded at the appropriate entity level, or designated as belonging to the appropriate entity, and linking mechanisms from other titles to the original release title should be utilised.</p>
+<p>Because, however, it is not always possible for a cataloguer to determine an original release title, guidelines are also provided for choice of the preferred title of the work when either: 1) the concept of original release title is not applicable (as in the case of unedited footage), or when 2) a cataloguer is unable, through research, to determine the original release title.</p>
+<hr>
+<ol class="footnote-definition">
+<li id="footnote-1">
+<p>FIAF, 1991, p. ix. <a href="#fr-1-1">↩</a></p>
+</li>
+<li id="footnote-2">
+<p>Adapted from AMIM2, p.1. <a href="#fr-2-1">↩</a></p>
+</li>
+<li id="footnote-3">
+<p>The other two conceptual models are FRAD (Functional Requirements for Authority Data), <a href="http://www.ifla.org/node/7923">http://www.ifla.org/node/7923</a> and FRSAD Functional Requirements for Subject Authority Data, <a href="http://www.ifla.org/node/1297">http://www.ifla.org/node/1297</a>. <a href="#fr-3-1">↩</a></p>
+</li>
+<li id="footnote-4">
+<p>FRBR Final Reports, p. 3. <a href="#fr-4-1">↩</a></p>
+</li>
+<li id="footnote-5">
+<p>RDA 0.0 and 0.1, p. 0-1. <a href="#fr-5-1">↩</a></p>
+</li>
+<li id="footnote-6">
+<p><a href="https://tech.ebu.ch/MetadataEbuCore">https://tech.ebu.ch/MetadataEbuCore</a> <a href="#fr-6-1">↩</a></p>
+</li>
+<li id="footnote-7">
+<p><a href="http://pbcore.org/">http://pbcore.org/</a> <a href="#fr-7-1">↩</a></p>
+</li>
+<li id="footnote-8">
+<p>Taken from EN 15907. Item – Definition from the standard. <a href="http://filmstandards.org/fsc/index.php/EN_15907_Item">http://filmstandards.org/fsc/index.php/EN_15907_Item</a> <a href="#fr-8-1">↩</a></p>
+</li>
+<li id="footnote-9">
+<p>FRBR Final Report, pp. 12-16; Taylor, p. 4. <a href="#fr-9-1">↩</a></p>
+</li>
+<li id="footnote-10">
+<p>Yee. “The Concept of Work for Moving Image Materials, p. 33. <a href="#fr-10-1">↩</a></p>
+</li>
+<li id="footnote-11">
+<p>EN 15907, 4.1.1, p. 8. <a href="#fr-11-1">↩</a></p>
+</li>
+<li id="footnote-12">
+<p>FIAF, 1991, p. xiii <a href="#fr-12-1">↩</a></p>
+</li>
+<li id="footnote-13">
+<p>FIAF, 1991, p. xiii <a href="#fr-13-1">↩</a></p>
+</li>
+<li id="footnote-14">
+<p>Adapted from the definition of a Cinematographic Work in EN 15907, 4.1.1, p.8. <a href="#fr-14-1">↩</a></p>
+</li>
+<li id="footnote-15">
+<p>Journal of Digital Media Management Vol. 2, 3, 00–00 © Henry Stewart Publications 2047- 1300 (2013) The EN 15907 moving image metadata schema standard and its role in a digital asset management infrastructure, by Detlev Balzar, Stephen McConnachie, Thelma Ross. <a href="#fr-15-1">↩</a></p>
+</li>
+<li id="footnote-16">
+<p>Laurent Bismuth (personal communication, May 08, 2011) <a href="#fr-16-1">↩</a></p>
+</li>
+<li id="footnote-17">
+<p>Digital medium definition taken from CEN’s “Film Identification – enhancing interoperability of metadata. Element sets and structures. FprEN 15907:2010 (E) <a href="#fr-17-1">↩</a></p>
+</li>
+<li id="footnote-18">
+<p>FIAF, 1991, p. xii <a href="#fr-18-1">↩</a></p>
+</li>
+<li id="footnote-19">
+<p>FIAF, 1991, p. xii <a href="#fr-19-1">↩</a></p>
+</li>
+<li id="footnote-20">
+<p>Andrea Leigh, (drawn from personal communication, May 05, 2011) <a href="#fr-20-1">↩</a></p>
+</li>
+<li id="footnote-21">
+<p>FIAF, 1991, p. xii-xiii. They are defined as following in the 1991 rules: Versions with major changes. If the cataloging agency has determined that the item in hand differs significantly from the original work, i.e., major editing has been done, the item is described in a separate cataloging record. The item in hand is designated a version of the original work with major changes, e.g., short version, classroom version, etc., and the distribution information for the separate version is recorded. The relationship to the original work is indicated in the edition/version statement, and, in most instances, in a note. Distribution information relating to the original work may also be indicated in a note. Variations with minor changes. When the cataloging agency determines that an item, although designated as being re-edited, e.g., a “new edition,” has not indeed been changed significantly, it may express this relationship by recording the statement of responsibility for the original in area one, the variation and statement of responsibility for the variation in area two, and the production, distribution information for both the original and variation copies in area three. Multiple edition/version/variation statements may be given when cataloging multiple variations with minor changes. <a href="#fr-21-1">↩</a></p>
+</li>
+<li id="footnote-22">
+<p>Patton, Glenn E. 2009. Functional requirements for authority data: a conceptual model. München: K.G. Saur. <a href="#fr-22-1">↩</a></p>
+</li>
+<li id="footnote-23">
+<p>FRBR Final Report, p. 82; RDA, 0.0, Purpose and Scope <a href="#fr-23-1">↩</a></p>
+</li>
+<li id="footnote-24">
+<p>Yee, 2007, p. 16. <a href="#fr-24-1">↩</a></p>
+</li>
+</ol>
+<div style="break-before: page; page-break-before: always;"></div>
+<h1 id="purpose-scope-and-use"><a href="#purpose-scope-and-use" class="header">Purpose, Scope, and Use</a></h1>
+<p><a id="sec-purpose"></a></p>
+<h2 id="purpose"><a class="header" href="#purpose">Purpose</a></h2>
+<p>The primary purposes of the FIAF Manual are to suggest recommendations for the description and identification of moving images (with an emphasis on archival moving images), and to define the elements of description to facilitate the exchange of information.</p>
+<p><a id="sec-scope"></a></p>
+<h2 id="scope"><a class="header" href="#scope">Scope</a></h2>
+<p>The manual is designed for use by institutions with moving image collections and cataloguers of moving images as a guide in the preparation of cataloguing records or descriptive metadata.
+The recommendations apply to generalised film and television collections, and may require elaboration in more specialised institutions whose holdings are exclusively of a single format or type, e.g., commercials, newsfilm, television, unedited footage, etc. For example, those with television collections should additionally consider more specific standards such as EBUcore or PBcore,</p>
+<p>Moving images include a range of materials upon which sequences of visual images have been recorded or registered and which create the illusion of movement when projected, broadcast, or played back (by means of a projector, television set, computer, software or equivalent devices).
+Such images may or may not be accompanied by sound.
+The definition includes moving images of all types, e.g., features, shorts, news footage, trailers, outtakes, screen tests, educational and training documentaries, experimental or independent productions, study films or video, home movies, unedited materials, television broadcasts, commercials, spot announcements, recorded performances of concerts, ballets, plays, and CCTV footage etc. It encompasses both live action and animation and includes all analogue and digital formats.</p>
+<p>While many moving image archives also have audio materials in their collections, this manual does not offer detailed guidance for describing audio media.
+However, the Manual does provide ways to describe physical and technical characteristics of analogue and digital audio Items to assist with collection and preservation management.</p>
+<p><a id="sec-use"></a></p>
+<h2 id="use"><a class="header" href="#use">Use</a></h2>
+<p>Instead of defining levels of cataloguing, this manual outlines core elements for moving image description.
+The core elements provide the basis for identification of a resource and for facilitating the exchange of data from one system to another.
+These are not “core” elements in the sense of a Dublin Core, EBUCore, or PBCore schema, but are rather intended to illustrate common elements that are used in describing moving images and are referenced in the rules outlined in this manual.
+The elements are largely drawn from EN 15744 and 15907.
+For a comparison of elements described in this Manual and EN 15907, please see <a href="/appendices/element-comparison">Elements of Description comparison</a>.</p>
+<p>This manual also provides a list of all the data elements associated with the entities described.
+Thus, this approach provides a framework for the minimum and maximum amount of descriptive information allowed in a range of moving image cataloguing activities existing in a large variety of environments.</p>
+<p>Institutions are encouraged to include as many of the non-core elements as goals and circumstances permit.
+None are considered mandatory by these guidelines, but an institution may require that some are mandatory for internal purposes.</p>
+<div style="break-before: page; page-break-before: always;"></div>
+<h1 id="core-elements-of-description"><a href="#core-elements-of-description" class="header">Core Elements of Description</a></h1>
+<p><a id="sec-core_elements_of_description"></a></p>
+<h3 id="core-elements-of-description1"><a class="header" href="#core-elements-of-description1">Core elements of description<sup class="footnote-reference" id="fr-1-1-1"><a href="#footnote-1-1">1</a></sup></a></h3>
+<p>These core points of description are listed with their corresponding terms as presented in the manual.
+They represent an ideal minimum set of metadata for moving image cataloguing.</p>
+<div class="table-wrapper">
+<table>
+<thead>
+<tr><th><strong>CORE CONCEPT</strong></th><th><strong>TOP-LEVEL ELEMENT</strong></th><th><strong>SUB-ELEMENT</strong></th></tr>
+</thead>
+<tbody>
+<tr><td>Title</td><td>Title [Work]</td><td>–</td></tr>
+<tr><td>Series / Serial <sup class="footnote-reference" id="fr-2-1-1"><a href="#footnote-2-1">2</a></sup></td><td>Title [Work]</td><td>Title Type = Series/Serial [Work]</td></tr>
+<tr><td>Cast</td><td>Agents (e.g. Cast, Credits, Person, Organisation, etc.) [Work]</td><td>Agent Activity = Cast [Work]</td></tr>
+<tr><td>Credits (including Production Companies)</td><td>Agents [Work]</td><td>Agent Activity = Credit (use term for actual role)  [Work]</td></tr>
+<tr><td>Country of Reference</td><td>Country of reference [Work]</td><td></td></tr>
+<tr><td>*Original Format</td><td>Format of a moving image Manifestation [Manifestation]</td><td>Specific Carrier Type: [Manifestation]</td></tr>
+<tr><td>*Original Length</td><td>Extent of a Manifestation [Manifestation]</td><td>Physical extent of a Manifestation</td></tr>
+<tr><td>*Original Duration</td><td>Extent of a Manifestation [Manifestation]</td><td>Duration of a Manifestation</td></tr>
+<tr><td>*Original Language</td><td>Language(s) [Work]</td><td>Language Term + Usage type [Work]</td></tr>
+<tr><td>Year of Reference</td><td>Year/Date of reference [Work]</td><td>Date Type [Work]</td></tr>
+<tr><td>Identifier</td><td>As appropriate: Work/Variant Identifier [Work/Variant] AND/OR Identifier [Manifestation] AND/OR Identifier [Item]</td><td>As appropriate: Identifier Type [Work/Variant] AND/OR Identifier Type [Manifestation] AND/OR Identifier Type [Item]</td></tr>
+<tr><td>Subject/Genre/Form <sup class="footnote-reference" id="fr-3-1-1"><a href="#footnote-3-1">3</a></sup></td><td>Subject/Genre/Form terms [Work]</td><td></td></tr>
+<tr><td>Content Description</td><td>Content description (synopses, shotlists, etc)</td><td></td></tr>
+</tbody>
+</table>
+</div>
+<p>The concept of “original” in this manual indicates the first known manifestation of the Work, which is not determined by its release status.
+The concept of “original” must be flexible enough to be applied to released and unreleased Works.
+For a released Work, we tend to refer to the “original” Work as the first known release of the first known manifestation.
+For Works that are not released (e.g., a home movie), the “original” Work is simply the first known manifestation.</p>
+<p>See <a href="/appendices/record-examples#sec-example_one">Example 1. Feature film in 3-level, 2-level and 1-level hierarchies</a> as an illustration.</p>
+<p>Please see <a href="/appendices/element-comparison">Elements of Description comparison</a> comparison for a list of all elements described in this manual.</p>
+<p>NOTE: For exchanging data, indicating the origin of the record is important (i.e., name of the institution supplying the record).
+This data is typically located in a dedicated field at the Work level and automatically generated by electronic systems.
+This corresponds to CEN EN 15907, 6.2 – Record Source.</p>
+<p><a id="sec-elements_of_description"></a></p>
+<h4 id="elements-of-description-across-works-variants-manifestations-and-items"><a class="header" href="#elements-of-description-across-works-variants-manifestations-and-items">Elements of description across Works, Variants, Manifestations, and Items</a></h4>
+<p>This section includes sample structures for how the elements can be applied across Works, Variants, Manifestations, and Items.
+Four models are provided, beginning with the more complete four-level model and ending with a simple one-level model.
+Models should be applied according to an institution’s system and also determined by the amount of information known about an Item.</p>
+<p>Where there is a user need or requirement, some institutions may also develop database systems that pull through some data elements sitting in fields in one hierarchical or linked level to display and be viewed within another, e.g. duration from a Manifestation being visible within a Work record, or location details sitting at the Carrier level also displaying through in the linked Item record.</p>
+<p>The full list of elements of description for each entity is set out in the following charts and diagrams, and in Chapters 1-3.
+See <a href="/appendices/record-examples">Examples of records containing core elements in the different levels of hierarchy</a> for examples of real records which contain these core elements (as well as others) across the hierarchies.</p>
+<center><object data="/diagrams/figure_01.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+<center><object data="/diagrams/figure_02.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+<center><object data="/diagrams/figure_03.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+<center><object data="/diagrams/figure_04.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+<p><em>Work/Manifestation/Item.
+Properties expressed in one record, with abstracts, contextual and object data stored in a single level hierarchy Distribution of the elements of description according to the four entities order.</em></p>
+<div class="table-wrapper">
+<table>
+<thead>
+<tr><th><strong>Properties</strong></th><th><strong>(Work)</strong></th><th><strong>(Manifestation)</strong></th><th><strong>(Item)</strong></th></tr>
+</thead>
+<tbody>
+<tr><td>Titles</td><td>Uniform, Preferred, Other Title information, Alternative, Supplied/Devised</td><td>Title proper</td><td>Title proper</td></tr>
+<tr><td>Part</td><td>Monographic, Analytic, Serial, Collection</td><td></td><td></td></tr>
+<tr><td>Content</td><td>Categories: fiction/non fiction; genre, synopsis, subject, etc.</td><td></td><td></td></tr>
+<tr><td>Dates/Events</td><td>Creation, Production, Censorship, Copyright</td><td>Release, manufacture, transmission, distribution, etc.</td><td>Object creation, acquisition, accession, de-accession, loan, transport, etc.</td></tr>
+<tr><td>Agents</td><td>Cast, credits, rights holders, creator, etc.</td><td>Distributor, broadcaster, publisher</td><td>Donor, Archive/archivist, technician, restorer, etc.</td></tr>
+<tr><td>Rights context</td><td>Copyright holder and date</td><td>Platforms, territories, dates. Agents (distributors, license holder)</td><td>Transfer of ownership</td></tr>
+<tr><td>Event types</td><td>Awards Censorship Production IPR registration</td><td>Pre-release, theatrical, non-theatrical, transmission, home viewing, internet, not for release, censorship etc.</td><td>Acquisition Reproductions Disposal</td></tr>
+<tr><td>Format general</td><td></td><td>35mm film, digital cinema, blu ray, etc.</td><td></td></tr>
+<tr><td>Format specific</td><td></td><td></td><td>16mm film pos, 35mm lavender separation, ProRes422 HQ, etc.</td></tr>
+<tr><td>Condition report</td><td></td><td></td><td>Pristine, not for projection, heavy scratches, etc.</td></tr>
+<tr><td>Storage location</td><td></td><td></td><td>Home location, current location, previous location</td></tr>
+<tr><td>Conservation recommendations</td><td></td><td></td><td>Urgent transfer required, relocate sub-zero, etc.</td></tr>
+</tbody>
+</table>
+</div>
+<hr>
+<ol class="footnote-definition">
+<li id="footnote-1-1">
+<p>Adapted from CEN TC 372 EN 15744 element set <a href="#fr-1-1-1">↩</a></p>
+</li>
+<li id="footnote-2-1">
+<p>EN15744 definitions “A series is a group of separate items related to one another by the fact that each item bears, in addition to its own title, a collective title applying to the group as a whole. A serial is a type of “short subject” work which is characterized principally by the episodic development of a story”. This Core Concept is referencing the name of another Work that a Work may be “part of”, where the latter has been conceived within the context/intention of being an element of a Series or Serial. It is not being used here as a Work/Variant Description Type. (See D.1 Work/Variant Description Types) <a href="#fr-2-1-1">↩</a></p>
+</li>
+<li id="footnote-3-1">
+<p>Form = Fiction, Non-fiction, etc. Some institutions may incorporate these as a genre term, whilst others may have them as a separate category to genre. <a href="#fr-3-1-1">↩</a></p>
+</li>
+</ol>
+<div style="break-before: page; page-break-before: always;"></div>
+<h1 id="sources-of-information"><a href="#sources-of-information" class="header">Sources of Information</a></h1>
+<p>Information entered in a record must be derived from a source.
+Acceptable sources of information for moving image Works, Variants, Manifestations and Items include primary and secondary sources.</p>
+<p>Primary sources include information on the actual Item itself.
+For example, for moving image materials, titles and main production credits are transcribed from the frames usually in the opening credits, and other production credits from the end titles and credits.
+Secondary sources include information written on containers and reference materials.
+For example, credit, title, date, and other information derived from publications such as AFI Catalog of Feature Films: 1930-1939, <a href="https://www.dfi.dk/viden-om-film/filmdatabasen">Det Danske Filminstitut Filmdatabasen</a> , [ADD LINK TO https://www.filmportal.de/etc.</p>
+<p>Although primary sources are generally preferred, this manual allows for the use of secondary sources no matter the entity, attribute or relationship described in recognition that there may be constraints on the amount of research or viewing a cataloguer can do.</p>
+<p>Whether information is taken from primary and/or secondary sources as listed below, indicate that fact either by means of a note or by some other means (e.g., through coding or the use of square brackets, specific fields, or links to other databases).<sup class="footnote-reference" id="fr-1-1-2"><a href="#footnote-1-2">1</a></sup> Add the source of the information in a Note field and include the element name.</p>
+<p>Cite each individual source of information using an agreed upon, consistently applied citation style, such as The Chicago Manual of Style, or other style guide.</p>
+<p>Primary source information can be derived from:</p>
+<p>a) the title frame(s) or title screen(s)<sup class="footnote-reference" id="fr-2-1-2"><a href="#footnote-2-2">2</a></sup></p>
+<p>b) embedded metadata in textual form that contains a title (e.g., metadata embedded in an MPEG video file)<sup class="footnote-reference" id="fr-3-1-2"><a href="#footnote-3-2">3</a></sup></p>
+<p>c) the director (or other crew/cast members) involved in the production of the moving image, either via verbal or written communication.</p>
+<p>d) an eye-readable label bearing a title that is permanently printed on or affixed to the resource (excluding accompanying textual material or a container)<sup class="footnote-reference" id="fr-4-1-1"><a href="#footnote-4-1">4</a></sup></p>
+<p>!!! example “Example”
+Title derived from film opening credits.</p>
+<p>Where viewing the primary source is not possible, the cataloguer is dependent on secondary sources.</p>
+<p>Secondary source information can be derived from:</p>
+<p>e) accompanying material or a container issued as part of the resource itself<sup class="footnote-reference" id="fr-5-1-1"><a href="#footnote-5-1">5</a></sup></p>
+<p>f) a container that is not issued as part of the resource itself (e.g., a box, case made by the owner)<sup class="footnote-reference" id="fr-6-1-1"><a href="#footnote-6-1">6</a></sup></p>
+<p>g) other published descriptions of the resource (e.g. a reference source, website, press packs, etc.)  <sup class="footnote-reference" id="fr-7-1-1"><a href="#footnote-7-1">7</a></sup></p>
+<p>h) any other available source (including family or colleagues of crew/cast members with information.)<sup class="footnote-reference" id="fr-8-1-1"><a href="#footnote-8-1">8</a></sup></p>
+<p>Access to sources of information has increased massively in the 21st century, particularly with the World Wide Web.</p>
+<p>This means it is particularly important for the cataloguer to consider the authority and context of the source before utilising information from it, e.g. whose website is it and where did their information come from?</p>
+<p>As far as possible use authoritative secondary sources, e.g. official websites for a film, press packs, published catalogues and directories, and data from other Archives accessible databases, websites, or publications, who may have researched and created records for the moving image already. Sources may also include other non-moving image collections held by your institution, such as special collections of papers, books, newspaper cuttings, stills, posters, etc.</p>
+<p>The number of websites stating the same “fact” is not a safe indicator. Websites copy off each other and it is easy for an erroneous fact to be perpetuated across multiple websites<sup class="footnote-reference" id="fr-9-1-1"><a href="#footnote-9-1">9</a></sup>. The cataloguer needs to assess, balance, and judge accuracy, e.g. IMDB and Wikipedia can be good for information, but they also allow submissions and changes from the public so it is not necessarily always accurate.</p>
+<p>When taking details and information from secondary source materials then cite those sources, either in relevant notes fields on a record as a <a href="/appendices/cataloguers-notes">Cataloguer’s Notes</a>, or linking to a related non-moving image collection record within your institution’s database systems if relevant, e.g. a related associative link to a book record or periodical article record.</p>
+<p>If citing websites take a note of the full title and author where relevant, not just the URL link. The latter can change or the website become defunct over time, so fuller precise details are advisable.</p>
+<p>In instances where Primary source data relating to on-screen titles and credits, or embedded metadata is verfied as erroneous and incorrect through other Primary or authoritative Secondary sources then details of this should be added to a Work History or Notes field on the Work.</p>
+<p>!!! example “Example”
+Il vangelo secondo Matteo (Italy, 1964)</p>
+<pre><code>Work History note: The credits in the opening titles on actual prints of the film give 'Alessandro Clerici' as playing the role of Pontius Pilate. However, he was in fact played by Alessandro Tasca (aka Alessandro Tasca di Cutò). Verified by his daughter Ama Tasca di Cutò in correspondence with the BFI (February 2020)  and further researched by the BFI in conjunction with Cineteca Bologna. Alessandro Tasca also discusses his taking on the role of Pilate in Pasolini's film, and his fee for the day's work, in correspondence with Orson Welles (housed at the University of Michigan). Distribution information from c.1964/65 from UniItalia in Rome and from other English distribution companies of the film in the 1960s also cite 'Alessandro Tasca' as the credit for Pontius Pilate.
+</code></pre>
+<hr>
+<ol class="footnote-definition">
+<li id="footnote-1-2">
+<p>Based on RDA 2.2.4 Other Sources of Information <a href="#fr-1-1-2">↩</a></p>
+</li>
+<li id="footnote-2-2">
+<p>RDA 2.20.2.3 Title Source <a href="#fr-2-1-2">↩</a></p>
+</li>
+<li id="footnote-3-2">
+<p>RDA 2.20.2.3 Title Source <a href="#fr-3-1-2">↩</a></p>
+</li>
+<li id="footnote-4-1">
+<p>Adapted from RDA 2.2.2.3 Resources Consisting of Moving Images <a href="#fr-4-1-1">↩</a></p>
+</li>
+<li id="footnote-5-1">
+<p>Based on RDA 2.2.4 Other Sources of Information <a href="#fr-5-1-1">↩</a></p>
+</li>
+<li id="footnote-6-1">
+<p>RDA 2.2.4 Other Sources of Information <a href="#fr-6-1-1">↩</a></p>
+</li>
+<li id="footnote-7-1">
+<p>RDA 2.2.4 Other Sources of Information <a href="#fr-7-1-1">↩</a></p>
+</li>
+<li id="footnote-8-1">
+<p>RDA 2.2.4 Other Sources of Information <a href="#fr-8-1-1">↩</a></p>
+</li>
+<li id="footnote-9-1">
+<p>See the name note on the <a href="https://collections-search.bfi.org.uk/web/Details/People/177651">BFI record for Richard Greene</a> <a href="#fr-9-1-1">↩</a></p>
+</li>
+</ol>
+<div style="break-before: page; page-break-before: always;"></div>
+<h1 id="display-issues"><a href="#display-issues" class="header">Display Issues</a></h1>
+<p>Although these guidelines are primarily focused on content, many users may also welcome some guidance in data presentation.
+This section gathers some of the common display questions with recommendations.</p>
+<p><a id="sec-punctuation"></a></p>
+<h2 id="punctuation"><a class="header" href="#punctuation">Punctuation</a></h2>
+<p>These guidelines do not mandate the use of any particular data presentation standard, such as ISBD punctuation.
+However, ISBD punctuation is recommended if punctuation guidance is desired.
+Please consult ISBD<sup class="footnote-reference" id="fr-1-1-3"><a href="#footnote-1-3">1</a></sup> for general guidance and examples, or the FIAF Cataloguing Rules for Film Archives (1991)<sup class="footnote-reference" id="fr-2-1-3"><a href="#footnote-2-3">2</a></sup>.</p>
+<p>These guidelines do advocate consistent usage where punctuation is needed as a cataloguing construction, for example, to separate Form elements in the creation of Partially or Fully Supplied/Devised Titles e.g.</p>
+<p>!!! example “Example”
+Jaws. Rushes.</p>
+<p>For transcribed elements, record punctuation as found.
+For all other elements, record punctuation as found on the source(s) of information.</p>
+<p><a id="sec-capitalisation_and_articles"></a></p>
+<h2 id="capitalisation-and-articles"><a class="header" href="#capitalisation-and-articles">Capitalisation and Articles</a></h2>
+<p>Some institutions render Work titles in capitals – all upper-case – as a simple typographical method of identifying these key items of information, while others only capitalise the first letter of a title, in accordance with ISBD.
+Either usage is permitted by these guidelines, although institutions may prefer to retain the conventional practice of capitalising only the first letter of a title and any proper names as dictated by the usage of the language in which the information is given.</p>
+<p>Users should recognise that using all capitals may create problems in the future when reformatting to mixed case if preferred in a new system, or when reformatting to mixed caps for display in a web platform where mixed caps is increasingly preferred.
+Although it is possible to automate the conversion of upper case to mixed caps, that automation cannot easily manage linguistic complexities or semantic rules and exceptions such as proper nouns, or place names.
+Therefore, it is recommended that an institution transition to ISBD capitalisation when and where possible.</p>
+<p>When an “all capitals” practice is followed, institutions have the additional option of reducing to lower case words which are of minor importance to the substantive title (for filing purposes, etc.), such as sub-titles, a definite or indefinite article appearing as the first word of a title, etc. Experience has shown that this practice can make it easier for staff in institutions handling multi-lingual material to recognise, for filing purposes and interpretation, the different significance of words that are articles in one language but not in others.</p>
+<p>While the guidelines permit both cases, it is recommended where permitted now or in the future, to use the conventional practice of capitalising only the first letter of a title and other letters as dictated by the usage of the language in which the information is given.
+Leading articles should ideally be placed in separate fields in keeping with the way systems are being developed for alphabetical sorting.
+Alternatively some systems (for example, those containing MARC21 records) indicate the number of non-filing characters to skip in alphabetization.</p>
+<p>Alternative practices | ISBD practice</p>
+<p>!!! example “Example”
+Die Hard | Die hard<br>!!! example “Example”
+Die DREIGROSCHENOPER | Die Dreigroschenoper<br>!!! example “Example”
+LES PATTERSON SAVES THE WORLD | Les Patterson saves the world<br>!!! example “Example”
+Les MISERABLES | Les miserables<br>!!! example “Example”
+American in Paris, An | An American in Paris</p>
+<p>MARC21 tag</p>
+<p>!!! example “Example”
+245 03 An American in Paris</p>
+<hr>
+<ol class="footnote-definition">
+<li id="footnote-1-3">
+<p><a href="http://www.ifla.org/files/assets/cataloguing/isbd/isbd-cons_20110321.pdf">http://www.ifla.org/files/assets/cataloguing/isbd/isbd-cons_20110321.pdf</a> <a href="#fr-1-1-3">↩</a></p>
+</li>
+<li id="footnote-2-3">
+<p><a href="http://www.fiafnet.org/~fiafnet/uk/publications/fep_cataloguingRules.html">http://www.fiafnet.org/~fiafnet/uk/publications/fep_cataloguingRules.html</a> <a href="#fr-2-1-3">↩</a></p>
+</li>
+</ol>
+<div style="break-before: page; page-break-before: always;"></div>
+<h1 id="language-and-script-of-the-description"><a href="#language-and-script-of-the-description" class="header">Language and Script of the Description</a></h1>
+<p>The language of the original Work can be different from the language of a Manifestation or Item.
+For example, the original Work title can be in the original creation language, but the item being catalogued is a Variant with the title and key credits in a different language.
+Where possible, data elements in the catalogue record for the Work are recorded in the language and/or script of the original Work and may be transcribed from the Item of an original manifestation of the Work or taken from other sources.</p>
+<p>This will primarily be for data transcribed from the screen, e.g. Title and key agents (director, producer, cast, etc.).
+Do not confuse this with describing the language of the soundtrack, which is noted in specific language fields.</p>
+<p>Data elements for the Variant, Manifestation and Item are recorded in the language that is on the Variant, Manifestation or Item and should be transcribed from the Item or from other sources in the appropriate language.
+Scripts, symbols or other characters that cannot be transcribed as presented or are other than that used by the cataloguing agency or institution may, if necessary, be transliterated in the script of the institution or replaced with a cataloguer’s description.
+Use a recognised standard for transliteration such as <a href="https://www.iso.org/standard/3589.html">ISO 9 for Cyrillic characters</a>, <a href="https://pinyin.info/">Pinyin for Chinese characters</a>, or <a href="https://www.loc.gov/catdir/cpso/roman.html">ALA-LC Romanization Tables</a>.
+Give an explanatory note for the addition, if necessary.
+Optionally, enclose the cataloguer’s description in square brackets.</p>
+<p>!!! example “Example”
+Original Chinese Title: 精武英雄</p>
+<pre><code>Transliterated Pinyin Title: Jīng wǔ yīngxióng    
+
+English Translated Title: Fist of Legend
+</code></pre>
+<div style="break-before: page; page-break-before: always;"></div>
+<h1 id="abbreviations"><a href="#abbreviations" class="header">Abbreviations</a></h1>
+<p>For transcribed data elements, transcribe abbreviations as found.
+For all other elements, generally do not abbreviate words.
+Optionally, additional non-preferred title types may also be added to assist in user searching and accessibility (see <a href="/appendices/titles">Titles and Title Types</a>).</p>
+<div style="break-before: page; page-break-before: always;"></div>
+<h1 id="examples"><a href="#examples" class="header">Examples</a></h1>
+<p>The examples given throughout the guidelines are illustrative and not prescriptive (unless stated otherwise).
+They follow The Chicago manual of style<sup class="footnote-reference" id="fr-1-1-4"><a href="#footnote-1-4">1</a></sup> for the sake of consistency.
+They are intended to illuminate the provisions of the guidelines to which they are attached, rather than to extend those provisions.
+Therefore, neither the examples nor the form in which they are presented should be taken as instructions, unless the accompanying text specifically states that they should.
+Most examples are from actual titles; in the few made-up examples an attempt has been made to formulate realistic data.
+Examples of complete entries may be found in <a href="/appendices/record-examples">Examples of records containing core elements in the different levels of hierarchy</a>.
+Examples of the elements of description in different data structures are shown in <a href="/appendices/element-comparison">Elements of Description comparison</a>.
+The bibliography follows ISO 690.</p>
+<hr>
+<ol class="footnote-definition">
+<li id="footnote-1-4">
+<p>University of Chicago. 2003. The Chicago manual of style. Chicago, Ill: University of Chicago Press. <a href="#fr-1-1-4">↩</a></p>
+</li>
+</ol>
+<div style="break-before: page; page-break-before: always;"></div>
+<h1 id="errors"><a href="#errors" class="header">Errors</a></h1>
+<p>As these guidelines recognise the importance of researched information in the catalogue entry, unintentional errors or inaccuracies from the Item should not be reproduced at the Work or Variant levels.</p>
+<p>Begin with what the source of information says and correct it only when it is known to be ambiguous or erroneous.
+Correction must be done in such a way that the resource remains recognisable to the users unaware of the error.<sup class="footnote-reference" id="fr-1-1-5"><a href="#footnote-1-5">1</a></sup> For example, AACR2 recommends transcribing the error followed by “sic” and sometimes the correct text in square brackets.</p>
+<p>!!! example “Example”
+Title (Work): À bout de souffle</p>
+<pre><code>Title (Item): À bout de souflee [sic]
+</code></pre>
+<p>OR</p>
+<p>!!! example “Example”
+Title (Work): À bout de souffle</p>
+<pre><code>Title (Item): À bout de souflee [souffle]
+</code></pre>
+<p>In RDA, the title is provided as transcribed without a recognition of the misspelling, with the correct title added in a secondary set of Title and Title Type fields (see <a href="/appendices/titles/title_types#sec-alternative_title_types">Alternative title types</a>) and a Note explaining the misspelling.</p>
+<p>!!! example “Example”
+Title (Work): À bout de souffle</p>
+<pre><code>Title (Item): À bout de souflee    
+
+Title (Item): À bout de souffle     
+
+TitleType (Item): Actual title  
+
+Note: Title on item is misspelled.
+</code></pre>
+<p>Missing information required to understand and identify a Manifestation, Variant, or Item can be supplied in brackets.</p>
+<p>Record intentionally misspelled words as found.</p>
+<p>!!! example “Example”
+Title (Work): Inglorious Basterds</p>
+<hr>
+<ol class="footnote-definition">
+<li id="footnote-1-5">
+<p>YCR, Principle 3, p.4. <a href="#fr-1-1-5">↩</a></p>
+</li>
+</ol>
+<div style="break-before: page; page-break-before: always;"></div>
+<h1 id="alternatives-and-options"><a href="#alternatives-and-options" class="header">Alternatives and Options</a></h1>
+<p>Certain of the individual guidelines or parts of guidelines in this manual are introduced by the words, “alternatively” or “optionally.” Optional provisions arise from the recognition that different solutions to a problem and differing levels of detail and specificity are appropriate in different contexts.
+Some alternatives and options should be decided as a matter of cataloguing policy for a particular catalogue or archive and should therefore be exercised either always or never.
+Other alternatives and options should be exercised case-by-case.
+It is recommended that all institutions which undertake cataloguing distinguish between these two types of options and keep a record of their policy decisions and of the circumstances in which a particular option may be applied.</p>
+<p>The necessity for judgment and interpretation by the cataloguer is recognised in these guidelines.
+Such judgment and interpretation may be based on the requirements of a particular catalogue or upon the use of the items being catalogued.
+The need for judgment is indicated in these guidelines by phrases such as “if appropriate,” “if important” and “if necessary.” These indicate recognition of the fact that uniform regulation of catalogues is neither possible nor desirable, and encourage the application of individual judgment based on specific local knowledge.
+This statement in no way contradicts the value of standardisation.
+Such judgments must be applied consistently within a particular context and must be documented by the individual archive.</p>
+<p>In addition, adherence to these structures and standards may not be wholly appropriate or possible for some institutions, given the differences in current practice, available cataloguing tools, and other issues.
+An attempt has been made to design guidelines that can be applied where feasible, but which are not meant to be prescriptive.</p>
+<div style="break-before: page; page-break-before: always;"></div>
+<h1 id="works"><a href="#works" class="header">Works</a></h1>
+<p><a id="sec-moving_image_works_definition"></a></p>
+<h2 id="definitions1"><a class="header" href="#definitions1">Definitions<sup class="footnote-reference" id="fr-1-1-6"><a href="#footnote-1-6">1</a></sup></a></h2>
+<p>Brief definitions of the standard CEN terms Work/Variant/Manifestation/Item used in the Manual were provided at the end of the Introduction (see <a href="/introduction">Introduction</a>).
+This and the following sections provide in-depth definitions of the terms as used in these guidelines, beginning with the highest level in the description hierarchy: Moving Image Work.</p>
+<p><a id="sec-moving_image_work"></a></p>
+<h3 id="moving-image-work"><a class="header" href="#moving-image-work">Moving Image Work</a></h3>
+<p>A moving image Work comprises both the intellectual or artistic content and the process of realisation in a cinematographic medium, e.g., what it is called, when it was made, who made it, who was in it, what it is about, etc.</p>
+<p>A Work as a conceptual entity is the topmost level of description.
+It may be published or unpublished, complete (whole) or incomplete (unfinished or missing content), edited or unedited.
+It is intended to function as the “node” that relates all Variants and Manifestations of a Work to a common creation.
+A Work contains the characteristics that are inherited across any Variant, Manifestation, or Item derived from that Work.
+It also reflects the original intentions of its realisation, including: circumstances of the creation process such as date(s) and place(s) of production, most contributions by agents such as directors, screenwriters, production companies and cast members, as well as certain statements about the contents.<sup class="footnote-reference" id="fr-2-1-4"><a href="#footnote-2-4">2</a></sup></p>
+<p>The concept of moving image Work includes moving image realisations of events or performances – such as edited or unedited recordings of a play or concert performed in a theatre, a sporting event, a street performer, a medical procedure, etc.</p>
+<p>In addition, moving images created by use of automatic devices such as surveillance cameras or vehicle-mounted cameras, can also be considered moving image works if they are subject to collecting or publishing activities.</p>
+<p>The presence of artistic intent in the creation of a moving image entity is not a prerequisite for considering it a moving image Work.
+A moving image entity can be considered as a Work on a very broad spectrum of creative intent, from the classic fiction feature film at one extreme (with artistic input from dozens or hundreds of creative contributors), through amateur film (with a modicum of creative intent by one individual) and YouTube or TikTok content, to CCTV footage or other automatic recording outputs at the other extreme.</p>
+<p>Works may have one-to-many relationships with instances of Variant and Manifestation/Item and many-to-many relationships with instances of Agent(s,) Event(s), Content(s), Subject(s) and Other Relation(s). <sup class="footnote-reference" id="fr-3-1-3"><a href="#footnote-3-3">3</a></sup></p>
+<p>Works include:</p>
+<p><em>Moving Image realisations based on new scripts or adapted from pre-existing textual works such as novels, plays, etc.</em></p>
+<p>!!! example “Example”
+Hamlet (UK, 1948, Laurence Olivier)</p>
+<pre><code>Hamlet (United States of America, 1996, Kenneth Branagh)
+</code></pre>
+<p>!!! example “Example”
+Les misérables (France, 1958, Jean-Paul Le Chanois)</p>
+<pre><code>Les misérables (United States of America, 1998, Bille August)
+</code></pre>
+<p>!!! example “Example”
+Trollflöjten (Sweden, 1975, Ingmar Bergman)</p>
+<pre><code>Il flauto magico (Italy, 1976, Giulio Gianini and Emanuele Luzzati)
+</code></pre>
+<p>!!! example “Example”
+Tosca (Italy, 1939, Karl Koch)</p>
+<pre><code>Tosca (Italy, 1973, Luigi Magni)
+</code></pre>
+<p><em>Moving Image realisations of scheduled performances or events such as concerts, original theatre performances, sports events, etc.<sup class="footnote-reference" id="fr-4-1-2"><a href="#footnote-4-2">4</a></sup> These are distinguished from cinematically staged theatrical or musical events for the purpose of creating a unique moving image work such as the Tosca and Hamlet examples provided above.</em></p>
+<p>!!! example “Example”
+Simon and Garfunkel: The Concert in Central Park (United States of America, 1982, Michael Lindsay-Hogg)</p>
+<p>!!! example “Example”
+Olympia 1. Teil – Fest der Völker (Germany, 1938, Leni Riefenstahl)</p>
+<pre><code>Olympia 2. Teil – Fest der Schönheit (Germany, 1938, Leni Riefenstahl)
+</code></pre>
+<p>!!! example “Example”
+Marathon (Spain, 1992, Carlos Saura)</p>
+<p><em>Moving Images created by use of automatic devices such as surveillance cameras, scientific or medical instruments, etc.</em><sup class="footnote-reference" id="fr-5-1-2"><a href="#footnote-5-2">5</a></sup> <sup class="footnote-reference" id="fr-6-1-2"><a href="#footnote-6-2">6</a></sup>.</p>
+<p>!!! example “Example”
+Birmingham Town Hall Car Park. Camera 7. (United Kingdom, 2015, NCP)</p>
+<p>!!! example “Example”
+University College Hospital. Endoscopy – Colonscope. Patient HX3456. 2010 (United Kingdom, 2010, University College Hospital)</p>
+<hr>
+<ol class="footnote-definition">
+<li id="footnote-1-6">
+<p>For a discussion of other definitions of the “Work” and Variant entities, see <a href="/other-relationships#sec-moving_image_works">Moving Image Works</a>. <a href="#fr-1-1-6">↩</a></p>
+</li>
+<li id="footnote-2-4">
+<p>Adapted from the definition of a Cinematographic Work in EN 15907, 4.1.1, p.8. <a href="#fr-2-1-4">↩</a></p>
+</li>
+<li id="footnote-3-3">
+<p>Adapted from the definition of a Cinematographic Work in EN 15907, 4.1.1, p.8. <a href="#fr-3-1-3">↩</a></p>
+</li>
+<li id="footnote-4-2">
+<p>Adapted from the definition of a Cinematographic Work in EN 15907, 4.1.1, p.8. <a href="#fr-4-1-2">↩</a></p>
+</li>
+<li id="footnote-5-2">
+<p>Adapted from the definition of a Cinematographic Work in EN 15907, 4.1.1, p.8. <a href="#fr-5-1-2">↩</a></p>
+</li>
+<li id="footnote-6-2">
+<p>These are invented examples for illustrative purposes <a href="#fr-6-1-2">↩</a></p>
+</li>
+</ol>
+<div style="break-before: page; page-break-before: always;"></div>
+<h1 id="attributes-of-a-moving-image-work"><a href="#attributes-of-a-moving-image-work" class="header">Attributes of a Moving Image Work</a></h1>
+<p><a id="sec-work_variant_description_type"></a></p>
+<h2 id="work-description-type1"><a class="header" href="#work-description-type1">Work Description Type<sup class="footnote-reference" id="fr-1-1-7"><a href="#footnote-1-7">1</a></sup></a></h2>
+<p>The description type establishes the general focus of the Work being catalogued, whether it is a complete Work in one part, a Work made up of several parts, or a physical group or collection of Works.
+Providing this information helps the cataloguer and user understand the context of the Work/Variant being described, and whether it has any relationships with other Works/Variants.
+For example, a television series could be catalogued as a Serial, which implies that there could be related Works (episodes) catalogued as Monographs.</p>
+<p>Record the level of description of the work being catalogued, for example, “analytic,” “monographic,” “serial,” etc., according to a controlled vocabulary.
+The terms used in this Manual are derived from traditional bibliographic cataloguing rules and from EN 15907, but an institution may choose to create its own list of terms.</p>
+<p>The Types below reflect terms used in Section 4.1.2 Attributes in the CEN standard EN 15907. <sup class="footnote-reference" id="fr-2-1-5"><a href="#footnote-2-5">2</a></sup></p>
+<h3 id="analytic-component-part"><a class="header" href="#analytic-component-part">Analytic (component part)</a></h3>
+<p>Content that is contained in another content.
+A component part may itself be either monographic or serial. Component here means intentional component part not fragments or excerpts of a moving image, e.g. an individual element from a larger newsreel issue.</p>
+<p>!!! example “Example”
+Work [Monographic] – Topical Budget 657-1</p>
+<pre><code>Manifestation: Theatrical Release - 35mm - UK - 27th March 1924
+
+Work [Analytic (component part)] – One way of solving the traffic problem 
+
+Manifestation 1: Internet – digital file – UK -2015 – BFIplayer (streaming channel) 
+</code></pre>
+<p>!!! example “Example”
+Work [Monographic] - Kwaidan
+Manifestation: Theatrical Release - 35mm - Japan - December 1964</p>
+<pre><code>Work [Analytic (component part)] - The woman of the snow
+Manifestation: Theatrical Release - 35mm - United Kingdom - October 1968 
+</code></pre>
+<h3 id="monographic"><a class="header" href="#monographic">Monographic</a></h3>
+<p>Complete content in one part or intended to be completed in a finite number of parts.
+This is also applicable to television episodes.
+The record for the television series itself is catalogued as a Serial.</p>
+<p>!!! example “Example”
+Coronation Street [1960-12-09]
+!!! example “Example”
+Spaced. Series 1 Episode 1. 1999-09-02</p>
+<h3 id="serial"><a class="header" href="#serial">Serial</a></h3>
+<p>Content issued in successive parts and intended to be continued indefinitely, or across a span of time.
+A Work record for a television series is catalogued as a “Serial.” Individual episodes may be catalogued as a Monographic record.</p>
+<p>!!! example “Example”
+Gaumont British News (1934-)
+!!! example “Example”
+Flash Gordon’s Trip to Mars (1938)
+!!! example “Example”
+Chemistry Essentials (1996)
+!!! example “Example”
+Breaking Bad (2008-01-20 – 2013-09-29)</p>
+<h3 id="collection"><a class="header" href="#collection">Collection</a></h3>
+<p>Content issued in several independent parts; an ‘umbrella’ work title covering a number of different Works/Variants/Manifestations<sup class="footnote-reference" id="fr-3-1-4"><a href="#footnote-3-4">3</a></sup>.</p>
+<p>!!! example “Example”
+Pleasure (Joan Littlewood, c1963) (Footage shot on behalf of Joan Littlewood as part of her ‘Fun Palace’ project.)
+!!! example “Example”
+The ‘Dogme’ films (Each individually numbered.)
+!!! example “Example”
+Shadows of progress: documentary film in post-war Britain 1951-1977</p>
+<p>Other uses for Collection:<sup class="footnote-reference" id="fr-4-1-3"><a href="#footnote-4-3">4</a></sup></p>
+<p>Archive-acquired collections of works not originally intended for general release or broadcast all have component parts that form the collection as a whole, usually acquired on a series of numerous film reels or videotapes, etc. each with an identifying title.</p>
+<p>!!! example “Example”
+David Lean home movies
+!!! example “Example”
+William Butlin personal films
+!!! example “Example”
+Hollywood interviews (unedited production material for series Hollywood)
+!!! example “Example”
+BFI London Film Festival Awards 2010 – production material, etc.
+!!! example “Example”
+Fifties features (videotape collection of production material, with each of the tapes given an identifying acquisition title:
+!!! example “Example”
+B1-3 Sylvia Syms I/V
+!!! example “Example”
+B4-6 Sylvia Syms I/V &amp; Jill Craigie I/V</p>
+<p>“David Lean home movies,” “Fifties features,” etc. would be the Work titles for the collection-level description, with Collection as its description level.</p>
+<p>The individual components of this collection would also be created as individual Monographic Works.</p>
+<p>!!! example “Example”
+Egypt
+!!! example “Example”
+India
+!!! example “Example”
+India no.2
+!!! example “Example”
+Kenya</p>
+<p>These titles should then be linked to the collection-level description and assigned “part of” relationship.</p>
+<p>Aggregate compilation videos/DVDs that are collections of individual works existing as entities in their own right, e.g. Portrait of a miner is a DVD of various Mining review shorts which had their own individual release as complete entities or works.</p>
+<ul>
+<li>
+<p>Portrait of a miner would be created as the work title, with the description level of Collection.</p>
+</li>
+<li>
+<p>Each of the Mining review Works used in Portrait of a miner would then be linked to it and assigned a “contained in” relationship (see <a href="/appendices/aggregates/modelling_aggregates#sec-modelling_aggregates">Modelling Aggregates</a>).</p>
+</li>
+</ul>
+<p>Provide a list of the compiled works contained in the Collections Work in its Synopsis or Summary field.</p>
+<hr>
+<ol class="footnote-definition">
+<li id="footnote-1-7">
+<p>EN 15907, 4.1.2 Attributes—description Level, p. 8; BFI CID Stylistics Manual, A.1.3 Filmographic Level, pp. 7-8 <a href="#fr-1-1-7">↩</a></p>
+</li>
+<li id="footnote-2-5">
+<p>https://filmstandards.org/fsc/index.php/EN_15907. The terms and their definitions used in the EN 15907 Standard itself are rooted in those from UNESCO CCF/B (Common Communications Format / Bibliographic, UNESCO PGI-92/WS/9, Paris, 1992,(INSERT LINK) which related to bibliographic information.) <a href="#fr-2-1-5">↩</a></p>
+</li>
+<li id="footnote-3-4">
+<p>This aligns with EN 15907 definitions relating to Work types and is different and distinct from Collection Aggregates <a href="#fr-3-1-4">↩</a></p>
+</li>
+<li id="footnote-4-3">
+<p>BFI CID Stylistics Manual, A.1.3 Filmographic Level, p. 8 <a href="#fr-4-1-3">↩</a></p>
+</li>
+</ol>
+<div style="break-before: page; page-break-before: always;"></div>
+<h1 id="elements-of-a-work"><a href="#elements-of-a-work" class="header">Elements of a Work</a></h1>
+<p>This section describes the metadata elements that can be used to describe a Work.
+It is up to each institution to choose which elements are most applicable to describe their collections and according to what their system can support.</p>
+<p>This Manual recommends using the qualifier “Type” for several core elements if an institution’s system can support it.
+In these cases, “Type” is used to define the source, function or purpose of the value entered in the main element.
+Using a “Type” qualifier conforms to its use in Dublin Core and other Dublin Core-influenced standards such as EBUCore and PBCore.
+Examples of using “Type” include the Identifier, Title, Date, and Description elements.</p>
+<p><a id="sec-work_variant_identifier"></a></p>
+<h2 id="work-identifier"><a class="header" href="#work-identifier">Work Identifier</a></h2>
+<p>Create an unambiguous reference to the Work using a unique identifier and indicate the type of identifier.
+The identifier should be a numerical or alphanumerical reference.
+This identifier is for the content of the Work, not for a specific Item.
+Variant, Manifestations and Items have their own Identifiers, discussed in later sections.
+This Work Identifier is shared by all Variants, Manifestations and Items associated to the Work.</p>
+<p>In a way, a unique Work Identifier can have more value than a Work’s Title.
+Titles can confuse through different spellings, translations, and are not unique (i.e., King Kong).
+An Identifier refers to a specific Work/Variant and provides clear disambiguation between Works when there is confusion.</p>
+<p>There can be more than one Work unique identifier for the content.
+This commonly occurs when institutions have content assigned identifiers by various standards or distribution agencies (ISAN, EIDR), or a government or other official body in the archive’s country has assigned an identifier to the work.
+An institution will likely have its own internal Identifier as well, often auto-generated by an institution’s information or asset management system.
+For example, a Work may have these associated identifiers:</p>
+<ul>
+<li><a href="https://www.isan.org">International Standard Audiovisual Number (ISAN)</a></li>
+<li><a href="https://www.eidr.org">EIDR (Entertainment Identifier Registry)</a></li>
+<li><a href="https://www.viaf.org">VIAF (Virtual International Authority File)</a></li>
+<li>Locally-generated</li>
+</ul>
+<p>Use what makes sense for your institution; there is no recommendation for one particular resource.
+However, it is recommended that at least one unique identifier be included in the record.
+It is critical that each Identifier be unique.</p>
+<p>!!! example “Example”
+Cabiria (Italy, 1914, Piero Fosco)</p>
+<pre><code>Work identifier – ISAN number: ISAN 0000-0000-7B37-0000-J-0000-0000-H
+
+Note: Pietro Fosco is the pseudonym of Giovanni Pastrone used in the ISAN registration.
+</code></pre>
+<p>!!! example “Example”
+Volver (Spain, 2006, Pedro Almodovar)</p>
+<pre><code>Work identifier – ISAN number: ISAN 0000-0001-6B16-0000-Y-0000-0000-9
+</code></pre>
+<p>!!! example “Example”
+Metropolis (Germany, 1927, Fritz Lang)</p>
+<pre><code>Work identifier – VIAF number: 219448355
+</code></pre>
+<p>!!! example “Example”
+The boxer (United States, Ireland, 1997, Jim Sheridan)</p>
+<pre><code>Work identifier – EIDR number: 10.5240/5896-B203-017D-11A5-EB7F-W  
+
+Work identifier – ISAN number: 0000-0000-60A5-0000-E-0000-0000-W
+</code></pre>
+<p><a id="sec-work_identifier_type"></a></p>
+<h3 id="identifier-type"><a class="header" href="#identifier-type">Identifier Type</a></h3>
+<p>If an institution’s system allows, a “Type” can be applied with an Identifier to define the source of the Identifier.</p>
+<p>!!! example “Example”
+The boxer (United States, Ireland, 1997, Jim Sheridan)</p>
+<pre><code>Work identifier: 10.5240/5896-B203-017D-11A5-EB7F-W 
+
+Identifier type: EIDR 
+
+Work identifier: 0000-0000-60A5-0000-E-0000-0000-W 
+
+Identifier type: ISAN
+</code></pre>
+<p><a id="sec-work_title"></a></p>
+<h2 id="title"><a class="header" href="#title">Title</a></h2>
+<p>Record at least one title, identifying phrase, or name for the moving image Work.
+If your institution is applying the use of “Type” qualifiers, use “Title Type” to state the function of a particular title (see <a href="/works/elements_of_a_work_variant#sec-work_title_type">Title Type</a> and <a href="/appendices/titles">Titles and Title Types</a>).</p>
+<p>Ideally, the record should at a minimum contain the “preferred title” (also referred to as “main” or “original” title) of the Work.
+Generally, it is the title of a moving image Work when first released, broadcast, published or transmitted (i.e. mounted online) in the country or countries of origin.
+It may differ from the title found on a particular manifestation of the Work; the actual title on the Manifestation is noted in the Manifestation Title element (see <a href="/manifestations/elements_of_a_manifestation#sec-manifest_title">Title</a>).
+See <a href="/appendices/titles/title_types#sec-title_types">Title Types</a> for additional information.</p>
+<p>For creating titles for untitled or unidentified entities see <a href="/appendices/titles/title_types#sec-supplied_devised_titles">Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)</a>.Television programmes and other types of content that are part of a series/serial should have both the series/serial title and the episode title included in the Work record.
+This may be via use of a “Title type” qualifier.
+See <a href="/appendices/titles/title_types#sec-titles_of_series_serials">Titles and structuring of series/serials</a> for other options.</p>
+<p>!!! example “Example”
+Gone with the wind (United States of America, 1939, Victor Fleming)</p>
+<pre><code>Gone with the wind – Preferred Title of the Work 
+
+Via col vento – Variant title – Dubbed (Italian) 
+
+Gejaagd door de win – Variant title – Dubbed (Dutch) 
+
+Autant en emporte le vent – Variant title – Dubbed – (French) 
+
+風と共に去りぬ – Variant title – Dubbed (Japanese)
+</code></pre>
+<p>!!! example “Example”
+Аленький цветочек (USSR, 1952, Lev Atamanov)</p>
+<pre><code>Аленький цветочек – Title of the Work 
+
+Alenkiy tsvetochek: Alternative (transliterated) title of Work/ Variant (Preferred title if systems don’t use Cyrillic) 
+
+Feuerrotes Blümchen – Variant title – Dubbed (German) 
+
+The Scarlet Flower – Variant title – Dubbed (English)
+</code></pre>
+<p>!!! example “Example”
+La passeggiata (Italy, 1953, Renato Rascel)</p>
+<pre><code>La passeggiata – Preferred Title of the Work 
+
+La prospettiva – Alternative title (Working title)
+</code></pre>
+<p>!!! example “Example”
+Anathan (Japan, 1953, Joseph von Sternberg)</p>
+<pre><code>Anathan – Preferred Title of the Work 
+
+The saga of Anathan – Alternative Title of the Work/Variant
+</code></pre>
+<p>!!! example “Example”
+Mary Tyler Moore show – Series title</p>
+<pre><code>Chuckles bites the dust – Preferred title
+</code></pre>
+<p>See <a href="/appendices/titles#sec-appendix_title">Title</a> for fuller titling details and information.</p>
+<p>See <a href="/appendices/aggregates/titling_of_aggregates#sec-titling_of_aggregates">Titling of Aggregates</a> for titling of Aggregates (e.g., compilations).</p>
+<p>For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see <a href="/preliminary/purpose_scope_and_use#sec-purpose">Purpose</a>.</p>
+<p>For sources of information for the Title, see <a href="/preliminary/prelim_sources_of_information#sec-prelim_sources_of_information">Sources of Information</a></p>
+<p><a id="sec-work_title_type"></a></p>
+<h3 id="title-type"><a class="header" href="#title-type">Title Type</a></h3>
+<p>Where relevant for an institution, if the Work, Variant or Manifestation includes multiple titles, such as a title in another language for a dubbed or subtitled variant, record the relevant Variant titles and associate a “Title Type” to each title for differentiation between the various types of titles (see <a href="/appendices/titles">Titles and Title Types</a>).</p>
+<p><a id="sec-country_of_reference"></a></p>
+<h2 id="country-of-reference"><a class="header" href="#country-of-reference">Country of Reference</a></h2>
+<p>Where known and applicable, record the geographic origin of the moving image Work.
+This should be the country or countries where the principal offices or production facilities of the production company or companies are located.<sup class="footnote-reference" id="fr-1-1-8"><a href="#footnote-1-8">1</a></sup>
+Where an official national certificate or designation of a Work exists, use this as the authoritative source, e.g., Italian government department designates what is officially an Italian film.<sup class="footnote-reference" id="fr-2-1-6"><a href="#footnote-2-6">2</a></sup>
+When more than one place is associated with a Work/Variant, choose the place(s) with primary importance.</p>
+<p>For institutions who need or require specific ordering of country of reference then the following options are possible examples of how this may be achieved.<sup class="footnote-reference" id="fr-3-1-5"><a href="#footnote-3-5">3</a></sup></p>
+<p>If the Work is a multi-national production, the countries added to the record should be in order of financial involvement.
+For example, an Austrian/Italian/French co-production where the Austrian production company/sponsors financed 60%, the Italian 25% and the French 15% then the order of the countries would be: Austria, Italy, France.</p>
+<p>If it is not possible to establish clearly the financial percentages of each country’s involvement, then consider the nationality of the director of the title and/or the majority of personnel involved with the film and select that as being the main country of origin of the film.</p>
+<p>If the production company has branches in more than one country, choose the one responsible for the production of the work.</p>
+<p>If the Work is a multi-national production, with production company branches in multiple countries, and it is not clear which particular one was involved, then choose the predominant production company if known.</p>
+<p>Alternatively, since it is often impossible for a cataloguer to determine with any level of accuracy the precise percentages of financial involvement of companies, assign country of origin based on the nationality of the production companies in the order that they appear on screen (for example,  copyright companies followed by production and then ‘presents’ companies). Look at which companies are named on the screen as copyright holders, production companies, and ‘presents’ companies, with all the attendant credits for production companies such as ‘In association with’, ‘With the participation of’, ‘Supported by’, and add the countries in which these companies are based as country of references for the Work, starting with that of the primary production company.</p>
+<p>It is recognised that countries can lay out their credits differently, sometimes with less important companies listed first, or with a ‘presents’ credit as the only credit of the major production companies.</p>
+<p>If the production company has branches in more than one country, choose the production country of the actual branch responsible for the production of the work. If the Work is a multi-national production, with a production company with branches in multiple countries and it is unclear which branch was involved, choose the predominant production company if known.</p>
+<p>An institution should compile its own rules for ordering of country of reference depending on its preferred practice or needs.</p>
+<p>Record the country of origin using the full form of the country name, e.g. United Kingdom rather than UK, by taking the most suitable value(s) from a controlled list. This can be an in-house list but the use of a standard list such as ISO 3166<sup class="footnote-reference" id="fr-4-1-4"><a href="#footnote-4-4">4</a></sup> is preferable. If ISO is used, apply the English Short Name that is associated to a code. Optionally, record the country code as found in ISO 3166-1-alpha 2.</p>
+<p>If the country borders have changed, or two new countries are formed from one former country, then record the name of the country as it was at the time of production, e.g., Czechoslovakia for a Work/Variant produced in 1970, but Czechia or Slovakia for one from 2012.<sup class="footnote-reference" id="fr-5-1-3"><a href="#footnote-5-3">5</a></sup></p>
+<p>Similarly, the same principle applies in the case where two previously separate countries or sovereign states have officially joined together to form a new one, e.g. Tanganyika joined with Zanzibar to become Tanzania on 26th April 1964, so a 1962 film would be given the country of reference of Tanganyika or Zanzibar, as appropriate, but a 1966 film would be given the country of reference of Tanzania.</p>
+<p><a id="sec-occupied_/_annexed_countries"></a></p>
+<h3 id="occupiedannexed-countries"><a class="header" href="#occupiedannexed-countries">Occupied/Annexed countries</a></h3>
+<p>There are often complexities and sensitivities around which production country or countries to apply to moving images made in a country under occupation or annexation. These are sometimes connected with the nature and content of those moving images, e.g. propagandic and ideological aspects, but also with levels of autonomy, e.g. if the production companies and film crews were local but occupying authorities had direct control and involvement over scripts, personnel involved, content, final censorship etc. Even if collaborative or puppet national governments and authorities were technically in charge, if still under occupation then it could be viewed as having the production country of the occupying country.</p>
+<p>So, for example, after the takeover of Austria by Germany in 1938 it was deemed by them to have become a province of the German Third Reich, as did areas of the former Czechoslovakia in 1939. Filmmaking in those countries was a part of the German film industry during this time until 1945. These films may therefore be given a production country of Germany.</p>
+<p>Alternatively, such films may be given two production countries, that of the original country and that of the occupying/annexing country. Using the example above, films made in annexed countries such as Austria and Czechoslovakia often used Austrian and Czech directors, crew, actors, etc. and those countries may deem that these films are a part of their national heritage and that, irrespective of the occupier’s position that their countries did not exist any more this was not the case, they were simply temporarily occupied and annexed by another country.</p>
+<p>Another alternative could be to have additional countries of reference in thesauri or value lists, and distinguish via time periods, e.g.</p>
+<ul>
+<li>Austria (pre-1918)</li>
+<li>Austria (1919-1938)</li>
+<li>Austria (1938-1945)</li>
+<li>Austria (post-1945)</li>
+</ul>
+<p>There may not always be ISO codes for these, and a clarifying definition of these terms would also be needed.</p>
+<p>Similarly, films made in World War II in unoccupied Vichy France would have production country France, while those made in occupied France could have the production country Germany (if made wholly by German authorities) or else two production countries, Germany and France. The same with annexed Korea from 1910 to 1945, where films may have production countries of both Japan and Korea.</p>
+<p>The same also applies to previously colonised countries, under direct or indirect rule [RESEARCH A BIT MORE TO ADD SOME FURTHER SENTENCES HERE]</p>
+<p>It is for each institution to consider and decide what production countries to add on a Work record for moving images made in occupied or annexed countries, and apply consistently in cataloguing. Such decisions should be balanced, and also take into consideration the opinions and experiences of those affected.</p>
+<p>If possible use linking with georeferencing data such as GeoNames for place/location of production company or for indexation of film location to enable findability of films produced for example in film studios in Riga with the search term “Latvia” https://www.geonames.org/ . In this way, it is possible to avoid manifesting or perpetuating geopolitical facts that may be contentious. [NB. may need to cover this under nationality in Agents chapter as well, i.e. how to deal with this if you don’t have geonames linking possibilities, and covering things like country/border changes, e.g. those actors who were born and died in an area of what was India before partition but is now in Pakistan; similarly those who were born in what was then part of Germany but then changed to be part of Poland, etc.]</p>
+<p><a id="sec-countries_with_changed_names_/_borders_or_independence_from_former_empires_multinational_states_or_unions"></a></p>
+<h3 id="countries-with-changed-namesborders-or-independence-from-former-empires-multinational-states-or-unions"><a class="header" href="#countries-with-changed-namesborders-or-independence-from-former-empires-multinational-states-or-unions">Countries with changed names/borders, or independence from former empires, multinational states, or unions</a></h3>
+<p>If adding country names rather than georeferencing data is necessary, here are some recommendations and possible options:</p>
+<p>a) Use VIAF, authority records and ISO codes for countries whenever possible</p>
+<p>b) Retain the old geo-political countries which relate to or are given in the film. For example: if a film was made by a Ukrainian filmmaker and company in the 1960s then it would be designated as having a production country of the USSR, since at that time Ukraine was part of the USSR. If it had been made pre-1917 it would be designated as having the country Russian Empire (or Imperial Russia).</p>
+<p>c) Where countries have attained independence from former empires, multinational states or unions, earlier films made by production companies/studios in the same geographical areas of the countries concerned may be culturally and linguistically a part of their heritage, or there is a need or desire for an institution to identify such films distinct from those in other areas of the same empire or union. e.g. Ukraine. Thus, Ukraine could be added as an additional country to films made during the times it was part of the Russian Empire or USSR. In that case add Ukraine as an additional country, preferably as an ISO code (<a href="https://www.iso.org/obp/ui/#iso:code:3166:UA">https://www.iso.org/obp/ui/#iso:code:3166:UA</a>). Under ISO this technically pertains to the country post-1991, with use of the Soviet Union/USSR before then. Under LC/MARC though, country Ukraine “covers both the Ukrainian SSR (1917-Aug.24 1991) and the newly independent Ukraine (25 Aug. 1991- )”. [It should be noted that 1917 is historically inaccurate: The Ukrainian SSR was established only in 1919].</p>
+<p>d) Alternatively create a country for the Ukrainian SSR, Georgian SSR, Armenian SSR, etc. and apply those as additional production countries. Sometimes these Soviet Socialist Republics (SSRs) existed independently until joining together to form the USSR in 1922, and it may be relevant to just use these as production country for any films made between 1918 and 1922. However, there are no ISO codes for separate Soviet Socialist republics except for Byelorussian SSR. <sup class="footnote-reference" id="fr-200-1"><a href="#footnote-200">6</a></sup></p>
+<p>e) Combinations of any of the above.</p>
+<p>It remains the policy decision of an institution or festival to choose a preferred name for display on online platforms and/or in festival catalogues. This decision should not be taken lightly and should be informed by the opinions and experiences of those affected.</p>
+<p><a id="sec-year_date_of_reference"></a></p>
+<h2 id="yeardate-of-reference"><a class="header" href="#yeardate-of-reference">Year/Date of Reference</a></h2>
+<p>A year or fuller date (e.g., day/month/year) is essential to identifying a moving image Work and, where applicable, its Variants.
+A common use of year/date is chronological ordering of lists of Works and their Variants.<sup class="footnote-reference" id="fr-6-1-3"><a href="#footnote-6-3">7</a></sup>
+As explained below, these guidelines recommend, where possible, applying two qualifiers to a Date element: Date Type, and Date Precision.</p>
+<p>There is no primary or “preferred” year or date except within the context of the type of Work and, where applicable, its Variants.
+That is, typically, an original date of release or broadcast is essential for identifying a moving image Work and its Variants.
+In the absence of a release or broadcast date, provide a year of creation or production.</p>
+<p>Record any dates associated with the Work or its Variants formatted according to <a href="https://www.iso.org/standard/40874.html">ISO 8601</a> or other available resources, such as <a href="https://www.loc.gov/standards/datetime/">EDTF</a> (Extended Date Time Format).
+ISO 8601 prescribes that dates should be formatted hierarchically as Year-Month-Day, using this convention: YYYY-MM-DD.
+Example: 2015-07-04.
+This structure eliminates confusion when dates can be formatted with month before day or day before month (e.g., 07/04/2015 or 04/7/2015).
+Using the ISO format makes indexing and sorting more efficient.
+Using words (June 11, 2004), while perhaps user-friendly in its narrative construction, are difficult to index as dates.
+Mixing date formats causes confusion in data retrieval and for users!</p>
+<p>Where full dates are not known use Year-Month YYYY-MM or just Year YYYY, as systems permit.</p>
+<p><a id="sec-date_type"></a></p>
+<h3 id="date-type"><a class="header" href="#date-type">Date Type</a></h3>
+<p>The year or date should be associated with an event in the life cycle of the Work or its Variants (see <a href="/works/relationships_of_a_work_variant#sec-work_events">Events (e.g., IPR registration, screenings, awards, etc.)</a>).
+If your system supports it, apply a “Date Type” qualifier to make the date or year purpose clear.
+Date Type terms should be derived from a controlled vocabulary.
+For a list of initial terms, see <a href="/events/event_type#sec-event_type">Event Type</a>.</p>
+<p>For Works and Variants, the date is typically related to events such as its creation, availability (i.e. publication, release, distribution, broadcast or transmission) or registration (e.g. for copyright or intellectual property purposes), or bestowal of an award.</p>
+<p>More than one year or date may be associated with a Work or its Variants.
+For example, in the case of a Work comprising segments produced in different years (for example, a home movie); list the years, if known, e.g., 1955, 1956, 1959.<sup class="footnote-reference" id="fr-7-1-2"><a href="#footnote-7-2">8</a></sup></p>
+<p>Similarly, a Work may have a production date of 1962, a copyright date of December 1963, and a first release date of January 1964.
+Apply the Date Type qualifier to clarify the purpose of each date.</p>
+<p><a id="sec-date_precision"></a></p>
+<h3 id="date-precision"><a class="header" href="#date-precision">Date Precision</a></h3>
+<p>Where possible, provide a “Date Precision” qualifier to note if the date is precise, approximate, estimated, or a range.
+EDTF also provides codes to denote precision.
+For example, an uncertain or approximate date may be formatted thus: 2004-06~-11 (year and month are approximate; day known).
+Using a Date Precision qualifier, this Date entry could be entered as:</p>
+<p>Date: 2004-06-11<br>Date Type: Creation<br>Date Precision: Approximate</p>
+<p>An institution may choose to use a precision qualifier for imprecise dates.</p>
+<p>If ISO formatting and/or the Date Precision qualifier are not applied, then use consistent terms and formatting to note date approximations.<sup class="footnote-reference" id="fr-8-1-2"><a href="#footnote-8-2">9</a></sup>:</p>
+<p><em>One year or the other</em></p>
+<p>!!! example “Example”
+1971 or 1972</p>
+<p><em>Probable Year (with qualifying note to indicate date is probably 1969)</em></p>
+<p>!!! example “Example”
+[1969?]</p>
+<pre><code>1969? 
+
+Circa 1969
+</code></pre>
+<p><em>Approximate Year</em></p>
+<p>!!! example “Example”
+[Circa 1960]</p>
+<pre><code>Circa 1960 
+
+1960 circa
+</code></pre>
+<p><em>Decade Certain</em></p>
+<p>!!! example “Example”
+191-</p>
+<pre><code>Decade 1910 
+
+1910 decade
+</code></pre>
+<p><em>Probable Decade (with qualifying note to indicate that date is probable decade date)</em></p>
+<p>!!! example “Example”
+[191-?]</p>
+<pre><code>1910 decade 
+
+Decade 1910
+</code></pre>
+<p><em>Use for time spans, the outside limits of which can be precisely determined</em></p>
+<p>!!! example “Example”
+between 1906 and 1912</p>
+<p><em>Where system has date start/ date end functionality</em></p>
+<p>!!! example “Example”
+1906 1912</p>
+<p>In instances such as these, a note should be given which further explains the Date.</p>
+<p>!!! example “Example”
+[Personal record. Eugene Meyer family. Family camping trip through the Canadian Rockies]. – US, 1926.</p>
+<pre><code>[Note] Year from notes accompanying item, attached to inventory, and from Merlo Pusey’s Eugene Meyer, (New York: Knopf, 1974), p.195
+</code></pre>
+<p><a id="sec-languages"></a></p>
+<h2 id="languages"><a class="header" href="#languages">Language(s)</a></h2>
+<p>A moving image Work is conceived and presented in a particular language or set of languages.
+Changes to the original language(s), as in the case of dubbing, are considered minor changes and can constitute a Variant of a moving image Work.</p>
+<p>Alternatively, such minor changes can constitute a new Manifestation of a moving image Work rather than a Variant.
+Institutions using cataloguing structures that do not distinguish Variant level information (for example, those that create records primarily at the Manifestation level), should apply this alternative.
+(See guidelines for language in a Manifestation: <a href="/manifestations/elements_of_a_manifestation#sec-manifest_language">Language</a>)</p>
+<p>Indicate the language(s) (e.g., Italian) and usage(s) (e.g., Italian intertitles) in which the moving image Variant/Manifestation is written, spoken or sung, if applicable.
+More than one language can occur in different forms, depending on how the content is expressed (e.g., French dialogue and English subtitles).</p>
+<p><a id="sec-language_term"></a></p>
+<h3 id="language-term"><a class="header" href="#language-term">Language Term</a></h3>
+<p>Record the language(s) by taking the most suitable value(s) from a controlled list of languages.</p>
+<p>This can be an in-house list but it is preferable to use a standard language list such as the ISO 639 codes, including ISO 639-2, 693-3 and 639-5 (http://www.loc.gov/standards/iso639-2/langhome.html).</p>
+<p>Optionally, record the language code as found in ISO 639, where allowable.</p>
+<p>If no language can be determined, the information can be omitted or indicated by a value of “unknown”.</p>
+<p><a id="sec-work_usage_type"></a></p>
+<h3 id="usage-type"><a class="header" href="#usage-type">Usage Type</a></h3>
+<p>Record the usage type of a language (e.g. spoken, intertitles, subtitles, etc.) by taking the most suitable term from a controlled list elaborated in-house or referring to an existing authoritative list, e.g.:</p>
+<ul>
+<li>Dialogue language(s)
+<ul>
+<li>Spoken language</li>
+<li>Sung language</li>
+<li>Signed language</li>
+<li>No dialogue</li>
+</ul>
+</li>
+<li>Written languages
+<ul>
+<li>Subtitles</li>
+<li>Captions</li>
+<li>Intertitles</li>
+</ul>
+</li>
+<li>Language(s) of summaries on containers</li>
+<li>Language(s) of accompanying material</li>
+</ul>
+<p>Optionally, record language usage type at the Manifestation/Item level (see <a href="/manifestations/elements_of_a_manifestation#sec-manifest_language">Language</a>).
+A value of “original” can be added to the Language element here to indicate that statements made about the language(s) for a particular Manifestation/Item are indicative of the language(s) of the “original” Work. <sup class="footnote-reference" id="fr-10-1-1"><a href="#footnote-10-1">10</a></sup></p>
+<p><a id="sec-content_description"></a></p>
+<h2 id="content-description-synopses-shotlists-etc11"><a class="header" href="#content-description-synopses-shotlists-etc11">Content description (synopses, shotlists, etc)<sup class="footnote-reference" id="fr-9-1-2"><a href="#footnote-9-2">11</a></sup></a></h2>
+<p>Write a concise, objective, non-critical summary of the content of the moving image Work and/or Variant.
+Content descriptions can be synposes, brief TV guide-like one sentence description, shotlists, etc. There can be more than one type of content description in the record, e.g. it is possible to have both a shotlist and a synopsis.</p>
+<p>The content description should be written in a style that is easy to read.
+It should not include technical terms, abbreviations, or allusions significant to a specialist audience.
+Avoid slang expressions and colloquialisms fashionable at the time of writing,and, where several cataloguers are viewing independently, they should, ideally, try to achieve a common written style.
+Descriptions should be objective and not include subjective commentary on the quality of the content.
+If acceptable summaries are already available in secondary sources, cataloguers may use these, instead of taking the time to prepare summaries of their own. If using summaries exactly as written, put the summary in quotes and note the source of the summary.<sup class="footnote-reference" id="fr-11-1-1"><a href="#footnote-11-1">12</a></sup></p>
+<p>!!! example “Example”
+An historical drama set in 16th century England in which King Henry VIII divorces his wife, Catherine of Aragon, and marries Anne Boleyn, a former lady-in-waiting, who is in love with Sir Thomas Wyatt. After several years, Henry becomes infatuated with Lady Jane Seymour and arranges to have the innocent Anne found in a compromising situation with Sir Thomas. Anne is tried for infidelity, found guilty, and executed.</p>
+<p>!!! example “Example”
+Donald Graham, millionaire ex-convict, plans revenge on society figure John Cabin Brand, whom he blames for the death of his daughter.</p>
+<p>A content description may also be a shotlist or listing of the contents of an aggregate Work/Variant (see <a href="/appendices/aggregates">Aggregates (Compilations, Multi-component productions)</a>). Shotlists are the ideal content description to have or aim to have, particularly for non-fiction moving images, but it is recognised that resources and accessibility mean this is not always possible or practical for an archive or institution.<sup class="footnote-reference" id="fr-12-1-1"><a href="#footnote-12-1">13</a></sup></p>
+<p>!!! example “Example”
+Title: Pathe News [Excerpts No. 6]</p>
+<pre><code>Contents: “Newest U.S. Submarine Goes into Commission,” Pathe News No. 60 [1921] (160 ft.) -- “Span of New Memorial Bridge to Connect N.H. and Maine,” Pathe News No. 57 [1923] (72 ft.) -- “Celebrate 300th Anniversary of Settling of Portsmouth,”Pathe News No. 69 [1923] (99 ft.) -- “World’s Largest Sub Takes First Plunge,” Pathe News No. 93 [1927], (c) 21Nov27; MP4478 (134 ft.) -- “New Memorial Bridge between N.H. and Maine!” Pathe News No. 70 [1923] (105 ft.) -- “Launch Largest Submarine Cruiser,” Pathe Sound News No. 1 [1930], (c) 29Dec29; MP1025 (80 ft.).
+</code></pre>
+<p>!!! example “Example”
+Title: Victorian Cinema: 4: Bamforth/Riley/Hepworth</p>
+<pre><code>Contents: 
+
+Weary Willie (1898) (78ft), 
+
+Catching the Milk Thief (1899) (140ft) 
+
+The Tramp and the Baby’s Bottle (1899) (214ft), 
+
+Women’s Rights (1899) (289ft), 
+
+A Kiss in the Tunnel (1899) (367ft), 
+
+Boy’s Cricket Match and Fight (1900) (475ft), 
+
+[… real example shortened] 
+
+End
+</code></pre>
+<p>!!! example “Example”
+Title: Magnificent Reproductions of the Great Yorkshire Show in Bradford (1901)</p>
+<pre><code>Mitchell &amp; Kenyon 641: Panning shot across a road to the Yorkshire Agricultural Society building with a diffuse crowd of people in front of the building. As the shot passes the building, a number of people can be seen sitting down, including mothers with babies and some older people (00.36). Cut to a close-up shot of the building, with a sign reading “The Yorkshire Agricultural Society. Established 1837” (00.45). Cut to a horse-drawn cart spraying some sort of liquid on the path as it moves along. Lettering on the back of the cart reads “Bradford City Council no. 30” (00.58). Cut to wide steps, with a number of smartly dressed men walking down them (presumably entering the show) (01.14). Cut to a shot of the blades of a windmill as they turn (01.23). Cut to a general shot of the show, with crowds and various stalls (02.07). A marquee in the background has the sign “R. Hornsby &amp; Sons Ltd., Grantham”. Another sign reads “Marshall. Sons &amp; Co.”. Chimneys and houses can be seen in the background (02.27min).
+</code></pre>
+<p>The content description can be based on a viewing of the work, accompanying documentation, or secondary sources, but the source should be clearly noted.</p>
+<p>For unedited Works, where time and resources permit, each scene should be summarized.
+If there are shots of particular significance or interest – of, for example, prominent people or places – these should be recorded.
+Otherwise a general description of scenes and sequences will suffice<sup class="footnote-reference" id="fr-13-1-1"><a href="#footnote-13-1">14</a></sup>.</p>
+<p>If applicable, add information about the content of the moving image Variant where it differs from the content of the Work.</p>
+<p><a id="sec-content_description_type"></a></p>
+<h3 id="content-description-type"><a class="header" href="#content-description-type">Content Description Type</a></h3>
+<p>Include a qualifying keyword or otherwise denote the type of summary (e.g. Synopsis, Shotlist, Review).<sup class="footnote-reference" id="fr-14-1-1"><a href="#footnote-14-1">15</a></sup></p>
+<p><a id="sec-notes"></a></p>
+<h2 id="notes"><a class="header" href="#notes">Notes</a></h2>
+<p>Notes for moving image Works/Variants are annotations providing additional information or clarification relating specifically to Works/Variants attributes and relationships.<sup class="footnote-reference" id="fr-15-1-1"><a href="#footnote-15-1">16</a></sup> See <a href="/appendices/cataloguers-notes">Cataloguer’s Notes</a>.</p>
+<p><a id="sec-history"></a></p>
+<h2 id="history"><a class="header" href="#history">History</a></h2>
+<p>Record historical information about events of interest in the creation of the original moving image Work/Variant that is of value for your users, such as censorship history, production versions, and the like.
+This historical information may be recorded in association with instances of Events or Agents.</p>
+<p>If desired, institutions may include historical information that crosses over into being about the Manifestation(s) and/or Item(s).
+This may be done where there is value to the user in keeping all the information together for research or clarification purposes rather than across disparate Manifestation and Item records.
+This may also be applied where no History fields exist in an institution’s system at Manifestation or Item levels, or a no hierarchy one level structure is used.</p>
+<p>!!! example “Example”
+Christopher Columbus (United Kingdom, 1949, David MacDonald)</p>
+<pre><code>There are three documented versions. Version one: which has the shortened reels 3A and 3B; Version two: which has the shorter ending; Version three: which has the long ending (this script is based on the full length reels 3A and 3B and on the short ending, as this is the export version.
+The short ending (version two) has Columbus reinstated by the King and Queen, him leaving their presence and telling Juana he will be remembered longer than the monarchs as he walks down a corridor. The longer version (version three) has a more American feel with two sailors informing Columbus of the great nation his discovery will give rise to, complete with quotes from Jefferson, Lincoln and Roosevelt.
+</code></pre>
+<p><a id="sec-custodial_history"></a></p>
+<h3 id="custodial-history"><a class="header" href="#custodial-history">Custodial History</a></h3>
+<p>If desired, write a brief custodial history of the Work/Variant if known, particularly for rare and unique materials.
+Indicate the current holding institution of the original or master material if known.</p>
+<p>Information on the provenance of the specific Items in an archive’s collection should be included in the Item sections.</p>
+<p><a id="sec-censorship_history"></a></p>
+<h3 id="censorship-history"><a class="header" href="#censorship-history">Censorship History</a></h3>
+<p>Document information related to the censorship history of a Work/Variant, including:<sup class="footnote-reference" id="fr-16-1-1"><a href="#footnote-16-1">17</a></sup></p>
+<ul>
+<li>
+<p>Any events in which a Manifestation/Item of a Work/Variant was evaluated by a censorship body or an accredited rating agency.</p>
+</li>
+<li>
+<p>The geographic region for which the verdict is (was) valid.</p>
+</li>
+<li>
+<p>Any identifier issued by the agency uniquely identifying the act of rating or censorship and associated documents such as censorship visa or rating certificates.</p>
+</li>
+<li>
+<p>The outcome of the act of rating or censorship.</p>
+</li>
+</ul>
+<p>!!! example “Example”
+À bout de souffle (France, 1960, Jean-Luc Godard)</p>
+<pre><code>In Italy, this film has three different theatrical distributions, corresponding to three different visas (“visto di censura”) from the official censorship body (Ufficio di revisione cinematografica). 
+
+Censored Variant: Theatrical distribution in Italy – censorship visa n. 32329 – date: 1960-07-05 – Length 2463m – original French – not for under 16 years 
+
+Dubbed, Censored Variant: Theatrical distribution in Italy – censorship visa n. 57609 – date: 1971-01-23 – Length 2440m. – Italian 
+
+Dubbed, Censored Variant: Theatrical distribution in Italy– censorship visa n. 64662 – date: 1974-05-20 – Length 2430m. – Italian dubbed
+</code></pre>
+<p><a id="sec-other_work_variant_history"></a></p>
+<h3 id="other-workvariant-history"><a class="header" href="#other-workvariant-history">Other Work/Variant History</a></h3>
+<p>Any other relevant information or clarifications pertaining to the Work/Variant.</p>
+<p><em>Any changes of director, crew, or cast part-way through production.</em></p>
+<p>!!! example “Example”
+Tosca (Italy, 1939, Karl Koch) The film was started by Jean Renoir, but after beginning, Renoir escaped to France because of World War II. The film was completed by his assistant Karl Koch, with Luchino Visconti as assistant.</p>
+<p><em>Any demise of members of the cast or crew associated with the production.</em></p>
+<p>!!! example “Example”
+Foolish Wives (United States of America, 1922, Erich von Stroheim) Actor Rudolph Christians died in mid-shooting; replaced by Robert Edenson who is used mainly as a double.</p>
+<p><em>Explanations regarding length of time between production and release, e.g., due to funding issues, an initial banning, delayed release due to sensitivity over subject matter and world events, etc.</em></p>
+<p>!!! example “Example”
+La porta del cielo (Italy, 1945, Vittorio De Sica) The shooting of the film lasted almost one year (February – November 1944) throughout the period of Nazi occupation of Rome and served as an excuse to hide and protect Jewish people, anti-fascists, etc…</p>
+<p>!!! example “Example”
+La grande illusion (France, 1937, Jean Renoir) The shooting of the film lasted two years (1935-1936) and the first projection was in 1937.</p>
+<p><em>Any other information relevant to the history of the Work and its production.</em></p>
+<p>!!! example “Example”
+Christopher Columbus (United Kingdom, 1949, David MacDonald) Location shooting in Barbados was fraught with difficulties. The re-created ship stuck on launch, was then later rammed, suffered mechanical failure and finally caught fire. The stand-in ship was then lost at sea twice. Location shooting was hampered by the heat and the local gaol had to be used to keep the Technicolor film cool. There was also a troublesome parrot that would shout “tea break” during a dramatic scene.</p>
+<hr>
+<ol class="footnote-definition">
+<li id="footnote-1-8">
+<p>EN 15907, 6.5 Country of Reference, p. 19 <a href="#fr-1-1-8">↩</a></p>
+</li>
+<li id="footnote-2-6">
+<p>The certification of “Italian nationality” is provided by the law/decree 2004, n. 28, part. 5 (but already provided in the former law 1213/1965).
+According to the 2004 law, the biggest part of the cast and crew, the locations, and the technical facilities have to be Italian, and 30% of the budget has to be spent in Italy. There is a number of exceptions for artistic reasons and in case of co-productions. <a href="#fr-2-1-6">↩</a></p>
+</li>
+<li id="footnote-3-5">
+<p>The first of these was the formula followed by the British Film Institute. BFI CID Stylistics Manual – 2nd Edition. A.8.1., which subsequently changed to using a country of reference ordering based more on the on-screen ordering of production companies. CID Cataloguing Manual|Moving Image Catalogue (revised 2022). F.4 and F.4.1. <a href="#fr-3-1-5">↩</a></p>
+</li>
+<li id="footnote-4-4">
+<p>http://www.iso.org/iso/home/standards/country_codes.htm <a href="#fr-4-1-4">↩</a></p>
+</li>
+<li id="footnote-5-3">
+<p>ISO 3166-3 Codes for the representation of names of countries and their subdivisions – Part 3: Code for formerly used names of countries, is available for purchase as a PDF on the ISO website: <a href="http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=2130">http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=2130</a> <a href="#fr-5-1-3">↩</a></p>
+</li>
+<li id="footnote-200">
+<p>SSRs were often officially formed on different dates between 1918 and the 1930s, and there were also often subsequent boundary changes between them. For further exploration of this see ADD LINK TO CDC FIAF website Ukraine document if latter has been enhanced with additional details <a href="#fr-200-1">↩</a></p>
+</li>
+<li id="footnote-6-3">
+<p>EN 15907, 6.6 Year of Reference, p. 20 <a href="#fr-6-1-3">↩</a></p>
+</li>
+<li id="footnote-7-2">
+<p>Irish Film Archive, p. 13. <a href="#fr-7-1-2">↩</a></p>
+</li>
+<li id="footnote-8-2">
+<p>FIAF, 3.5.4, p. 64 <a href="#fr-8-1-2">↩</a></p>
+</li>
+<li id="footnote-10-1">
+<p>The indication of “original” values at the Manifestation level follows EN 15907 attributes of a Manifestation, pp. 10-11 <a href="#fr-10-1-1">↩</a></p>
+</li>
+<li id="footnote-9-2">
+<p>Adapted from YCR, 1.2.16 Summary of genre, form, and subject matter of work, p. 38. <a href="#fr-9-1-2">↩</a></p>
+</li>
+<li id="footnote-11-1">
+<p>FIAF 7.2.12. Summary <a href="#fr-11-1-1">↩</a></p>
+</li>
+<li id="footnote-12-1">
+<p>FIAF 7.2.16. Contents <a href="#fr-12-1-1">↩</a></p>
+</li>
+<li id="footnote-13-1">
+<p>Irish Film Archive, p. 23. <a href="#fr-13-1-1">↩</a></p>
+</li>
+<li id="footnote-14-1">
+<p>EN 15907, 6.17.3 Elements, Description type, p. 30. <a href="#fr-14-1-1">↩</a></p>
+</li>
+<li id="footnote-15-1">
+<p>Based on RDA 2.20.1.Basic Instructions on Making Notes on Manifestations or Items <a href="#fr-15-1-1">↩</a></p>
+</li>
+<li id="footnote-16-1">
+<p>EN 15907, 6.13 Decision event, pp. 26-27. <a href="#fr-16-1-1">↩</a></p>
+</li>
+</ol>
+<div style="break-before: page; page-break-before: always;"></div>
+<h1 id="relationships-of-a-workvariant"><a href="#relationships-of-a-workvariant" class="header">Relationships of a Work/Variant</a></h1>
+<p>A relationship associates an instance of a Work/Variant with another instance of an entity.
+Entities are described in subsequent sections, but examples of entities are people or companies associated with a Work/Variant (eg, studio, director, cast), events (copyright registration), subjects (other Works/Variants are about the same subject), and records.</p>
+<p>Relationships can be implemented in many ways, depending on the purpose, the modelling paradigm, or architectural constraints of the chosen platform.
+These guidelines are intended to be data structure neutral.<sup class="footnote-reference" id="fr-2-1-7"><a href="#footnote-2-7">1</a></sup> Therefore, these guidelines cannot prescribe exactly how to demonstrate relationships.
+Instead they recommend that certain relationships be established without instruction on how precisely those links be made manifest, i.e., whether by physical associative record linking or “see also” text conventions.</p>
+<p>A Work may have relationships with the following:</p>
+<ul>
+<li>Agent(s)</li>
+<li>Event(s)</li>
+<li>Subject(s)/Genre(s)/Form(s)</li>
+<li>Variant(s)</li>
+<li>Manifestation(s)</li>
+<li>Other (including other Works)</li>
+</ul>
+<p>A Variant may have relationships with the following:</p>
+<ul>
+<li>Agent(s)</li>
+<li>Event(s)</li>
+<li>Subject(s)/Genre(s)/Form(s)</li>
+<li>Work(s)</li>
+<li>Manifestation(s)</li>
+<li>Other (including other Variants)</li>
+</ul>
+<p><a id="sec-work_events"></a></p>
+<h2 id="events-eg-ipr-registration-screenings-awards-etc2"><a class="header" href="#events-eg-ipr-registration-screenings-awards-etc2">Events (e.g., IPR registration, screenings, awards, etc.)<sup class="footnote-reference" id="fr-1-1-9"><a href="#footnote-1-9">2</a></sup></a></h2>
+<p>An Event characterises occurrences in the lifecycle of a moving image Work or its Variants.
+Instances of any Event type can have Agent and “Other” relationships.</p>
+<p>Record one or more Event type, for example, “publication,” “copyright/IPR registration,” “festival showing,” etc., to express the nature of the Event’s relationship to the Work/Variant.
+Selection should be made from a controlled list of terms.
+A suggested list, which is open and not exhaustive, can be found in <a href="/events/event_type#sec-event_type">Event Type</a>.</p>
+<p><a id="sec-subject_genre_form_terms"></a></p>
+<h2 id="subjectgenreform-terms"><a class="header" href="#subjectgenreform-terms">Subject/Genre/Form Terms</a></h2>
+<p>Provide access to the Work by means of subjects (or subject identifiers) that describe the content of the Work, and additionally by genre(s) and/or form(s) (or identifiers) of which the Work is an example (i.e. what the Work is). Works should ideally have at least one Genre (and/or Form) and one Subject term as a minimum.</p>
+<p>Genre - reflects what the Work is (i.e. in terms of categories of Works characterised by similar plots, themes, settings, situations, and characters, e.g. Horror, Science-fiction, Crime, Westerns, Thrillers, Comedy, etc.)</p>
+<p>Form - a further categorisation term relating to what the Work is and the form it takes, descriptive of the characteristics of its format and/or purpose, e.g. Fiction, Non-fiction, Short, Animation, Video Essay, etc. which some systems may have as a separate category whilst others incorporate them within their Genre terms.</p>
+<p>Subject - reflects the content of the Work, what it features and what it is about.</p>
+<p>There are no rules as to how many genre and subject terms can be associated with a Work. It will be different from moving image to moving image and down to the assessment of the individual cataloguer within the levels of subject cataloguing decided by their institution.</p>
+<p>!!! example “Example”
+<strong>Main title</strong></p>
+<pre><code>A trip down Market Street before the fire / [Miles Brothers]. 
+
+
+
+**Published/Created**  
+
+United States. [United States : Miles Brothers, 1906]. 
+
+
+
+**Summary**  
+
+The following is a scene-by-scene description of the film: [Frame: 0300 (part 1)] The film begins looking northeast on Market Street just west of the intersection of Hyde, Grove and 8th streets. The dark building at right is the Odd Fellows Hall and the grey building beyond (across 8th St.) is the Grant Building (1905). A white postal service automobile is at left center. The three large buildings receding down Market Street at left are [0319 (part 1)] the Murphy Building (1889), [0353 (part 1)] the Donohoe Building (1890), and the Flood Building (1905). [etc.; this is an excerpt from the full record.] 
+
+
+
+**Subjects** 
+
+Market Street (San Francisco, Calif.) 
+
+Street-railroads--California--San Francisco. 
+
+Horse-drawn vehicles--California--San Francisco. 
+
+City traffic--California--San Francisco. 
+
+Pedestrians--California--San Francisco. 
+
+Automobiles--California--San Francisco. 
+
+
+
+**Form/Genre** 
+
+Actualities (Motion pictures) 
+
+Short films. 
+
+Silent films. 
+
+Nonfiction films.
+</code></pre>
+<p>!!! example “Example”
+<strong>Main title</strong></p>
+<pre><code>Mardi Gras parade -- US : Thomas A. Edison, Inc. [producer, distributor], [190-?].  
+
+
+
+**Summary**  
+
+Early actuality footage, shot from a single location on a street in New Orleans, showing a Mardi Gras parade. Mule drawn floats, children and adults in costumes, and brass bands march down the street, as crowds of spectators mill about the sidewalks, sometimes spilling into the street. 
+
+
+
+**Subjects**  
+
+1. Carnival -- Louisiana -- New Orleans. 2. Parades -- Louisiana – New Orleans. 3. Holidays. 
+
+
+
+**Genres**  
+
+1. Actualities. 2. Shorts.
+</code></pre>
+<p>!!! example “Example”
+<strong>Main title</strong></p>
+<pre><code>British Canadian Pathe news. No. 83A / L.E. Ouimet presents. -- CA : British Canadian Pathe News [producer], 1919 ; CA : Specialty Film Ltd. [distributor], 1919. 
+
+
+
+**Contents**  
+
+London: Ilford Municipal Market proves great success (43 ft.) -- Yarmouth, Eng.: Happy hours by the sea (46 ft.) -- Lauzon, Que.: World’s largest drydock (84 ft.) -- Toronto: Cycle racing at Exhibition Park (218 ft.) -- Kingston: [Geo. Vernot, Canadian swimmer, demonstrates strokes] (140 ft.) -- Fresno, Cal.: [Staged train wreck at fair] (69 ft.) -- Gary, Ind.: [Federal troops in big steel centers as result of recent riots] (150 ft.) -- Getting together, an animated cartoon by Bert Green (65 ft.) – A Review of events in Great Britain: Yarmouth: Deutschland, German Navy ship, now tourist attraction; London: “Pussy-foot” Johnson trying to make Britain “dry;” Doncaster: horse racing; Manchester: statue of Abraham Lincoln unveiled, gift of the U.S. to England’s great Cotton City (123 ft.). 
+
+
+
+**Subjects**  
+
+1. Markets -- England -- London. 2. London (England) -- Description. 3. Seaside resorts -- England. 4. Yarmouth (Isle of Wight) -- Description. 5. Drydocks -- Canada. 6. Saint Henri (Quebec) -- Description. 7. Bicycle racing -- Canada. 8. Swimming -- Canada. 9. Strikes and lockouts -- Steel industry -- United States. 10. Prohibition -- England. 11. Horse-racing -- England. 12. Doncaster (South Yorkshire) -- Description.13. Lincoln, Abraham, 1809-1865 -- Statues. 14. Manchester (Greater Manchester) -- Description. 
+
+
+
+**Genre**  
+
+1. Newsreels.
+</code></pre>
+<p>!!! example “Example”
+<strong>Main title</strong></p>
+<pre><code>O Beijo da mulher aranha = Kiss of the spider woman / director, Hector Babenco ; producer, David Weisman ; screenplay, Leonard Schrader. -- BR : HB Filmes [producer], 1895 ; US Sugarloaf Films [producer], 1985 ; US : Island Alive [distributor], 1985. 
+
+
+
+**Summary**  
+
+Molina, a homosexual window-trimmer convicted on a morals charge, shares a dreary prison cell with Valentin, a clandestinely-held politically active journalist who has been endlessly tortured by prison authorities in a vain attempt to extract information about his activities. Both men could not be farthe apart in personal attitudes, lifestyles, and emotional makeup: Molina is a glib raconteur, who dwells in a fantasy world of glamorous movies from yesteryear, of romantic screen heroes and tragic heroines. Valentin is a self-disciplined intellectual who is devoted to the cause of human rights and his political concerns. [etc. ; this is an excerpt from the full record] 
+
+
+
+**Subjects**  
+
+1. Prisoners -- Drama. 2. Interpersonal relations -- Drama. 3. Homosexuality, Male -- Drama. 4. Political prisoners -- Drama. 5. Torture -- Drama. 
+
+
+
+**Genres**  
+
+1. Drama. 2. Features.
+</code></pre>
+<p><a id="sec-assigning_subject_terms"></a></p>
+<h3 id="assigning-subject-terms"><a class="header" href="#assigning-subject-terms">Assigning Subject terms</a></h3>
+<p>When considering the assigning of subject terms to a moving image Work record there are two main components to consider in making an intellectual assessment; the contexts of “about” and “of”:</p>
+<p><strong>Of</strong> is straightforwardly, explicitly what is seen and visible in the shots and scenes that make up the moving image.</p>
+<p><strong>About</strong> is the elements and themes of a moving image that are implicit from the unfolding and combining of different images, or more explicit from interviews, commentary, or narration on the soundtrack.</p>
+<p>EN15744 advocates that all Works should have at least one subject term as a minimum.</p>
+<p>But it is up to each institution to decide the depth and level of subject indexing, and whether it catalogues according to the principle of capturing just what is seen, or just what it is about. The ideal is to have both elements:</p>
+<p>“one must try to capture what is seen onscreen as well as what the images are about conceptually.” (NB.Olwen Terris - cite source in footnote</p>
+<p>Decisions will depend on resources, technologies, an institution’s requirements and user needs, etc.  Some may choose to apply different levels and balances of these two <strong>of</strong> and <strong>about</strong> elements depending on whether the moving image is fiction or non-fiction. Footage libraries, for example, may be more likely to concentrate on <strong>of</strong> elements, but other archives may prefer to focus on <strong>about</strong> subjects.</p>
+<p>[ADD IN FURTHER EXAMPLES FROM OTHER ARCHIVES TO BOURNE ONE BELOW]</p>
+<p>For example, one practice for fiction moving images may be to assess what they are mainly about and apply  2-3 core subject terms reflecting the central themes or the nub of what they are about, plus any extra ones deemed necessary or relevant, e.g.:</p>
+<p>!!! example “Example”
+The Bourne Identity (USA, 2002)</p>
+<pre><code>Form = Fiction 
+
+Genre(s) = Thriller, Crime, Action and Adventure 
+
+Subject(s) = Identity, Black ops, Political assassinations
+</code></pre>
+<p>Subject terms <em>Car chases</em>, <em>Paris</em>, <em>Motorways</em>, <em>Guns</em>, <em>Fights</em>, <em>Surveillance</em>, etc. all feature within the film, but are not what it is about. However, if your institution uses wide keyword ranges in cataloguing, similar to IMDB’s multiple “plot keywords” on Work records, then they would be relevant to apply.</p>
+<p>The content description/synopsis of a Work can be used to highlight factors that may be prominent but not core in the storyline.</p>
+<p>Similarly, The Bourne Ultimatum (USA, 2007)could have the same subjects as above, plus <em>Manhunts</em> since a central part of the storyline of this film is the government agency’s hunt for Jason Bourne to try and eliminate him. It could also possibly include <em>CIA</em> as well as the thread running through the film is that CIA personnel are both hunting Bourne and trying to find out about the earlier covert operations/organisations.</p>
+<p>It is for the Cataloguer to assess and judge whether to include place as a subject term in the record.
+In order to establish whether place is a core subject to include in subject cataloguing or not you would need to assess the significance of place within the storyline and themes of the moving image and whether it is integral to these or incidental.</p>
+<p>For example, in the film Brighton Rock (UK, 1948) the place of Brighton is integral to the story – it is about gangsters in the English seaside town of Brighton and that is where the whole story is set. However, in the comedy film  Carry On at Your Convenience (UK, 1971), which contains scenes of a works outing to the seaside (which just happens to be Brighton) it is not integral – it simply features in one bit of the storyline.</p>
+<p>Place is more likely to be a core subject term in cataloguing non-fiction moving images. For example, Bunkar: The Last of the Varanasi Weavers (India, 2018) is a documentary that focuses on the lives of the weavers of Varanasi in Uttar Pradesh. Gulabi Gang (India, 2014) is about a women’s movement standing against gender violence and caste oppression, but the geographical place Bundelkhand is also relevant to add as a subject term both for context and because there are shots of the area in the film.</p>
+<p>With fiction moving images, care is needed not to confuse place within the storyline of the moving image with shooting location during filming, e.g. the early Alfred Hitchcock film The Manxman (Uk, 1926) is set in a fishing village in the Isle of Man, but was actually filmed on location in Cornwall, England.</p>
+<p>If adding place as a subject it would not therefore be Cornwall but the Isle of Man, since that is what the film is actually about and where it is set.</p>
+<p>Actual filming locations data can be added in a different field (in the EN 15907 structure locations and production information can be added to a linked Production Event).</p>
+<hr>
+<ol class="footnote-definition">
+<li id="footnote-2-7">
+<p>EN 15907 8.1 Relationships. General <a href="#fr-2-1-7">↩</a></p>
+</li>
+<li id="footnote-1-9">
+<p>EN 15907 5.2 Event <a href="#fr-1-1-9">↩</a></p>
+</li>
+</ol>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+
+            </nav>
+
+        </div>
+
+        <template id=fa-eye><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M288 32c-80.8 0-145.5 36.8-192.6 80.6C48.6 156 17.3 208 2.5 243.7c-3.3 7.9-3.3 16.7 0 24.6C17.3 304 48.6 356 95.4 399.4C142.5 443.2 207.2 480 288 480s145.5-36.8 192.6-80.6c46.8-43.5 78.1-95.4 93-131.1c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C433.5 68.8 368.8 32 288 32zM432 256c0 79.5-64.5 144-144 144s-144-64.5-144-144s64.5-144 144-144s144 64.5 144 144zM288 192c0 35.3-28.7 64-64 64c-11.5 0-22.3-3-31.6-8.4c-.2 2.8-.4 5.5-.4 8.4c0 53 43 96 96 96s96-43 96-96s-43-96-96-96c-2.8 0-5.6 .1-8.4 .4c5.3 9.3 8.4 20.1 8.4 31.6z"/></svg></span></template>
+        <template id=fa-eye-slash><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M38.8 5.1C28.4-3.1 13.3-1.2 5.1 9.2S-1.2 34.7 9.2 42.9l592 464c10.4 8.2 25.5 6.3 33.7-4.1s6.3-25.5-4.1-33.7L525.6 386.7c39.6-40.6 66.4-86.1 79.9-118.4c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C465.5 68.8 400.8 32 320 32c-68.2 0-125 26.3-169.3 60.8L38.8 5.1zM223.1 149.5C248.6 126.2 282.7 112 320 112c79.5 0 144 64.5 144 144c0 24.9-6.3 48.3-17.4 68.7L408 294.5c5.2-11.8 8-24.8 8-38.5c0-53-43-96-96-96c-2.8 0-5.6 .1-8.4 .4c5.3 9.3 8.4 20.1 8.4 31.6c0 10.2-2.4 19.8-6.6 28.3l-90.3-70.8zm223.1 298L373 389.9c-16.4 6.5-34.3 10.1-53 10.1c-79.5 0-144-64.5-144-144c0-6.9 .5-13.6 1.4-20.2L83.1 161.5C60.3 191.2 44 220.8 34.5 243.7c-3.3 7.9-3.3 16.7 0 24.6c14.9 35.7 46.2 87.7 93 131.1C174.5 443.2 239.2 480 320 480c47.8 0 89.9-12.9 126.2-32.5z"/></svg></span></template>
+        <template id=fa-copy><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M502.6 70.63l-61.25-61.25C435.4 3.371 427.2 0 418.7 0H255.1c-35.35 0-64 28.66-64 64l.0195 256C192 355.4 220.7 384 256 384h192c35.2 0 64-28.8 64-64V93.25C512 84.77 508.6 76.63 502.6 70.63zM464 320c0 8.836-7.164 16-16 16H255.1c-8.838 0-16-7.164-16-16L239.1 64.13c0-8.836 7.164-16 16-16h128L384 96c0 17.67 14.33 32 32 32h47.1V320zM272 448c0 8.836-7.164 16-16 16H63.1c-8.838 0-16-7.164-16-16L47.98 192.1c0-8.836 7.164-16 16-16H160V128H63.99c-35.35 0-64 28.65-64 64l.0098 256C.002 483.3 28.66 512 64 512h192c35.2 0 64-28.8 64-64v-32h-47.1L272 448z"/></svg></span></template>
+        <template id=fa-play><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M73 39c-14.8-9.1-33.4-9.4-48.5-.9S0 62.6 0 80V432c0 17.4 9.4 33.4 24.5 41.9s33.7 8.1 48.5-.9L361 297c14.3-8.7 23-24.2 23-41s-8.7-32.2-23-41L73 39z"/></svg></span></template>
+        <template id=fa-clock-rotate-left><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M75 75L41 41C25.9 25.9 0 36.6 0 57.9V168c0 13.3 10.7 24 24 24H134.1c21.4 0 32.1-25.9 17-41l-30.8-30.8C155 85.5 203 64 256 64c106 0 192 86 192 192s-86 192-192 192c-40.8 0-78.6-12.7-109.7-34.4c-14.5-10.1-34.4-6.6-44.6 7.9s-6.6 34.4 7.9 44.6C151.2 495 201.7 512 256 512c141.4 0 256-114.6 256-256S397.4 0 256 0C185.3 0 121.3 28.7 75 75zm181 53c-13.3 0-24 10.7-24 24V256c0 6.4 2.5 12.5 7 17l72 72c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9l-65-65V152c0-13.3-10.7-24-24-24z"/></svg></span></template>
+
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr-ef4e11c1.min.js"></script>
+        <script src="mark-09e88c2c.min.js"></script>
+        <script src="searcher-09f2665d.js"></script>
+
+        <script src="clipboard-1626706a.min.js"></script>
+        <script src="highlight-abc7f01d.js"></script>
+        <script src="book-c22b7243.js"></script>
+
+        <!-- Custom JS scripts -->
+
+        <script>
+        window.addEventListener('load', function() {
+            window.setTimeout(window.print, 100);
+        });
+        </script>
+
+
+    </div>
+    </body>
+</html>

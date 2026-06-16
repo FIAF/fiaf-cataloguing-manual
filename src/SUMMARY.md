@@ -1,0 +1,22 @@
+# Summary
+
+[Home](./index.md)
+
+[Dedication](./dedication/index.md)
+[Acknowledgements](./acknowledgements/index.md)
+[Quick Guide for New Archivists](./quick-guide/index.md)
+[Introduction](./introduction/index.md)
+- [Preliminary]()
+  - [Purpose, Scope, and Use](./preliminary/purpose_scope_and_use/index.md)
+  - [Core Elements of Description](./preliminary/core_elements_of_description/index.md)
+  - [Sources of Information](./preliminary/prelim_sources_of_information/index.md)
+  - [Display Issues](./preliminary/display_issues/index.md)
+  - [Language and Script of the Description](./preliminary/language_and_script_of_the_description/index.md)
+  - [Abbreviations](./preliminary/abbreviations/index.md)
+  - [Examples](./preliminary/examples/index.md)
+  - [Errors](./preliminary/errors/index.md)
+  - [Alternatives and Options](./preliminary/alternatives_and_options/index.md)
+- [Works](./works/index.md)
+  - [Attributes of a Moving Image Work](./works/attributes_of_a_moving_image_work_variant/index.md)
+  - [Elements of a Work](./works/elements_of_a_work_variant/index.md)
+  - [Relationships of a Work/Variant](./works/relationships_of_a_work_variant/index.md)

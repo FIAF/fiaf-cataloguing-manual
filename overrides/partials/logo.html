@@ -1,6 +1,0 @@
-{% if config.theme.logo %}
-  <img src="{{ config.theme.logo | url }}" alt="{{ config.site_name }}" class="md-logo__img--light">
-  <img src="{{ 'assets/logo-dark.png' | url }}" alt="{{ config.site_name }}" class="md-logo__img--dark">
-{% elif config.theme.icon.logo %}
-  {% include ".icons/" ~ config.theme.icon.logo ~ ".svg" %}
-{% endif %}
