@@ -15,5 +15,7 @@ Screengrabs showing properties for Copyright Status, Copyright Ownership and aut
 
 In the Bundesarchivs database, rights are attached to the Work. Here is an example of how information is attached to the Work record via a specific rights module.
 
-[Insert Screengrabs]
-
+<center><object data="/images/barch_rights_01.PNG" width="100%"></object></center>
+<center><object data="/images/barch_rights_02.PNG" width="100%"></object></center>
+<center><object data="/images/barch_rights_03.PNG" width="100%"></object></center>
+<center><object data="/images/barch_rights_04.PNG" width="100%"></object></center>
