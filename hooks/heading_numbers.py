@@ -84,8 +84,8 @@ def on_config(config):
                             # Record the label so on_nav can prefix it in the sidebar.
                             _nav_labels[appendix_label] = letter
                             appendix_idx += 1
-                elif section_label in ['Dedication', 'Acknowledgements', 'Introduction', 'Quick Guide for New Archivists']:
-                    pass
+                # elif section_label in ['Dedication', 'Acknowledgements', 'Introduction', 'Quick Guide for New Archivists']:
+                #     pass
                 else:
                     # Regular chapter — numbered from 0 (Preliminary) upwards.
                     _assign(section_pages, str(chapter_num))
