@@ -8,8 +8,9 @@ edit_uri: edit/develop/markdown/
 
 theme:
   name: material
-  # features:
-  #   - navigation.indexes
+  features:
+    - navigation.expand
+    - toc.integrate
 
 extra_css:
   - stylesheets/extra.css
@@ -34,17 +35,22 @@ markdown_extensions:
   - attr_list
   - toc:
       permalink: true
-      toc_depth: 3
+      toc_depth: 1
 
 
 
 nav:
-  - Home: index.md
-  - Dedication: dedication/index.md
+  # - Frontpage: 
+  #   - Frontpage: 
+  #     - frontpage/frontpage/index.md
+  - Dedication: 
+    - Dedication:
+      - dedication/dedication/index.md
   - Acknowledgements: acknowledgements/index.md
   - Quick Guide for New Archivists: quick-guide/index.md
-  - Introduction: introduction/index.md
-
+  - Introduction: 
+    - Introduction:
+      - introduction/introduction/index.md
   - Preliminary:
     - Purpose, Scope, and Use:
       - preliminary/purpose_scope_and_use/index.md
