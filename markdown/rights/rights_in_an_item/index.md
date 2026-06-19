@@ -7,9 +7,9 @@ The cataloguing of rights depends very much on an institution's internal strateg
 ## Example: Gone with the Wind (1939, USA)
 Screengrabs showing properties for Copyright Status, Copyright Ownership and authors/creators for a Work.
 
-<center><object data="/images/wind_rights_01.PNG" width="100%"></object></center>
-<center><object data="/images/wind_rights_02.PNG" width="100%"></object></center>
-<center><object data="/images/wind_rights_03.PNG" width="100%"></object></center>
+<center><object data="/images/wind_rights_01.png" width="100%"></object></center>
+<center><object data="/images/wind_rights_02.png" width="100%"></object></center>
+<center><object data="/images/wind_rights_03.png" width="100%"></object></center>
 
 <a id="sec-example_two"></a>
 ## Example: Sterne (1959, GDR)
