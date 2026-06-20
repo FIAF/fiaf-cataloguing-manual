@@ -5,61 +5,43 @@ repo_url: https://github.com/FIAF/fiaf-cataloguing-manual
 repo_name: FIAF/fiaf-cataloguing-manual
 edit_uri: edit/develop/markdown/
 
-
 theme:
   name: material
+  # logo: assets/logo.png
+  # favicon: assets/favicon.png
   features:
     - navigation.expand
     - toc.integrate
-
-extra_css:
-  - stylesheets/extra.css
+  icon:
+    admonition:
+      example: material/movie-open
 
 plugins:
-  # - awesome-pages
   - search
   - section-index
-  - nav-numbering:
-       headings_depth: 0
-       headings_depth: 3
-       headings_start_level: 5
-        # Optional configurations:
-        # max_nav_depth: 3
-        # max_heading_depth: 4
-  - enumerate-headings:
-      toc_depth: 2
-      increment_across_pages: true
-      strict: false
+  - nav-numbering
+
 
 markdown_extensions:
   - attr_list
+  - admonition
+  - footnotes
   - toc:
       permalink: true
-      toc_depth: 1
-
-
+      toc_depth: 2
 
 nav:
-  # - Frontpage: 
-  #   - Frontpage: 
-  #     - frontpage/frontpage/index.md
-  - Dedication: 
-    - Dedication:
-      - dedication/dedication/index.md
-  - Acknowledgements: acknowledgements/index.md
-  - Quick Guide for New Archivists: quick-guide/index.md
-  - Introduction: 
-    - Introduction:
-      - introduction/introduction/index.md
+  - Dedication:
+    - Dedication: dedication/index.md
+  - Acknowledgements:
+    - Acknowledgements: acknowledgements/index.md
+  - Quick Guide for New Archivists:
+    - Quick Guide for New Archivists: quick-guide/index.md
+  - Introduction:
+    - Introduction: introduction/index.md
   - Preliminary:
-    - Purpose, Scope, and Use:
-      - preliminary/purpose_scope_and_use/index.md
-      - Purpose: preliminary/purpose_scope_and_use#custom-anchor
-      - Scope: preliminary/purpose_scope_and_use#custom-anchor2
-      - Use: preliminary/purpose_scope_and_use#custom-anchor3
-
-    - Core Elements of Description:
-        - preliminary/core_elements_of_description/index.md
+    - Purpose, Scope, and Use: preliminary/purpose_scope_and_use/index.md
+    - Core Elements of Description: preliminary/core_elements_of_description/index.md
     - Sources of Information: preliminary/prelim_sources_of_information/index.md
     - Display Issues: preliminary/display_issues/index.md
     - Language and Script of the Description: preliminary/language_and_script_of_the_description/index.md
@@ -68,11 +50,9 @@ nav:
     - Errors: preliminary/errors/index.md
     - Alternatives and Options: preliminary/alternatives_and_options/index.md
 
-  - "Section":
-    - "Page":
-      - guide/index.md
-      - "test1": guide#custom-anchor
-      - "test2": guide#custom-anchor2
+
+
+
 
 # theme:
 #   name: material
