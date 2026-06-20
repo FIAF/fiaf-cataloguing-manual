@@ -7,20 +7,35 @@ edit_uri: edit/develop/markdown/
 
 theme:
   name: material
-  # logo: assets/logo.png
-  # favicon: assets/favicon.png
+  custom_dir: overrides
+  logo: assets/logo.png
+  favicon: assets/favicon.png
   features:
     - navigation.expand
     - toc.integrate
   icon:
     admonition:
       example: material/movie-open
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 
 plugins:
   - search
   - section-index
   - nav-numbering
-
 
 markdown_extensions:
   - attr_list
@@ -31,14 +46,19 @@ markdown_extensions:
       toc_depth: 2
 
 nav:
+
   - Dedication:
     - Dedication: dedication/index.md
+
   - Acknowledgements:
     - Acknowledgements: acknowledgements/index.md
+
   - Quick Guide for New Archivists:
     - Quick Guide for New Archivists: quick-guide/index.md
+
   - Introduction:
     - Introduction: introduction/index.md
+
   - Preliminary:
     - Purpose, Scope, and Use: preliminary/purpose_scope_and_use/index.md
     - Core Elements of Description: preliminary/core_elements_of_description/index.md
@@ -50,226 +70,91 @@ nav:
     - Errors: preliminary/errors/index.md
     - Alternatives and Options: preliminary/alternatives_and_options/index.md
 
+  - Works:
+    - Works: works/index.md
+    - Attributes of a Moving Image Work: works/attributes_of_a_moving_image_work_variant/index.md
+    - Elements of a Work: works/elements_of_a_work_variant/index.md
+    - Relationships of a Work/Variant: works/relationships_of_a_work_variant/index.md
 
+  - Variants:
+    - Variants: variants/index.md
+    - Attributes of a Variant: variants/attributes_of_a_variant/index.md
+    - Elements of a Variant: variants/elements_of_a_variant/index.md
+    - Relationships of a Work/Variant: variants/relationships_of_a_work_variant/index.md
 
+  - Manifestations:
+    - Manifestations: manifestations/index.md
+    - Attributes of a Manifestation: manifestations/attributes_of_a_manifestation/index.md
+    - Elements of a Manifestation: manifestations/elements_of_a_manifestation/index.md
+    - Relationships of a Manifestation: manifestations/relationships_of_a_manifestation/index.md
 
+  - Items:
+    - Items: items/index.md
+    - Elements of a Moving Image Item: items/elements_of_a_moving_image_item/index.md
+    - Relationships of an Item: items/relationships_of_an_item/index.md
 
-# theme:
-#   name: material
-#   custom_dir: overrides
-#   logo: assets/logo.png
-#   favicon: assets/favicon.png
-#   features:
-#     - content.action.view
-#     - content.footnote.tooltips
-#     # - navigation.tabs
-#     - navigation.tabs.sticky
-#     - navigation.indexes
-#     - navigation.top
-#     - navigation.instant
-#     - navigation.instant.prefetch
-#     - search.highlight
-#     - search.suggest
-#     - toc.follow
-#   font: false
-#   icon:
-#     admonition:
-#       example: material/movie-open
-#   palette:
-#     - media: "(prefers-color-scheme: light)"
-#       scheme: default
-#       primary: custom
-#       accent: custom
-#       toggle:
-#         icon: material/brightness-7
-#         name: Switch to dark mode
-#     - media: "(prefers-color-scheme: dark)"
-#       scheme: slate
-#       primary: custom
-#       accent: custom
-#       toggle:
-#         icon: material/brightness-4
-#         name: Switch to light mode
+  - Boundaries between Records:
+    - Boundaries between Works: boundaries/boundaries_between_works/index.md
+    - Boundaries between Works and Variants: boundaries/boundaries_between_works_and_variants/index.md
+    - Boundaries between Variants: boundaries/boundaries_between_variants/index.md
+    - Boundaries between Manifestations and Works or Variants: boundaries/boundaries_between_manifestations_and_works_or_variants/index.md
+    - Boundaries between Manifestations: boundaries/boundaries_between_manifestations/index.md
+    - Boundaries between Manifestations and Events: boundaries/boundaries_between_manifestations_and_events/index.md
+    - Boundaries between Items: boundaries/boundaries_between_items/index.md
 
-# extra_css:
-#   - assets/extra.css
+  - Titles and Title Types:
+    - Titles: titles/titles/index.md
+    - Title Types: titles/title_types/index.md
+    - Supplied/Devised Titles: titles/supplied_devised_titles/index.md
+    - Titles and structuring for production materials: titles/production_materials/index.md
+    - Titles and structuring of series/serials: titles/series_serials/index.md
+    - Moving Images with Probable or Questionable Titles: titles/moving_images_with_probable_or_questionable_titles/index.md
+    - Titling of Aggregates: titles/title_titling_of_aggregates/index.md
 
-# markdown_extensions:
-#   - admonition
-#   - pymdownx.details
-#   - pymdownx.superfences
-#   - tables
-#   - footnotes
-#   - attr_list
-#   - md_in_html
-#   - toc:
-#       permalink: true
+  - Aggregates:
+    - Aggregates: aggregates/index.md
+    - Identifying Aggregates: aggregates/identifying_aggregates/index.md
+    - Types of Moving Image Aggregates: aggregates/types_of_moving_image_aggregates/index.md
+    - Titling of Aggregates: aggregates/titling_of_aggregates/index.md
+    - Modelling Aggregates: aggregates/modelling_aggregates/index.md
+    - Series, Serials and Newsreels: aggregates/series_serials_and_newsreels/index.md
+    - Credits (Agents) for Aggregates: aggregates/credits_agents_for_aggregates/index.md
 
-# hooks:
-#   - hooks/heading_numbers.py
+  - Agents:
+    - Agents: agents/index.md
+    - Agents for Works/Variants: agents/agents_for_works_variants/index.md
+    - Agents for Manifestations: agents/agents_for_manifestations/index.md
+    - Agents for Items: agents/agents_for_items/index.md
 
-# plugins:
-#   - search
+  - Events:
+    - Events: events/index.md
+    - Event Types: events/event_types/index.md
+    - Further Event Types: events/further_event_types/index.md
 
+  - Other Relationships:
+    - Other Relationships: other-relationships/index.md
+    - Other Relationships for Works, Variants, Manifestations, Items: other-relationships/other_relationships_for_works_variants_manifestations_items/index.md
 
+  - Rights:
+    - Rights: rights/index.md
+    - Rights in a Manifestation: rights/rights_in_a_manifestation/index.md
+    - Examples: rights/rights_in_an_item/index.md
 
-
-# nav:
-#   - Home:
-#       - index.md
-#       - Dedication:
-#           - dedication/index.md
-#       - Acknowledgements:
-#           - acknowledgements/index.md
-#       - Quick Guide for New Archivists:
-#           - quick-guide/index.md
-#       - Introduction:
-#           - introduction/index.md
-#       - Preliminary:
-#           - Purpose, Scope, and Use:
-#               - preliminary/purpose_scope_and_use/index.md
-#           - Core Elements of Description:
-#               - preliminary/core_elements_of_description/index.md
-#           - Sources of Information:
-#               - preliminary/prelim_sources_of_information/index.md
-#           - Display Issues:
-#               - preliminary/display_issues/index.md
-#           - Language and Script of the Description:
-#               - preliminary/language_and_script_of_the_description/index.md
-#           - Abbreviations:
-#               - preliminary/abbreviations/index.md
-#           - Examples:
-#               - preliminary/examples/index.md
-#           - Errors:
-#               - preliminary/errors/index.md
-#           - Alternatives and Options:
-#               - preliminary/alternatives_and_options/index.md
-#       - Works:
-#           - works/index.md
-#           - Attributes of a Moving Image Work:
-#               - works/attributes_of_a_moving_image_work_variant/index.md
-#           - Elements of a Work:
-#               - works/elements_of_a_work_variant/index.md
-#           - Relationships of a Work/Variant:
-#               - works/relationships_of_a_work_variant/index.md
-#       - Variants:
-#           - variants/index.md
-#           - Attributes of a Variant:
-#               - variants/attributes_of_a_variant/index.md
-#           - Elements of a Variant:
-#               - variants/elements_of_a_variant/index.md
-#           - Relationships of a Work/Variant:
-#               - variants/relationships_of_a_work_variant/index.md
-#       - Manifestations:
-#           - manifestations/index.md
-#           - Attributes of a Manifestation:
-#               - manifestations/attributes_of_a_manifestation/index.md
-#           - Elements of a Manifestation:
-#               - manifestations/elements_of_a_manifestation/index.md
-#           - Relationships of a Manifestation:
-#               - manifestations/relationships_of_a_manifestation/index.md
-#       - Items:
-#           - items/index.md
-#           - Elements of a Moving Image Item:
-#               - items/elements_of_a_moving_image_item/index.md
-#           - Relationships of an Item:
-#               - items/relationships_of_an_item/index.md
-#       - Boundaries between Records:
-#           - Boundaries between Works:
-#               - boundaries/boundaries_between_works/index.md
-#           - Boundaries between Works and Variants:
-#               - boundaries/boundaries_between_works_and_variants/index.md
-#           - Boundaries between Variants:
-#               - boundaries/boundaries_between_variants/index.md
-#           - Boundaries between Manifestations and Works or Variants:
-#               - boundaries/boundaries_between_manifestations_and_works_or_variants/index.md
-#           - Boundaries between Manifestations:
-#               - boundaries/boundaries_between_manifestations/index.md
-#           - Boundaries between Manifestations and Events:
-#               - boundaries/boundaries_between_manifestations_and_events/index.md
-#           - Boundaries between Items:
-#               - boundaries/boundaries_between_items/index.md
-#       - Titles and Title Types:
-#           - Titles:
-#               - titles/titles/index.md
-#           - Title Types:
-#               - titles/title_types/index.md
-#           - Supplied/Devised Titles:
-#               - titles/supplied_devised_titles/index.md
-#           - Titles and structuring for production materials:
-#               - titles/production_materials/index.md
-#           - Titles and structuring of series/serials:
-#               - titles/series_serials/index.md
-#           - Moving Images with Probable or Questionable Titles:
-#               - titles/moving_images_with_probable_or_questionable_titles/index.md
-#           - Titling of Aggregates:
-#               - titles/title_titling_of_aggregates/index.md
-#       - Aggregates:
-#           - aggregates/index.md
-#           - Identifying Aggregates:
-#               - aggregates/identifying_aggregates/index.md
-#           - Types of Moving Image Aggregates:
-#               - aggregates/types_of_moving_image_aggregates/index.md
-#           - Titling of Aggregates:
-#               - aggregates/titling_of_aggregates/index.md
-#           - Modelling Aggregates:
-#               - aggregates/modelling_aggregates/index.md
-#           - Series, Serials and Newsreels:
-#               - aggregates/series_serials_and_newsreels/index.md
-#           - Credits (Agents) for Aggregates:
-#               - aggregates/credits_agents_for_aggregates/index.md
-#       - Agents:
-#           - agents/index.md
-#           - Agents for Works/Variants:
-#               - agents/agents_for_works_variants/index.md
-#           - Agents for Manifestations:
-#               - agents/agents_for_manifestations/index.md
-#           - Agents for Items:
-#               - agents/agents_for_items/index.md
-#       - Events:
-#           - events/index.md
-#           - Event Types:
-#               - events/event_types/index.md
-#           - Further Event Types:
-#               - events/further_event_types/index.md
-#       - Other Relationships:
-#           - other-relationships/index.md
-#           - Other Relationships for Works, Variants, Manifestations, Items:
-#               - other-relationships/other_relationships_for_works_variants_manifestations_items/index.md
-#       - Rights:
-#           - rights/index.md
-#           - Rights in a Manifestation:
-#               - rights/rights_in_a_manifestation/index.md
-#           - Examples:
-#               - rights/rights_in_an_item/index.md
-#       - Appendices:
-#           - Restorations:
-#               - restorations/index.md
-#           - Cataloguer's Notes:
-#               - appendices/cataloguers-notes/index.md
-#               - Attributes:
-#                   - appendices/cataloguers-notes/note_attributes/index.md
-#               - Elements:
-#                   - appendices/cataloguers-notes/elements/index.md
-#               - Relationships:
-#                   - appendices/cataloguers-notes/relationships/index.md
-#           - Comparison between Elements of Description:
-#               - appendices/element-comparison/index.md
-#           - Examples of Records:
-#               - appendices/record-examples/index.md
-#               - Example 2. Documentary film in 4-level hierarchy:
-#                   - appendices/record-examples/example_two/index.md
-#               - Example 3. Silent feature film in 3-level Hierarchy Model:
-#                   - appendices/record-examples/example_three/index.md
-#               - Example 4. Short feature film in 3-level Hierarchy Model:
-#                   - appendices/record-examples/example_four/index.md
-#               - Example 5. Home Movie in 3-level Hierarchy Model:
-#                   - appendices/record-examples/example_five/index.md
-#               - Example 6. Television Serial and Episode records:
-#                   - appendices/record-examples/example_six/index.md
-#               - Example 7. Aggregate DVD Television Serial and Episode records:
-#                   - appendices/record-examples/example_seven/index.md
-#           - Bibliography:
-#               - appendices/bibliography/index.md
-#           - List of Elements:
-#               - appendices/element-list/index.md
+  - Appendices:
+    - Restorations: restorations/index.md
+    - Cataloguer's Notes:
+        - Cataloguer's Notes: appendices/cataloguers-notes/index.md
+        - Attributes: appendices/cataloguers-notes/note_attributes/index.md
+        - Elements: appendices/cataloguers-notes/elements/index.md
+        - Relationships: appendices/cataloguers-notes/relationships/index.md
+    - Comparison between Elements of Description: appendices/element-comparison/index.md
+    - Examples of Records:
+        - Examples of Records: appendices/record-examples/index.md
+        - Example 2. Documentary film in 4-level hierarchy: appendices/record-examples/example_two/index.md
+        - Example 3. Silent feature film in 3-level Hierarchy Model: appendices/record-examples/example_three/index.md
+        - Example 4. Short feature film in 3-level Hierarchy Model: appendices/record-examples/example_four/index.md
+        - Example 5. Home Movie in 3-level Hierarchy Model: appendices/record-examples/example_five/index.md
+        - Example 6. Television Serial and Episode records: appendices/record-examples/example_six/index.md
+        - Example 7. Aggregate DVD Television Serial and Episode records: appendices/record-examples/example_seven/index.md
+    - Bibliography: appendices/bibliography/index.md
+    - List of Elements: appendices/element-list/index.md
