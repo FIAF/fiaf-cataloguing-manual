@@ -12,6 +12,13 @@ theme:
   favicon: assets/favicon.png
   features:
     - navigation.expand
+    - navigation.top
+    - navigation.instant
+    - navigation.instant.prefetch
+    - content.footnote.tooltips
+    - content.action.view
+    - search.highlight
+    - search.suggest
     - toc.integrate
   font: false
   icon:
@@ -38,7 +45,6 @@ extra_css:
 
 plugins:
   - search
-  - section-index
   - nav-numbering
 
 markdown_extensions:
@@ -49,7 +55,6 @@ markdown_extensions:
   - md_in_html
   - attr_list
   - admonition
-  - footnotes
   - toc:
       permalink: true
       toc_depth: 2
