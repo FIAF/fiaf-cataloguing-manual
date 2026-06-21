@@ -13,6 +13,7 @@ theme:
   features:
     - navigation.expand
     - toc.integrate
+  font: false
   icon:
     admonition:
       example: material/movie-open
@@ -38,6 +39,11 @@ plugins:
   - nav-numbering
 
 markdown_extensions:
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+  - footnotes
+  - md_in_html
   - attr_list
   - admonition
   - footnotes
