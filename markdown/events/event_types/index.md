@@ -150,7 +150,7 @@ Any further information about the event either in plain textual form, or as an i
 
 <a id="sec-values_rights_copyright_ipr_registration"></a>
 ## Rights/Copyright/IPR Registration[^3]
-These are optional, and it is for an institution to choose whether it has the resources or requirement to compile rights data. Further more detailed information on the subject of rights/copyright/IPR registration can be found in [Rights/Copyright/IPR Registration](/LINK TO RIGHTS).
+These are optional, and it is for an institution to choose whether it has the resources or requirement to compile rights data. Further more detailed information on the subject of rights/copyright/IPR registration can be found in [Rights/Copyright/IPR Registration](/sec-ipr_copyright).
 
 <a id="sec-preservation_restoration"></a>
 ## Preservation/Restoration
