@@ -81,7 +81,16 @@ This could be a single simple field, or could include multiple fields to reflect
 
 <a id="sec-item_acquisition type"></a>
 #### Item Acquisition Type
-For more information on information which should be documented at acquisition see [LINK TO ACQUISITION CHAPTER]. Record the acquisistion Type at Item level as a value list (e.g. loan, donation) as well as where it came from. Nowadays it becomes more and more important to have information about the provenance of Items in an institutions collection. Ideally record the person/institution by linking to the internal authority records as well as the date when the Item entered the collection.
+Moving image items change location during their life cycle in the archive and before or after. They are acquired, loaned or deacquisitioned, just to name some examples.
+Nowadays it becomes more and more important to have information about the provenance of Items in an institutions collection. 
+In every of these actions it is useful to record the agents involved (e.g. donor, recipient), location and type of acquisition (e.g. donation). Ideally record the person/institution by linking to the internal authority records as well as the date when the Item entered the collection.
+The transfer of ownership is important for an archive to document, as it establishes legal ownership of the collection.
+
+Typically, the transfer involves a contract, deed or agreement signed by both parties to certify that ownership of the object is transferred to the archive, and often this is a complex legal document. It is recommended therefore that the cataloguer capture the essential metadata elements below, and where feasible they should associate the catalogue record with an electronic version of the contract, by capturing filename / link to that document.
+
+Particular acquisition agreements between object owner and archive may enforce restrictions on the archive, preventing them from undertaking certain activities on the item (for example, preventing them from digitising the item for preservation, or preventing them from exhibiting the item in internal cinema). Any such restrictions should be captured in a ‘Provisos of acquisition’, ‘Conditions of access’ or ‘Conditions of reproduction’ set of fields, as outlined below. In addition, the acquisition agreement may enforce a protocol for disposal of any objects which are not ultimately accessioned into the archive’s permanent collection: for example, disposal may require approval by acquisition source.
+
+Record the acquisistion Type at Item level as a value list (e.g. bequest, commission, donation, off-air recording, purchase, unknown) as well as where it came from. 
 
 <a id="sec-item_ownership"></a>
 #### Item Ownership
