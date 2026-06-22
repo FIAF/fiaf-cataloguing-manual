@@ -106,6 +106,19 @@ If usage type(s) cannot be determined, indicate a value of “unknown”.
 
     TV broadcast – United Kingdom, 2012-04-21 - Swedish (Dialogue (original)), Danish (Dialogue (original)), English (Subtitles)
 
+### Digital: Multiple language options
+
+The above examples of language term and usage type relate to instances of one particular manifestation or print on analogue media or a recording of a particular broadcast, where there would be individual instances of different language dialogue and subtitle/dubbed combination (i.e. an individual Manifestation and Item(s) for each). However, with digital media, including digital files, DVDs, Blu Rays, etc. there are often multiple language choices all on the one entity.
+
+There are different options for capturing this, depending on the systems used or decisions made by your institution on the extent of data to be captured.
+
+Ideally, it would be better to have further separate language sections to distinguish between the main language(s) used on the original for capturing details of
+
+    !!! example "Example"
+    New York stories, (United States of America, Woody Allen, Francis Ford Coppola, Martin Scorsese, 1989 
+
+    Home video publication – DVD, English (spoken); – Italian, German; English, Italian, German, French, Spanish (subtitles) – Buena Vista (publisher), 2002/05/16
+
 <a id="sec-format_of_a_moving_image_manifestation"></a>
 ## Format of a Moving Image Manifestation
 As previously mentioned, a Manifestation is defined on the basis of two criteria: changes in the publication context and changes in format.
