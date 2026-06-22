@@ -45,7 +45,8 @@ extra_css:
 
 plugins:
   - search
-  - nav-numbering
+  - nav-numbering:
+      nav_depth: 2
 
 markdown_extensions:
   - pymdownx.details
@@ -57,7 +58,7 @@ markdown_extensions:
   - admonition
   - toc:
       permalink: true
-      toc_depth: 2
+      toc_depth: 3
 
 nav:
 
