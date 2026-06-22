@@ -20,3 +20,12 @@ In the Bundesarchivs database, rights are attached to the Work. Here is an examp
 <center><object data="/images/barch_rights_02.PNG" width="100%"></object></center>
 <center><object data="/images/barch_rights_03.PNG" width="100%"></object></center>
 <center><object data="/images/barch_rights_04.PNG" width="100%"></object></center>
+
+## Example: Amateur Film
+
+Institution: National Library of Scotland
+System: Filemaker Pro, database developed and designed in-house guided by FIAF Cataloguing Manual 1991.
+Collection: Donated outright to the National Library of Scotland by the filmmaker’s family.
+Filmmaker: Frank Marshall. Biography of 'MARSHALL, Frank M.' - Moving Image Archive - onsite catalogue
+
+INSERT SCREENSHOT
