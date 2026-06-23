@@ -58,14 +58,14 @@ This section outlines the properties that are specific to Loan agreements, disti
 
 **Lender**
 
-Represents the person or institution from which the archive is receiving the loan. Where possible, this should take the form of a link to a record within the archive’s Persons and Institutions authority dataset.
+Represents the person or institution from which the archive is receiving the loan. Where possible, this should take the form of a link to a record within the archive’s Agents (i.e. People, Organisations, etc.) authority dataset.
 
 **Lender type** 
 
 Qualifies the relationship between the Lender and the Acquisition source – i.e. is the lender the legal owner of the item, or are they the authorised agent of the owner acting on their behalf.
 
 **Lender contact details**
-Captures the contact details of the lender, primarily their postal address. Alternatively, where possible, this could be captured in the associated Person and Institution record.
+Captures the contact details of the lender, primarily their postal address. Alternatively, where possible, this could be captured in the associated Agent record.
 
 **Loan start date** 
 
