@@ -108,16 +108,20 @@ If usage type(s) cannot be determined, indicate a value of “unknown”.
 
 ### Digital: Multiple language options
 
-The above examples of language term and usage type relate to instances of one particular manifestation or print on analogue media or a recording of a particular broadcast, where there would be individual instances of different language dialogue and subtitle/dubbed combination (i.e. an individual Manifestation and Item(s) for each). However, with digital media, including digital files, DVDs, Blu Rays, etc. there are often multiple language choices all on the one entity.
+The above examples of language term and usage type relate to instances of one particular manifestation or print on analogue media or a recording of a particular broadcast, where there would be multiple individual instances of different language dialogue and subtitle/dubbed combinations (i.e. an individual Manifestation and Item(s) for each). However, with digital media, including digital streaming files, DVDs, Blu Rays, etc. there are often multiple language choices all on the one entity.
 
 There are different options for capturing this, depending on the systems used or decisions made by your institution on the extent of data to be captured.
 
-Ideally, it would be better to have further separate language sections to distinguish between the main language(s) used on the original for capturing details of
+Ideally, if desiring to capture all the language options of a digital entity, it would be best to have a further separate language section and fields within the Manifestation record. This is in order to distinguish clearly between the actual presence of particular spoken and/or subtitled languages within the original moving image (or particular Manifestation of the moving image) and the selective choice options of other dubbed or subtitled alternative language(s), i.e. fields for Language and Usage and fields for Selectable alternative Language and Usage.
 
     !!! example "Example"
     New York stories, (United States of America, Woody Allen, Francis Ford Coppola, Martin Scorsese, 1989 
 
-    Home video publication – DVD, English (spoken); – Italian, German; English, Italian, German, French, Spanish (subtitles) – Buena Vista (publisher), 2002/05/16
+    Home video publication – DVD, English (spoken); – Selectable language alternatives Italian, German (dubbed); English, Italian, German, French, Spanish, (subtitles) – Buena Vista (publisher), 2002/05/16
+
+The same language field could be utilised for both, but there is a risk of ambiguity and lack of clarity regarding what language(s) actually feature on the original release and what are individual selectable options. If used, some form of qualifying note may be necessary.
+
+Alternatively, an insitution may take the stance that multiple language choice options are a known integral part of any DVD, Blu Ray, and digital streaming - whether one or two dubbed/subtitled language options, or twenty plus options - and do not necessarily all need to be captured on the Manifestation/Item in their records. If the focus or interest of their users is most likely to be for accessing a moving image in their own spoken or subtitled language then an institution may decide to prioritise that in the Language and Usage fields of their records.
 
 <a id="sec-format_of_a_moving_image_manifestation"></a>
 ## Format of a Moving Image Manifestation
