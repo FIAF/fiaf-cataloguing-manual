@@ -110,7 +110,7 @@ If usage type(s) cannot be determined, indicate a value of “unknown”.
 
 The above examples of language term and usage type relate to instances of one particular manifestation or print on analogue media or a recording of a particular broadcast, where there would be multiple individual instances of different language dialogue and subtitle/dubbed combinations (i.e. an individual Manifestation and Item(s) for each). However, with digital media, including digital streaming files, DVDs, Blu Rays, etc. there are often multiple language choices all on the one entity.
 
-There are different options for capturing this, depending on the systems used or decisions made by your institution on the extent of data to be captured.
+There are different options for capturing this, depending on the systems used, materials acquired, and decisions made by your institution on the extent of data to be captured.
 
 Ideally, if desiring to capture all the language options of a digital entity, it would be best to have a further separate language section and fields within the Manifestation record. This is in order to distinguish clearly between the actual presence of particular spoken and/or subtitled languages within the original moving image (or particular Manifestation of the moving image) and the selective choice options of other dubbed or subtitled alternative language(s), i.e. fields for Language and Usage and fields for alternative Selectable Language and Usage.
 
@@ -121,7 +121,9 @@ Ideally, if desiring to capture all the language options of a digital entity, it
 
 The same language field could be utilised for both, but there is a risk of ambiguity and lack of clarity regarding what language(s) actually feature on the original release and what are individual selectable options. If used, some form of qualifying note may be necessary.
 
-Alternatively, an insitution may take the stance that multiple language choice options are a known integral part of any DVD, Blu Ray, and digital streaming - whether one or two dubbed/subtitled language options, or twenty plus options - and do not necessarily all need to be captured on the Manifestation/Item in their records. If the focus or interest of their users is most likely to be for accessing a moving image in their own spoken or subtitled language then an institution may decide to prioritise that in the Language and Usage fields of their records.
+If capturing this Selectable language(s) information it is also important to fill in this same information on the Item record too as it may sometimes be different to the Manifestation. An acquired digital file of a streamed moving image may be a recording of what was streamed, which is likely to default to the most appropriate language version for the streaming country in which it was recorded, and as a recording will not therefore include all the other language options as well. Equally, if acquired directly from the streaming company, then deliverable specifications in agreements with the company may only be to include one, or a few, set(s) of language subtitles, namely just those in the language(s) of the institution's own couuntry.
+
+Alternatively, an insitution may take the stance that multiple language choice options are a known integral part of any DVD, Blu Ray, and digital streaming - whether one or two dubbed/subtitled language options, or twenty plus options - and do not necessarily all need to be captured on the Manifestation/Item in their records. If the focus or interest of their users is most likely to be for accessing a moving image in their own spoken or subtitled language then an institution may decide to prioritise that in the Language and Usage fields of their relevant Manifestation/Item records.
 
 <a id="sec-format_of_a_moving_image_manifestation"></a>
 ## Format of a Moving Image Manifestation
