@@ -112,14 +112,14 @@ The above examples of language term and usage type relate to instances of one pa
 
 There are different options for capturing this, depending on the systems used, materials acquired, and decisions made by your institution on the extent of data to be captured.
 
-Ideally, if desiring to capture all the language options of a digital entity, it would be best to have a further separate language section and fields within the Manifestation record. This is in order to distinguish clearly between the actual presence of particular spoken and/or subtitled languages within the original moving image (or particular Manifestation of the moving image) and the selective choice options of other dubbed or subtitled alternative language(s), i.e. fields for Language and Usage and fields for alternative Selectable Language and Usage.
+Ideally, if desiring to capture all the language options of a digital entity, it would be best to have a further separate language section and fields within the Manifestation record. This is in order to distinguish clearly between the actual presence of particular spoken and/or subtitled languages on the soundtrack of the original moving image (or particular Manifestation of the moving image) and the selective choice options of other dubbed or subtitled alternative language(s), i.e. fields for Language and Usage and fields for alternative Selectable Language and Usage.
 
     !!! example "Example"
     New York stories, (United States of America, Woody Allen, Francis Ford Coppola, Martin Scorsese, 1989 
 
     Home video publication – DVD, English (spoken); – Selectable language alternatives Italian, German (dubbed); English, Italian, German, French, Spanish, (subtitles) – Buena Vista (publisher), 2002/05/16
 
-The same language field could be utilised for both, but there is a risk of ambiguity and lack of clarity regarding what language(s) actually feature on the original release and what are individual selectable options. If used, some form of qualifying note may be necessary.
+The same language field could be utilised for both, but there is a risk of ambiguity and lack of clarity regarding what language(s) actually feature on the original release and what are individual selectable options. It could imply that all the languages indicated appeared at the same time within the moving image. If used, some form of qualifying note on the record would also be necessary for clarity.
 
 If capturing this Selectable language(s) information it is also important to fill in this same information on the Item record too as it may sometimes be different to the Manifestation. An acquired digital file of a streamed moving image may be a recording of what was streamed, which is likely to default to the most appropriate language version for the streaming country in which it was recorded, and as a recording will not therefore include all the other language options as well. Equally, if acquired directly from the streaming company, then deliverable specifications in agreements with the company may only be to include one, or a few, set(s) of language subtitles, namely just those in the language(s) of the institution's own couuntry.
 
