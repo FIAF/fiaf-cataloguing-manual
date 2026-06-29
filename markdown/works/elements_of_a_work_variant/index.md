@@ -339,6 +339,8 @@ Institutions using cataloguing structures that do not distinguish Variant level 
 Indicate the language(s) (e.g., Italian) and usage(s) (e.g., Italian intertitles) in which the moving image Variant/Manifestation is written, spoken or sung, if applicable.
 More than one language can occur in different forms, depending on how the content is expressed (e.g., French dialogue and English subtitles).
 
+Language and usag
+
 <a id="sec-language_term"></a>
 ### Language Term
 Record the language(s) by taking the most suitable value(s) from a controlled list of languages.
@@ -367,6 +369,8 @@ Record the usage type of a language (e.g. spoken, intertitles, subtitles, etc.) 
 
 Optionally, record language usage type at the Manifestation/Item level (see [Language](/manifestations/elements_of_a_manifestation/#sec-manifest_language)).
 A value of “original” can be added to the Language element here to indicate that statements made about the language(s) for a particular Manifestation/Item are indicative of the language(s) of the “original” Work. [^10]
+
+Language term and usage included on a Work record should only pertain to the original language in which the moving image was conceived and first made. Any subsequent other dubbed or subtitled versions should be reflected in an associated Variant and/or Manifestation.
 
 <a id="sec-content_description"></a>
 ## Content description (synopses, shotlists, etc)[^9]
