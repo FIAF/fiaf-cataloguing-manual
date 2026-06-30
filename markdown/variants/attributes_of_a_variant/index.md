@@ -19,5 +19,18 @@ Identify and describe the kind of change from a Work that gives rise to any inst
 
 A change in colour, which is a physical property, expresses a different Manifestation according to the data model this manual follows. However, it is recognised that in practice, institutions who employ the Variant entity may consider changes to colour to provoke the creation of a Variant because the colourisation of a black and white Work represents a fundamental change to the visual aspects of the original Work.
 
+Examples:
+
+Dubbed version
+
+!!! example "Example"
+
+Foreign Version / Dubbed Version is titled after the title in the country of distribution. Example : 
+Work Title: Jour de fête (Tati, Jacques, 1947, FR) 
+Foreign Version / Dubbed Version Title: Het is feest vandaag (version 1964, dubbed in Dutch)
+Foreign Version / Dubbed Version Title: Tatis Schützenfest (version 1964, dubbed in German)
+
+
+
 [^1]: YCR, 2.1.1 Nature of modification (change in content) of expression
 
