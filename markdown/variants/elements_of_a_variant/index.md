@@ -32,16 +32,16 @@ Record the title, an identifying phrase, or name for a Variant as applicable.
 For dubbed or subtitled versions of a moving image, the title of the Variant is in that same dubbed/subtitled language, the language in which it was released or distributed, e.g. 
 
 !!! example "Example"
-Work Title: Jour de fête (France, 1947. Jacques Tati, Jacques) 
-Dubbed Variant Title: Het is feest vandaag (version 1964, dubbed in Dutch)
-Dubbed Variant Title: Tatis Schützenfest (version 1964, dubbed in German)
+Work Title: Jour de fête (France, 1947. Jacques Tati, Jacques)   
+Dubbed Variant Title: Het is feest vandaag (1964, dubbed in Dutch)  
+Dubbed Variant Title: Tatis Schützenfest (1964, dubbed in German)  
 
 The same applies to Variants of silent films with intertitles and/or credits in another language to that of the original.
 
 !!! example "Example"
-Work Title: Nosferatu. Eine Symphonie des Grauens (Germany, 1922. F.W. Murnau)
-Intertitle Variant Title: Nosferatu (1947 version, English intertitles)
-Intertitle Variant Title: Nosferatu, una sinfonía de horror (1931 version, Spanish intertitles)
+Work Title: Nosferatu. Eine Symphonie des Grauens (Germany, 1922. F.W. Murnau) 
+Intertitle Variant Title: Nosferatu (1947 version, English intertitles) 
+Intertitle Variant Title: Nosferatu, una sinfonía de horror (1931 version, Spanish intertitles) 
 
 If your institution is applying the use of “Type” qualifiers, use “Title Type” to state the function of a particular title (see [Title Type](/works/elements_of_a_work_variant/#sec-work_title_type) and [Titles and Title Types](/appendices/titles/)).
 
@@ -50,7 +50,6 @@ It may differ from the title found on a particular manifestation of the Work; th
 See [Title Types](/appendices/titles/title_types/#sec-title_types) for additional information.
 
 This may be via use of a “Title type” qualifier.
-See [Titles and structuring of series/serials](/appendices/titles/title_types/#sec-titles_of_series_serials) for other options
 
 !!! example "Example"
     Gone with the wind (United States of America, 1939, Victor Fleming) 
@@ -76,10 +75,14 @@ See [Titles and structuring of series/serials](/appendices/titles/title_types/#s
 
     The Scarlet Flower – Variant title – Dubbed (English)
 
+See [Titles and structuring of series/serials](/appendices/titles/title_types/#sec-titles_of_series_serials) [NEEDS RELINKING AS THIS CHAPTER HAS MOVED AND IS NO LONGER IN APPENDICES - ALSO ADD SECTION NUMBER] for some other Variant titling examples.
+
 <a id="sec-country_of_reference"></a>
 ## Country of Reference
 Where known and applicable, record the geographic origin of the Variant.
-This should be the country or countries where the principal offices or production facilities of the production company or companies are located.[^2] 
+
+This may differ from that of the original Work, for example, a Restored version of a film created by archives from different countries. Thus the Restoration Variant of the original Work Nosferatu (Germany, 1922. F.W. Murnau) would have Germany, France, and Czechia as country of reference.
+
 Where an official national certificate or designation of a Work exists, use this as the authoritative source, e.g., Italian government department designates what is officially an Italian film.[^3]
 When more than one place is associated with a Work/Variant, choose the place(s) with primary importance.
 
