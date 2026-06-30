@@ -10,7 +10,8 @@ Identify and describe the kind of change from a Work that gives rise to any inst
 * Subtitled
 * Abridged/Condensed (e.g. for television)
 * Augmented (where additional content is added, such as director’s cuts with restored scenes, or alternate endings, commentaries)
-* Preservation/Restoration
+* Preservation
+* Restoration
 * Different sound track
 * Sonorized
 * Colourized
