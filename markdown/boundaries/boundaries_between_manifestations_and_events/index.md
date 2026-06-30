@@ -21,7 +21,7 @@ The absence of Date and Country as Manifestation Elements and specific different
 
 That would imply something like this
 
-<center><object data="/diagrams/bme_03.drawio.svg" type="image/svg+xml" width="80%"></object></center>
+<center><object data="/diagrams/boundaries_evnt_manif_01.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 Some system databases may not have the ability or full functionality to have Events records, but do have Manifestations; in which case they may make use of a wider list of Manifestation Types and have fields relating to EN 15907 Events data embedded within the Manifestation record itself. These systems will be more likely to make use of a structure of multiple Manifestations rather than one Manifestation with multiple publication Events.
 For example:
