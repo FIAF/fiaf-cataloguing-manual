@@ -28,5 +28,5 @@ System: Filemaker Pro, database developed and designed in-house guided by FIAF C
 Collection: Donated outright to the National Library of Scotland by the filmmaker’s family.
 Filmmaker: Frank Marshall. Biography of 'MARSHALL, Frank M.' - Moving Image Archive - onsite catalogue
 
-<center><object data="/images/rights-amateur.png" width="100%"></object></center>
+<center><object data="/images/rights_amateur.png" width="100%"></object></center>
 
