@@ -4,6 +4,11 @@ title: Boundaries between Variants
 <a id="sec-boundaries_between_variants"></a>
 It is possible for a moving image Variant to be modified in such a way as to create a new Variant related to the previous one[^1]. The boundaries between one Variant and another may be drawn on the basis of the following alterations to the content:[^2]
 
+This implies the possibility of having a Variant of a Variant, e.g. a shortened version of a film also then has a further dubbed version. This is not covered in the EN15907 standard and many systems may not support this type of structuring technically, or an institution may feel this could lead to overly complex structuring impacting accessibility. In cases such as the above example then two separate Variants can be created, as child records of the same Work, and linked together in an associative relationship. 
+Yet, the system must support this technically. When technically impossible to create a variant of a variant, we can use note’s sections or link entities if the system permits this action. 
+For example: when we restore a tinted copy catalogued under a Tinted / Colored Version Variant, we will create a new Restoration / Conservation Variant and catalogue underneath it the restored material. We will then create a relation between them and will define the type of the relation (restoration) in the appointed field. 
+
+
 ## Change in continuity (secondary editing)
 
 *Revision or modification of already edited footage of completed work.*
