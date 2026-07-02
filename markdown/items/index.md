@@ -8,6 +8,8 @@ title: Moving Image Items
     An Item record may contain fields or scope for separate barcodes and condition information for each component of the item (each reel for example) if required.The Item may be whole or incomplete or a fragment.
     In the case of purely digital media, an Item is defined as the availability of the computer file, irrespective of the number of backup copies that may exist.
 
+<a id="sec-moving_image_items"></a>
+# Moving Image Items
 
 Whereas the Manifestation record describes the “ideal” of a particular format or publication, the Item record represents the actual holding in a repository’s collection.
 
