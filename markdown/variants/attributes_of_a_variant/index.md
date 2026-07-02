@@ -25,39 +25,39 @@ A change in colour, which is a physical property, expresses a different Manifest
 **Censored Variant**
 
 !!! example "Example"
-It's a wonderful life (USA, 1946. Frank Capra)
+It's a wonderful life (USA, 1946. Frank Capra)  
 Qué bello es vivir! (Censored Variant: Spain, 1948. 7 minutes shorter due to censorship cuts removing scenes relating to positive mention or depiction of housing co-operatives, deemed subversive by the Franco government)
 
 !!! example "Example"
-Please Sir! (United Kingdom, 1971)
+Please Sir! (United Kingdom, 1971 
 Please Sir! (Censored TV Variant: United Kingdom, television broadcasts in the 2000s. Small dialogue cuts where a character makes a racist comment in the original film, which was present in earlier broadcasts but not later ones.
 
 **Dubbed Variant**
 
 !!! example "Example"
-Work Title: Jour de fête (Tati, Jacques, 1947, FR) 
-Variant Title: Het is feest vandaag (Dubbed version 1964, dubbed in Dutch)
+Work Title: Jour de fête (Tati, Jacques, 1947, FR)   
+Variant Title: Het is feest vandaag (Dubbed version 1964, dubbed in Dutch)  
 Variant Title: Tatis Schützenfest (Dubbed version 1964, dubbed in German)
 
 **Subtitled Variant**
 
 !!! example "Example"
-Work Title: Im Westen nichts Neues (Germany, 2022. Edward Berger)
+Work Title: Im Westen nichts Neues (Germany, 2022. Edward Berger)  
 Variant Title: All quiet on the Western Front (Subtitled version, 2022, subtitles in English)
 
 **Abridged Variant (or Shortened Variant)**
 
 !!! example "Example"
-Work Title: Newfoundland - Atlantic province (Canada, 1949. Sydney Newman. Running time: 18 minutes.)
+Work Title: Newfoundland - Atlantic province (Canada, 1949. Sydney Newman. Running time: 18 minutes.)  
 Variant Title: Inside Newfoundland (Canada, 1949, Sydney Newman. Running time: 11 minutes)
 
 **Augmented Variant**
 
 !!! example "Example"
-Work Title: Terminator 2: Judgement Day (USA, 1991. James Cameron. Running time: 137 minutes)
-Variant Title: Terminator 2: Judgement Day (Special Edition) (USA, 1993. Running time: 154 minutes).
-Re-inserting previously deleted scenes.
-Variant Title: Terminator 2: Judgement Day (Extended Special Edition) (aka Terminator 2: Judgement Day (Skynet Edition)) (USA, 2009. Running time: 156 minutes)
+Work Title: Terminator 2: Judgement Day (USA, 1991. James Cameron. Running time: 137 minutes)  
+Variant Title: Terminator 2: Judgement Day (Special Edition) (USA, 1993. Running time: 154 minutes)  
+Re-inserting previously deleted scenes.  
+Variant Title: Terminator 2: Judgement Day (Extended Special Edition) (aka Terminator 2: Judgement Day (Skynet Edition))   (USA, 2009. Running time: 156 minutes)  
 Includes all the insertions from the Special Edition Variant plus an altered ending.
 
 **Alternate ending Variant**
