@@ -36,8 +36,6 @@ fiaf-cataloguing-manual/
 │   │   └── element-list/
 │   ├── assets/            ← CSS, logo, favicon
 │   └── diagrams/          ← diagram images
-├── hooks/
-│   └── heading_numbers.py ← MkDocs hook for auto-numbering headings
 ├── overrides/
 │   └── partials/          ← MkDocs Material theme overrides
 ├── mkdocs.yml             ← site configuration and navigation
@@ -55,10 +53,12 @@ With Docker:
 docker compose up
 ```
 
-Without Docker:
+Without Docker (Python 3.12 recommended):
 
 ```sh
-pip install mkdocs-material
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
 mkdocs serve
 ```
 

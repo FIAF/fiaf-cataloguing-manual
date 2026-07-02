@@ -1,6 +1,3 @@
----
-title: Acknowledgements
----
 
 <a id="sec-acknowledgements"></a>
 

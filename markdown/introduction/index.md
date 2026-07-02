@@ -1,6 +1,3 @@
----
-title: Introduction
----
 
 <a id="sec-introduction"></a>
 
@@ -35,7 +32,9 @@ The FIAF Manual is intended to provide guidance in creating metadata or catalogu
 It is recognised that institutions use a variety of systems and data structures and may find it difficult to implement far-ranging changes in their cataloguing practices. The revisions suggested in this manual will help archives harmonise their practices with related standards, models, and schema as far as possible.
 
 <a id="sec-relationship_of_fiaf_cataloguing_rules_to_functional_requirements"></a>
-## Relationship of FIAF Cataloguing Rules to Functional Requirements of Bibliographic Records (FRBR), Resource Description and Access (RDA) and The European Standards Committee (CEN) Cinematographic Works Standard EN 15907
+
+## Relationship of FIAF Cataloguing Rules to Functional Requirements of Bibliographic Records (FRBR), Resource Description and Access (RDA) and The European Standards Committee (CEN) Cinematographic Works Standard EN 15907 {: #introduction-relationship }
+
 The authors of this manual have chosen to focus on current standards and practices, such as those outlined in FRBR, RDA, and EN 15907, while expanding them to be more specific and granular regarding the particular needs of moving image cataloguing. Listed below are some of the key attributes of these standards and their relationship to recommendations in the FIAF Cataloguing Manual.
 
 

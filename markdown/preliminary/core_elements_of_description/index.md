@@ -1,8 +1,10 @@
----
-title: Core elements of description
----
+
+
 <a id="sec-core_elements_of_description"></a>
-### Core elements of description[^1]
+
+
+
+
 These core points of description are listed with their corresponding terms as presented in the manual.
 They represent an ideal minimum set of metadata for moving image cataloguing.
 
@@ -36,7 +38,9 @@ This data is typically located in a dedicated field at the Work level and automa
 This corresponds to CEN EN 15907, 6.2 – Record Source.
 
 <a id="sec-elements_of_description"></a>
-#### Elements of description across Works, Variants, Manifestations, and Items
+
+## Elements of description across Works, Variants, Manifestations, and Items
+
 This section includes sample structures for how the elements can be applied across Works, Variants, Manifestations, and Items.
 Four models are provided, beginning with the more complete four-level model and ending with a simple one-level model.
 Models should be applied according to an institution’s system and also determined by the amount of information known about an Item.

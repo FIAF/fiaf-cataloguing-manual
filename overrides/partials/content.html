@@ -1,0 +1,23 @@
+{#-
+  Content partial override.
+  Prepend the page's full nav number to the content <h1> when the nav-numbering
+  plugin didn't prefix page.title (pages deeper than nav_depth), so content keeps
+  full numbering depth while the sidebar shows numbers only for the top levels.
+-#}
+{% include "partials/tags.html" %}
+{% include "partials/actions.html" %}
+{% if "<h1" not in page.content %}
+  {% set number = "" %}
+  {% set plugin = config.plugins["nav-numbering"] if config.plugins and "nav-numbering" in config.plugins else none %}
+  {% if plugin is not none %}
+    {% set src = page.file.src_uri if page.file else none %}
+    {% if src and plugin.page_numbers and src in plugin.page_numbers %}
+      {% set number = plugin.page_numbers[src] %}
+    {% endif %}
+  {% endif %}
+  <h1>{% if number and not page.title.startswith(number ~ " ") %}{{ number }} {% endif %}{{ page.title | d(config.site_name, true) }}</h1>
+{% endif %}
+{{ page.content }}
+{% include "partials/source-file.html" %}
+{% include "partials/feedback.html" %}
+{% include "partials/comments.html" %}
