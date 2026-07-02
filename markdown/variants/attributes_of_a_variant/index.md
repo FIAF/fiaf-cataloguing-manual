@@ -62,19 +62,27 @@ Includes all the insertions from the Special Edition Variant plus an altered end
 
 **Alternate ending Variant**
 
-Under EN15907 one of the boundaries between Works (i.e. when does something constitute a new Work) then 
+An alternate ending that changes the whole story line of film may also be deemed a major change warranting a new Work. This still remains as an option even where a full 4-level data hierarchy structure is used by an institution. It is for the cataloguer to assess and decide. For those who do not use the Variant in cataloguing then instances of alternate endings that substantially change the story would mean creating a new Work and linking the two versons of the film in an associative relationship. Thus the alternate less ambiguous ending with a more positive outlook of a cental character at the end of the Extended Special Edition Terminator 2 example above could be assessed as being a subtle change (and so a Variant) rather than a more stark sad v happy ending which changes the entire storyline and feel of a moving image (and so different enough to constitute a different Work).
 
 !!! example "Example"
-
+Work title: Rukoj materi (Russia, 1913. Yakov Protazanov) (Original sad ending - the daughter lying in her coffin having been accidentally killed by her mother).
+Alternate ending Variant (Foreign export version, 1913.) (Happy ending - where the daughter lives).
 
 
 !!! example "Example"
-Work Title : La Belle équipe (Duvivier, Julien, 1936, FR)
-Alternative Ending Variant Title : La Belle équipe (Duvivier, Julien, 1936, FR, sad ending)
+Work Title : La Belle équipe (France, 1936. Julien Duvivier. Happy ending - there is reconciliation after a jealous confrontation between two friends)
+Alternative Ending Variant Title : La Belle équipe (France, 1936. Julien Duvivier. Sad ending - the confrontation leads to a tragic ending)
 The sad ending version is what was released and circulated outside France
+
+It was common, especially in the silent film industry, to make different endings of the same film at he same time during production for different national audiences.
+
 
 **Restoration Variant**
 
+**Sonorized Variant**
+
+Work Title: La passion de Jeanne d'Arc (France, 1928. Carl Th. Dreyer)
+Variant Title:
 
 A Variant may have more than one type. For example, a Variant for a restoration of a film with new, or previously missing, intertitles with restored tinting or toning and an added music track featuring the original music composed for playing with the film. Or for a shortened, different format, black and white, dubbed version:
 
