@@ -6,7 +6,7 @@ title: Moving Image Works
     An entity comprising the intellectual or artistic content and the process of realisation in a cinematographic medium, e.g., what the moving image is called, when it was made, who made it, who was in it, what it is about, etc. This core information usually does not change throughout any Variant or Manifestation.
 
 <a id="sec-moving_image_work"></a>
-### Moving Image Work
+# Moving Image Work
 A moving image Work comprises both the intellectual or artistic content and the process of realisation in a cinematographic medium, e.g., what it is called, when it was made, who made it, who was in it, what it is about, etc.
 
 A Work as a conceptual entity is the topmost level of description.
