@@ -12,35 +12,6 @@ They cover the fundamentals for cataloguers for the construction and management 
 
 While these guidelines are intended to be applicable to all forms of moving image materials, archives with extensive broadcasting collections may wish to look to broadcasting-specific metadata schemas such as EBUCore[^6] and PBCore[^7] for additional guidance.
 
-<a id="sec-FRBR_based_CEN_Terms_in_Brief"></a>
-### FRBR-based CEN Terms in Brief
-
-These guidelines use the terminology of CEN Cinematographic Works Standards for terms reflecting the core structuring of moving image records - namely Work, Variant, Manifestation and Item.
-
-*Work*
-
-An entity comprising the intellectual or artistic content and the process of realisation in a cinematographic medium, e.g., what the moving image is called, when it was made, who made it, who was in it, what it is about, etc. This core information usually does not change throughout any Variant or Manifestation.
-
-*Variant*
-
-An entity that may be used to indicate any change to content-related characteristics that do not significantly change the overall content of a Work as a whole.
-This is similar to a Work since it does not yet describe physical or digital embodiments of the content.
-For example: A film edited for television broadcast will contain most of the content of the original Work, but have some parts edited out.
-
-*Manifestation*
-
-The embodiment of a moving image Work/Variant.
-Manifestations include all analogue, digital and online media.
-Manifestation information can include a description of what the particular Manifestation should ideally contain, regardless of the Items held in the archive.
-For example: The original release running time of a film is 1:30:00, but the Item held at the archive is missing footage so is shorter.
-
-*Item*
-
-The physical product of a Manifestation of a Work or Variant, i.e. the physical copy of a Work or Variant.
-An Item may consist of one or more components, i.e. the whole Item may consist of 1 reel or 5 reels, 2 VHS tapes or 1 DVD.
-An Item record may contain fields or scope for separate barcodes and condition information for each component of the item (each reel for example) if required.The Item may be whole or incomplete or a fragment.
-In the case of purely digital media, an Item is defined as the availability of the computer file, irrespective of the number of backup copies that may exist.[^8]
-
 <a id="sec-entities"></a>
 ### Entities
 Functional Requirements for Bibliographic Records (FRBR) was published in 1998 by the International Federation of Libraries Association. It is based on the entity-attribute-relationship model of analysis, and has been incorporated into the structure of both RDA and EN 15907.
