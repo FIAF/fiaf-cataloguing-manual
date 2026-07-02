@@ -13,9 +13,9 @@ Identify and describe the kind of change from a Work that gives rise to any inst
 * Alternate endings
 * Preservation/Restoration
 * Different sound track
-* Sonorized
-* Colourized
-* Black and white copy of work originally issued in colour
+* Sonorised
+* Colourised
+* Monochromised (i.e. Black and white version of work originally issued in colour)
 * Tinted/Toned
 
 A change in colour, which is a physical property, expresses a different Manifestation according to the data model this manual follows. However, it is recognised that in practice, institutions who employ the Variant entity may consider changes to colour to provoke the creation of a Variant because the colourisation of a black and white Work represents a fundamental change to the visual aspects of the original Work.
@@ -79,10 +79,26 @@ It was common, especially in the silent film industry, to make different endings
 
 **Restoration Variant**
 
-**Sonorized Variant**
+**Sonorised Variant**
 
-Work Title: La passion de Jeanne d'Arc (France, 1928. Carl Th. Dreyer)
-Variant Title:
+!!! example "Example"
+
+Work Title: La passion de Jeanne d'Arc (France, 1928. Carl Th. Dreyer) 
+Variant Title: La passion de Jeanne d'Arc (France, 1952) (Added music track using music by composers such as Bach, Vivaldi, and Albinoni)
+
+**Colourised Variant**
+
+!!! example "Example"
+
+Work Title: Scrooge (United Kingdom, 1951. Brian Desmond Hurst)
+Variant Title: Scrooge (United Kingdom, 2012)
+
+**Monochromised**
+
+!!! example "Example"
+
+Work Title: Nightmare Alley (USA/Mexico/Canada, 2021. Guillermo del Toro)
+Variant Title: Nightmare Alley: Vision in Darkness and Light (USA/Mexico/Canada, 2022)
 
 A Variant may have more than one type. For example, a Variant for a restoration of a film with new, or previously missing, intertitles with restored tinting or toning and an added music track featuring the original music composed for playing with the film. Or for a shortened, different format, black and white, dubbed version:
 
