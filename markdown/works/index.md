@@ -5,11 +5,6 @@ title: Moving Image Works
 !!! abstract "Definition"
     An entity comprising the intellectual or artistic content and the process of realisation in a cinematographic medium, e.g., what the moving image is called, when it was made, who made it, who was in it, what it is about, etc. This core information usually does not change throughout any Variant or Manifestation.
 
-<a id="sec-moving_image_works_definition"></a>
-## Definitions[^1]
-Brief definitions of the standard CEN terms Work/Variant/Manifestation/Item used in the Manual were provided at the end of the Introduction (see [Introduction](/introduction)).
-This and the following sections provide in-depth definitions of the terms as used in these guidelines, beginning with the highest level in the description hierarchy: Moving Image Work.
-
 <a id="sec-moving_image_work"></a>
 ### Moving Image Work
 A moving image Work comprises both the intellectual or artistic content and the process of realisation in a cinematographic medium, e.g., what it is called, when it was made, who made it, who was in it, what it is about, etc.
