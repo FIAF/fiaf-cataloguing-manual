@@ -9,7 +9,8 @@ Identify and describe the kind of change from a Work that gives rise to any inst
 * Dubbed
 * Subtitled
 * Abridged/Condensed/Shortened (e.g. for television or providing a shorter version of a documentary film)
-* Augmented (where additional content is added, such as director’s cuts with restored scenes, or alternate endings, commentaries)
+* Augmented (where additional content is added, such as director’s cuts with restored scenes, commentaries)
+* Alternate endings
 * Preservation/Restoration
 * Different sound track
 * Sonorized
@@ -58,6 +59,14 @@ Variant Title: Terminator 2: Judgement Day (Special Edition) (USA, 1993. Running
 Re-inserting previously deleted scenes.
 Variant Title: Terminator 2: Judgement Day (Extended Special Edition) (aka Terminator 2: Judgement Day (Skynet Edition)) (USA, 2009. Running time: 156 minutes)
 Includes all the insertions from the Special Edition Variant plus an altered ending.
+
+**Alternate ending Variant**
+
+Under EN15907 one of the boundaries between Works (i.e. when does something constitute a new Work) then 
+
+!!! example "Example"
+
+
 
 !!! example "Example"
 Work Title : La Belle équipe (Duvivier, Julien, 1936, FR)
