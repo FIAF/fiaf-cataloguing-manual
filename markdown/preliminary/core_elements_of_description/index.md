@@ -5,7 +5,7 @@
 
 
 
-These core points of description are listed with their corresponding terms as presented in the manual.
+These core points of description are listed with their corresponding terms as presented in the manual [^1].
 They represent an ideal minimum set of metadata for moving image cataloguing.
 
 | **CORE CONCEPT** | **TOP-LEVEL ELEMENT** | **SUB-ELEMENT** |

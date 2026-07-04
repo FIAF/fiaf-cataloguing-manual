@@ -291,7 +291,7 @@ For parallel titles of a Manifestation distributed in distinct geographical regi
 [^1]: Term “Identifying title” corresponds with EN 15907. This is the equivalent of “Uniform title” in FRBR and “Preferred title” in RDA.
 [^2]: Adapted from FIAF, 1.4. Other title information, p. 25.
 [^3]: Adapted from YCR, 1.3 Work access, p. 39.
-[^4]: This section, including form terms and examples, is based on or taken from FIAF 1.4.3 Additions to titles;Yee/UCLA 5.1.2; AMIM2 1F1.1
+
 [^5]: FIAF Cataloguing Rules, p. xiii
 [^6]: For simplicity’s sake, this table does not present sub-types of Title Types, i.e., sub-types of Alternative and Supplied/Devised titles. Suggested sub-types and definitions can be found under the headings for the primary Title Types.
 [^7]: OLAC TF, Part 3a, p. 5.
@@ -316,4 +316,3 @@ For parallel titles of a Manifestation distributed in distinct geographical regi
 [^26]: FIAF, 1.3.4., pp. 23-24.
 [^27]: Such lists will normally give preference to the languages most familiar to researchers in the country of the archive. For example, the standard list for archival moving image cataloguing in the United States is: 1. U.S. title (if an American company is involved in the production). 2. U.K. title (if a British company is involved in the production). 3. Other English language title (if an English language speaking country is involved in the production). 4. French title (if a French company is involved in the production). 5. German title (if a German-speaking country is involved in the production). 6. Other Romance language title (if these language companies are involved in the production). 7. Other Germanic language title (if these language companies are involved in the production).
 [^28]: Differences between FIAF 1992 and RDA: FIAF expands the concept of Parallel title to any title qualifying as an original but not used as a title proper (the attempt was to include as many alternative titles as possible), but gives to the archives the responsibility to decide whether to enter them in the appropriate area or in the Notes area. RDA makes a distinction among the different characteristics of a title and considers the parallel title strictly as “the title proper in another language or script”. In this context the RDA approach has been considered more appropriate.
-[^29]: Based on OLAC (2009), Part 3a, pp. 8-9.

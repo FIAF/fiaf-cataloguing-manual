@@ -4,7 +4,7 @@ title: Moving images with probable or questionable titles
 <a id="sec-moving_images_with_probable_or_questionable_titles"></a>
 <!-- ### Moving images with probable or questionable titles[^1] -->
 There are instances where the title from a Manifestation/Item may not be inherited by the Work or Variant.
-Such is the case when a Manifestation/Item contains a probable or questionable title.
+Such is the case when a Manifestation/Item contains a probable or questionable title[^1].
 
 If the Manifestation/item contains a probable or questionable title, this title may be included as a component in constructing the supplied/devised title, or it may be used alone as the supplied/devised title for the Work.
 (See [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](/appendices/titles/title_types/#sec-supplied_devised_titles)).
@@ -61,4 +61,3 @@ Examples of partially and fully supplied titles for a variety of scenarios can b
 [^1]: Based on AMIM2, 1F2.1.
 [^2]: Many archives place information found on the Manfestation/Item in quotes to indicate the data is transcribed from the physical item itself or the audiovisual content of the entity. This practice is not recommended unless required by local cataloguing rules or local system requirements.
 [^3]: This example has since been identified as the film Grandpa’s Girl (United States of America, 1924 – Gil Pratt)
-
