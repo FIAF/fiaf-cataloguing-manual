@@ -39,8 +39,8 @@ Dubbed Variant Title: Tatis Schützenfest (1964, dubbed in German)
 The same applies to Variants of silent films with intertitles and/or credits in another language to that of the original.
 
 !!! example "Example"
-Work Title: Nosferatu. Eine Symphonie des Grauens (Germany, 1922. F.W. Murnau) 
-Intertitle Variant Title: Nosferatu (1947 version, English intertitles) 
+Work Title: Nosferatu. Eine Symphonie des Grauens (Germany, 1922. F.W. Murnau)  
+Intertitle Variant Title: Nosferatu (1947 version, English intertitles)   
 Intertitle Variant Title: Nosferatu, una sinfonía de horror (1931 version, Spanish intertitles) 
 
 If your institution is applying the use of “Type” qualifiers, use “Title Type” to state the function of a particular title (see [Title Type](/works/elements_of_a_work_variant/#sec-work_title_type) and [Titles and Title Types](/appendices/titles/)).
