@@ -57,7 +57,7 @@ Additionally, if required, there is the option of creating a second, or more, Re
 
 [ADD DIAGRAM demonstrating this]
 
-[ADD DIAGRAM with Napoleon Tryptic eg.]
+<center><object data="/diagrams/restnap2.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 Alternatively, such Items can be attached to the one original Restoration Manifestation along with all other the other Items associated with the restoration project, again with the option of using a semi-devised title to identify and distinguish it. 
 
