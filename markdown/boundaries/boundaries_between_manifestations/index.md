@@ -53,7 +53,11 @@ Some may choose always to create a new Manifestation (i.e. a Preservation Manife
 
 or
 
-<center><object data="/diagrams/pres_03.drawio (1).svg" type="image/svg+xml" width="100%"></object></center>
+<center><object data="/diagrams/pres_03.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+
+or if using Variants
+
+<center><object data="/diagrams/pres_04.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 whilst others may decide to create a new Manifestation where change in format and change in distribution/publication coincide but simply create a new Item linked to an existing Manifestation where change in format is as a result of in-house copying.
 
