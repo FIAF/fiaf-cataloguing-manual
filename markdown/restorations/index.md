@@ -53,9 +53,11 @@ Any Variant record will have the date of the actual release of the restored movi
 
 <center><object data="/diagrams/restnap1.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
-Additionally, if required, there is the option of creating a second, or more, Restoration Manifestation(s) for specific outcomes of the project, such as a Demonstration Reel, particularly where there may be several Items, or copies, of this on different formats. This would be linked to the same Work record as the main Restoration Manifestation, and its nature can be reflected and distinguished from the latter using a semi-devised title.
+Additionally, if required, there is the option of creating a second, or more, Restoration Manifestation(s) for specific outcomes of the project, such as a Demonstration Reel, particularly where there may be several Items, or copies, of this on different formats. This would be linked to the same Work record as the main Restoration Manifestation, and its nature can be reflected and distinguished from the latter using a semi-devised title. For example:
 
-[ADD DIAGRAM demonstrating this]
+<center><object data="/diagrams/restgws.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+
+or
 
 <center><object data="/diagrams/restnap2.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
