@@ -51,7 +51,7 @@ Restoration Manifestation Type represents the outcome(s) of restoration events/a
 Any dates associated with this Manifestation should be those of the restoration project dates, not the original date of the film, e.g. a 2024-2025 restoration project relating to a 1921 film will have the 2024-2025 dates associated with it.
 Any Variant record will have the date of the actual release of the restored moving image associated with it.
 
-<center><object data="/diagrams/restnap1.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+<center><object data="/diagrams/restnap1.drawio (1).svg" type="image/svg+xml" width="100%"></object></center>
 
 Additionally, if required, there is the option of creating a second, or more, Restoration Manifestation(s) for specific outcomes of the project, such as a Demonstration Reel, particularly where there may be several Items, or copies, of this on different formats. This would be linked to the same Work record as the main Restoration Manifestation, and its nature can be reflected and distinguished from the latter using a semi-devised title. For example:
 
