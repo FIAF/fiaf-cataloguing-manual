@@ -25,11 +25,11 @@ A change in colour, which is a physical property, expresses a different Manifest
 **Censored Variant**
 
 !!! example "Example"
-It's a wonderful life (USA, 1946. Frank Capra)  
+It's a wonderful life (USA, 1946. Frank Capra)    
 Qué bello es vivir! (Censored Variant: Spain, 1948. 7 minutes shorter due to censorship cuts removing scenes relating to positive mention or depiction of housing co-operatives, deemed subversive by the Franco government)
 
 !!! example "Example"
-Please Sir! (United Kingdom, 1971 
+Please Sir! (United Kingdom, 1971)  
 Please Sir! (Censored TV Variant: United Kingdom, television broadcasts in the 2000s. Small dialogue cuts where a character makes a racist comment in the original film, which was present in earlier broadcasts but not later ones.
 
 **Dubbed Variant**
@@ -62,7 +62,7 @@ Includes all the insertions from the Special Edition Variant plus an altered end
 
 **Alternate ending Variant**
 
-An alternate ending that changes the whole story line of film may also be deemed a major change warranting a new Work. This still remains as an option even where a full 4-level data hierarchy structure is used by an institution. It is for the cataloguer to assess and decide. For those who do not use the Variant in cataloguing then instances of alternate endings that substantially change the story would mean creating a new Work and linking the two versons of the film in an associative relationship. Thus the alternate less ambiguous ending with a more positive outlook of a cental character at the end of the Extended Special Edition Terminator 2 example above could be assessed as being a subtle change (and so a Variant) rather than a more stark sad v happy ending which changes the entire storyline and feel of a moving image (and so different enough to constitute a different Work).
+An alternate ending that changes the whole story line of film may also be deemed a major change warranting a new Work. This still remains as an option even where a full 4-level data hierarchy structure is used by an institution. It is for the cataloguer to assess and decide. For those who do not use the Variant in cataloguing then instances of alternate endings that substantially change the story would mean creating a new Work and linking the two versons of the film in an associative relationship. Thus, the alternate less ambiguous ending with a more positive outlook of a central character at the end of the Extended Special Edition Terminator 2 example above could be assessed as being a subtle change (and so a Variant) rather than a more stark sad v. happy ending which changes the entire storyline and feel of a moving image (and so different enough to constitute a different Work).
 
 !!! example "Example"
 Work title: Rukoj materi (Russia, 1913. Yakov Protazanov) (Original sad ending - the daughter lying in her coffin having been accidentally killed by her mother).
@@ -70,9 +70,9 @@ Alternate ending Variant (Foreign export version, 1913.) (Happy ending - where t
 
 
 !!! example "Example"
-Work Title : La Belle équipe (France, 1936. Julien Duvivier. Happy ending - there is reconciliation after a jealous confrontation between two friends)
-Alternative Ending Variant Title : La Belle équipe (France, 1936. Julien Duvivier. Sad ending - the confrontation leads to a tragic ending)
-The sad ending version is what was released and circulated outside France
+Work Title : La Belle équipe (France, 1936. Julien Duvivier) (Happy ending - there is reconciliation after a jealous confrontation between two friends)
+Alternative Ending Variant Title : La Belle équipe (France, 1936. Julien Duvivier) (Sad ending - the confrontation leads to a tragedy)
+The sad ending version is what was released and circulated outside France.
 
 It was common, especially in the silent film industry, to make different endings of the same film at he same time during production for different national audiences.
 
@@ -90,15 +90,15 @@ Variant Title: La passion de Jeanne d'Arc (France, 1952) (Added music track usin
 
 !!! example "Example"
 
-Work Title: Scrooge (United Kingdom, 1951. Brian Desmond Hurst)
-Variant Title: Scrooge (United Kingdom, 2012)
+Work Title: Scrooge (United Kingdom, 1951. Brian Desmond Hurst) (Black and white original film)
+Variant Title: Scrooge (United Kingdom, 2012) (Colourised version of the film)
 
 **Monochromised**
 
 !!! example "Example"
 
-Work Title: Nightmare Alley (USA/Mexico/Canada, 2021. Guillermo del Toro)
-Variant Title: Nightmare Alley: Vision in Darkness and Light (USA/Mexico/Canada, 2022)
+Work Title: Nightmare Alley (USA/Mexico/Canada, 2021. Guillermo del Toro) (Filmed and released in Colour)
+Variant Title: Nightmare Alley: Vision in Darkness and Light (USA/Mexico/Canada, 2022) (Black and white version of the film)
 
 A Variant may have more than one type. For example, a Variant for a restoration of a film with new, or previously missing, intertitles with restored tinting or toning and an added music track featuring the original music composed for playing with the film. Or for a shortened, different format, black and white, dubbed version:
 
@@ -110,7 +110,7 @@ Variant characteristics: i) Digitally restored original German intertitles (incl
 !!! example "Example"
 Work Title: Wet Paint (USA, 1946. Jack King)
 Variant Title : Donald s'attendrit (France, c.1950)
-Variant characteristics:  i) French Version, ii) format specific 9,5mm Pathé Edition, iii) short version – 3 minutes –, iv)  black and white. 
+Variant characteristics:  i) French language Version, ii) format specific 9,5mm Pathé Edition, iii) short version – 3 minutes –, iv)  black and white. 
 
 
 [^1]: YCR, 2.1.1 Nature of modification (change in content) of expression
