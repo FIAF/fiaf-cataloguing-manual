@@ -81,33 +81,12 @@ See [Titles and structuring of series/serials](/appendices/titles/title_types/#s
 ## Country of Reference
 Where known and applicable, record the geographic origin of the Variant.
 
-This may differ from that of the original Work, for example, a Restored version of a film created by archives from different countries. Thus the Restoration Variant of the original Work Nosferatu (Germany, 1922. F.W. Murnau) would have Germany, France, and Czechia as country of reference.
+This may differ from that of the original Work, for example, a Restored version of a film created by archives from different countries. Thus Kevin Brownlow's 1980 Restoration Variant of the original Work Napoléon (France, 1927. Abel Gance) would have United Kingdowm as country of reference.
 
 Where an official national certificate or designation of a Work exists, use this as the authoritative source, e.g., Italian government department designates what is officially an Italian film.[^3]
-When more than one place is associated with a Work/Variant, choose the place(s) with primary importance.
+When more than one place is associated with a Variant, choose the place(s) with primary importance.
 
-For institutions who need or require specific ordering of country of reference then the following options are possible examples of how this may be achieved.[^4]
-
-If the Work is a multi-national production, the countries added to the record should be in order of financial involvement.
-For example, an Austrian/Italian/French co-production where the Austrian production company/sponsors financed 60%, the Italian 25% and the French 15% then the order of the countries would be: Austria, Italy, France.
-
-If it is not possible to establish clearly the financial percentages of each country’s involvement, then consider the nationality of the director of the title and/or the majority of personnel involved with the film and select that as being the main country of origin of the film.
-
-If the production company has branches in more than one country, choose the one responsible for the production of the work.
-
-If the Work is a multi-national production, with production company branches in multiple countries, and it is not clear which particular one was involved, then choose the predominant production company if known.
-
-Alternatively, since it is often impossible for a cataloguer to determine with any level of accuracy the precise percentages of financial involvement of companies, assign country of origin based on the nationality of the production companies in the order that they appear on screen (for example,  copyright companies followed by production and then ‘presents’ companies). Look at which companies are named on the screen as copyright holders, production companies, and 'presents' companies, with all the attendant credits for production companies such as ‘In association with’, ‘With the participation of’, ‘Supported by’, and add the countries in which these companies are based as country of references for the Work, starting with that of the primary production company.
-
-It is recognised that countries can lay out their credits differently, sometimes with less important companies listed first, or with a 'presents' credit as the only credit of the major production companies.
-
-If the production company has branches in more than one country, choose the production country of the actual branch responsible for the production of the work. If the Work is a multi-national production, with a production company with branches in multiple countries and it is unclear which branch was involved, choose the predominant production company if known.
-
-An institution should compile its own rules for ordering of country of reference depending on its preferred practice or needs.
-
-Record the country of origin using the full form of the country name, e.g. United Kingdom rather than UK, by taking the most suitable value(s) from a controlled list. This can be an in-house list but the use of a standard list such as ISO 3166[^5] is preferable. If ISO is used, apply the English Short Name that is associated to a code. Optionally, record the country code as found in ISO 3166-1-alpha 2.
-
-If the country name has changed, record the name of the country as it was at the time of production, e.g., Czechoslovakia for a Work/Variant produced in 1970, but Czech Republic or Slovakia for one from 2012.[^6]
+Establishing the country of reference for a Variant is the same as for a Work, including forms and historical changes of country name. See details at [INSERT LINK TO 6.3.3.]
 
 <a id="sec-year_date_of_reference"></a>
 ## Year/Date of Reference
@@ -135,11 +114,7 @@ If your system supports it, apply a “Date Type” qualifier to make the date o
 Date Type terms should be derived from a controlled vocabulary.
 For a list of initial terms, see [Event Type](/events/event_type/#sec-event_type).
 
-For Variants, the date is typically related to events such as its creation, availability (i.e. publication, release, distribution, broadcast or transmission) or registration (e.g. for copyright or intellectual property purposes), or bestowal of an award. 
-
-More than one year or date may be associated with a Work or its Variants.
-For example, in the case of a Work comprising segments produced in different years (for example, a home movie); list the years, if known, e.g., 1955, 1956, 1959.[^8]
-
+For Variants, the date is typically related to events such as its creation, availability (i.e. publication, release, distribution, broadcast or transmission) or registration (e.g. for copyright or intellectual property purposes), or bestowal of an award.
 
 <a id="sec-date_precision"></a>
 ### Date Precision
@@ -256,7 +231,6 @@ Where the Variant is simply a different language edition (i.e. dubbed or subtitl
 
 The content description can be based on a viewing of the Variant, accompanying documentation, or secondary sources, but the source should be clearly noted.
 
-
 <a id="sec-content_description_type"></a>
 ### Content Description Type
 Include a qualifying keyword or otherwise denote the type of summary (e.g. Synopsis, Shotlist, Review).[^13]
@@ -316,15 +290,16 @@ Document information related to the censorship history of a Variant, including:[
 ### Other Variant History
 Any other relevant information or clarifications pertaining to the Variant.
 
-*Any changes of director, crew, or cast part-way through production.*
+*Explanations of cut, added, or altered scenes.*
 
 !!! example "Example"
-    Tosca (Italy, 1939, Karl Koch) The film was started by Jean Renoir, but after beginning, Renoir escaped to France because of World War II. The film was completed by his assistant Karl Koch, with Luchino Visconti as assistant.
+    It's a wonderful life (abridged version) streamed on Amazon. Cuts about 22-30 minutes from the film, particularly the entire crucial section where George Bailey's guardian angel shows him an alternative Bedford Falls. This was connected with a legal copyright situation in which the film's visuals entered the public domain, but elements from the underlying short story on which it was based and the musical score remained protected.
 
-*Any demise of members of the cast or crew associated with the production.*
+*Any new or re-inserted elements, or re-dubbed elements, involving different cast or crew associated with the Variant.*
 
 !!! example "Example"
-    Foolish Wives (United States of America, 1922, Erich von Stroheim) Actor Rudolph Christians died in mid-shooting; replaced by Robert Edenson who is used mainly as a double.
+    Spartacus (United States of America, 1991)  
+    Restored, re-edited version which reinserted shots and scenes cut from the original, one of which was a scene between        Tony Curtis and Laurence Olivier for which the original soundtrack was missing. For the redubbing, Anthony Hopkins did       the voice for Laurence Olivier's part. This scene was originally cut for censorship reasons as the dialogue touched on       homosexuality/bi-sexuality.
 
 *Explanations regarding length of time between production and release, e.g., due to funding issues, an initial banning, delayed release due to sensitivity over subject matter and world events, etc.*
 
