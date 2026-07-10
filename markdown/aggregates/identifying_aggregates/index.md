@@ -12,6 +12,8 @@ The two Chaplin films would each have their own Work, Manifestation, and Item re
 Any aggregate will have an element of intention, whether simple or complex.
 Assessments will need to be made, where possible, as to whether the intention was for creative/intellectual or convenient purposes, and then represented accordingly.
 
+Equally, an institution may decide not to differentiate and just follow the same structuring for multi-component compilation reels, particularly where the original intent may not always be clear or known.
+
 <a id="sec-hybrid_aggregates_and_multi_component_moving_images"></a>
 ## “Hybrid” Aggregates and multi-component moving images (e.g. Anthology/Portmanteau films or TV programmes)
 Multi-component Works are ones conceived and created from their inception to consist of multiple individual components that make up a whole, for example anthologies, portmanteau films and television programmes (e.g., Dead of night, Quartet, From beyond the grave).

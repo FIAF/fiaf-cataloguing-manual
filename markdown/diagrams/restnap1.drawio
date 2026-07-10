@@ -1,0 +1,124 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:148.0) Gecko/20100101 Firefox/148.0">
+  <diagram name="Page-1" id="T27VAzxw6BTNmv3-rvAp">
+    <mxGraphModel dx="774" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Qfoq3hOJvIKwCxHknxDJ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Napoléon (France, 1927)" vertex="1">
+          <mxGeometry height="80" width="140" x="300" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfoq3hOJvIKwCxHknxDJ-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Napoléon (Restoration Variant, 2016)" vertex="1">
+          <mxGeometry height="70" width="130" x="180" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfoq3hOJvIKwCxHknxDJ-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="Napoléon (Theatrical Manifestation, 1927)" vertex="1">
+          <mxGeometry height="70" width="140" x="440" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfoq3hOJvIKwCxHknxDJ-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="&lt;div&gt;Napoléon (Restoration Manifestation)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="130" x="180" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfoq3hOJvIKwCxHknxDJ-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Napoléon (Film Item. 35mm Nitrate)" vertex="1">
+          <mxGeometry height="60" width="120" x="420" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfoq3hOJvIKwCxHknxDJ-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Napoléon (Film Item. 35mm Acetate)" vertex="1">
+          <mxGeometry height="60" width="120" x="425" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfoq3hOJvIKwCxHknxDJ-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Napoléon (Digital Item. MOV/LT06)" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfoq3hOJvIKwCxHknxDJ-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Napoléon (Digital Item. DCP/PDC)" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfoq3hOJvIKwCxHknxDJ-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Napoléon [End credits roller] (Digital Item. DPX/LT06)" vertex="1">
+          <mxGeometry height="70" width="130" x="230" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfoq3hOJvIKwCxHknxDJ-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Napoléon [Act 3] (Digital Item. DCDM/LT06)" vertex="1">
+          <mxGeometry height="70" width="130" x="230" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfoq3hOJvIKwCxHknxDJ-11" edge="1" parent="1" source="Qfoq3hOJvIKwCxHknxDJ-1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.55;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="Qfoq3hOJvIKwCxHknxDJ-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="80" />
+            </Array>
+            <mxPoint x="370" y="270" as="sourcePoint" />
+            <mxPoint x="517" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qfoq3hOJvIKwCxHknxDJ-15" edge="1" parent="1" source="Qfoq3hOJvIKwCxHknxDJ-1" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.446;entryY=-0.057;entryDx=0;entryDy=0;entryPerimeter=0;" target="Qfoq3hOJvIKwCxHknxDJ-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="238" y="80" />
+            </Array>
+            <mxPoint x="245" y="150" as="sourcePoint" />
+            <mxPoint x="240" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qfoq3hOJvIKwCxHknxDJ-16" edge="1" parent="1" source="Qfoq3hOJvIKwCxHknxDJ-2" style="endArrow=classic;html=1;rounded=0;" target="Qfoq3hOJvIKwCxHknxDJ-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="230" as="sourcePoint" />
+            <mxPoint x="420" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qfoq3hOJvIKwCxHknxDJ-17" edge="1" parent="1" source="Qfoq3hOJvIKwCxHknxDJ-4" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.429;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="280" />
+              <mxPoint x="120" y="380" />
+              <mxPoint x="120" y="610" />
+            </Array>
+            <mxPoint x="170" y="280" as="sourcePoint" />
+            <mxPoint x="230" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qfoq3hOJvIKwCxHknxDJ-18" edge="1" parent="1" source="Qfoq3hOJvIKwCxHknxDJ-4" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.905;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="380" />
+            </Array>
+            <mxPoint x="180" y="330" as="sourcePoint" />
+            <mxPoint x="220" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qfoq3hOJvIKwCxHknxDJ-20" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="300" />
+              <mxPoint x="140" y="520" />
+            </Array>
+            <mxPoint x="180" y="300" as="sourcePoint" />
+            <mxPoint x="230" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qfoq3hOJvIKwCxHknxDJ-21" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Qfoq3hOJvIKwCxHknxDJ-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="310" />
+              <mxPoint x="160" y="440" />
+            </Array>
+            <mxPoint x="180" y="310" as="sourcePoint" />
+            <mxPoint x="420" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qfoq3hOJvIKwCxHknxDJ-22" edge="1" parent="1" source="Qfoq3hOJvIKwCxHknxDJ-3" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1.005;exitY=0.657;exitDx=0;exitDy=0;exitPerimeter=0;" target="Qfoq3hOJvIKwCxHknxDJ-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="296" />
+              <mxPoint x="610" y="370" />
+            </Array>
+            <mxPoint x="610" y="290" as="sourcePoint" />
+            <mxPoint x="660" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qfoq3hOJvIKwCxHknxDJ-23" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Qfoq3hOJvIKwCxHknxDJ-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="278" />
+              <mxPoint x="650" y="440" />
+            </Array>
+            <mxPoint x="580" y="278" as="sourcePoint" />
+            <mxPoint x="580" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
