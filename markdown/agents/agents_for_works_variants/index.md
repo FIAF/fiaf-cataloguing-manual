@@ -26,7 +26,7 @@ Optionally, if the Agent is credited under a name that is not identical with the
 !!! example "Example"
     Sofia Lazzaro (first pseudonym/screen name used by the actress Sophia Loren, whose birth name is Sofia Villani Scicolone).
 
-Optionally, record multiple instances of Agent, e.g., cast and credits, associated with aggregated Works/Variants (See E.6 Credits (i.e. Agents) for Aggregates). 
+Optionally, record multiple instances of Agent, e.g., cast and credits, associated with aggregated Works/Variants (See 12.7 Credits (i.e. Agents) for Aggregates - ADD LINK). 
 
 Variants may include both the Agents of the original Work and of the particular Variant, or just those pertaining to the particular Variant, e.g. additional cast in reinserted scenes in a Director’s Cut, new credits relating to digital special effects in a special edition with new CGI effects, cast used for a dubbed version, etc. 
 
