@@ -277,7 +277,6 @@ Document information related to the censorship history of a Variant, including:[
     À bout de souffle (France, 1960, Jean-Luc Godard) 
 
 
-
     In Italy, this film has three different theatrical distributions, corresponding to three different visas (“visto di censura”) from the official censorship body (Ufficio di revisione cinematografica). 
 
     Censored Variant: Theatrical distribution in Italy – censorship visa n. 32329 – date: 1960-07-05 – Length 2463m – original French – not for under 16 years 
@@ -301,18 +300,6 @@ Any other relevant information or clarifications pertaining to the Variant.
     Spartacus (United States of America, 1991)  
     Restored, re-edited version which reinserted shots and scenes cut from the original, one of which was a scene between        Tony Curtis and Laurence Olivier for which the original soundtrack was missing. For the redubbing, Anthony Hopkins did       the voice for Laurence Olivier's part. This scene was originally cut for censorship reasons as the dialogue touched on       homosexuality/bi-sexuality.
 
-*Explanations regarding length of time between production and release, e.g., due to funding issues, an initial banning, delayed release due to sensitivity over subject matter and world events, etc.*
-
-!!! example "Example"
-    La porta del cielo (Italy, 1945, Vittorio De Sica) The shooting of the film lasted almost one year (February – November 1944) throughout the period of Nazi occupation of Rome and served as an excuse to hide and protect Jewish people, anti-fascists, etc...
-
-!!! example "Example"
-    La grande illusion (France, 1937, Jean Renoir) The shooting of the film lasted two years (1935-1936) and the first projection was in 1937.
-
-*Any other information relevant to the history of the Work and its production.*
-
-!!! example "Example"
-    Christopher Columbus (United Kingdom, 1949, David MacDonald) Location shooting in Barbados was fraught with difficulties. The re-created ship stuck on launch, was then later rammed, suffered mechanical failure and finally caught fire. The stand-in ship was then lost at sea twice. Location shooting was hampered by the heat and the local gaol had to be used to keep the Technicolor film cool. There was also a troublesome parrot that would shout “tea break” during a dramatic scene.
 
 [^1]: Adapted from YCR, 1.2.16 Summary of genre, form, and subject matter of work, p. 38.
 [^2]: EN 15907, 6.5 Country of Reference, p. 19
