@@ -1,7 +1,7 @@
 ---
 title: Quick Guide for New Archivists
 ---
-Here are some recommendations if you are new or start from scratch. Please keep in mind that these are my own views, but I think they might help:
+Here are some recommendations if you are new or starting from scratch. Please keep in mind that these are my own views, but I think they might help:
 
 1. Write down your in-house cataloguing rules for everyone to use and revise and update over time.
    
