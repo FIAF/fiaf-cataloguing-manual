@@ -29,8 +29,9 @@ It's a wonderful life (USA, 1946. Frank Capra)
 Qué bello es vivir! (Censored Variant: Spain, 1948. 7 minutes shorter due to censorship cuts removing scenes relating to positive mention or depiction of housing co-operatives, deemed subversive by the Franco government)
 
 !!! example "Example"
-Please Sir! (United Kingdom, 1971)  
-Please Sir! (Censored TV Variant: United Kingdom, television broadcasts in the 2000s. Small dialogue cuts where a character makes a racist comment in the original film, which was present in earlier broadcasts but not later ones.
+Saturday Night Fever (USA, 1976) (119 minutes, R (Restricted) certification)
+Saturday Night Fever (USA, 1979 (c.109 minutes, PG (Parental Guidance) certification. Muted/dubbed out certain swearing and edited out drug references, violence, and a rape scene).
+
 
 **Dubbed Variant**
 
