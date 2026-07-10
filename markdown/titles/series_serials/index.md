@@ -460,6 +460,13 @@ And if variations are minor and Variants are used, then structure would look lik
 
 <center><object data="/diagrams/numb_22.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
+<a id="sec-titles_and_structures_of_variant_series_serials"></a>
+## Titles and structuring of Variant series/serials
+
+There are often Variant series/serials, particularly with television programmes, e.g. the transmission of an original Danish crime drama on television in the United Kingdowm with English subtitles. There are different options for structuring these, in situations where an institution acquires Items for both the original programme and the Variant, or for where it just acquires the Variant and not the original.
+
+
+
 
 [^39]: Serial = something which is a continuing story, for which it is necessary to have seen previous episodes to follow the story line, e.g. Pride and Prejudice, Heimat, Brideshead Revisited. Series = something which contains programmes or episodes which are complete in themselves (although they may have characters in common) for which it is not essential to have seen previous episodes in order to understand the story line/content, e.g. Cadfael. Midsomer Murders, World in Action.. BFI SIFT Inputting Manual.
 [^40]: See Appendix [Work/Variant Description Types](/works/attributes_of_a_moving_image_work_variant/#sec-work_variant_description_type) for EN 15907/BFI definitions of Serial as Description Type.
