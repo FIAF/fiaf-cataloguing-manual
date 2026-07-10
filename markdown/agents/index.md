@@ -27,5 +27,7 @@ These may vary from institution to institution according to the types of moving 
 | Producer |  |  |  |
 | Production Company |  |  |  |
 
+For further information see 13.2.1.1 Agent Activity – Works/Variants - ADD LINK]
+
 [^1]: RDA 2.20.7.3
 [^2]: Patton, Glenn E. 2009. Functional requirements for authority data: a conceptual model. München: K.G. Saur.
