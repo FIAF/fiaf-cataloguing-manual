@@ -26,10 +26,10 @@ A component part may itself be either monographic or serial. Component here mean
     Manifestation 1: Internet – digital file – UK -2015 – BFIplayer (streaming channel) 
 
 !!! example "Example"
-    Work [Monographic] - Kwaidan
+    Work [Monographic] - Kwaidan  
     Manifestation: Theatrical Release - 35mm - Japan - December 1964
 
-    Work [Analytic (component part)] - The woman of the snow
+    Work [Analytic (component part)] - The woman of the snow  
     Manifestation: Theatrical Release - 35mm - United Kingdom - October 1968 
 
 
