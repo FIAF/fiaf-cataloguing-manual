@@ -300,6 +300,8 @@ Any other relevant information or clarifications pertaining to the Variant.
     Spartacus (United States of America, 1991)  
     Restored, re-edited version which reinserted shots and scenes cut from the original, one of which was a scene between        Tony Curtis and Laurence Olivier for which the original soundtrack was missing. For the redubbing, Anthony Hopkins did       the voice for Laurence Olivier's part. This scene was originally cut for censorship reasons as the dialogue touched on       homosexuality/bi-sexuality.
 
+    For information about titling and structuring of Variant series/serials and newsreels/cinemagazines see 11.5.7 Titles and structuring of Variant series/serials [ADD LINK]
+
 
 [^1]: Adapted from YCR, 1.2.16 Summary of genre, form, and subject matter of work, p. 38.
 [^2]: EN 15907, 6.5 Country of Reference, p. 19
