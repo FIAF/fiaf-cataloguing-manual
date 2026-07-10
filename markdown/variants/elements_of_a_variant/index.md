@@ -32,14 +32,14 @@ Record the title, an identifying phrase, or name for a Variant as applicable.
 For dubbed or subtitled versions of a moving image, the title of the Variant is in that same dubbed/subtitled language, the language in which it was released or distributed, e.g. 
 
 !!! example "Example"
-Work Title: Jour de fête (France, 1947. Jacques Tati, Jacques)   
-Dubbed Variant Title: Het is feest vandaag (1964, dubbed in Dutch)  
-Dubbed Variant Title: Tatis Schützenfest (1964, dubbed in German)  
+Work Title: Jour de fête (France, 1947. Jacques Tati, Jacques)     
+Dubbed Variant Title: Het is feest vandaag (1964, dubbed in Dutch)    
+Dubbed Variant Title: Tatis Schützenfest (1964, dubbed in German)    
 
 The same applies to Variants of silent films with intertitles and/or credits in another language to that of the original.
 
 !!! example "Example"
-Work Title: Nosferatu. Eine Symphonie des Grauens (Germany, 1922. F.W. Murnau)  
+Work Title: Nosferatu. Eine Symphonie des Grauens (Germany, 1922. F.W. Murnau)    
 Intertitle Variant Title: Nosferatu (1947 version, English intertitles)   
 Intertitle Variant Title: Nosferatu, una sinfonía de horror (1931 version, Spanish intertitles) 
 
