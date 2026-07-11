@@ -477,7 +477,8 @@ and if both the original and Variant are acquired:
 
 If only acquiring the English subtitled version, then institutions not using Variants may choose to create a Serial Work and Monographic episodes all with the Variant titles and adding details of the original Danish titles and broadcast in a Work History or Notes field on the record. 
 
-
+The 2011 American series of The Killing is not a Variant of the original Danish series, but constitutes a new Work as it is an adapted re-make set in Seattle (USA) with completely different cast and crew and different production companies involved.
+If cataloguing this series it should be created as a separate series and episodes, and linked in an associative relationship with the origianl Danish series if the latter is also catalogued.
 
 
 [^39]: Serial = something which is a continuing story, for which it is necessary to have seen previous episodes to follow the story line, e.g. Pride and Prejudice, Heimat, Brideshead Revisited. Series = something which contains programmes or episodes which are complete in themselves (although they may have characters in common) for which it is not essential to have seen previous episodes in order to understand the story line/content, e.g. Cadfael. Midsomer Murders, World in Action.. BFI SIFT Inputting Manual.
