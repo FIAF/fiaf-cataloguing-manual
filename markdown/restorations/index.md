@@ -28,7 +28,7 @@ These would equate with minor changes in versions and not need a new Work record
 
 In the large majority of cases it will not be necessary to create a new Work record for a Restoration. Since a restoration involves copying pre-existing Items in Collections, which would normally already be linked to a Work record via Manifestation(s), it is usually a matter of creating a new linked Variant (if used) with a new Restoration Manifestation, and associating the Items created as part of the restoration process to that Restoration Manifestation. 
 
-<center><object data="/diagrams/resjaws1.drawio (1).svg" type="image/svg+xml" width="100%"></object></center>
+<center><object data="/diagrams/resjaws1.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 Or if Variants are not used then:
 
