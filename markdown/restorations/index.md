@@ -32,7 +32,7 @@ In the large majority of cases it will not be necessary to create a new Work rec
 
 Or if Variants are not used then:
 
-<center><object data="/diagrams/resjaws2.drawio (1).svg" type="image/svg+xml" width="100%"></object></center>
+<center><object data="/diagrams/resjaws2.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 If using a 2 or 1 level system then structuring similar to that of Production Materials could be utilised if a lot of new Items are generated, e.g. [DIAGRAMS]
 
