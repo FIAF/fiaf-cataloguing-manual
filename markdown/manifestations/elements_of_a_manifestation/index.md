@@ -106,6 +106,27 @@ If usage type(s) cannot be determined, indicate a value of “unknown”.
 
     TV broadcast – United Kingdom, 2012-04-21 - Swedish (Dialogue (original)), Danish (Dialogue (original)), English (Subtitles)
 
+### Multiple language options for Digital Manifestations/Items
+
+The above examples of language term and usage type relate to instances of one particular manifestation or print on analogue media or a recording of a particular broadcast, where there would be multiple individual instances of different language dialogue and subtitle/dubbed combinations (i.e. an individual Manifestation and Item(s) for each). However, with digital media, including digital streaming files, DVDs, Blu Rays, etc. there are often multiple language choices all on the one entity.
+
+There are different options for capturing this, depending on the systems used, materials acquired, and decisions made by your institution on the extent of data to be captured.
+
+Ideally, if desiring to capture all the language options of a digital entity, it would be best to have a further separate language section and fields within the Manifestation record. This is in order to distinguish clearly between the actual presence of particular spoken and/or subtitled languages on the soundtrack of the original moving image (or particular Manifestation of the moving image) and the selective choice options of other dubbed or subtitled alternative language(s), i.e. fields for Language and Usage and fields for alternative Selectable Language and Usage.
+
+    !!! example "Example"
+    New York stories, (United States of America, Woody Allen, Francis Ford Coppola, Martin Scorsese, 1989 
+
+    Home video publication – DVD, English (spoken); – Selectable language alternatives Italian, German (dubbed); English, Italian, German, French, Spanish, (subtitles) – Buena Vista (publisher), 2002/05/16
+
+The same language field could be utilised for both, but there is a high risk of ambiguity and lack of clarity regarding what language(s) actually feature on the original release and what are selectable alternative language options chosen by the individual viewer. It could imply that all the languages indicated appeared at the same time within the moving image. If used, then some form of qualifying note on the record would also be necessary for clarity. Alternatively, an additional field to go alongside the Lanaguage and Usage field indicating original or selectable language on the Manifestation would aid clarity.
+
+It is not necessary to create a new Variant/Manifestation for each selectable language. In systems that only allow for single parent records, or have a 2-level hierarchy, this would mean having to create multiple Item records as well for what is effectively the same Item, i.e. giving an impression of multiple Items of the moving image held in a collection, when in fact there may only be one physical Item. In systems that allow one Item to link to multiple parent Manifestations then each language option could be reflected with its own Manifestation, or Variant plus Manifestation, if desired.
+
+If capturing Selectable language(s) information it is also important to have the same fields and fill in this same information on the Item record too, as it may sometimes be different to the Manifestation. An acquired digital file of a streamed moving image may be a recording of what was streamed, which is likely to default to the most appropriate language version for the streaming country in which it was recorded, and as a recording will not therefore necessarily include all the other language options as well. Equally, if acquired directly from the streaming company, then an institution's deliverable specifications in agreements with the company may only be to include one, or a few, set(s) of language subtitles, namely just those in the language(s) of the institution's own country.
+
+Alternatively, an insitution may take the stance that multiple language choice options are a known integral part of any DVD, Blu Ray, and digital streaming - whether one or two dubbed/subtitled language options, or twenty plus options - and do not necessarily all need to be captured on the Manifestation/Item in their records. If the focus or interest of their users is most likely to be for accessing a moving image in their own spoken or subtitled language then an institution may decide to prioritise just that in the Language and Usage fields of their relevant Manifestation/Item records.
+
 <a id="sec-format_of_a_moving_image_manifestation"></a>
 ## Format of a Moving Image Manifestation
 As previously mentioned, a Manifestation is defined on the basis of two criteria: changes in the publication context and changes in format.

@@ -1,0 +1,31 @@
+{#-
+  TOC item override: strip the nav-numbering plugin's leading number prefix from
+  the displayed title so the integrated left-sidebar TOC stays clean, while the
+  in-page headings keep their full numbers. The anchor URL is untouched, so TOC
+  links still resolve.
+-#}
+<li class="md-nav__item">
+  {% set parts = toc_item.title.split(' ', 1) %}
+  {% set numbered = (parts | length) > 1 and '.' in parts[0] and parts[0].replace('.', '').isdigit() %}
+  {% set title = parts[1] if numbered else toc_item.title %}
+  <a href="{{ toc_item.url }}" class="md-nav__link">
+    <span class="md-ellipsis">
+      {% if toc_item.typeset %}
+        <span class="md-typeset">
+          {{ toc_item.typeset.title }}
+        </span>
+      {% else %}
+        {{ title }}
+      {% endif %}
+    </span>
+  </a>
+  {% if toc_item.children %}
+    <nav class="md-nav" aria-label="{{ title | striptags | e }}">
+      <ul class="md-nav__list">
+        {% for toc_item in toc_item.children %}
+          {% include "partials/toc-item.html" %}
+        {% endfor %}
+      </ul>
+    </nav>
+  {% endif %}
+</li>

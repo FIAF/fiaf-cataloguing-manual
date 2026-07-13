@@ -26,7 +26,7 @@ Optionally, if the Agent is credited under a name that is not identical with the
 !!! example "Example"
     Sofia Lazzaro (first pseudonym/screen name used by the actress Sophia Loren, whose birth name is Sofia Villani Scicolone).
 
-Optionally, record multiple instances of Agent, e.g., cast and credits, associated with aggregated Works/Variants (See E.6 Credits (i.e. Agents) for Aggregates). 
+Optionally, record multiple instances of Agent, e.g., cast and credits, associated with aggregated Works/Variants (See 12.7 Credits (i.e. Agents) for Aggregates - ADD LINK). 
 
 Variants may include both the Agents of the original Work and of the particular Variant, or just those pertaining to the particular Variant, e.g. additional cast in reinserted scenes in a Director’s Cut, new credits relating to digital special effects in a special edition with new CGI effects, cast used for a dubbed version, etc. 
 
@@ -39,7 +39,13 @@ Choose the single most specific term, if possible. Selection should be made from
 
 If no suggested terms apply, compose a term to describe the relationship between the Agent and the Work/Variant being catalogued. 
 If the relationship is ambiguous, use a value to indicate this, for example, “unknown” or “on-screen participant” to indicate a person appearing on screen in a capacity that is indeterminate or not covered by typical terms.[^3] 
-Optionally, when the role performed by an Agent is probable but not certain, provide the function name followed by a question mark. 
+Optionally, when the role performed by an Agent is probable but not certain, provide the function name followed by a question mark. It is recommended to capture these core credits on a moving image record as far as possible and where applicable:
+
+[ADD SCREEN GRAB DIAGRAM/IMAGE FROM CIRCE'S DOCUMENT HERE]
+
+Director, Screenwriter, Author (e.g. original literary author on which the Work was adapted or based), Cinematographer, Producer, Editor, Sound Designer, Music Composer, Music Supervisor, Animation Director, Assistant Director, Production Manager, Key Make-up Artist, Costume Designer, Production Designer, Cast, Voice-over artist, Dubbing artist, Production Company
+
+Several of these tie in with important information needed for establishing rights and copyright [ADD LINK TO 16.1.1.2 Recommended properties for Moving Image Works and Variants] 
 
 Besides the principal Agent Activity suggested, institutions, particularly those with special interests, may create and apply in-house value lists of other specific Agent Types, which may vary from institution to institution. 
 

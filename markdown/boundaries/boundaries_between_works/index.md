@@ -84,8 +84,8 @@ sometimes with different casts.*
 !!! example "Example"
     Moving image representations of the theatrical play Macbeth by William Shakespeare, where there is removal and/or replacement of substantially most of the contributors (e.g., cast and/or crew), associated with a work. This play has been produced as a moving image many times over the past 100 years, made in different countries and featuring different creators, crew and cast. All these constitute different Works even though they are based on, or moving image reproductions of the same play. Thus:
 
-    Macbeth (USA, 1916. Director - John Emerson; production company - D.W.Griffith; cast - Herbert Beerbohm Tree, Constance Collier)
-    Macbeth (United Kingdom, 1979. Director - Philip Casson; production company - Thames Television; cast - Ian McKellen, Judi Dench)
+    Macbeth (USA, 1916. Director - John Emerson; production company - D.W.Griffith; cast - Herbert Beerbohm Tree, Constance Collier)  
+    Macbeth (United Kingdom, 1979. Director - Philip Casson; production company - Thames Television; cast - Ian McKellen, Judi Dench)  
     Macbeth (France, United Kingdom, Luxembourg, 2015. Director - Justin Kurzel; production company - See-Saw Films ; cast - Michael Fassbinder, Marion Cotillard)
 
 !!! example "Example"

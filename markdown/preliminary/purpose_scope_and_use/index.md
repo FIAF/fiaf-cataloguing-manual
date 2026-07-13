@@ -1,12 +1,12 @@
----
-title: Purpose, scope, and use
----
+
+<!--## Purpose, scope, and use-->
+
 <a id="sec-purpose"></a>
-## Purpose
+## Purpose {: #purpose-scope-use-purpose }
 The primary purposes of the FIAF Manual are to suggest recommendations for the description and identification of moving images (with an emphasis on archival moving images), and to define the elements of description to facilitate the exchange of information.
 
 <a id="sec-scope"></a>
-## Scope
+## Scope {: #purpose-scope-use-scope }
 The manual is designed for use by institutions with moving image collections and cataloguers of moving images as a guide in the preparation of cataloguing records or descriptive metadata.
 The recommendations apply to generalised film and television collections, and may require elaboration in more specialised institutions whose holdings are exclusively of a single format or type, e.g., commercials, newsfilm, television, unedited footage, etc. For example, those with television collections should additionally consider more specific standards such as EBUcore or PBcore,
 
@@ -18,7 +18,7 @@ While many moving image archives also have audio materials in their collections,
 However, the Manual does provide ways to describe physical and technical characteristics of analogue and digital audio Items to assist with collection and preservation management.
 
 <a id="sec-use"></a>
-## Use
+## Use {: #purpose-scope-use-use }
 Instead of defining levels of cataloguing, this manual outlines core elements for moving image description.
 The core elements provide the basis for identification of a resource and for facilitating the exchange of data from one system to another.
 These are not “core” elements in the sense of a Dublin Core, EBUCore, or PBCore schema, but are rather intended to illustrate common elements that are used in describing moving images and are referenced in the rules outlined in this manual.

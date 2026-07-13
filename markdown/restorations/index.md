@@ -28,11 +28,11 @@ These would equate with minor changes in versions and not need a new Work record
 
 In the large majority of cases it will not be necessary to create a new Work record for a Restoration. Since a restoration involves copying pre-existing Items in Collections, which would normally already be linked to a Work record via Manifestation(s), it is usually a matter of creating a new linked Variant (if used) with a new Restoration Manifestation, and associating the Items created as part of the restoration process to that Restoration Manifestation. 
 
-[4 LEVEL DIAGRAM]
+<center><object data="/diagrams/resjaws1.drawio (1).svg" type="image/svg+xml" width="100%"></object></center>
 
 Or if Variants are not used then:
 
-[3 LEVEL DIAGRAM]
+<center><object data="/diagrams/resjaws2.drawio (1).svg" type="image/svg+xml" width="100%"></object></center>
 
 If using a 2 or 1 level system then structuring similar to that of Production Materials could be utilised if a lot of new Items are generated, e.g. [DIAGRAMS]
 
@@ -51,11 +51,15 @@ Restoration Manifestation Type represents the outcome(s) of restoration events/a
 Any dates associated with this Manifestation should be those of the restoration project dates, not the original date of the film, e.g. a 2024-2025 restoration project relating to a 1921 film will have the 2024-2025 dates associated with it.
 Any Variant record will have the date of the actual release of the restored moving image associated with it.
 
-Additionally, if required, there is the option of creating a second, or more, Restoration Manifestation(s) for specific outcomes of the project, such as a Demonstration Reel, particularly where there may be several Items, or copies, of this on different formats. This would be linked to the same Work record as the main Restoration Manifestation, and its nature can be reflected and distinguished from the latter using a semi-devised title.
+<center><object data="/diagrams/restnap1.drawio (1).svg" type="image/svg+xml" width="100%"></object></center>
 
-[ADD DIAGRAM demonstrating this]
+Additionally, if required, there is the option of creating a second, or more, Restoration Manifestation(s) for specific outcomes of the project, such as a Demonstration Reel, particularly where there may be several Items, or copies, of this on different formats. This would be linked to the same Work record as the main Restoration Manifestation, and its nature can be reflected and distinguished from the latter using a semi-devised title. For example:
 
-[ADD DIAGRAM with Napoleon Tryptic eg.]
+<center><object data="/diagrams/restgws.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+
+or
+
+<center><object data="/diagrams/restnap2a.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 Alternatively, such Items can be attached to the one original Restoration Manifestation along with all other the other Items associated with the restoration project, again with the option of using a semi-devised title to identify and distinguish it. 
 

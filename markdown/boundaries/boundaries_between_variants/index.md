@@ -4,6 +4,13 @@ title: Boundaries between Variants
 <a id="sec-boundaries_between_variants"></a>
 It is possible for a moving image Variant to be modified in such a way as to create a new Variant related to the previous one[^1]. The boundaries between one Variant and another may be drawn on the basis of the following alterations to the content:[^2]
 
+This implies the possibility of having a Variant of a Variant, e.g. a shortened version of a film also then has a further dubbed version. This is not covered in the EN15907 standard and many systems may not support this type of structuring technically, or an institution may feel this could lead to overly complex structuring impacting data display and accessibility. 
+
+In cases such as the above example then two separate Variants can be created, as child records of the same Work, and linked together in an associative relationship. A Variant may have more than one Variant Type, so one Variant could have the Variant Type of Shortened Version, while the other has the two Variant Types Shortened Version and Dubbed Version.
+
+[INSERT ILLUSTRATIVE DIAGRAM HERE]
+
+
 ## Change in continuity (secondary editing)
 
 *Revision or modification of already edited footage of completed work.*

@@ -20,7 +20,7 @@ Publication Types are not pertinent to Works or Variants in systems using a 4 or
 <a id="sec-publication"></a>
 ## Publication
 
-Record one or more Event type, for example, “decision,” “manufacture,” etc., to express the nature of the Event’s relationship to the Manifestation. Selection should be made from a controlled list of terms. A suggested list, which is open and not exhaustive, can be found in D.4 Event Types.
+Record one or more Event type, for example, “decision,” “manufacture,” etc., to express the nature of the Event’s relationship to the Manifestation. Selection should be made from a controlled list of terms.
 
 For Manifestations, a Publication Event corresponds to a screening, broadcast, streaming, or the release of the Manifestation of a Work/Variant on a physical distribution medium or online.
 
@@ -150,41 +150,7 @@ Any further information about the event either in plain textual form, or as an i
 
 <a id="sec-values_rights_copyright_ipr_registration"></a>
 ## Rights/Copyright/IPR Registration[^3]
-These are optional, and it is for an institution to choose whether it has the resources or requirement to compile rights data. Further more detailed information on the subject of rights/copyright/IPR registration can be found in [Rights/Copyright/IPR Registration](/appendices/rights/).
-
-A Copyright/IPR Registration Event is the act of registering copyright or intellectual property rights for a Work or Variant with an accredited agency.
-
-A Copyright/IPR Registration Event may be associated with instances of Agent in the role of e.g. applicant, etc. Selection should be made from a controlled list of values.
-
-Record all the existing relationships of a Copyright/IPR Registration Event, if the information is known and considered of relevance.
-
-Copyright/IPR Registration Event information consists of the following sub-elements:
-
-- Registration Date
-- Registration Agency
-- Regional scope
-- Name of applicant
-- Registration number
-
-**Registration date**
-
-The date on which the registration was filed or the date on which registration became effective. (Dates should be formatted according to ISO 8601 or some other recognised standard.)
-
-**Registration agency**
-
-Name of the agency issuing the registration certificate (e.g. "UK Intellectual Property Office," name of a legal deposit library, etc.).
-
-**Regional scope**
-
-The geographic region for which copyright is claimed.
-
-**Name of applicant**
-
-Name of the Agent claiming copyright in the Work or Variant.
-
-**Registration number**
-
-The number assigned by the registration agency. 
+These are optional, and it is for an institution to choose whether it has the resources or requirement to compile rights data. Further more detailed information on the subject of rights/copyright/IPR registration can be found in [Rights/Copyright/IPR Registration](/sec-ipr_copyright).
 
 <a id="sec-preservation_restoration"></a>
 ## Preservation/Restoration

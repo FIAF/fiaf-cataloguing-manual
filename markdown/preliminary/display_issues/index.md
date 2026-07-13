@@ -1,11 +1,11 @@
----
-title: Display issues
----
+
 Although these guidelines are primarily focused on content, many users may also welcome some guidance in data presentation.
 This section gathers some of the common display questions with recommendations.
 
 <a id="sec-punctuation"></a>
+
 ## Punctuation
+
 These guidelines do not mandate the use of any particular data presentation standard, such as ISBD punctuation.
 However, ISBD punctuation is recommended if punctuation guidance is desired.
 Please consult ISBD[^1] for general guidance and examples, or the FIAF Cataloguing Rules for Film Archives (1991)[^2].
@@ -19,7 +19,9 @@ For transcribed elements, record punctuation as found.
 For all other elements, record punctuation as found on the source(s) of information.
 
 <a id="sec-capitalisation_and_articles"></a>
+
 ## Capitalisation and Articles
+
 Some institutions render Work titles in capitals – all upper-case – as a simple typographical method of identifying these key items of information, while others only capitalise the first letter of a title, in accordance with ISBD.
 Either usage is permitted by these guidelines, although institutions may prefer to retain the conventional practice of capitalising only the first letter of a title and any proper names as dictated by the usage of the language in which the information is given.
 

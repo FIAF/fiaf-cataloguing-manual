@@ -2,7 +2,7 @@
 title: Further Event Types for Items
 ---
 
-The following are two further Event Types relating to Item - Acquisition and Inspection Events. Those institutions which use systems that do not have or use Events will usually capture this data in fields embedded within the Item record or linking to records in another database, e.g. a possible separate Donors database with its own acquisition records capturing names, dates, etc.
+The following are further Event Types relating to Item - Acquisition, Loan and Inspection Events. Those institutions which use systems that do not have or use Events will usually capture this data in fields embedded within the Item record or linking to records in another database, e.g. a possible separate Donors database with its own acquisition records capturing names, dates, etc.
 
 <a id="sec-acquisition"></a>
 ## Acquisition
@@ -32,7 +32,9 @@ Describes the means by which the Item was acquired. Select from a controlled lis
 
 **Acquisition date**
 
-The date on which the Item was physically, or contractually, acquired. This date is distinct from an Accession date, which should be entered only once any required assessment has been completed, and the Item has been formally added to the inventory of the collection. (Dates should be formatted according to ISO 8601 or some other recognised standard.)
+The date on which the Item was physically, or contractually, acquired. 
+Using this ‘entry date’ can be problematic, as items can arrive onsite before agreement is signed, or can arrive without any form of signature or indeed knowledge that it is in transit i.e. receipt of an unsolicited deposit. Therefore it is recommended to use the signature date.
+This date is distinct from an Accession date, which should be entered only once any required assessment has been completed, and the Item has been formally added to the inventory of the collection. (Dates should be formatted according to ISO 8601 or some other recognised standard.)
 
 **Acquisition source**
 The name of the person or organisation from which the Item was obtained, indicating whether the acquisition was direct from, for example, the donor or via an intermediary or agent. Select from a controlled list of terms, e.g.
@@ -47,7 +49,31 @@ Information describing the acquisition of the Item in greater detail.
 
 **Accession date**
 
-The date on which the Item was formally added to the inventory of the collection. (Dates should be formatted according to ISO 8601 or some other recognised standard.)
+Captures the date on which the Item formally entered the collection of the archive. Often this definition is dependent on formal documentation within the archive’s collections management system, with a unique accession reference / identifier assigned. (Dates should be formatted according to ISO 8601 or some other recognised standard.)
+
+<a id="sec-loan"></a>
+## Loan
+
+This section outlines the properties that are specific to Loan agreements, distinct from Acquisitions
+
+**Lender**
+
+Represents the person or institution from which the archive is receiving the loan. Where possible, this should take the form of a link to a record within the archive’s Agents (i.e. People, Organisations, etc.) authority dataset.
+
+**Lender type** 
+
+Qualifies the relationship between the Lender and the Acquisition source – i.e. is the lender the legal owner of the item, or are they the authorised agent of the owner acting on their behalf.
+
+**Lender contact details**
+Captures the contact details of the lender, primarily their postal address. Alternatively, where possible, this could be captured in the associated Agent record.
+
+**Loan start date** 
+
+Captures the agreed date from which the loan commences.
+
+**Loan end date** 
+
+Captures the end date of the loan, as defined prior to the commencement of the loan.
 
 
 <a id="sec-inspection"></a>
