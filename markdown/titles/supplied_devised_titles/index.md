@@ -45,11 +45,11 @@ If there is no Title Type field then a Notes or other field could be utilised.
 
 It is recommended that archive titles are devised following a pattern of:
 
-Who/what: persons, events or objects
-What: activity
-Where: location
-When: time period
-Who/what: name of source or collection
+Who/what: persons, events or objects  
+What: activity  
+Where: location  
+When: time period  
+Who/what: name of source or collection  
 
 The above elements can be combined with a form qualifier if relevant: i.e. Commercial, Rushes, Interview, or Screen test, etc.
 
