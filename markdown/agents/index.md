@@ -1,5 +1,5 @@
 ---
-title: Moving Image Agents
+title: Moving Image Agents (e.g. Cast, Credits, Person, Organisation, etc.)
 ---
 For recording the attributes of Agents (e.g. first name, last name, nationality, etc.), refer to authoritative sources such as AACR2, applicable RDA chapters for recording attributes of Persons, Families, and Corporate Bodies,[^1] Functional requirements for authority data: a conceptual model, [^2]  or tools such as the Virtual International Authority File (VIAF) (viaf.org), Library of Congress Linked Data Service (id.loc.gov), Getty Union List of Artists Names (ULAN), the [Library of Congress Name Authority File](https://authorities.loc.gov/cgi-bin/Pwebrecon.cgi?RefCodes=3&ref=1&hd=1,1&SEQ=20130523194229&Search_Arg=Ethnology-United%20States&Search_Code=SHED_&CNT=100&PID=mYzkzT0fYryqza3XpBkr08lSvjsf&SID=8), or International Standard Name Identifier (ISNI) 126.127 
 
