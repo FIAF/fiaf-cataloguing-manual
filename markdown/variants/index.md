@@ -1,5 +1,5 @@
 ---
-title: Moving Image Variants
+title: Moving Image Variants (i.e. Versions)
 ---
 
 !!! abstract "Definition"
