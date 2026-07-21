@@ -3,7 +3,7 @@ title: Identifying Aggregates
 ---
 <a id="sec-aggregate_or_carrier"></a>
 ## Aggregate or Carrier
-It is important to distinguish between actual intended compilation or multi-component moving images, e.g. Victorian cinema no. 8 (containing various short films from the 1890s edited together onto a new reel for a particular theatrical showing or publication), and an unintentional compilation, reflecting simple use of a single carrier, i.e. two short Charlie Chaplin films that happen to be acquired on one reel or transferred onto one tape for storage convenience.
+It is important to distinguish between actual intended compilation or multi-component moving images, e.g. Victorian cinema no. 8 (containing various short films from the 1890s edited together onto a new reel for a particular theatrical showing or publication), and an unintentional compilation, reflecting simple use of a single carrier (aka an individual reel, tape, or file), i.e. two short Charlie Chaplin films that happen to be acquired on one reel or transferred onto one tape for storage convenience.
 
 Editing and creative assembly decisions were taken to create the first example, and it constitutes a Collection Aggregate (see [Collection Aggregates](/appendices/aggregates/types_of_moving_image_aggregates/#sec-collection_aggregates)).
 The second was just incidental or convenient assembly and is not an aggregate, and so would not have an aggregate Manifestation.
@@ -13,6 +13,8 @@ Any aggregate will have an element of intention, whether simple or complex.
 Assessments will need to be made, where possible, as to whether the intention was for creative/intellectual or convenient purposes, and then represented accordingly.
 
 Equally, an institution may decide not to differentiate and just follow the same structuring for multi-component compilation reels, particularly where the original intent may not always be clear or known.
+
+Digital Manifestations, such as DVDs, Blu Rays, and streamed moving images, that have additional selectable language options chosen by the viewer are deemed to be Aggregate Manifestations under RDA [add link to diagram within modelling aggregates]
 
 <a id="sec-hybrid_aggregates_and_multi_component_moving_images"></a>
 ## “Hybrid” Aggregates and multi-component moving images (e.g. Anthology/Portmanteau films or TV programmes)
