@@ -10,7 +10,7 @@ An institution may therefore be able to choose whether to create a new aggregati
 
 In practical terms creating aggregates and how they are modelled, will be determined by structures and capabilities of an institution’s database or other systems.
 
-Under FRBR and CEN an aggregate Manifestation is allowed to have a many-to-many relationship with Works/Variants, i.e., it can have a “part of” relationship with more than one Work/Variant.
+Under FRBR, RDA, and CEN an aggregate Manifestation is allowed to have a many-to-many relationship with Works/Variants, i.e., it can have a “part of” relationship with more than one Work/Variant.
 
 However, many database systems are structured in a way that does not allow this and will only permit links or relationships between Manifestation records and a single Work/Variant record at all times, i.e., a one-to-many Work/Variant-Manifestation relationship.
 
