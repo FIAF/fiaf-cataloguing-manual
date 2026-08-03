@@ -125,7 +125,7 @@ It is not necessary to create a new Variant/Manifestation for each selectable la
 
 In systems that allow one Item to link to multiple parent Manifestations then each language option could be reflected with its own Manifestation, or Variant plus Manifestation, if desired. This would also be the structuring that is RDA compliant, i.e.
 
-<center><object data="/diagrams/manif_multi-lang-rda.drawio.svg" type="image/svg+xml" width="80%"></object></center>
+<center><object data="/diagrams/manif_multi_lang_rda.drawio.svg" type="image/svg+xml" width="80%"></object></center>
 
 If capturing Selectable language(s) information it is also important to have the same fields and fill in this same information on the Item record too, as it may sometimes be different to the Manifestation. An acquired digital file of a streamed moving image may be a recording of what was streamed, which is likely to default to the most appropriate language version for the streaming country in which it was recorded, and as a recording will not therefore necessarily include all the other language options as well. Equally, if acquired directly from the streaming company, then an institution's deliverable specifications in agreements with the company may only be to include one, or a few, set(s) of language subtitles, namely just those in the language(s) of the institution's own country.
 
