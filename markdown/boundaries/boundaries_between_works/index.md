@@ -98,17 +98,17 @@ If much of the original textual or spoken word material remains, most of the ori
 *Episodes re-edited into a film/a film re-edited into a serial*
 
 !!! example "Example"
-    Mission Impossible vs the Mob (USA, 1969)
-    Originally shown on US television as a 2-part episode of the series Mission Impossible called 'The Council', broadcast on 19th and 26th November 1967 respectively. The two episodes were edited together to create a film which was then released theatrically outside the USA in 1969.
+    Mission Impossible vs the Mob (USA, 1969)  
+    Originally shown on US television as a 2-part episode of the series Mission Impossible called 'The Council', broadcast on 19th and 26th November 1967 respectively. The two episodes were edited together to create a film which was then released theatrically outside the USA in 1969.  
 
 !!! example "Example"
-    Fanny och Alexander (Sweden, 1982/1983)
-    A 312 minute TV mini-series, which was also re-edited into a 189 minute film and theatrically released in 1982 before the TV broadcast in 5 parts + an Epilogue in 1983. The whole 312 minute production was also released theatrically in 1983.
+    Fanny och Alexander (Sweden, 1982/1983)  
+    A 312 minute TV mini-series, which was also re-edited into a 189 minute film and theatrically released in 1982 before the TV broadcast in 5 parts + an Epilogue in 1983. The whole 312 minute production was also released theatrically in 1983.  
 
-With the Fanny och Alexander example above there is the option of having one record and utilising Work notes fields to capture information about the different versions; or a Series Work + Episodes structure and a separate Monographic Work, linked in an associative relationship; or use of Variants. 
+With the Fanny och Alexander example above there is the option of having one record and utilising Work notes fields to capture information about the different versions; or a Series Work + Episodes structure and a separate Monographic Work, linked in an associative relationship; or use of Variants.   
 
 !!! example "Example"
-    The Godfather (1972), The Godfather II (1974) and The Godfather Saga (1977)
+    The Godfather (1972), The Godfather II (1974) and The Godfather Saga (1977)  
     The two feature films were re-edited together with events in the film put into chronological order to create a television mini-series that was broadcast on NBC in November 1977 in four parts. It also re-inserted c.75 minutes of footage cut from the theatrical originals. Several of the scenes with strong violence or strong language were also revised and re-edited. 
     
 [^1]: The types of alterations given here are adapted from Yee, “The Concept of Work for Moving Image Materials.”
