@@ -99,7 +99,7 @@ If much of the original textual or spoken word material remains, most of the ori
 
 !!! example "Example"
     Mission Impossible vs the Mob (USA, 1969)  
-    Originally shown on US television as a 2-part episode of the series Mission Impossible called 'The Council', broadcast on 19th and 26th November 1967 respectively. The two episodes were edited together to create a film which was then released theatrically outside the USA in 1969.  
+    Originally shown on US television as a 2-part episode of the television series Mission Impossible called 'The Council', broadcast on 19th and 26th November 1967 respectively. The two episodes were later edited together to create a film which was then released theatrically outside the USA in 1969.  
 
 !!! example "Example"
     Fanny och Alexander (Sweden, 1982/1983)  
