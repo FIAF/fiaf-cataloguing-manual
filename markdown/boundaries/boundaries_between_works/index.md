@@ -109,7 +109,7 @@ With the Fanny och Alexander example above there is the option of having one rec
 
 !!! example "Example"
     The Godfather (1972), The Godfather II (1974) and The Godfather Saga (1977)  
-    The two feature films were re-edited together with events in the film put into chronological order to create a television mini-series that was broadcast on NBC in November 1977 in four parts. It also re-inserted c.75 minutes of footage cut from the theatrical originals. Several of the scenes with strong violence or strong language were also revised and re-edited. 
+    The two feature films were re-edited together with events in the film changed into a straight chronological order to create a television mini-series that was broadcast on NBC in November 1977 in four parts. It also re-inserted c.75 minutes of footage cut from the theatrical originals. Several of the scenes with strong violence or strong language were also revised and re-edited. 
     
 [^1]: The types of alterations given here are adapted from Yee, “The Concept of Work for Moving Image Materials.”
 [^2]: Secondary editing results in a Variant.
