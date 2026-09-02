@@ -130,6 +130,9 @@ or
 
 
 
+<center><object data="/images/Screenshot_uncreditedeg6.png" width="100%"></object></center>
+
+
 
 In many database systems there are specific Credits and Cast sections to records with fields for adding names and linking to actual Agents records, along with fields for the credit type/activity linked to a controlled list and actual on-screen credit type/activity if this is stylistically different. Precisely how these display in their databases is for an institution to decide.
 
