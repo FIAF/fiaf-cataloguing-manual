@@ -15,6 +15,34 @@ Give the Agent(s) and Agent Activity in the terms and language in which they app
 In many relational databases Agents have their own actual records with their own identifier fields such as reference numbers, activities, nationality, alternative/credited names, birth and death dates, biographies, etc. 
 In these cases, relevant name/agent fields within Works, Variants, Manifestations, and Items will link through to these Agent records. 
 
+Agents records in such database systems should also contain additional important metadata to aid correct disambiguation and identification. It is important to have such other identification factors relating to any Agent records in order to be clear which one is meant.
+An Agent record should always include the following core information:
+
+-  the main preferred form of name
+-  reference or links to any alternative names, credited names, or pseudonyms used
+-  the activity/activities of the Agent
+
+And ideally, also include the following, as applicable
+
+-  date of birth
+-  place & country of birth
+-  date of death
+-  place & country of death
+-  nationality
+
+Agent records may also be related/linked to other Agent records, e.g. 
+
+[add eg. of son and father Robin and W.M.S Tampoe]
+
+[add eg. of branch companies]
+
+[add eg. of a director and company they founded]
+
+A relationship captured between people and/or organisation records can also act as an identifier itself
+
+This is important for both public users or researchers searching for relevant information and also cataloguers adding cast and credit, distributors, etc. to moving image records and needing identify and create links to the correct Person/Organisation Agent records.
+
+
 Agent(s) may also have relationships to an instance of a specific Event or of an “Other” relationship in connection with the Work, Variant, Manifestation or Item, e.g. cinema of a premiere screening, film classification body, film laboratory, etc. 
 
 Because responsibility for moving image materials is most often complex and highly diverse, institutions - particularly those with special interests - should determine the number of Agents and the types of roles and activities they wish to include. 
