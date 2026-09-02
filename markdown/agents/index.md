@@ -8,7 +8,7 @@ For recording the attributes of Agents (e.g. first name, last name, nationality,
 It is also recommended where possible to register key Agents with any of the aforementioned authority bodies if they are not already included. 
 
 Optionally, if the Agent is credited under a name that is not identical with the preferred name from an authority file, record the name as used in the current instance of the related entity. 
-Some databases may include fields and structures to deal with various alternative or credited forms of the Agent name 
+Some databases may include fields and structures to deal with various alternative or credited forms of the Agent name. 
 
 Give the Agent(s) and Agent Activity in the terms and language in which they appear, either in the sources of information or in the language of the institution, or both. 
 
