@@ -111,7 +111,9 @@ If Agents are added as index points rather than listed or described in order of 
 
     Kurtz, Gary, producer
 
-Where an institution is adding uncredited Agents, i.e. credits and cast where it is known that an Agent worked on or appeared in a moving image, but they were not listed in the on-screen front or end titles, then the traditional convention of using square brackets [ ] can be applied around names and/or credits, or next to either of these encasing the word "uncredited". Alternatively, using a qualifying status field indicating Credited or Uncredited alongside; or both if desired, e.g.
+Where an institution is adding uncredited Agents, i.e. credits and cast where it is known that an Agent worked on or appeared in a moving image, but they were not listed in the on-screen front or end titles, then the convention of using square brackets [ ] can be applied around names and/or credits, or next to either of the latter encasing the word "uncredited". Alternatively, using a qualifying status field indicating Credited or Uncredited alongside; or both if desired.
+
+For example:
 
 <center><object data="/images/image2022-8-1_uncreditedeg.png" width="100%"></object></center>
 
