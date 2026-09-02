@@ -111,6 +111,12 @@ If Agents are added as index points rather than listed or described in order of 
 
     Kurtz, Gary, producer
 
+Where an institution is adding uncredited Agents, i.e. credits and cast where it is known that an Agent worked on or appeared in a moving image, but they were not listed in the on-screen front or end titles, then the traditional convention of using square brackets [ ] can be applied around names and/or credits, or next to either of these encasing the word "uncredited". Alternatively, using a qualifying status field indicating Credited or Uncredited alongside; or both if desired, e.g.
+
+
+
+
+
 In many database systems there are specific Credits and Cast sections to records with fields for adding names and linking to actual Agents records, along with fields for the credit type/activity linked to a controlled list and actual on-screen credit type/activity if this is stylistically different. Precisely how these display in their databases is for an institution to decide.
 
 [^1]: EN 15907, 5.1 Agent
