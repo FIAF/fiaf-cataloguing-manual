@@ -1,6 +1,8 @@
 ---
 title: Moving Image Agents (e.g. Cast, Credits, Person, Organisation, etc.)
 ---
+An Agent can be a Person, a Corporate body, a Collective agent, or a Family. [INSERT FOOTNOTE RDA/LRM Agent entity and subtypes]
+
 For recording the attributes of Agents (e.g. first name, last name, nationality, etc.), refer to authoritative sources such as AACR2, applicable RDA chapters for recording attributes of Persons, Families, and Corporate Bodies,[^1] Functional requirements for authority data: a conceptual model, [^2]  or tools such as the Virtual International Authority File (VIAF) (viaf.org), Library of Congress Linked Data Service (id.loc.gov), Getty Union List of Artists Names (ULAN), the [Library of Congress Name Authority File](https://authorities.loc.gov/cgi-bin/Pwebrecon.cgi?RefCodes=3&ref=1&hd=1,1&SEQ=20130523194229&Search_Arg=Ethnology-United%20States&Search_Code=SHED_&CNT=100&PID=mYzkzT0fYryqza3XpBkr08lSvjsf&SID=8), or International Standard Name Identifier (ISNI) 126.127 
 
 It is also recommended where possible to register key Agents with any of the aforementioned authority bodies if they are not already included. 
@@ -16,6 +18,7 @@ In these cases, relevant name/agent fields within Works, Variants, Manifestation
 Agent(s) may also have relationships to an instance of a specific Event or of an “Other” relationship in connection with the Work, Variant, Manifestation or Item, e.g. cinema of a premiere screening, film classification body, film laboratory, etc. 
 
 Because responsibility for moving image materials is most often complex and highly diverse, institutions - particularly those with special interests - should determine the number of Agents and the types of roles and activities they wish to include. 
+
 These may vary from institution to institution according to the types of moving image material held. 
 
 | **Work** | **Variant** | **Manifestation** | **Item** |
