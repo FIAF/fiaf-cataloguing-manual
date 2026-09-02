@@ -4,10 +4,10 @@ title: Agents for Works/Variants
 <a id="sec-agents_for_works_variants"></a>
 ## Agents for Works/Variants (e.g. Cast, Credits, Person, Organisation, etc.)
 An Agent is defined as an entity that is involved in the creation, realisation, curation or exploitation of a Work/Variant and who is considered to have major responsibility for, or be of major importance to, the Work/Variant. 
-Typical distinctions between Agent types are Person, Corporate Body, Family, and Person Group.[^1] 
+Typical distinctions between Agent types are Person, Collective Agents, Corporate Body, and Family.[^1] 
 This includes cast and credits for the Work/Variant. 
 
-An institution should determine the types of activities they wish to include. 
+An institution should determine the types and quantity of activities they wish to include or capture in their records. 
 These activities may vary from institution to institution according to the types of moving image material held. 
 For example, an institution holding primarily television material may consider the activity of producer more important than that of director. 
 Institutions whose collections are primarily composed of motion picture material may value equally the activities of directors and producers. 
@@ -39,7 +39,9 @@ Choose the single most specific term, if possible. Selection should be made from
 
 If no suggested terms apply, compose a term to describe the relationship between the Agent and the Work/Variant being catalogued. 
 If the relationship is ambiguous, use a value to indicate this, for example, “unknown” or “on-screen participant” to indicate a person appearing on screen in a capacity that is indeterminate or not covered by typical terms.[^3] 
-Optionally, when the role performed by an Agent is probable but not certain, provide the function name followed by a question mark. It is recommended to capture these core credits on a moving image record as far as possible and where applicable:
+Optionally, when the role performed by an Agent is probable but not certain, provide the function name followed by a question mark. 
+
+It is recommended to capture these core credits on a moving image record as far as possible and where applicable:
 
 [ADD SCREEN GRAB DIAGRAM/IMAGE FROM CIRCE'S DOCUMENT HERE]
 
