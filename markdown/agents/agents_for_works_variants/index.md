@@ -133,8 +133,16 @@ or
 <center><object data="/images/Screenshot_uncreditedeg6.png" width="100%"></object></center>
 
 
+A similar stylistic use of square brackets or parentheses can also be applied for other Agent and credit activity association in a moving image. For example, during the McCarthy era and blacklisting of various scriptwriters, cast, and crew in Hollywood during the 1940s and 1950s, it was sometimes the case that the blacklisted actual scriptwriter was fronted by another scriptwriter colleague. This can also be captured:
 
-In many database systems there are specific Credits and Cast sections to records with fields for adding names and linking to actual Agents records, along with fields for the credit type/activity linked to a controlled list and actual on-screen credit type/activity if this is stylistically different. Precisely how these display in their databases is for an institution to decide.
+<center><object data="/images/Screenshot_uncreditedeg7blacklist.png" width="100%"></object></center>
+
+
+In many database systems there are specific Credits and Cast sections to records with fields for adding names and linking to actual Agents records, along with fields for the credit type/activity linked to a controlled list, and sometimes actual on-screen credit type/activity if this is stylistically different. Precisely how these display in their databases is for an institution to decide.
+
+The same stylistics and display can also be used in non-relational databases or card catalogues and paper systems. In the latter, institutions may wish to consider including birth and death dates alongside names for clearer identification, e.g.
+
+[add excel image example here]
 
 [^1]: EN 15907, 5.1 Agent
 [^2]: 1991 FIAF Cataloguing Rules for Film Archives – Statements of Responsibility, p. 35.
