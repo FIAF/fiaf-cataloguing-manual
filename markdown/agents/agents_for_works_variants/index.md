@@ -43,11 +43,16 @@ Optionally, when the role performed by an Agent is probable but not certain, pro
 
 It is recommended to capture these core credits on a moving image record as far as possible and where applicable:
 
-[ADD SCREEN GRAB DIAGRAM/IMAGE FROM CIRCE'S DOCUMENT HERE]
+
+<center><object data="/images/Picture1credits.jpg" width="100%"></object></center>
+
+<center><object data="/images/Picture2credits.jpg" width="100%"></object></center>
+
+<center><object data="/images/Picture3credits.jpg" width="100%"></object></center>
 
 Director, Screenwriter, Author (e.g. original literary author on which the Work was adapted or based), Cinematographer, Producer, Editor, Sound Designer, Music Composer, Music Supervisor, Animation Director, Assistant Director, Production Manager, Key Make-up Artist, Costume Designer, Production Designer, Cast, Voice-over artist, Dubbing artist, Production Company
 
-Several of these tie in with important information needed for establishing rights and copyright [ADD LINK TO 16.1.1.2 Recommended properties for Moving Image Works and Variants] 
+Several of these tie in with important information needed for establishing rights and copyright, namely Director(s), Producer(s), Production Company(ies), Scriptwriter(s), Author (e.g. original literary author on which the Work was adapted or based), Music Composer, Performers (e.g. cast) [ADD LINK TO 16.1.1.2 Recommended properties for Moving Image Works and Variants] 
 
 Besides the principal Agent Activity suggested, institutions, particularly those with special interests, may create and apply in-house value lists of other specific Agent Types, which may vary from institution to institution. 
 
@@ -105,6 +110,8 @@ If Agents are added as index points rather than listed or described in order of 
     Lucas, George, director, executive producer, screenplay 
 
     Kurtz, Gary, producer
+
+In many database systems there are specific Credits and Cast sections to records with fields for adding names and linking to actual Agents records, along with fields for the credit type/activity linked to a controlled list and actual on-screen credit type/activity if this is stylistically different. Precisely how these display in their databases is for an institution to decide.
 
 [^1]: EN 15907, 5.1 Agent
 [^2]: 1991 FIAF Cataloguing Rules for Film Archives – Statements of Responsibility, p. 35.
