@@ -40,6 +40,8 @@ Agent records may also be related/linked to other Agent records, e.g.
 
 Or else, additional identifying metadata can be added to a biographical or notes field, e.g.
 
+<center><object data="/images/Screenshot_agentrecordeg2.png" width="100%"></object></center>
+
 
 A relationship captured between people and/or organisation records can also act as an identifier itself
 
