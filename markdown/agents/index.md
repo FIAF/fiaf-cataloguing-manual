@@ -34,7 +34,12 @@ Agent records may also be related/linked to other Agent records, e.g.
 
 <center><object data="/images/Screenshot_agentrecordeg1.png" width="100%"></object></center>
 
-[add eg. of branch companies]
+
+
+<center><object data="/images/Screenshot_agentrecordeg4.png" width="100%"></object></center>
+
+
+
 
 <center><object data="/images/Screenshot_agentrecordeg3.png" width="100%"></object></center>
 
