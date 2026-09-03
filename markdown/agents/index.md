@@ -36,7 +36,8 @@ Agent records may also be related/linked to other Agent records, e.g.
 
 [add eg. of branch companies]
 
-[add eg. of a director and company they founded]
+<center><object data="/images/Screenshot_agentrecordeg3.png" width="100%"></object></center>
+
 
 Or else, additional identifying metadata can be added to a biographical or notes field, e.g.
 
