@@ -133,6 +133,9 @@ or
 
 or
 
+!!! example "Example"
+    Familie Benthin (German Democratic Republic, 1950)
+
 <center><object data="/images/Screenshot_uncreditedeg4.png" width="100%"></object></center>
 
 
