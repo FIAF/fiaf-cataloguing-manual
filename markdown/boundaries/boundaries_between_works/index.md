@@ -38,9 +38,6 @@ The boundaries between one Work and another (i.e where a new Work would be creat
 
     Die Dreigroschenoper (Germany,1962, Wolfgang Staudte)
 
-    
-<img width="779" height="238" alt="image" src="https://github.com/user-attachments/assets/639434d8-6def-4a14-99e6-115849a5928b" />
-
 
 *Different language versions shot at the same time, released simultaneously,
 sometimes with different casts.*
@@ -118,10 +115,10 @@ With the Fanny och Alexander example above there is the option of having one rec
 The same applies in instances where a film was originally made and released in two parts as separate films, but then later re-edited and released as one film - this sometimes occurred with German silent films, for example:
 
 !!! example "Example"
-    Der Film von der Königin Luise. 1. Abteilung: Die Märtyrerin auf dem Königsthron (Germany 1913) (c.20 minutes)  
-    Der Film von der Königin Luise. 2. Abteilung: Aus Preussens Schwerer Zeit (c.36 minutes)  
-    Der Film von der Königin Luise. 3. Abteilung: Die Königin der Schmerzen (Germany, 1913) (c.37 minutes)  
-    (Total running time of all 3 films, 105 minutes)    
+    Der Film von der Königin Luise. 1. Abteilung: Die Märtyrerin auf dem Königsthron (Germany 1913) (c.20 minutes)    
+    Der Film von der Königin Luise. 2. Abteilung: Aus Preussens Schwerer Zeit (c.36 minutes)    
+    Der Film von der Königin Luise. 3. Abteilung: Die Königin der Schmerzen (Germany, 1913) (c.37 minutes)    
+    (Total running time of all 3 films, 105 minutes)      
 
     Der Film von Königin Luise, 1., 2., und 3. Teil (Germany, 1922) (79 minutes)  
     
