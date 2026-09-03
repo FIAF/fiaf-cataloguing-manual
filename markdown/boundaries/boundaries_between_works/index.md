@@ -112,7 +112,7 @@ With the Fanny och Alexander example above there is the option of having one rec
     The Godfather (1972), The Godfather II (1974) and The Godfather Saga (1977)  
     The two feature films were re-edited together with events in the film changed into a straight chronological order to create a television mini-series that was broadcast on NBC in November 1977 in four parts. It also re-inserted c.75 minutes of footage cut from the theatrical originals. Several of the scenes with strong violence or strong language were also revised and re-edited. 
 
-The same applies in instances where a film was originally made and released in two parts as separate films, but then later re-edited and released as one film - this sometimes occurred with German silent films, for example:
+The same applies in instances where a film was originally made and designed to be released in two or three parts as separate films, but then later re-edited and released as one film - this sometimes occurred with German silent films, for example:
 
 !!! example "Example"
     Der Film von der Königin Luise. 1. Abteilung: Die Märtyrerin auf dem Königsthron (Germany 1913) (c.20 minutes)    
