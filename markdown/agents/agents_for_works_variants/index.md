@@ -113,6 +113,13 @@ If Agents are added as index points rather than listed or described in order of 
 
     Kurtz, Gary, producer
 
+The same stylistics and display regarding Agents as cast or credits and Agent activity can also be used in non-relational databases or card catalogues and paper systems. In the latter, institutions may wish to consider including birth and death dates alongside names for clearer identification, e.g.
+
+<center><object data="/images/Screenshot_excel_agentseg.png" width="100%"></object></center>
+
+<a id="sec-uncredited_agents_and_agent_activity"></a>
+### Uncredited Agents and Agent activity
+
 Where an institution is adding uncredited Agents to Works and Variants, i.e. credits and cast where it is known that an Agent worked on or appeared in a moving image, but they were not listed in the on-screen front or end titles, then the convention of using square brackets [ ] can be applied around names and/or credits, or next to either of the latter encasing the word "uncredited". Square brackets or parantheses can be used, depending on an institution's preference. Alternatively, using a qualifying status field indicating Credited or Uncredited alongside; or both if desired. 
 
 For example:
@@ -177,9 +184,7 @@ Similarly, there were sometimes differences in the on-screen credits between pri
 
 In many database systems there are specific Credits and Cast sections to records with fields for adding names and linking to actual Agents records, along with fields for the credit type/activity linked to a controlled list, and sometimes actual on-screen credit type/activity if this is stylistically different. Precisely how these display in their databases is for an institution to decide.
 
-The same stylistics and display can also be used in non-relational databases or card catalogues and paper systems. In the latter, institutions may wish to consider including birth and death dates alongside names for clearer identification, e.g.
 
-<center><object data="/images/Screenshot_excel_agentseg.png" width="100%"></object></center>
 
 
 [^1]: EN 15907, 5.1 Agent
