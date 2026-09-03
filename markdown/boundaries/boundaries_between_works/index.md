@@ -125,6 +125,16 @@ With the Fanny och Alexander example above there is the option of having one rec
 !!! example "Example"
     The Godfather (1972), The Godfather II (1974) and The Godfather Saga (1977)  
     The two feature films were re-edited together with events in the film changed into a straight chronological order to create a television mini-series that was broadcast on NBC in November 1977 in four parts. It also re-inserted c.75 minutes of footage cut from the theatrical originals. Several of the scenes with strong violence or strong language were also revised and re-edited. 
+
+The same applies in instances where a film was originally made and released in two parts as separate films, but then later re-edited and released as one film - this sometimes occurred with German silent films, for example:
+
+!!! example "Example"
+    Der Film von der Königin Luise. 1. Abteilung: Die Märtyrerin auf dem Königsthron (Germany 1913) (c.20 minutes)
+    Der Film von der Königin Luise. 2. Abteilung: Aus Preussens Schwerer Zeit (c.36 minutes)
+    Der Film von der Königin Luise. 3. Abteilung: Die Königin der Schmerzen (Germany, 1913) (c.37 minutes)
+    (Total running time of all 3 films, 105 minutes)
+
+    Der Film von Königin Luise, 1., 2., und 3. Teil (Germany, 1922) (79 minutes)
     
 [^1]: The types of alterations given here are adapted from Yee, “The Concept of Work for Moving Image Materials.”
 [^2]: Secondary editing results in a Variant.
