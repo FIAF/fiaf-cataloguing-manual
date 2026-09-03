@@ -15,7 +15,7 @@ Give the Agent(s) and Agent Activity in the terms and language in which they app
 In many relational databases Agents have their own actual records with their own identifier fields such as reference numbers, activities, nationality, alternative/credited names, birth and death dates, biographies, etc. 
 In these cases, relevant name/agent fields within Works, Variants, Manifestations, and Items will link through to these Agent records. 
 
-Agents records in such database systems should also contain additional important metadata to aid correct disambiguation and identification. It is important to have such other identification factors relating to any Agent records in order to be clear which one is meant.
+Agent records in such database systems should also contain additional important metadata to aid disambiguation and correct identification. It is important to have such other identification factors relating to any Agent records in order to be clear which one is meant.
 An Agent record should always include the following core information:
 
 -  the main preferred form of name
