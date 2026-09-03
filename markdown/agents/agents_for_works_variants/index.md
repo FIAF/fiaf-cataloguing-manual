@@ -167,7 +167,8 @@ In many database systems there are specific Credits and Cast sections to records
 
 The same stylistics and display can also be used in non-relational databases or card catalogues and paper systems. In the latter, institutions may wish to consider including birth and death dates alongside names for clearer identification, e.g.
 
-[add excel image example here]
+<center><object data="/images/Screenshot_excel_agentseg.png" width="100%"></object></center>
+
 
 [^1]: EN 15907, 5.1 Agent
 [^2]: 1991 FIAF Cataloguing Rules for Film Archives – Statements of Responsibility, p. 35.
