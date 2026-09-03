@@ -3,10 +3,10 @@ title: Agents for Works/Variants
 ---
 <a id="sec-agents_for_works_variants"></a>
 ## Agents for Works/Variants (e.g. Cast, Credits, Person, Organisation, etc.)
-
 !!! abstract "Definition"
-An Agent is defined as an entity that is involved in the creation, realisation, curation or exploitation of a Work/Variant and who is considered to have major responsibility for, or be of major importance to, the Work/Variant. 
-Typical distinctions between Agent types are Person, Collective Agent, Corporate Body, and Family.[^1] 
+    An Agent is defined as an entity that is involved in the creation, realisation, curation or exploitation of a                Work/Variant and who is considered to have major responsibility for, or be of major importance to, the Work/Variant. 
+    Typical distinctions between Agent types are Person, Collective Agent, Corporate Body, and Family.[^1] 
+
 This includes cast and credits for the Work/Variant. 
 
 An institution should determine the types and quantity of activities they wish to include or capture in their records. 
@@ -52,7 +52,7 @@ It is recommended to capture these core credits on a moving image record as far 
 
 <center><object data="/images/Picture3credits.jpg" width="100%"></object></center>
 
-Director, Screenwriter, Author (e.g. original literary author on which the Work was adapted or based), Cinematographer, Producer, Editor, Sound Designer, Music Composer, Music Supervisor, Animation Director, Assistant Director, Production Manager, Key Make-up Artist, Costume Designer, Production Designer, Cast, Voice-over artist, Dubbing artist, Production Company
+[Music composer, Author (e.g. original literary author on which the Work was adapted or based) currently being added to above diagram. Replace diagrams here with revised ones when finished] 
 
 Several of these tie in with important information needed for establishing rights and copyright, namely Director(s), Producer(s), Production Company(ies), Scriptwriter(s), Author (e.g. original literary author on which the Work was adapted or based), Music Composer, Performers (e.g. cast) [ADD LINK TO 16.1.1.2 Recommended properties for Moving Image Works and Variants] 
 
@@ -139,8 +139,8 @@ or
 
 
 !!! example "Example"
-   Ifigenia w a... (Poland, 2011-12-11)
-   <center><object data="/images/Screenshot_uncreditedeg6.png" width="100%"></object></center>
+    Ifigenia w a... (Poland, 2011-12-11)
+    <center><object data="/images/Screenshot_uncreditedeg6.png" width="100%"></object></center>
 
 The same stylistic use of square brackets or parentheses can also be applied for other Agent and credit activity association in a moving image. 
 
