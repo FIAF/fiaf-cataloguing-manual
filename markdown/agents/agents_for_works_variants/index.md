@@ -124,23 +124,28 @@ For example:
 or
 
 !!! example "Example"
-    <center><object data="/Screenshot_uncreditedeg9.png" width="100%"></object></center>
+    The Ladykillers (United Kingdom, 1955)
+    <center><object data="/images/Screenshot_uncreditedeg9.png" width="100%"></object></center>
+
 
 
 !!! example "Example"
     Doctor Zhivago (USA/Italy/Liechtenstein, 1965)
     <center><object data="/images/Screenshot_uncreditedeg3.png" width="100%"></object></center>
 
-or
+Or
 
 !!! example "Example"
     Familie Benthin (German Democratic Republic, 1950)
     <center><object data="/images/Screenshot_uncreditedeg4.png" width="100%"></object></center>
 
+Or
+
 
 !!! example "Example"
     Ifigenia w a... (Poland, 2011-12-11)
     <center><object data="/images/Screenshot_uncreditedeg6.png" width="100%"></object></center>
+
 
 The same stylistic use of square brackets or parentheses can also be applied for other Agent and credit activity association in a moving image. 
 
