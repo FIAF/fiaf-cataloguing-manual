@@ -146,6 +146,19 @@ Or
     Ifigenia w a... (Poland, 2011-12-11)
     <center><object data="/images/Screenshot_uncreditedeg6.png" width="100%"></object></center>
 
+The same applies in the case of uncredited cast members, for example:
+
+!!! example "Example"
+    The Ladykillers (United Kingdom, 1955)  
+    <center><object data="/images/Screenshot_uncreditedcast2.png" width="100%"></object></center>
+
+or
+
+!!! example "Example"
+    The Ladykillers (United Kingdom, 1955)  
+    <center><object data="/images/Screenshot_uncreditedcast1.png" width="100%"></object></center>
+
+
 
 The same stylistic use of square brackets or parentheses can also be applied for other Agent and credit activity association in a moving image. 
 
@@ -155,7 +168,7 @@ For example, during the McCarthy era and blacklisting of various people in the H
     A Breath of scandal (USA/Italy/Austria, 1960)
     <center><object data="/images/Screenshot_uncreditedeg7blacklist.png" width="100%"></object></center>
 
-Similarly, there were sometimes differences in the on-screen credits between prints. For example, with the 1928 USSR/German co-production Falschmünzer, the Russian prints named only one director of photography whereas German prints listed an additional German one:
+Similarly, there were sometimes differences in the on-screen credits between prints. For example, with the film Falschmünzer (USSR/Germany, 1928), the Russian prints named only one director of photography whereas German prints listed an additional German one:
 
 
 <center><object data="/images/Screenshot_uncreditedeg5.png" width="100%"></object></center>
