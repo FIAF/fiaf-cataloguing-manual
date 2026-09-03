@@ -60,5 +60,7 @@ These may vary from institution to institution according to the types of moving 
 
 For further information see 13.2.1.1 Agent Activity – Works/Variants - ADD LINK]
 
+A more in depth look at Agents, especially within an RDA/LRM context can be found here [ADD LINK TO CIRCE'S PAPER AND DIAGRAMS - yET TO BE UPLOADED ONTO CDC WEBSITE SECTION]
+
 [^1]: RDA 2.20.7.3
 [^2]: Patton, Glenn E. 2009. Functional requirements for authority data: a conceptual model. München: K.G. Saur.
