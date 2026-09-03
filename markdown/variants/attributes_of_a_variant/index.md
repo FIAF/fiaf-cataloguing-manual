@@ -25,55 +25,52 @@ A change in colour, which is a physical property, expresses a different Manifest
 **Censored Variant**
 
 !!! example "Example"
-It's a wonderful life (USA, 1946. Frank Capra)    
-Qué bello es vivir! (Censored Variant: Spain, 1948. 7 minutes shorter due to censorship cuts removing scenes relating to positive mention or depiction of housing co-operatives, deemed subversive by the Franco government)
+    It's a wonderful life (USA, 1946. Frank Capra)      
+    Qué bello es vivir! (Censored Variant: Spain, 1948. 7 minutes shorter due to censorship cuts removing scenes relating to     positive mention or depiction of housing co-operatives, deemed subversive by the Franco government)  
 
 !!! example "Example"
-Saturday Night Fever (USA, 1976) (119 minutes, R (Restricted) certification)  
-Saturday Night Fever (USA, 1979 (c.109 minutes, PG (Parental Guidance) certification. Muted/dubbed out certain swearing and edited out drug references, violence, and a rape scene).
+    Saturday Night Fever (USA, 1976) (119 minutes, R (Restricted) certification)    
+    Saturday Night Fever (USA, 1979 (c.109 minutes, PG (Parental Guidance) certification. Muted/dubbed out certain swearing      and edited out drug references, violence, and a rape scene).
 
 
 **Dubbed Variant**
 
 !!! example "Example"
-Work Title: Jour de fête (Tati, Jacques, 1947, FR)   
-Variant Title: Het is feest vandaag (Dubbed version 1964, dubbed in Dutch)  
-Variant Title: Tatis Schützenfest (Dubbed version 1964, dubbed in German)
+    Work Title: Jour de fête (Tati, Jacques, 1947, FR)     
+    Variant Title: Het is feest vandaag (Dubbed version 1964, dubbed in Dutch)    
+    Variant Title: Tatis Schützenfest (Dubbed version 1964, dubbed in German  )
 
 **Subtitled Variant**
 
 !!! example "Example"
-Work Title: Im Westen nichts Neues (Germany, 2022. Edward Berger)  
-Variant Title: All quiet on the Western Front (Subtitled version, 2022, subtitles in English)
+    Work Title: Im Westen nichts Neues (Germany, 2022. Edward Berger)  
+    Variant Title: All quiet on the Western Front (Subtitled version, 2022, subtitles in English)  
 
 **Abridged Variant (or Shortened Variant)**
 
 !!! example "Example"
-Work Title: Newfoundland - Atlantic province (Canada, 1949. Sydney Newman. Running time: 18 minutes.)  
-Variant Title: Inside Newfoundland (Canada, 1949, Sydney Newman. Running time: 11 minutes)
+    Work Title: Newfoundland - Atlantic province (Canada, 1949. Sydney Newman. Running time: 18 minutes)   
+    Variant Title: Inside Newfoundland (Canada, 1949, Sydney Newman. Running time: 11 minutes)  
 
 **Augmented Variant**
 
 !!! example "Example"
-Work Title: Terminator 2: Judgement Day (USA, 1991. James Cameron. Running time: 137 minutes)  
-Variant Title: Terminator 2: Judgement Day (Special Edition) (USA, 1993. Running time: 154 minutes)  
-Re-inserting previously deleted scenes.  
-Variant Title: Terminator 2: Judgement Day (Extended Special Edition) (aka Terminator 2: Judgement Day (Skynet Edition))   (USA, 2009. Running time: 156 minutes)  
-Includes all the insertions from the Special Edition Variant plus an altered ending.
+    Work Title: Terminator 2: Judgement Day (USA, 1991. James Cameron. Running time: 137 minutes)    
+    Variant Title: Terminator 2: Judgement Day (Special Edition) (USA, 1993. Running time: 154 minutes). Re-inserting            previously deleted scenes.    
+    Variant Title: Terminator 2: Judgement Day (Extended Special Edition) (aka Terminator 2: Judgement Day (Skynet Edition))     (USA, 2009. Running time: 156 minutes). Includes all the insertions from the Special Edition Variant plus an altered         ending.
 
 **Alternate ending Variant**
 
 An alternate ending that changes the whole story line of film may also be deemed a major change warranting a new Work. This still remains as an option even where a full 4-level data hierarchy structure is used by an institution. It is for the cataloguer to assess and decide. For those who do not use the Variant in cataloguing then instances of alternate endings that substantially change the story would mean creating a new Work and linking the two versons of the film in an associative relationship. Thus, the alternate less ambiguous ending with a more positive outlook of a central character at the end of the Extended Special Edition Terminator 2 example above could be assessed as being a subtle change (and so a Variant) rather than a more stark sad v. happy ending which changes the entire storyline and feel of a moving image (and so different enough to constitute a different Work).
 
 !!! example "Example"
-Work title: Rukoj materi (Russia, 1913. Yakov Protazanov) (Original sad ending - the daughter lying in her coffin having been accidentally killed by her mother).  
-Alternate ending Variant (Foreign export version, 1913.) (Happy ending - where the daughter lives).
+    Work title: Rukoj materi (Russia, 1913. Yakov Protazanov) (Original sad ending - the daughter lying in her coffin having     been accidentally killed by her mother).    
+    Alternate ending Variant (Foreign export version, 1913.) (Happy ending - where the daughter lives).
 
 
 !!! example "Example"
-Work Title : La Belle équipe (France, 1936. Julien Duvivier) (Happy ending - there is reconciliation after a jealous confrontation between two friends)  
-Alternative Ending Variant Title : La Belle équipe (France, 1936. Julien Duvivier) (Sad ending - the confrontation leads to a tragedy)  
-The sad ending version is what was released and circulated outside France.
+    Work Title : La Belle équipe (France, 1936. Julien Duvivier) (Happy ending - there is reconciliation after a jealous         confrontation between two friends).    
+    Alternative Ending Variant Title : La Belle équipe (France, 1936. Julien Duvivier) (Sad ending - the confrontation leads     to a tragedy). The sad ending version is what was released and circulated outside France.  
 
 It was common, especially in the silent film industry, to make different endings of the same film at he same time during production for different national audiences.
 
@@ -83,32 +80,32 @@ It was common, especially in the silent film industry, to make different endings
 **Sonorised Variant**
 
 !!! example "Example"
-Work Title: La passion de Jeanne d'Arc (France, 1928. Carl Th. Dreyer) 
-Variant Title: La passion de Jeanne d'Arc (France, 1952) (Added music track using music by composers such as Bach, Vivaldi, and Albinoni)
+    Work Title: La passion de Jeanne d'Arc (France, 1928. Carl Th. Dreyer)   
+    Variant Title: La passion de Jeanne d'Arc (France, 1952) (Added music track using music by composers such as Bach,           Vivaldi, and Albinoni)
 
 **Colourised Variant**
 
 !!! example "Example"
-Work Title: Scrooge (United Kingdom, 1951. Brian Desmond Hurst) (Black and white original film)  
-Variant Title: Scrooge (United Kingdom, 2012) (Colourised version of the film)
+    Work Title: Scrooge (United Kingdom, 1951. Brian Desmond Hurst) (Black and white original film)    
+    Variant Title: Scrooge (United Kingdom, 2012) (Colourised version of the film)  
 
 **Monochromised**
 
 !!! example "Example"
-Work Title: Nightmare Alley (USA/Mexico/Canada, 2021. Guillermo del Toro) (Filmed and released in Colour)  
-Variant Title: Nightmare Alley: Vision in Darkness and Light (USA/Mexico/Canada, 2022) (Black and white version of the film)
+    Work Title: Nightmare Alley (USA/Mexico/Canada, 2021. Guillermo del Toro) (Filmed and released in Colour)    
+    Variant Title: Nightmare Alley: Vision in Darkness and Light (USA/Mexico/Canada, 2022) (Black and white version of the       film)  
 
 A Variant may have more than one type. For example, a Variant for a restoration of a film with new, or previously missing, intertitles with restored tinting or toning and an added music track featuring the original music composed for playing with the film. Or for a shortened, different format, black and white, dubbed version:
 
 !!! example "Example"
-Work Title: Nosferatu. Eine Symphonie des Grauens (Germany, 1922. F.W. Murnau)  
-Restoration + Tinted/Toned + Different sound track Variant Title: Nosferatu. Eine Symphonie des Grauens (2006 German version)
-Variant characteristics: i) Digitally restored original German intertitles (including some previously missing); ii) new added music track; iii) tinted
+    Work Title: Nosferatu. Eine Symphonie des Grauens (Germany, 1922. F.W. Murnau)   
+    Restoration + Tinted/Toned + Different sound track Variant Title: Nosferatu. Eine Symphonie des Grauens (2006 German         version)
+    Variant characteristics: i) Digitally restored original German intertitles (including some previously missing); ii) new      added music track; iii) tinted  
 
 !!! example "Example"
-Work Title: Wet Paint (USA, 1946. Jack King)  
-Variant Title : Donald s'attendrit (France, c.1950)  
-Variant characteristics:  i) French language Version, ii) format specific 9,5mm Pathé Edition, iii) short version – 3 minutes –, iv)  black and white. 
+    Work Title: Wet Paint (USA, 1946. Jack King)    
+    Variant Title : Donald s'attendrit (France, c.1950)  
+    Variant characteristics:  i) French language Version, ii) format specific 9,5mm Pathé Edition, iii) short version – 3        minutes –, iv)  black and white.  
 
 
 [^1]: YCR, 2.1.1 Nature of modification (change in content) of expression
