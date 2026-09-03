@@ -3,6 +3,7 @@ title: Agents for Works/Variants
 ---
 <a id="sec-agents_for_works_variants"></a>
 ## Agents for Works/Variants (e.g. Cast, Credits, Person, Organisation, etc.)
+
 !!! abstract "Definition"
 An Agent is defined as an entity that is involved in the creation, realisation, curation or exploitation of a Work/Variant and who is considered to have major responsibility for, or be of major importance to, the Work/Variant. 
 Typical distinctions between Agent types are Person, Collective Agent, Corporate Body, and Family.[^1] 
@@ -117,37 +118,29 @@ Where an institution is adding uncredited Agents to Works and Variants, i.e. cre
 For example:
 
 !!! example "Example"
-
     The Ladykillers (United Kingdom, 1955)
-
-<center><object data="/images/image2022-8-1_uncreditedeg.png" width="100%"></object></center>
+    <center><object data="/images/image2022-8-1_uncreditedeg.png" width="100%"></object></center>
 
 or
 
 !!! example "Example"
-
-
-<center><object data="/Screenshot_uncreditedeg2.png" width="100%"></object></center>
+    <center><object data="/Screenshot_uncreditedeg2.png" width="100%"></object></center>
 
 
 !!! example "Example"
     Doctor Zhivago (USA/Italy/Liechtenstein, 1965)
-
-<center><object data="/images/Screenshot3_uncreditedeg.png" width="100%"></object></center>
+    <center><object data="/images/Screenshot_uncreditedeg3.png" width="100%"></object></center>
 
 or
 
 !!! example "Example"
     Familie Benthin (German Democratic Republic, 1950)
-
-<center><object data="/images/Screenshot_uncreditedeg4.png" width="100%"></object></center>
+    <center><object data="/images/Screenshot_uncreditedeg4.png" width="100%"></object></center>
 
 
 !!! example "Example"
    Ifigenia w a... (Poland, 2011-12-11)
- 
-
-<center><object data="/images/Screenshot_uncreditedeg6.png" width="100%"></object></center>
+   <center><object data="/images/Screenshot_uncreditedeg6.png" width="100%"></object></center>
 
 The same stylistic use of square brackets or parentheses can also be applied for other Agent and credit activity association in a moving image. 
 
@@ -155,10 +148,10 @@ For example, during the McCarthy era and blacklisting of various people in the H
 
 !!! example "Example"
     A Breath of scandal (USA/Italy/Austria, 1960)
-
-<center><object data="/images/Screenshot_uncreditedeg7blacklist.png" width="100%"></object></center>
+    <center><object data="/images/Screenshot_uncreditedeg7blacklist.png" width="100%"></object></center>
 
 Similarly, there were sometimes differences in the on-screen credits between prints. For example, with the 1928 USSR/German co-production Falschmünzer, the Russian prints named only one director of photography whereas German prints listed an additional German one:
+
 
 <center><object data="/images/Screenshot_uncreditedeg5.png" width="100%"></object></center>
 
