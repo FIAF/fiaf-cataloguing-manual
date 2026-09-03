@@ -1,8 +1,9 @@
 ---
 title: Agents for Manifestations
 ---
+!!! abstract "Definition"
 An Agent for moving image Manifestations is defined as an entity that is involved in the exploitation (release, distribution, broadcasting), publishing, manufacturing or preservation of a Manifestation and who is considered to have major responsibility for, or be of major importance to, the Manifestation. 
-Typical distinctions between agent types are Person, Corporate Body, Family and Person Group.[^1]  
+Typical distinctions between agent types are Person, Collective Agent, Corporate Body, and Family.[^1]  
 
 <center><object data="/images/Picture4agentsmanifs.jpg" width="100%"></object></center>
 
