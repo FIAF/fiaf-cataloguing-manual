@@ -129,6 +129,9 @@ or
 <center><object data="/Screenshot_uncreditedeg2.png" width="100%"></object></center>
 
 
+!!! example "Example"
+    Doctor Zhivago (USA/Italy/Liechtenstein, 1965)
+
 <center><object data="/images/Screenshot3_uncreditedeg.png" width="100%"></object></center>
 
 or
