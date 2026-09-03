@@ -38,6 +38,9 @@ Agent records may also be related/linked to other Agent records, e.g.
 
 [add eg. of a director and company they founded]
 
+Or else, additional identifying metadata can be added to a biographical or notes field, e.g.
+
+
 A relationship captured between people and/or organisation records can also act as an identifier itself
 
 This is important for both public users or researchers searching for relevant information and also cataloguers adding cast and credit, distributors, etc. to moving image records and needing identify and create links to the correct Person/Organisation Agent records.
