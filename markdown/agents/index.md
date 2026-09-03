@@ -32,7 +32,7 @@ And ideally, also include the following, as applicable
 
 Agent records may also be related/linked to other Agent records, e.g. 
 
-[add eg. of son and father Robin and W.M.S Tampoe]
+<center><object data="/images/Screenshot_agentrecordeg1.png" width="100%"></object></center>
 
 [add eg. of branch companies]
 
