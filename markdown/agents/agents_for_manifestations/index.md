@@ -1,8 +1,11 @@
 ---
 title: Agents for Manifestations
 ---
+!!! abstract "Definition"
 An Agent for moving image Manifestations is defined as an entity that is involved in the exploitation (release, distribution, broadcasting), publishing, manufacturing or preservation of a Manifestation and who is considered to have major responsibility for, or be of major importance to, the Manifestation. 
-Typical distinctions between agent types are Person, Corporate Body, Family and Person Group.[^1]  
+Typical distinctions between agent types are Person, Collective Agent, Corporate Body, and Family.[^1]  
+
+<center><object data="/images/Picture4agentsmanifs.jpg" width="100%"></object></center>
 
 Work/Variant Agent(s) tend to be involved in the original creation of the Work/Variant so are not repeated in the Manifestation record. 
 Only “new” Agents that contributed to the Manifestation as described above are included in the Manifestation record.  
@@ -23,7 +26,7 @@ Record one or more Agent activity terms, for example, “distributor,” “broa
 
 Choose the single most specific term in each case, if possible. 
 If no suggested terms apply, compose a term to describe the relationship between the creator and the Manifestation being catalogued. 
-If the relationship is ambiguous, use a value to indicate this, for example, “unknown” to indicate a person performing in a capacity that is uncertain or not covered by typical terms.[^3] 
+If the relationship is ambiguous, use a value to indicate this, for example, “unknown” to indicate a person/organisation performing in a capacity that is uncertain or not covered by typical terms.[^3] 
 Optionally, when the activity performed by an Agent is probable but not certain, provide the function name followed by a question mark. 
 
 Besides the principal Agent Activities suggested, institutions, particularly those with special interests, should create and apply in-house value lists of other specific Agent activities, which may vary from institution to institution. 

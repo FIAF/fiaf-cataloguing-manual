@@ -3,11 +3,12 @@ title: Agents for Works/Variants
 ---
 <a id="sec-agents_for_works_variants"></a>
 ## Agents for Works/Variants (e.g. Cast, Credits, Person, Organisation, etc.)
+!!! abstract "Definition"
 An Agent is defined as an entity that is involved in the creation, realisation, curation or exploitation of a Work/Variant and who is considered to have major responsibility for, or be of major importance to, the Work/Variant. 
-Typical distinctions between Agent types are Person, Corporate Body, Family, and Person Group.[^1] 
+Typical distinctions between Agent types are Person, Collective Agent, Corporate Body, and Family.[^1] 
 This includes cast and credits for the Work/Variant. 
 
-An institution should determine the types of activities they wish to include. 
+An institution should determine the types and quantity of activities they wish to include or capture in their records. 
 These activities may vary from institution to institution according to the types of moving image material held. 
 For example, an institution holding primarily television material may consider the activity of producer more important than that of director. 
 Institutions whose collections are primarily composed of motion picture material may value equally the activities of directors and producers. 
@@ -39,13 +40,20 @@ Choose the single most specific term, if possible. Selection should be made from
 
 If no suggested terms apply, compose a term to describe the relationship between the Agent and the Work/Variant being catalogued. 
 If the relationship is ambiguous, use a value to indicate this, for example, “unknown” or “on-screen participant” to indicate a person appearing on screen in a capacity that is indeterminate or not covered by typical terms.[^3] 
-Optionally, when the role performed by an Agent is probable but not certain, provide the function name followed by a question mark. It is recommended to capture these core credits on a moving image record as far as possible and where applicable:
+Optionally, when the role performed by an Agent is probable but not certain, provide the function name followed by a question mark. 
 
-[ADD SCREEN GRAB DIAGRAM/IMAGE FROM CIRCE'S DOCUMENT HERE]
+It is recommended to capture these core credits on a moving image record as far as possible and where applicable:
+
+
+<center><object data="/images/Picture1credits.jpg" width="100%"></object></center>
+
+<center><object data="/images/Picture2credits.jpg" width="100%"></object></center>
+
+<center><object data="/images/Picture3credits.jpg" width="100%"></object></center>
 
 Director, Screenwriter, Author (e.g. original literary author on which the Work was adapted or based), Cinematographer, Producer, Editor, Sound Designer, Music Composer, Music Supervisor, Animation Director, Assistant Director, Production Manager, Key Make-up Artist, Costume Designer, Production Designer, Cast, Voice-over artist, Dubbing artist, Production Company
 
-Several of these tie in with important information needed for establishing rights and copyright [ADD LINK TO 16.1.1.2 Recommended properties for Moving Image Works and Variants] 
+Several of these tie in with important information needed for establishing rights and copyright, namely Director(s), Producer(s), Production Company(ies), Scriptwriter(s), Author (e.g. original literary author on which the Work was adapted or based), Music Composer, Performers (e.g. cast) [ADD LINK TO 16.1.1.2 Recommended properties for Moving Image Works and Variants] 
 
 Besides the principal Agent Activity suggested, institutions, particularly those with special interests, may create and apply in-house value lists of other specific Agent Types, which may vary from institution to institution. 
 
@@ -103,6 +111,65 @@ If Agents are added as index points rather than listed or described in order of 
     Lucas, George, director, executive producer, screenplay 
 
     Kurtz, Gary, producer
+
+Where an institution is adding uncredited Agents to Works and Variants, i.e. credits and cast where it is known that an Agent worked on or appeared in a moving image, but they were not listed in the on-screen front or end titles, then the convention of using square brackets [ ] can be applied around names and/or credits, or next to either of the latter encasing the word "uncredited". Square brackets or parantheses can be used, depending on an institution's preference. Alternatively, using a qualifying status field indicating Credited or Uncredited alongside; or both if desired. 
+
+For example:
+
+!!! example "Example"
+
+    The Ladykillers (United Kingdom, 1955)
+
+<center><object data="/images/image2022-8-1_uncreditedeg.png" width="100%"></object></center>
+
+or
+
+!!! example "Example"
+
+
+<center><object data="/Screenshot_uncreditedeg2.png" width="100%"></object></center>
+
+
+!!! example "Example"
+    Doctor Zhivago (USA/Italy/Liechtenstein, 1965)
+
+<center><object data="/images/Screenshot3_uncreditedeg.png" width="100%"></object></center>
+
+or
+
+!!! example "Example"
+    Familie Benthin (German Democratic Republic, 1950)
+
+<center><object data="/images/Screenshot_uncreditedeg4.png" width="100%"></object></center>
+
+
+!!! example "Example"
+   Ifigenia w a... (Poland, 2011-12-11)
+ 
+
+<center><object data="/images/Screenshot_uncreditedeg6.png" width="100%"></object></center>
+
+The same stylistic use of square brackets or parentheses can also be applied for other Agent and credit activity association in a moving image. 
+
+For example, during the McCarthy era and blacklisting of various people in the Hollywood film industry in the USA during the 1940s and 1950s, it was sometimes the case that the blacklisted actual scriptwriter was fronted by another scriptwriter colleague. This can also be captured:
+
+!!! example "Example"
+    A Breath of scandal (USA/Italy/Austria, 1960)
+
+<center><object data="/images/Screenshot_uncreditedeg7blacklist.png" width="100%"></object></center>
+
+Similarly, there were sometimes differences in the on-screen credits between prints. For example, with the 1928 USSR/German co-production Falschmünzer, the Russian prints named only one director of photography whereas German prints listed an additional German one:
+
+<center><object data="/images/Screenshot_uncreditedeg5.png" width="100%"></object></center>
+
+
+
+In many database systems there are specific Credits and Cast sections to records with fields for adding names and linking to actual Agents records, along with fields for the credit type/activity linked to a controlled list, and sometimes actual on-screen credit type/activity if this is stylistically different. Precisely how these display in their databases is for an institution to decide.
+
+The same stylistics and display can also be used in non-relational databases or card catalogues and paper systems. In the latter, institutions may wish to consider including birth and death dates alongside names for clearer identification, e.g.
+
+<center><object data="/images/Screenshot_excel_agentseg.png" width="100%"></object></center>
+
 
 [^1]: EN 15907, 5.1 Agent
 [^2]: 1991 FIAF Cataloguing Rules for Film Archives – Statements of Responsibility, p. 35.

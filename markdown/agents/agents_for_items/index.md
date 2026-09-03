@@ -1,7 +1,10 @@
 ---
 title: Agents for Items
 ---
+!!! abstract "Definition"
 An Agent for moving image Items is defined as an entity that is involved in the acquisition, movement (for loans, inspection, storage, etc.), or preservation of a moving image Item and who is considered to have major responsibility for, or be of major importance to, the moving image Item. That is, any agent involved in all the activities that form part of the lifecycle of a moving image item.
+
+<center><object data="/images/Picture5itemagents.jpg" width="100%"></object></center>
 
 Full names pertaining to in-house staff are advisable for clarity, rather than initials of individuals. 
 
@@ -14,7 +17,7 @@ These functions may vary from institution to institution according to the types 
 ## Agent Activity – Items
 Describes the activity of the Agent to make explicit the relationship(s) between the Agent and the Item. 
 
-Record one or more Agent activity terms, for example, “preservationist,” “curator,” “acquisition source” or "donor", "technical reviewer", “relevant in-house job title” etc., to express the nature of the Agent’s relationship to the Item. Selection should be made from a controlled list of terms. 
+Record one or more Agent activity terms, for example, “preservationist,” “curator,” “acquisition source” or "donor", "technical reviewer", “relevant in-house job title” etc., to express the nature of the Agent’s relationship to the Item. Selection should ideally be made from a controlled list of terms. 
 
 Choose the single most specific term, if possible. 
 If no suggested terms apply, compose a term to describe the relationship between the Agent and the Item. 
