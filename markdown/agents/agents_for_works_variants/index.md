@@ -143,13 +143,17 @@ or
 
 
 !!! example "Example"
-    
+   Ifigenia w a... (Poland, 2011-12-11)
+ 
 
 <center><object data="/images/Screenshot_uncreditedeg6.png" width="100%"></object></center>
 
 The same stylistic use of square brackets or parentheses can also be applied for other Agent and credit activity association in a moving image. 
 
 For example, during the McCarthy era and blacklisting of various people in the Hollywood film industry in the USA during the 1940s and 1950s, it was sometimes the case that the blacklisted actual scriptwriter was fronted by another scriptwriter colleague. This can also be captured:
+
+!!! example "Example"
+    A Breath of scandal (USA/Italy/Austria, 1960)
 
 <center><object data="/images/Screenshot_uncreditedeg7blacklist.png" width="100%"></object></center>
 
