@@ -111,7 +111,7 @@ If Agents are added as index points rather than listed or described in order of 
 
     Kurtz, Gary, producer
 
-Where an institution is adding uncredited Agents, i.e. credits and cast where it is known that an Agent worked on or appeared in a moving image, but they were not listed in the on-screen front or end titles, then the convention of using square brackets [ ] can be applied around names and/or credits, or next to either of the latter encasing the word "uncredited". Square brackets or parantheses can be used, depending on an institution's preference. Alternatively, using a qualifying status field indicating Credited or Uncredited alongside; or both if desired.
+Where an institution is adding uncredited Agents to Works and Variants, i.e. credits and cast where it is known that an Agent worked on or appeared in a moving image, but they were not listed in the on-screen front or end titles, then the convention of using square brackets [ ] can be applied around names and/or credits, or next to either of the latter encasing the word "uncredited". Square brackets or parantheses can be used, depending on an institution's preference. Alternatively, using a qualifying status field indicating Credited or Uncredited alongside; or both if desired. 
 
 For example:
 
@@ -132,10 +132,16 @@ or
 
 <center><object data="/images/Screenshot_uncreditedeg6.png" width="100%"></object></center>
 
+The same stylistic use of square brackets or parentheses can also be applied for other Agent and credit activity association in a moving image. 
 
-A similar stylistic use of square brackets or parentheses can also be applied for other Agent and credit activity association in a moving image. For example, during the McCarthy era and blacklisting of various scriptwriters, cast, and crew in Hollywood during the 1940s and 1950s, it was sometimes the case that the blacklisted actual scriptwriter was fronted by another scriptwriter colleague. This can also be captured:
+For example, during the McCarthy era and blacklisting of various people in the Hollywood film industry in the USA during the 1940s and 1950s, it was sometimes the case that the blacklisted actual scriptwriter was fronted by another scriptwriter colleague. This can also be captured:
 
 <center><object data="/images/Screenshot_uncreditedeg7blacklist.png" width="100%"></object></center>
+
+Similarly, there were sometimes differences in the on-screen credits between prints. For example, with the 1928 USSR/German co-production Falschmünzer, the Russian prints named only one director of photography whereas German prints listed an additional German one:
+
+<center><object data="/images/Screenshot_uncreditedeg5.png" width="100%"></object></center>
+
 
 
 In many database systems there are specific Credits and Cast sections to records with fields for adding names and linking to actual Agents records, along with fields for the credit type/activity linked to a controlled list, and sometimes actual on-screen credit type/activity if this is stylistically different. Precisely how these display in their databases is for an institution to decide.
