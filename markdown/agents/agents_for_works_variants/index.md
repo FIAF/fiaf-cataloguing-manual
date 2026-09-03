@@ -115,9 +115,16 @@ Where an institution is adding uncredited Agents to Works and Variants, i.e. cre
 
 For example:
 
+!!! example "Example"
+
+    The Ladykillers (United Kingdom, 1955)
+
 <center><object data="/images/image2022-8-1_uncreditedeg.png" width="100%"></object></center>
 
 or
+
+!!! example "Example"
+
 
 <center><object data="/Screenshot_uncreditedeg2.png" width="100%"></object></center>
 
