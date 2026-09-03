@@ -142,6 +142,8 @@ or
 <center><object data="/images/Screenshot_uncreditedeg4.png" width="100%"></object></center>
 
 
+!!! example "Example"
+    
 
 <center><object data="/images/Screenshot_uncreditedeg6.png" width="100%"></object></center>
 
