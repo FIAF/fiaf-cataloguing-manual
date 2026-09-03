@@ -38,6 +38,10 @@ The boundaries between one Work and another (i.e where a new Work would be creat
 
     Die Dreigroschenoper (Germany,1962, Wolfgang Staudte)
 
+    
+<img width="779" height="238" alt="image" src="https://github.com/user-attachments/assets/639434d8-6def-4a14-99e6-115849a5928b" />
+
+
 *Different language versions shot at the same time, released simultaneously,
 sometimes with different casts.*
 
@@ -77,6 +81,9 @@ sometimes with different casts.*
     What’s Up Tiger Lily (USA, 1966)
     A film by Woody Allen, who utilised footage from the Japanese film Kokusai himitsu keisatsu: kagi no kagi (Japan, 1965. Director Senkichi Taniguchi) re-editing it and dubbing it with completely different dialogue, plus inserting some new scenes, which changed the whole plot and tone of the original.
 
+!!! example "Example"
+    Chickens Come Home (1931) where the film was first shot in English, then re-shot with Spanish dialogue and additional Spanish-speaking actors.
+
 ## Change in performance/performers
 
 *Each cinematographic realisation of a dramatic work.*
@@ -89,7 +96,15 @@ sometimes with different casts.*
     Macbeth (France, United Kingdom, Luxembourg, 2015. Director - Justin Kurzel; production company - See-Saw Films ; cast - Michael Fassbinder, Marion Cotillard)
 
 !!! example "Example"
-    Chickens Come Home (1931) where the film was first shot in English, then re-shot with Spanish dialogue and additional Spanish-speaking actors.
+    Santa (México, 1918, Luis G. Peredo)
+    
+    Santa (México, 1932, Antonio Moreno)
+    
+    Santa (México, 1943, Norman Foster)
+    
+    Santa (México, 1968, Emilio Gómez Muriel)
+
+
 
 If much of the original textual or spoken word material remains, most of the original footage remains in roughly the same continuity, however abridged, and substantially most of the contributors are the same, the existence of alterations more often than not constitute a Variant, rather than a new Work.
 
