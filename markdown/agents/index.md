@@ -15,14 +15,14 @@ Give the Agent(s) and Agent Activity in the terms and language in which they app
 In many relational databases Agents have their own actual records with their own identifier fields such as reference numbers, activities, nationality, alternative/credited names, birth and death dates, biographies, etc. 
 In these cases, relevant name/agent fields within Works, Variants, Manifestations, and Items will link through to these Agent records. 
 
-Agent records in such database systems should also contain additional important metadata to aid disambiguation and correct identification. It is important to have such other identification factors relating to any Agent records in order to be clear which one is meant.
+Agent records in such database systems should contain such additional important metadata to aid disambiguation and correct identification. It is important to have such other identification factors relating to any Agent records in order for clarity, especially where there are different people/organisations with identical or very similar names.
 An Agent record should always include the following core information:
 
 -  the main preferred form of name
 -  reference or links to any alternative names, credited names, or pseudonyms used
 -  the activity/activities of the Agent
 
-And ideally, also include the following, as applicable
+And ideally, also include the following, as applicable and if known:
 
 -  date of birth
 -  place & country of birth
@@ -49,9 +49,9 @@ Or else, additional identifying metadata can be added to a biographical or notes
 <center><object data="/images/Screenshot_agentrecordeg2.png" width="100%"></object></center>
 
 
-A relationship captured between people and/or organisation records can also act as an identifier itself
+A relationship captured between people and/or organisation records can also act as an identifier itself.
 
-This is important for both public users or researchers searching for relevant information and also cataloguers adding cast and credit, distributors, etc. to moving image records and needing identify and create links to the correct Person/Organisation Agent records.
+This is important for both public users or researchers searching for relevant information, and also cataloguers adding cast and credits, distributors, etc. to moving image records and needing to identify and create links to the correct Person/Organisation Agent records.
 
 
 Agent(s) may also have relationships to an instance of a specific Event or of an “Other” relationship in connection with the Work, Variant, Manifestation or Item, e.g. cinema of a premiere screening, film classification body, film laboratory, etc. 
