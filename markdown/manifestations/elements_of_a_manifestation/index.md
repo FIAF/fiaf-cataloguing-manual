@@ -97,14 +97,14 @@ If usage type(s) cannot be determined, indicate a value of “unknown”.
     Not for release (archival) – 35mm – Italian (spoken), Romanian (intertitles)
 
 !!! example "Example"
-    New York stories, (United States of America, Woody Allen, Francis Ford Coppola, Martin Scorsese, 1989  
+    New York stories, (United States of America, Woody Allen, Francis Ford Coppola, Martin Scorsese, 1989)  
     
-    Home video publication – DVD, English (spoken); – Italian, German; English, Italian, German, French, Spanish (subtitles)     – Buena Vista (publisher), 2002/05/16
+    Home video publication – DVD - English (spoken); Italian, German, French, Spanish (subtitles) – Buena Vista (publisher),     2002/05/16
 
 !!! example "Example"
     The Bridge. Episode 1 (Sweden, Denmark, Charlotte Sieling, 2011) 
 
-    TV broadcast – United Kingdom, 2012-04-21 - Swedish (Dialogue (original)), Danish (Dialogue (original)), English (Subtitles)
+    TV broadcast – United Kingdom, 2012-04-21 - Swedish (Dialogue (original)), Danish (Dialogue (original)), English             (Subtitles)
 
 ### Multiple language options for Digital Manifestations/Items
 
@@ -115,7 +115,7 @@ There are different options for capturing this, depending on the systems used, m
 Ideally, if desiring to capture all the language options of a digital entity, it would be best to have a further separate language section and fields within the Manifestation record. This is in order to distinguish clearly between the actual presence of particular spoken and/or subtitled languages on the soundtrack of the original moving image (or particular Manifestation of the moving image) and the selective choice options of other dubbed or subtitled alternative language(s), i.e. fields for Language and Usage and fields for alternative Selectable Language and Usage.
 
 !!! example "Example"
-    New York stories, (United States of America, Woody Allen, Francis Ford Coppola, Martin Scorsese, 1989 
+    New York stories, (United States of America, Woody Allen, Francis Ford Coppola, Martin Scorsese, 1989) 
 
     Home video publication – DVD, English (spoken); – Selectable language alternatives Italian, German (dubbed); English,        Italian, German, French, Spanish, (subtitles) – Buena Vista (publisher), 2002/05/16
 
