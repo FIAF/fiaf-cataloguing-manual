@@ -30,6 +30,8 @@ And ideally, also include the following, as applicable and if known:
 -  place & country of death
 -  nationality
 
+As with establishing production country for a moving image, place/country/nationality may be impacted by historical geopolitical considerations, e.g. those Agents who were born and died in areas of what was previously northern India before partition, but which are now in Pakistan or Bangladesh. Cultural and self-identity aspects relating to the individual could also be considered with aspects such as nationality. It is for institutions to decide on  whether to use nationalities that are sub-divisions of ISO codes that relate to regions too (some of which may reflect former countries historically,), e.g. Scottish, Welsh, Québécois, East German, etc. This would mean assigning two nationalities in such instances, e.g. that an Agent is British and Welsh; Canadian and Québécois; Ger
+
 Agent records may also be related/linked to other Agent records, e.g. 
 
 <center><object data="/images/Screenshot_agentrecordeg1.png" width="100%"></object></center>
@@ -51,7 +53,7 @@ Or else, additional identifying metadata can be added to a biographical or notes
 
 A relationship captured between people and/or organisation records can also act as an identifier itself.
 
-This is important for both public users or researchers searching for relevant information, and also cataloguers adding cast and credits, distributors, etc. to moving image records and needing to identify and create links to the correct Person/Organisation Agent records.
+Having these identification factors are important for both public users or researchers searching for relevant information, and also cataloguers adding cast and credits, distributors, etc. to moving image records and needing to identify and create links to the correct Person/Organisation Agent records.
 
 
 Agent(s) may also have relationships to an instance of a specific Event or of an “Other” relationship in connection with the Work, Variant, Manifestation or Item, e.g. cinema of a premiere screening, film classification body, film laboratory, etc. 
