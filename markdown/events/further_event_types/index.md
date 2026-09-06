@@ -2,7 +2,7 @@
 title: Further Event Types for Items
 ---
 
-The following are further Event Types relating to Item - Acquisition, Loan and Inspection Events. Those institutions which use systems that do not have or use Events will usually capture this data in fields embedded within the Item record or linking to records in another database, e.g. a possible separate Donors database with its own acquisition records capturing names, dates, etc.
+The following are further Event Types relating to Item - Acquisition, Accession, Loan, Deposit and Inspection Events. Those institutions which use systems that do not have or use Events will usually capture this data in fields embedded within the Item record or linking to records in another database, e.g. a possible separate Donors database with its own acquisition records capturing names and dates; or similarly an Accessions database, etc.
 
 <a id="sec-acquisition"></a>
 ## Acquisition
@@ -25,6 +25,7 @@ An Acquisition Event information consists of the following sub-elements:
 Describes the means by which the Item was acquired. Select from a controlled list of terms, for e.g.
 
 - Donation
+- Legal deposit
 - Exchange
 - Loan
 - Purchase
@@ -47,6 +48,10 @@ The name of the person or organisation from which the Item was obtained, indicat
 
 Information describing the acquisition of the Item in greater detail.
 
+<a id="sec-accession"></a>
+## Accession 
+
+takes formal custody and creates an authoritative administrative record
 **Accession date**
 
 Captures the date on which the Item formally entered the collection of the archive. Often this definition is dependent on formal documentation within the archive’s collections management system, with a unique accession reference / identifier assigned. (Dates should be formatted according to ISO 8601 or some other recognised standard.)
