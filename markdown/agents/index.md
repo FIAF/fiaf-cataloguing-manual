@@ -30,7 +30,11 @@ And ideally, also include the following, as applicable and if known:
 -  place & country of death
 -  nationality
 
-As with establishing production country for a moving image, place/country/nationality may be impacted by historical geopolitical considerations, e.g. those Agents who were born and died in areas of what was previously northern India before partition, but which are now in Pakistan or Bangladesh. Cultural and self-identity aspects relating to the individual could also be considered with aspects such as nationality. It is for institutions to decide on  whether to use nationalities that are sub-divisions of ISO codes that relate to regions too (some of which may reflect former countries historically,), e.g. Scottish, Welsh, Québécois, East German, etc. This would mean assigning two nationalities in such instances, e.g. that an Agent is British and Welsh; Canadian and Québécois; Ger
+As with establishing country of reference for a moving image ([ADD LINK BACK TO THIS]), place/country/nationality may be impacted by historical geopolitical considerations, e.g. those Agents who were born and died in areas of what was previously northern India before partition, but which are now in Pakistan or Bangladesh. Add qualifying notes to clarify  Cultural and self-identity aspects relating to the individual should also be considered with aspects such as nationality. 
+
+It is for institutions to decide whether to use nationalities that are sub-divisions of ISO codes that relate to regions too (some of which may reflect former countries historically,), e.g. Scottish, Welsh, Québécois, etc. This would mean assigning two nationalities in such instances, e.g. that an Agent is both British and Welsh; Canadian and Québécois, etc. 
+
+In the same way an Agent whose life and moving image works spanned across changes of country/nationality can be given two nationalities, e.g. German and West German.
 
 Agent records may also be related/linked to other Agent records, e.g. 
 
