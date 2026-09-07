@@ -30,15 +30,17 @@ And ideally, also include the following, as applicable and if known:
 -  place & country of death
 -  nationality
 
-As with establishing country of reference for a moving image ([ADD LINK BACK TO THIS]), place/country/nationality may be impacted by historical geopolitical considerations, e.g. those Agents who were born and died in areas of what was previously northern India before partition, but which are now in Pakistan or Bangladesh. In database systems where place and country of birth/death are together in one field and taken from controlled lists of terms that default to the most recent corresponding country, then qualifying notes should ideally be added for clarity, for example:
+As with establishing country of reference for a moving image ([ADD LINK BACK TO THIS]), place/country/nationality may be impacted by historical geopolitical considerations, e.g. those Agents who were born and died in areas of what was previously northern India before partition, but which are now in Pakistan or Bangladesh. 
+
+In database systems where place and country of birth/death are together in one field and taken from controlled lists of terms that default to the most recent corresponding country, then qualifying notes should ideally be added for clarity, for example:
 
 !!! example "Example"
               
-    Main preferred name: Wolfgang Kirchner
+    Main preferred name: Wolfgang Kirchner  
     Activity: Director; Scriptwriter  
-    Born: 1935  
-    Birth place/country: Gdansk, Poland
-    Note: Was born in Danzig (which later became Gdansk), when it was a part of Germany.
+    Born: 1935    
+    Birth place/country: Gdansk, Poland  
+    Note: Was born in Danzig (which later became Gdansk), when it was a part of Germany.  
     Nationality: German; West German
 
 Cultural and self-identity aspects relating to the individual should also be considered with nationality. 
