@@ -196,11 +196,11 @@ There may not always be ISO codes for these, and a clarifying definition of thes
 
 Similarly, films made in World War II in unoccupied Vichy France would have production country France, while those made in occupied France could have the production country Germany (if made wholly by German authorities) or else two production countries, Germany and France. The same with annexed Korea from 1910 to 1945, where films may have production countries of both Japan and Korea.
 
-The same also applies to previously colonised countries, under direct or indirect rule [RESEARCH A BIT MORE TO ADD SOME FURTHER SENTENCES HERE]
+The same also applies to previously colonised countries, under direct or indirect rule.
 
 It is for each institution to consider and decide what production countries to add on a Work record for moving images made in occupied or annexed countries, and apply consistently in cataloguing. Such decisions should be balanced, and also take into consideration the opinions and experiences of those affected.
 
-If possible use linking with georeferencing data such as GeoNames for place/location of production company or for indexation of film location to enable findability of films produced for example in film studios in Riga with the search term “Latvia” https://www.geonames.org/ . In this way, it is possible to avoid manifesting or perpetuating geopolitical facts that may be contentious. [NB. may need to cover this under nationality in Agents chapter as well, i.e. how to deal with this if you don't have geonames linking possibilities, and covering things like country/border changes, e.g. those actors who were born and died in an area of what was India before partition but is now in Pakistan; similarly those who were born in what was then part of Germany but then changed to be part of Poland, etc.]
+If possible use linking with georeferencing data such as GeoNames for place/location of production company or for indexation of film location to enable findability of films produced for example in film studios in Riga with the search term “Latvia” https://www.geonames.org/ . In this way, it is possible to avoid manifesting or perpetuating geopolitical facts that may be contentious.
 
 <a id="sec-countries_with_changed_names_/_borders_or_independence_from_former_empires_multinational_states_or_unions"></a>
 ### Countries with changed names/borders, or independence from former empires, multinational states, or unions

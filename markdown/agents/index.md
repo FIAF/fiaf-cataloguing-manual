@@ -30,6 +30,23 @@ And ideally, also include the following, as applicable and if known:
 -  place & country of death
 -  nationality
 
+As with establishing country of reference for a moving image ([ADD LINK BACK TO THIS]), place/country/nationality may be impacted by historical geopolitical considerations, e.g. those Agents who were born and died in areas of what was previously northern India before partition, but which are now in Pakistan or Bangladesh. In database systems where place and country of birth/death are together in one field and taken from controlled lists of terms that default to the most recent corresponding country, then qualifying notes should ideally be added for clarity, for example:
+
+!!! example "Example"
+              
+    Main preferred name: Wolfgang Kirchner
+    Activity: Director; Scriptwriter  
+    Born: 1935  
+    Birth place/country: Gdansk, Poland
+    Note: Was born in Danzig (which later became Gdansk), when it was a part of Germany.
+    Nationality: German; West German
+
+Cultural and self-identity aspects relating to the individual should also be considered with nationality. 
+
+It is for institutions to decide whether to use nationalities that are sub-divisions of ISO codes that relate to regions too (some of which may reflect former countries historically,), e.g. Scottish, Welsh, Québécois, etc. This would mean assigning two nationalities in such instances, e.g. that an Agent is both British and Welsh; Canadian and Québécois, etc. 
+
+In the same way an Agent whose life and moving image works spanned across changes of country/nationality can be given two nationalities, e.g. German and West German.
+
 Agent records may also be related/linked to other Agent records, e.g. 
 
 <center><object data="/images/Screenshot_agentrecordeg1.png" width="100%"></object></center>
@@ -51,7 +68,7 @@ Or else, additional identifying metadata can be added to a biographical or notes
 
 A relationship captured between people and/or organisation records can also act as an identifier itself.
 
-This is important for both public users or researchers searching for relevant information, and also cataloguers adding cast and credits, distributors, etc. to moving image records and needing to identify and create links to the correct Person/Organisation Agent records.
+Having these identification factors are important for both public users or researchers searching for relevant information, and also cataloguers adding cast and credits, distributors, etc. to moving image records and needing to identify and create links to the correct Person/Organisation Agent records.
 
 
 Agent(s) may also have relationships to an instance of a specific Event or of an “Other” relationship in connection with the Work, Variant, Manifestation or Item, e.g. cinema of a premiere screening, film classification body, film laboratory, etc. 
