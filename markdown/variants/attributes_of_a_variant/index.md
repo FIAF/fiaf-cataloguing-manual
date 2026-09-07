@@ -72,7 +72,7 @@ An alternate ending that changes the whole story line of film may also be deemed
     Work Title : La Belle équipe (France, 1936. Julien Duvivier) (Happy ending - there is reconciliation after a jealous         confrontation between two friends).    
     Alternative Ending Variant Title : La Belle équipe (France, 1936. Julien Duvivier) (Sad ending - the confrontation leads     to a tragedy). The sad ending version is what was released and circulated outside France.  
 
-It was common, especially in the silent film industry, to make different endings of the same film at he same time during production for different national audiences.
+It was common, especially in the silent film industry, to make different endings of the same film at the same time during production for different national audiences.
 
 
 **Restoration Variant**
