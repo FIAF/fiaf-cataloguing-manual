@@ -77,6 +77,13 @@ It was common, especially in the silent film industry, to make different endings
 
 **Restoration Variant**
 
+**Different Soundtrack Variant**
+
+!!! example "Example"
+    Work Title: Derry Girls (TV series, Season 1 first broadcast in the UK on Channel 4 2018-01-04 to 2018-02-08)
+    Variant Title: Derry Girls (TV series, Season 1 broadcast on Netflix in USA from 2018-12-21)
+    There were sometimes different pieces of music and songs used on the soundtrack of USA and international broadcasts of       episodes of the series. This was due to music licensing and rights whereby the original songs used were licensed to          Channel 4's broadcasts in the United Kingdom and Ireland.
+
 **Sonorised Variant**
 
 !!! example "Example"
