@@ -116,7 +116,7 @@ The same applies in instances where a film was originally made and designed to b
 
 !!! example "Example"
     Der Film von der Königin Luise. 1. Abteilung: Die Märtyrerin auf dem Königsthron (Germany 1913)      
-    Der Film von der Königin Luise. 2. Abteilung: Aus Preussens Schwerer Zeit    
+    Der Film von der Königin Luise. 2. Abteilung: Aus Preussens Schwerer Zeit (Germany, 1913)   
     Der Film von der Königin Luise. 3. Abteilung: Die Königin der Schmerzen (Germany, 1913)    
     (Total running time of all 3 films, 105 minutes)      
 
