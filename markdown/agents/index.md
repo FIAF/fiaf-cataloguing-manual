@@ -29,6 +29,7 @@ And ideally, also include the following, as applicable and if known:
 -  date of death
 -  place & country of death
 -  nationality
+-  VIAF or other international name identifier
 
 As with establishing country of reference for a moving image ([ADD LINK BACK TO THIS]), place/country/nationality may be impacted by historical geopolitical considerations, e.g. those Agents who were born and died in areas of what was previously northern India before partition, but which are now in Pakistan or Bangladesh. 
 
