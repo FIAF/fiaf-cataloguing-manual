@@ -46,9 +46,9 @@ In database systems where place and country of birth/death are together in one f
 
 Cultural and self-identity aspects relating to the individual should also be considered with nationality. 
 
-It is for institutions to decide whether to use nationalities that are sub-divisions of ISO codes that relate to regions too (some of which may reflect former countries historically,), e.g. Scottish, Welsh, Québécois, etc. This would mean assigning two nationalities in such instances, e.g. that an Agent is both British and Welsh; Canadian and Québécois, etc. 
+It is for institutions to decide whether to use nationalities that are sub-divisions of ISO codes that relate to regions too (some of which may reflect former countries historically), e.g. Scottish, Welsh, Québécois, etc. This would mean assigning two nationalities in such instances, e.g. that an Agent is both British and Welsh; Canadian and Québécois, etc. 
 
-In the same way an Agent whose life and moving image works spanned across changes of country/nationality can be given two nationalities, e.g. German and West German.
+In the same way, an Agent whose life and moving image works spanned across changes of country/nationality can be given two nationalities, e.g. German and West German.
 
 Agent records may also be related/linked to other Agent records, e.g. 
 
