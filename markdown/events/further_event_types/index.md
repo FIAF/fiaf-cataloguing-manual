@@ -2,7 +2,7 @@
 title: Further Event Types for Items
 ---
 
-The following are further Event Types relating to Item - Acquisition, Accession, Loan, Deposit and Inspection Events. Those institutions which use systems that do not have or use Events will usually capture this data in fields embedded within the Item record or linking to records in another database, e.g. a possible separate Donors database with its own acquisition records capturing names and dates; or similarly an Accessions database, etc.
+The following are further Event Types relating to Item - Acquisition, Accession, Loan, Deposit, De-Acquisition and Inspection Events. Those institutions which use systems that do not have or use Events will usually capture this data in fields embedded within the Item record or linking to records in another database, e.g. a possible separate Donors database with its own acquisition records capturing names and dates; or similarly an Accessions database, etc.
 
 <a id="sec-acquisition"></a>
 ## Acquisition
@@ -52,7 +52,7 @@ Information describing the acquisition of the Item in greater detail.
 <a id="sec-accession"></a>
 ## Accession
 
-When an institution takes formal custody of an Item and creates an authoritative administrative record for that.
+When an institution takes formal custody of an Item and creates an authoritative administrative record for that.  
 
 **Accession date**
 
@@ -82,6 +82,8 @@ Captures the agreed date from which the loan commences.
 
 Captures the end date of the loan, as defined prior to the commencement of the loan.
 
+<a id="sec-acquisition"></a>
+## De-Acquisition
 
 <a id="sec-inspection"></a>
 ## Inspection
