@@ -40,7 +40,8 @@ This date is distinct from an Accession date, which should be entered only once 
 **Acquisition source**
 The name of the person or organisation from which the Item was obtained, indicating whether the acquisition was direct from, for example, the donor or via an intermediary or agent. Select from a controlled list of terms, e.g.
 
-- Donor
+- Donor  
+- Depositor  
 - Agent
 - Intermediary
 
@@ -51,7 +52,7 @@ Information describing the acquisition of the Item in greater detail.
 <a id="sec-accession"></a>
 ## Accession 
 
-takes formal custody and creates an authoritative administrative record
+When an institution takes formal custody of an Item and creates an authoritative administrative record for that.
 **Accession date**
 
 Captures the date on which the Item formally entered the collection of the archive. Often this definition is dependent on formal documentation within the archive’s collections management system, with a unique accession reference / identifier assigned. (Dates should be formatted according to ISO 8601 or some other recognised standard.)
