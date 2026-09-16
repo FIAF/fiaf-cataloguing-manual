@@ -64,18 +64,30 @@ A change in colour, which is a physical property, expresses a different Manifest
 An alternate ending that changes the whole story line of film may also be deemed a major change warranting a new Work. This still remains as an option even where a full 4-level data hierarchy structure is used by an institution. It is for the cataloguer to assess and decide. For those who do not use the Variant in cataloguing then instances of alternate endings that substantially change the story would mean creating a new Work and linking the two versons of the film in an associative relationship. Thus, the alternate less ambiguous ending with a more positive outlook of a central character at the end of the Extended Special Edition Terminator 2 example above could be assessed as being a subtle change (and so a Variant) rather than a more stark sad v. happy ending which changes the entire storyline and feel of a moving image (and so different enough to constitute a different Work).
 
 !!! example "Example"
-    Work title: Rukoj materi (Russia, 1913. Yakov Protazanov) (Original sad ending - the daughter lying in her coffin having     been accidentally killed by her mother).    
-    Alternate ending Variant (Foreign export version, 1913.) (Happy ending - where the daughter lives).
+    Work title: Rukoj materi (Russia, 1913. Yakov Protazanov) (Original sad ending - the daughter lying in her coffin having     been accidentally killed by her mother)    
+    Alternate ending Variant (Foreign export version, 1913) (Happy ending - where the daughter lives)
 
 
 !!! example "Example"
-    Work Title : La Belle équipe (France, 1936. Julien Duvivier) (Happy ending - there is reconciliation after a jealous         confrontation between two friends).    
+    Work Title : La Belle équipe (France, 1936. Julien Duvivier) (Happy ending - there is reconciliation after a jealous         confrontation between two friends)    
     Alternative Ending Variant Title : La Belle équipe (France, 1936. Julien Duvivier) (Sad ending - the confrontation leads     to a tragedy). The sad ending version is what was released and circulated outside France.  
 
 It was common, especially in the silent film industry, to make different endings of the same film at the same time during production for different national audiences.
 
 
 **Restoration Variant**
+
+!!! example "Example"
+    Work Title: Jaws (USA, 1975. Steven Spielberg)  
+    Variant Title: Jaws (USA, 2012. Steven Spielberg)  
+    Digitally restored 4K Ultra-HD version released on Blu-ray internationally on 14th August 2012.
+
+**Different Soundtrack Variant**
+
+!!! example "Example"
+    Work Title: Derry Girls (TV series, Season 1 first broadcast in the UK on Channel 4 2018-01-04 to 2018-02-08)  
+    Variant Title: Derry Girls (TV series, Season 1 broadcast on Netflix in USA from 2018-12-21)  
+    There were sometimes different pieces of music and songs used on the soundtrack of USA and international broadcasts of       episodes of the series. This was due to music licensing and rights whereby the original songs used were licensed to          Channel 4's broadcasts in the United Kingdom and Ireland.
 
 **Sonorised Variant**
 
@@ -105,7 +117,7 @@ A Variant may have more than one type. For example, a Variant for a restoration 
 !!! example "Example"
     Work Title: Wet Paint (USA, 1946. Jack King)    
     Variant Title : Donald s'attendrit (France, c.1950)  
-    Variant characteristics:  i) French language Version, ii) format specific 9,5mm Pathé Edition, iii) short version – 3        minutes –, iv)  black and white.  
+    Variant characteristics:  i) French language Version, ii) format specific 9.5mm Pathé Edition, iii) short version – 3        minutes –, iv)  black and white.  
 
 
 [^1]: YCR, 2.1.1 Nature of modification (change in content) of expression
