@@ -13,7 +13,9 @@ On the surface these would seem to be aggregates as it could be argued they are 
 However, it is not logical under the definitions of aggregates to structure and view Television or film/video serial/series as aggregating Works.
 
 The starting point of an aggregate is the Manifestation “embodying two or more Works/Variants.” Each episode of a film/video or TV series/serial has its own unique individual release/broadcast Manifestation, not a single aggregate one.
-There was never the original intention for all the episodes (independent individual Works/Variants) to be released/broadcast in one single Manifestation. Even where a series/serial and all its episodes may be released on the same date on a streaming channel, this does not constitute an aggregate. Each episode is still separate, with its own front and end titles, and each usually has to be selected and clicked on to initiate its streaming.
+There was never the original intention for all the episodes (independent individual Works/Variants) to be released/broadcast in one single Manifestation. 
+
+Even where a series/serial and all its episodes may be released on the same date on a streaming channel, this does not constitute an aggregate. Each episode is still separate, with its own front and end titles, and each usually has to be selected and clicked on to initiate its streaming.
 
 A later subsequent DVD publication or digital file production may occur, warranting an aggregate Manifestation, but this does not happen with all series/serials.
 
