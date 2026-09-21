@@ -52,7 +52,7 @@ Information describing the acquisition of the Item in greater detail.
 <a id="sec-accession"></a>
 ## Accession
 
-When an institution takes formal custody of an Item and creates an authoritative administrative record for that.  
+When an institution takes formal custody of an Item and creates an authoritative administrative record for that; whether in a separate database where the Item and Accession records can then be linked in an associative relationship, or as fields within the Item record itself. 
 
 **Accession date**
 
