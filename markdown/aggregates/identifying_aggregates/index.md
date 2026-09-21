@@ -7,12 +7,12 @@ It is important to distinguish between actual intended compilation or multi-comp
 
 Editing and creative assembly decisions were taken to create the first example, and it constitutes a Collection Aggregate (see [Collection Aggregates](/appendices/aggregates/types_of_moving_image_aggregates/#sec-collection_aggregates)).
 The second was just incidental or convenient assembly and is not an aggregate, and so would not have an aggregate Manifestation.
-The two Chaplin films would each have their own Work, Manifestation, and Item records, but those Items would have the same location/package number.
+The two Chaplin films would each have their own Work, Manifestation, and Item records, but those Items would have the same location/can id/barcode number on the same container (aka package), i.e. the number stuck or written on the physical container in which the individual film reels, videotapes, or DVDs are stored.
 
 Any aggregate will have an element of intention, whether simple or complex.
 Assessments will need to be made, where possible, as to whether the intention was for creative/intellectual or convenient purposes, and then represented accordingly.
 
-Equally, an institution may decide not to differentiate and just follow the same structuring for multi-component compilation reels, particularly where the original intent may not always be clear or known.
+Equally, an institution may decide not to differentiate between whether something is technically an aggregate or a "carrier of convenience" and just follow the same structuring either way for any multi-component compilation reels, particularly where the original intent may often not always be clear or known.
 
 Digital Manifestations, such as DVDs, Blu Rays, and streamed moving images, that have additional selectable language options chosen by the viewer are deemed to be Aggregate Manifestations under RDA [add link to diagram within modelling aggregates]
 
