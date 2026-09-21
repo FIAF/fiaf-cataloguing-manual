@@ -85,6 +85,29 @@ Captures the end date of the loan, as defined prior to the commencement of the l
 <a id="sec-acquisition"></a>
 ## De-Acquisition
 
+The de-acquisition and removal of a particular item from an institution's collection.
+
+- De-acquisition date  
+- De-acquisition type  
+- De-acquisition reason
+- Removal/transfer date
+
+**De-acquisition date**  
+
+The date on which the Item was officially de-acquisitioned from an institution's collection
+
+**De-acquisition type**  
+
+The type of de-acquisition, e.g. removal, internal transfer to another collection within the same organisation/institution, external transfer to another archive/institution, etc.
+
+**De-acquisition reason**  
+
+This qualifies the De-acquisition type, giving the specific reason for removal, transfer, etc. For example, irreparably damaged reels, dangerously deteriorated nitrate, transferring heritage films as part of colonial restitution to their original countries, transferring to another archive to hold for preservation reasons, etc. 
+
+**Removal/transfer date**  
+
+The date on which the Item was physically removed from an institution's collection.
+
 <a id="sec-inspection"></a>
 ## Inspection
 The inspection of a particular Item for the purposes of assessing and recording the condition or treatment of the Item. This frequently ties in with a Preservation/Restoration Event [ADD LINK TO THAT]
