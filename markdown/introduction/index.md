@@ -30,3 +30,6 @@ Because moving image archives’ collections often include unique or rare holdin
 The FIAF Manual is intended to provide guidance in creating metadata or cataloguing records that fulfill these collection management functions.
 
 It is recognised that institutions use a variety of systems and data structures and may find it difficult to implement far-ranging changes in their cataloguing practices. The revisions suggested in this manual will help archives harmonise their practices with related standards, models, and schema as far as possible.
+
+[^1]: FIAF, 1991, p. ix
+[^2]: Adapted from AMIM2, p.1.

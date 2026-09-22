@@ -54,4 +54,4 @@ MARC21 tag
     245 03 An American in Paris
 
 [^1]: [http://www.ifla.org/files/assets/cataloguing/isbd/isbd-cons_20110321.pdf](http://www.ifla.org/files/assets/cataloguing/isbd/isbd-cons_20110321.pdf)
-[^2]: [http://www.fiafnet.org/~fiafnet/uk/publications/fep_cataloguingRules.html](http://www.fiafnet.org/~fiafnet/uk/publications/fep_cataloguingRules.html)
+[^2]: [FIAF Cataloguing Rules 1991l](https://www.fiafnet.org/images/tinyUpload/E-Resources/Commission-And-PIP-Resources/CDC-resources/FIAF_Cat_Rules.pdf))
