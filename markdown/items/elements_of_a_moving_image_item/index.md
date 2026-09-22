@@ -287,12 +287,12 @@ Note that in digital cinema, a film can have Variable frame rates.
 The physical material or video format on which the Item is captured, for example, describing the flexible transparent material that supports a film items’ emulsion (e.g.  acetate, nitrate, polyester) or a magnetic track, (e.g. CTA).
 Select from controlled list of terms, if possible, keep separate lists for analogue film material and analogue video.
 
-Acetate
-Diacetate
-Triacetate (aka CTA)
-Nitrate
-Polyester
-Magnetic tape
+- Acetate  
+- Diacetate  
+- Triacetate (aka CTA)
+- Nitrate  
+- Polyester  
+- Magnetic tape  
 
 <a id="sec-stock"></a>
 ### Stock
