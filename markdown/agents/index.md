@@ -50,6 +50,8 @@ It is for institutions to decide whether to use nationalities that are sub-divis
 
 In the same way, an Agent whose life and moving image works spanned across changes of country/nationality can be given two nationalities, e.g. German and West German.
 
+Institutions should also consider relevant national or international legislation relating to holding personal data in making decisions about what data to capture, e.g. General Data Protection Regulation (GDPR), Personal Data Protection Acts (PDPA), etc.
+
 Agent records may also be related/linked to other Agent records, e.g. 
 
 <center><object data="/images/Screenshot_agentrecordeg1.png" width="100%"></object></center>
