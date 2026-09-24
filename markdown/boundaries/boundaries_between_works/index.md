@@ -106,7 +106,11 @@ If much of the original textual or spoken word material remains, most of the ori
     Fanny och Alexander (Sweden, 1982/1983)  
     A 312 minute TV mini-series, which was also re-edited into a 189 minute film and theatrically released in 1982 before the TV broadcast in 5 parts + an Epilogue in 1983. The whole 312 minute production was also released theatrically in 1983.  
 
-With the Fanny och Alexander example above there is the option of having one record and utilising Work notes fields to capture information about the different versions; or a Series Work + Episodes structure and a separate Monographic Work, linked in an associative relationship; or use of Variants.   
+With the Fanny och Alexander example above there is the option of having one record and utilising Work notes fields to capture information about the different versions; or a Series Work + Episodes structure and a separate Monographic Work, linked in an associative relationship; or use of Variants.  
+
+!!! example "Example"
+    Janka (Poland/Federal Republic of Germany, 1989) (Television series in 15 episodes)  
+    Janka (Poland/Germany, 1993) (Footage from the episodes re-edited and condensed into a two part theatrically released        film)  
 
 !!! example "Example"
     The Godfather (USA, 1972), The Godfather II (USA, 1974) and The Godfather Saga (USA, 1977)  
