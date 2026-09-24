@@ -242,7 +242,7 @@ These are some of the most common terms, but not a complete or definitive list.
 For reasons of clarity and to avoid redundancy, optionally, institutions can decide to skip the general carrier type description, since it is already implicit in the specific carrier type.
 
 <a id="sec-projection_characteristics_of_a_manifestation"></a>
-## Projection Characteristics of a Manifestation{
+## Projection Characteristics of a Manifestation  
 The projection characteristics of a Manifestation include aspect ratio and aperture or image format.
 
 **Aspect Ratio/Image Ratio**
