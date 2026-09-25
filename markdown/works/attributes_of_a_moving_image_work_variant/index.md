@@ -70,7 +70,7 @@ Content issued in several independent parts; an ‘umbrella’ work title coveri
 
 Other uses for Collection:[^4]
 
-Archive-acquired collections of works not originally intended for general release or broadcast all have component parts that form the collection as a whole, usually acquired on a series of numerous film reels or videotapes, etc. each with an identifying title.
+- Archive-acquired collections of works not originally intended for general release or broadcast all have component parts that form the collection as a whole, usually acquired on a series of numerous film reels or videotapes, etc. each with an identifying title. These may have previously been put together originally by the filmmaker for personal use, e.g. family home movies, or may be collections of production materials, extracts or inserts acquired from individuals or film/television companies.
 
 !!! example "Example"
     David Lean home movies 
@@ -101,17 +101,25 @@ The individual components of this collection would also be created as individual
 !!! example "Example"
     Kenya
 
-These titles should then be linked to the collection-level description and assigned “part of” relationship.
+These titles should then be linked to the collection-level description in either a “part of” hierarchical relationship, or a related associative one.
 
-Aggregate compilation videos/DVDs that are collections of individual works existing as entities in their own right, e.g. Portrait of a miner is a DVD of various Mining review shorts which had their own individual release as complete entities or works.
+- Conceptual collection work, i.e. a group of Works conceived or curated by the filmmaker or an Archive Curator
+  
+  !!! example "Example"
+   Victorian Cinema Compilations - a curated collection of 17 compilation films relating to pre-1901 material held by the BFI
 
-- Portrait of a miner would be created as the work title, with the description level of Collection.
 
-- Each of the Mining review Works used in Portrait of a miner would then be linked to it and assigned a “contained in” relationship (see [Modelling Aggregates](/appendices/aggregates/modelling_aggregates/#sec-modelling_aggregates)).
+- Aggregate compilation videos/DVDs that are collections of individual works existing as entities in their own right, e.g. Portrait of a miner is a DVD of various Mining review shorts which had their own individual release as complete entities or works.
+
+  Portrait of a miner would be created as the work title, with the description level of Collection.
+
+  Each of the Mining review Works used in Portrait of a miner would then be linked to it and assigned a “contained in” relationship (see [Modelling Aggregates](/appendices/aggregates/modelling_aggregates/#sec-modelling_aggregates)).
 
 Provide a list of the compiled works contained in the Collections Work in its Synopsis or Summary field.
+
+- A Work Collection record can also be used as a temporary or semi-permanent in-house cataloguing tool for legacy collections and materials requiring further investigation, research or sorting, e.g. multiple disparate March of Time newsreel Item records not linked with any Manifestations or Work which need further examination and viewing to determine which newsreel issues they are from and whether they are from the British March of Time or American March of Time. These can all be brought together linked to the temporary Collection Work while being worked through.
 
 [^1]: EN 15907, 4.1.2 Attributes—description Level, p. 8; BFI CID Stylistics Manual, A.1.3 Filmographic Level, pp. 7-8
 [^2]: https://filmstandards.org/fsc/index.php/EN_15907. The terms and their definitions used in the EN 15907 Standard itself are rooted in those from UNESCO CCF/B (Common Communications Format / Bibliographic, UNESCO PGI-92/WS/9, Paris, 1992,(INSERT LINK) which related to bibliographic information.)
 [^3]: This aligns with EN 15907 definitions relating to Work types and is different and distinct from Collection Aggregates
-[^4]: BFI CID Stylistics Manual, A.1.3 Filmographic Level, p. 8
+[^4]: BFI CID Cataloguing Manual|Moving Image Catalogue (revised 2022), F.12. Filmographic Levels|Further Information, section 2.4. Collection Works
