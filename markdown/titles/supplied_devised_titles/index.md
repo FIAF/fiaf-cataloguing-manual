@@ -382,6 +382,23 @@ Use numbers to distinguish separate content when there is more than one unidenti
 
 For a more comprehensive list of form terms to use with FULLY or PARTIALLY Supplied/Devised titles, see table List of form terms for Supplied/Devised titles [ADD LINK].
 
+<a id="sec-music_videos"></a>
+## Music videos
+
+The titling of music videos follows the same principles and patterns, using the title of the song or music piece, e.g.
+
+!!! example "Example"
+    The Power of Love. Music Video
+
+although a fuller "who, what, where, when" titling is advisable for clarity. It is not uncommon for there to be different songs with the same title by different artists in the same year, so inclusion of the performing artist as well as year is more accurate and precise, e.g.
+
+!!! example "Example"
+    Oasis - Wonderwall
+    Mike Flowers Pop - Wonderwall
+
+naming the artist as part of the music video title. This was to help differentiate 
+ between commonly named songs (e.g. Charley Pride - The Power of Love, Frankie Goes to Hollywood - The Power of Love, Huey Lewis and the News - The Power of Love, Jennifer Rush - The Power of Love, all 1984/5; or Oasis - Wonderwall, Mike Flowers Pop - Wonderwall, both 1995). It also helped to distinguish between very different works (e.g. Absolute Beginners (feature film), David Bowie - Absolute Beginners (Music Video), both 1986). Title would be styled like this: Artist Name - Song Title (e.g. David Bowie - Absolute Beginners) with the song title included as an alternative title. 
+
 
 <a id="sec-fragments_segments_of_unidentified_moving_images_film_or_television_programmes)"></a>
 ## Fragments/segments of unidentified moving images (film or television programmes)
