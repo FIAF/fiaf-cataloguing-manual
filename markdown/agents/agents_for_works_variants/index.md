@@ -56,7 +56,9 @@ It is recommended to capture these core credits on a moving image record as far 
 
 Several of these tie in with important information needed for establishing rights and copyright, namely Director(s), Producer(s), Production Company(ies), Scriptwriter(s), Author (e.g. original literary author on which the Work was adapted or based), Music Composer, Performers (e.g. cast) [ADD LINK TO 16.1.1.2 Recommended properties for Moving Image Works and Variants] 
 
-Besides the principal Agent Activity suggested, institutions, particularly those with special interests, may create and apply in-house value lists of other specific Agent Types, which may vary from institution to institution. 
+Besides the principal Agent Activity suggested, institutions, particularly those with special interests, may create and apply in-house value lists of other specific Agent Types, which may vary from institution to institution.
+
+Including any Stills photography credits on the work or Variant can be potentially useful for institutions with Stills collections, particularly in establishing copyright ownership.
 
 Record in a note any additional details that cannot be expressed through controlled terms. (e.g. “appears only in final scene”, etc.). 
 If a name is known to be fictitious, or requires clarification, make a note giving the actual name. 
