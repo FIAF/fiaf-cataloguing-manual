@@ -18,7 +18,7 @@ OR
 
     Title (Item): À bout de souflee [souffle]
 
-In RDA, the title is provided as transcribed without a recognition of the misspelling, with the correct title added in a secondary set of Title and Title Type fields (see [Alternative title types](/appendices/titles/title_types/#sec-alternative_title_types)) and a Note explaining the misspelling.
+In RDA, the title is provided as transcribed without a recognition of the misspelling, with the correct title added in a secondary set of Title and Title Type fields (see [Alternative title types](/titles/title_types/#sec-alternative)) and a Note explaining the misspelling.
 
 !!! example "Example"
     Title (Work): À bout de souffle    
