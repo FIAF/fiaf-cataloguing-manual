@@ -76,9 +76,8 @@ Its usage qualifies whether the specific language is dialogue, dubbed, subtitles
 <a id="sec-language_terms"></a>
 ### Language Terms
 Where possible, record the language(s) using the full form of name, e.g., French, Italian, etc. rather than abbreviations or codes, by taking the most suitable value(s) from a controlled list.
-This can be an in-house list but it is preferable to use a standard language list such as ISO 639 ([http://www.loc.gov/standards/iso639-2/php/code_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php)).
 
-Optionally, record the language code as found in ISO 639.
+This can be an in-house list but it is preferable to use a standard language list such as ISO 639 ([http://www.loc.gov/standards/iso639-2/php/code_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php)).
 
 If no language can be determined, the information can be omitted or indicated by a value of “not known”.
 
