@@ -5,7 +5,7 @@
 
 There is no one standard for naming digital files as the nature of materials and collections in different institutions and organisations are very different - as are their systems.
 
-It is preferable to utilise the unique identification number of the actual Item record within the filename if possible, as this is less likely to change potentially, e.g. titles and other elements could change on the Item in the future, with data cleaning for instance, which would possibly mean having to rename the file itself as well.  Barcodes and location numbers can change over time as well so are similarly riskier to use. 
+It is preferable and recommended to utilise the unique identification number of the actual Item record within the filename if possible, as this is less likely to change potentially, e.g. titles and other elements could change on the Item in the future, with data cleaning for instance, which would possibly mean having to rename the file itself as well.  Barcodes and location numbers can change over time as well so are similarly riskier to use. 
 
 !!! example "Example"
     N_500227_01of01.mov
@@ -13,7 +13,7 @@ It is preferable to utilise the unique identification number of the actual Item 
 !!! example "Example"
     154428044_01of01.mp4  
 
-However, in systems that do not have an immutable or less mutable unique number, or are not electronic databases, and more identifying details may be needed within the filename for better identification and access, then other descriptive filenames can be used.
+However, in systems that do not have an immutable unique number, or are not electronic databases, and more identifying details may be needed within the filename for better identification and access, then other descriptive filenames can be used.
 
 The consistently used best practice file naming practices fundamentally seem to be the following:
 
@@ -26,7 +26,7 @@ The consistently used best practice file naming practices fundamentally seem to 
 7) Always include the 3 character file extension identifier (preceded by a full stop) to end the filename, eg. .jpg, .mp4, .mov  
 8) Do not use more than one full stop . in a filename and limit its use to preceding the three character file extension at the end of the filename. 
 
-Additional suggestions and options:  
+Additional suggestions and options, using examples from flat non-relational systems, often utilising folders and sub-folders for capturing digital file listings and links:  
 
 a) Use ISO dates, so that full date if known can be included, or partial dates or just year, e.g.   
 
