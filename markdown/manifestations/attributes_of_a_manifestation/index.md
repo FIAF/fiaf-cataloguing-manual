@@ -90,7 +90,7 @@ These Manifestation types can be more than one instance, created at the same tim
     Manifestation 1: Theatrical distribution (Italy – 1949 – censorship visa) – 35mm – Italian (dubbed) – title “L’aquila a due teste” – Italfrancofilm (distributor)
     Manifestation 2: Home Video Publication (Italy – 2009 – 25/09/2009) - DVD – French and dubbed Italian (spoken languages), Italian subtitles – Gruppo Editoriale Minerva Raro Video (publisher) – DVD edition by Gabrielle Lucantonio.
 
-If required there are also further sub-categories of Theatrical distribution which can be used.
+If required there are also further sub-categories of Theatrical distribution which can be used, e.g. Theatrical distribution (country of origin), Theatrical distribution (outside country of origin), Theatrical distribution (country unknown), etc.
 
 <a id="sec-non_theatrical_distribution"></a>
 ### Non-theatrical distribution
