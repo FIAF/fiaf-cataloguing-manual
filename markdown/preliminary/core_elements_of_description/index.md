@@ -3,10 +3,45 @@
 <a id="sec-core_elements_of_description"></a>
 
 
-
+<style>
+  .custom-table, .custom-table th, .custom-table td {
+    border: 1px solid #cccccc !important;
+    border-collapse: collapse;
+    padding: 8px;
+    text-align: left;
+  }
+</style>
 
 These core points of description are listed with their corresponding terms as presented in the manual.
 They represent an ideal minimum set of metadata for moving image cataloguing.
+
+
+
+
+<table class="custom-table" markdown="1">
+
+  <tr>
+    <td><b>CORE CONCEPT</b></td>
+    <td><b>TOP-LEVEL ELEMENT</b></td>
+    <td><b>SUB-ELEMENT</b></td>
+
+  </tr>
+
+
+  <tr><td> Title </td><td> Title [Work] </td><td> -- </td></tr>
+  <tr><td> Series / Serial [^2] </td><td> Title [Work] </td><td> Title Type = Series/Serial [Work] </td></tr>
+  <tr><td> Cast </td><td> Agents (e.g. Cast, Credits, Person, Organisation, etc.) [Work] </td><td> Agent Activity = Cast [Work] </td></tr>
+  <tr><td> Credits (including Production Companies) </td><td> Agents [Work] </td><td> Agent Activity = Credit (use term for actual role)  [Work] </td></tr>
+  <tr><td> Country of Reference </td><td> Country of reference [Work] </td><td>  </td></tr>
+  <tr><td> *Original Format </td><td> Format of a moving image Manifestation [Manifestation] </td><td> Specific Carrier Type: [Manifestation] </td></tr>
+  <tr><td> *Original Length </td><td> Extent of a Manifestation [Manifestation] </td><td> Physical extent of a Manifestation </td></tr>
+  <tr><td> *Original Duration </td><td> Extent of a Manifestation [Manifestation] </td><td> Duration of a Manifestation </td></tr>
+  <tr><td> *Original Language </td><td> Language(s) [Work] </td><td> Language Term + Usage type [Work] </td></tr>
+  <tr><td> Year of Reference </td><td> Year/Date of reference [Work] </td><td> Date Type [Work] </td></tr>
+  <tr><td> Identifier </td><td> As appropriate: Work/Variant Identifier [Work/Variant] AND/OR Identifier [Manifestation] AND/OR Identifier [Item] </td><td> As appropriate: Identifier Type [Work/Variant] AND/OR Identifier Type [Manifestation] AND/OR Identifier Type [Item] </td></tr>
+  <tr><td markdown="block"> Subject/Genre/Form [^3] </td><td> Subject/Genre/Form terms [Work] </td><td>  </td></tr>
+  <tr><td> Content Description </td><td> Content description (synopses, shotlists, etc) </td><td>  </td></tr>
+</table>
 
 | **CORE CONCEPT** | **TOP-LEVEL ELEMENT** | **SUB-ELEMENT** |
 | --- | --- | --- |
@@ -56,14 +91,7 @@ See [Examples of records containing core elements in the different levels of hie
 <center><object data="/diagrams/figure_04.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 
-<style>
-  .custom-table, .custom-table th, .custom-table td {
-    border: 1px solid #cccccc !important;
-    border-collapse: collapse;
-    padding: 8px;
-    text-align: left;
-  }
-</style>
+
 
 <table class="custom-table">
   <tr>
