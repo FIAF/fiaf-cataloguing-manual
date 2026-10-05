@@ -1,11 +1,11 @@
-*[AACR2]: Anglo-American Cataloguing Rules, 2nd edition
+*[AACR2]: Anglo-American Cataloguing Rules, 2nd edition  
 *[AMIM]: Archival Moving Image Materials 
 *[BFI]: British Film Institute 
 *[CAPC]: Cataloging Policy Committee  
 *[CDC]: Cataloguing and Documentation Commission 
 *[DCP]: Digital Cinema Package 
 *[DOI]: Digital Object Identifier  
-*[DPX]: Digital Picture Exchange
+*[DPX]: Digital Picture Exchange  
 *[CEN]: European Committee for Standardization  
 *[EBUcore]: European Broadcasting Union Core Metadata Schema  
 *[EBUCore]: European Broadcasting Union Core Metadata Schema 
@@ -18,16 +18,16 @@
 *[IFLA]: International Federation of Library Associations 
 *[ISAAR]: International Standard Archival Authority Record  
 *[ISAN]: International Standard Audiovisual Number 
-*[ISBD]: International Standard Bibliographic Description
+*[ISBD]: International Standard Bibliographic Description  
 *[ISBN]: International Standard Book Number  
 *[ISNI]: International Standard Name Identifier 
-*[ISSN]: International Standard Serial Number  
+*[ISSN]: International Standard Serial Number    
 *[JPEG2000]: Joint Photographic Experts Group 2000 image compression standard 
 *[LCGFT]: Library of Congress Genre-Form Thesaurus  
 *[LCSH]: Library of Congress Subject Headings 
 *[OLAC]: Online Audiovisual Catalogers  
 *[MPEG]: Moving Picture Experts Group  
-*[MXF]: Material Exchange Format
+*[MXF]: Material Exchange Format  
 *[PBCore]: Public Broadcasting Core Metadata Dictionary 
 *[PID]: Persistent Identifier 
 *[RDA]: Resource Description and Access  
