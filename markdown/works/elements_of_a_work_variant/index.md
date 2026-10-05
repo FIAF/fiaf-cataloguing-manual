@@ -335,8 +335,6 @@ Institutions using cataloguing structures that do not distinguish Variant level 
 Indicate the language(s) (e.g., Italian) and usage(s) (e.g., Italian intertitles) in which the moving image Variant/Manifestation is written, spoken or sung, if applicable.
 More than one language can occur in different forms, depending on how the content is expressed (e.g., French dialogue and English subtitles).
 
-Language and usag
-
 <a id="sec-language_term"></a>
 ### Language Term
 Record the language(s) by taking the most suitable value(s) from a controlled list of languages.
