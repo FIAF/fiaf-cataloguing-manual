@@ -55,23 +55,40 @@ See [Examples of records containing core elements in the different levels of hie
 <center><object data="/diagrams/figure_03.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 <center><object data="/diagrams/figure_04.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
-*Work/Manifestation/Item.
-Properties expressed in one record, with abstracts, contextual and object data stored in a single level hierarchy Distribution of the elements of description according to the four entities order.*
 
-| **Properties** | **(Work)** | **(Manifestation)** | **(Item)** |
-| --- | --- | --- | --- |
-| Titles | Uniform, Preferred, Other Title information, Alternative, Supplied/Devised | Title proper | Title proper |
-| Part | Monographic, Analytic, Serial, Collection |  |  |
-| Content | Categories: fiction/non fiction; genre, synopsis, subject, etc. |  |  |
-| Dates/Events | Creation, Production, Censorship, Copyright | Release, manufacture, transmission, distribution, etc. | Object creation, acquisition, accession, de-accession, loan, transport, etc. |
-| Agents | Cast, credits, rights holders, creator, etc. | Distributor, broadcaster, publisher | Donor, Archive/archivist, technician, restorer, etc. |
-| Rights context | Copyright holder and date | Platforms, territories, dates. Agents (distributors, license holder) | Transfer of ownership |
-| Event types | Awards Censorship Production IPR registration | Pre-release, theatrical, non-theatrical, transmission, home viewing, internet, not for release, censorship etc. | Acquisition Reproductions Disposal |
-| Format general |  | 35mm film, digital cinema, blu ray, etc. |  |
-| Format specific |  |  | 16mm film pos, 35mm lavender separation, ProRes422 HQ, etc. |
-| Condition report |  |  | Pristine, not for projection, heavy scratches, etc. |
-| Storage location |  |  | Home location, current location, previous location |
-| Conservation recommendations |  |  | Urgent transfer required, relocate sub-zero, etc. |
+<style>
+  .custom-table, .custom-table th, .custom-table td {
+    border: 1px solid #cccccc !important;
+    border-collapse: collapse;
+    padding: 8px;
+    text-align: left;
+  }
+</style>
+
+<table class="custom-table">
+  <tr>
+    <th colspan="4"><b>Work/Manifestation/Item.
+    Properties expressed in one record, with abstracts, contextual and object data stored in a single level hierarchy Distribution of the elements of description according to the four entities order.<b></th>
+  </tr>
+  <tr>
+    <td><b>Properties</b></td>
+    <td><b>(Work)</b></td>
+    <td><b>(Manifestation)</b></td>
+    <td><b>(Item)</b></td>
+  </tr>
+  <tr><td> Titles </td><td> Uniform, Preferred, Other Title information, Alternative, Supplied/Devised </td><td> Title proper </td><td> Title proper </td></tr>
+  <tr><td> Part </td><td> Monographic, Analytic, Serial, Collection </td><td>  </td><td>  </td></tr>
+  <tr><td> Content </td><td> Categories: fiction/non fiction; genre, synopsis, subject, etc. </td><td>  </td><td>  </td></tr>
+  <tr><td> Dates/Events </td><td> Creation, Production, Censorship, Copyright </td><td> Release, manufacture, transmission, distribution, etc. </td><td> Object creation, acquisition, accession, de-accession, loan, transport, etc. </td></tr>
+  <tr><td> Agents </td><td> Cast, credits, rights holders, creator, etc. </td><td> Distributor, broadcaster, publisher </td><td> Donor, Archive/archivist, technician, restorer, etc. </td></tr>
+  <tr><td> Rights context </td><td> Copyright holder and date </td><td> Platforms, territories, dates. Agents (distributors, license holder) </td><td> Transfer of ownership </td></tr>
+  <tr><td> Event types </td><td> Awards Censorship Production IPR registration </td><td> Pre-release, theatrical, non-theatrical, transmission, home viewing, internet, not for release, censorship etc. </td><td> Acquisition Reproductions Disposal </td></tr>
+  <tr><td> Format general </td><td>  </td><td> 35mm film, digital cinema, blu ray, etc. </td><td>  </td>
+  <tr><td> Format specific </td><td>  </td><td>  </td><td> 16mm film pos, 35mm lavender separation, ProRes422 HQ, etc. </td></tr>
+  <tr><td> Condition report </td><td>  </td><td>  </td><td> Pristine, not for projection, heavy scratches, etc. </td></tr>
+  <tr><td> Storage location </td><td>  </td><td>  </td><td> Home location, current location, previous location </td></tr>
+  <tr><td> Conservation recommendations </td><td>  </td><td>  </td><td> Urgent transfer required, relocate sub-zero, etc. </td></tr>
+</table>
 
 [^1]: Adapted from CEN TC 372 EN 15744 element set
 [^2]: EN15744 definitions “A series is a group of separate items related to one another by the fact that each item bears, in addition to its own title, a collective title applying to the group as a whole. A serial is a type of “short subject” work which is characterized principally by the episodic development of a story”. This Core Concept is referencing the name of another Work that a Work may be “part of”, where the latter has been conceived within the context/intention of being an element of a Series or Serial. It is not being used here as a Work/Variant Description Type. (See D.1 Work/Variant Description Types)
