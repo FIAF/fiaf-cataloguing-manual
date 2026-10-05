@@ -3,16 +3,17 @@ title: Event Types
 ---
 | **Work** | **Variant** | **Manifestation** | **Item** |
 | --- | --- | --- | --- |
-|  |  | [Manifestation Publication Types](/events/publication/#sec-publication) |  |
-| [Award(s) or Nomination(s)](/events/publication/#sec-awards_or_nominations) | [Award(s) or Nomination(s)](/events/publication/#sec-awards_or_nominations) | [Award(s) or Nomination(s)](/events/publication/#sec-awards_or_nominations) |  |
-| [Production](/events/publication/#sec-production) | [Production](/events/publication/#sec-production) |  |  |
-| [Rights/Copyright/IPR Registration](/events/publication/#sec-values_rights_copyright_ipr_registration) | [Rights/Copyright/IPR Registration](/events/publication/#sec-values_rights_copyright_ipr_registration) | Licensing | Licensing |
-|  | [Preservation](/manifestations/attributes_of_a_manifestation/#sec-preservation) | [Preservation](/manifestations/attributes_of_a_manifestation/#sec-preservation) | [Preservation](/manifestations/attributes_of_a_manifestation/#sec-preservation) |
-|  | [Decision](/events/publication/#sec-decision) | [Decision](/events/publication/#sec-decision) |  |
-|  |  | [Manufacture](/events/publication/#sec-manufacture) |  |
-|  |  |  | [Inspection](/events/accessioning_and_source/#sec-inspection) |
-|  |  |  | [Acquisition](/events/events_manifestations-2/#sec-acquisition) | 
+|  |  | [Manifestation Publication Types](#sec-publication) |  |
+| [Award(s) or Nomination(s)](#sec-awards_or_nominations) | [Award(s) or Nomination(s)](#sec-awards_or_nominations) | [Award(s) or Nomination(s)](#sec-awards_or_nominations) |  |
+| [Production](#sec-production) | [Production](#sec-production) |  |  |
+| [Rights/Copyright/IPR Registration](#sec-values_rights_copyright_ipr_registration) | [Rights/Copyright/IPR Registration](#sec-values_rights_copyright_ipr_registration) | Licensing | Licensing |
+|  | [Preservation](#sec-preservation_restoration) | [Preservation](#sec-preservation_restoration) | [Preservation](#sec-preservation_restoration) |
+|  | [Decision](#sec-decision) | [Decision](#sec-decision) |  |
+|  |  | [Manufacture](#sec-manufacture) |  |
+|  |  |  | [Inspection](../../events/further_event_types/index.md#sec-inspection) |
+|  |  |  | [Acquisition](../../events/further_event_types/index.md#sec-acquisition) | 
 
+<a id="sec-event_type"></a>
 
 Record one or more Event types to express the nature of the Event’s relationship to the Work, Variant, Manifestation, or Item. The table above demonstrates what Event Type is applicable with each of those.
 Publication Types are not pertinent to Works or Variants in systems using a 4 or 3-level hierarchy as these both have Manifestations and it is the latter that are published.
@@ -24,7 +25,7 @@ Record one or more Event type, for example, “decision,” “manufacture,” e
 
 For Manifestations, a Publication Event corresponds to a screening, broadcast, streaming, or the release of the Manifestation of a Work/Variant on a physical distribution medium or online.
 
-A Publication Event may be associated with instances of Agent in the role of e.g., publisher, distributor, broadcaster[^1], etc. See [Distributor (theatrical)](/agents/agents_for_manifestations/#sec-distributor_theatrical) and [sec:work_variant_agent_types](#sec-work_variant_agent_types).
+A Publication Event may be associated with instances of Agent in the role of e.g., publisher, distributor, broadcaster[^1], etc. See [Distributor (theatrical)](../../agents/agents_for_manifestations/index.md#sec-distributor_theatrical) and [sec:work_variant_agent_types](../../agents/agents_for_works_variants/index.md).
 
 A Publication Event may be associated with instances of “Other” relationship(s) (e.g., promotional material of the theatrical distribution, the advertising of the home video publication, etc.).
 
@@ -75,7 +76,7 @@ If known and considered of relevance, record the specific restrictions for acces
 
 The bestowal of an award relating to the Work/Variant or Manifestation. This excludes awards for Agents alone (e.g. "for lifetime achievement"), but includes awards for individual achievements within the context of a Work or Variant (e.g. "Best screenplay"). Awards will usually be associated at the level of the Work, except for cases where features of a particular Variant are explicitly mentioned (e.g. "Best audio commentary for the visually impaired") or the award relates to a particular Manifestation (such as a DVD edition).
 
-An Award(s) or Nomination(s) Event may be associated with instances of Agent in the role of e.g. publisher, distributor, broadcaster , etc. See [Distributor (theatrical)](/agents/agents_for_manifestations/#sec-distributor_theatrical) and [sec:work_variant_agent_types](#sec-work_variant_agent_types). If the award was given for the achievement of a specific Agent within the context of the Work/Variant or Manifestation, identify the Agent. Also used to identify Agents that have sponsored the award.
+An Award(s) or Nomination(s) Event may be associated with instances of Agent in the role of e.g. publisher, distributor, broadcaster , etc. See [Distributor (theatrical)](../../agents/agents_for_manifestations/index.md#sec-distributor_theatrical) and [sec:work_variant_agent_types](../../agents/agents_for_works_variants/index.md). If the award was given for the achievement of a specific Agent within the context of the Work/Variant or Manifestation, identify the Agent. Also used to identify Agents that have sponsored the award.
 
 An Award(s) or Nomination(s) Event may be associated with instances of other Events during which award winners were selected (e.g. film festival).
 
@@ -111,7 +112,7 @@ A distinct event in the course of production of a Work or Variant, including the
 
 May include year/date of shooting of non-professional, actuality or unedited footage.
 
-A Production Event may be associated with instances of Agent in the role of e.g. production company, location scout, etc. Selection should be made from a controlled list of values. See [sec:work_variant_agent_types](#sec-work_variant_agent_types).
+A Production Event may be associated with instances of Agent in the role of e.g. production company, location scout, etc. Selection should be made from a controlled list of values. See [sec:work_variant_agent_types](../../agents/agents_for_works_variants/index.md).
 
 Record all the existing relationships of a Production/Publication Event, if the information is known and considered of relevance.
 
@@ -150,7 +151,7 @@ Any further information about the event either in plain textual form, or as an i
 
 <a id="sec-values_rights_copyright_ipr_registration"></a>
 ## Rights/Copyright/IPR Registration[^3]
-These are optional, and it is for an institution to choose whether it has the resources or requirement to compile rights data. Further more detailed information on the subject of rights/copyright/IPR registration can be found in [Rights/Copyright/IPR Registration](/sec-ipr_copyright).
+These are optional, and it is for an institution to choose whether it has the resources or requirement to compile rights data. Further more detailed information on the subject of rights/copyright/IPR registration can be found in [Rights/Copyright/IPR Registration](../../rights/index.md#sec-ipr_copyright).
 
 <a id="sec-preservation_restoration"></a>
 ## Preservation/Restoration
@@ -158,7 +159,7 @@ A Preservation/Restoration Event is associated with a new Variant, Manifestation
 
 This includes statements about past or future treatments scheduled for the item.  If desired and if applicable, record one or more general types of past or future treatment activities (e.g. "added leaders", "cleaned ultrasonically", "tears repair", etc.). Selection should be made from a controlled list of values. [CHECK - DO WE HAVE A LIST FOR THAT?]
 
-A Preservation/Restoration Event has as typical Agent(s) the institution(s) or individual professionals that make preservation decisions. Selection should be made from a controlled list of values. See [sec:work_variant_agent_types](#sec-work_variant_agent_types).
+A Preservation/Restoration Event has as typical Agent(s) the institution(s) or individual professionals that make preservation decisions. Selection should be made from a controlled list of values. See [sec:work_variant_agent_types](../../agents/agents_for_works_variants/index.md).
 
 A Preservation/Restoration Event can be in relationship with instances of “Other” relationships (such as technical reports, documentation material, promotional material for the specific project, etc.).
 
@@ -298,4 +299,3 @@ If known and considered of relevance, record the name of the city or smaller geo
 
 
 [^1]: Some institutions specifically dealing with TV material may wish to use an actual “TV Transmission Manifestation” for this data.
-

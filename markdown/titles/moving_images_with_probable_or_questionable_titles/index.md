@@ -7,7 +7,7 @@ There are instances where the title from a Manifestation/Item may not be inherit
 Such is the case when a Manifestation/Item contains a probable or questionable title.
 
 If the Manifestation/item contains a probable or questionable title, this title may be included as a component in constructing the supplied/devised title, or it may be used alone as the supplied/devised title for the Work.
-(See [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](/appendices/titles/title_types/#sec-supplied_devised_titles)).
+(See [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](../../titles/supplied_devised_titles/index.md#sec-supplied_devised_titles)).
 The probability or questionable nature of the title, and its source, should be made clear in a note.
 
 For example, an Item may have a probable or questionable title but the title is not the preferred title for the Work and the preferred title for the Work cannot be discovered.
@@ -56,9 +56,7 @@ For purposes of discoverability, accessibility, and standardisation, it is recom
 The Work can take the title of the Item, Manifestation or Variant, until such time as further research or identification assists in establishing the preferred title for the Work.
 The crucial factor is coupling the title with a descriptive identifier denoting that it is “supplied” or “devised,” whether within the title itself or via a juxtaposed field such as “Title Type.” If there is no Title Type field than a Notes or other field could be utilised.
 
-Examples of partially and fully supplied titles for a variety of scenarios can be found in the “form terms” list provided in [List of form terms for Supplied/Devised titles](/appendices/value-lists/list_of_form_terms_for_supplied_devised_titles/#sec-list_of_form_terms_for_supplied_devised_titles).
+Examples of partially and fully supplied titles for a variety of scenarios can be found in the “form terms” list provided in [List of form terms for Supplied/Devised titles](../../appendices/value-lists/list_of_form_terms_for_supplied_devised_titles/index.md#sec-list_of_form_terms_for_supplied_devised_titles).
 
-[^1]: Based on AMIM2, 1F2.1.
 [^2]: Many archives place information found on the Manfestation/Item in quotes to indicate the data is transcribed from the physical item itself or the audiovisual content of the entity. This practice is not recommended unless required by local cataloguing rules or local system requirements.
 [^3]: This example has since been identified as the film Grandpa’s Girl (United States of America, 1924 – Gil Pratt)
-

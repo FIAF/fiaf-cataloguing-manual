@@ -43,11 +43,11 @@ The same applies to Variants of silent films with intertitles and/or credits in 
     Intertitle Variant Title: Nosferatu (1947 version, English intertitles)  
     Intertitle Variant Title: Nosferatu, una sinfonía de horror (1931 version, Spanish intertitles)   
 
-If your institution is applying the use of “Type” qualifiers, use “Title Type” to state the function of a particular title (see [Title Type](/works/elements_of_a_work_variant/#sec-work_title_type) and [Titles and Title Types](/appendices/titles/)).
+If your institution is applying the use of “Type” qualifiers, use “Title Type” to state the function of a particular title (see [Title Type](../../works/elements_of_a_work_variant/index.md#sec-work_title_type) and [Titles and Title Types](../../titles/titles/index.md)).
 
 Ideally, the record should at a minimum contain the “preferred title” (also referred to as “main” or “original” title) of the Variant.
-It may differ from the title found on a particular manifestation of the Work; the actual title on the Manifestation is noted in the Manifestation Title element (see [Title](/manifestations/elements_of_a_manifestation/#sec-manifest_title)).
-See [Title Types](/appendices/titles/title_types/#sec-title_types) for additional information.
+It may differ from the title found on a particular manifestation of the Work; the actual title on the Manifestation is noted in the Manifestation Title element (see [Title](../../manifestations/elements_of_a_manifestation/index.md#sec-manifest_title)).
+See [Title Types](../../titles/title_types/index.md#sec-title_types) for additional information.
 
 This may be via use of a “Title type” qualifier.
 
@@ -75,7 +75,7 @@ This may be via use of a “Title type” qualifier.
 
     The Scarlet Flower – Variant title – Dubbed (English)
 
-See [Titles and structuring of series/serials](/appendices/titles/title_types/#sec-titles_of_series_serials) [NEEDS RELINKING AS THIS CHAPTER HAS MOVED AND IS NO LONGER IN APPENDICES - ALSO ADD SECTION NUMBER] for some other Variant titling examples.
+See [Titles and structuring of series/serials](../../titles/series_serials/index.md#sec-titles_of_series_serials) [NEEDS RELINKING AS THIS CHAPTER HAS MOVED AND IS NO LONGER IN APPENDICES - ALSO ADD SECTION NUMBER] for some other Variant titling examples.
 
 <a id="sec-country_of_reference"></a>
 ## Country of Reference
@@ -109,10 +109,10 @@ Where full dates are not known use Year-Month YYYY-MM or just Year YYYY, as syst
 
 <a id="sec-date_type"></a>
 ### Date Type
-The year or date should be associated with an event in the life cycle of the Variant (see [Events (e.g., IPR registration, screenings, awards, etc.)](/works/relationships_of_a_work_variant/#sec-work_events)).
+The year or date should be associated with an event in the life cycle of the Variant (see [Events (e.g., IPR registration, screenings, awards, etc.)](../../works/relationships_of_a_work_variant/index.md#sec-work_events)).
 If your system supports it, apply a “Date Type” qualifier to make the date or year purpose clear.
 Date Type terms should be derived from a controlled vocabulary.
-For a list of initial terms, see [Event Type](/events/event_type/#sec-event_type).
+For a list of initial terms, see [Event Type](../../events/event_types/index.md#sec-event_type).
 
 For Variants, the date is typically related to events such as its creation, availability (i.e. publication, release, distribution, broadcast or transmission) or registration (e.g. for copyright or intellectual property purposes), or bestowal of an award.
 
@@ -196,7 +196,7 @@ Changes to the original language(s), as in the case of dubbing, are considered m
 
 Alternatively, such minor changes can constitute a new Manifestation of a moving image Work rather than a Variant.
 Institutions using cataloguing structures that do not distinguish Variant level information (for example, those that create records primarily at the Manifestation level), should apply this alternative.
-(See guidelines for language in a Manifestation: [Language](/manifestations/elements_of_a_manifestation/#sec-manifest_language))
+(See guidelines for language in a Manifestation: [Language](../../manifestations/elements_of_a_manifestation/index.md#sec-manifest_language))
 
 Indicate the language(s) (e.g., Italian) and usage(s) (e.g., Italian intertitles) in which the moving image Variant/Manifestation is written, spoken or sung, if applicable.
 More than one language can occur in different forms, depending on how the content is expressed (e.g., French dialogue and English subtitles).
@@ -213,9 +213,9 @@ If no language can be determined, the information can be omitted or indicated by
 
 <a id="sec-work_usage_type"></a>
 ### Usage Type
-Record the usage type of a language (e.g. spoken, intertitles, subtitles, etc.) by taking the most suitable term from a controlled list elaborated in-house or referring to an existing authoritative list. See [Language Usage Types](/works/elements_of_a_work_variant/#sec-languages). [ADD LINK TO SAME LANGUAGE USAGE SECTION WITH LIST IN WORKS]
+Record the usage type of a language (e.g. spoken, intertitles, subtitles, etc.) by taking the most suitable term from a controlled list elaborated in-house or referring to an existing authoritative list. See [Language Usage Types](../../works/elements_of_a_work_variant/index.md#sec-languages). [ADD LINK TO SAME LANGUAGE USAGE SECTION WITH LIST IN WORKS]
 
-Optionally, record language usage type at the Manifestation/Item level (see [Language](/manifestations/elements_of_a_manifestation/#sec-manifest_language)).
+Optionally, record language usage type at the Manifestation/Item level (see [Language](../../manifestations/elements_of_a_manifestation/index.md#sec-manifest_language)).
 A value of “original” can be added to the Language element here to indicate that statements made about the language(s) for a particular Manifestation/Item are indicative of the language(s) of the “original” Work. [^10]
 
 <a id="sec-content_description"></a>
@@ -237,7 +237,7 @@ Include a qualifying keyword or otherwise denote the type of summary (e.g. Synop
 
 <a id="sec-notes"></a>
 ## Notes
-Notes for moving image Variants are annotations providing additional information or clarification relating specifically to Variants attributes and relationships.[^14] See [Cataloguer’s Notes](/appendices/cataloguers-notes/).
+Notes for moving image Variants are annotations providing additional information or clarification relating specifically to Variants attributes and relationships.[^14] See [Cataloguer’s Notes](../../appendices/cataloguers-notes/index.md).
 
 <a id="sec-history"></a>
 ## History
@@ -304,19 +304,11 @@ Any other relevant information or clarifications pertaining to the Variant.
 
 
 [^1]: Adapted from YCR, 1.2.16 Summary of genre, form, and subject matter of work, p. 38.
-[^2]: EN 15907, 6.5 Country of Reference, p. 19
 [^3]: The certification of “Italian nationality” is provided by the law/decree 2004, n. 28, part. 5 (but already provided in the former law 1213/1965). 
 According to the 2004 law, the biggest part of the cast and crew, the locations, and the technical facilities have to be Italian, and 30% of the budget has to be spent in Italy. There is a number of exceptions for artistic reasons and in case of co-productions.
-[^4]: The first of these was the formula followed by the British Film Institute. BFI CID Stylistics Manual – 2nd Edition. A.8.1., which subsequently changed to using a country of reference ordering based more on the on-screen ordering of production companies. CID Cataloguing Manual|Moving Image Catalogue (revised 2022). F.4 and F.4.1.
-[^5]: http://www.iso.org/iso/home/standards/country_codes.htm
-[^6]: ISO 3166-3 Codes for the representation of names of countries and their subdivisions -- Part 3: Code for formerly used names of countries, is available for purchase as a PDF on the ISO website: [http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=2130](http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=2130)
 [^7]: EN 15907, 6.6 Year of Reference, p. 20
-[^8]: Irish Film Archive, p. 13.
 [^9]: FIAF, 3.5.4, p. 64
 [^10]: The indication of “original” values at the Manifestation level follows EN 15907 attributes of a Manifestation, pp. 10-11
-[^11]: FIAF 7.2.12. Summary
-[^12]: Irish Film Archive, p. 23.
 [^13]: EN 15907, 6.17.3 Elements, Description type, p. 30.
 [^14]: Based on RDA 2.20.1.Basic Instructions on Making Notes on Manifestations or Items
 [^15]: EN 15907, 6.13 Decision event, pp. 26-27.
-

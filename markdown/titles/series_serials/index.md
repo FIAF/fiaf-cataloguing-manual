@@ -2,6 +2,8 @@
 title: Titles and structuring of series/serials
 ---
 
+<a id="sec-titles_of_series_serials"></a>
+
 
 The guidelines and principles laid out in this section can be applicable across all the categories of Works, Variants, Manifestations and Items (WVMI).
 
@@ -398,7 +400,7 @@ In some instances, this concept could even lead to a Great Grandparent-Grandpare
 ## Analytics/components of unidentified newsreels/ cinemagazines
 Where only an analytic/component of a copy pertaining to a whole Work has been acquired as an Item, and the Serial Work to which it belongs is unable to be identified (i.e., the Item acquired is clearly a section of newsreel but the newsreel series has not been identified), then the title assigned to that Item should also be used to create the title for the Manifestation and Work records, which will then be related to each other hierarchically.
 
-The Item title is assigned in accordance with [Title](/items/elements_of_a_moving_image_item/#sec-item_title) and [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](/appendices/titles/title_types/#sec-supplied_devised_titles).
+The Item title is assigned in accordance with [Title](../../items/elements_of_a_moving_image_item/index.md#sec-item_title) and [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](../../titles/supplied_devised_titles/index.md#sec-supplied_devised_titles).
 
 The following paragraphs relate to Archive systems that are using the CEN structure:
 
@@ -482,9 +484,7 @@ If cataloguing this series it should be created as a separate series and episode
 
 
 [^39]: Serial = something which is a continuing story, for which it is necessary to have seen previous episodes to follow the story line, e.g. Pride and Prejudice, Heimat, Brideshead Revisited. Series = something which contains programmes or episodes which are complete in themselves (although they may have characters in common) for which it is not essential to have seen previous episodes in order to understand the story line/content, e.g. Cadfael. Midsomer Murders, World in Action.. BFI SIFT Inputting Manual.
-[^40]: See Appendix [Work/Variant Description Types](/works/attributes_of_a_moving_image_work_variant/#sec-work_variant_description_type) for EN 15907/BFI definitions of Serial as Description Type.
+[^40]: See Appendix [Work/Variant Description Types](../../works/attributes_of_a_moving_image_work_variant/index.md#sec-work_variant_description_type) for EN 15907/BFI definitions of Serial as Description Type.
 [^41]: The 1991 FIAF rules stipulated that such titles should have a comma separator between the part element and individual title components of the Title, e.g., Flash Gordon’s trip to Mars, Chapter 12, Ming the Merciless. However, the trend seems to be to distinguish the different elements of such component types of titles with a full stop separator, e.g., Flash Gordon’s trip to Mars. Chapter 12. Ming the Merciless.
 [^42]: BFI definitions: Newsreels = Films dating from 1910 to 1979, which report on local and international events and which were regularly screened at cinemas, e.g. Pathé News 1910-1970; Warwick Bioscope Chronicle 1910-1915; Topical Budget 1911-1931; Newsreel Flying Machine Compilation 1910. Cinemagazines = Short magazine film including more than two interest items, e.g. Aussie Oddities (1948), This Week in Britain (1950-1980)
-[^43]: See [Value Lists](/appendices/value-lists/) for CEN categories and definitions used by BFI
-[^44]: See [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](/appendices/titles/title_types/#sec-supplied_devised_titles) and examples of titling
-
+[^43]: See [Value Lists](../../appendices/value-lists/index.md) for CEN categories and definitions used by BFI

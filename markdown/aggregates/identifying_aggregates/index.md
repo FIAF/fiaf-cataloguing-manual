@@ -5,7 +5,7 @@ title: Identifying Aggregates
 ## Aggregate or Carrier (i.e. convenient storage on a single reel, tape, or file)  
 It is important to distinguish between actual intended compilation or multi-component moving images, e.g. Victorian cinema no. 8 (containing various short films from the 1890s edited together onto a new reel for a particular theatrical showing or publication), and an unintentional compilation, reflecting simple use of a single carrier (aka an individual reel, tape, or file), i.e. two short Charlie Chaplin films that happen to be acquired on one reel or transferred onto one tape for storage convenience.
 
-Editing and creative assembly decisions were taken to create the first example, and it constitutes a Collection Aggregate (see [Collection Aggregates](/appendices/aggregates/types_of_moving_image_aggregates/#sec-collection_aggregates)).
+Editing and creative assembly decisions were taken to create the first example, and it constitutes a Collection Aggregate (see [Collection Aggregates](../../aggregates/types_of_moving_image_aggregates/index.md#sec-collection_aggregates)).
 The second was just incidental or convenient assembly and is not an aggregate, and so would not have an aggregate Manifestation.
 The two Chaplin films would each have their own Work, Manifestation, and Item records, but those Items would have the same location/can id/barcode number on the same container (aka package), i.e. the number stuck or written on the physical container in which the individual film reels, videotapes, or DVDs are stored.
 
@@ -21,7 +21,7 @@ Digital Manifestations, such as DVDs, Blu Rays, and streamed moving images, that
 Multi-component Works are ones conceived and created from their inception to consist of multiple individual components that make up a whole, for example anthologies, portmanteau films and television programmes (e.g., Dead of night, Quartet, From beyond the grave).
 
 These should be treated as straightforward Monographic Works.
-(See [Moving Image Works](/other-relationships/#sec-moving_image_works)).
+(See [Moving Image Works](../../other-relationships/index.md#sec-moving_image_works)).
 
 The different sections making up the whole were not independently created Works/Variants with an existence in their own right outside the film.
 It was one film intentionally structured as a series of different stories, sometimes linked together by scenes and characters, into one continual whole.
@@ -97,7 +97,7 @@ Special Stills Photographer: Snowdon Un ballo in maschera, John Swannell La verg
 Supervising Co-ordinating Editor: Marie-Thérèse Boiché
 
 Each component title should not usually be created as a new Work, as this is not how the content was conceived (i.e., it was designed to be packaged and viewed together and is not separable) and none of them would then have any Manifestation record as an individual Work.
-Those institutions that have the ability or desire to separate them out to tie separate descriptions (e.g., credits) to each component part (i.e. representing the parent-child relationship), may represent them as Analytic Works (see [Work/Variant Description Types](/works/attributes_of_a_moving_image_work_variant/#sec-work_variant_description_type)).
+Those institutions that have the ability or desire to separate them out to tie separate descriptions (e.g., credits) to each component part (i.e. representing the parent-child relationship), may represent them as Analytic Works (see [Work/Variant Description Types](../../works/attributes_of_a_moving_image_work_variant/index.md#sec-work_variant_description_type)).
 
 Should an institution acquire some or all of the components on different physical Items, then these should be linked to the Manifestation for the whole.
 In such cases it is simply a matter of a partial/incomplete acquisition, in the same way that only 2 reels of a 3 reel feature film might be acquired.
@@ -128,4 +128,3 @@ Later research and cataloguing may then establish whether this aggregate record 
 
 [^1]: Although where these are made by both different directors and production companies there may have been dual consideration of potential future independent release
 [^2]: It is easier for the Cataloguer to default to treating as an Aggregate initially and create a single Work, Manifestation, and Item, rather than potentially create multiple skeletal “unidentified” Works, Manifestations and Items that then have to be deleted subsequently if it is discovered the entity is an Aggregate.
-

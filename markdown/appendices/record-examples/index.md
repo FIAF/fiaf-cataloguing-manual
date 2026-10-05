@@ -2,20 +2,20 @@
 title: Examples of records containing core elements in the different levels of hierarchy
 ---
 These include examples of feature films, a documentary, a short fiction film, a home movie, a television series and episode, and an aggregate television DVD and episode.
-It is recognised that field names in different institutions’ systems will not necessarily use identical terms to those of the core concepts or this manual (see [Core elements of description](/preliminary/core_elements_of_description/#sec-core_elements_of_description)).
+It is recognised that field names in different institutions’ systems will not necessarily use identical terms to those of the core concepts or this manual (see [Core elements of description](../../preliminary/core_elements_of_description/index.md#sec-core_elements_of_description)).
 Some may also have multiple occurrences and multiple fields connected with each element, whilst others may use few or no field names.
 Some institutions may also have additional fields and data for in-house needs.
 The following examples reflect some of these possible differences.
 
 <a id="sec-example_one"></a>
 ## Example 1. Feature film in 3-level, 2-level and 1-level hierarchies
-Example 1 depicts 3-level, 2-level and 1 level model hierarchies (see [Elements of description across Works, Variants, Manifestations, and Items](/preliminary/core_elements_of_description/#sec-elements_of_description)) for the same film.
+Example 1 depicts 3-level, 2-level and 1 level model hierarchies (see [Elements of description across Works, Variants, Manifestations, and Items](../../preliminary/core_elements_of_description/index.md#sec-elements_of_description)) for the same film.
 
 In this first example, as an initial illustration,  the corresponding data of the core concepts has the same matching colours as used in the list below, and the core concept term is also given in italics and square brackets alongside the most equivalent field name.
 
-Fields and data in black are additional elements and data, that also mainly correspond with the wider Attributes, Elements and Relationships stipulated in CEN EN 15907 and found at [Moving Image Works](/other-relationships/#sec-moving_image_works), [Moving Image Manifestations](/manifestations/), and [Moving Image Items](/items/).
+Fields and data in black are additional elements and data, that also mainly correspond with the wider Attributes, Elements and Relationships stipulated in CEN EN 15907 and found at [Moving Image Works](../../other-relationships/index.md#sec-moving_image_works), [Moving Image Manifestations](../../manifestations/index.md), and [Moving Image Items](../../items/index.md).
 
-Core concepts ([Core elements of description](/preliminary/core_elements_of_description/#sec-core_elements_of_description))
+Core concepts ([Core elements of description](../../preliminary/core_elements_of_description/index.md#sec-core_elements_of_description))
 
 Title  
 Series/Serial  

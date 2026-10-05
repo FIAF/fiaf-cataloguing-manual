@@ -98,7 +98,7 @@ Unidentified episode).
 Unedited footage from a known, named television programme (e.g.
 a compilation of outtakes from 60 Minutes) is another case where a Work may have a partially supplied/devised title.
 
-Institutions should rely upon in-house lists of standardised form terms to be used as additions to/indexed as an attribute of such related titles, or utilise established standardised lists such as Library of Congress Genre/Form Terms for Library and Archival Materials (LCGFT), or rely upon the “form terms” list provided in [List of form terms for Supplied/Devised titles](/appendices/value-lists/list_of_form_terms_for_supplied_devised_titles/#sec-list_of_form_terms_for_supplied_devised_titles).
+Institutions should rely upon in-house lists of standardised form terms to be used as additions to/indexed as an attribute of such related titles, or utilise established standardised lists such as Library of Congress Genre/Form Terms for Library and Archival Materials (LCGFT), or rely upon the “form terms” list provided in [List of form terms for Supplied/Devised titles](../../appendices/value-lists/list_of_form_terms_for_supplied_devised_titles/index.md#sec-list_of_form_terms_for_supplied_devised_titles).
 
 **General guidelines for Partially Supplied/Devised titles**[^30]
 
@@ -248,7 +248,7 @@ Where ascertainable, when the content being described consists of one specific f
 
 Optionally (or additionally), establish a link with the form index adopted by the archive.
 
-Institutions should rely upon in-house lists of standardised form terms, or utilise established standardised lists such as Library of Congress Genre/Form Terms for Library and Archival Materials (LCGFT), or rely upon the list provided in [List of form terms for Supplied/Devised titles](/appendices/value-lists/list_of_form_terms_for_supplied_devised_titles/#sec-list_of_form_terms_for_supplied_devised_titles).
+Institutions should rely upon in-house lists of standardised form terms, or utilise established standardised lists such as Library of Congress Genre/Form Terms for Library and Archival Materials (LCGFT), or rely upon the list provided in [List of form terms for Supplied/Devised titles](../../appendices/value-lists/list_of_form_terms_for_supplied_devised_titles/index.md#sec-list_of_form_terms_for_supplied_devised_titles).
 
 !!! example "Example"
     Announcements 
@@ -387,7 +387,7 @@ For a more comprehensive list of form terms to use with FULLY or PARTIALLY Suppl
 ## Fragments/segments of unidentified moving images (film or television programmes)
 Similar principles apply to any unidentified and incomplete segments or fragments of films or television programmes that have been acquired.
 
-For example, a reel of a silent fiction film with no title given on either the print or can, or any indication of what it is, other than it is clearly part of a longer film, should be assigned a relevant Item title in accordance with the guidelines in [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](/appendices/titles/title_types/#sec-supplied_devised_titles), for example:
+For example, a reel of a silent fiction film with no title given on either the print or can, or any indication of what it is, other than it is clearly part of a longer film, should be assigned a relevant Item title in accordance with the guidelines in [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](../../titles/supplied_devised_titles/index.md#sec-supplied_devised_titles), for example:
 
 !!! example "Example"
     Unidentified silent film segment

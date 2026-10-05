@@ -1,6 +1,10 @@
 ---
 title: Cataloguer’s Notes
 ---
+
+<a id="sec-cataloguers_notes"></a>
+
+
 A cataloguer’s note is any annotation that might be helpful to those using or revising the cataloguing data.
 It includes information that does not readily fit into dedicated fields or other areas of the description.
 The extent and specificity of notes will depend upon factors such as staff, viewing facilities, documentation, system designs, etc.[^1]
@@ -73,4 +77,3 @@ Provide additional or explanatory information that clarifies boundary decisions,
 [^4]: Based on RDA 5.9.1.3 and 8.13.1.3 Making Cataloguer’s Notes
 [^5]: Based on FIAF 7.2. Notes
 [^6]: FIAF 7.2.7. History of edition/version/variation
-

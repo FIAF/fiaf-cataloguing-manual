@@ -33,7 +33,7 @@ Instances of any Event type can have Agent and “Other” relationships.
 
 Record one or more Event type, for example, “publication,” “copyright/IPR registration,” “festival showing,” etc., to express the nature of the Event’s relationship to the Work/Variant.
 Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in [Event Type](/events/event_type/#sec-event_type).
+A suggested list, which is open and not exhaustive, can be found in [Event Type](../../events/event_types/index.md).
 
 <a id="sec-subject_genre_form_terms"></a>
 ## Subject/Genre/Form Terms
@@ -211,4 +211,3 @@ Actual filming locations data can be added in a different field (in the EN 15907
 
 [^1]: EN 15907 5.2 Event
 [^2]: EN 15907 8.1 Relationships. General
-

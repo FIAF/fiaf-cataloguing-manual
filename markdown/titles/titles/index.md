@@ -6,7 +6,7 @@ title: Titles
 The following general guidelines for recording Titles largely apply across all the WVMI (Work, Variant, Manifestation, Item) entities, and all Title Types.
 Certain guidelines are specified as applying to one or more of the WVMI entities where pertinent.
 
-When recording a title, apply the guidelines on capitalisation, numbers, diacritical marks, initial articles, spacing of initials and acronyms, and abbreviations, in [Purpose](/preliminary/purpose_scope_and_use/#sec-purpose).
+When recording a title, apply the guidelines on capitalisation, numbers, diacritical marks, initial articles, spacing of initials and acronyms, and abbreviations, in [Purpose](../../preliminary/purpose_scope_and_use/index.md#sec-purpose).
 If those guidelines refer to an appendix, apply the additional instructions in that appendix, as applicable.[^2]
 
 <a id="sec-title_language"></a>
@@ -122,7 +122,7 @@ An alternative title should also be added giving the numbers, symbols or charact
     Seven [Alternative]
 
 Where possible a word should be used as a substitute when creating the title if a symbol or graphic design used cannot be replicated, with a note explaining this.
-See [Notes](/variants/elements_of_a_variant/#sec-notes).
+See [Notes](../../variants/elements_of_a_variant/index.md#sec-notes).
 
 !!! example "Example"
     I [heart] Huckabees [Preferred/Title Proper] 

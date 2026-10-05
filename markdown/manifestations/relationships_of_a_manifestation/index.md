@@ -23,7 +23,6 @@ Instances of any Event type can have Agent and “Other” relationships.
 
 Record one or more Event type, for example, “decision,” “manufacture,” etc., to express the nature of the Event’s relationship to the Manifestation.
 Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in [Event Type](/events/event_type/#sec-event_type).
+A suggested list, which is open and not exhaustive, can be found in [Event Type](../../events/event_types/index.md#sec-event_type).
 
 [^1]: EN 15907 8.1 Relationships. General
-

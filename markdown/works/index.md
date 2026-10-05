@@ -2,11 +2,11 @@
 title: Moving Image Works
 ---
 
-!!! abstract "Definition"
+!!! abstract "Definition" 
     An entity comprising the intellectual or artistic content and the process of realisation in a cinematographic medium, e.g., what the moving image is called, when it was made, who made it, who was in it, what it is about, etc. This core information usually does not change throughout any Variant or Manifestation.
 
 <a id="sec-moving_image_work"></a>
-# Moving Image Work
+# Moving Image Work [^1]
 A moving image Work comprises both the intellectual or artistic content and the process of realisation in a cinematographic medium, e.g., what it is called, when it was made, who made it, who was in it, what it is about, etc.
 
 A Work as a conceptual entity is the topmost level of description.
@@ -69,7 +69,8 @@ Works include:
 !!! example "Example"
     University College Hospital. Endoscopy – Colonscope. Patient HX3456. 2010 (United Kingdom, 2010, University College Hospital)
 
-[^1]: For a discussion of other definitions of the “Work” and Variant entities, see [Moving Image Works](/other-relationships/#sec-moving_image_works).
+[^1]: For a discussion of other definitions of the “Work” and Variant entities, see [Moving Image Works](../other-relationships/index.md#sec-moving_image_works).
+
 [^2]: Adapted from the definition of a Cinematographic Work in EN 15907, 4.1.1, p.8.
 [^3]: Adapted from the definition of a Cinematographic Work in EN 15907, 4.1.1, p.8.
 [^4]: Adapted from the definition of a Cinematographic Work in EN 15907, 4.1.1, p.8.

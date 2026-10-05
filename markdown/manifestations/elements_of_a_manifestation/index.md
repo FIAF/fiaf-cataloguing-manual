@@ -48,24 +48,24 @@ Record at least one title, identifying phrase, or name for the Manifestation Tit
 This is a transcribed element, reflecting the actual title as it appears on screen.
 The original release title would be added under the Work/Variant Title field.
 
-If multiple titles are recorded, where allowable, associate a “Title Type” to a title for differentiation between the various types of titles (see [Title Type](/manifestations/elements_of_a_manifestation/#sec-manifest_title_type) and [Title Types](/appendices/titles/title_types/#sec-title_types)).
+If multiple titles are recorded, where allowable, associate a “Title Type” to a title for differentiation between the various types of titles (see [Title Type](../../manifestations/elements_of_a_manifestation/index.md#sec-manifest_title_type) and [Title Types](../../titles/title_types/index.md#sec-title_types)).
 
 The title of a Manifestation can sometimes differ, either slightly or wholly from the title of the Variant or Work to which it is linked.
 This may be the case, for example, with the acquisition of an incomplete Manifestation lacking a title or with a title added by the source of the acquisition.
 
-See [Title](/appendices/titles/#sec-appendix_title) for further titling details and information.
+See [Title](../../titles/titles/index.md#sec-appendix_title) for further titling details and information.
 
-For creating titles for untitled or unidentified entities see [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](/appendices/titles/title_types/#sec-supplied_devised_titles)
+For creating titles for untitled or unidentified entities see [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](../../titles/supplied_devised_titles/index.md#sec-supplied_devised_titles)
 
-See [Definition](/appendices/aggregates/#sec-definition) for titling of Aggregates.
+See [Definition](../../aggregates/index.md#sec-definition) for titling of Aggregates.
 
-For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see [Purpose](/preliminary/purpose_scope_and_use/#sec-purpose).
+For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see [Purpose](../../preliminary/purpose_scope_and_use/index.md#sec-purpose).
 
-For sources of information for the Manifestation Title, see [Sources of Information](/preliminary/prelim_sources_of_information/#sec-prelim_sources_of_information).
+For sources of information for the Manifestation Title, see [Sources of Information](../../preliminary/prelim_sources_of_information/index.md#sec-prelim_sources_of_information).
 
 <a id="sec-manifest_title_type"></a>
 ### Title Type
-Where relevant for an institution, if the Manifestation includes multiple titles, such as a title in another language for a dubbed or subtitled variant, record the relevant titles and associate a “Title Type” to each title for differentiation between the various types of titles (see [Titles and Title Types](/appendices/titles/)).
+Where relevant for an institution, if the Manifestation includes multiple titles, such as a title in another language for a dubbed or subtitled variant, record the relevant titles and associate a “Title Type” to each title for differentiation between the various types of titles (see [Titles and Title Types](../../titles/titles/index.md)).
 
 <a id="sec-manifest_language"></a>
 ## Language
@@ -87,7 +87,7 @@ If no language can be determined, the information can be omitted or indicated by
 More than one language can occur in different forms, depending on how the content is expressed: the usage type of the languages defines the form with which the language is expressed, for example, spoken, sung, written, etc.
 
 Record the usage type of a language by taking the most suitable value from a controlled list.
-A suggested list, which is open and not exhaustive, can be found in [Language Usage Types](/works/elements_of_a_work_variant/#sec-languages).
+A suggested list, which is open and not exhaustive, can be found in [Language Usage Types](../../works/elements_of_a_work_variant/index.md#sec-languages).
 
 If usage type(s) cannot be determined, indicate a value of “unknown”.
 
@@ -146,14 +146,14 @@ The concept of format as applied to Manifestations is the “ideal” representa
 A majority of the physical and digital description elements of moving image Manifestations are intended to be inherited by the Items, as they serve as the exemplars of Manifestations.
 In some databases, selection of a physical media type initiates provision of element fields relevant to that type at a Manifestation level, or an Item level, or both (e.g.
 in a 2-Level hierarchy.
-See “Shallow hierarchy model: 2 levels” found at [Elements of description across Works, Variants, Manifestations, and Items](/preliminary/core_elements_of_description/#sec-elements_of_description)).
+See “Shallow hierarchy model: 2 levels” found at [Elements of description across Works, Variants, Manifestations, and Items](../../preliminary/core_elements_of_description/index.md#sec-elements_of_description)).
 
 Ideally the information need only be recorded once irrespective of where in the data structure an institution must place it.
 Therefore guidelines for the treatment of high-level physical and digital description elements are explained fully in the Manifestation chapter.
 The Item chapter contains a detailed listing of item-specific elements.
 Physical properties such as Extent and Format at the Manifestation level represent the “ideal,” and item-specific elements will capture where it differs from this “ideal” at the Item level.
 
-The information about the format of a Manifestation plays a relevant role because any change in format represents a criterion to determine the boundaries between one Manifestation and another (see [Boundaries between Manifestations](/boundaries/boundaries_between_manifestations/#sec-boundaries_between_manifestations)).
+The information about the format of a Manifestation plays a relevant role because any change in format represents a criterion to determine the boundaries between one Manifestation and another (see [Boundaries between Manifestations](../../boundaries/boundaries_between_manifestations/index.md)).
 
 Record a new Manifestation of a Work/Variant when there is evidence of at least one, or more than one, of the following changes associated with the format:
 
@@ -161,7 +161,7 @@ Record a new Manifestation of a Work/Variant when there is evidence of at least 
 - Changes to the display characteristics (i.e. in aspect ratio, sound or colour characteristics, etc.)
 - Change in the container (i.e. cassette to cartridge as container for a tape).
 
-In a note (See [Cataloguer’s Notes](/appendices/cataloguers-notes/)), explain the format changes used to determine the Manifestation in hand as different and “new” in comparison with any other, already identified and described Manifestation.
+In a note (See [Cataloguer’s Notes](../../appendices/cataloguers-notes/index.md)), explain the format changes used to determine the Manifestation in hand as different and “new” in comparison with any other, already identified and described Manifestation.
 
 The description of the format of a Manifestation is articulated in the following elements:
 
@@ -434,7 +434,7 @@ Alternatively, provide for a distinguishing “precision” field specifying if 
 For Aggregate Manifestations record the length or footage of the whole, i.e. the total in feet or metres of all the units that constitute the Aggregate.
 In addition there is the option to qualify this with details of the physical extent of each individual unit in either a Notes field, or in multiple occurrences of the duration fields, depending on what systems used permit or an institution decides.
 
-For more information about aggregates, see [Aggregates (Compilations, Multi-component productions)](/appendices/aggregates/).
+For more information about aggregates, see [Aggregates (Compilations, Multi-component productions)](../../aggregates/index.md).
 
 <a id="sec-duration_of_a_manifestation"></a>
 ### Duration of a Manifestation[^3]
@@ -448,7 +448,7 @@ Record, in Arabic numerals, the total duration/running time in minutes, normally
 Optionally, include minutes and seconds, or, for a higher level of precision and to enable calculations, use the format HH:MM:SS.
 This numeric format will help to calculate estimated digital storage in analogue-to-digital transfer projects.
 
-If the duration/running time of a Manifestation is uncertain, use a question mark following the unit count or, if the system allows, use the qualifier “Duration Precision” and add the term “approximate.” (see [Duration Precision](/manifestations/elements_of_a_manifestation/#sec-manifest_duration_precision))
+If the duration/running time of a Manifestation is uncertain, use a question mark following the unit count or, if the system allows, use the qualifier “Duration Precision” and add the term “approximate.” (see [Duration Precision](../../manifestations/elements_of_a_manifestation/index.md#sec-manifest_duration_precision))
 
 In a note, give an explanation for the estimated duration/running time, if such information applies.[^15]
 
@@ -464,19 +464,19 @@ In addition there is the option to qualify this with details of the duration of 
 
     The total running time of these may be added as duration, with an additional clarifying note detailing the running times of the individual units.
 
-For more information about Aggregates see [Aggregates (Compilations, Multi-component productions)](/appendices/aggregates/).
+For more information about Aggregates see [Aggregates (Compilations, Multi-component productions)](../../aggregates/index.md).
 
 <a id="sec-duration_of_a_manifestation_associated"></a>
 #### Duration of a Manifestation associated with a Work/Variant of the Silent Era
 When recording duration of Manifestations of a Work/Variant of the silent era, take into account that the rate of frames per second varied over the years and between Variants/Manifestations.
 Also take into account the so-called “stretch frame” practice, adopted after the silent era, which “increases the number of frames printed on a film to enable films shot at silent speeds to be projected at sound speed and retain the original temporal characteristics.” [^16]
 
-In a note, indicate the frame rate on which the duration is based or if the Manifestation is the result of a “stretch frame” practice.[^17] (See also [Frame Rate](/items/elements_of_a_moving_image_item/#sec-frame_rate))
+In a note, indicate the frame rate on which the duration is based or if the Manifestation is the result of a “stretch frame” practice.[^17] (See also [Frame Rate](../../items/elements_of_a_moving_image_item/index.md#sec-frame_rate))
 
 <a id="sec-duration_of_a_broadcast"></a>
 #### Duration of a Broadcast Manifestation associated with a Work/Variant
 When recording duration for Broadcast Manifestations there are two potential sets of data: a Slot Duration and an Actual Running Time.
-If the system allows, note the type of duration in the Duration Type element (see [Duration Type](/manifestations/elements_of_a_manifestation/#sec-duration_type)).
+If the system allows, note the type of duration in the Duration Type element (see [Duration Type](../../manifestations/elements_of_a_manifestation/index.md#sec-duration_type)).
 
 Slot Duration relates to information from TV listings or publicity information for the programmed “slot” on the TV channel, whereas Actual Running Time relates to the exact running time of the entity when it was broadcast, excluding any inserted advertisements, etc. Thus, for example, an episode of the soap opera “Coronation Street” may have a Slot Duration of 30 minutes, but an Actual Running Time of 24 minutes.
 
@@ -497,11 +497,11 @@ For example, broadcast materials could have “Slot Duration” and “Actual Du
 
 <a id="sec-notes_for_manifestations"></a>
 ## Notes for Manifestations
-Notes for Manifestations are annotations providing additional information relating specifically to Manifestation attributes and relationships.[^18] See [Cataloguer’s Notes](/appendices/cataloguers-notes/).
+Notes for Manifestations are annotations providing additional information relating specifically to Manifestation attributes and relationships.[^18] See [Cataloguer’s Notes](../../appendices/cataloguers-notes/index.md).
 
 <a id="sec-date_and_country_of_manifestation"></a>
 ## Date and Country of Manifestation
-Dates and country of Manifestation are not elements of a Manifestation under EN 15907, as in the latter it envisages this data being on linked Publication Events. However, in some systems they may be structured as elements of a Manifestation. For further consideration of this see [Boundaries between Manifestations and Events](/boundaries/boundaries_between_manifestations_and_events)
+Dates and country of Manifestation are not elements of a Manifestation under EN 15907, as in the latter it envisages this data being on linked Publication Events. However, in some systems they may be structured as elements of a Manifestation. For further consideration of this see [Boundaries between Manifestations and Events](../../boundaries/boundaries_between_manifestations_and_events/index.md)
 
 [^1]: Partially based on EN 15907, 6.8 except for the physical components/units number, which is not provided for in the standard.
 [^2]: Based on FIAF 1991, 5.3.4.1, 87.

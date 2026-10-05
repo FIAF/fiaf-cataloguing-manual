@@ -18,4 +18,4 @@ It may be whole or incomplete or a fragment.
 A Manifestation is not exclusively bound to a single Work/Variant, since it can be an aggregate for reasons connected to the publication, to the commercial release, or for mere convenience.
 A Manifestation can therefore be associated or linked to more than one Work/Variant, where an institution’s system allows.
 
-For Aggregate Manifestations see [Aggregates (Compilations, Multi-component productions)](/appendices/aggregates/).
+For Aggregate Manifestations see [Aggregates (Compilations, Multi-component productions)](../aggregates/index.md).
