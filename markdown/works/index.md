@@ -1,6 +1,4 @@
----
-title: Moving Image Works
----
+
 
 !!! abstract "Definition" 
     An entity comprising the intellectual or artistic content and the process of realisation in a cinematographic medium, e.g., what the moving image is called, when it was made, who made it, who was in it, what it is about, etc. This core information usually does not change throughout any Variant or Manifestation.

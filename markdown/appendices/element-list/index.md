@@ -1,6 +1,5 @@
----
-title: Element List
----
+
+
 <a id="sec-list_of_elements"></a>
 ## List of Elements
 | **WORK Section** | **WORK: Element Name** | **MANIFEST. Section** | **MANIFESTATION: Element name** | **ITEM Section** | **ITEM: Item Name** |

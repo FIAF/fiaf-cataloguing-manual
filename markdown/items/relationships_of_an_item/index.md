@@ -1,6 +1,5 @@
----
-title: Relationships of an Item
----
+
+
 A relationship associates an instance of an Item with another instance of an entity.
 
 Relationships can be implemented in many ways, depending on the purpose, the modelling paradigm, or architectural constraints of the chosen platform.

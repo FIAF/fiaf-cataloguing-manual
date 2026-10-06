@@ -1,6 +1,5 @@
----
-title: Moving Image Variants (i.e. Versions)
----
+
+
 
 !!! abstract "Definition"
     An entity that may be used to indicate any change to content-related characteristics that do not significantly change the overall content of a Work as a whole.

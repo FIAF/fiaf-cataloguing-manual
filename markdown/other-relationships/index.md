@@ -1,6 +1,5 @@
----
-title: Moving Image Other Relationships
----
+
+
 <a id="sec-moving_image_works"></a>
 ## Moving Image Works
 <a id="sec-moving_image_other_relationships_definition"></a>

@@ -1,6 +1,5 @@
----
-title: Boundaries between Manifestations and Events
----
+
+
 As mentioned at [INSERT INTERNAL LINK TO RELEVANT SECTION IN MANUAL], there is no rule within EN 15907 as to the categories of Manifestation Type there can be, only that its values come from a controlled vocabulary list. The only one stipulated value that exists is that of a category of ‘Unknown’.
 
 Overlaps that have evolved between use of Manifestations and Events, and Manifestation types and Event Publication types, have partly been due to some ambiguity within the EN 15907 standard itself. But also, how the latter has been interpreted and evolved since it was conceived in order to deal with the nature and range of actual moving image material and technological developments; as well as the realities and practicalities for institutions using different cataloguing systems and databases, and user access needs.

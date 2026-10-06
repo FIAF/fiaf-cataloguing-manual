@@ -1,6 +1,5 @@
----
-title: Example 6. Television Serial and Episode records in 3-level Hierarchy Model (with Monographic Work in “part of” relationship with Serial Work)
----
+
+
 | Identification number | 772521 |
 | --- | --- |
 | Title | Title type |

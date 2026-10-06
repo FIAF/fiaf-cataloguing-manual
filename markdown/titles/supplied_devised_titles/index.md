@@ -1,6 +1,5 @@
----
-title: Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)
----
+
+
 
 <a id="sec-supplied_devised_titles"></a>
 <!-- ## Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material) -->

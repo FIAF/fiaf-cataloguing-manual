@@ -1,6 +1,5 @@
----
-title: Boundaries between Works and Variants
----
+
+
 <a id="sec-boundaries_between_works_and_variants"></a>
 This section looks at instances of when an entity constitutes a new Work or a Variant of a Work.
 

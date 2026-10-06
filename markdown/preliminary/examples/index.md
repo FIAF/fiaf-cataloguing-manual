@@ -1,6 +1,5 @@
----
-title: Examples
----
+
+
 The examples given throughout the guidelines are illustrative and not prescriptive (unless stated otherwise).
 They follow The Chicago manual of style[^1] for the sake of consistency.
 They are intended to illuminate the provisions of the guidelines to which they are attached, rather than to extend those provisions.

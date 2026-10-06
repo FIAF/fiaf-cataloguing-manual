@@ -1,6 +1,5 @@
----
-title: Moving Image Manifestations
----
+
+
 
 !!! abstract "Definition"
     The embodiment of a moving image Work/Variant.

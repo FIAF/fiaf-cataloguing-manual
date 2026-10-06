@@ -1,6 +1,5 @@
----
-title: Titles
----
+
+
 <a id="sec-appendix_title"></a>
 <!-- ## Title -->
 The following general guidelines for recording Titles largely apply across all the WVMI (Work, Variant, Manifestation, Item) entities, and all Title Types.

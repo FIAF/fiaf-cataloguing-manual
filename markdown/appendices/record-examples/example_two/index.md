@@ -1,6 +1,5 @@
----
-title: Example 2. Documentary film in 4-level hierarchy
----
+
+
 In this second example, the corresponding data of the core concepts also has the same illustrative matching colours as used in the Core Elements list in Example 1 (see below), and there are also links to the relevant sections of the manual relating to those elements.
 
 Core concepts ([[Core elements of description](../../../preliminary/core_elements_of_description/index.md#sec-core_elements_of_description))

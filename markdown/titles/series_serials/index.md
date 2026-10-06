@@ -1,6 +1,5 @@
----
-title: Titles and structuring of series/serials
----
+
+
 
 <a id="sec-titles_of_series_serials"></a>
 

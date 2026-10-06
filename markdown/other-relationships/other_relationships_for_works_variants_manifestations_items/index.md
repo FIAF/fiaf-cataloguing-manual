@@ -1,6 +1,5 @@
----
-title: Other Relationships for Works, Variants, Manifestations, Items
----
+
+
 <a id="sec-work_variant_other_relationship_types"></a>
 ## Work/Variant Other Relationship Types
 | **Work/Variant Other Relationship Types** | **Term list** |

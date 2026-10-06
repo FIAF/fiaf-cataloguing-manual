@@ -1,6 +1,4 @@
----
-title: Bibliography
----
+
 A/V Artifact Atlas [online]. Last modified on 26 October 2015 [viewed 2016-04-04]. Available from: [http://avaa.bavc.org/artifactatlas/index.php/A/V_Artifact_Atlas](http://avaa.bavc.org/artifactatlas/index.php/A/V_Artifact_Atlas)
 
 ALA-LC Romanization Tables [online]. Last Updated: 02/24/2016 [viewed 2016-04-04]. Available from: [http://www.loc.gov/catdir/cpso/roman.html](http://www.loc.gov/catdir/cpso/roman.html)

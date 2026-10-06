@@ -1,6 +1,5 @@
----
-title: Relationships of a Work/Variant (links/associations with other entities/records)
----
+
+
 A relationship associates an instance of a Variant with another instance of an entity.
 Entities are described in subsequent sections, but examples of entities are people or companies associated with a Variant (eg, studio, director, cast), events (copyright registration), subjects (other Works/Variants are about the same subject), and records.
 
@@ -28,4 +27,3 @@ Express the relationship between a Variant and a Manifestation (e.g., Part/part 
 Describe or demonstrate Variant-to-Manifestation relationships through linking to the Variant identifier, through the usage of relator terms, or according to the confines of your data structure.
 
 [^1]: EN 15907 8.1 Relationships. General
-

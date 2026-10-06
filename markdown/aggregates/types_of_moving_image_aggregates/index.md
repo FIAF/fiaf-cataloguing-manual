@@ -1,6 +1,4 @@
----
-title: Types of moving image Aggregates
----
+
 <a id="sec-collection_aggregates"></a>
 ## Collection Aggregates
 Sets of multiple independently created Works/Variants, which are “published”[^1] together in a single manifestation.

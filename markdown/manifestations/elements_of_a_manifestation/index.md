@@ -1,6 +1,5 @@
----
-title: Elements of a Manifestation
----
+
+
 <a id="sec-manifest_identifier"></a>
 ## Identifier
 Create an unambiguous reference to the Manifestation, such as a specific standard number issued by an official body (i.e.

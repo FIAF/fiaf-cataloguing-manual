@@ -1,6 +1,5 @@
----
-title: Event Types
----
+
+
 | **Work** | **Variant** | **Manifestation** | **Item** |
 | --- | --- | --- | --- |
 |  |  | [Manifestation Publication Types](#sec-publication) |  |

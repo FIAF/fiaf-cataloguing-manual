@@ -1,6 +1,3 @@
----
-title: Modelling Aggregates
----
 
 <a id="sec-modelling_aggregates"></a>
 

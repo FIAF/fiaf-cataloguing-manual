@@ -1,6 +1,5 @@
----
-title: Attributes of a Variant
----
+
+
 <a id="sec-appendix_variant_type"></a>
 ## Variant Type[^1]
 Identify and describe the kind of change from a Work that gives rise to any instance(s) of a Variant. Selection should be made from a controlled list of values, for example:
@@ -121,4 +120,3 @@ A Variant may have more than one type. For example, a Variant for a restoration 
 
 
 [^1]: YCR, 2.1.1 Nature of modification (change in content) of expression
-

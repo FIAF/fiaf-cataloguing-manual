@@ -1,6 +1,4 @@
----
-title: Cataloguer’s Notes
----
+
 
 <a id="sec-cataloguers_notes"></a>
 

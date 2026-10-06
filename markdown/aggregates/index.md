@@ -1,6 +1,4 @@
----
-title: Aggregates [^2] (Compilations, Multi-component productions)
----
+
 <a id="sec-definition"></a>
 ## Definition
 A moving image aggregate is a Manifestation embodying two or more distinct Works/Variants.[^1]

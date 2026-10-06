@@ -1,6 +1,5 @@
----
-title: Elements of a Variant
----
+
+
 This section describes the metadata elements that can be used to describe a Variant.
 It is up to each institution to choose which elements are most applicable to describe their collections and according to what their system can support.
 

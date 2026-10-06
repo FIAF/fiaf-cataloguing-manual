@@ -1,6 +1,5 @@
----
-title: Example 5. Home Movie in 3-level Hierarchy Model
----
+
+
 | Identification number | 664643 |
 | --- | --- |
 | Title | Title type |

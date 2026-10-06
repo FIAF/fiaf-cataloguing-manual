@@ -1,6 +1,4 @@
----
-title: Titling of Aggregates
----
+
 
 <a id="sec-titling_of_aggregates"></a>
 

@@ -1,6 +1,5 @@
----
-title: Title Types
----
+
+
 
 <a id="sec-title_types"></a>
 

@@ -1,6 +1,5 @@
----
-title: Attributes of a Manifestation
----
+
+
 <a id="sec-manifestation_type"></a>
 ## Manifestation Type
 As mentioned at [Boundaries between Manifestations](../../boundaries/boundaries_between_manifestations/index.md), a Manifestation is defined on the basis of two criteria: changes in the publication context and changes in format.
