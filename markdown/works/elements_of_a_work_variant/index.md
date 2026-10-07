@@ -134,7 +134,7 @@ See [Titles and structuring of series/serials](/titles/series_serials) for other
 
 See [Title](/titles/titles/#sec-appendix_title) for fuller titling details and information.
 
-See [Titling of Aggregates](/appendices/aggregates/titling_of_aggregates/#sec-titling_of_aggregates) for titling of Aggregates (e.g., compilations).
+See [Titling of Aggregates](/aggregates/titling_of_aggregates/#sec-titling_of_aggregates) for titling of Aggregates (e.g., compilations).
 
 For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see [Purpose](/preliminary/purpose_scope_and_use/#sec-purpose).
 
@@ -142,7 +142,7 @@ For sources of information for the Title, see [Sources of Information](/prelimin
 
 <a id="sec-work_title_type"></a>
 ### Title Type
-Where relevant for an institution, if the Work, Variant or Manifestation includes multiple titles, such as a title in another language for a dubbed or subtitled variant, record the relevant Variant titles and associate a “Title Type” to each title for differentiation between the various types of titles (see [Titles and Title Types](/appendices/titles/)).
+Where relevant for an institution, if the Work, Variant or Manifestation includes multiple titles, such as a title in another language for a dubbed or subtitled variant, record the relevant Variant titles and associate a “Title Type” to each title for differentiation between the various types of titles (see [Titles and Title Types](/titles/titles_title_types)).
 
 <a id="sec-country_of_reference"></a>
 ## Country of Reference
