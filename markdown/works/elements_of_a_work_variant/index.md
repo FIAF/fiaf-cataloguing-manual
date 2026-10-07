@@ -385,7 +385,7 @@ If acceptable summaries are already available in secondary sources, cataloguers 
 !!! example "Example"
     Donald Graham, millionaire ex-convict, plans revenge on society figure John Cabin Brand, whom he blames for the death of his daughter.
 
-A content description may also be a shotlist or listing of the contents of an aggregate Work/Variant (see [Aggregates (Compilations, Multi-component productions)](/appendices/aggregates/)). Shotlists are the ideal content description to have or aim to have, particularly for non-fiction moving images, but it is recognised that resources and accessibility mean this is not always possible or practical for an archive or institution.[^12]
+A content description may also be a shotlist or listing of the contents of an aggregate Work/Variant (see [Aggregates (Compilations, Multi-component productions)](/aggregates/types_of_moving_image_aggregates/#sec-collection_aggregates)). Shotlists are the ideal content description to have or aim to have, particularly for non-fiction moving images, but it is recognised that resources and accessibility mean this is not always possible or practical for an archive or institution.[^12]
 
 !!! example "Example"
     Title: Pathe News [Excerpts No. 6] 
