@@ -1,6 +1,5 @@
----
-title: Example 7. Aggregate DVD Television Serial and Episode records in 1-level Hierarchy Models
----
+
+
 Supernatural. The Complete Sixth Season
 Supernatural. Season 6
 United States of America, 2011

@@ -1,6 +1,6 @@
----
-title: Modelling Aggregates
----
+
+<a id="sec-modelling_aggregates"></a>
+
 An aggregate is a Manifestation, but “the process of aggregating the Works/Variants itself is an intellectual or artistic effort and therefore meets the criteria for a Work.
 In the process of creating an aggregate Manifestation, an aggregating Work is produced.
 This effort may be relatively minor or represent a major effort resulting in an aggregate that is significantly more than a sum of its parts...
@@ -27,7 +27,7 @@ It is recognised that the ability to do this may be dependent on sufficient info
 Where this is insufficient the titles of the individual Works/Variants making up the aggregate may be added as alternative title types to the aggregating Work.
 This will assist in accessibility and identification.
 
-For how aggregate records may be structured in a 1-level hierarchy system see [Example 7. Aggregate DVD Television Serial and Episode records in 1-level Hierarchy Models](/appendices/record-examples/example_seven/#sec-example_seven).
+For how aggregate records may be structured in a 1-level hierarchy system see [Example 7. Aggregate DVD Television Serial and Episode records in 1-level Hierarchy Models](../../appendices/record-examples/example_seven/index.md).
 Whilst this relates to a television example the same principles can be applied in the case of film collection and augmented collection aggregates.
 
 <a id="sec-collection_aggregates_modelling"></a>
@@ -40,7 +40,7 @@ The individual component titles may also be added as alternative title types to 
 Some collection aggregates do not have their own new title, e.g., in 2008, Odeon Entertainment released a DVD double-bill of classic British thrillers, Bond of fear (1956) and Blackout (1950), with no collection title.
 
 The treatment of the aggregate title may differ from institution to institution, especially in cases where multiple Works are contained in the collection aggregate and recording all titles in a single title field would be unwieldy.
-There is the option of an institution using a devised/supplied title (see [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](/appendices/titles/title_types/#sec-supplied_devised_titles)).
+There is the option of an institution using a devised/supplied title (see [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](../../titles/supplied_devised_titles/index.md#sec-supplied_devised_titles)).
 
 !!! example "Example"
     Bond of fear ; Blackout 
@@ -112,4 +112,3 @@ An aggregating Work record for the above enables adding of credits, for example,
 [^1]: Working Group on Aggregates. Final Report of the Working Group on Aggregates, September 12, 2011, [http://www.ifla.org/files/assets/cataloguing/frbrrg/AggregatesFinalReport.pdf](http://www.ifla.org/files/assets/cataloguing/frbrrg/AggregatesFinalReport.pdf)
 [^2]: Definition of “Compilation” in [http://www.isan.org/resources/glossary.html#index_A](http://www.isan.org/resources/glossary.html#index_A)
 [^3]: Example Victorian Cinema 3 is an illustrative example only, and not yet streamed in this way
-

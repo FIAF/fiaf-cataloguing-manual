@@ -1,6 +1,5 @@
----
-title: Example 3. Silent feature film in 3-level Hierarchy Model with multiple Manifestations and items
----
+
+
 **WORK RECORD**
 
 | Work identifier | [-----] |

@@ -1,6 +1,5 @@
----
-title: Elements of a Work
----
+
+
 This section describes the metadata elements that can be used to describe a Work.
 It is up to each institution to choose which elements are most applicable to describe their collections and according to what their system can support.
 
@@ -136,9 +135,9 @@ See [Title](/titles/titles/#sec-appendix_title) for fuller titling details and i
 
 See [Titling of Aggregates](/aggregates/titling_of_aggregates/#sec-titling_of_aggregates) for titling of Aggregates (e.g., compilations).
 
-For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see [Purpose](/preliminary/purpose_scope_and_use/#sec-purpose).
+For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see [Purpose](../../preliminary/purpose_scope_and_use/index.md#sec-purpose).
 
-For sources of information for the Title, see [Sources of Information](/preliminary/prelim_sources_of_information/#sec-prelim_sources_of_information)
+For sources of information for the Title, see [Sources of Information](../../preliminary/prelim_sources_of_information/index.md#sec-prelim_sources_of_information)
 
 <a id="sec-work_title_type"></a>
 ### Title Type
@@ -240,7 +239,7 @@ Where full dates are not known use Year-Month YYYY-MM or just Year YYYY, as syst
 The year or date should be associated with an event in the life cycle of the Work (see [Events (e.g., IPR registration, screenings, awards, etc.)](/works/relationships_of_a_work_variant/#sec-work_events)).
 If your system supports it, apply a “Date Type” qualifier to make the date or year purpose clear.
 Date Type terms should be derived from a controlled vocabulary.
-For a list of initial terms, see [Event Type](/events/event_type/#sec-event_type).
+For a list of initial terms, see [Event Type](../../events/event_types/index.md#sec-event_type).
 
 For Works the date is typically related to events such as its creation, availability (i.e. publication, release, distribution, broadcast or transmission) or registration (e.g. for copyright or intellectual property purposes), or bestowal of an award. 
 
@@ -330,7 +329,7 @@ Changes to the original language(s), as in the case of dubbing, are considered m
 
 Alternatively, such minor changes can constitute a new Manifestation of a moving image Work rather than a Variant.
 Institutions using cataloguing structures that do not distinguish Variant level information (for example, those that create records primarily at the Manifestation level), should apply this alternative.
-(See guidelines for language in a Manifestation: [Language](/manifestations/elements_of_a_manifestation/#sec-manifest_language))
+(See guidelines for language in a Manifestation: [Language](../../manifestations/elements_of_a_manifestation/index.md#sec-manifest_language))
 
 Indicate the language(s) (e.g., Italian) and usage(s) (e.g., Italian intertitles) in which the moving image Variant/Manifestation is written, spoken or sung, if applicable.
 More than one language can occur in different forms, depending on how the content is expressed (e.g., French dialogue and English subtitles).

@@ -1,6 +1,4 @@
----
-title: Agents for Manifestations
----
+
 !!! abstract "Definition"
     An Agent for moving image Manifestations is defined as an entity that is involved in the exploitation (release,              distribution, broadcasting), publishing, manufacturing or preservation of a Manifestation and who is considered to have      major responsibility for, or be of major importance to, the Manifestation. 
     

@@ -1,6 +1,5 @@
----
-title: Moving Image Other Relationships
----
+
+
 <a id="sec-moving_image_works"></a>
 ## Moving Image Works
 <a id="sec-moving_image_other_relationships_definition"></a>
@@ -8,7 +7,7 @@ title: Moving Image Other Relationships
 <a id="sec-work_other_relationships"></a>
 ### Other relationships[^1]
 If desired or appropriate, express relationships that are not covered by the Agent, Subject, and Event relationships, including all kinds of aggregation and re-use of Works and their Variants.
-(See [Aggregates (Compilations, Multi-component productions)](/appendices/aggregates/).)
+(See [Aggregates (Compilations, Multi-component productions)](../aggregates/index.md).)
 
 Commonly-occurring relationships include:[^2]
 
@@ -67,7 +66,7 @@ Commonly-occurring relationships include:[^2]
     The wicked lady (United Kingdom, 1945, Leslie Arliss), costume
 
 Record one or more “Other” relationship type terms to express the nature of the relationship to the Work/Variant, choosing the most specific term possible from a controlled list of values , for example, “based on,” “contained in,” etc. .
-A suggested list, which is open and not exhaustive, can be found in [Other Relationships for Works, Variants, Manifestations, Items](/other-relationships/other_relationships_for_works_variants_manifestations_items/#sec-other_relationships_for_works_variants_manifestations_items).
+A suggested list, which is open and not exhaustive, can be found in [Other Relationships for Works, Variants, Manifestations, Items](../other-relationships/other_relationships_for_works_variants_manifestations_items/index.md).
 
 Or, compose a term to describe the relationship between the Work being catalogued and the related Work.
 
@@ -75,7 +74,7 @@ In a note, add any additional information concerning the relationship considered
 
 Describe or demonstrate Work-to-Work relationships through linking to the Work identifier of the related Work, through the usage of relator terms, or according to the confines of the institution’s data structure.
 
-Remember, a Work based on a pre-existing Work should be identified as a Variant of the same Work unless it has been so significantly changed as to have become a new related Work.[^3] See [Boundaries between Works](/boundaries/boundaries_between_works/) and [Boundaries between Works and Variants](/boundaries/boundaries_between_works_and_variants/) for determining when a Work should be identified as a new, but related Work and when it should be identified as a Variant of the original Work.
+Remember, a Work based on a pre-existing Work should be identified as a Variant of the same Work unless it has been so significantly changed as to have become a new related Work.[^3] See [Boundaries between Works](../boundaries/boundaries_between_works/index.md) and [Boundaries between Works and Variants](../boundaries/boundaries_between_works_and_variants/index.md) for determining when a Work should be identified as a new, but related Work and when it should be identified as a Variant of the original Work.
 
 <a id="sec-variants"></a>
 ### Variants
@@ -93,7 +92,7 @@ Describe or demonstrate Work-to-Manifestation relationships through linking to t
 <a id="sec-manifest_other_relationships"></a>
 ### “Other” Relationships
 Expresses relationships that are not covered by the Agent and Event relationships.
-Aggregation relationships are expressed at the Work/Variant level (see [Aggregates (Compilations, Multi-component productions)](/appendices/aggregates/)).
+Aggregation relationships are expressed at the Work/Variant level (see [Aggregates (Compilations, Multi-component productions)](../aggregates/index.md)).
 
 Commonly-occurring relationships include:
 
@@ -129,7 +128,7 @@ Commonly-occurring relationships include:
 
 Record one or more “Other” relationship type to express the nature of the relationship to the Manifestation, choosing the most specific term possible from existing relator terms lists, for example, “commentary on,” “review of,” etc. 
 Selection should be made from a controlled list of values.
-A suggested list, which is open and not exhaustive, can be found in [Manifestation Other Relationship Types](/other-relationships/other_relationships_for_works_variants_manifestations_items/#sec-manifestation_other_relationship_types).
+A suggested list, which is open and not exhaustive, can be found in [Manifestation Other Relationship Types](../other-relationships/other_relationships_for_works_variants_manifestations_items/index.md#sec-manifestation_other_relationship_types).
 
 Or, compose a term to describe the relationship between the Manifestation being catalogued and the related Manifestation.
 
@@ -204,5 +203,4 @@ Similarly, in the case of restorations where separate Items or elements have bee
 [^1]: EN 15907 8.5 HasAsSubject; YCR, 1.2.7 Relationships With Other Moving Image Works or Other Kinds of Works
 [^2]: OLAC TF, Part I, Moving Image Work Definition and Boundaries, Commonly-Occurring Relationships, p. 16.
 [^3]: YCR, 1.1.7 Works based on previous works, pp. 24-25.
-[^4]: See Appendix [Aggregate or Carrier](/appendices/aggregates/identifying_aggregates/#sec-aggregate_or_carrier)
-
+[^4]: See Appendix [Aggregate or Carrier](../aggregates/identifying_aggregates/index.md#sec-aggregate_or_carrier)

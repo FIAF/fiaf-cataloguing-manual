@@ -1,15 +1,14 @@
----
-title: Other Relationships for Works, Variants, Manifestations, Items
----
+
+
 <a id="sec-work_variant_other_relationship_types"></a>
 ## Work/Variant Other Relationship Types
 | **Work/Variant Other Relationship Types** | **Term list** |
 | --- | --- |
 | “Is based on” | Adaptation from novels, plays, etc. |
 | “Is a performance of” | Recording of live stage presentations of music, plays, dance, etc. |
-| “Contains” | Compilation, series/serial, (see [Aggregates (Compilations, Multi-component productions)](/appendices/aggregates/)). |
-| “Is Contained in”/ “is part of” | Episode, number, part, extra (see [Aggregates (Compilations, Multi-component productions)](/appendices/aggregates/)). |
-| “Has a sequential relationship with” | Sequel, prequel, serial/series (see [Aggregates (Compilations, Multi-component productions)](/appendices/aggregates/)). |
+| “Contains” | Compilation, series/serial, (see [Aggregates (Compilations, Multi-component productions)](../../aggregates/index.md)). |
+| “Is Contained in”/ “is part of” | Episode, number, part, extra (see [Aggregates (Compilations, Multi-component productions)](../../aggregates/index.md)). |
+| “Has a sequential relationship with” | Sequel, prequel, serial/series (see [Aggregates (Compilations, Multi-component productions)](../../aggregates/index.md)). |
 | “Has a relationship to promotional material ” | Trailer, promo, banner, press-kit, poster, etc. |
 | “Has a relationship to an “object” (a non-moving image resource)” | Book, photos, drawings, paintings, etc. |
 | “Has a relationship to an archival document” | Script, production papers, author/agent personal papers, etc. |
@@ -31,8 +30,8 @@ title: Other Relationships for Works, Variants, Manifestations, Items
 | **Item Other Relationship Types** | **Term list** |
 | --- | --- |
 | “Has a relationship to another Item” |  |
-| “Contains” | Compilation (unintentional – mere use of the same carrier: see [Aggregates (Compilations, Multi-component productions)](/appendices/aggregates/)) |
-| “Is Contained in”/ “is part of” | Episode, number, part, etc. included in an unintentional/convenient compilation (see [Aggregates (Compilations, Multi-component productions)](/appendices/aggregates/)). |
+| “Contains” | Compilation (unintentional – mere use of the same carrier: see [Aggregates (Compilations, Multi-component productions)](../../aggregates/index.md)) |
+| “Is Contained in”/ “is part of” | Episode, number, part, etc. included in an unintentional/convenient compilation (see [Aggregates (Compilations, Multi-component productions)](../../aggregates/index.md)). |
 | “Associated separation negative” | Different colour elements held on separate Items whereby each Item would be needed to create a whole new print of the moving image, e.g. Yellow, Cyan and Magenta Separation Negatives, each of which have to be combined in Technicolor Three Colour Strip Process to make a new colour print. |
 | “Associated Sound/Associated image” | Where sound and image components are held on separate Item, and would both be needed to create a whole new print e.g. On DPX and Wav, 35mm Mute Pos and Magnetic track |
 | “Preservation clone of/Has preservation clone” | Reflecting association of 2 identical master digital copies, as per best practice for digital collections |
@@ -47,7 +46,7 @@ title: Other Relationships for Works, Variants, Manifestations, Items
     Shots of 1932 (United Kingdom, 1932) (home movie) 9.5mm Safety film Item related to paper donor agreement
 
 Record one or more “Other” relationship type terms to express the nature of the relationship to the Item, choosing the most specific term possible from existing relator terms lists, for example, “accompanied by,” “contained in,” etc. Selection should be made from a controlled list of values.
-A suggested list, which is open and not exhaustive, can be found in [Item Other Relationship Types](/other-relationships/other_relationships_for_works_variants_manifestations_items/#sec-item_other_relationship_types).
+A suggested list, which is open and not exhaustive, can be found in [Item Other Relationship Types](../../other-relationships/other_relationships_for_works_variants_manifestations_items/index.md#sec-item_other_relationship_types).
 
 In a note, add any additional information concerning the relationship considered relevant.
 

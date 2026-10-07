@@ -1,6 +1,5 @@
----
-title: Relationships
----
+
+
 **Agent**
 
 Include information on the agents (person, family, or corporate body) that are not named in a statement of responsibility but that have been attributed responsibility according to other (non-preferred) sources; on the variant forms of names, on possible changes in statements of responsibility or on every other details relating to a statement of responsibility.[^1]
@@ -26,10 +25,9 @@ Record details on the manufacturer (i.e. laboratory, studio, etc….), place of 
 
 **“Other relationships”**
 
-Record any additional information concerning all those relationships that are not covered by the Agent and Event relationships, the so-called “Other relationships” (see [Work/Variant Other Relationship Types](/other-relationships/other_relationships_for_works_variants_manifestations_items/#sec-work_variant_other_relationship_types)).
+Record any additional information concerning all those relationships that are not covered by the Agent and Event relationships, the so-called “Other relationships” (see [Work/Variant Other Relationship Types](../../../other-relationships/other_relationships_for_works_variants_manifestations_items/index.md#sec-work_variant_other_relationship_types)).
 
 [^1]: Based on RDA 2.20.3 Note on Statement of Responsibility
 [^2]: Based on RDA 2.20.6 Note on Production Statement
 [^3]: Based on RDA 2.20.7 Note on Publication Statement
 [^4]: Based on RDA 2.20.9 Note on Manufacture Statement
-
