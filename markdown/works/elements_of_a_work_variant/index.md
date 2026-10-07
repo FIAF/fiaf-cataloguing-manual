@@ -78,12 +78,12 @@ If an institution’s system allows, a "Type" can be applied with an Identifier 
 <a id="sec-work_title"></a>
 ## Title
 Record at least one title, identifying phrase, or name for the moving image Work.
-If your institution is applying the use of “Type” qualifiers, use “Title Type” to state the function of a particular title (see [Title Type](/works/elements_of_a_work_variant/#sec-work_title_type) and [Titles and Title Types](/appendices/titles/)).
+If your institution is applying the use of “Type” qualifiers, use “Title Type” to state the function of a particular title (see [Title Type](/titles/#sec-titles_title_types)
 
 Ideally, the record should at a minimum contain the “preferred title” (also referred to as “main” or “original” title) of the Work.
 Generally, it is the title of a moving image Work when first released, broadcast, published or transmitted (i.e. mounted online) in the country or countries of origin.
 It may differ from the title found on a particular manifestation of the Work; the actual title on the Manifestation is noted in the Manifestation Title element (see [Title](/manifestations/elements_of_a_manifestation/#sec-manifest_title)).
-See [Title Types](/appendices/titles/title_types/#sec-title_types) for additional information.
+See [Title Type](/titles/#sec-titles_title_types) for additional information.
 
 For creating titles for untitled or unidentified entities see [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](/appendices/titles/title_types/#sec-supplied_devised_titles).Television programmes and other types of content that are part of a series/serial should have both the series/serial title and the episode title included in the Work record.
 This may be via use of a “Title type” qualifier.
