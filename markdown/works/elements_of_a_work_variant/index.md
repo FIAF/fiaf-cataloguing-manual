@@ -85,7 +85,7 @@ Generally, it is the title of a moving image Work when first released, broadcast
 It may differ from the title found on a particular manifestation of the Work; the actual title on the Manifestation is noted in the Manifestation Title element (see [Title](/manifestations/elements_of_a_manifestation/#sec-manifest_title)).
 See [Title Type](/titles/#sec-titles_title_types) for additional information.
 
-For creating titles for untitled or unidentified entities see [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](/appendices/titles/title_types/#sec-supplied_devised_titles).Television programmes and other types of content that are part of a series/serial should have both the series/serial title and the episode title included in the Work record.
+For creating titles for untitled or unidentified entities see [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](/titles/supplied_devised_titles/#sec-supplied_devised_titles).Television programmes and other types of content that are part of a series/serial should have both the series/serial title and the episode title included in the Work record.
 This may be via use of a “Title type” qualifier.
 See [Titles and structuring of series/serials](/appendices/titles/title_types/#sec-titles_of_series_serials) for other options.
 
