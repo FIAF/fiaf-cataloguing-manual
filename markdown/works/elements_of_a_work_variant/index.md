@@ -78,7 +78,7 @@ If an institution’s system allows, a "Type" can be applied with an Identifier 
 <a id="sec-work_title"></a>
 ## Title
 Record at least one title, identifying phrase, or name for the moving image Work.
-If your institution is applying the use of “Type” qualifiers, use “Title Type” to state the function of a particular title (see [Title Type](/titles/#sec-titles_title_types)
+If your institution is applying the use of “Type” qualifiers, use “Title Type” to state the function of a particular title (see [Title Type](/titles/#sec-titles_title_types))
 
 Ideally, the record should at a minimum contain the “preferred title” (also referred to as “main” or “original” title) of the Work.
 Generally, it is the title of a moving image Work when first released, broadcast, published or transmitted (i.e. mounted online) in the country or countries of origin.
