@@ -204,6 +204,19 @@ Similarly, in the case of restorations where separate Items or elements have bee
 
       Nitrate Negative copy of Carnival (c.1927)
 
+
+      *Non-moving image Works/Items (e.g. Objects, documents, etc. relating to a specific Item)*
+
+!!! example "Example"
+    Shots of 1932 (United Kingdom, 1932) (home movie) 9.5mm Safety film Item related to paper donor agreement
+
+Record one or more “Other” relationship type terms to express the nature of the relationship to the Item, choosing the most specific term possible from existing relator terms lists, for example, “accompanied by,” “contained in,” etc. Selection should be made from a controlled list of values.
+A suggested list, which is open and not exhaustive, can be found in [Item Other Relationship Types](/other-relationships/other_relationships_for_works_variants_manifestations_items/#sec-item_other_relationship_types).
+
+In a note, add any additional information concerning the relationship considered relevant.
+
+If the cataloguing system allows, attach a digital file that reproduces any associated “document”.
+
 [^1]: EN 15907 8.5 HasAsSubject; YCR, 1.2.7 Relationships With Other Moving Image Works or Other Kinds of Works
 [^2]: OLAC TF, Part I, Moving Image Work Definition and Boundaries, Commonly-Occurring Relationships, p. 16.
 [^3]: YCR, 1.1.7 Works based on previous works, pp. 24-25.
