@@ -13,7 +13,7 @@ The underlying philosophy is to associate as many titles to the respective entit
 The different titles types have been combined in a single section to aid in real-world cataloguing, where one may have an item-in-hand but be making assessments about the title of the Work or Variant associated with the Item, as well as physical characteristics that are particular to the Item but which do not signal a change in the content itself.
 This is often the case for archival moving images where titles can be readily changed, misidentified by a well-meaning collector, or completely eliminated before the material reaches an institution.[^5]
 
-For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see [Purpose](/preliminary/purpose_scope_and_use/#sec-purpose).
+For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see [Display Issues](/preliminary/display_issues/#sec-punctuation).
 
 For sources of information for the Title, see [Sources of Information](/preliminary/prelim_sources_of_information/#sec-prelim_sources_of_information).
 
