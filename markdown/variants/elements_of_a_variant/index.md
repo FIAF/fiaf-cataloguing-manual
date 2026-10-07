@@ -117,6 +117,9 @@ For Variants, the date is typically related to events such as its creation, avai
 
 <a id="sec-date_precision"></a>
 ### Date Precision
+
+See related chapter on [Date Precision](/works/elements_of_a_work/#sec-date_precision).
+
 Where possible, provide a “Date Precision” qualifier to note if the date is precise, approximate, estimated, or a range.
 EDTF also provides codes to denote precision.
 For example, an uncertain or approximate date may be formatted thus: 2004-06~-11 (year and month are approximate; day known).
