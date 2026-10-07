@@ -1,6 +1,5 @@
----
-title: Attributes
----
+
+
 Provide additional or explanatory information for any WVMI attributes as desired, particularly in cases where this information is not recorded elsewhere in dedicated fields. [^1] [^2]:
 
 !!! example "Example"
@@ -11,4 +10,3 @@ Provide additional or explanatory information for any WVMI attributes as desired
 
 [^1]: FIAF 7.2.8.2. Names and Functions
 [^2]: FIAF 7.2.12. Series
-

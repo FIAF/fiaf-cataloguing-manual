@@ -1,5 +1,9 @@
 
 
+<a id="sec-prelim_sources_of_information"></a>
+
+
+
 Information entered in a record must be derived from a source.
 Acceptable sources of information for moving image Works, Variants, Manifestations and Items include primary and secondary sources.
 
@@ -49,7 +53,7 @@ The number of websites stating the same “fact” is not a safe indicator. Webs
 
 The same careful consideration should be taken by the cataloguer when using AI (Artificial Intelligence) for research or information purposes relating to moving images. AI tools, such as Google AI Overview, ChatGPT, Google Gemini, Microsoft Copilot, etc. can be useful for finding out facts about moving images (and these usually cite sources), however, AI heavily uses the worldwide web and resources on it as its source. It can also be inconsistent with results, in terms of the same question eliciting different results using different AI powered search engines, and also the same question phrased in a subtly different way in the same search engine sometimes bringing back conflicting answers. It is best to be precise rather than very general in how questions are phrased, but conversely not too complex as that can also lead to divergent answers or results.
 
-When taking details and information from secondary source materials then cite those sources, either in relevant notes fields on a record as a [Cataloguer’s Notes](/appendices/cataloguers-notes/), or linking to a related non-moving image collection record within your institution's database systems if relevant, e.g. a related associative link to a book record or periodical article record. 
+When taking details and information from secondary source materials then cite those sources, either in relevant notes fields on a record as a [Cataloguer’s Notes](../../appendices/cataloguers-notes/index.md#sec-cataloguers_notes), or linking to a related non-moving image collection record within your institution's database systems if relevant, e.g. a related associative link to a book record or periodical article record. 
 
 If citing websites take a note of the full title and author where relevant, not just the URL link. The latter can change or the website become defunct over time, so fuller precise details are advisable.
 

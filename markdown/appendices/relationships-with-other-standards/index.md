@@ -91,7 +91,7 @@ It remains essential to users of archival moving image material that information
 
 In moving image archives, both the occurrence of a change in the content and the extent of the change are important. In most cases, for moving image materials, the changes in content are a function of some form of editing.
 
-The treatment of the concepts of “versions with major changes” and “variations with minor changes” in this revision shift to a focus on changes in content and changes to carrier and correlate to the boundaries between the variants (changes in content) of a work and its manifestations (changes in carrier). This does not replace the need to create a version with major changes as a new Work where this is necessary and appropriate [Boundaries between Works and Variants](/boundaries/boundaries_between_works_and_variants/).
+The treatment of the concepts of “versions with major changes” and “variations with minor changes” in this revision shift to a focus on changes in content and changes to carrier and correlate to the boundaries between the variants (changes in content) of a work and its manifestations (changes in carrier). This does not replace the need to create a version with major changes as a new Work where this is necessary and appropriate [Boundaries between Works and Variants](../../boundaries/boundaries_between_works_and_variants/index.md).
 
 <a id="sec-attributes"></a>
 ### Attributes
@@ -139,14 +139,11 @@ The basic principle of transcription is an area in which archival moving image c
 
 Because, however, it is not always possible for a cataloguer to determine an original release title, guidelines are also provided for choice of the preferred title of the work when either: 1) the concept of original release title is not applicable (as in the case of unedited footage), or when 2) a cataloguer is unable, through research, to determine the original release title.
 
-[^1]: FIAF, 1991, p. ix.
-[^2]: Adapted from AMIM2, p.1.
 [^3]: The other two conceptual models are FRAD (Functional Requirements for Authority Data), [http://www.ifla.org/node/7923](http://www.ifla.org/node/7923) and FRSAD Functional Requirements for Subject Authority Data, [http://www.ifla.org/node/1297](http://www.ifla.org/node/1297).
 [^4]: FRBR Final Reports, p. 3.
 [^5]: RDA 0.0 and 0.1, p. 0-1.
 [^6]: [https://tech.ebu.ch/MetadataEbuCore](https://tech.ebu.ch/MetadataEbuCore)
 [^7]: [http://pbcore.org/](http://pbcore.org/)
-[^8]: Taken from EN 15907. Item – Definition from the standard. [http://filmstandards.org/fsc/index.php/EN_15907_Item](http://filmstandards.org/fsc/index.php/EN_15907_Item)
 [^9]: FRBR Final Report, pp. 12-16; Taylor, p. 4.
 [^10]: Yee. “The Concept of Work for Moving Image Materials, p. 33.
 [^11]: EN 15907, 4.1.1, p. 8.

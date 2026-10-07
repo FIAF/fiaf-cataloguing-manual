@@ -1,9 +1,8 @@
----
-title: Attributes of a Manifestation
----
+
+
 <a id="sec-manifestation_type"></a>
 ## Manifestation Type
-As mentioned at [Boundaries between Manifestations](/boundaries/boundaries_between_manifestations), a Manifestation is defined on the basis of two criteria: changes in the publication context and changes in format.
+As mentioned at [Boundaries between Manifestations](../../boundaries/boundaries_between_manifestations/index.md), a Manifestation is defined on the basis of two criteria: changes in the publication context and changes in format.
 The element Manifestation Type describes the specific type of change.
 
 The Manifestation Type is expressed by a phrase denoting the relationship between the Manifestation and the associated Work/Variant, for example, “pre-release,” “theatrical distribution,” “not for release,” “original,” etc.
@@ -150,7 +149,7 @@ A published Manifestation for viewing in the home or similar small-scale private
 
 The most used formats are VHS, DVD, and Laserdisc, but this definition can also include 9.5mm Pathé Baby or 8mm packages in use from the 1950s-1980s (e.g.. the 1977 Star Wars home video in 8mm).
 
-NOTE: When the production process involves changes related to the publication, marketing, etc. (e.g., a change in publisher, a repackaging, a new distributor and so on), the resulting product may be considered a new Manifestation as well (see [Boundaries between Manifestations](/boundaries/boundaries_between_manifestations/#sec-boundaries_between_manifestations)).
+NOTE: When the production process involves changes related to the publication, marketing, etc. (e.g., a change in publisher, a repackaging, a new distributor and so on), the resulting product may be considered a new Manifestation as well (see [Boundaries between Manifestations](../../boundaries/boundaries_between_manifestations/index.md)).
 
 !!! example "Example"
     Fellini Satyricon (Italy, 1969, Federico Fellini)
@@ -224,7 +223,7 @@ Refers to manifestations which represent the outcome(s) of an institution’s in
 <a id="sec-restoration"></a>
 ### Restoration
 Refers to manifestations which represent the outcome(s) of restoration events/activities, usually involving selection and aggregation of materials from diverse source elements to replicate an ‘original’ or ‘ideal’ manifestation.
-Some institutions may use this to refer to restorations undertaken by the institution (not to be confused with the actual published Variant, resulting from reconstruction made by aggregating different sources, see [Boundaries between Works and Variants](/boundaries/boundaries_between_works_and_variants/).
+Some institutions may use this to refer to restorations undertaken by the institution (not to be confused with the actual published Variant, resulting from reconstruction made by aggregating different sources, see [Boundaries between Works and Variants](../../boundaries/boundaries_between_works_and_variants/index.md).
 
 If required there is the option of creating more than one Restoration Manifestation to group specific outcomes of the project, e.g. a Manifestation for a Demonstration Reel, Raw scans, final digital DCP and DCDM materials resulting from the restoration process, etc. particularly where there may be several Items, or copies, relating to these on different formats.
 

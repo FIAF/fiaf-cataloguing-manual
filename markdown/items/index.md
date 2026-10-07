@@ -1,6 +1,5 @@
----
-title: Moving Image Items
----
+
+
 
 !!! abstract "Definition"
     The physical product of a Manifestation of a Work or Variant, i.e. the physical copy of a Work or Variant.
@@ -46,4 +45,3 @@ A Manifestation record is created (e.g. Manifestation Type "Internet").
 An Item record is created, including all the technical metadata available. You might used tools like Media Info to analyse the file. Some systems can pull information directly from the file when the item is created and stored in the long term storage.
 
 [^1]: Digital medium definition taken from CEN’s “Film Identification – enhancing interoperability of metadata. Element sets and structures. FprEN 15907:2010 (E)
-

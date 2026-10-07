@@ -1,6 +1,5 @@
----
-title: Restorations
----
+
+
 
 A moving image restoration is the complex process of returning a moving image to a known, earlier state that is as faithful as possible to its original release, respecting its authenticity, historical integrity, and the creators' intentions. It involves research, technical repair of physical damage, and the removal of time-based deterioration using both analogue and digital technologies. [Google AI - Is that quoting from an actual paragraph or devising a definition based on sentences scattered throughout the Ethics document?]
 
@@ -94,5 +93,3 @@ Digital file Items of Restorations that are used for internet streaming by the i
 The same data can be collected, grouped and recorded in any system. For example: 
 
 If an index card catalogue, or non-relational database, then add the information to an existing record for the original film, possibly under a heading of “Restoration version + [date]”. The original source of any new Items for the project should also be recorded. Or else create a new record for the restoration version, and add the details on that, relating it to the original film record using a “See also” reference
-
-

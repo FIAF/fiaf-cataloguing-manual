@@ -1,6 +1,4 @@
----
-title: Attributes of a Moving Image Work
----
+
 <a id="sec-work_variant_description_type"></a>
 ## Work Description Type[^1]
 The description type establishes the general focus of the Work being catalogued, whether it is a complete Work in one part, a Work made up of several parts, or a physical group or collection of Works.
@@ -107,7 +105,7 @@ Aggregate compilation videos/DVDs that are collections of individual works exist
 
 - Portrait of a miner would be created as the work title, with the description level of Collection.
 
-- Each of the Mining review Works used in Portrait of a miner would then be linked to it and assigned a “contained in” relationship (see [Modelling Aggregates](/appendices/aggregates/modelling_aggregates/#sec-modelling_aggregates)).
+- Each of the Mining review Works used in Portrait of a miner would then be linked to it and assigned a “contained in” relationship (see [Modelling Aggregates](../../aggregates/modelling_aggregates/index.md#sec-modelling_aggregates)).
 
 Provide a list of the compiled works contained in the Collections Work in its Synopsis or Summary field.
 
