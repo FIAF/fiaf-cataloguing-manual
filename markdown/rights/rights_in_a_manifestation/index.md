@@ -1,7 +1,7 @@
----
-title: Rights in a Manifestation
----
+
+
 The rights associated with a Manifestation are typically contractual exploitation rights arising from licences, agreements, assignments or other legal arrangements between the Work’s copyright owner or intermediary (e.g. sales agent, distributor) and a third party, relating to a Work and its component elements.  These contracts or agreements enable a third party to legally exploit the work by copying it, distributing, broadcasting or publishing it, extracting from it, incorporating it in another work, etc.
+
 
 Exploitation rights are frequently fragmented across territories, rights, formats, platforms, language versions, and time periods and typically licences can be exclusive or non-exclusive (in other words, multiple parties can be granted similar exploitation rights to the same work at the same time).  
 

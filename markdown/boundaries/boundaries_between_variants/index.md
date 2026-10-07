@@ -1,6 +1,5 @@
----
-title: Boundaries between Variants
----
+
+
 <a id="sec-boundaries_between_variants"></a>
 It is possible for a moving image Variant to be modified in such a way as to create a new Variant related to the previous one[^1]. The boundaries between one Variant and another may be drawn on the basis of the following alterations to the content:[^2]
 

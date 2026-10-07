@@ -1,19 +1,18 @@
----
-title: Elements of a Moving Image Item
----
+
+
 A majority of the physical and digital description elements of moving image Items are intended to be inherited from the Manifestations, as they serve as the exemplars of Manifestations.
 In some databases, selection of a general media type initiates provision of element fields relevant to that type at a Manifestation level, or an Item level, or both (e.g. in a 2 Level hierarchy.
-See “Shallow hierarchy model: 2 levels” in [Elements of description across Works, Variants, Manifestations, and Items](/preliminary/core_elements_of_description/#sec-elements_of_description)).
+See “Shallow hierarchy model: 2 levels” in [Elements of description across Works, Variants, Manifestations, and Items](../../preliminary/core_elements_of_description/index.md#sec-elements_of_description)).
 
 Ideally the information need only be recorded once irrespective of where in the data structure an institution must place it.
 Therefore guidelines for the treatment of physical/digital description elements are explained fully in the Manifestation chapter.
 
-This chapter contains Item-specific physical/digital description elements beginning at [Item Specifics/Extent (e.g. physical/Digital description)](/items/elements_of_a_moving_image_item/#sec-item_specifics_extent).
+This chapter contains Item-specific physical/digital description elements beginning at [Item Specifics/Extent (e.g. physical/Digital description)](../../items/elements_of_a_moving_image_item/index.md#sec-item_specifics_extent).
 For example, properties such as Extent and Format at the Manifestation level represent the “ideal,” and item-specific information will capture where it differs from this ideal.
 Only elements that are considered Item-specific have guidelines for the recording of data.
 Physical/digital description elements that are considered Manifestation-specific, but which may be repeated at the Item level, contain hyperlinks to the relevant sections in the Manifestation chapter.
 
-Further data relating to the condition, preservation, location, and, acquisition, accessioning, and source of the Item are also recommended elements for the Item (see [Access Conditions](/items/elements_of_a_moving_image_item/#sec-access_conditions)). [ADD LINK TO ACQUISITION CHAPTER]
+Further data relating to the condition, preservation, location, and, acquisition, accessioning, and source of the Item are also recommended elements for the Item (see [Access Conditions](../../items/elements_of_a_moving_image_item/index.md#sec-access_conditions)). [ADD LINK TO ACQUISITION CHAPTER]
 
 These may be either added to the Item description itself or, where this is not possible, related to other separate files or databases, via physical link or text indication.
 
@@ -39,7 +38,7 @@ Examples: Barcode, Shelf mark, Accession number, UUID (Universally Unique Identi
 ## Title
 Record at least one title, identifying phrase, or name for the moving image Item Title.
 
-If multiple titles are recorded, where allowable, associate a “Title Type” to a title for differentiation between the various types of titles (see [Title Types](/appendices/titles/title_types/#sec-title_types)).
+If multiple titles are recorded, where allowable, associate a “Title Type” to a title for differentiation between the various types of titles (see [Title Types](../../titles/title_types/index.md#sec-title_types)).
 
 In most cases the title of an Item will be the same as that of the Manifestation to which it pertains.
 
@@ -47,14 +46,14 @@ The title of an Item can sometimes differ, either slightly or wholly from the ti
 In particular, this may be the case where an incomplete physical product of the Manifestation has been acquired.
 For example, if a film in the collection is missing the first reel where opening title credits usually appear, the Item will not have a title to be transcribed.
 
-For creating titles for untitled or unidentified entities see [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](/appendices/titles/title_types/#sec-supplied_devised_titles)
+For creating titles for untitled or unidentified entities see [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](../../titles/supplied_devised_titles/index.md#sec-supplied_devised_titles)
 
 For the treatment of Aggregates (e.g. compilations of whole Manifestations) as applied to Items, see the appendix concerning 
-[Titling of Aggregates](/appendices/aggregates/titling_of_aggregates)
+[Titling of Aggregates](../../aggregates/titling_of_aggregates/index.md)
 
 For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see sections within [ADD LINK TO Preliminary Notes main chapter]
 
-For sources of information for the Title, see [Sources of Information](/preliminary/prelim_sources_of_information/#sec-prelim_sources_of_information).
+For sources of information for the Title, see [Sources of Information](../../preliminary/prelim_sources_of_information/index.md#sec-prelim_sources_of_information).
 
 <a id="sec-item_title_type"></a>
 ### Title Type
@@ -63,7 +62,7 @@ There can be title information written on leader, cans, and video containers.
 Sometimes this information is different to what is in the credits; sometimes it is the only source of information to help identify an Item’s content.
 
 Note the source of title information.
-For Items where the only title information is found on a can or leader, use an Acquisition Title Type(s) (see [Alternative title types](/appendices/titles/title_types/#sec-alternative_title_types)) or descriptive words such as “Title on can” or “Title on leader.”
+For Items where the only title information is found on a can or leader, use an Acquisition Title Type(s) (see [Alternative title types](../../titles/title_types/index.md#sec-alternative_title_types)) or descriptive words such as “Title on can” or “Title on leader.”
 
 <a id="sec-holding_institution"></a>
 ## Holding Institution[^1]
@@ -75,7 +74,7 @@ Optionally, if available, record a suitable repository identifier or a registere
 #### Item Location
 Item descriptions should indicate a storage location number in order to provide access and retrieval.
 Movements and changes of location should also be logged in order to ascertain the precise location of an Item at any given time.
-If possible, use the Item Identifier and Identifier Type fields to note an Item’s location (see [Identifier](/items/elements_of_a_moving_image_item/#sec-item_identifier)).
+If possible, use the Item Identifier and Identifier Type fields to note an Item’s location (see [Identifier](../../items/elements_of_a_moving_image_item/index.md#sec-item_identifier)).
 
 This could be a single simple field, or could include multiple fields to reflect various electronic package or barcode numbers that may be attached to each individual can or container, shelf, or whatever is applicable to an individual institution.
 
@@ -142,7 +141,7 @@ Recording this high-level information will enable simple searching for only film
 
 Record only if this information is not captured at the Manifestation level or if required at the Item level by the system in use.
 
-A suggested list can be found in [Manifestation General Media Type](/manifestations/elements_of_a_manifestation/#general-media-type).
+A suggested list can be found in [Manifestation General Media Type].
 
 For reasons of clarity and to avoid redundancy, optionally, institutions can decide to skip the general media type description for film and video, since it is already implicit in the specific media type.
 
@@ -156,7 +155,7 @@ For digital files, it is most important for users to immediately identify the fi
 For optical media, only add commercially produced media here. If the optical media is “writable” and is being used to store a digital file, put the digital file format in the general media type, and the optical storage media in specific media type.
 
 Record the specific media type, selecting from a suitable controlled list.
-A suggested list, which is open and not exhaustive, can be found in [Manifestation Specific Media Type](/manifestations/elements_of_a_manifestation/#specific-media-type).
+A suggested list, which is open and not exhaustive, can be found in [Manifestation Specific Media Type].
 
 <a id="sec-item_status"></a>
 ### Item Status
@@ -171,7 +170,7 @@ Description of the preservation or access status of the Item. Select term from a
 
 <a id="sec-sound"></a>
 ### Sound
-Technical specifications relating to the fixation of sound in a moving image Manifestation/Item (see [Sound Characteristics of a Manifestation](/manifestations/elements_of_a_manifestation/#sec-sound_characteristics_of_a_manifestation)).
+Technical specifications relating to the fixation of sound in a moving image Manifestation/Item (see [Sound Characteristics of a Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-sound_characteristics_of_a_manifestation)).
 This element is for high-level description of sound on the item; i.e., noting whether it has sound, is silent, etc.
 
 Indicate the presence or absence of sound in the Item. Selection should be made from a controlled list of terms, e.g.:
@@ -193,7 +192,7 @@ If the Item has sound, note here the track configuration (e.g., mono, stereo, et
 
 <a id="sec-sound_system"></a>
 ### Sound System
-See also [Sound Characteristics of a Manifestation](/manifestations/elements_of_a_manifestation/#sec-sound_characteristics_of_a_manifestation)
+See also [Sound Characteristics of a Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-sound_characteristics_of_a_manifestation)
 
 Describes the technical or proprietary system used to record the sound on a Item. Select from a controlled list, e.g.:
 
@@ -206,7 +205,7 @@ Describes the technical or proprietary system used to record the sound on a Item
 
 <a id="sec-colour"></a>
 ### Colour
-For full instructions, see [Colour Characteristics of a Manifestation](/manifestations/elements_of_a_manifestation/#sec-colour_characteristics_of_a_manifestation).
+For full instructions, see [Colour Characteristics of a Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-colour_characteristics_of_a_manifestation).
 
 The presence of colour(s), tone(s), etc. in an Item.[^7]
 
@@ -214,7 +213,7 @@ Record only if this information is not captured at the Manifestation level or if
 
 <a id="sec-unit_number"></a>
 ### Unit Number
-For full instructions see [Logical Extent of a Manifestation](/manifestations/elements_of_a_manifestation/#sec-logical_extent_of_a_manifestation)
+For full instructions see [Logical Extent of a Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-logical_extent_of_a_manifestation)
 
 The number of discrete logical units that make up the moving image Item. Item unit number(s) may differ from that of the associated Manifestation. The unit number in Manifestation relates to the ideal, whereas the Item unit number refers to the actual units held by the institution, e.g. an institution may have only acquired 3 reels of a 4-reel film.
 
@@ -240,7 +239,7 @@ Alternatively, provide for a distinguishing “precision” field specifying if 
 
 <a id="sec-projection_characteristics"></a>
 ### Projection Characteristics
-For full instructions, see [Projection Characteristics of a Manifestation](/manifestations/elements_of_a_manifestation/#sec-projection_characteristics_of_a_manifestation)
+For full instructions, see [Projection Characteristics of a Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-projection_characteristics_of_a_manifestation)
 
 The projection characteristics of a Manifestation/Item include aspect ratio and aperture or image format.
 
@@ -256,7 +255,7 @@ Duration in minutes of the moving image(s) contained in the Item, not the total 
 Optionally, include minutes and seconds, or, for a higher level of precision and to enable calculations, use the format HH:MM:SS (hours, minutes, seconds).
 This numeric format will help to calculate estimated digital storage in analogue-to-digital transfer projects.
 
-This duration represents actual temporal extent, rather than the “ideal” temporal extent, which is recorded for Manifestations (see [Duration of a Manifestation](/manifestations/elements_of_a_manifestation/#sec-duration_of_a_manifestation)).
+This duration represents actual temporal extent, rather than the “ideal” temporal extent, which is recorded for Manifestations (see [Duration of a Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-duration_of_a_manifestation)).
 Actual duration is a characteristic of a singular Item, since it can differ among multiple Items exemplifying the same Manifestation.
 
 If the duration/running time of an Item is uncertain, use a question mark following the unit count or record the uncertain number preceded by “approximately.” If necessary, in a note, give an explanation for the estimated duration/running time, where known.
@@ -274,7 +273,7 @@ In this qualifier, note whether the duration is exact, approximate, estimated, o
 <a id="sec-frame_rate"></a>
 ### Frame Rate
 Frame rate is the native or preferred (if silent cinema) frame rate for the Item.
-Information related to the frame rate used during a digitisation process is added to Transfer Speed (see [Transfer Speed](/items/elements_of_a_moving_image_item/#sec-transfer_speed)).
+Information related to the frame rate used during a digitisation process is added to Transfer Speed (see [Transfer Speed](../../items/elements_of_a_moving_image_item/index.md#sec-transfer_speed)).
 
 Frame Rate and Transfer Speed can sometimes be the same thing, and at other times different, depending on whether it is an Item that is being scanned into a digital file or an Item that is a digital file to start with. For example, a silent film that was shot at a 16 fps frame rate could be transferred at 23.98 fps. In this case, the resulting digital file would have a frame rate of 23.98, even though the original film is 16 fps.
 
@@ -344,7 +343,7 @@ Note that bit depth can be used in describing both video and audio files.
 
 <a id="sec-transfer_speed"></a>
 ### Transfer Speed
-If the Transfer Speed is the same as the Frame Rate [Frame Rate](/items/elements_of_a_moving_image_item/#sec-frame_rate), these values should be the same.
+If the Transfer Speed is the same as the Frame Rate [Frame Rate](../../items/elements_of_a_moving_image_item/index.md#sec-frame_rate), these values should be the same.
 However, silent films might be transferred at a higher speed than the original frame rate.
 For example, a silent film that was shot at a 16fps frame rate could be transferred at 23.98 fps.
 It is important to note the transfer speed so an institution can identify how the transferred Item compares to the source Item.
@@ -407,7 +406,7 @@ Location information should be indicated in order to provide access and retrieva
 
 <a id="sec-notes_for_items"></a>
 ## Notes for Items
-Notes for Items are an annotation providing additional information relating specifically to Item attributes and relationships.[^9] See [Cataloguer’s Notes](/appendices/cataloguers-notes/). 
+Notes for Items are an annotation providing additional information relating specifically to Item attributes and relationships.[^9] See [Cataloguer’s Notes](../../appendices/cataloguers-notes/index.md). 
 
 Individual institutions may also choose to capture further data as required, e.g. line standard, or source device/software (used in creating in-house copies of acquired moving images), etc.
 

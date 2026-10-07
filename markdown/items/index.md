@@ -1,6 +1,5 @@
----
-title: Moving Image Items
----
+
+
 
 !!! abstract "Definition"
     The physical product of a Manifestation of a Work or Variant, i.e. the physical copy of a Work or Variant.
@@ -38,4 +37,3 @@ An institution may opt to create new Manifestations for digital Items, such as t
 
 
 [^1]: Digital medium definition taken from CEN’s “Film Identification – enhancing interoperability of metadata. Element sets and structures. FprEN 15907:2010 (E)
-

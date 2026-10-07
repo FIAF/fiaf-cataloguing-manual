@@ -1,9 +1,8 @@
----
-title: Attributes of a Manifestation
----
+
+
 <a id="sec-manifestation_type"></a>
 ## Manifestation Type
-As mentioned at [Boundaries between Manifestations](/boundaries/boundaries_between_manifestations), a Manifestation is defined on the basis of two criteria: changes in the publication context and changes in format.
+As mentioned at [Boundaries between Manifestations](../../boundaries/boundaries_between_manifestations/index.md), a Manifestation is defined on the basis of two criteria: changes in the publication context and changes in format.
 The element Manifestation Type describes the specific type of change.
 
 The Manifestation Type is expressed by a phrase denoting the relationship between the Manifestation and the associated Work/Variant, for example, “pre-release,” “theatrical distribution,” “not for release,” “original,” etc.
@@ -24,7 +23,7 @@ It applies to production material in general, including: original shooting eleme
 
 It may also include, censorship submission prints, working assembly prints, rushes, costume tests, lighting tests, make-up tests, etc. where an institution may need or prefer to group together all production material, i.e. an institution may usually create rushes and tests as separate individual associated records but, where these are acquired as part of a large collection of production material for one particular moving image it prefers, for practical reasons, to keep records together for ease of access or for restoration work purposes.
 
-An institution may create Works in their own right for different in-production filmed aspects, e.g. Screen Tests, Rushes, etc. which are then related to the main, final moving image Work in an associative relationship. Each of these Works would then have their own linked Pre-Release Manifestation. Decisions on this may depend on the quantity and/or nature of materials acquired and an institution's preference. For further details about possibilities and options in structuring and cataloguing production materials and using Pre-release Manifestations see [Titles and structuring for production materials](/appendices/titles/title_types/#titles-and-structuring-for-production-materials-including-out-takes-screen-tests-rushes).
+An institution may create Works in their own right for different in-production filmed aspects, e.g. Screen Tests, Rushes, etc. which are then related to the main, final moving image Work in an associative relationship. Each of these Works would then have their own linked Pre-Release Manifestation. Decisions on this may depend on the quantity and/or nature of materials acquired and an institution's preference. For further details about possibilities and options in structuring and cataloguing production materials and using Pre-release Manifestations see [Titles and structuring for production materials](../../titles/production_materials/index.md).
 
 Pre-Release Manifestation can also be used with moving images which started production but were never finished and for which footage exists and may have been acquired by an institution.
 
@@ -161,7 +160,7 @@ A published Manifestation for viewing in the home or similar small-scale private
 
 The most used formats are VHS, DVD, and Laserdisc, but this definition can also include 9.5mm Pathé Baby or 8mm packages in use from the 1950s-1980s (e.g.. the 1977 Star Wars home video in 8mm).
 
-NOTE: When the production process involves changes related to the publication, marketing, etc. (e.g., a change in publisher, a repackaging, a new distributor and so on), the resulting product may be considered a new Manifestation as well (see [Boundaries between Manifestations](/boundaries/boundaries_between_manifestations/#sec-boundaries_between_manifestations)).
+NOTE: When the production process involves changes related to the publication, marketing, etc. (e.g., a change in publisher, a repackaging, a new distributor and so on), the resulting product may be considered a new Manifestation as well (see [Boundaries between Manifestations](../../boundaries/boundaries_between_manifestations/index.md)).
 
 !!! example "Example"
     Fellini Satyricon (Italy, 1969, Federico Fellini)
@@ -235,7 +234,7 @@ Refers to manifestations which represent the outcome(s) of an institution’s in
 <a id="sec-restoration"></a>
 ### Restoration
 Refers to manifestations which represent the outcome(s) of restoration events/activities, usually involving selection and aggregation of materials from diverse source elements to replicate an ‘original’ or ‘ideal’ manifestation.
-Some institutions may use this to refer to restorations undertaken by the institution (not to be confused with the actual published Variant, resulting from reconstruction made by aggregating different sources, see [Boundaries between Works and Variants](/boundaries/boundaries_between_works_and_variants/).
+Some institutions may use this to refer to restorations undertaken by the institution (not to be confused with the actual published Variant, resulting from reconstruction made by aggregating different sources, see [Boundaries between Works and Variants](../../boundaries/boundaries_between_works_and_variants/index.md).
 
 If required there is the option of creating more than one Restoration Manifestation to group specific outcomes of the project, e.g. a Manifestation for a Demonstration Reel, Raw scans, final digital DCP and DCDM materials resulting from the restoration process, etc. particularly where there may be several Items, or copies, relating to these on different formats.
 

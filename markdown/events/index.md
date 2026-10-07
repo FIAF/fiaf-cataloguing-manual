@@ -1,6 +1,5 @@
----
-title: Events
----
+
+
 
 An Event characterises occurrences in the lifecycle of a moving image Work, Variant, Manifestation, or Item. In addition, instances of any Event type can have Agent and "Other" relationships.
 
@@ -13,4 +12,3 @@ The EN 15907 standard gives the following event types:
 - **Production Event** - A specific event in the creation of the moving image work. A distinct event in the course of production of a moving image work or variant that is significantly separated in space and/or time from the main production event, or is known with a greater amount of detail. Examples are dates and locations for casting, shootings or other recordings, or for particular post-production activities. Other production events may include the acquisition or rental of noteworthy property or accessories for the purpose of making the film. A production event may be associated with instances of Agent in the role of their specific involvement with the event.  
 - **Preservation Event** - An event in which the contents of one or more items (or fragments) from manifestations of a moving image were transferred to create a new manifestation or item with the intent of safeguarding the contents of a moving image from decay. Some preservation activities may result in a new variant, particularly if the contents of the moving image is affected by the process.  A preservation event shall be associated with the variant, manifestation or item that resulted from the preservation process.  
 [ADD LINK TO FILMSTANDARDS WEBSITE FOR EACH BULLET POINTED TYPE OF EVENT]
-

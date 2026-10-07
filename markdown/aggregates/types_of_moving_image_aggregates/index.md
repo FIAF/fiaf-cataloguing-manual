@@ -1,6 +1,4 @@
----
-title: Types of moving image Aggregates
----
+
 <a id="sec-collection_aggregates"></a>
 ## Collection Aggregates
 Sets of multiple independently created Works/Variants, which are “published”[^1] together in a single manifestation.
@@ -51,7 +49,6 @@ Identical moving image Works/Variants but in different languages released on one
 
 For Aggregate Manifestations record the length/duration of the whole, i.e. the total of all the units/running times that constitute the Aggregate.
 In addition there is the option to qualify this with details of the duration of each individual unit in either a Notes field, or in multiple occurrences of the duration fields, depending on what systems used permit or an institution decides.
-(See [Physical Extent of an Aggregate Manifestation](/manifestations/elements_of_a_manifestation/#sec-physical_extent_of_an_aggregate_manifestation) and [Duration of an Aggregate Manifestation](/manifestations/elements_of_a_manifestation/#sec-duration_of_an_aggregate_manifestation))
+(See [Physical Extent of an Aggregate Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-physical_extent_of_an_aggregate_manifestation) and [Duration of an Aggregate Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-duration_of_an_aggregate_manifestation))
 
 [^1]: Published within the context of moving image means released or broadcast, and may also include in-house aggregate creation
-

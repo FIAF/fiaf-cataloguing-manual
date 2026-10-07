@@ -1,6 +1,4 @@
----
-title: Elements
----
+
 Provide additional or explanatory information for any WVMI elements, particularly in cases where this information is not recorded elsewhere in dedicated fields.
 This is offered for users that do not have the option of structuring this information as described in these guidelines.
 
@@ -137,4 +135,3 @@ Note any indication that the Item is in need of servicing prior to being accesse
 [^5]: Based on FIAF 7.2.2. Language
 [^6]: Based on AMIM2 5C3.
 [^7]: Based on FIAF 1991, 5.3.4.2.
-

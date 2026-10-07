@@ -1,6 +1,5 @@
----
-title: Further Event Types for Items
----
+
+
 
 The following are further Event Types relating to Item - Acquisition, Accession, Loan, Deposit, De-Acquisition and Inspection Events. Those institutions which use systems that do not have or use Events will usually capture this data in fields embedded within the Item record or linking to records in another database, e.g. a possible separate Donors database with its own acquisition records capturing names and dates; or similarly an Accessions database, etc.
 
@@ -114,4 +113,3 @@ The date or time span in which the inspection activity was performed. (Dates sho
 **Inspection detail**
 
 Information describing the condition of the Item in greater detail. In many cases there will be fields embedded in Item records that relate to condition and different inspections. [ADD LINK TO COPY CONDITION BASE/EMULSION, COPY CONDITION PERFORATIONS, AND iTEM SURFACE DEPOSIT sections in Items - elements_of_a_moving_image_item]
-
