@@ -204,8 +204,7 @@ Similarly, in the case of restorations where separate Items or elements have bee
 
       Nitrate Negative copy of Carnival (c.1927)
 
-
-      *Non-moving image Works/Items (e.g. Objects, documents, etc. relating to a specific Item)*
+*Non-moving image Works/Items (e.g. Objects, documents, etc. relating to a specific Item)*
 
 !!! example "Example"
     Shots of 1932 (United Kingdom, 1932) (home movie) 9.5mm Safety film Item related to paper donor agreement
