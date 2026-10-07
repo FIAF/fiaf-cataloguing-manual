@@ -10,6 +10,8 @@ title: Moving Image Other Relationships
 If other relationships[^1] are desired or appropriate, express relationships that are not covered by the Agent, Subject, and Event relationships, including all kinds of aggregation and re-use of Works and their Variants.
 (See [Aggregates (Compilations, Multi-component productions)](/appendices/aggregates/).)
 
+These equate to the HasOtherRelation in the Relationships section of the EN15907 data model for Works. [ADD FOOTNOTE WITH LINK TO https://filmstandards.org/fsc/index.php?title=EN_15907_Cinematographic_WorK]
+
 Commonly-occurring relationships include:[^2]
 
 *Work(s) that the moving image Work is based on (e.g. moving images adapted from novels, plays, etc.)*
@@ -79,14 +81,20 @@ Remember, a Work based on a pre-existing Work should be identified as a Variant 
 
 <a id="sec-moving_image_works_relationships_variants"></a>
 ### Other Relationships between Moving Images Works and Variants
-Express the relationship between a moving image Work and a moving image Variant (e.g., Part/part of).
+Express the relationship between a moving image Work and a moving image Variant e.g. Part/part of; Parent/child; related, etc.
+
 Describe or demonstrate Work-to-Variant relationships through linking to the Work identifier, through the usage of relator terms, or according to the confines of your data structure.
+
+This equates to the HasVariant in the Relationships section of the EN15907 data model for Works.
+
 
 <a id="sec-moving_image_works_relationships_manifestations"></a>
 ### Other Relationships between Moving Images Works and Manifestations
-Express the relationship between a moving image Work or Variant and a moving image Manifestation (e.g., Part/part of).
+Express the relationship between a moving image Work or Variant and a moving image Manifestation, e.g. Part/part of; Parent/child; related, etc.
+
 Describe or demonstrate Work-to-Manifestation relationships through linking to the Work identifier, through the usage of relator terms, or according to the confines of your data structure.
 
+This equates to the HasManifestation in the Relationships section of the EN15907 data model for Works.
 
 <a id="sec-manifestations_other_relationships"></a>
 ## Manifestations
@@ -142,9 +150,12 @@ If the cataloguing system allows the procedure, attach a digital file that repro
 
 <a id="sec-manifest_relationships_items"></a>
 ### Other Relationships between Moving Images Manifestations and Items(s)
-Express the relationship between a moving image Manifestation and a moving image Item (e.g. Part/part of).
+Express the relationship between a moving image Manifestation and a moving image Item, e.g. Part/part of; Parent/child; related, etc.
 
-Here could be listed the unique Item identifiers associated to this Manifestation, noting their “part of “ relationships to the Manifestation.
+Here could be listed the unique Item identifiers associated to this Manifestation, noting their “part of “ relationships to the Manifestation in systems using a part/part of hierarchical structuring or linked related association.
+
+This equates to the HasItem in the Relationships section of the EN15907 data model for Manifestations. [ADD FOOTNOTE WITH LINK TO https://filmstandards.org/fsc/index.php?title=EN_15907_Manifestation]
+
 
 <a id="sec-manifest_relationships_work"></a>
 ### Other Relationships between Moving Images Manifestations and a Work
@@ -153,7 +164,7 @@ Describe or demonstrate Manifestation-to-Work relationships through linking to t
 
 <a id="sec-manifest_relationships_variant"></a>
 ### Other Relationships between Moving Images Manifestations and a Variant
-Express the relationship between a moving image Manifestation and a moving image Variant (e.g., Part/part of).
+Express the relationship between a moving image Manifestation and a moving image Variant, e.g. Part/part of; Parent/child; related, etc.
 Describe or demonstrate Manifestation-to-Variant relationships through linking to the Manifestation identifier, through the usage of relator terms, or according to the confines of your data structure.
 
 
