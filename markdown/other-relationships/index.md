@@ -1,13 +1,13 @@
 ---
 title: Moving Image Other Relationships
 ---
-<a id="sec-moving_image_works"></a>
+<a id="sec-moving_image_works_other_relationships"></a>
 ## Moving Image Works
-<a id="sec-moving_image_other_relationships_definition"></a>
-## Definitions
-<a id="sec-work_other_relationships"></a>
-### Other relationships[^1]
-If desired or appropriate, express relationships that are not covered by the Agent, Subject, and Event relationships, including all kinds of aggregation and re-use of Works and their Variants.
+
+<a id="sec-moving_image_works_relationships_works"></a>
+### Other Relationships between Moving Images Works and Other Works
+
+If other relationships[^1] are desired or appropriate, express relationships that are not covered by the Agent, Subject, and Event relationships, including all kinds of aggregation and re-use of Works and their Variants.
 (See [Aggregates (Compilations, Multi-component productions)](/appendices/aggregates/).)
 
 Commonly-occurring relationships include:[^2]
@@ -77,21 +77,21 @@ Describe or demonstrate Work-to-Work relationships through linking to the Work i
 
 Remember, a Work based on a pre-existing Work should be identified as a Variant of the same Work unless it has been so significantly changed as to have become a new related Work.[^3] See [Boundaries between Works](/boundaries/boundaries_between_works/) and [Boundaries between Works and Variants](/boundaries/boundaries_between_works_and_variants/) for determining when a Work should be identified as a new, but related Work and when it should be identified as a Variant of the original Work.
 
-<a id="sec-variants"></a>
-### Variants
+<a id="sec-moving_image_works_relationships_variants"></a>
+### Other Relationships between Moving Images Works and Variants
 Express the relationship between a moving image Work and a moving image Variant (e.g., Part/part of).
 Describe or demonstrate Work-to-Variant relationships through linking to the Work identifier, through the usage of relator terms, or according to the confines of your data structure.
 
-<a id="sec-manifestations"></a>
-### Manifestations
+<a id="sec-moving_image_works_relationships_manifestations"></a>
+### Other Relationships between Moving Images Works and Manifestations
 Express the relationship between a moving image Work or Variant and a moving image Manifestation (e.g., Part/part of).
 Describe or demonstrate Work-to-Manifestation relationships through linking to the Work identifier, through the usage of relator terms, or according to the confines of your data structure.
 
 
-<a id="sec-manifestations_from_chapter"></a>
-## Manifestations from chapter
-<a id="sec-manifest_other_relationships"></a>
-### “Other” Relationships
+<a id="sec-manifestations_other_relationships"></a>
+## Manifestations
+<a id="sec-manifest_relationships_manifestations"></a>
+### Other Relationships between Moving Images Manifestations and Other Manifestations
 Expresses relationships that are not covered by the Agent and Event relationships.
 Aggregation relationships are expressed at the Work/Variant level (see [Aggregates (Compilations, Multi-component productions)](/appendices/aggregates/)).
 
@@ -139,26 +139,29 @@ Describe or demonstrate Manifestation-to-Manifestation relationships through lin
 
 If the cataloguing system allows the procedure, attach a digital file that reproduces any associated “document.”
 
-<a id="sec-items"></a>
-### Item(s)
+
+<a id="sec-manifest_relationships_items"></a>
+### Other Relationships between Moving Images Manifestations and Items(s)
 Express the relationship between a moving image Manifestation and a moving image Item (e.g. Part/part of).
 
 Here could be listed the unique Item identifiers associated to this Manifestation, noting their “part of “ relationships to the Manifestation.
 
-<a id="sec-work"></a>
-### Work
+<a id="sec-manifest_relationships_work"></a>
+### Other Relationships between Moving Images Manifestations and a Work
 Express the relationship between a moving image Manifestation and a moving image Work (e.g., Part/part of).
 Describe or demonstrate Manifestation-to-Work relationships through linking to the Manifestation identifier, through the usage of relator terms, or according to the confines of your data structure.
 
-<a id="sec-variant"></a>
-### Variant
+<a id="sec-manifest_relationships_variant"></a>
+### Other Relationships between Moving Images Manifestations and a Variant
 Express the relationship between a moving image Manifestation and a moving image Variant (e.g., Part/part of).
 Describe or demonstrate Manifestation-to-Variant relationships through linking to the Manifestation identifier, through the usage of relator terms, or according to the confines of your data structure.
 
 
+<a id="sec-items_other_relationships"></a>
+## Items
 
-<a id="sec-items_from_chapter"></a>
-### Items from chapter
+<a id="sec-moving_image_items_relationships_items"></a>
+### Other Relationships between Moving Images Items and another Item
 Express relationships that are not covered by the Agent and Event relationships.
 These may include compilations of convenience, i.e. where an institution has transferred copies
 of two or more films onto one reel/tape/DVD etc. for convenient storage.[^4]
