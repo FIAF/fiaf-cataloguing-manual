@@ -132,7 +132,7 @@ See [Titles and structuring of series/serials](/titles/series_serials) for other
 
     Chuckles bites the dust – Preferred title
 
-See [Title](/appendices/titles/#sec-appendix_title) for fuller titling details and information.
+See [Title](/titles/titles/#sec-appendix_title) for fuller titling details and information.
 
 See [Titling of Aggregates](/appendices/aggregates/titling_of_aggregates/#sec-titling_of_aggregates) for titling of Aggregates (e.g., compilations).
 
