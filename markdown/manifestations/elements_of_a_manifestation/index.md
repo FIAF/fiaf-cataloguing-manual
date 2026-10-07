@@ -321,7 +321,7 @@ Describes the technical or proprietary system used to record the sound on a Mani
 - VA RCA Duplex
 
 <a id="sec-manifest_sound_channel_configuration"></a>
-#### Sound Channel Configuration
+#### Sound Channel Configuration and Sound Fixation Type
 If the Manifestation has sound, note here the track configuration (e.g., mono, stereo, etc.).
 Selection should be made from a controlled list of terms.
 
