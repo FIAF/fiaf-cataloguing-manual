@@ -19,7 +19,7 @@ This Work Identifier is shared by all Variants, Manifestations and Items associa
 
 In a way, a unique Work Identifier can have more value than a Work’s Title.
 Titles can confuse through different spellings, translations, and are not unique (i.e., King Kong).
-An Identifier refers to a specific Work/Variant and provides clear disambiguation between Works when there is confusion.
+An Identifier refers to a specific Work and provides clear disambiguation between Works when there is confusion.
 
 There can be more than one Work unique identifier for the content.
 This commonly occurs when institutions have content assigned identifiers by various standards or distribution agencies (ISAN, EIDR), or a government or other official body in the archive’s country has assigned an identifier to the work.
@@ -149,7 +149,7 @@ Where relevant for an institution, if the Work, Variant or Manifestation include
 Where known and applicable, record the geographic origin of the moving image Work.
 This should be the country or countries where the principal offices or production facilities of the production company or companies are located.[^1] 
 Where an official national certificate or designation of a Work exists, use this as the authoritative source, e.g., Italian government department designates what is officially an Italian film.[^2]
-When more than one place is associated with a Work/Variant, choose the place(s) with primary importance.
+When more than one place is associated with a Work, choose the place(s) with primary importance.
 
 For institutions who need or require specific ordering of country of reference then the following options are possible examples of how this may be achieved.[^3]
 
@@ -168,7 +168,7 @@ An institution should compile its own rules for ordering of country of reference
 
 Record the country of origin using the full form of the country name, e.g. United Kingdom rather than UK, by taking the most suitable value(s) from a controlled list. This can be an in-house list but the use of a standard list such as ISO 3166[^4] is preferable. If ISO is used, apply the English Short Name that is associated to a code. Optionally, record the country code as found in ISO 3166-1-alpha 2.
 
-If the country borders have changed, or two new countries are formed from one former country, then record the name of the country as it was at the time of production, e.g., Czechoslovakia for a Work/Variant produced in 1970, but Czechia or Slovakia for one from 2012.[^5]
+If the country borders have changed, or two new countries are formed from one former country, then record the name of the country as it was at the time of production, e.g., Czechoslovakia for a Work produced in 1970, but Czechia or Slovakia for one from 2012.[^5]
 
 Similarly, the same principle applies in the case where two previously separate countries or sovereign states have officially joined together to form a new one, e.g. Tanganyika joined with Zanzibar to become Tanzania on 26th April 1964, so a 1962 film would be given the country of reference of Tanganyika or Zanzibar, as appropriate, but a 1966 film would be given the country of reference of Tanzania.
 
@@ -217,15 +217,15 @@ It remains the policy decision of an institution or festival to choose a preferr
 
 <a id="sec-year_date_of_reference"></a>
 ## Year/Date of Reference
-A year or fuller date (e.g., day/month/year) is essential to identifying a moving image Work and, where applicable, its Variants.
-A common use of year/date is chronological ordering of lists of Works and their Variants.[^6] 
+A year or fuller date (e.g., day/month/year) is essential to identifying a moving image Work.
+A common use of year/date is chronological ordering of lists of Works.[^6] 
 As explained below, these guidelines recommend, where possible, applying two qualifiers to a Date element: Date Type, and Date Precision.
 
-There is no primary or “preferred” year or date except within the context of the type of Work and, where applicable, its Variants.
-That is, typically, an original date of release or broadcast is essential for identifying a moving image Work and its Variants.
+There is no primary or “preferred” year or date except within the context of the type of Work.
+That is, typically, an original date of release or broadcast is essential for identifying a moving image Work.
 In the absence of a release or broadcast date, provide a year of creation or production.
 
-Record any dates associated with the Work or its Variants formatted according to [ISO 8601](https://www.iso.org/standard/40874.html) or other available resources, such as [EDTF](https://www.loc.gov/standards/datetime/) (Extended Date Time Format).
+Record any dates associated with the Work formatted according to [ISO 8601](https://www.iso.org/standard/40874.html) or other available resources, such as [EDTF](https://www.loc.gov/standards/datetime/) (Extended Date Time Format).
 ISO 8601 prescribes that dates should be formatted hierarchically as Year-Month-Day, using this convention: YYYY-MM-DD.
 Example: 2015-07-04.
 This structure eliminates confusion when dates can be formatted with month before day or day before month (e.g., 07/04/2015 or 04/7/2015).
@@ -237,14 +237,14 @@ Where full dates are not known use Year-Month YYYY-MM or just Year YYYY, as syst
 
 <a id="sec-date_type"></a>
 ### Date Type
-The year or date should be associated with an event in the life cycle of the Work or its Variants (see [Events (e.g., IPR registration, screenings, awards, etc.)](/works/relationships_of_a_work_variant/#sec-work_events)).
+The year or date should be associated with an event in the life cycle of the Work (see [Events (e.g., IPR registration, screenings, awards, etc.)](/works/relationships_of_a_work_variant/#sec-work_events)).
 If your system supports it, apply a “Date Type” qualifier to make the date or year purpose clear.
 Date Type terms should be derived from a controlled vocabulary.
 For a list of initial terms, see [Event Type](/events/event_type/#sec-event_type).
 
-For Works and Variants, the date is typically related to events such as its creation, availability (i.e. publication, release, distribution, broadcast or transmission) or registration (e.g. for copyright or intellectual property purposes), or bestowal of an award. 
+For Works the date is typically related to events such as its creation, availability (i.e. publication, release, distribution, broadcast or transmission) or registration (e.g. for copyright or intellectual property purposes), or bestowal of an award. 
 
-More than one year or date may be associated with a Work or its Variants.
+More than one year or date may be associated with a Work.
 For example, in the case of a Work comprising segments produced in different years (for example, a home movie); list the years, if known, e.g., 1955, 1956, 1959.[^7]
 
 Similarly, a Work may have a production date of 1962, a copyright date of December 1963, and a first release date of January 1964.
@@ -335,13 +335,12 @@ Institutions using cataloguing structures that do not distinguish Variant level 
 Indicate the language(s) (e.g., Italian) and usage(s) (e.g., Italian intertitles) in which the moving image Variant/Manifestation is written, spoken or sung, if applicable.
 More than one language can occur in different forms, depending on how the content is expressed (e.g., French dialogue and English subtitles).
 
-Language and usag
-
 <a id="sec-language_term"></a>
 ### Language Term
 Record the language(s) by taking the most suitable value(s) from a controlled list of languages.
 
-This can be an in-house list but it is preferable to use a standard language list such as the ISO 639 codes, including ISO 639-2, 693-3 and 639-5 (http://www.loc.gov/standards/iso639-2/langhome.html).
+This can be an in-house list but it is preferable to use a standard language list such as the ISO 639 codes, including ISO 639-2, 693-3 and 639-5. 
+See [LoC Standards](https://www.loc.gov/standards/iso639-2/langhome.html).
 
 Optionally, record the language code as found in ISO 639, where allowable.
 
@@ -364,13 +363,13 @@ Record the usage type of a language (e.g. spoken, intertitles, subtitles, etc.) 
  - Language(s) of accompanying material
 
 Optionally, record language usage type at the Manifestation/Item level (see [Language](/manifestations/elements_of_a_manifestation/#sec-manifest_language)).
-A value of “original” can be added to the Language element here to indicate that statements made about the language(s) for a particular Manifestation/Item are indicative of the language(s) of the “original” Work. [^10]
+A value of “original” can be added to the Language element here to indicate that statements made about the language(s) for a particular Manifestation/Item are indicative of the language(s) of the “original” Work.[^10]
 
 Language term and usage included on a Work record should only pertain to the original language in which the moving image was conceived and first made. Any subsequent other dubbed or subtitled versions should be reflected in an associated Variant and/or Manifestation.
 
 <a id="sec-content_description"></a>
 ## Content description (synopses, shotlists, etc)[^9]
-Write a concise, objective, non-critical summary of the content of the moving image Work and/or Variant.
+Write a concise, objective, non-critical summary of the content of the moving image Work.
 Content descriptions can be synposes, brief TV guide-like one sentence description, shotlists, etc. There can be more than one type of content description in the record, e.g. it is possible to have both a shotlist and a synopsis.
 
 The content description should be written in a style that is easy to read.
@@ -385,7 +384,7 @@ If acceptable summaries are already available in secondary sources, cataloguers 
 !!! example "Example"
     Donald Graham, millionaire ex-convict, plans revenge on society figure John Cabin Brand, whom he blames for the death of his daughter.
 
-A content description may also be a shotlist or listing of the contents of an aggregate Work/Variant (see [Aggregates (Compilations, Multi-component productions)](/aggregates/types_of_moving_image_aggregates/#sec-collection_aggregates)). Shotlists are the ideal content description to have or aim to have, particularly for non-fiction moving images, but it is recognised that resources and accessibility mean this is not always possible or practical for an archive or institution.[^12]
+A content description may also be a shotlist or listing of the contents of an aggregate Work (see [Aggregates (Compilations, Multi-component productions)](/aggregates/types_of_moving_image_aggregates/#sec-collection_aggregates)). Shotlists are the ideal content description to have or aim to have, particularly for non-fiction moving images, but it is recognised that resources and accessibility mean this is not always possible or practical for an archive or institution.[^12]
 
 !!! example "Example"
     Title: Pathe News [Excerpts No. 6] 
@@ -426,19 +425,17 @@ For unedited Works, where time and resources permit, each scene should be summar
 If there are shots of particular significance or interest – of, for example, prominent people or places – these should be recorded.
 Otherwise a general description of scenes and sequences will suffice[^13].
 
-If applicable, add information about the content of the moving image Variant where it differs from the content of the Work.
-
 <a id="sec-content_description_type"></a>
 ### Content Description Type
 Include a qualifying keyword or otherwise denote the type of summary (e.g. Synopsis, Shotlist, Review).[^14]
 
 <a id="sec-notes"></a>
 ## Notes
-Notes for moving image Works/Variants are annotations providing additional information or clarification relating specifically to Works/Variants attributes and relationships.[^15] See [Cataloguer’s Notes](/appendices/cataloguers-notes/).
+Notes for moving image Works are annotations providing additional information or clarification relating specifically to Works/Variants attributes and relationships.[^15] See [Cataloguer’s Notes](/appendices/cataloguers-notes/).
 
 <a id="sec-history"></a>
 ## History
-Record historical information about events of interest in the creation of the original moving image Work/Variant that is of value for your users, such as censorship history, production versions, and the like.
+Record historical information about events of interest in the creation of the original moving image Work that is of value for your users, such as censorship history, production versions, and the like.
 This historical information may be recorded in association with instances of Events or Agents.
 
 If desired, institutions may include historical information that crosses over into being about the Manifestation(s) and/or Item(s).
@@ -453,14 +450,14 @@ This may also be applied where no History fields exist in an institution’s sys
 
 <a id="sec-custodial_history"></a>
 ### Custodial History
-If desired, write a brief custodial history of the Work/Variant if known, particularly for rare and unique materials.
+If desired, write a brief custodial history of the Work if known, particularly for rare and unique materials.
 Indicate the current holding institution of the original or master material if known.
 
 Information on the provenance of the specific Items in an archive’s collection should be included in the Item sections.
 
 <a id="sec-censorship_history"></a>
 ### Censorship History
-Document information related to the censorship history of a Work/Variant, including:[^16]
+Document information related to the censorship history of a Work, including:[^16]
 
 - Any events in which a Manifestation/Item of a Work/Variant was evaluated by a censorship body or an accredited rating agency.
 
@@ -483,9 +480,9 @@ Document information related to the censorship history of a Work/Variant, includ
 
     Dubbed, Censored Variant: Theatrical distribution in Italy– censorship visa n. 64662 – date: 1974-05-20 – Length 2430m. – Italian dubbed
 
-<a id="sec-other_work_variant_history"></a>
-### Other Work/Variant History
-Any other relevant information or clarifications pertaining to the Work/Variant.
+<a id="sec-other_work_history"></a>
+### Other Work History
+Any other relevant information or clarifications pertaining to the Work.
 
 *Any changes of director, crew, or cast part-way through production.*
 
