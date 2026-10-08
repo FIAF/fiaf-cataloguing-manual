@@ -8,7 +8,7 @@ For example, a television series could be catalogued as a Serial, which implies 
 Record the level of description of the work being catalogued, for example, “analytic,” “monographic,” “serial,” etc., according to a controlled vocabulary.
 The terms used in this Manual are derived from traditional bibliographic cataloguing rules and from EN 15907, but an institution may choose to create its own list of terms.
 
-The Types below reflect terms used in Section 4.1.2 Attributes in the CEN standard EN 15907. [^2] 
+The Types below reflect terms used in Section 4.1.2 Attributes in the CEN standard EN 15907.[^2] 
 
 ### Analytic (component part)
 Content that is contained in another content.
@@ -111,7 +111,7 @@ These titles should then be linked to the collection-level description in either
 
   Portrait of a miner would be created as the work title, with the description level of Collection.
 
-  Each of the Mining review Works used in Portrait of a miner would then be linked to it and assigned a “contained in” relationship (see [Modelling Aggregates](/appendices/aggregates/modelling_aggregates/#sec-modelling_aggregates)).
+  Each of the Mining review Works used in Portrait of a miner would then be linked to it and assigned a “contained in” relationship (see [Modelling Aggregates](/aggregates/modelling_aggregates/#sec-modelling_aggregates)).
 
 Provide a list of the compiled works contained in the Collections Work in its Synopsis or Summary field.
 

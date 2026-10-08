@@ -77,12 +77,12 @@ If an institution’s system allows, a "Type" can be applied with an Identifier 
 <a id="sec-work_title"></a>
 ## Title
 Record at least one title, identifying phrase, or name for the moving image Work.
-If your institution is applying the use of “Type” qualifiers, use “Title Type” to state the function of a particular title (see [Title Type](/titles/#sec-titles_title_types))
+If your institution is applying the use of “Type” qualifiers, use [Title Type](../../works/elements_of_a_work_variant/index.md#sec-work_title_type) to state the function of a particular title. For more general information see [Titles](../../titles/titles/index.md)).
 
 Ideally, the record should at a minimum contain the “preferred title” (also referred to as “main” or “original” title) of the Work.
 Generally, it is the title of a moving image Work when first released, broadcast, published or transmitted (i.e. mounted online) in the country or countries of origin.
 It may differ from the title found on a particular manifestation of the Work; the actual title on the Manifestation is noted in the Manifestation Title element (see [Title](/manifestations/elements_of_a_manifestation/#sec-manifest_title)).
-See [Title Type](/titles/#sec-titles_title_types) for additional information.
+See [Title Type](/titles/title_types/#sec-title_types)) for additional information.
 
 For creating titles for untitled or unidentified entities see [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](/titles/supplied_devised_titles/#sec-supplied_devised_titles).Television programmes and other types of content that are part of a series/serial should have both the series/serial title and the episode title included in the Work record.
 This may be via use of a “Title type” qualifier.
@@ -141,7 +141,7 @@ For sources of information for the Title, see [Sources of Information](../../pre
 
 <a id="sec-work_title_type"></a>
 ### Title Type
-Where relevant for an institution, if the Work, Variant or Manifestation includes multiple titles, such as a title in another language for a dubbed or subtitled variant, record the relevant Variant titles and associate a “Title Type” to each title for differentiation between the various types of titles (see [Titles and Title Types](/titles/titles_title_types)).
+Where relevant for an institution, if the Work, Variant or Manifestation includes multiple titles, such as a title in another language for a dubbed or subtitled variant, record the relevant Variant titles and associate a “Title Type” to each title for differentiation between the various types of titles (see [Title Type](/titles/title_types/#sec-title_types)).
 
 <a id="sec-country_of_reference"></a>
 ## Country of Reference

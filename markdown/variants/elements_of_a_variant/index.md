@@ -42,7 +42,7 @@ The same applies to Variants of silent films with intertitles and/or credits in 
     Intertitle Variant Title: Nosferatu (1947 version, English intertitles)  
     Intertitle Variant Title: Nosferatu, una sinfonía de horror (1931 version, Spanish intertitles)   
 
-If your institution is applying the use of “Type” qualifiers, use “Title Type” to state the function of a particular title (see [Title Type](../../works/elements_of_a_work_variant/index.md#sec-work_title_type) and [Titles and Title Types](../../titles/titles/index.md)).
+If your institution is applying the use of “Type” qualifiers, use [Title Type](../../works/elements_of_a_work_variant/index.md#sec-work_title_type) to state the function of a particular title. For more general information see [Titles](../../titles/titles/index.md)).
 
 Ideally, the record should at a minimum contain the “preferred title” (also referred to as “main” or “original” title) of the Variant.
 It may differ from the title found on a particular manifestation of the Work; the actual title on the Manifestation is noted in the Manifestation Title element (see [Title](../../manifestations/elements_of_a_manifestation/index.md#sec-manifest_title)).
@@ -85,7 +85,7 @@ This may differ from that of the original Work, for example, a Restored version 
 Where an official national certificate or designation of a Work exists, use this as the authoritative source, e.g., Italian government department designates what is officially an Italian film.[^3]
 When more than one place is associated with a Variant, choose the place(s) with primary importance.
 
-Establishing the country of reference for a Variant is the same as for a Work, including forms and historical changes of country name. See details at [INSERT LINK TO 6.3.3.]
+Establishing the country of reference for a Variant is the same as for a Work, including forms and historical changes of country name. See details in [Work](/works/elements_of_a_work_variant/index.md#sec-country_of_reference)
 
 <a id="sec-year_date_of_reference"></a>
 ## Year/Date of Reference
@@ -212,7 +212,7 @@ If no language can be determined, the information can be omitted or indicated by
 
 <a id="sec-work_usage_type"></a>
 ### Usage Type
-Record the usage type of a language (e.g. spoken, intertitles, subtitles, etc.) by taking the most suitable term from a controlled list elaborated in-house or referring to an existing authoritative list. See [Language Usage Types](../../works/elements_of_a_work_variant/index.md#sec-languages). [ADD LINK TO SAME LANGUAGE USAGE SECTION WITH LIST IN WORKS]
+Record the usage type of a language (e.g. spoken, intertitles, subtitles, etc.) by taking the most suitable term from a controlled list elaborated in-house or referring to an existing authoritative list. See [Language Usage Types](../../works/elements_of_a_work_variant/index.md#sec-work_usage_type).
 
 Optionally, record language usage type at the Manifestation/Item level (see [Language](../../manifestations/elements_of_a_manifestation/index.md#sec-manifest_language)).
 A value of “original” can be added to the Language element here to indicate that statements made about the language(s) for a particular Manifestation/Item are indicative of the language(s) of the “original” Work. [^10]
@@ -220,9 +220,7 @@ A value of “original” can be added to the Language element here to indicate 
 <a id="sec-content_description"></a>
 ## Content description (synopses, shotlists, etc)[^1]
 
-See [add link to Content description in Works chapter]
-
-An institution may decide to replicate the synopsis and/or shotlist of the Work in the Variant record and add in additional descriptions of any changes, e.g. particulars about some scenes added in for a Director's Cut version of a film.
+An institution may decide to replicate the synopsis and/or shotlist of the Work in the Variant record and add in additional descriptions of any changes, e.g. particulars about some scenes added in for a Director's Cut version of a film. See [Work Chapter](/works/elements_of_a_work_variant/idex.md#sec-content_description).
 
 Alternatively an institution may choose only to add information about the content of the moving image Variant where it differs from the content of the Work, rather than duplicate data.
 
@@ -299,7 +297,7 @@ Any other relevant information or clarifications pertaining to the Variant.
     Spartacus (United States of America, 1991)  
     Restored, re-edited version which reinserted shots and scenes cut from the original, one of which was a scene between        Tony Curtis and Laurence Olivier for which the original soundtrack was missing. For the redubbing, Anthony Hopkins did       the voice for Laurence Olivier's part. This scene was originally cut for censorship reasons as the dialogue touched on       homosexuality/bi-sexuality.
 
-    For information about titling and structuring of Variant series/serials and newsreels/cinemagazines see 11.5.7 Titles and structuring of Variant series/serials [ADD LINK]
+For information about titling and structuring of Variant series/serials and newsreels/cinemagazines see [Titles and structuring of Variant series/serials](/titles/series_serials/index.md#sec-titles_of_series_serials).
 
 
 [^1]: Adapted from YCR, 1.2.16 Summary of genre, form, and subject matter of work, p. 38.
