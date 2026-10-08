@@ -10,11 +10,11 @@ Instead they recommend that certain relationships be established without instruc
 
 A Work may have relationships with the following:
 
-- [Agent(s)](/agents/agents_for_work_variants#sec-agents_for_works_variants)
-- [Event(s)](/works/relationships_of_a_work#sec-work_events)
-- [Subject(s)/Genre(s)/Form(s)](/works/relationships_of_a_work#sec-subject_genre_form_terms)
-- [Variant(s)](/variants#sec-moving_image_variant)
-- [Manifestation(s)](/manifestations#sec-moving_image_manifestations)
+- [Agent(s)](/agents/agents_for_work_variants/index.md#sec-agents_for_works_variants)
+- [Event(s)](/works/relationships_of_a_work/index.md#sec-work_events)
+- [Subject(s)/Genre(s)/Form(s)](/works/relationships_of_a_work/index.md#sec-subject_genre_form_terms)
+- [Variant(s)](/variants/index.md#sec-moving_image_variant)
+- [Manifestation(s)](/manifestations/index.md#sec-moving_image_manifestations)
 - Other (including other Works)
 
 <a id="sec-work_events"></a>
