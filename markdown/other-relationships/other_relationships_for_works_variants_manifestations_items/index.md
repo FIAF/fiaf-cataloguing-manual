@@ -40,18 +40,3 @@
 | “Has a relationship to an archival document” | Censorship visa, laboratory report, projection instructions (in general papers in the can/container or related to the specific item and held in separate archive), acquisition contract, DCP key |
 | “Has a relationship to a Work “about” the Item in question” | Inspection report, restoration report, etc. (in general papers in the can or related to the specific item and held in separate archive) | 
 
-*Non-moving image Works/Items (e.g. Objects, documents, etc. relating to a specific Item)*
-
-!!! example "Example"
-    Shots of 1932 (United Kingdom, 1932) (home movie) 9.5mm Safety film Item related to paper donor agreement
-
-Record one or more “Other” relationship type terms to express the nature of the relationship to the Item, choosing the most specific term possible from existing relator terms lists, for example, “accompanied by,” “contained in,” etc. Selection should be made from a controlled list of values.
-A suggested list, which is open and not exhaustive, can be found in [Item Other Relationship Types](../../other-relationships/other_relationships_for_works_variants_manifestations_items/index.md#sec-item_other_relationship_types).
-
-In a note, add any additional information concerning the relationship considered relevant.
-
-If the cataloguing system allows, attach a digital file that reproduces any associated “document”.
-
-<a id="sec-manifestation"></a>
-## Manifestation
-Express the relationship between a moving image Manifestation and a moving image Item (e.g. Part/part of).

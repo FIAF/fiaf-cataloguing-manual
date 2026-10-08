@@ -5,16 +5,16 @@ Entities are described in subsequent sections, but examples of entities are peop
 
 Relationships can be implemented in many ways, depending on the purpose, the modelling paradigm, or architectural constraints of the chosen platform.
 These guidelines are intended to be data structure neutral.[^1] Therefore, these guidelines cannot prescribe exactly how to demonstrate relationships.
-Instead they recommend that certain relationships be established without instruction on how precisely those links be made manifest, i.e., whether by physical associative record linking or “see also” text conventions.
+Instead they recommend that certain relationships be established without instruction on how precisely those links be made manifest, i.e., whether by physical associative record linking or “see also” text conventions. Because EN15907 uses a multi-tiered entity-relationship mode, associative linking terms that denote the relationship type, such as part/part of, or parent/child, are used in some database systems to create a hierarchical data architecture of Works, Variants, Manifestations, and Items.
 
 A Variant may have relationships with the following:
 
-- Agent(s)
-- Event(s)
-- Subject(s)/Genre(s)/Form(s)
-- Work(s)
-- Manifestation(s)
-- Other (including other Variants)
+- [Agent(s)](/agents/agents_for_work_variants/index.md#sec-agents_for_works_variants)
+- [Event(s)](/works/relationships_of_a_work/index.md#sec-work_events)
+- [Subject(s)/Genre(s)/Form(s)](/works/relationships_of_a_work/index.md#sec-subject_genre_form_terms)
+- [Work(s)](/works/index.md#sec-moving_image_works)
+- [Manifestation(s)](/manifestations/index.md#sec-moving_image_manifestations)
+- Other (including other Works)
 
 <a id="sec-Works"></a>
 ## Works

@@ -15,7 +15,7 @@ EN 15907 does not specify any Manifestation types other than Unknown. The Manife
 
 <a id="sec-pre_release"></a>
 ### Pre-Release (or Production)
-A moving image Manifestation type that may be used to represent any embodiments of a moving image Work that exist before the finalisation or release of the moving image Work. Also use for partially realised projects, i.e. productions that started filming but then project ceased before completion, for which footage exists and may have been acquired by an institution.
+A moving image Manifestation type that may be used to represent any embodiments of a moving image Work that exist before the finalisation or release of the moving image Work. It can also be used with partially realised projects, i.e. productions that started filming but then the project ceased before completion, for which footage exists and may have been acquired by an institution.
 
 A Pre-Release Manifestation is effectively a Production Manifestation for which acquired Items created or used in the production of a film can be linked. Technically, a Pre-Release Manifestation does not refer to any release at all, but rather to embodiments of the creative process that goes into the creation or construction of the Work itself, i.e. raw or semi-edited footage that has been shot in the making of a moving image, whether it has been used in the ultimate finished Work or not. Effectively, it is a convenient device in order to maintain the EN 15907 structure when cataloguing production materials and not to confuse Items that constitute these with Items that are simply copies of the completed, released film.
 
@@ -23,14 +23,11 @@ It applies to production material in general, including: original shooting eleme
 
 It may also include, censorship submission prints, working assembly prints, rushes, costume tests, lighting tests, make-up tests, etc. where an institution may need or prefer to group together all production material, i.e. an institution may usually create rushes and tests as separate individual associated records but, where these are acquired as part of a large collection of production material for one particular moving image it prefers, for practical reasons, to keep records together for ease of access or for restoration work purposes.
 
-An institution may create Works in their own right for different in-production filmed aspects, e.g. Screen Tests, Rushes, etc. which are then related to the main, final moving image Work in an associative relationship. Each of these Works would then have their own linked Pre-Release Manifestation. Decisions on this may depend on the quantity and/or nature of materials acquired and an institution's preference. For further details about possibilities and options in structuring and cataloguing production materials and using Pre-release Manifestations see [Titles and structuring for production materials](../../titles/production_materials/index.md).
-
-Pre-Release Manifestation can also be used with moving images which started production but were never finished and for which footage exists and may have been acquired by an institution.
-
-Depending on the quantity and nature of materials, an institution may create Works in their own right for different in-production filmed aspects, e.g. Screen Tests, Rushes, etc. which are then related to the main, final moving image Work in an associative relationship. Each of these Works would then have their own linked Pre-Release Manifestation.
+Depending on the quantity and nature of materials, an institution may create Works in their own right for different in-production filmed aspects, e.g. Screen Tests, Rushes, etc. which are then related to the main, final moving image Work in an associative relationship. Each of these Works would then have their own linked Pre-Release Manifestation. Decisions on this may depend on the quantity and/or nature of materials acquired and an institution's preference.
 
 Equally, an institution may choose to link all acquired production Items (whether analogue or digital) to a single Pre-Release Manifestation linked to the main complete Work, or possibly to several different Pre-Release Manifestations such as one for Screen Tests, one for Rushes, one for general production material, etc.
 
+For further details about possibilities and options in structuring and cataloguing production materials and using Pre-release Manifestations, with examples, see [Titles and structuring for production materials](/appendices/titles/title_types/#titles-and-structuring-for-production-materials-including-out-takes-screen-tests-rushes).
 
 It may also be used for initial record creation purposes prior to material being viewed and catalogued, which may then subsequently result in further Pre-Release Manifestations and/or Works/Variants
 
@@ -39,14 +36,6 @@ It may also be used for initial record creation purposes prior to material being
 
 !!! example "Example"
     Beauty jungle: Artist Test – Shirley Ann Field
-
-Depending on the quantity and nature of materials, an institution may create Works in their own right for different in-production filmed aspects, e.g. Screen Tests, Rushes, etc. which are then related to the main, final moving image Work in an associative relationship. Each of these Works would then have their own linked Pre-Release Manifestation.
-
-Equally, an institution may choose to link all acquired production Items (whether analogue or digital) to a single Pre-Release Manifestation linked to the main complete Work, or possibly to several different Pre-Release Manifestations such as one for Screen Tests, one for Rushes, one for general production material, etc.
-
-For examples of these see [ADD INTERNAL LINK TO APPENDIX 1 SECTION ON TITLES AND STRUCTURES FOR PRODUCTION MATERIAL]
-
-It may also be used for initial record creation purposes prior to material being viewed and catalogued, which may then subsequently result in further Pre-Release Manifestations and/or Works/Variants
 
 In addition, it may be applied to moving image Manifestations assembled for submission to censorship/ratings bodies, or moving image Manifestations with cuts resulting from those censorship activities.
 
@@ -100,7 +89,7 @@ These Manifestation types can be more than one instance, created at the same tim
     Manifestation 1: Theatrical distribution (Italy – 1949 – censorship visa) – 35mm – Italian (dubbed) – title “L’aquila a due teste” – Italfrancofilm (distributor)
     Manifestation 2: Home Video Publication (Italy – 2009 – 25/09/2009) - DVD – French and dubbed Italian (spoken languages), Italian subtitles – Gruppo Editoriale Minerva Raro Video (publisher) – DVD edition by Gabrielle Lucantonio.
 
-If required there are also further sub-categories of Theatrical distribution which can be used.
+If required there are also further sub-categories of Theatrical distribution which can be used, e.g. Theatrical distribution (country of origin), Theatrical distribution (outside country of origin), Theatrical distribution (country unknown), etc.
 
 <a id="sec-non_theatrical_distribution"></a>
 ### Non-theatrical distribution

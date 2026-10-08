@@ -464,7 +464,7 @@ And if variations are minor and Variants are used, then structure would look lik
 <a id="sec-titles_and_structures_of_variant_series_serials"></a>
 ## Titles and structuring of Variant series/serials
 
-There are often Variant series/serials, particularly with television programmes, e.g. the transmission of an original Danish crime drama on television in the United Kingdowm with English subtitles. There are different options for structuring these, in situations where an institution acquires Items for both the original programme and the Variant, or for where it just acquires the Variant and not the original.
+There are often Variant series/serials, particularly with television programmes, e.g. the transmission of an original Danish crime drama on television in the United Kingdom with English subtitles. There are different options for structuring these, in situations where an institution acquires Items for both the original programme and the Variant, or for where it just acquires the Variant and not the original.
 
 <center><object data="/diagrams/varkill_01.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 

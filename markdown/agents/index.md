@@ -1,7 +1,7 @@
 
 An Agent can be a Person, a Corporate body, a Collective agent, or a Family. [INSERT FOOTNOTE RDA/LRM Agent entity and subtypes]
 
-For recording the attributes of Agents (e.g. first name, last name, nationality, etc.), refer to authoritative sources such as AACR2, applicable RDA chapters for recording attributes of Persons, Families, and Corporate Bodies,[^1] Functional requirements for authority data: a conceptual model, [^2]  or tools such as the Virtual International Authority File (VIAF) (viaf.org), Library of Congress Linked Data Service (id.loc.gov), Getty Union List of Artists Names (ULAN), the [Library of Congress Name Authority File](https://authorities.loc.gov/cgi-bin/Pwebrecon.cgi?RefCodes=3&ref=1&hd=1,1&SEQ=20130523194229&Search_Arg=Ethnology-United%20States&Search_Code=SHED_&CNT=100&PID=mYzkzT0fYryqza3XpBkr08lSvjsf&SID=8), or International Standard Name Identifier (ISNI) 126.127 
+For recording the attributes of Agents (e.g. first name, last name, nationality, etc.), refer to authoritative sources such as AACR2, applicable RDA chapters for recording attributes of Persons, Families, and Corporate Bodies,[^1] Functional requirements for authority data: a conceptual model, [^2]  or tools such as the Virtual International Authority File (VIAF) (viaf.org), Library of Congress Linked Data Service (id.loc.gov), Getty Union List of Artists Names (ULAN),  BnF (France), GND (Germany), Bnelab (Spain), the [Library of Congress Name Authority File](https://authorities.loc.gov/cgi-bin/Pwebrecon.cgi?RefCodes=3&ref=1&hd=1,1&SEQ=20130523194229&Search_Arg=Ethnology-United%20States&Search_Code=SHED_&CNT=100&PID=mYzkzT0fYryqza3XpBkr08lSvjsf&SID=8), or International Standard Name Identifier (ISNI) 126.127 
 
 It is also recommended where possible to register key Agents with any of the aforementioned authority bodies if they are not already included. 
 
@@ -47,6 +47,8 @@ Cultural and self-identity aspects relating to the individual should also be con
 It is for institutions to decide whether to use nationalities that are sub-divisions of ISO codes that relate to regions too (some of which may reflect former countries historically), e.g. Scottish, Welsh, Québécois, etc. This would mean assigning two nationalities in such instances, e.g. that an Agent is both British and Welsh; Canadian and Québécois, etc. 
 
 In the same way, an Agent whose life and moving image works spanned across changes of country/nationality can be given two nationalities, e.g. German and West German.
+
+Institutions should also consider relevant national or international legislation relating to holding personal data in making decisions about what data to capture, e.g. General Data Protection Regulation (GDPR), Personal Data Protection Acts (PDPA), etc.
 
 Agent records may also be related/linked to other Agent records, e.g. 
 
