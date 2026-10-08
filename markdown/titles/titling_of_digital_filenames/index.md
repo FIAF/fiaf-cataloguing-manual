@@ -54,9 +54,9 @@ b) Indicate extent, i.e. the number of files that make up the moving image conce
 rather than
 
 !!! example "Example"
-    F_147_1_TimeOfFury_1965.mov
-    F_147_2_TimeOfFury_1965.mov
-    F_147_3_TimeOfFury_1965.mov
+    F_147_1_TimeOfFury_1965.mov  
+    F_147_2_TimeOfFury_1965.mov  
+    F_147_3_TimeOfFury_1965.mov  
                                      
 
 If there is only one file then it would simply be:
