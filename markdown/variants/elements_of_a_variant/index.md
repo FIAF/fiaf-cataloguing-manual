@@ -85,7 +85,7 @@ This may differ from that of the original Work, for example, a Restored version 
 Where an official national certificate or designation of a Work exists, use this as the authoritative source, e.g., Italian government department designates what is officially an Italian film.[^3]
 When more than one place is associated with a Variant, choose the place(s) with primary importance.
 
-Establishing the country of reference for a Variant is the same as for a Work, including forms and historical changes of country name. See details at [INSERT LINK TO 6.3.3.]
+Establishing the country of reference for a Variant is the same as for a Work, including forms and historical changes of country name. See details in [Work](/works/elements_of_a_work_variant/index.md#sec-country_of_reference)
 
 <a id="sec-year_date_of_reference"></a>
 ## Year/Date of Reference
