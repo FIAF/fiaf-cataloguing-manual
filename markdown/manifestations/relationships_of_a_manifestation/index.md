@@ -8,12 +8,12 @@ Instead they recommend that certain relationships be established without instruc
 
 A Manifestation may have relationships with the following:
 
-- Agent(s)
-- Event(s)
+- [Agent(s)](/agents/agents_for_work_variants/#sec-agents_for_works_variants)
+- [Event(s)](/works/relationships_of_a_work/#sec-work_events)
 - Other
-- Item(s)
-- Work
-- Variant
+- [Item(s)](/items/#sec-moving_image_items)
+- [Work(s)](/works/#sec-moving_image_work)
+- [Variant(s)](/variants/#sec-moving_image_variant)
 
 <a id="sec-manifest_events"></a>
 ## Events

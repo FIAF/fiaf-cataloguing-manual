@@ -58,13 +58,13 @@ A change in colour, which is a physical property, expresses a different Manifest
     Variant Title: Terminator 2: Judgement Day (Special Edition) (USA, 1993. Running time: 154 minutes). Re-inserting            previously deleted scenes.    
     Variant Title: Terminator 2: Judgement Day (Extended Special Edition) (aka Terminator 2: Judgement Day (Skynet Edition))     (USA, 2009. Running time: 156 minutes). Includes all the insertions from the Special Edition Variant plus an altered         ending.
 
-**Alternate ending Variant**
+**Alternative ending Variant**
 
-An alternate ending that changes the whole story line of film may also be deemed a major change warranting a new Work. This still remains as an option even where a full 4-level data hierarchy structure is used by an institution. It is for the cataloguer to assess and decide. For those who do not use the Variant in cataloguing then instances of alternate endings that substantially change the story would mean creating a new Work and linking the two versons of the film in an associative relationship. Thus, the alternate less ambiguous ending with a more positive outlook of a central character at the end of the Extended Special Edition Terminator 2 example above could be assessed as being a subtle change (and so a Variant) rather than a more stark sad v. happy ending which changes the entire storyline and feel of a moving image (and so different enough to constitute a different Work).
+An alternative ending that changes the whole story line of film may also be deemed a major change warranting a new Work. This still remains as an option even where a full 4-level data hierarchy structure is used by an institution. It is for the cataloguer to assess and decide. For those who do not use the Variant in cataloguing then instances of alternative endings that substantially change the story would mean creating a new Work and linking the two versions of the film in an associative relationship. Thus, the alternative less ambiguous ending, with a more positive outlook of a central character at the end of the Extended Special Edition Terminator 2 example above, could be assessed as being a subtle change (and so a Variant) rather than a more stark sad v. happy ending which changes the entire storyline and feel of a moving image (and so different enough to constitute a different Work).
 
 !!! example "Example"
     Work title: Rukoj materi (Russia, 1913. Yakov Protazanov) (Original sad ending - the daughter lying in her coffin having     been accidentally killed by her mother)    
-    Alternate ending Variant (Foreign export version, 1913) (Happy ending - where the daughter lives)
+    Alternative ending Variant (Foreign export version, 1913) (Happy ending - where the daughter lives)
 
 
 !!! example "Example"
