@@ -42,7 +42,7 @@ The same applies to Variants of silent films with intertitles and/or credits in 
     Intertitle Variant Title: Nosferatu (1947 version, English intertitles)  
     Intertitle Variant Title: Nosferatu, una sinfonía de horror (1931 version, Spanish intertitles)   
 
-If your institution is applying the use of “Type” qualifiers, use “Title Type” to state the function of a particular title (see [Title Type](../../works/elements_of_a_work_variant/index.md#sec-work_title_type) and [Titles and Title Types](../../titles/titles/index.md)).
+If your institution is applying the use of “Type” qualifiers, use [Title Type](../../works/elements_of_a_work_variant/index.md#sec-work_title_type) to state the function of a particular title. For more general information see [Titles](../../titles/titles/index.md)).
 
 Ideally, the record should at a minimum contain the “preferred title” (also referred to as “main” or “original” title) of the Variant.
 It may differ from the title found on a particular manifestation of the Work; the actual title on the Manifestation is noted in the Manifestation Title element (see [Title](../../manifestations/elements_of_a_manifestation/index.md#sec-manifest_title)).
