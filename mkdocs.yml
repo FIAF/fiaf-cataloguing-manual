@@ -5,6 +5,8 @@ repo_url: https://github.com/FIAF/fiaf-cataloguing-manual
 repo_name: FIAF/fiaf-cataloguing-manual
 edit_uri: edit/develop/markdown/
 
+
+
 theme:
   name: material
   custom_dir: overrides

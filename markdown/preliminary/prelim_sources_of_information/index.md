@@ -1,12 +1,16 @@
 
 
+<a id="sec-prelim_sources_of_information"></a>
+
+
+
 Information entered in a record must be derived from a source.
 Acceptable sources of information for moving image Works, Variants, Manifestations and Items include primary and secondary sources.
 
 Primary sources include information on the actual Item itself.
 For example, for moving image materials, titles and main production credits are transcribed from the frames usually in the opening credits, and other production credits from the end titles and credits.
 Secondary sources include information written on containers and reference materials.
-For example, credit, title, date, and other information derived from publications such as AFI Catalog of Feature Films: 1930-1939, [Det Danske Filminstitut Filmdatabasen](https://www.dfi.dk/viden-om-film/filmdatabasen) , [ADD LINK TO https://www.filmportal.de/etc.
+For example, credit, title, date, and other information derived from publications such as AFI Catalog of Feature Films: 1930-1939, [Det Danske Filminstitut Filmdatabasen](https://www.dfi.dk/viden-om-film/filmdatabasen) , [filmportal](https://www.filmportal.de).
 
 Although primary sources are generally preferred, this manual allows for the use of secondary sources no matter the entity, attribute or relationship described in recognition that there may be constraints on the amount of research or viewing a cataloguer can do.
 
@@ -49,7 +53,7 @@ The number of websites stating the same “fact” is not a safe indicator. Webs
 
 The same careful consideration should be taken by the cataloguer when using AI (Artificial Intelligence) for research or information purposes relating to moving images. AI tools, such as Google AI Overview, ChatGPT, Google Gemini, Microsoft Copilot, etc. can be useful for finding out facts about moving images (and these usually cite sources), however, AI heavily uses the worldwide web and resources on it as its source. It can also be inconsistent with results, in terms of the same question eliciting different results using different AI powered search engines, and also the same question phrased in a subtly different way in the same search engine sometimes bringing back conflicting answers. It is best to be precise rather than very general in how questions are phrased, but conversely not too complex as that can also lead to divergent answers or results.
 
-When taking details and information from secondary source materials then cite those sources, either in relevant notes fields on a record as a [Cataloguer’s Notes](/appendices/cataloguers-notes/), or linking to a related non-moving image collection record within your institution's database systems if relevant, e.g. a related associative link to a book record or periodical article record. 
+When taking details and information from secondary source materials then cite those sources, either in relevant notes fields on a record as a [Cataloguer’s Notes](../../appendices/cataloguers-notes/index.md#sec-cataloguers_notes), or linking to a related non-moving image collection record within your institution's database systems if relevant, e.g. a related associative link to a book record or periodical article record. 
 
 If citing websites take a note of the full title and author where relevant, not just the URL link. The latter can change or the website become defunct over time, so fuller precise details are advisable.
 

@@ -1,6 +1,4 @@
----
-title: Examples
----
+
 The cataloguing of rights depends very much on an institution's internal strategy and thus may differ. Here are some examples to show how rights can be documented.
 
 <a id="sec-example_one"></a>
@@ -29,4 +27,3 @@ Collection: Donated outright to the National Library of Scotland by the filmmake
 Filmmaker: Frank Marshall. Biography of 'MARSHALL, Frank M.' - Moving Image Archive - onsite catalogue
 
 <center><object data="/images/rights_amateur.png" width="100%"></object></center>
-

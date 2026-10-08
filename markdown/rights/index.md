@@ -1,6 +1,5 @@
----
-title: Intellectual Property Rights (IPR)/Copyright/Licenses
----
+
+
 <a id="sec-ipr_copyright"></a>
 ## IPR/Copyright
 The intellectual property rights associated with a moving image work are described by a range of terms across different legal traditions and professional contexts, including copyright, authors’ rights (droit d’auteur), related or neighbouring rights, rights ownership, or simply “rights”. These rights form part of the broader field of intellectual property, which also includes areas such as trademarks, patents, design rights, database rights, performers’ rights, and moral rights. In the audiovisual context, multiple forms of intellectual property may coexist within a single work, reflecting the collaborative and composite nature of moving image production. 
@@ -165,4 +164,3 @@ A free-text Notes field may be used to record related information that does not 
 
 
 http://copyright.gov/docs/priorities.pdf
-

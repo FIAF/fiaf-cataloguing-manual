@@ -1,6 +1,5 @@
----
-title: Relationships of a Work/Variant (links/associations with other entities/records)
----
+
+
 A relationship associates an instance of a Work/Variant with another instance of an entity.
 Entities are described in subsequent sections, but examples of entities are people or companies associated with a Work/Variant (eg, studio, director, cast), events (copyright registration), subjects (other Works/Variants are about the same subject), and records.
 
@@ -10,20 +9,20 @@ Instead they recommend that certain relationships be established without instruc
 
 A Work may have relationships with the following:
 
-- Agent(s)
-- Event(s)
-- Subject(s)/Genre(s)/Form(s)
-- Variant(s)
-- Manifestation(s)
+- [Agent(s)](/agents/agents_for_work_variants/#sec-agents_for_works_variants)
+- [Event(s)](/works/relationships_of_a_work/#sec-work_events)
+- [Subject(s)/Genre(s)/Form(s)](/works/relationships_of_a_work/#sec-subject_genre_form_terms)
+- [Variant(s)](/variants/#sec-moving_image_variant)
+- [Manifestation(s)](/manifestations/#sec-moving_image_manifestations)
 - Other (including other Works)
 
 A Variant may have relationships with the following:
 
-- Agent(s)
-- Event(s)
-- Subject(s)/Genre(s)/Form(s)
-- Work(s)
-- Manifestation(s)
+- [Agent(s)](/agents/agents_for_work_variants/#sec-agents_for_works_variants)
+- [Event(s)](/works/relationships_of_a_work/#sec-work_events)
+- [Subject(s)/Genre(s)/Form(s)](/works/relationships_of_a_work/#sec-subject_genre_form_terms)
+- [Work(s)](/works/#sec-moving_image_work)
+- [Manifestation(s)](/manifestations/#sec-moving_image_manifestations)
 - Other (including other Variants)
 
 <a id="sec-work_events"></a>
@@ -33,7 +32,7 @@ Instances of any Event type can have Agent and “Other” relationships.
 
 Record one or more Event type, for example, “publication,” “copyright/IPR registration,” “festival showing,” etc., to express the nature of the Event’s relationship to the Work/Variant.
 Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in [Event Type](/events/event_type/#sec-event_type).
+A suggested list, which is open and not exhaustive, can be found in [Event Type](../../events/event_types/index.md).
 
 <a id="sec-subject_genre_form_terms"></a>
 ## Subject/Genre/Form Terms
@@ -211,4 +210,3 @@ Actual filming locations data can be added in a different field (in the EN 15907
 
 [^1]: EN 15907 5.2 Event
 [^2]: EN 15907 8.1 Relationships. General
-

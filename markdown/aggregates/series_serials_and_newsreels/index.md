@@ -1,6 +1,4 @@
----
-title: Series, Serials and Newsreels - aggregates or not?
----
+
 All the above examples and modelling of aggregates have purposefully not included newsreels or film or TV series/serials.
 This is because these do not actually constitute aggregates under the Aggregates definition.
 
@@ -27,7 +25,7 @@ See example below for The thick of it DVD boxed set:
 
 <center><object data="/diagrams/figure_15.drawio.svg" type="image/svg+xml"></object></center>
 
-Alternatively, a model similar to [Model: Collection Aggregate Manifestation within a many-to-many Works/Variants-Manifestation database system](/appendices/aggregates/modelling_aggregates/#sec-collection_aggregate_manifestation_within_a_many_to_many) can be used, whereby a single Aggregate Manifestation links to the many individual Works/Variants in “part of” relationship:
+Alternatively, a model similar to [Model: Collection Aggregate Manifestation within a many-to-many Works/Variants-Manifestation database system](../../aggregates/modelling_aggregates/index.md#sec-collection_aggregate_manifestation_within_a_many_to_many) can be used, whereby a single Aggregate Manifestation links to the many individual Works/Variants in “part of” relationship:
 
 <center><object data="/diagrams/figure_16.drawio.svg" type="image/svg+xml"></object></center>
 
@@ -35,7 +33,7 @@ Where this Serial Work–Monographic Work hierarchy structure does not exist, th
 
 <center><object data="/diagrams/figure_17.drawio.svg" type="image/svg+xml"></object></center>
 
-For how this might be modelled in a flat or single hierarchy system see [Example 7. Aggregate DVD Television Serial and Episode records in 1-level Hierarchy Models](/appendices/record-examples/example_seven/#sec-example_seven)
+For how this might be modelled in a flat or single hierarchy system see [Example 7. Aggregate DVD Television Serial and Episode records in 1-level Hierarchy Models](../../appendices/record-examples/example_seven/index.md)
 
 It is also possible for particular individual episodes from different moving image series/serials to be taken and formed together into a Collection or Augmentation Aggregate, in which case they would then follow the same pattern of structure as any other such aggregate, i.e. with an aggregate Manifestation and aggregating Work record, and associative relationship links to any existing individual Work/Variant episode records.
 
@@ -43,7 +41,7 @@ It is also possible for particular individual episodes from different moving ima
 ## Newsreels and TV news/current affairs programmes - aggregates or not?
 These also do not constitute aggregates.
 
-The nature of news/newsreels is that the different stories do not constitute “independently created Works/Variants” and are more akin to multi-component moving images (see [“Hybrid” Aggregates and multi-component moving images (e.g. Anthology/Portmanteau films or TV programmes)](/appendices/aggregates/identifying_aggregates/#sec-hybrid_aggregates_and_multi_component_moving_images)), in that each component is meant to create the whole via filmed links that are an integral planned part and structure of an original single Work concept.
+The nature of news/newsreels is that the different stories do not constitute “independently created Works/Variants” and are more akin to multi-component moving images (see [“Hybrid” Aggregates and multi-component moving images (e.g. Anthology/Portmanteau films or TV programmes)](../../aggregates/identifying_aggregates/index.md#sec-hybrid_aggregates_and_multi_component_moving_images)), in that each component is meant to create the whole via filmed links that are an integral planned part and structure of an original single Work concept.
 
 The process of creation of these is with one whole programme in mind made up of different filmed elements – the same as planned different location shooting (and crews) of different scenes in a feature film that are then edited together to create the whole.
 It is never envisaged that the individual news stories would ever have an independent individual release/broadcast on their own.

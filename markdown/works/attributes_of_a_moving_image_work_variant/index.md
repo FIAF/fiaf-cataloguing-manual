@@ -1,6 +1,4 @@
----
-title: Attributes of a Moving Image Work
----
+
 <a id="sec-work_variant_description_type"></a>
 ## Work Description Type[^1]
 The description type establishes the general focus of the Work being catalogued, whether it is a complete Work in one part, a Work made up of several parts, or a physical group or collection of Works.

@@ -1,6 +1,5 @@
----
-title: Moving Image Items
----
+
+
 
 !!! abstract "Definition"
     The physical product of a Manifestation of a Work or Variant, i.e. the physical copy of a Work or Variant.
@@ -23,19 +22,26 @@ Institutions may also opt to catalogue the carrier with several Items on it, e.g
 
 Some examples of how institutions catalogue digital Items:
 
-1. A 5 reel analogue film with image and sound has been digitised in a preservation project.
+Example 1: Digitisation of analogue material in-house
+
+A 5 reel analogue film with image and sound has been digitised in a preservation project.
 Under the same Manifestation as the analogue material the following Items are listed:
-- Item 1: Raw Scan of the soundtrack (5 Item-parts)
-- Item 2: Raw Scan of the image (5 Item-parts)
-- Item 3: Master (combined sound+image) (1 Item-part)
-- Item 4: Viewing File (combined sound+image made from Master) (1 Item-part)
-- Item 5: DCDM (1 Item-part)
-- Item 6: DCP (1 Item-part)
-- Item 7: DVD (1 Item-part)
+Item 1: Raw Scan of the soundtrack (5 Item-parts)
+Item 2: Raw Scan of the image (5 Item-parts)
+Item 3: Master (combined sound+image) (1 Item-part)
+Item 4: Viewing File (combined sound+image made from Master) (1 Item-part)
+Item 5: DCDM (1 Item-part)
+Item 6: DCP (1 Item-part)
+Item 7: DVD (1 Item-part)
 
 Each of these files has a UUID which creates the link to both the LTO-storage and, if applicable, to the server for quick access and online streaming. In every case, the LTO-tape or the Harddrive is not listed as Item, because these are considered Carriers which can contain other Items (and Item-parts) as well.
 An institution may opt to create new Manifestations for digital Items, such as the streaming file or the DCP. This decision needs to be based on the institutions needs, strategy and resources.
 
+Example 2: Born Digital File (e.g. ProRes streaming file)
+
+A ProRes streaming file is submitted to the archive as a copy for the film funding program. 
+A Work record is created. 
+A Manifestation record is created (e.g. Manifestation Type "Internet"). 
+An Item record is created, including all the technical metadata available. You might used tools like Media Info to analyse the file. Some systems can pull information directly from the file when the item is created and stored in the long term storage.
 
 [^1]: Digital medium definition taken from CEN’s “Film Identification – enhancing interoperability of metadata. Element sets and structures. FprEN 15907:2010 (E)
-

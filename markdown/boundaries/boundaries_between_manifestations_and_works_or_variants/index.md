@@ -1,6 +1,5 @@
----
-title: Boundaries between Manifestations and Works or Variants
----
+
+
 <a id="sec-boundaries_between_manifestations_and_works_or_variants"></a>
 The boundaries between a moving image Work and its Variant(s) (i.e. where a Variant rather than a new Work may be created) may be drawn on the basis of one or more of the following alterations to the content given below.[^1]
 

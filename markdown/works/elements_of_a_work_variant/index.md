@@ -1,6 +1,5 @@
----
-title: Elements of a Work
----
+
+
 This section describes the metadata elements that can be used to describe a Work.
 It is up to each institution to choose which elements are most applicable to describe their collections and according to what their system can support.
 
@@ -78,16 +77,16 @@ If an institution’s system allows, a "Type" can be applied with an Identifier 
 <a id="sec-work_title"></a>
 ## Title
 Record at least one title, identifying phrase, or name for the moving image Work.
-If your institution is applying the use of “Type” qualifiers, use “Title Type” to state the function of a particular title (see [Title Type](/works/elements_of_a_work_variant/#sec-work_title_type) and [Titles and Title Types](/appendices/titles/)).
+If your institution is applying the use of “Type” qualifiers, use “Title Type” to state the function of a particular title (see [Title Type](../../works/elements_of_a_work_variant/index.md#sec-work_title_type) and [Titles and Title Types](../../titles/titles/index.md)).
 
 Ideally, the record should at a minimum contain the “preferred title” (also referred to as “main” or “original” title) of the Work.
 Generally, it is the title of a moving image Work when first released, broadcast, published or transmitted (i.e. mounted online) in the country or countries of origin.
-It may differ from the title found on a particular manifestation of the Work; the actual title on the Manifestation is noted in the Manifestation Title element (see [Title](/manifestations/elements_of_a_manifestation/#sec-manifest_title)).
-See [Title Types](/appendices/titles/title_types/#sec-title_types) for additional information.
+It may differ from the title found on a particular manifestation of the Work; the actual title on the Manifestation is noted in the Manifestation Title element (see [Title](../../manifestations/elements_of_a_manifestation/index.md#sec-manifest_title)).
+See [Title Types](../../titles/title_types/index.md#sec-title_types) for additional information.
 
-For creating titles for untitled or unidentified entities see [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](/appendices/titles/title_types/#sec-supplied_devised_titles).Television programmes and other types of content that are part of a series/serial should have both the series/serial title and the episode title included in the Work record.
+For creating titles for untitled or unidentified entities see [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](../../titles/supplied_devised_titles/index.md#sec-supplied_devised_titles).Television programmes and other types of content that are part of a series/serial should have both the series/serial title and the episode title included in the Work record.
 This may be via use of a “Title type” qualifier.
-See [Titles and structuring of series/serials](/appendices/titles/title_types/#sec-titles_of_series_serials) for other options.
+See [Titles and structuring of series/serials](../../titles/series_serials/index.md#sec-titles_of_series_serials) for other options.
 
 !!! example "Example"
     Gone with the wind (United States of America, 1939, Victor Fleming) 
@@ -132,17 +131,17 @@ See [Titles and structuring of series/serials](/appendices/titles/title_types/#s
 
     Chuckles bites the dust – Preferred title
 
-See [Title](/appendices/titles/#sec-appendix_title) for fuller titling details and information.
+See [Title](../../titles/titles/index.md#sec-appendix_title) for fuller titling details and information.
 
-See [Titling of Aggregates](/appendices/aggregates/titling_of_aggregates/#sec-titling_of_aggregates) for titling of Aggregates (e.g., compilations).
+See [Titling of Aggregates](../../aggregates/titling_of_aggregates/index.md#sec-titling_of_aggregates) for titling of Aggregates (e.g., compilations).
 
-For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see [Purpose](/preliminary/purpose_scope_and_use/#sec-purpose).
+For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see [Purpose](../../preliminary/purpose_scope_and_use/index.md#sec-purpose).
 
-For sources of information for the Title, see [Sources of Information](/preliminary/prelim_sources_of_information/#sec-prelim_sources_of_information)
+For sources of information for the Title, see [Sources of Information](../../preliminary/prelim_sources_of_information/index.md#sec-prelim_sources_of_information)
 
 <a id="sec-work_title_type"></a>
 ### Title Type
-Where relevant for an institution, if the Work, Variant or Manifestation includes multiple titles, such as a title in another language for a dubbed or subtitled variant, record the relevant Variant titles and associate a “Title Type” to each title for differentiation between the various types of titles (see [Titles and Title Types](/appendices/titles/)).
+Where relevant for an institution, if the Work, Variant or Manifestation includes multiple titles, such as a title in another language for a dubbed or subtitled variant, record the relevant Variant titles and associate a “Title Type” to each title for differentiation between the various types of titles (see [Titles and Title Types](../../titles/title_types/index.md#sec-title_types)).
 
 <a id="sec-country_of_reference"></a>
 ## Country of Reference
@@ -158,15 +157,11 @@ For example, an Austrian/Italian/French co-production where the Austrian product
 
 If it is not possible to establish clearly the financial percentages of each country’s involvement, then consider the nationality of the director of the title and/or the majority of personnel involved with the film and select that as being the main country of origin of the film.
 
-If the production company has branches in more than one country, choose the one responsible for the production of the work.
-
-If the Work is a multi-national production, with production company branches in multiple countries, and it is not clear which particular one was involved, then choose the predominant production company if known.
+Where the production company has branches in more than one country, choose the production country of the actual branch responsible for the production of the work. If the Work is a multi-national production, with a production company with branches in multiple countries and it is unclear which branch was involved, choose the predominant production company if known.
 
 Alternatively, since it is often impossible for a cataloguer to determine with any level of accuracy the precise percentages of financial involvement of companies, assign country of origin based on the nationality of the production companies in the order that they appear on screen (for example,  copyright companies followed by production and then ‘presents’ companies). Look at which companies are named on the screen as copyright holders, production companies, and 'presents' companies, with all the attendant credits for production companies such as ‘In association with’, ‘With the participation of’, ‘Supported by’, and add the countries in which these companies are based as country of references for the Work, starting with that of the primary production company.
 
 It is recognised that countries can lay out their credits differently, sometimes with less important companies listed first, or with a 'presents' credit as the only credit of the major production companies.
-
-If the production company has branches in more than one country, choose the production country of the actual branch responsible for the production of the work. If the Work is a multi-national production, with a production company with branches in multiple countries and it is unclear which branch was involved, choose the predominant production company if known.
 
 An institution should compile its own rules for ordering of country of reference depending on its preferred practice or needs.
 
@@ -241,10 +236,10 @@ Where full dates are not known use Year-Month YYYY-MM or just Year YYYY, as syst
 
 <a id="sec-date_type"></a>
 ### Date Type
-The year or date should be associated with an event in the life cycle of the Work or its Variants (see [Events (e.g., IPR registration, screenings, awards, etc.)](/works/relationships_of_a_work_variant/#sec-work_events)).
+The year or date should be associated with an event in the life cycle of the Work or its Variants (see [Events (e.g., IPR registration, screenings, awards, etc.)](../../works/relationships_of_a_work_variant/index.md#sec-work_events)).
 If your system supports it, apply a “Date Type” qualifier to make the date or year purpose clear.
 Date Type terms should be derived from a controlled vocabulary.
-For a list of initial terms, see [Event Type](/events/event_type/#sec-event_type).
+For a list of initial terms, see [Event Type](../../events/event_types/index.md#sec-event_type).
 
 For Works and Variants, the date is typically related to events such as its creation, availability (i.e. publication, release, distribution, broadcast or transmission) or registration (e.g. for copyright or intellectual property purposes), or bestowal of an award. 
 
@@ -334,12 +329,10 @@ Changes to the original language(s), as in the case of dubbing, are considered m
 
 Alternatively, such minor changes can constitute a new Manifestation of a moving image Work rather than a Variant.
 Institutions using cataloguing structures that do not distinguish Variant level information (for example, those that create records primarily at the Manifestation level), should apply this alternative.
-(See guidelines for language in a Manifestation: [Language](/manifestations/elements_of_a_manifestation/#sec-manifest_language))
+(See guidelines for language in a Manifestation: [Language](../../manifestations/elements_of_a_manifestation/index.md#sec-manifest_language))
 
 Indicate the language(s) (e.g., Italian) and usage(s) (e.g., Italian intertitles) in which the moving image Variant/Manifestation is written, spoken or sung, if applicable.
 More than one language can occur in different forms, depending on how the content is expressed (e.g., French dialogue and English subtitles).
-
-Language and usag
 
 <a id="sec-language_term"></a>
 ### Language Term
@@ -367,7 +360,7 @@ Record the usage type of a language (e.g. spoken, intertitles, subtitles, etc.) 
  - Language(s) of summaries on containers
  - Language(s) of accompanying material
 
-Optionally, record language usage type at the Manifestation/Item level (see [Language](/manifestations/elements_of_a_manifestation/#sec-manifest_language)).
+Optionally, record language usage type at the Manifestation/Item level (see [Language](../../manifestations/elements_of_a_manifestation/index.md#sec-manifest_language)).
 A value of “original” can be added to the Language element here to indicate that statements made about the language(s) for a particular Manifestation/Item are indicative of the language(s) of the “original” Work. [^10]
 
 Language term and usage included on a Work record should only pertain to the original language in which the moving image was conceived and first made. Any subsequent other dubbed or subtitled versions should be reflected in an associated Variant and/or Manifestation.
@@ -389,7 +382,7 @@ If acceptable summaries are already available in secondary sources, cataloguers 
 !!! example "Example"
     Donald Graham, millionaire ex-convict, plans revenge on society figure John Cabin Brand, whom he blames for the death of his daughter.
 
-A content description may also be a shotlist or listing of the contents of an aggregate Work/Variant (see [Aggregates (Compilations, Multi-component productions)](/appendices/aggregates/)). Shotlists are the ideal content description to have or aim to have, particularly for non-fiction moving images, but it is recognised that resources and accessibility mean this is not always possible or practical for an archive or institution.[^12]
+A content description may also be a shotlist or listing of the contents of an aggregate Work/Variant (see [Aggregates (Compilations, Multi-component productions)](../../aggregates/index.md)). Shotlists are the ideal content description to have or aim to have, particularly for non-fiction moving images, but it is recognised that resources and accessibility mean this is not always possible or practical for an archive or institution.[^12]
 
 !!! example "Example"
     Title: Pathe News [Excerpts No. 6] 
@@ -438,7 +431,7 @@ Include a qualifying keyword or otherwise denote the type of summary (e.g. Synop
 
 <a id="sec-notes"></a>
 ## Notes
-Notes for moving image Works/Variants are annotations providing additional information or clarification relating specifically to Works/Variants attributes and relationships.[^15] See [Cataloguer’s Notes](/appendices/cataloguers-notes/).
+Notes for moving image Works/Variants are annotations providing additional information or clarification relating specifically to Works/Variants attributes and relationships.[^15] See [Cataloguer’s Notes](../../appendices/cataloguers-notes/index.md).
 
 <a id="sec-history"></a>
 ## History

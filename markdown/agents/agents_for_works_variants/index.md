@@ -1,6 +1,4 @@
----
-title: Agents for Works/Variants
----
+
 <a id="sec-agents_for_works_variants"></a>
 ## Agents for Works/Variants (e.g. Cast, Credits, Person, Organisation, etc.)
 !!! abstract "Definition"

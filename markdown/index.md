@@ -1,6 +1,5 @@
----
-title: The FIAF Moving Image Cataloguing Manual
----
+
+
 
 Both editions of the FIAF Moving Image Cataloguing Manual are the result of many years of labour and collaboration with numerous professionals in the moving image field. The 2016 first edition was more than a simple revision of [*The FIAF Cataloguing Rules for Film Archives* (1991)](https://www.fiafnet.org/images/tinyUpload/E-Resources/Commission-And-PIP-Resources/CDC-resources/FIAF_Cat_Rules.pdf) as it contextualised cataloguing within the recent 2010 CEN standard. The text and content that was in V.01 remains fundamentally the same in V.02. However, the overall structure has been changed, incorporating examples and some text previously in Appendices within the body of relevant sections and having specific chapters on the Variant, Agents, and Events etc. Some sections have also been enhanced considerably, with additional illustrative diagrams reflecting data architectural options, to address areas such as digital items, restoration/preservation, production materials and series/serials cataloguing needs. Deviations and evolving interpretations and application of CEN 15907 since 2016 are also considered in areas of V.02.
 

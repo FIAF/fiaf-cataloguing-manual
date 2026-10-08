@@ -1,14 +1,16 @@
 ---
 title: Moving Image Other Relationships
 ---
-<a id="sec-moving_image_works"></a>
+<a id="sec-moving_image_works_other_relationships"></a>
 ## Moving Image Works
-<a id="sec-moving_image_other_relationships_definition"></a>
-## Definitions
-<a id="sec-work_other_relationships"></a>
-### Other relationships[^1]
-If desired or appropriate, express relationships that are not covered by the Agent, Subject, and Event relationships, including all kinds of aggregation and re-use of Works and their Variants.
+
+<a id="sec-moving_image_works_relationships_works"></a>
+### Other Relationships between Moving Images Works and Other Works
+
+If other relationships[^1] are desired or appropriate, express relationships that are not covered by the Agent, Subject, and Event relationships, including all kinds of aggregation and re-use of Works and their Variants.
 (See [Aggregates (Compilations, Multi-component productions)](/appendices/aggregates/).)
+
+These equate to the HasOtherRelation in the Relationships section of the EN15907 data model for Works. [ADD FOOTNOTE WITH LINK TO https://filmstandards.org/fsc/index.php?title=EN_15907_Cinematographic_WorK]
 
 Commonly-occurring relationships include:[^2]
 
@@ -67,7 +69,7 @@ Commonly-occurring relationships include:[^2]
     The wicked lady (United Kingdom, 1945, Leslie Arliss), costume
 
 Record one or more “Other” relationship type terms to express the nature of the relationship to the Work/Variant, choosing the most specific term possible from a controlled list of values , for example, “based on,” “contained in,” etc. .
-A suggested list, which is open and not exhaustive, can be found in [Other Relationships for Works, Variants, Manifestations, Items](/other-relationships/other_relationships_for_works_variants_manifestations_items/#sec-other_relationships_for_works_variants_manifestations_items).
+A suggested list, which is open and not exhaustive, can be found in [Other Relationships for Works, Variants, Manifestations, Items](../other-relationships/other_relationships_for_works_variants_manifestations_items/index.md).
 
 Or, compose a term to describe the relationship between the Work being catalogued and the related Work.
 
@@ -75,25 +77,31 @@ In a note, add any additional information concerning the relationship considered
 
 Describe or demonstrate Work-to-Work relationships through linking to the Work identifier of the related Work, through the usage of relator terms, or according to the confines of the institution’s data structure.
 
-Remember, a Work based on a pre-existing Work should be identified as a Variant of the same Work unless it has been so significantly changed as to have become a new related Work.[^3] See [Boundaries between Works](/boundaries/boundaries_between_works/) and [Boundaries between Works and Variants](/boundaries/boundaries_between_works_and_variants/) for determining when a Work should be identified as a new, but related Work and when it should be identified as a Variant of the original Work.
+Remember, a Work based on a pre-existing Work should be identified as a Variant of the same Work unless it has been so significantly changed as to have become a new related Work.[^3] See [Boundaries between Works](../boundaries/boundaries_between_works/index.md) and [Boundaries between Works and Variants](../boundaries/boundaries_between_works_and_variants/index.md) for determining when a Work should be identified as a new, but related Work and when it should be identified as a Variant of the original Work.
 
-<a id="sec-variants"></a>
-### Variants
-Express the relationship between a moving image Work and a moving image Variant (e.g., Part/part of).
+<a id="sec-moving_image_works_relationships_variants"></a>
+### Other Relationships between Moving Images Works and Variants
+Express the relationship between a moving image Work and a moving image Variant e.g. Part/part of; Parent/child; related, etc.
+
 Describe or demonstrate Work-to-Variant relationships through linking to the Work identifier, through the usage of relator terms, or according to the confines of your data structure.
 
-<a id="sec-manifestations"></a>
-### Manifestations
-Express the relationship between a moving image Work or Variant and a moving image Manifestation (e.g., Part/part of).
+This equates to the HasVariant in the Relationships section of the EN15907 data model for Works.
+
+
+<a id="sec-moving_image_works_relationships_manifestations"></a>
+### Other Relationships between Moving Images Works and Manifestations
+Express the relationship between a moving image Work or Variant and a moving image Manifestation, e.g. Part/part of; Parent/child; related, etc.
+
 Describe or demonstrate Work-to-Manifestation relationships through linking to the Work identifier, through the usage of relator terms, or according to the confines of your data structure.
 
+This equates to the HasManifestation in the Relationships section of the EN15907 data model for Works.
 
-<a id="sec-manifestations_from_chapter"></a>
-## Manifestations from chapter
-<a id="sec-manifest_other_relationships"></a>
-### “Other” Relationships
+<a id="sec-manifestations_other_relationships"></a>
+## Manifestations
+<a id="sec-manifest_relationships_manifestations"></a>
+### Other Relationships between Moving Images Manifestations and Other Manifestations
 Expresses relationships that are not covered by the Agent and Event relationships.
-Aggregation relationships are expressed at the Work/Variant level (see [Aggregates (Compilations, Multi-component productions)](/appendices/aggregates/)).
+Aggregation relationships are expressed at the Work/Variant level (see [Aggregates (Compilations, Multi-component productions)](../aggregates/index.md)).
 
 Commonly-occurring relationships include:
 
@@ -129,7 +137,7 @@ Commonly-occurring relationships include:
 
 Record one or more “Other” relationship type to express the nature of the relationship to the Manifestation, choosing the most specific term possible from existing relator terms lists, for example, “commentary on,” “review of,” etc. 
 Selection should be made from a controlled list of values.
-A suggested list, which is open and not exhaustive, can be found in [Manifestation Other Relationship Types](/other-relationships/other_relationships_for_works_variants_manifestations_items/#sec-manifestation_other_relationship_types).
+A suggested list, which is open and not exhaustive, can be found in [Manifestation Other Relationship Types](../other-relationships/other_relationships_for_works_variants_manifestations_items/index.md#sec-manifestation_other_relationship_types).
 
 Or, compose a term to describe the relationship between the Manifestation being catalogued and the related Manifestation.
 
@@ -139,26 +147,32 @@ Describe or demonstrate Manifestation-to-Manifestation relationships through lin
 
 If the cataloguing system allows the procedure, attach a digital file that reproduces any associated “document.”
 
-<a id="sec-items"></a>
-### Item(s)
-Express the relationship between a moving image Manifestation and a moving image Item (e.g. Part/part of).
 
-Here could be listed the unique Item identifiers associated to this Manifestation, noting their “part of “ relationships to the Manifestation.
+<a id="sec-manifest_relationships_items"></a>
+### Other Relationships between Moving Images Manifestations and Items(s)
+Express the relationship between a moving image Manifestation and a moving image Item, e.g. Part/part of; Parent/child; related, etc.
 
-<a id="sec-work"></a>
-### Work
+Here could be listed the unique Item identifiers associated to this Manifestation, noting their “part of “ relationships to the Manifestation in systems using a part/part of hierarchical structuring or linked related association.
+
+This equates to the HasItem in the Relationships section of the EN15907 data model for Manifestations. [ADD FOOTNOTE WITH LINK TO https://filmstandards.org/fsc/index.php?title=EN_15907_Manifestation]
+
+
+<a id="sec-manifest_relationships_work"></a>
+### Other Relationships between Moving Images Manifestations and a Work
 Express the relationship between a moving image Manifestation and a moving image Work (e.g., Part/part of).
 Describe or demonstrate Manifestation-to-Work relationships through linking to the Manifestation identifier, through the usage of relator terms, or according to the confines of your data structure.
 
-<a id="sec-variant"></a>
-### Variant
-Express the relationship between a moving image Manifestation and a moving image Variant (e.g., Part/part of).
+<a id="sec-manifest_relationships_variant"></a>
+### Other Relationships between Moving Images Manifestations and a Variant
+Express the relationship between a moving image Manifestation and a moving image Variant, e.g. Part/part of; Parent/child; related, etc.
 Describe or demonstrate Manifestation-to-Variant relationships through linking to the Manifestation identifier, through the usage of relator terms, or according to the confines of your data structure.
 
 
+<a id="sec-items_other_relationships"></a>
+## Items
 
-<a id="sec-items_from_chapter"></a>
-### Items from chapter
+<a id="sec-moving_image_items_relationships_items"></a>
+### Other Relationships between Moving Images Items and another Item
 Express relationships that are not covered by the Agent and Event relationships.
 These may include compilations of convenience, i.e. where an institution has transferred copies
 of two or more films onto one reel/tape/DVD etc. for convenient storage.[^4]
@@ -201,8 +215,19 @@ Similarly, in the case of restorations where separate Items or elements have bee
 
       Nitrate Negative copy of Carnival (c.1927)
 
+*Non-moving image Works/Items (e.g. Objects, documents, etc. relating to a specific Item)*
+
+!!! example "Example"
+    Shots of 1932 (United Kingdom, 1932) (home movie) 9.5mm Safety film Item related to paper donor agreement
+
+Record one or more “Other” relationship type terms to express the nature of the relationship to the Item, choosing the most specific term possible from existing relator terms lists, for example, “accompanied by,” “contained in,” etc. Selection should be made from a controlled list of values.
+A suggested list, which is open and not exhaustive, can be found in [Item Other Relationship Types](/other-relationships/other_relationships_for_works_variants_manifestations_items/#sec-item_other_relationship_types).
+
+In a note, add any additional information concerning the relationship considered relevant.
+
+If the cataloguing system allows, attach a digital file that reproduces any associated “document”.
+
 [^1]: EN 15907 8.5 HasAsSubject; YCR, 1.2.7 Relationships With Other Moving Image Works or Other Kinds of Works
 [^2]: OLAC TF, Part I, Moving Image Work Definition and Boundaries, Commonly-Occurring Relationships, p. 16.
 [^3]: YCR, 1.1.7 Works based on previous works, pp. 24-25.
-[^4]: See Appendix [Aggregate or Carrier](/appendices/aggregates/identifying_aggregates/#sec-aggregate_or_carrier)
-
+[^4]: See Appendix [Aggregate or Carrier](../aggregates/identifying_aggregates/index.md#sec-aggregate_or_carrier)

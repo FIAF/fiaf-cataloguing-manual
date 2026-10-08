@@ -1,6 +1,4 @@
----
-title: Titles and structuring for production materials (including out-takes, screen tests, rushes)
----
+
 
 Constructing titles for production materials usually falls into the categories of either Partially Supplied/Devised titling or Fully Supplied/Devised titling, involving the title of the moving image with which the production material is associated + the relevant form, e.g. rushes, screen tests, etc. Titling options for production materials records have been described in both A.2.5.1 and A.2.5.2 above. 
 
@@ -38,4 +36,3 @@ Or, optionally, with the Collection Work being in an associated relationship wit
 
 
 Trailers do not strictly constitute production material as they are effectively entities in their own right, potentially with Agents that are different to those of the moving image itself. They are a type of advertisement for the moving image and have their own publication via cinema release, television broadcast, or online streaming. They would follow the titling laid out in A.2.5.1. and A.2.5.2 above and usually be linked in an associative relationship with the original moving image for which they are trailers.
-
