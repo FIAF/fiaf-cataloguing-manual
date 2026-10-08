@@ -1,7 +1,8 @@
-
-
-A relationship associates an instance of a Work/Variant with another instance of an entity.
-Entities are described in subsequent sections, but examples of entities are people or companies associated with a Work/Variant (eg, studio, director, cast), events (copyright registration), subjects (other Works/Variants are about the same subject), and records.
+---
+title: Relationships of a Work (links/associations with other entities/records)
+---
+A relationship associates an instance of a Work with another instance of an entity.
+Entities are described in subsequent sections, but examples of entities are people or companies associated with a Work (eg, studio, director, cast), events (copyright registration), subjects (other Works are about the same subject), and records.
 
 Relationships can be implemented in many ways, depending on the purpose, the modelling paradigm, or architectural constraints of the chosen platform.
 These guidelines are intended to be data structure neutral.[^2] Therefore, these guidelines cannot prescribe exactly how to demonstrate relationships.
@@ -16,21 +17,12 @@ A Work may have relationships with the following:
 - [Manifestation(s)](/manifestations/#sec-moving_image_manifestations)
 - Other (including other Works)
 
-A Variant may have relationships with the following:
-
-- [Agent(s)](/agents/agents_for_work_variants/#sec-agents_for_works_variants)
-- [Event(s)](/works/relationships_of_a_work/#sec-work_events)
-- [Subject(s)/Genre(s)/Form(s)](/works/relationships_of_a_work/#sec-subject_genre_form_terms)
-- [Work(s)](/works/#sec-moving_image_work)
-- [Manifestation(s)](/manifestations/#sec-moving_image_manifestations)
-- Other (including other Variants)
-
 <a id="sec-work_events"></a>
 ## Events (e.g., IPR registration, screenings, awards, etc.)[^1]
-An Event characterises occurrences in the lifecycle of a moving image Work or its Variants.
+An Event characterises occurrences in the lifecycle of a moving image Work.
 Instances of any Event type can have Agent and “Other” relationships.
 
-Record one or more Event type, for example, “publication,” “copyright/IPR registration,” “festival showing,” etc., to express the nature of the Event’s relationship to the Work/Variant.
+Record one or more Event type, for example, “publication,” “copyright/IPR registration,” “festival showing,” etc., to express the nature of the Event’s relationship to the Work.
 Selection should be made from a controlled list of terms.
 A suggested list, which is open and not exhaustive, can be found in [Event Type](../../events/event_types/index.md).
 
@@ -38,11 +30,11 @@ A suggested list, which is open and not exhaustive, can be found in [Event Type]
 ## Subject/Genre/Form Terms
 Provide access to the Work by means of subjects (or subject identifiers) that describe the content of the Work, and additionally by genre(s) and/or form(s) (or identifiers) of which the Work is an example (i.e. what the Work is). Works should ideally have at least one Genre (and/or Form) and one Subject term as a minimum.
 
-Genre - reflects what the Work is (i.e. in terms of categories of Works characterised by similar plots, themes, settings, situations, and characters, e.g. Horror, Science-fiction, Crime, Westerns, Thrillers, Comedy, etc.)
+**Genre** reflects what the Work is (i.e. in terms of categories of Works characterised by similar plots, themes, settings, situations, and characters, e.g. Horror, Science-fiction, Crime, Westerns, Thrillers, Comedy, etc.)
 
-Form - a further categorisation term relating to what the Work is and the form it takes, descriptive of the characteristics of its format and/or purpose, e.g. Fiction, Non-fiction, Short, Animation, Video Essay, etc. which some systems may have as a separate category whilst others incorporate them within their Genre terms.
+**Form** a further categorisation term relating to what the Work is and the form it takes, descriptive of the characteristics of its format and/or purpose, e.g. Fiction, Non-fiction, Short, Animation, Video Essay, etc. which some systems may have as a separate category whilst others incorporate them within their Genre terms.
 
-Subject - reflects the content of the Work, what it features and what it is about.
+**Subject** reflects the content of the Work, what it features and what it is about.
 
 There are no rules as to how many genre and subject terms can be associated with a Work. It will be different from moving image to moving image and down to the assessment of the individual cataloguer within the levels of subject cataloguing decided by their institution.
 
@@ -175,8 +167,6 @@ But it is up to each institution to decide the depth and level of subject indexi
 “one must try to capture what is seen onscreen as well as what the images are about conceptually.” (NB.Olwen Terris - cite source in footnote
 
 Decisions will depend on resources, technologies, an institution’s requirements and user needs, etc.  Some may choose to apply different levels and balances of these two **of** and **about** elements depending on whether the moving image is fiction or non-fiction. Footage libraries, for example, may be more likely to concentrate on **of** elements, but other archives may prefer to focus on **about** subjects. 
-
-[ADD IN FURTHER EXAMPLES FROM OTHER ARCHIVES TO BOURNE ONE BELOW]
 
 For example, one practice for fiction moving images may be to assess what they are mainly about and apply  2-3 core subject terms reflecting the central themes or the nub of what they are about, plus any extra ones deemed necessary or relevant, e.g.:
 
