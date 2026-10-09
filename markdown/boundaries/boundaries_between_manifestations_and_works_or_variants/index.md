@@ -3,6 +3,19 @@
 <a id="sec-boundaries_between_manifestations_and_works_or_variants"></a>
 The boundaries between a moving image Work and its Variant(s) (i.e. where a Variant rather than a new Work may be created) may be drawn on the basis of one or more of the following alterations to the content given below.[^1]
 
+When an institution has set a policy not to use Variants, the boundaries will usually be between a Work and Manifestations, i.e., a new Manifestation linked to the Work would be created rather than a Variant, or else a separate new Work, depending on assessment of the level of change or variation.
+
+Boundaries for this decision are akin to the concepts of “versions with major changes” and “variations with minor changes” in the FIAF Cataloguing Rules for Film Archives (1991) [http://www.fiafnet.org/pages/E-Resources/FIAF-Cataloguing-Rules.html](http://www.fiafnet.org/pages/E-Resources/FIAF-Cataloguing-Rules.html)
+
+!!! example "Example"
+    Our herring industry (GB, 1932) is the shortened version of Drifters (GB, 1929).
+
+Where a Work/Variant structure exists then Our herring industry would constitute a Variant of the Work Drifters.
+
+Where no Variant structure exists then the cataloguer would decide whether it constituted a Manifestation or new Work (i.e. whether it constituted a "variation with minor changes", or a "version with major changes").
+
+It is up to every archive or institution to choose and make its own policy on whether to use Variants or Manifestations.
+
 ## Change in footage and/or change in continuity (secondary editing)
 
 *Different footage used from the original realisation of the Work, even where footage used was shot at the same time and edited together by the same people, or following the pattern set by original creators.*
@@ -129,18 +142,6 @@ Examples[^3]:
 
     Dubbed Variant 2:, I figli del deserto – Italian (spoken language) 1946: Alberto Sordi, voice of Oliver Hardy.
 
-When an institution has set a policy not to use Variants, the boundaries will usually be between a Work and Manifestations, i.e., a new Manifestation linked to the Work would be created rather than a Variant, or else a separate new Work, depending on assessment of the level of change or variation.
-
-Boundaries for this decision are akin to the concepts of “versions with major changes” and “variations with minor changes” in the FIAF Cataloguing Rules for Film Archives (1991) [http://www.fiafnet.org/pages/E-Resources/FIAF-Cataloguing-Rules.html](http://www.fiafnet.org/pages/E-Resources/FIAF-Cataloguing-Rules.html)
-
-!!! example "Example"
-    Our herring industry (GB, 1932) is the shortened version of Drifters (GB, 1929).
-
-Where a Work/Variant structure exists then Our herring industry would constitute a Variant of the Work Drifters.
-
-Where no Variant structure exists then the cataloguer would decide whether it constituted a Manifestation or new Work (i.e. whether it constituted a "variation with minor changes", or a "version with major changes").
-
-It is up to every archive or institution to choose and make its own policy on whether to use Variants or Manifestations.
 
 [^1]: The types of alterations given here are adapted from Yee, “The Concept of Work for Moving Image Materials.”
 [^2]: Il cinema ritrovato 2006. 20. edizione: sabato 1 luglio-sabato 8 luglio / Cineteca del Comune di Bologna. – Bologna : Cineteca del Comune di Bologna, 2006, p. 154 (Dossier Mr. Arkadin)
