@@ -91,13 +91,13 @@ nav:
     - Works: works/index.md
     - Attributes of a Moving Image Work: works/attributes_of_a_moving_image_work_variant/index.md
     - Elements of a Work: works/elements_of_a_work_variant/index.md
-    - Relationships of a Work/Variant: works/relationships_of_a_work_variant/index.md
+    - Relationships of a Work: works/relationships_of_a_work_variant/index.md
 
   - Variants:
     - Variants: variants/index.md
     - Attributes of a Variant: variants/attributes_of_a_variant/index.md
     - Elements of a Variant: variants/elements_of_a_variant/index.md
-    - Relationships of a Work/Variant: variants/relationships_of_a_work_variant/index.md
+    - Relationships of a Variant: variants/relationships_of_a_work_variant/index.md
 
   - Manifestations:
     - Manifestations: manifestations/index.md
