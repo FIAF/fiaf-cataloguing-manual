@@ -12,19 +12,40 @@
 
 Whereas the Manifestation record describes the “ideal” of a particular format or publication, the Item record represents the actual holding in a repository’s collection.
 
-An Item may consist of one or more components or parts (Item-parts), i.e. the whole Item may consist for example of 1 reel or 5 reels of analogue film, 2 VHS tapes, 1 DVD, a separate sound and image file, or files for each reel of film when digitised.
-An Item record may contain fields or scope for separate barcodes and condition information for each Item-part of the Item (each reel/tape/file for example) and separate barcodes or other identifier for each container of those Item parts if required.
+An Item may consist of one or more components or parts (Item-parts). An Item record may contain fields or scope for separate barcodes and condition information for each Item-part of the Item (each reel/tape/file for example) and separate barcodes or other identifier for each container of those Item parts if required.
 
 The Item may be whole or incomplete or a fragment.
 In the case of purely digital media, an Item is defined as the availability of the computer file, irrespective of the number of backup copies that may exist.[^1]
 
 Institutions may also opt to catalogue the carrier with several Items on it, e.g. an LTO tape or a Harddrive with multiple digital files (either belonging to one work or several works), because there is no other option to list digital Items under a Manifestation in their databases. However, this practice cannot be recommended in the long run for the lack of clarity and impaired search options this may result in. Ideally digital files are treated like distinct Items with Item-parts where applicable.
 
-Some examples of how institutions catalogue digital Items:
+Here are some examples for Item-parts:
 
-Example 1: Digitisation of analogue material in-house
+A feature fiction film as stored as a 35mm print consisting of 6 rolls/6 cans. This would be 1 Item and 6 Item-parts with their own bar-code or shelve number.
 
-A 5 reel analogue film with image and sound has been digitised in a preservation project.
+A short documentary survives on one 16mm reel in one can. This would be 1 Item and 1 Item-part with a bar code or shelve number.
+
+A TV-documentary can be found in the archive on 2 Umatic tapes. This would be 1 Item and 2 Item-parts.
+
+The optical sound-track of a fiction film survives as a 35mm negative in 6 parts/6 cans. This would be 1 Item and 6 Item-parts with their own bar-code or shelve number.
+
+The viewing file for your digital restoration has been made for streaming. This would be 1 Item and 1 Item-part.
+
+Your 6 rolls of a 35mm negative of a fiction film have been scanned. This would be 1 Item and 6 Item-parts, following the analogue tradition. In the same way, your sound negative would amount to 1 Item and 6 Item-parts.
+
+**Examples for Digital Items**
+
+How to deal with digital Items depends very much on the specific set-up. Some archives have the option to run LTO tape libraries and link their files via UUIDs to the records database. Others store digital Items on LTO tapes or Harddrives. Some institutions have a fully developed digitisation and restoration workflow in-house with many Items (and accordingly Manifestations) produced, others only store a viewing file as proRes. Many archives take on digital born Items and have to garantuee authenticity of the data using the necessary infrastructure. For digital bitstreams, "inspection" is performed via automated fixity checks and checksum monitoring (like MD5 or SHA-256) to ensure the data has not degraded or changed.
+
+Most film archives have modelled treating digital Items along the way they catalogued their analogue Items, thus creating Items for digital files. 
+
+Digital Items come with many more language options though, which can be chosen and thus exist somehow simultaneously. This makes cataloguing challenging because choices need to be made on the Manifestation level already. See here for more information on [multiple language options](/manifestations/elements_of_a_manifestation/#sec-multiple_language_options_for_Digital_Manifestations_Items).
+
+Cataloguing digital Items have become a lot more important and less streamlined. Here are some examples of how institutions catalogue digital Items. 
+
+***Digitisation or Restoration of analogue material in-house***
+
+A 5 reel analogue film with image and sound has been digitised and maybe retored in a preservation project.
 Under the same Manifestation as the analogue material the following Items are listed:
 Item 1: Raw Scan of the soundtrack (5 Item-parts)
 Item 2: Raw Scan of the image (5 Item-parts)
@@ -37,7 +58,7 @@ Item 7: DVD (1 Item-part)
 Each of these files has a UUID which creates the link to both the LTO-storage and, if applicable, to the server for quick access and online streaming. In every case, the LTO-tape or the Harddrive is not listed as Item, because these are considered Carriers which can contain other Items (and Item-parts) as well.
 An institution may opt to create new Manifestations for digital Items, such as the streaming file or the DCP. This decision needs to be based on the institutions needs, strategy and resources.
 
-Example 2: Born Digital File (e.g. ProRes streaming file)
+***Born Digital File (e.g. ProRes streaming file)***
 
 A ProRes streaming file is submitted to the archive as a copy for the film funding program. 
 A Work record is created. 
