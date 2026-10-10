@@ -27,7 +27,7 @@ Depending on the quantity and nature of materials, an institution may create Wor
 
 Equally, an institution may choose to link all acquired production Items (whether analogue or digital) to a single Pre-Release Manifestation linked to the main complete Work, or possibly to several different Pre-Release Manifestations such as one for Screen Tests, one for Rushes, one for general production material, etc.
 
-For further details about possibilities and options in structuring and cataloguing production materials and using Pre-release Manifestations, with examples, see [Titles and structuring for production materials](/titles/title_types/titles_and_structuring_for_production_materials_including_out_takes_screen_tests_rushes/index.md).
+For further details about possibilities and options in structuring and cataloguing production materials and using Pre-release Manifestations, with examples, see [Titles and structuring for production materials](/titles/title_types/titles_and_structuring_for_production_materials/index.md).
 
 It may also be used for initial record creation purposes prior to material being viewed and catalogued, which may then subsequently result in further Pre-Release Manifestations and/or Works/Variants
 
