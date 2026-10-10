@@ -39,7 +39,7 @@ How to deal with digital Items depends very much on the specific set-up. Some ar
 
 Most film archives have modelled treating digital Items along the way they catalogued their analogue Items, thus creating Items for digital files. 
 
-Digital Items come with many more language options though, which can be chosen and thus exist somehow simultaneously. This makes cataloguing challenging because choices need to be made on the Manifestation level already. See here for more information on multiple language tracks. LINK to 8.3.3.3 Multiple language options for Digital Manifestations/Items.
+Digital Items come with many more language options though, which can be chosen and thus exist somehow simultaneously. This makes cataloguing challenging because choices need to be made on the Manifestation level already. See here for more information on [multiple language options](/manifestations/elements_of_a_manifestation/#sec-multiple_language_options_for_Digital_Manifestations_Items).
 
 Cataloguing digital Items have become a lot more important and less streamlined. Here are some examples of how institutions catalogue digital Items. 
 
