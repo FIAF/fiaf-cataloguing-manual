@@ -47,7 +47,7 @@ Record at least one title, identifying phrase, or name for the Manifestation Tit
 This is a transcribed element, reflecting the actual title as it appears on screen.
 The original release title would be added under the Work/Variant Title field.
 
-If multiple titles are recorded, where allowable, associate a “Title Type” to a title for differentiation between the various types of titles (see [Title Type](../../manifestations/elements_of_a_manifestation/index.md#sec-manifest_title_type) and [Title Types](../../titles/title_types/index.md#sec-title_types)).
+If multiple titles are recorded, where allowable, associate a “Title Type” to a title for differentiation between the various [Title Types](../../titles/title_types/index.md#sec-title_types)).
 
 The title of a Manifestation can sometimes differ, either slightly or wholly from the title of the Variant or Work to which it is linked.
 This may be the case, for example, with the acquisition of an incomplete Manifestation lacking a title or with a title added by the source of the acquisition.
