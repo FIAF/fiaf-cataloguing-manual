@@ -104,6 +104,7 @@ If usage type(s) cannot be determined, indicate a value of “unknown”.
 
     TV broadcast – United Kingdom, 2012-04-21 - Swedish (Dialogue (original)), Danish (Dialogue (original)), English             (Subtitles)
 
+<a id="sec-multiple_language_options_for_digital_manifestions_items"></a>
 ### Multiple language options for Digital Manifestations/Items
 
 The above examples of language term and usage type relate to instances of one particular manifestation or print on analogue media or a recording of a particular broadcast, where there would be multiple individual instances of different language dialogue and subtitle/dubbed combinations (i.e. an individual Manifestation and Item(s) for each). However, with digital media, including digital streaming files, DVDs, Blu Rays, etc. there are often multiple language choices all on the one entity.
