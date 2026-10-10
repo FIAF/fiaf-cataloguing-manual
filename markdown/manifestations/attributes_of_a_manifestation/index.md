@@ -5,13 +5,13 @@
 As mentioned at [Boundaries between Manifestations](../../boundaries/boundaries_between_manifestations/index.md), a Manifestation is defined on the basis of two criteria: changes in the publication context and changes in format.
 The element Manifestation Type describes the specific type of change.
 
-The Manifestation Type is expressed by a phrase denoting the relationship between the Manifestation and the associated Work/Variant, for example, “pre-release,” “theatrical distribution,” “not for release,” “original,” etc.
+The Manifestation Type is expressed by a phrase denoting the relationship between the Manifestation and the associated Work/Variant, for example, “Pre-Release,” “Theatrical Distribution,” “Not for Release,” “Original,” etc.
 
 Record the Manifestation Type by taking the most suitable term from a controlled list.
 
 The Manifestation types below can be used with Manifestations associated with either Works or Variants.
 
-EN 15907 does not specify any Manifestation types other than Unknown. The Manifestation types listed below are based on existing types widely used by various archives and used with Manifestations associated with either Works or Variants. They are not the only possible types that can be used - this is not a definitive list of types. Institutions should use the types and terminologies best suited for their requirements and collections.
+EN 15907 does not specify any Manifestation types other than "Unknown". The Manifestation types listed below are based on existing types widely used by various archives and used with Manifestations associated with either Works or Variants. They are not the only possible types that can be used - this is not a definitive list of types. Institutions should use the types and terminologies best suited for their requirements and collections.
 
 <a id="sec-pre_release"></a>
 ### Pre-Release (or Production)
@@ -27,7 +27,7 @@ Depending on the quantity and nature of materials, an institution may create Wor
 
 Equally, an institution may choose to link all acquired production Items (whether analogue or digital) to a single Pre-Release Manifestation linked to the main complete Work, or possibly to several different Pre-Release Manifestations such as one for Screen Tests, one for Rushes, one for general production material, etc.
 
-For further details about possibilities and options in structuring and cataloguing production materials and using Pre-release Manifestations, with examples, see [Titles and structuring for production materials](/appendices/titles/title_types/#titles-and-structuring-for-production-materials-including-out-takes-screen-tests-rushes).
+For further details about possibilities and options in structuring and cataloguing production materials and using Pre-release Manifestations, with examples, see [Titles and structuring for production materials](/titles/title_types/titles_and_structuring_for_production_materials_including_out_takes_screen_tests_rushes/index.md).
 
 It may also be used for initial record creation purposes prior to material being viewed and catalogued, which may then subsequently result in further Pre-Release Manifestations and/or Works/Variants
 
