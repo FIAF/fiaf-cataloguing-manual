@@ -27,6 +27,7 @@ Here are some examples for Item-parts:
 - The viewing file for your digital restoration has been made for streaming. This would be 1 Item and 1 Item-part.
 - Your 6 rolls of a 35mm negative of a fiction film have been scanned. This would be 1 Item and 6 Item-parts, following the analogue tradition. In the same way, your sound negative would amount to 1 Item and 6 Item-parts.
 
+<a id="sec-digital_items_examples"></a>
 **Examples for Digital Items**
 
 How to deal with digital Items depends very much on the specific set-up. Some archives have the option to run LTO tape libraries and link their files via UUIDs to the records database. Others store digital Items on LTO tapes or Harddrives. Some institutions have a fully developed digitisation and restoration workflow in-house with many Items (and accordingly Manifestations) produced, others only store a viewing file as proRes. Many archives take on digital born Items and have to garantuee authenticity of the data using the necessary infrastructure. For digital bitstreams, "inspection" is performed via automated fixity checks and checksum monitoring (like MD5 or SHA-256) to ensure the data has not degraded or changed.
