@@ -71,7 +71,7 @@ Record the name of the institution possessing the moving image Item or authorise
 Optionally, if available, record a suitable repository identifier or a registered namespace identifier for the institution.
 
 <a id="sec-item_location"></a>
-#### Item Location
+### Item Location
 Item descriptions should indicate a storage location number in order to provide access and retrieval.
 Movements and changes of location should also be logged in order to ascertain the precise location of an Item at any given time.
 If possible, use the Item Identifier and Identifier Type fields to note an Itemâ€™s location (see [Identifier](../../items/elements_of_a_moving_image_item/index.md#sec-item_identifier)).
@@ -79,8 +79,8 @@ If possible, use the Item Identifier and Identifier Type fields to note an Itemâ
 This could be a single simple field, or could include multiple fields to reflect various electronic package or barcode numbers that may be attached to each individual can or container, shelf, or whatever is applicable to an individual institution.
 
 <a id="sec-item_acquisition type"></a>
-#### Item Acquisition Type
-Moving image items change location during their life cycle in the archive and before or after. They are acquired, loaned or de-acquisitioned, just to name some examples.
+### Item Acquisition Type
+Moving image items change location during their life cycle in the archive and before or after. They are acquired, loaned, removed or not acquired.
 Nowadays it becomes more and more important to have information about the provenance of Items in an institution's collection. 
 In every one of these actions it is useful to record the agents involved (e.g. donor, recipient), location, and type of acquisition (e.g. donation). Ideally record the person/institution by linking to internal authority records as well as the date when the Item entered the collection.
 The transfer of ownership is important for an archive to document, as it establishes legal ownership of the collection.
@@ -92,7 +92,7 @@ Particular acquisition agreements between object owner and archive may enforce r
 Record the acquisistion Type at Item level as a value list (e.g. bequest, commission, donation, off-air recording, purchase, unknown) as well as where it came from. 
 
 <a id="sec-item_ownership"></a>
-#### Item Ownership
+### Item Ownership
 If possible, record who currently has ownership of the Item, ideally also tracking the history of the ownership. For example, the Item could have been deposited 20 years ago and has now changed ownership by contract to the holding institution. Many times, preservation decisions might be influenced by ownership status. Ideally record the person/institution by linking to internal authority records as well as the dates when changes of ownership occured. 
 
 <a id="sec-item_item_element_type"></a>
