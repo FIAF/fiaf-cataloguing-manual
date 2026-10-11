@@ -11,6 +11,7 @@
 |  |  | [Manufacture](#sec-manufacture) |  |
 |  |  |  | [Inspection](../../events/further_event_types/index.md#sec-inspection) |
 |  |  |  | [Acquisition](../../events/further_event_types/index.md#sec-acquisition) | 
+|  |  |  | [Accession](../(..)events/further_event_types/index.md#sec-accession) |
 
 <a id="sec-event_type"></a>
 
