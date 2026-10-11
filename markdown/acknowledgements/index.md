@@ -13,7 +13,7 @@ The work for the 2016 Manual could not have been done without the support and gu
 
 We are indebted to Linda Tadic, who did a superb job of editing the Manual in its first version.
 
-We thank current and former members as well as the corresponding members of the CDC, the members of the FIAF Executive Committee, and the FIAF Senior Administrator Christophe Dupin for their support and active contributions.
+We thank current and former members as well as the corresponding members of the CDC, the members of the FIAF Executive Committee, and the FIAF Senior Administrator Christophe Dupin for their support and active contributions, namely Anna Högner, Jessica Hébert, Dylan Cave, Kay Forbister, and Annabelle Shaw.
 
 We thank particularly Katerina Kampoli for contributing to the much needed chapter on Variants, thus bringing to this Manual the vision Laurent Bismuth had. Also, Circe Itzel Sanchez for bringing her extensive knowledge of bibliographic standards such as IFLA-Library Reference Model to development of the Agents chapter in particular, and also producing documents relating to mapping between standards and various illustrative diagrams, links to which can be found in the Manual.  
 
