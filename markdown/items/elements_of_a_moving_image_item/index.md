@@ -51,9 +51,9 @@ For creating titles for untitled or unidentified entities see [Supplied/Devised 
 For the treatment of Aggregates (e.g. compilations of whole Manifestations) as applied to Items, see the appendix concerning 
 [Titling of Aggregates](../../aggregates/titling_of_aggregates/index.md)
 
-For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see sections within [ADD LINK TO Preliminary Notes main chapter]
+For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see [Purpose](../../preliminary/purpose_scope_and_use/index.md#sec-purpose).
 
-For sources of information for the Title, see [Sources of Information](../../preliminary/prelim_sources_of_information/index.md#sec-prelim_sources_of_information).
+For sources of information for the Item Title, see [Sources of Information](../../preliminary/prelim_sources_of_information/index.md#sec-prelim_sources_of_information).
 
 <a id="sec-item_title_type"></a>
 ### Title Type
