@@ -34,7 +34,7 @@ How to deal with digital Items depends very much on the specific set-up. Some ar
 
 Most film archives have modelled treating digital Items along the way they catalogued their analogue Items, thus creating Items for digital files. 
 
-Digital Items come with many more language options though, which can be chosen and thus exist somehow simultaneously. This makes cataloguing challenging because choices need to be made on the Manifestation level already. See here for more information on [multiple language options](/manifestations/elements_of_a_manifestation/#sec-multiple_language_options_for_Digital_Manifestations_Items).
+Digital Items come with many more language options though, which can be chosen and thus exist somehow simultaneously. This makes cataloguing challenging because choices need to be made on the Manifestation level already. See here for more information on [Multiple Language Options](/manifestations/elements_of_a_manifestation/#sec-multiple_language_options_for_Digital_Manifestations_Items).
 
 Cataloguing digital Items have become a lot more important and less streamlined. Here are some examples of how institutions catalogue digital Items. 
 
@@ -72,7 +72,7 @@ Question: How to manage the language options best? Should a variant record or ma
 Answer: 
 The main issue has been how to handle them with the usual fields/elements traditionally found in a Variant/Manifestation, whereby Language traditionally means the main language(s) on the soundtrack, e.g. a film with both English and French dialogue in it. In those instances, two languages can be added and any subtitles to reflect what is on the acquired Item. But with digital Items you often have multiple selectable language options, as in the example you give.
 
-There are different options. Structuring choices will very much depend on whether you have a database system that allows for one record to have two parent records or not. In Section 8.3.3.3 Multiple language options for Digital Manifestations/Items (LINK), taken from previous discussions and balancing aspects such as whether Variants are used or not, and different systems and levels of hierarchies used by different archives. 
+There are different options. Structuring choices will very much depend on whether you have a database system that allows for one record to have two parent records or not. In the chapter about Manifestations, the section on [Multiple Language Options](/manifestations/elements_of_a_manifestation/#sec-multiple_language_options_for_Digital_Manifestations_Items) can be found more information, which was taken from previous discussions and balancing aspects such as whether Variants are used or not, and different systems and levels of hierarchies used by different archives. 
 
 The most pragmatic way would be this one: A Work and a Manifestation (Variant optional) record is created, e.g. Manifestation Type "Internet" .
 An Item record is created, including all the technical metadata available. You might use tools like Media Info to analyse the file and extract technical metadata. Some systems can pull information directly from the file when the item is created and stored in the long term storage.
