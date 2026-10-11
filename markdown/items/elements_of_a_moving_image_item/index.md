@@ -16,6 +16,8 @@ Further data relating to the condition, preservation, location, and, [acquisitio
 
 These may be either added to the Item description itself or, where this is not possible, related to other separate files or databases, via physical link or text indication.
 
+A useful collection of technical metadata on digital Items as well as data collected during digitisation, can be found here: LINK TO ELAS DOCUMENT.
+
 <a id="sec-item_identifier"></a>
 ## Identifier
 Create an unambiguous numerical or alphanumerical reference to the moving image Item, such as a call number, barcode, shelf mark, UUID or similar, to uniquely identify the copy.[^3] This may be in addition to separate Acquisition and Accession number(s) or identifier(s). More information on [Acquisition](/events/further_events/sec-sec-acquisition).
