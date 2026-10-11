@@ -395,7 +395,7 @@ although a fuller "who, what, where, when" titling is advisable for clarity. It 
     Oasis - Wonderwall
     Mike Flowers Pop - Wonderwall
 
-naming the artist as part of the music video title. This was to help differentiate 
+At BFI we developed practice of naming the artist as part of the music video title. This was to help differentiate 
  between commonly named songs (e.g. Charley Pride - The Power of Love, Frankie Goes to Hollywood - The Power of Love, Huey Lewis and the News - The Power of Love, Jennifer Rush - The Power of Love, all 1984/5; or Oasis - Wonderwall, Mike Flowers Pop - Wonderwall, both 1995). It also helped to distinguish between very different works (e.g. Absolute Beginners (feature film), David Bowie - Absolute Beginners (Music Video), both 1986). Title would be styled like this: Artist Name - Song Title (e.g. David Bowie - Absolute Beginners) with the song title included as an alternative title. 
 
 
