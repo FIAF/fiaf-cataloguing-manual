@@ -7,7 +7,7 @@ See “Shallow hierarchy model: 2 levels” in [Elements of description across W
 Ideally the information need only be recorded once irrespective of where in the data structure an institution must place it.
 Therefore guidelines for the treatment of physical/digital description elements are explained fully in the Manifestation chapter.
 
-This chapter contains Item-specific physical/digital description elements beginning at [Item Specifics/Extent (e.g. physical/Digital description)](../../items/elements_of_a_moving_image_item/index.md#sec-item_specifics_extent).
+This chapter contains Item-specific physical/digital description elements beginning at [Item Specifics/Extent](../../items/elements_of_a_moving_image_item/index.md#sec-item_specifics_extent).
 For example, properties such as Extent and Format at the Manifestation level represent the “ideal,” and item-specific information will capture where it differs from this ideal.
 Only elements that are considered Item-specific have guidelines for the recording of data.
 Physical/digital description elements that are considered Manifestation-specific, but which may be repeated at the Item level, contain hyperlinks to the relevant sections in the Manifestation chapter.
