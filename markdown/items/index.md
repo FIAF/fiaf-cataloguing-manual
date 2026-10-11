@@ -95,10 +95,10 @@ Depending on that, you create Item records (either in the same Manifestation or 
 
 If an institution uses Variants, a Variant record could be created for the French language version and one for the German language version, plus Manifestations, and each srt file Item under the relevant one could be linked.
 
-A pragmatic decision would be to record the language options at the Item level, either in the respective field for languages or in a notes field. The srt file stored in the LTO tape library would have the srt file within the bag of the digital Item.
+Option 1: A pragmatic decision would be to record the language options at the Item level, either in the respective field for languages or in a notes field. The srt file stored in the LTO tape library would have the srt file within the bag of the digital Item.
 That way you have two Items: the DCDM and the ProRes, each with language information rather than the srt files as separate Items.
 
-Another, more granular option would be to catalogue the srt files as separate Items too; so there should be 4 Item records in total.
+Option 2: Another, more granular option would be to catalogue the srt files as separate Items too; so there should be 4 Item records in total.
 As the srt files are literally just the subtitles for the film and don’t include the film itself, but are designed for use in conjunction with a different Item containing the film, the Items could be linked together in an associative relationship potentially (if the system allows that) which means that each srt file could be linked to the DCDM or ProRes Items (or both), as relevant, something like e.g.:
 
 NATASHA, DO  YOU WANT TO INSERT THAT DIAGRAM YOU SENT VIA EMAIL?
