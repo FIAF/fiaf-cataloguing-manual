@@ -20,18 +20,12 @@ In the case of purely digital media, an Item is defined as the availability of t
 Institutions may also opt to catalogue the carrier with several Items on it, e.g. an LTO tape or a Harddrive with multiple digital files (either belonging to one work or several works), because there is no other option to list digital Items under a Manifestation in their databases. However, this practice cannot be recommended in the long run for the lack of clarity and impaired search options this may result in. Ideally digital files are treated like distinct Items with Item-parts where applicable.
 
 Here are some examples for Item-parts:
-
-A feature fiction film as stored as a 35mm print consisting of 6 rolls/6 cans. This would be 1 Item and 6 Item-parts with their own bar-code or shelve number.
-
-A short documentary survives on one 16mm reel in one can. This would be 1 Item and 1 Item-part with a bar code or shelve number.
-
-A TV-documentary can be found in the archive on 2 Umatic tapes. This would be 1 Item and 2 Item-parts.
-
-The optical sound-track of a fiction film survives as a 35mm negative in 6 parts/6 cans. This would be 1 Item and 6 Item-parts with their own bar-code or shelve number.
-
-The viewing file for your digital restoration has been made for streaming. This would be 1 Item and 1 Item-part.
-
-Your 6 rolls of a 35mm negative of a fiction film have been scanned. This would be 1 Item and 6 Item-parts, following the analogue tradition. In the same way, your sound negative would amount to 1 Item and 6 Item-parts.
+- A feature fiction film as stored as a 35mm print consisting of 6 rolls/6 cans. This would be 1 Item and 6 Item-parts with their own bar-code or shelve number.
+- A short documentary survives on one 16mm reel in one can. This would be 1 Item and 1 Item-part with a bar code or shelve number.
+- A TV-documentary can be found in the archive on 2 Umatic tapes. This would be 1 Item and 2 Item-parts.
+- The optical sound-track of a fiction film survives as a 35mm negative in 6 parts/6 cans. This would be 1 Item and 6 Item-parts with their own bar-code or shelve number.
+- The viewing file for your digital restoration has been made for streaming. This would be 1 Item and 1 Item-part.
+- Your 6 rolls of a 35mm negative of a fiction film have been scanned. This would be 1 Item and 6 Item-parts, following the analogue tradition. In the same way, your sound negative would amount to 1 Item and 6 Item-parts.
 
 **Examples for Digital Items**
 
