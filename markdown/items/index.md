@@ -28,7 +28,7 @@ Here are some examples for Item-parts:
 - Your 6 rolls of a 35mm negative of a fiction film have been scanned. This would be 1 Item and 6 Item-parts, following the analogue tradition. In the same way, your sound negative would amount to 1 Item and 6 Item-parts.
 
 <a id="sec-digital_items_examples"></a>
-**Examples for Digital Items**
+## Examples for Digital Items ##
 
 How to deal with digital Items depends very much on the specific set-up. Some archives have the option to run LTO tape libraries and link their files via UUIDs to the records database. Others store digital Items on LTO tapes or Harddrives. Some institutions have a fully developed digitisation and restoration workflow in-house with many Items (and accordingly Manifestations) produced, others only store a viewing file as proRes. Many archives take on digital born Items and have to garantuee authenticity of the data using the necessary infrastructure. For digital bitstreams, "inspection" is performed via automated fixity checks and checksum monitoring (like MD5 or SHA-256) to ensure the data has not degraded or changed.
 
@@ -38,7 +38,7 @@ Digital Items come with many more language options though, which can be chosen a
 
 Cataloguing digital Items have become a lot more important and less streamlined. Here are some examples of how institutions catalogue digital Items. 
 
-***Digitisation or Restoration of analogue material in-house***
+### Digitisation or Restoration of analogue material in-house ###
 
 An analogue feature film with 5 rolls/cans of a duplicate negative image and negative optical sound each has been scanned for a restoration project. The aim was to create a DCP for cinema screenings and a viewing file for streaming.
 
@@ -58,7 +58,7 @@ There are multiple ways to solve the creation of Manifestations. For further inf
 Each of these files has a UUID which creates the link to both the LTO-storage and, if applicable, to the server for quick access and online streaming. In every case, the LTO-tape or the Harddrive is not listed as Item, because these are considered Carriers which can contain other Items (and Item-parts) as well.
 An institution may opt to create new Manifestations for digital Items, such as the streaming file or the DCP. This decision needs to be based on the institutions needs, strategy and resources.
 
-***Legal Deposit: Born-Digital Streaming File with multiple soundtrack options***
+### Legal Deposit: Born-Digital Streaming File with multiple soundtrack options ###
 
 By Legal deposit, the institution received 1 Apple Quicktime ProRes 4444 file (file extension .mov). The file is the only embodiment of a digital-born feature film, whose original language is English. The file contains multiple bitstreams, which can be played (or disabled) according to the viewer’s needs and preferences. The bitstreams are the following:
 - Video
@@ -78,7 +78,7 @@ The most pragmatic way would be this one: A Work and a Manifestation (Variant op
 An Item record is created, including all the technical metadata available. You might use tools like Media Info to analyse the file and extract technical metadata. Some systems can pull information directly from the file when the item is created and stored in the long term storage.
 The language options are added as language(s) on the Manifestation and Item level, maybe using a notes' field if necessary. Since the film is originally in English, English would be catalogued at the Manifestation level and other languages at the Item level.
 
-***Legal Deposit: DCDM Package and Streaming File with multiple soundtrack options***
+### Legal Deposit: DCDM Package and Streaming File with multiple soundtrack options ###
 
 By Legal deposit, the institution received 1 DCDM package, 1 Apple QuickTime ProRes 422 file and 2 srt standalone files. These items represent the only embodiments of a digital-born feature film whose original version is English. The 2 srt files contain respectively French and German subtitles.
 
