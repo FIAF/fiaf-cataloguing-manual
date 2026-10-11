@@ -46,7 +46,7 @@ The title of an Item can sometimes differ, either slightly or wholly from the ti
 In particular, this may be the case where an incomplete physical product of the Manifestation has been acquired.
 For example, if a film in the collection is missing the first reel where opening title credits usually appear, the Item will not have a title to be transcribed.
 
-For creating titles for untitled or unidentified entities see [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](../../titles/supplied_devised_titles/index.md#sec-supplied_devised_titles)
+For creating titles for untitled or unidentified entities see [Supplied/Devised Titles](../../titles/supplied_devised_titles/index.md#sec-supplied_devised_titles)
 
 For the treatment of Aggregates (e.g. compilations of whole Manifestations) as applied to Items, see the appendix concerning 
 [Titling of Aggregates](../../aggregates/titling_of_aggregates/index.md)
