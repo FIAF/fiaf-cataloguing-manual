@@ -53,6 +53,10 @@ Information describing the acquisition of the Item in greater detail.
 
 When an institution takes formal custody of an Item and creates an authoritative administrative record for that.  
 
+**Accession number**
+
+Usually an accession Number, which is unique to a collection, is given to a collection. Some systems automatically generate a unique accession number as some as a new accession record is created. This can be helpful as it covers all the items within the collection as a group, with individual reference numbers added for each title at the cataloguing stage.
+
 **Accession date**
 
 Captures the date on which the Item formally entered the collection of the archive. Often this definition is dependent on formal documentation within the archive’s collections management system, with a unique accession reference / identifier assigned. (Dates should be formatted according to ISO 8601 or some other recognised standard.)
