@@ -170,13 +170,13 @@ The description of the format of a Manifestation is articulated in the following
 - Colour characteristics
 
 <a id="sec-media_type_of_a_manifestation"></a>
-### Media Type of a Manifestation
+### Media Type of a Manifestation  
 The media type is the medium on or the encoding format in which the Manifestation is fixed.
 
 Its description consists of a general media type, which describes the basic proper- ties of the Item’s physical format, for example, film, video tape, digital file, etc., and a specific media type, which corresponds to the gauge, in case of films and tapes, and for digital files, to the physical carrier on which the file is stored or containers, when carriers for files are not separately catalogued.
 
 <a id="sec-manifest_general_media_type"></a>
-#### General Media Type
+#### General Media Type 
 The broad media type of the Manifestation (e.g., film, video, audio, optical, digital file).
 Recording this high-level information will enable simple searching for only film, video, digital, etc. elements rather than searching by all possible formats and carriers. A suggested list, which is open and not exhaustive, can include:
 
