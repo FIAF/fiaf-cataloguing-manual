@@ -391,30 +391,30 @@ The titling of music videos follows the same principles and patterns, using the 
 
 although a fuller "who, what, where, when" titling is advisable for clarity. It is not uncommon for there to be different songs with the same title by different artists in the same year, so inclusion of the performing artist, as well as year if desired, is more accurate and precise, e.g.
 
-!!! example "Example"
-    Frankie Goes to Hollywood. The Power of Love. Music Video      
-    Huey Lewis and the News. The Power of Love. Music Video  
+!!! example "Example"  
+    Frankie Goes to Hollywood. The Power of Love. Music Video        
+    Huey Lewis and the News. The Power of Love. Music Video    
     
     
 or
 
 
-!!! example "Example"
-    The Power of Love. Frankie Goes to Hollywood. 1985. Music Video    
+!!! example "Example"  
+    The Power of Love. Frankie Goes to Hollywood. 1985. Music Video      
 
 As with any Partially supplied/devised titling it is for an individual institution to decide on any punctuation separators between the different elements making up the title and what those will be.  
 
 In systems where a Form field exists on Work records then "Music video" would be a Form term, and so would not be necessary in the title itself.
 
-!!! example "Example"
-    Oasis - Wonderwall     
-    Mike Flowers Pop - Wonderwall  
+!!! example "Example"  
+    Oasis - Wonderwall      
+    Mike Flowers Pop - Wonderwall   
 
 This type of titling helps visually to distinguish between very different Works, e.g.
 
-!!! example "Example"
-    Absolute beginners (1986)  
-    David Bowie. Absolute beginners. Music Video (1986)  
+!!! example "Example"  
+    Absolute beginners (1986)    
+    David Bowie. Absolute beginners. Music Video (1986)    
     
 Alternative titles can also be added with just the song title, or other slightly different forms of titling, to enable discovery in searches of records.
 
