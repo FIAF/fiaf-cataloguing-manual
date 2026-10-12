@@ -5,13 +5,13 @@
 As mentioned at [Boundaries between Manifestations](../../boundaries/boundaries_between_manifestations/index.md), a Manifestation is defined on the basis of two criteria: changes in the publication context and changes in format.
 The element Manifestation Type describes the specific type of change.
 
-The Manifestation Type is expressed by a phrase denoting the relationship between the Manifestation and the associated Work/Variant, for example, “pre-release,” “theatrical distribution,” “not for release,” “original,” etc.
+The Manifestation Type is expressed by a phrase denoting the relationship between the Manifestation and the associated Work/Variant, for example, “Pre-Release,” “Theatrical Distribution,” “Not for Release,” “Original,” etc.
 
 Record the Manifestation Type by taking the most suitable term from a controlled list.
 
 The Manifestation types below can be used with Manifestations associated with either Works or Variants.
 
-EN 15907 does not specify any Manifestation types other than Unknown. The Manifestation types listed below are based on existing types widely used by various archives and used with Manifestations associated with either Works or Variants. They are not the only possible types that can be used - this is not a definitive list of types. Institutions should use the types and terminologies best suited for their requirements and collections.
+EN 15907 does not specify any Manifestation types other than "Unknown". The Manifestation types listed below are based on existing types widely used by various archives and used with Manifestations associated with either Works or Variants. They are not the only possible types that can be used - this is not a definitive list of types. Institutions should use the types and terminologies best suited for their requirements and collections.
 
 <a id="sec-pre_release"></a>
 ### Pre-Release (or Production)
@@ -27,7 +27,7 @@ Depending on the quantity and nature of materials, an institution may create Wor
 
 Equally, an institution may choose to link all acquired production Items (whether analogue or digital) to a single Pre-Release Manifestation linked to the main complete Work, or possibly to several different Pre-Release Manifestations such as one for Screen Tests, one for Rushes, one for general production material, etc.
 
-For further details about possibilities and options in structuring and cataloguing production materials and using Pre-release Manifestations, with examples, see [Titles and structuring for production materials](/appendices/titles/title_types/#titles-and-structuring-for-production-materials-including-out-takes-screen-tests-rushes).
+For further details about possibilities and options in structuring and cataloguing production materials and using Pre-release Manifestations, with examples, see [Titles and structuring for production materials](/titles/title_types/titles_and_structuring_for_production_materials/index.md).
 
 It may also be used for initial record creation purposes prior to material being viewed and catalogued, which may then subsequently result in further Pre-Release Manifestations and/or Works/Variants
 
@@ -135,7 +135,7 @@ Refers to Manifestations which do not represent a release/distribution event, bu
 
 !!! example "Example"
     Robinson Warszawksi (Poland, 1948, Jerzy Zarzycki)
-    Film was never released. It ran into censorship problems for portraying the heroism of non-Communist underground movement that also fought against the Nazis. Film was re-edited with major plot changes and released as Miasto Nieujarzmione in 1950.
+    Film was never released. It ran into censorship problems for portraying the heroism of a non-Communist underground movement that also fought against the Nazis. Film was re-edited with major plot changes and released as Miasto Nieujarzmione in 1950.
 
 !!! example "Example"
     Primavera (Italy, ca. 1920, Licurgo Tioli) (Italian silent film, which is not included in the censorship records and according to the sources, was never released/distributed, but it exists as a nitrate tinted 35mm print at the CSC-Cineteca Nazionale in Rome).
@@ -167,8 +167,8 @@ NOTE: When the production process involves changes related to the publication, m
 A moving image Manifestation type for TV transmission. It encompasses professional video and digital formats, i.e. Digital Betacam, HDCam, etc.
 
 !!! example "Example"
-    The Queen (United Kingdom, 2006, Stephen Frears)
-    Manifestation 2: TV Broadcast (UK 2007-09-02)
+    Al fondo hay sitio. Serie 1. Episodio 1 (Peru, 2009)
+    Manifestation 1: TV Broadcast (Peru 2009-03-30, 20:00-21:00, América Televisión)
 
 !!! example "Example"
     It happened one night (United States of America, 1934, Frank Capra)
