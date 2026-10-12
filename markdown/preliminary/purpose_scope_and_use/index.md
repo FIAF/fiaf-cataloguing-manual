@@ -3,7 +3,7 @@
 
 <a id="sec-purpose"></a>
 ## Purpose {: #purpose-scope-use-purpose }
-The primary purposes of the FIAF Manual are to suggest recommendations for the description and identification of moving images for use by moving image archives, and to define the elements of description to facilitate the exchange of information.
+The primary purposes of the FIAF Manual are to suggest recommendations for the description and identification of moving images for use by moving image archives, and to define the elements of description to facilitate the exchange of information. The intention is also that it can be used or utilised by any other institutions with moving image collections. 
 
 <a id="sec-scope"></a>
 ## Scope {: #purpose-scope-use-scope }
