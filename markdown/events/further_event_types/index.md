@@ -51,7 +51,7 @@ Information describing the acquisition of the Item in greater detail.
 <a id="sec-accession"></a>
 ## Accession
 
-When an institution takes formal custody of an Item and creates an authoritative administrative record for that.  
+When an institution takes formal custody of an Item and creates an authoritative administrative record for that; whether in a separate database where the Item and Accession records can then be linked in an associative relationship, or as fields within the Item record itself. 
 
 **Accession date**
 
@@ -83,6 +83,29 @@ Captures the end date of the loan, as defined prior to the commencement of the l
 
 <a id="sec-acquisition"></a>
 ## De-Acquisition
+
+The de-acquisition and removal of a particular item from an institution's collection.
+
+- De-acquisition date  
+- De-acquisition type  
+- De-acquisition reason
+- Removal/transfer date
+
+**De-acquisition date**  
+
+The date on which the Item was officially de-acquisitioned from an institution's collection
+
+**De-acquisition type**  
+
+The type of de-acquisition, e.g. removal, internal transfer to another collection within the same organisation/institution, external transfer to another archive/institution, etc.
+
+**De-acquisition reason**  
+
+This qualifies the De-acquisition type, giving the specific reason for removal, transfer, etc. For example, irreparably damaged reels, dangerously deteriorated nitrate, transferring heritage films as part of colonial restitution to their original countries, transferring to another archive to hold for preservation reasons, etc. 
+
+**Removal/transfer date**  
+
+The date on which the Item was physically removed from an institution's collection.
 
 <a id="sec-inspection"></a>
 ## Inspection
