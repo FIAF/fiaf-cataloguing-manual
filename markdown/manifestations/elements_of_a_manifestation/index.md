@@ -47,7 +47,7 @@ Record at least one title, identifying phrase, or name for the Manifestation Tit
 This is a transcribed element, reflecting the actual title as it appears on screen.
 The original release title would be added under the Work/Variant Title field.
 
-If multiple titles are recorded, where allowable, associate a “Title Type” to a title for differentiation between the various types of titles (see [Title Type](../../manifestations/elements_of_a_manifestation/index.md#sec-manifest_title_type) and [Title Types](../../titles/title_types/index.md#sec-title_types)).
+If multiple titles are recorded, where allowable, associate a “Title Type” to a title for differentiation between the various [Title Types](../../titles/title_types/index.md#sec-title_types)).
 
 The title of a Manifestation can sometimes differ, either slightly or wholly from the title of the Variant or Work to which it is linked.
 This may be the case, for example, with the acquisition of an incomplete Manifestation lacking a title or with a title added by the source of the acquisition.
@@ -104,6 +104,7 @@ If usage type(s) cannot be determined, indicate a value of “unknown”.
 
     TV broadcast – United Kingdom, 2012-04-21 - Swedish (Dialogue (original)), Danish (Dialogue (original)), English             (Subtitles)
 
+<a id="sec-multiple_language_options_for_digital_manifestions_items"></a>
 ### Multiple language options for Digital Manifestations/Items
 
 The above examples of language term and usage type relate to instances of one particular manifestation or print on analogue media or a recording of a particular broadcast, where there would be multiple individual instances of different language dialogue and subtitle/dubbed combinations (i.e. an individual Manifestation and Item(s) for each). However, with digital media, including digital streaming files, DVDs, Blu Rays, etc. there are often multiple language choices all on the one entity.
