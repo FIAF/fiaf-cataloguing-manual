@@ -384,7 +384,7 @@ For a more comprehensive list of form terms to use with FULLY or PARTIALLY Suppl
 <a id="sec-music_videos"></a>
 ## Music videos
 
-The titling of music videos follows the same principles and patterns as those for Partially Supplied/Devised or Supplied/Devised titles, using the title of the song or music piece, e.g.
+The titling of music videos follows the same principles and patterns as those for Partially or Fully Supplied/Devised titles, using the title of the song or music piece, e.g.
 
 !!! example "Example"
     The Power of Love. Music Video  
