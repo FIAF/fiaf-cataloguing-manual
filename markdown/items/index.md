@@ -30,11 +30,11 @@ Here are some examples for Item-parts:
 <a id="sec-digital_items_examples"></a>
 ## Examples for Digital Items ##
 
-How to deal with digital Items depends very much on the specific set-up. Some archives have the option to run LTO tape libraries and link their files via UUIDs to the records database. Others store digital Items on LTO tapes or Harddrives. Some institutions have a fully developed digitisation and restoration workflow in-house with many Items (and accordingly Manifestations) produced, others only store a viewing file as proRes. Many archives take on born-digital Items and have to guarantee authenticity of the data using the necessary infrastructure. For digital bitstreams, "inspection" is performed via automated fixity checks and checksum monitoring (like MD5 or SHA-256) to ensure the data has not degraded or changed.
+How to deal with digital Items depends very much on the specific set-up. Some archives have the option to run LTO tape libraries and link their files via UUIDs (Universally Unique Identifiers) to the records database. Others store digital Items on LTO (Linear Tape-Open) tapes or Hard drives. Some institutions have a fully developed digitisation and restoration workflow in-house with many Items (and accordingly Manifestations) produced, others only store a viewing file as proRes. Many archives take on born-digital Items and have to guarantee authenticity of the data using the necessary infrastructure. For digital bitstreams, "inspection" is performed via automated fixity checks and checksum monitoring (like MD5 or SHA-256) to ensure the data has not degraded or changed.
 
 Most film archives have modelled treating digital Items along the lines of how they catalogued their analogue Items, thus creating Items for digital files. 
 
-Digital Items come with many more language options though, which can be chosen and thus exist somewhat simultaneously. This makes cataloguing challenging because choices need to be made on the Manifestation level as well as the Item. See here for more information on [Multiple Language Options](/manifestations/elements_of_a_manifestation/#sec-multiple_language_options_for_Digital_Manifestations_Items).
+Digital Items come with many more language options though, which can be chosen by the user and thus exist somewhat simultaneously. This makes cataloguing challenging because choices need to be made on the Manifestation level as well as the Item. See here for more information on [Multiple Language Options](/manifestations/elements_of_a_manifestation/#sec-multiple_language_options_for_Digital_Manifestations_Items).
 
 Cataloguing digital Items has become a lot more important and less streamlined. Below are some examples of how institutions catalogue digital Items. 
 
@@ -52,16 +52,26 @@ Answer: One way to do it, would be to link all the digital Items with the Manife
 - Item 4: Viewing File (combined sound+image made from Master) (1 Item-part)  
 - Item 5: DCDM (1 Item-part)  
 - Item 6: DCP (1 Item-part)  
-- Item 7: DVD (1 Item-part)  
+- Item 7: DVD (1 Item-part)
 
-There are multiple ways to solve the creation and types of Manifestations. This section is primarily aimed at showing how to create digital Items. For further information see [LINK TO MANIFESTATION CHAPTER]
+[INSERT DIAGRAM]
+
+Another, and more advisable way since this relates to a restoration project, would be to link all the new digital Items with a new Restoration type Manifestation, e.g.
+
+[INSERT DIAGRAM]
+
+Or even to create other additional new Manifestations with relevant types and linking the various digital files under these as relevant, so that five of the digital files are linked to a Restoration Manifestation, the DCP file is linked to a Theatrical release Manifestation, and the Viewing file to an Internet Manifestation, e.g.
+
+[INSERT DIAGRAM]  
+
+There are multiple ways to structure and choose relevant types of Manifestations dealing with digitised and born-digital Items, depending on the cataloguing systems and requirements of your institution and the reasons for digitisation, i.e. whether for preservation, restoration, streaming, etc. This section is primarily aimed at showing how to create digital Items. For further information see [LINK TO MANIFESTATION CHAPTER]
 
 Each of these files has a UUID which creates the link to both the LTO-storage and, if applicable, to the server for quick access and online streaming. In every case, the LTO-tape or the Harddrive is not listed as Item, because these are considered Carriers/Containers which can contain other Items (and Item-parts) as well.
 An institution may opt to create new Manifestations for digital Items, such as the streaming file or the DCP. This decision needs to be based on the institutions needs, strategy and resources.
 
 ### Example 2: Legal Deposit: Born-Digital Streaming File with multiple soundtrack options ###
 
-By Legal deposit, the institution received 1 Apple Quicktime ProRes 4444 file (file extension .mov). The file is the only embodiment of a digital-born feature film, whose original language is English. The file contains multiple bitstreams, which can be played (or disabled) according to the viewer’s needs and preferences. The bitstreams are the following:
+By Legal deposit, an institution receives 1 Apple Quicktime ProRes 4444 file (file extension .mov). The file is the only embodiment of a digital-born feature film, whose original language is English. The file contains multiple bitstreams, which can be played (or disabled) according to the viewer’s needs and preferences. The bitstreams are the following:
 - Video
 - Audio 5.1 original version (English)
 - Audio 5.1 dubbed version (French)
@@ -71,9 +81,9 @@ By Legal deposit, the institution received 1 Apple Quicktime ProRes 4444 file (f
 Question: How to manage the language options best? Should a Variant record or Manifestation record be created for every possible playback configuration (e.g. French dubbed version, original English version with English hearing-impaired subtitles, original English version with French subtitles, French dubbed version with French subtitles, etc.)?
 
 Answer: 
-The main issue has been how to handle them with the usual fields/elements traditionally found in a Variant/Manifestation, whereby Language traditionally means the main language(s) on the soundtrack, e.g. a film with both English and French dialogue in it. In those instances, two languages can be added and any subtitles to reflect what is on the acquired Item. But with digital Items you often have multiple selectable language options, as in the example given above.
+The main issue is how to handle these with the usual fields/elements often found in a Variant/Manifestation, whereby Language traditionally means the main language(s) on the soundtrack, e.g. a film with both English and French dialogue in it. In those instances, two languages can be added, along with any subtitles language to reflect what is on the acquired Item. But as with the example given above, with digital Items you often have multiple selectable language options.
 
-There are different options. Structuring choices will very much depend on whether you have a database system that allows for one record to have two parent records or not, or the ability to develop new fields/elements within records. In the chapter about Manifestations, the section on [Multiple Language Options](/manifestations/elements_of_a_manifestation/#sec-multiple_language_options_for_Digital_Manifestations_Items) explores this further and gives more information, resulting from previous discussions within the international cataloguing community, and balancing aspects such as whether Variants are used or not, and different systems and levels of hierarchies used by different archives. 
+There are different options. Structuring choices will very much depend on whether your institution has a database system that allows for one record to have two parent records or not, or the ability to develop new fields/elements within records. In the chapter about Manifestations, the section on [Multiple Language Options](/manifestations/elements_of_a_manifestation/#sec-multiple_language_options_for_Digital_Manifestations_Items) explores this further and gives more information, resulting from previous discussions within the international cataloguing community, and balancing aspects such as whether Variants are used or not, and different systems and levels of hierarchies used by different archives. 
 
 The most pragmatic way would be this one: A Work and a Manifestation (Variant optional) record is created, e.g. Manifestation Type "Internet" .
 An Item record is created, including all the technical metadata available. You might use tools like Media Info to analyse the file and extract technical metadata. Some systems can pull information directly from the file when the item is created and stored in the long term storage.
@@ -81,7 +91,7 @@ The language options are added as language(s) on the Manifestation and Item leve
 
 ### Example 3: Legal Deposit: DCDM Package and Streaming File with multiple soundtrack options ###
 
-By Legal deposit, an institution received 1 DCDM package, 1 Apple QuickTime ProRes 422 file and 2 srt standalone files. These items represent the only embodiments of a digital-born feature film whose original version is English. The 2 srt files contain respectively French and German subtitles.
+By Legal deposit, an institution receives 1 DCDM package, 1 Apple QuickTime ProRes 422 file and 2 srt standalone files. These items represent the only embodiments of a digital-born feature film whose original version is English. The 2 srt files contain respectively French and German subtitles.
 
 Question: Should the srt files be catalogued as separate items? If not, should they be included within the DCDM’s Item record or within the ProRes’ item record? Also, should a “French subtitled” Variant (or Manifestation) and a “German subtitled” Variant (or Manifestations) be created and how should the relationships between Items, Manifestations and Variants be managed? 
 
