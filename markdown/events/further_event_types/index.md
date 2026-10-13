@@ -5,7 +5,8 @@ The following are further Event Types relating to Item - Acquisition, Accession,
 
 <a id="sec-acquisition"></a>
 ## Acquisition
-The acquisition of a particular Item for an institution’s collection.
+
+Acquisition is the process of getting physical custody and a legal transfer of title (ownership) of an object or collection (such as through a gift, purchase, or transfer).
 
 An Acquisition Event may be associated with instances of Agent in the role of e.g. the institution or a person or set of persons in charge of acquisitions for the institution, etc. and may also be associated with instances of “Other” relationship(s).
 
@@ -51,7 +52,11 @@ Information describing the acquisition of the Item in greater detail.
 <a id="sec-accession"></a>
 ## Accession
 
-When an institution takes formal custody of an Item and creates an authoritative administrative record for that; whether in a separate database where the Item and Accession records can then be linked in an associative relationship, or as fields within the Item record itself. 
+Accessioning is the formal, legal act of officially accepting those acquired items into the permanent collection in accordance with an organization's collecting policy. This commits the institution to long-term preservation, care, and intellectual control. 
+
+**Accession number**
+
+Usually an accession Number, which is unique to a collection, is given to a collection. Some systems automatically generate a unique accession number as some as a new accession record is created. This can be helpful as it covers all the items within the collection as a group, with individual reference numbers added for each title at the cataloguing stage.
 
 **Accession date**
 

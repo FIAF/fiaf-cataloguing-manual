@@ -7,18 +7,20 @@ See “Shallow hierarchy model: 2 levels” in [Elements of description across W
 Ideally the information need only be recorded once irrespective of where in the data structure an institution must place it.
 Therefore guidelines for the treatment of physical/digital description elements are explained fully in the Manifestation chapter.
 
-This chapter contains Item-specific physical/digital description elements beginning at [Item Specifics/Extent (e.g. physical/Digital description)](../../items/elements_of_a_moving_image_item/index.md#sec-item_specifics_extent).
+This chapter contains Item-specific physical/digital description elements beginning at [Item Specifics/Extent](../../items/elements_of_a_moving_image_item/index.md#sec-item_specifics_extent).
 For example, properties such as Extent and Format at the Manifestation level represent the “ideal,” and item-specific information will capture where it differs from this ideal.
 Only elements that are considered Item-specific have guidelines for the recording of data.
 Physical/digital description elements that are considered Manifestation-specific, but which may be repeated at the Item level, contain hyperlinks to the relevant sections in the Manifestation chapter.
 
-Further data relating to the condition, preservation, location, and, acquisition, accessioning, and source of the Item are also recommended elements for the Item (see [Access Conditions](../../items/elements_of_a_moving_image_item/index.md#sec-access_conditions)). [ADD LINK TO ACQUISITION CHAPTER]
+Further data relating to the condition, preservation, location, and, [acquisition](/events/further_events/sec-sec-acquisition), accessioning, and source of the Item are also recommended elements for the Item (see [Access Conditions](../../items/elements_of_a_moving_image_item/index.md#sec-access_conditions)). 
 
 These may be either added to the Item description itself or, where this is not possible, related to other separate files or databases, via physical link or text indication.
 
+A useful collection of technical metadata on digital Items as well as data collected during digitisation, can be found here: LINK TO ELAS DOCUMENT.
+
 <a id="sec-item_identifier"></a>
 ## Identifier
-Create an unambiguous numerical or alphanumerical reference to the moving image Item, such as a call number, barcode, shelf mark, UUID or similar, to uniquely identify the copy.[^3] This may be in addition to separate Acquisition and Accession number(s) or identifier(s). [LINK TO Acquisition part]
+Create an unambiguous numerical or alphanumerical reference to the moving image Item, such as a call number, barcode, shelf mark, UUID or similar, to uniquely identify the copy.[^3] This may be in addition to separate Acquisition and Accession number(s) or identifier(s). More information on [Acquisition](/events/further_events/sec-sec-acquisition).
 
 For digital files, the filename is not an identifier since filenames can change. Filenames are unreliable for uniquely identifying digital objects due to several limitations: users or systems may rename files, causing loss of reference; different versions of the same files from multiple sources can share identical names; and, changing storage locations makes filenames unreliable for tracking. Moreover different systems and organisations may use varying file-naming schemes and have limited interoperability.
 
@@ -46,14 +48,14 @@ The title of an Item can sometimes differ, either slightly or wholly from the ti
 In particular, this may be the case where an incomplete physical product of the Manifestation has been acquired.
 For example, if a film in the collection is missing the first reel where opening title credits usually appear, the Item will not have a title to be transcribed.
 
-For creating titles for untitled or unidentified entities see [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](../../titles/supplied_devised_titles/index.md#sec-supplied_devised_titles)
+For creating titles for untitled or unidentified entities see [Supplied/Devised Titles](../../titles/supplied_devised_titles/index.md#sec-supplied_devised_titles).
 
 For the treatment of Aggregates (e.g. compilations of whole Manifestations) as applied to Items, see the appendix concerning 
 [Titling of Aggregates](../../aggregates/titling_of_aggregates/index.md)
 
-For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see sections within [ADD LINK TO Preliminary Notes main chapter]
+For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see [Purpose](../../preliminary/purpose_scope_and_use/index.md#sec-purpose).
 
-For sources of information for the Title, see [Sources of Information](../../preliminary/prelim_sources_of_information/index.md#sec-prelim_sources_of_information).
+For sources of information for the Item Title, see [Sources of Information](../../preliminary/prelim_sources_of_information/index.md#sec-prelim_sources_of_information).
 
 <a id="sec-item_title_type"></a>
 ### Title Type
@@ -71,7 +73,7 @@ Record the name of the institution possessing the moving image Item or authorise
 Optionally, if available, record a suitable repository identifier or a registered namespace identifier for the institution.
 
 <a id="sec-item_location"></a>
-#### Item Location
+### Item Location
 Item descriptions should indicate a storage location number in order to provide access and retrieval.
 Movements and changes of location should also be logged in order to ascertain the precise location of an Item at any given time.
 If possible, use the Item Identifier and Identifier Type fields to note an Item’s location (see [Identifier](../../items/elements_of_a_moving_image_item/index.md#sec-item_identifier)).
@@ -79,8 +81,8 @@ If possible, use the Item Identifier and Identifier Type fields to note an Item�
 This could be a single simple field, or could include multiple fields to reflect various electronic package or barcode numbers that may be attached to each individual can or container, shelf, or whatever is applicable to an individual institution.
 
 <a id="sec-item_acquisition type"></a>
-#### Item Acquisition Type
-Moving image items change location during their life cycle in the archive and before or after. They are acquired, loaned or de-acquisitioned, just to name some examples.
+### Item Acquisition Type
+Moving image items change location during their life cycle in the archive and before or after. They are acquired, loaned, removed or not acquired.
 Nowadays it becomes more and more important to have information about the provenance of Items in an institution's collection. 
 In every one of these actions it is useful to record the agents involved (e.g. donor, recipient), location, and type of acquisition (e.g. donation). Ideally record the person/institution by linking to internal authority records as well as the date when the Item entered the collection.
 The transfer of ownership is important for an archive to document, as it establishes legal ownership of the collection.
@@ -92,7 +94,7 @@ Particular acquisition agreements between object owner and archive may enforce r
 Record the acquisistion Type at Item level as a value list (e.g. bequest, commission, donation, off-air recording, purchase, unknown) as well as where it came from. 
 
 <a id="sec-item_ownership"></a>
-#### Item Ownership
+### Item Ownership
 If possible, record who currently has ownership of the Item, ideally also tracking the history of the ownership. For example, the Item could have been deposited 20 years ago and has now changed ownership by contract to the holding institution. Many times, preservation decisions might be influenced by ownership status. Ideally record the person/institution by linking to internal authority records as well as the dates when changes of ownership occured. 
 
 <a id="sec-item_item_element_type"></a>
