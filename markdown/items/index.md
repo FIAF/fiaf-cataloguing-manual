@@ -44,14 +44,15 @@ An analogue feature film with 5 reels/cans of a duplicate negative image and neg
 
 Question: How to catalogue these Items?
 
-Answer: One way to do it, would be to link all the digital Items with the Manifestation associated with the source Item, and create the digital Items as:
-- Item 1: Raw Scan of the soundtrack (5 Item-parts)
-- Item 2: Raw Scan of the image (5 Item-parts)
-- Item 3: Master (combined sound+image) (1 Item-part)
-- Item 4: Viewing File (combined sound+image made from Master) (1 Item-part)
-- Item 5: DCDM (1 Item-part)
-- Item 6: DCP (1 Item-part)
-- Item 7: DVD (1 Item-part)
+Answer: One way to do it, would be to link all the digital Items with the Manifestation associated with the source Item, and create the digital Items as:  
+
+- Item 1: Raw Scan of the soundtrack (5 Item-parts)  
+- Item 2: Raw Scan of the image (5 Item-parts)  
+- Item 3: Master (combined sound+image) (1 Item-part)  
+- Item 4: Viewing File (combined sound+image made from Master) (1 Item-part)  
+- Item 5: DCDM (1 Item-part)  
+- Item 6: DCP (1 Item-part)  
+- Item 7: DVD (1 Item-part)  
 
 There are multiple ways to solve the creation and types of Manifestations. This section is primarily aimed at showing how to create digital Items. For further information see [LINK TO MANIFESTATION CHAPTER]
 
