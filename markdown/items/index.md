@@ -20,7 +20,7 @@ In the case of purely digital media, an Item is defined as the availability of t
 Institutions may also opt to catalogue the carrier with several Items on it, e.g. an LTO tape or a Harddrive with multiple digital files (either belonging to one work or several works), because there is no other option to list digital Items under a Manifestation in their databases. However, this practice cannot be recommended in the long run for the lack of clarity and impaired search options this may result in. Ideally digital files are treated like distinct Items with Item-parts where applicable.
 
 Here are some examples for Item-parts:
-- A feature fiction film as stored as a 35mm print consisting of 6 reels/6 cans. This would be 1 Item and 6 Item-parts with their own associated can identification number, barcode, or shelf number.
+- A feature fiction film stored as a 35mm print consisting of 6 reels/6 cans. This would be 1 Item and 6 Item-parts with their own associated can identification number, barcode, or shelf number.
 - A short documentary survives on one 16mm reel in one can. This would be 1 Item and 1 Item-part with an associated can identification number, barcode, or shelf number.
 - A TV-documentary can be found in the archive on 2 Umatic tapes. This would be 1 Item and 2 Item-parts.
 - The optical sound-track of a fiction film survives as a 35mm negative in 6 parts/6 cans. This would be 1 Item and 6 Item-parts with their own associated can identification number, barcode, or shelf number.
@@ -30,21 +30,21 @@ Here are some examples for Item-parts:
 <a id="sec-digital_items_examples"></a>
 ## Examples for Digital Items ##
 
-How to deal with digital Items depends very much on the specific set-up. Some archives have the option to run LTO tape libraries and link their files via UUIDs to the records database. Others store digital Items on LTO tapes or Harddrives. Some institutions have a fully developed digitisation and restoration workflow in-house with many Items (and accordingly Manifestations) produced, others only store a viewing file as proRes. Many archives take on digital born Items and have to garantuee authenticity of the data using the necessary infrastructure. For digital bitstreams, "inspection" is performed via automated fixity checks and checksum monitoring (like MD5 or SHA-256) to ensure the data has not degraded or changed.
+How to deal with digital Items depends very much on the specific set-up. Some archives have the option to run LTO tape libraries and link their files via UUIDs to the records database. Others store digital Items on LTO tapes or Harddrives. Some institutions have a fully developed digitisation and restoration workflow in-house with many Items (and accordingly Manifestations) produced, others only store a viewing file as proRes. Many archives take on born-digital Items and have to guarantee authenticity of the data using the necessary infrastructure. For digital bitstreams, "inspection" is performed via automated fixity checks and checksum monitoring (like MD5 or SHA-256) to ensure the data has not degraded or changed.
 
 Most film archives have modelled treating digital Items along the lines of how they catalogued their analogue Items, thus creating Items for digital files. 
 
-Digital Items come with many more language options though, which can be chosen and thus exist somehow simultaneously. This makes cataloguing challenging because choices need to be made on the Manifestation level already as well as the Item. See here for more information on [Multiple Language Options](/manifestations/elements_of_a_manifestation/#sec-multiple_language_options_for_Digital_Manifestations_Items).
+Digital Items come with many more language options though, which can be chosen and thus exist somewhat simultaneously. This makes cataloguing challenging because choices need to be made on the Manifestation level as well as the Item. See here for more information on [Multiple Language Options](/manifestations/elements_of_a_manifestation/#sec-multiple_language_options_for_Digital_Manifestations_Items).
 
 Cataloguing digital Items has become a lot more important and less streamlined. Below are some examples of how institutions catalogue digital Items. 
 
 ### Example 1: Digitisation or Restoration of analogue material in-house ###
 
-An analogue feature film with 5 reels/cans of a duplicate negative image and negative optical sound each has been scanned for a restoration project. The aim was to create a DCP for cinema screenings and a viewing file for streaming.
+An analogue feature film with 5 reels/cans of a duplicate negative image and negative optical sound has each been scanned for a restoration project. The aim was to create a DCP for cinema screenings and a viewing file for streaming.
 
 Question: How to catalogue these Items?
 
-Answer: One way to do it, would be put all the digital Items under the Manifestation where the source is listed, and create the digital Items as:
+Answer: One way to do it, would be to link all the digital Items with the Manifestation associated with the source Item, and create the digital Items as:
 - Item 1: Raw Scan of the soundtrack (5 Item-parts)
 - Item 2: Raw Scan of the image (5 Item-parts)
 - Item 3: Master (combined sound+image) (1 Item-part)
