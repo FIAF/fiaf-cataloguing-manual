@@ -10,21 +10,12 @@ Instead they recommend that certain relationships be established without instruc
 
 A Work may have relationships with the following:
 
-- [Agent(s)](/agents/agents_for_works_variants/#sec-agents_for_works_variants)
-- [Event(s)](/works/relationships_of_a_work/#sec-work_events)
+- [Agent(s)](/agents/agents_for_works_variants/#sec-agents_for_works_variant)
+- [Events](../../events/event_types/index.md)
 - [Subject(s)/Genre(s)/Form(s)](/works/relationships_of_a_work/#sec-subject_genre_form_terms)
-- [Variant(s)](/variants/index.md#sec-moving_image_variant)
+- [Variant(s)](/variants/#sec-moving_image_variant)
 - [Manifestation(s)](/manifestations/#sec-moving_image_manifestations)
 - Other (including other Works)
-
-<a id="sec-work_events"></a>
-## Events (e.g., IPR registration, screenings, awards, etc.)[^1]
-An Event characterises occurrences in the lifecycle of a moving image Work.
-Instances of any Event type can have Agent and “Other” relationships.
-
-Record one or more Event type, for example, “publication,” “copyright/IPR registration,” “festival showing,” etc., to express the nature of the Event’s relationship to the Work.
-Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in [Event Type](../../events/event_types/index.md).
 
 <a id="sec-subject_genre_form_terms"></a>
 ## Subject/Genre/Form Terms

@@ -8,28 +8,9 @@ Instead they recommend that certain relationships be established without instruc
 
 An Item may have relationships with the following:
 
-- Agent(s)
-- Event(s)
-- Manifestation
-- Other relationship(s)
+- [Agent(s)](/agents/agents_for_items/index.md)
+- [Event(s)](/events/event_types/index.md)
+- [Manifestation(s)](/manifestations/#sec-moving_image_manifestations)
+- [Other relationship(s)](/other_relationships/other_relationships_for_works_variants_manifestations_items/#sec-items_other_relationship_types)
  
-<a id="sec-items_agents"></a>
-## Agent(s)
-For relationships with Agent's see [Agents for Items]
-
-<a id="sec-items_events"></a>
-## Event(s)
-An Event characterises occurrences in the life cycle of a moving image Item.
-Instances of any Event type can have Agent and “Other” relationships.
-
-Record one or more Event types, for example, “preservation,” “inspection,” “acquisition”, etc., to express the nature of the Event’s relationship to the Item.
-Selection should be made from a controlled list of terms, see [Event Type For Items].
-
-<a id="sec-items_other_relationships"></a>
-## Other relationship(s)
-For Other relationships see [ADD LINK TO CURRENT 9.3.5 OTHER RELATIONSHIPS CHAPTER]
-
-<a id="sec-items_manifestations"></a>
-## Manifestation(s)
- See [ADD LINK TO CURRENT 9.3.2 Item(s)]
 [^1]: EN 15907 8.1 Relationships. General

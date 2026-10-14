@@ -12,15 +12,15 @@ For example, properties such as Extent and Format at the Manifestation level rep
 Only elements that are considered Item-specific have guidelines for the recording of data.
 Physical/digital description elements that are considered Manifestation-specific, but which may be repeated at the Item level, contain hyperlinks to the relevant sections in the Manifestation chapter.
 
-Further data relating to the condition, preservation, location, and, [acquisition](/events/further_events/sec-sec-acquisition), accessioning, and source of the Item are also recommended elements for the Item (see [Access Conditions](../../items/elements_of_a_moving_image_item/index.md#sec-access_conditions)). 
+Further data relating to the condition, preservation, location, and, [acquisition](/events/further_event_types/sec-sec-acquisition), accessioning, and source of the Item are also recommended elements for the Item (see [Access Conditions](../../items/elements_of_a_moving_image_item/index.md#sec-access_conditions)). 
 
 These may be either added to the Item description itself or, where this is not possible, related to other separate files or databases, via physical link or text indication.
 
-A useful collection of technical metadata on digital Items as well as data collected during digitisation, can be found here: LINK TO ELAS DOCUMENT.
+A useful collection of technical metadata on digital Items as well as data collected during digitisation, can be found [here](https://docs.google.com/spreadsheets/d/1cm4KBG_e-bdMppKOcYsFTck7vv5rJDwRI9z0RYX5bNM/edit?gid=646006523#gid=646006523).
 
 <a id="sec-item_identifier"></a>
 ## Identifier
-Create an unambiguous numerical or alphanumerical reference to the moving image Item, such as a call number, barcode, shelf mark, UUID or similar, to uniquely identify the copy.[^3] This may be in addition to separate Acquisition and Accession number(s) or identifier(s). More information on [Acquisition](/events/further_events/sec-sec-acquisition).
+Create an unambiguous numerical or alphanumerical reference to the moving image Item, such as a call number, barcode, shelf mark, UUID or similar, to uniquely identify the copy.[^3] This may be in addition to separate Acquisition and Accession number(s) or identifier(s). More information on [Acquisition](/events/further_event_types/sec-sec-acquisition).
 
 For digital files, the filename is not an identifier since filenames can change. Filenames are unreliable for uniquely identifying digital objects due to several limitations: users or systems may rename files, causing loss of reference; different versions of the same files from multiple sources can share identical names; and, changing storage locations makes filenames unreliable for tracking. Moreover different systems and organisations may use varying file-naming schemes and have limited interoperability.
 
@@ -224,7 +224,7 @@ The number of discrete logical units that make up the moving image Item. Item un
 The actual physical/digital extent is a characteristic of a singular Item, since it can be different for multiple Items exemplifying the same moving image Manifestation.
 
 For film, record footage for the film reel in feet or metres. 
-This footage represents actual length, rather than the “ideal” length, which is recorded for Manifestations (see [Physical Extent of a Manifestation(/manifestations/elements_of_a_manifestation/#sec-physical_extent_of_a_manifestation)).
+This footage represents actual length, rather than the “ideal” length, which is recorded for Manifestations (see [Physical Extent of a Manifestation](/manifestations/elements_of_a_manifestation/#sec-physical_extent_of_a_manifestation)).
 If your system allows, provide the Unit of Measurement – feet or metres – in another element.
 Having separate numeric fields can facilitate calculations in determining the amount of footage that will be preserved.
 
@@ -358,7 +358,7 @@ This creates a condition and preservation history for the Item, and is also impo
 
 Observations about Item conditions will typically happen in the course of an Event such as inspection of an Item. These observations and updating on records should aim to be as clear and concise as possible, avoiding abbreviations and intitials, and as far as possible using controlled vocabulary. Besides consistency, this enables better searching and accessibility of data.
 
-These actions can be recorded as an Event [ADD LINK], and the person or entity performing the action linked/added as an Agent [ADD RELEVANT LINK]
+These actions can be recorded as an [Event](/events/further_event_types/index.md), and the person or entity performing the action linked/added as an [Agent](/agents/agents_for_items/index.md).
 
 <a id="sec-item_copy_condition_base_emulsion_film_and_video"></a>
 #### Item Copy Condition Base/Emulsion - Film and Video
