@@ -13,12 +13,4 @@ An Item may have relationships with the following:
 - [Manifestation(s)](/manifestations/#sec-moving_image_manifestations)
 - Other relationship(s)
  
-<a id="sec-items_events"></a>
-## Event(s)
-An Event characterises occurrences in the life cycle of a moving image Item.
-Instances of any Event type can have Agent and “Other” relationships.
-
-Record one or more Event types, for example, “preservation,” “inspection,” “acquisition”, etc., to express the nature of the Event’s relationship to the Item.
-Selection should be made from a controlled list of terms, see [Event Type For Items].
-
 [^1]: EN 15907 8.1 Relationships. General
