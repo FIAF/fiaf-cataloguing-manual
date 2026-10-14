@@ -20,7 +20,7 @@ A useful collection of technical metadata on digital Items as well as data colle
 
 <a id="sec-item_identifier"></a>
 ## Identifier
-Create an unambiguous numerical or alphanumerical reference to the moving image Item, such as a call number, barcode, shelf mark, UUID or similar, to uniquely identify the copy.[^3] This may be in addition to separate Acquisition and Accession number(s) or identifier(s). More information on [Acquisition](/events/further_events/sec-sec-acquisition).
+Create an unambiguous numerical or alphanumerical reference to the moving image Item, such as a call number, barcode, shelf mark, UUID or similar, to uniquely identify the copy.[^3] This may be in addition to separate Acquisition and Accession number(s) or identifier(s). More information on [Acquisition](/events/further_event_types/sec-sec-acquisition).
 
 For digital files, the filename is not an identifier since filenames can change. Filenames are unreliable for uniquely identifying digital objects due to several limitations: users or systems may rename files, causing loss of reference; different versions of the same files from multiple sources can share identical names; and, changing storage locations makes filenames unreliable for tracking. Moreover different systems and organisations may use varying file-naming schemes and have limited interoperability.
 
