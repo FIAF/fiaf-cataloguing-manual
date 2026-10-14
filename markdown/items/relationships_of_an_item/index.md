@@ -10,7 +10,7 @@ An Item may have relationships with the following:
 
 - [Agent(s)](/agents/agents_for_items/index.md]
 - [Event(s)](/events/event_types/index.md)
-- Manifestation
+- [Manifestation(s)](/manifestations/#sec-moving_image_manifestations)
 - Other relationship(s)
  
 <a id="sec-items_agents"></a>
