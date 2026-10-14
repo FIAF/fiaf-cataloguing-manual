@@ -165,6 +165,16 @@ The content description can be based on a viewing of the Variant, accompanying d
 ### Content Description Type
 Include a qualifying keyword or otherwise denote the type of summary (e.g. Synopsis, Shotlist, Review).[^13]
 
+<a id="sec-subject_genre_form_terms"></a>
+## Subject/Genre/Form Terms
+Provide access to the Work by means of subjects (or subject identifiers) that describe the content of the Work, and additionally by genre(s) and/or form(s) (or identifiers) of which the Work is an example (i.e. what the Work is). Works should ideally have at least one Genre (and/or Form) and one Subject term as a minimum.
+
+See [LINK to WORK CHAPTER]
+
+<a id="sec-assigning_subject_terms"></a>
+### Assigning Subject terms
+When considering the assigning of subject terms to a moving image Work record there are two main components to consider in making an intellectual assessment; the contexts of "about" and "of". See [LINK to WORK CHAPTER]
+
 <a id="sec-notes"></a>
 ## Notes
 Notes for moving image Variants are annotations providing additional information or clarification relating specifically to Variants attributes and relationships.[^14] See [Cataloguer’s Notes](../../appendices/cataloguers-notes/index.md).
