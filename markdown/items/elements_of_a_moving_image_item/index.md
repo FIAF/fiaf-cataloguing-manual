@@ -358,7 +358,7 @@ This creates a condition and preservation history for the Item, and is also impo
 
 Observations about Item conditions will typically happen in the course of an Event such as inspection of an Item. These observations and updating on records should aim to be as clear and concise as possible, avoiding abbreviations and intitials, and as far as possible using controlled vocabulary. Besides consistency, this enables better searching and accessibility of data.
 
-These actions can be recorded as an [Event](/events/further_event_types/index.md), and the person or entity performing the action linked/added as an Agent [ADD RELEVANT LINK]
+These actions can be recorded as an [Event](/events/further_event_types/index.md), and the person or entity performing the action linked/added as an [Agent](/agents/agents_for_items/index.md).
 
 <a id="sec-item_copy_condition_base_emulsion_film_and_video"></a>
 #### Item Copy Condition Base/Emulsion - Film and Video
