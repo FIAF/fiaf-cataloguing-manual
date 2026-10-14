@@ -9,7 +9,7 @@ Instead they recommend that certain relationships be established without instruc
 An Item may have relationships with the following:
 
 - [Agent(s)](/agents/agents_for_items/index.md]
-- Event(s)
+- [Event(s)](/events/event_typs)
 - Manifestation
 - Other relationship(s)
  
