@@ -224,7 +224,7 @@ The number of discrete logical units that make up the moving image Item. Item un
 The actual physical/digital extent is a characteristic of a singular Item, since it can be different for multiple Items exemplifying the same moving image Manifestation.
 
 For film, record footage for the film reel in feet or metres. 
-This footage represents actual length, rather than the “ideal” length, which is recorded for Manifestations (see [Physical Extent of a Manifestation(/manifestations/elements_of_a_manifestation/#sec-physical_extent_of_a_manifestation)).
+This footage represents actual length, rather than the “ideal” length, which is recorded for Manifestations (see [Physical Extent of a Manifestation](/manifestations/elements_of_a_manifestation/#sec-physical_extent_of_a_manifestation)).
 If your system allows, provide the Unit of Measurement – feet or metres – in another element.
 Having separate numeric fields can facilitate calculations in determining the amount of footage that will be preserved.
 
