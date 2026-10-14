@@ -15,7 +15,7 @@ A Work may have relationships with the following:
 - [Subject(s)/Genre(s)/Form(s)](/works/relationships_of_a_work/#sec-subject_genre_form_terms)
 - [Variant(s)](/variants/#sec-moving_image_variant)
 - [Manifestation(s)](/manifestations/#sec-moving_image_manifestations)
-- Other (including other Works)
+- [Other Relationships](/other_relationships/other_relationships_for_works_variants_manifestations_items/#sec-work_variant_other_relationship_types)
 
 <a id="sec-subject_genre_form_terms"></a>
 ## Subject/Genre/Form Terms
