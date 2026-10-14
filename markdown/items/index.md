@@ -58,11 +58,11 @@ Answer: One way to do it, would be to link all the digital Items with the Manife
 
 Another, and more advisable way since this relates to a restoration project, would be to link all the new digital Items with a new Restoration type Manifestation, e.g.
 
-[INSERT DIAGRAM]
+<br><center><object data="/diagrams/digit_item5.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 Or even to create other additional new Manifestations with relevant types and linking the various digital files under these as relevant, so that five of the digital files are linked to a Restoration Manifestation, the DCP file is linked to a Theatrical release Manifestation, and the Viewing file to an Internet Manifestation, e.g.
 
-[INSERT DIAGRAM]  
+<br><center><object data="/diagrams/digit_item7.drawio.svg" type="image/svg+xml" width="100%"></object></center> 
 
 There are multiple ways to structure and choose relevant types of Manifestations dealing with digitised and born-digital Items, depending on the cataloguing systems and requirements of your institution and the reasons for digitisation, i.e. whether for preservation, restoration, streaming, etc. This section is primarily aimed at showing how to create digital Items. For further information see [LINK TO MANIFESTATION CHAPTER]
 
