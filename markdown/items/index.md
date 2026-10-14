@@ -54,7 +54,7 @@ Answer: One way to do it, would be to link all the digital Items with the Manife
 - Item 6: DCP (1 Item-part)  
 - Item 7: DVD (1 Item-part)
 
-[INSERT DIAGRAM]
+<br><center><object data="/diagrams/digit_item4dgrmsize.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 Another, and more advisable way since this relates to a restoration project, would be to link all the new digital Items with a new Restoration type Manifestation, e.g.
 
