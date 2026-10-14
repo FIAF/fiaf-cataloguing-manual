@@ -11,6 +11,6 @@ An Item may have relationships with the following:
 - [Agent(s)](/agents/agents_for_items/index.md)
 - [Event(s)](/events/event_types/index.md)
 - [Manifestation(s)](/manifestations/#sec-moving_image_manifestations)
-- [Other relationship(s)](/other_relationships/other_relationships_for_works_variants_manifestations_items/#sec-items_other_relationship_types)
+- [Other Relationships](/other_relationships/other_relationships_for_works_variants_manifestations_items/#sec-item_other_relationship_types)
  
 [^1]: EN 15907 8.1 Relationships. General
