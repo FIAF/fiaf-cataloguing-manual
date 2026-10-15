@@ -138,7 +138,7 @@ These are optional, and it is for an institution to choose whether it has the re
 ## Preservation/Restoration
 A Preservation/Restoration Event is associated with a new Variant, Manifestation or Items resulting from the preservation/restoration process in which the contents of one or more Items (or fragments thereof) from Manifestations of a Work were transferred with the intention of restoring or reconstructing the content as originally intended, or safeguarding it from decay.[^5]  
 
-This includes statements about past or future treatments scheduled for the item.  If desired and if applicable, record one or more general types of past or future treatment activities (e.g. "added leaders", "cleaned ultrasonically", "tears repair", etc.). Selection should be made from a controlled list of values. [CHECK - DO WE HAVE A LIST FOR THAT?]
+This includes statements about past or future treatments scheduled for the item.  If desired and if applicable, record one or more general types of past or future treatment activities (e.g. "added leaders", "cleaned ultrasonically", "tears repair", etc.). Selection should be made from a controlled list of values. See also [Item Chapter](/items/elements_of_a_moving_image_item/#sec-item_copy_condition_base_emulsion_film_and_video).
 
 A Preservation/Restoration Event has as typical Agent(s) the institution(s) or individual professionals that make preservation decisions. Selection should be made from a controlled list of values. See See [Agent Types](/agents/agents_for_works_variants/index.md).
 
