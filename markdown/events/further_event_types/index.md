@@ -38,15 +38,15 @@ For Manifestations, the Publication Event that originated the embodiment of a sp
 
 **Publication date**
 
-Record the date on which Work/Variant or Manifestation was released or otherwise made available. Dates should be formatted according to ISO 8601 or some other recognised standard. The date should be that of the specific event of the Manifestation publication, e.g. a moving image Manifestation may have Publication dates in separate Publication events - a Manifestation for its first theatrical release date of 1957, and then Manifestations for the broadcast date (in 1981) and streaming date (in 2020). 
+Record the date on which Work and Variant, or Manifestation was released or otherwise made available. Dates should be formatted according to ISO 8601 or some other recognised standard. The date should be that of the specific event of the Manifestation publication, e.g. a moving image Manifestation may have Publication dates in separate Publication events - a Manifestation for its first theatrical release date of 1957, and then Manifestations for the broadcast date (in 1981) and streaming date (in 2020). 
  
 **Region**
 
-Record the country or other political or physical geographic entity where the Publication Event took place (e.g. first projection in the framework of a theatrical distribution) or made the Work/Variant or Manifestation available (e.g. distribution area).
+Record the country or other political or physical geographic entity where the Publication Event took place (e.g. first projection in the framework of a theatrical distribution) or made the Work and Variant, or Manifestation available (e.g. distribution area).
 
 If known and considered of relevance, record the name of the city or smaller geographic entity where the Publication Event took place.
 
-For the treatment of the geographical names, see Getty Thesaurus of Geographic Names (TGN), or some other recognised standard.
+For the treatment of the geographical names, see [Getty Thesaurus of Geographic Names (TGN)](https://www.getty.edu/research/tools/vocabularies/tgn/index.html), or some other recognised standard.
 
 If known and considered of relevance, record the name of the event that the publication was a part of (e.g., name of a film festival, distribution channel of a broadcaster, etc.)
 
