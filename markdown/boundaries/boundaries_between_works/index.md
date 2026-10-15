@@ -6,11 +6,11 @@ To that end, the recommendations made in this chapter about determining boundari
 The Work description or record contains the index terms for describing a Work in the catalogue and fulfills the functions of disambiguation (distinguishes Works containing similar or identical titles) and collocation (brings together all the materials that are related to the Work and all Variants of a given Work).
 Variations in information describing the Work result in Variants or Manifestations, or new Works.
 
-The boundaries between one Work and another (i.e where a new Work would be created rather than a Variant) are drawn on the basis of the following alterations to the content:[^1]
+The boundaries between one Work and another (i.e where a new Work would be created rather than a Variant) are drawn on the basis of the following alterations to the content.[^1]
 
-## Change in footage and/or changes in continuity (primary editing)[^2]
+## Change in footage and/or changes in continuity (primary editing)
 
-*Remakes of the same story/plot.*
+*Remakes of the same story/plot. Secondary editing results in a Variant.*
 
 !!! example "Example"
     The man who knew too much (UK, 1934, Alfred Hitchcock) 
@@ -126,4 +126,3 @@ The same applies in instances where a film was originally made and designed to b
     Der Film von Königin Luise, 1., 2., und 3. Teil (Germany, 1922) (79 minutes)  
     
 [^1]: The types of alterations given here are adapted from Yee, “The Concept of Work for Moving Image Materials.”
-[^2]: Secondary editing results in a Variant.
