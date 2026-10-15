@@ -33,7 +33,7 @@ Primary Title Types [^6]
 
 <a id="sec-preferred"></a>
 ## Preferred
-The title of a moving image Work or Variant when first released, broadcast, published or transmitted (i.e. mounted online) in the country or countries of origin ( see [Country of Reference](../../variants/elements_of_a_variant/index.md#sec-country_of_reference).
+The title of a moving image Work or Variant when first released, broadcast, published or transmitted (i.e. mounted online) in the country or countries of origin. See [Country of Reference](../../variants/elements_of_a_variant/index.md#sec-country_of_reference).
 
 The preferred title is the chief name (also referred to as “main” or “original” title) of any moving image Work or Variant.
 The preferred title may include part title and series/serial information for moving image materials issued in multiple parts, e.g., episodes in a film or TV serial.
