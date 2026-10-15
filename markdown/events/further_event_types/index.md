@@ -404,7 +404,7 @@ Inspection Event information consists of the following sub-elements:
 
 The general type of inspection activity performed.
 
-If desired and if applicable, record one or more general type(s) of the inspection activity performed (e.g. projection prep, inventory). Selection should be made from a controlled list of terms. This includes statements about past or future inspections scheduled for the item. [NB. DO WE HAVE A POTENTIAL SMALL LIST OF EXAMPLE TERMS WE COULD ADD HERE?]
+If desired and if applicable, record one or more general type(s) of the inspection activity performed (e.g. projection prep, inventory). Selection should be made from a controlled list of terms. This includes statements about past or future inspections scheduled for the item.
 
 **Inspection date**
 
@@ -412,10 +412,10 @@ The date or time span in which the inspection activity was performed. (Dates sho
 
 **Inspection detail**
 
-Information describing the condition of the Item in greater detail. In many cases there will be fields embedded in Item records that relate to condition and different inspections. [ADD LINK TO COPY CONDITION BASE/EMULSION, COPY CONDITION PERFORATIONS, AND iTEM SURFACE DEPOSIT sections in Items - elements_of_a_moving_image_item]
+Information describing the condition of the Item in greater detail. In many cases there will be fields embedded in Item records that relate to condition and different inspections. See [Item Condition](/items_elements_of_a_moving_image_item/#sec-access_condition)
 
 [^1]: EN 15907, 6.12 Award, pp. 25-26.
 [^2]: Adapted from EN 15907 6.11 Production Event, p. 20
 [^3]: EN 15907 6.15 IPR Registration, pp. 23-24
 [^4]: EN 15907, 6.13 Decision event, pp. 26-27
-[^5]: There is no designated separate Restoration Event in EN 15907, and as there can often be an overlap in the types of activity associated with both preservation and restoration, we extended the definition in the 2016 FIAF M
+[^5]: There is no designated separate Restoration Event in EN 15907, and as there can often be an overlap in the types of activity associated with both preservation and restoration, we extended the definition in the 2016 FIAF Manual.
