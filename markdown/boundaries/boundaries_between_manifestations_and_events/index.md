@@ -27,7 +27,7 @@ For example:
 
 <center><object data="/diagrams/figure_05.drawio.svg" type="image/svg+xml"></object></center>
 
-As previously mentioned, the EN 15907 standard does not have date or release country as being core elements of a Manifestation, envisaging that information being in an associated Event. However, many systems do include those fields within their Manifestation records, as actual attributes of the Manifestation, as can be seen in some of the examples featured in Appendix I.[ADD LINK] In systems with no, or minimal, Events records capabilities it is the most logical alternative place to capture that important relevant data.
+As previously mentioned, the EN 15907 standard does not have date or release country as being core elements of a Manifestation, envisaging that information being in an associated Event. However, many systems do include those fields within their Manifestation records, as actual attributes of the Manifestation, as can be seen in some of the [example records](/appendices/record_examples/index.md) In systems with no, or minimal, Events records capabilities it is the most logical alternative place to capture that important relevant data.
 
 Other systems may have developed and utilise Events more in line with EN 15907 to reflect data about different releases in various countries, e.g.   
 
