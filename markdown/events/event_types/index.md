@@ -5,7 +5,7 @@
 |  |  | [Manifestation Publication Types](#sec-publication) |  |
 | [Award(s) or Nomination(s)](#sec-awards_or_nominations) | [Award(s) or Nomination(s)](#sec-awards_or_nominations) | [Award(s) or Nomination(s)](#sec-awards_or_nominations) |  |
 | [Production](#sec-production) | [Production](#sec-production) |  |  |
-| [Rights/Copyright/IPR Registration](#sec-values_rights_copyright_ipr_registration) | [Rights/Copyright/IPR Registration](#sec-values_rights_copyright_ipr_registration) | [Licensing](/rights/rights_in_a_menifestation) | [Licensing](/rights/rights_in_a_menifestation) |
+| [Rights/Copyright/IPR Registration](#sec-values_rights_copyright_ipr_registration) | [Rights/Copyright/IPR Registration](#sec-values_rights_copyright_ipr_registration) | [Licensing](/rights/rights_in_a_manifestation) | [Licensing](/rights/rights_in_a_manifestation) |
 |  | [Preservation](#sec-preservation_restoration) | [Preservation](#sec-preservation_restoration) | [Preservation](#sec-preservation_restoration) |
 |  | [Decision](#sec-decision) | [Decision](#sec-decision) |  |
 |  |  | [Manufacture](#sec-manufacture) |  |
