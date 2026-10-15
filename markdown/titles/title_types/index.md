@@ -90,12 +90,12 @@ This is a transcribed element, reflecting the title as it appears onscreen.
 
 ### Manifestations
 
-The title proper corresponds to that of the Manifestation of a Work/Variant, i.e. the title used for a theatrical 35mm release, the title used for a DVD release, the title used for a Television broadcast, the title used for an Internet release, etc. It may reflect the title used in secondary sources or the title as viewed by the cataloguer from a moving image Item belonging to the considered Manifestation.
+The title proper corresponds to that of the Manifestation of a Work or Variant, i.e. the title used for a theatrical 35mm release, the title used for a DVD release, the title used for a Television broadcast, the title used for an Internet release, etc. It may reflect the title used in secondary sources or the title as viewed by the cataloguer from a moving image Item belonging to the considered Manifestation.
 It is the chief name of any Manifestation and represents the primary access point.[^11]
 
 Ideally record in a note or dedicated field the source of the title proper.
 
-If it is impossible to determine the title proper or if the Manifestation is the embodiment of a Work not intended to have a formal title, construct a supplied/devised title (see [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](../../titles/supplied_devised_titles/index.md#sec-supplied_devised_titles)).
+If it is impossible to determine the title proper or if the Manifestation is the embodiment of a Work not intended to have a formal title, construct a supplied/devised title (see [Supplied/Devised Titles](../../titles/supplied_devised_titles/index.md#sec-supplied_devised_titles)).
 
 Specify in a note or dedicated field if the title proper is not determinable or if the Manifestation embodies a Work not intended to have a formal title.
 
@@ -108,7 +108,7 @@ In particular, where an incomplete physical product of the Manifestation has bee
 
 If it is not possible to establish a title from either the Item or its container then secondary sources or a supplied/devised title can be used.
 
-Titles should be transcribed in accordance with the cataloguing guidelines and stylistics applied to Works/Variants and Manifestations.
+Titles should be transcribed in accordance with the cataloguing guidelines and stylistics applied to Works or Variants and Manifestations.
 
 Items may also have title-like information on film leader, cans, and containers.
 
@@ -120,7 +120,7 @@ Ideally, the title proper of an Item is determined by the following:
 
   iii) In the absence of either (i) or (ii), and if catalogued within a WVMI structure, then replicate the title of the Manifestation to which the Item will be linked.
 
-  iv) In the absence of either (i) or (ii), and either not catalogued within a WVMI structure, or Work and Manifestation have not yet been identified, then a supplied/devised title should be created. In the latter instance, any subsequently created Work and Manifestation to be linked to the Item record should have the same title and a supplied/devised title type (See [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](../../titles/supplied_devised_titles/index.md#sec-supplied_devised_titles)).
+  iv) In the absence of either (i) or (ii), and either not catalogued within a WVMI structure, or Work and Manifestation have not yet been identified, then a supplied/devised title should be created. In the latter instance, any subsequently created Work and Manifestation to be linked to the Item record should have the same title and a supplied/devised title type (See [Supplied/Devised Titles](../../titles/supplied_devised_titles/index.md#sec-supplied_devised_titles)).
 
 <a id="sec-other_title_information"></a>
 ## Other Title information[^2]
@@ -128,7 +128,7 @@ Other Work/Variant/Manifestation/Item title (WVMI) information is defined as a w
 
 Other title information includes subtitles, avant-titres, etc., but does not include alternative titles.[^13] Cataloguers may constitute subordinate phrases as part of the Work or Variant title when, in their judgment, such phrases form an integral part of the preferred title.
 
-If other title information appearing on the Manifestation/Item is considered to be important (either for identification or for access), transcribe it as it appears on the source of information, following the principle of transcription and according to the general guidelines on transcription given in [Relationship of FIAF Cataloguing Rules to Functional Requirements of Bibliographic Records (FRBR), Resource Description and Access (RDA) and The European Standards Committee (CEN) Cinematographic Works Standard EN 15907](../../appendices/relationships-with-other-standards/index.md), section entitled “Representation (or principle of transcription).
+If other title information appearing on the Manifestation or Item is considered to be important (either for identification or for access), transcribe it as it appears on the source of information, following the principle of transcription and according to the general guidelines on transcription given in [Relationship with other Standards](../../appendices/relationships-with-other-standards/index.md), section entitled “Representation (or principle of transcription).
 
 !!! example "Example"
     Dr. Strangelove, or, How I learned to stop worrying and love the bomb
