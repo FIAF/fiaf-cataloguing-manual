@@ -10,7 +10,7 @@ Boundaries for this decision are akin to the concepts of “versions with major 
 !!! example "Example"
     Our herring industry (GB, 1932) is the shortened version of Drifters (GB, 1929).
 
-Where a Work/Variant structure exists then Our herring industry would constitute a Variant of the Work Drifters.
+Where a Work/Variant structure exists then Our herring industry would constitute a Variant of the Work "Drifters".
 
 Where no Variant structure exists then the cataloguer would decide whether it constituted a Manifestation or new Work (i.e. whether it constituted a "variation with minor changes", or a "version with major changes").
 
