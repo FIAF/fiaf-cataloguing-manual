@@ -72,7 +72,9 @@ Examples[^2]:
 
 *Partial alteration of dialogue and/or narration of an existing Work, including the removal and/or addition of dialogue (audio and/or intertitles).*
 
-Examples[^3]:
+Some institutions may have the 19 foreign language versions as 19 separate Manifestations, rather than create 19 Variant records, particularly if the data relating to specific different dubbing credits is unavailable or deemed of minor importance.
+
+Examples:
 
 !!! example "Example"
     The addition or removal of explanatory text, dubbing, subtitles, etc.  
@@ -145,4 +147,3 @@ Examples[^3]:
 
 [^1]: The types of alterations given here are adapted from Yee, “The Concept of Work for Moving Image Materials.”
 [^2]: Il cinema ritrovato 2006. 20. edizione: sabato 1 luglio-sabato 8 luglio / Cineteca del Comune di Bologna. – Bologna : Cineteca del Comune di Bologna, 2006, p. 154 (Dossier Mr. Arkadin)
-[^3]: Some institutions may have the 19 foreign language versions as 19 separate Manifestations, rather than create 19 Variant records, particularly if the data relating to specific different dubbing credits is unavailable or deemed of minor importance.
