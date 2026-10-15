@@ -88,7 +88,7 @@ It is not necessary to append Variant information to the Work identifying title 
 The title of a moving image Manifestation or Item.
 This is a transcribed element, reflecting the title as it appears onscreen.
 
-*Manifestations*
+### Manifestations
 
 The title proper corresponds to that of the Manifestation of a Work/Variant, i.e. the title used for a theatrical 35mm release, the title used for a DVD release, the title used for a Television broadcast, the title used for an Internet release, etc. It may reflect the title used in secondary sources or the title as viewed by the cataloguer from a moving image Item belonging to the considered Manifestation.
 It is the chief name of any Manifestation and represents the primary access point.[^11]
@@ -99,7 +99,7 @@ If it is impossible to determine the title proper or if the Manifestation is the
 
 Specify in a note or dedicated field if the title proper is not determinable or if the Manifestation embodies a Work not intended to have a formal title.
 
-*Items* [^12]
+### Items [^12]
 
 Ascertaining the Title Proper of Items differs from ascertaining those for Works, Variants and Manifestations in that what is on or affixed to the Item or physical copy itself takes precedence.
 
