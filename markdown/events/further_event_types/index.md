@@ -185,7 +185,7 @@ A Preservation/Restoration Event can be used in conjunction with Preservation or
 
 [INSERT ILLUSTRATIVE DIAGRAMS USING BOTH HERE]
 
-[ALSO INSERT LINK - TO EXTERNAL CDC SITE HOLDING EWA'S COMPLEX PRESERVATION EVENT DIGITISATION AND PRESERVATION RESTORATION WORKFLOW DOCUMENTS]
+A useful collection of technical metadata on digital Items as well as data collected during digitisation, can be found [here](https://docs.google.com/spreadsheets/d/1cm4KBG_e-bdMppKOcYsFTck7vv5rJDwRI9z0RYX5bNM/edit?gid=646006523#gid=646006523). This spreadsheet was created by a Task Force in the CDC, headed by Elzbieta Wysocka.
 
 <a id="sec-decision"></a>
 ## Decision[^4]
