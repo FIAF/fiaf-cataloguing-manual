@@ -29,7 +29,7 @@ Primary Title Types [^6]
 |  |  | [Title Proper](/titles/title_types/#sec-title_proper) | [Title Proper](/titles/title_types/#sec-title_proper) |
 | [Other title information](/titles/title_types/#sec-other_title_information) | [Other title information](/titles/title_types/#sec-other_title_information) | [Other title information](/titles/title_types/#sec-other_title_information) | [Other title information](/titles/title_types/#sec-other_title_information) |
 | [Alternative](/titles/title_types/#sec-alternative) | [Alternative](/titles/title_types/#sec-alternative) | [Alternative](/titles/title_types/#sec-alternative) | [Alternative](/titles/title_types/#sec-alternative) |
-| Supplied/Devised | Supplied/Devised | Supplied/Devised | Supplied/Devised | 
+| [Supplied/Devised](/titles/supplied_devised_titles/#sec-supplied_devised_titles) | [Supplied/Devised](/titles/supplied_devised_titles/#sec-supplied_devised_titles) | [Supplied/Devised](/titles/supplied_devised_titles/#sec-supplied_devised_titles) | [Supplied/Devised](/titles/supplied_devised_titles/#sec-supplied_devised_titles) | 
 
 <a id="sec-preferred"></a>
 ## Preferred
