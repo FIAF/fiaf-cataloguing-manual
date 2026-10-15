@@ -39,11 +39,11 @@ The preferred title is the chief name (also referred to as “main” or “orig
 The preferred title may include part title and series/serial information for moving image materials issued in multiple parts, e.g., episodes in a film or TV serial.
 See [Moving images with probable or questionable titles](../../titles/moving_images_with_probable_or_questionable_titles/index.md#sec-moving_images_with_probable_or_questionable_titles).
 
-In cases where the preferred Work/Variant title cannot be determined but there is a title on the Manifestation/Item, the title on the Manifestation/Item being catalogued may be used as the preferred title for the Work or Variant.
+In cases where the preferred Work/Variant title cannot be determined but there is a title on the Manifestation or Item, the title on the Manifestation or Item being catalogued may be used as the preferred title for the Work or Variant.
 
 If the preferred title is ascertained at some point and is different from the Manifestation/Item title, the Manifestation/Item title may then be added to the Work or Variant as an alternative title.
 
-When no title at all can be found for a Work or Variant, follow the procedure set out in the [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](../../titles/supplied_devised_titles/index.md#sec-supplied_devised_titles) section.
+When no title at all can be found for a Work or Variant, follow the procedure set out in the section on [Supplied/Devised Titles](../../titles/supplied_devised_titles/index.md#sec-supplied_devised_titles) section.
 
 <a id="sec-identifying_uniform_or_display"></a>
 ## Identifying (i.e. Uniform or Display)[^1]
@@ -55,7 +55,7 @@ In those cases the Identifying and Preferred title will often be one and the sam
 
 Where separate fields do not exist, create an identifying title using the preferred title of the Work/Variant as the starting point (if no title, see [Partially Supplied/Devised Titles](../../titles/supplied_devised_titles/index.md#sec-partially_supplied_devised_titles)).[^8]
 
-Add whatever additions to the title are necessary to identify the Work/Variant and distinguish it from other Works/Variants with the same title.[^9] These types of additions are traditionally made within the title field itself (in parentheses or brackets) although other punctuation separators, e.g. full stop may also be used.
+Add whatever additions to the title are necessary to identify the Work/Variant and distinguish it from other Works or Variants with the same title.[^9] These types of additions are traditionally made within the title field itself (in parentheses or brackets) although other punctuation separators, e.g. full stop may also be used.
 Use multiple additions where necessary.
 If multiple additions must be made to the title field in order to identify the Work/Variant, distinguish each addition (e.g., through the use of punctuation such as space colon space, or space full stop space).
 
