@@ -34,7 +34,7 @@ Record the Publication type for Manifestations. Selection should be made from a 
 - Home video publication  
 - Unknown
 
-For Manifestations, the Publication Event that originated the embodiment of a specific Work/Variant in a Manifestation, corresponds to criteria individuated to distinguish the boundaries between Manifestations. For this reason, conceptually, and also in practice, “publication type” overlaps the main definition of “Manifestation type,” as explained in [INSERT LINK TO Boundaries between Manifestations and Events section] and, as such, is already described. Institutions have the option to decide whether to repeat this information or not.
+For Manifestations, the Publication Event that originated the embodiment of a specific Work and Variant in a Manifestation, corresponds to criteria individuated to distinguish the boundaries between Manifestations. For this reason, conceptually, and also in practice, “publication type” overlaps the main definition of “Manifestation type,” as explained in the chapter about the [Boundaries between Manifestations and Events](/boundaries/boundaries_between_manifestations_and_events/index.md) and, as such, is already described. Institutions have the option to decide whether to repeat this information or not.
 
 **Publication date**
 
