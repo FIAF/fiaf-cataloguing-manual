@@ -24,11 +24,11 @@ Primary Title Types [^6]
 
 | **Work** | **Variant** | **Manifestation** | **Item** |
 | --- | --- | --- | --- |
-| Identifiying | Identifiying |  |  |
-| Preferred | Preferred |  |  |
-|  |  | Title Proper | Title Proper |
-| Other title information | Other title information | Other title information | Other title information |
-| Alternative | Alternative | Alternative | Alternative |
+| [Identifiying](/titles/title_types/#sec-identifying_uniform_or_display) | [Identifiying](/titles/title_types/#sec-identifying_uniform_or_display) |  |  |
+| [Preferred](/titles/title_types/#sec-preferred) | [Preferred](/titles/title_types/#sec-preferred) |  |  |
+|  |  | [Title Proper](/titles/title_types/#sec-title_proper) | [Title Proper](/titles/title_types/#sec-title_proper) |
+| [Other title information](/titles/title_types/#sec-other_title_information) | [Other title information](/titles/title_types/#sec-other_title_information) | [Other title information](/titles/title_types/#sec-other_title_information) | [Other title information](/titles/title_types/#sec-other_title_information) |
+| [Alternative](/titles/title_types/#sec-alternative) | [Alternative](/titles/title_types/#sec-alternative) | [Alternative](/titles/title_types/#sec-alternative) | [Alternative](/titles/title_types/#sec-alternative) |
 | Supplied/Devised | Supplied/Devised | Supplied/Devised | Supplied/Devised | 
 
 <a id="sec-preferred"></a>
