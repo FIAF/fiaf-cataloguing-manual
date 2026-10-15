@@ -14,13 +14,13 @@ In such cases, where possible or considered useful, it is recommended that the t
 The underlying philosophy is to associate as many titles to the respective entities as possible, within the bounds of time/resources and systems, to facilitate discovery.
 
 The different titles types have been combined in a single section to aid in real-world cataloguing, where one may have an item-in-hand but be making assessments about the title of the Work or Variant associated with the Item, as well as physical characteristics that are particular to the Item but which do not signal a change in the content itself.
-This is often the case for archival moving images where titles can be readily changed, misidentified by a well-meaning collector, or completely eliminated before the material reaches an institution.[^5]
+This is often the case for archival moving images where titles can be readily changed, misidentified by a well-meaning collector, or completely eliminated before the material reaches an institution.[^1]
 
 For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see [Display Issues](/preliminary/display_issues/#sec-punctuation).
 
 For sources of information for the Title, see [Sources of Information](../../preliminary/prelim_sources_of_information/index.md#sec-prelim_sources_of_information).
 
-Primary Title Types [^6]
+Primary Title Types [^2]
 
 | **Work** | **Variant** | **Manifestation** | **Item** |
 | --- | --- | --- | --- |
@@ -46,16 +46,16 @@ If the preferred title is ascertained at some point and is different from the Ma
 When no title at all can be found for a Work or Variant, follow the procedure set out in the section on [Supplied/Devised Titles](../../titles/supplied_devised_titles/index.md#sec-supplied_devised_titles) section.
 
 <a id="sec-identifying_uniform_or_display"></a>
-## Identifying (i.e. Uniform or Display)[^1]
-A title that differentiates Works or Variants and which is designed for identification and differentiation purposes in display, i.e. the title which displays in search results.[^7]
+## Identifying (i.e. Uniform or Display)[^3]
+A title that differentiates Works or Variants and which is designed for identification and differentiation purposes in display, i.e. the title which displays in search results.[^4]
 
 An identifying title is designed to identify the entity it represents quickly and concisely to as many users as possible, including users both familiar and unfamiliar with the entity being identified.
 This type of title will not be necessary in all systems, such as those utilising unique identifiers (e.g., ISAN or EIDR), or those that index other distinguishing elements in separate fields that will display with the title in search results, e.g., Year of reference.
 In those cases the Identifying and Preferred title will often be one and the same.
 
-Where separate fields do not exist, create an identifying title using the preferred title of the Work/Variant as the starting point (if no title, see [Partially Supplied/Devised Titles](../../titles/supplied_devised_titles/index.md#sec-partially_supplied_devised_titles)).[^8]
+Where separate fields do not exist, create an identifying title using the preferred title of the Work/Variant as the starting point (if no title, see [Partially Supplied/Devised Titles](../../titles/supplied_devised_titles/index.md#sec-partially_supplied_devised_titles)).[^5]
 
-Add whatever additions to the title are necessary to identify the Work/Variant and distinguish it from other Works or Variants with the same title.[^9] These types of additions are traditionally made within the title field itself (in parentheses or brackets) although other punctuation separators, e.g. full stop may also be used.
+Add whatever additions to the title are necessary to identify the Work/Variant and distinguish it from other Works or Variants with the same title.[^6] These types of additions are traditionally made within the title field itself (in parentheses or brackets) although other punctuation separators, e.g. full stop may also be used.
 Use multiple additions where necessary.
 If multiple additions must be made to the title field in order to identify the Work/Variant, distinguish each addition (e.g., through the use of punctuation such as space colon space, or space full stop space).
 
@@ -63,7 +63,7 @@ If multiple additions must be made to the title field in order to identify the W
     Blade runner. Final Cut. 1982
 
 Possible qualifiers include content terms. See a [List of form terms for
-Supplied/Devised titles](/titles/supplied_devised_titles/#sec-list_of_form_terms_for_supplied_devised_titles), corporate bodies that are not principal creators of the Work/Variant but are closely associated with the Work/Variant and useful for identification of it, place of publication/release/distribution/broadcast, and date of publication/release/distribution/broadcast.[^10]
+Supplied/Devised titles](/titles/supplied_devised_titles/#sec-list_of_form_terms_for_supplied_devised_titles), corporate bodies that are not principal creators of the Work/Variant but are closely associated with the Work/Variant and useful for identification of it, place of publication/release/distribution/broadcast, and date of publication/release/distribution/broadcast.[^7]
 
 Works:
 
@@ -91,7 +91,7 @@ This is a transcribed element, reflecting the title as it appears onscreen.
 ### Manifestations
 
 The title proper corresponds to that of the Manifestation of a Work or Variant, i.e. the title used for a theatrical 35mm release, the title used for a DVD release, the title used for a Television broadcast, the title used for an Internet release, etc. It may reflect the title used in secondary sources or the title as viewed by the cataloguer from a moving image Item belonging to the considered Manifestation.
-It is the chief name of any Manifestation and represents the primary access point.[^11]
+It is the chief name of any Manifestation and represents the primary access point.[^8]
 
 Ideally record in a note or dedicated field the source of the title proper.
 
@@ -99,7 +99,7 @@ If it is impossible to determine the title proper or if the Manifestation is the
 
 Specify in a note or dedicated field if the title proper is not determinable or if the Manifestation embodies a Work not intended to have a formal title.
 
-### Items [^12]
+### Items [^9]
 
 Ascertaining the Title Proper of Items differs from ascertaining those for Works, Variants and Manifestations in that what is on or affixed to the Item or physical copy itself takes precedence.
 
@@ -123,10 +123,10 @@ Ideally, the title proper of an Item is determined by the following:
   iv) In the absence of either (i) or (ii), and either not catalogued within a WVMI structure, or Work and Manifestation have not yet been identified, then a supplied/devised title should be created. In the latter instance, any subsequently created Work and Manifestation to be linked to the Item record should have the same title and a supplied/devised title type (See [Supplied/Devised Titles](../../titles/supplied_devised_titles/index.md#sec-supplied_devised_titles)).
 
 <a id="sec-other_title_information"></a>
-## Other Title information[^2]
+## Other Title information[^10]
 Other Work/Variant/Manifestation/Item title (WVMI) information is defined as a word or phrase appearing in conjunction with, and subordinate to the title, and which qualifies, explains, or completes the title to which it applies or which is indicative of the character, contents, etc., of the WVMI, or the motives for, or occasion of, its production or publication.
 
-Other title information includes subtitles, avant-titres, etc., but does not include alternative titles.[^13] Cataloguers may constitute subordinate phrases as part of the Work or Variant title when, in their judgment, such phrases form an integral part of the preferred title.
+Other title information includes subtitles, avant-titres, etc., but does not include alternative titles.[^11] Cataloguers may constitute subordinate phrases as part of the Work or Variant title when, in their judgment, such phrases form an integral part of the preferred title.
 
 If other title information appearing on the Manifestation or Item is considered to be important (either for identification or for access), transcribe it as it appears on the source of information, following the principle of transcription and according to the general guidelines on transcription given in [Relationship with other Standards](../../appendices/relationships-with-other-standards/index.md).
 
@@ -143,7 +143,7 @@ If other title information appearing on the Manifestation or Item is considered 
     This Britain: Heritage of the sea
 
 Distinguish the other title information through the use of spacing or punctuation, or a separate or dedicated field.
-If a general material designation is used, place it after the preferred title and before other title information.[^14]
+If a general material designation is used, place it after the preferred title and before other title information.[^12]
 
 !!! example "Example"
     Claymation [motion picture]: three dimensional clay animation
@@ -154,10 +154,10 @@ If a general material designation is used, place it after the preferred title an
 <a id="sec-abridging_or_omitting_other_title_information"></a>
 ### Abridging or omitting other title information
 If other title information is lengthy or of very minor importance, either give it in a note or omit it.
-See Appendix B, Cataloguer’s Notes.
-Abridge other title information only if this can be done without essential loss of information.[^15]
+See [Cataloguer’s Notes](/appendices/catalogers_notes).
+Abridge other title information only if this can be done without essential loss of information.[^13]
 
-If other title information is clearly of very minor importance, for example a newsreel slogan, or it is an avant-titre which grammatically cannot follow the title proper, place it in a note.[^16]
+If other title information is clearly of very minor importance, for example a newsreel slogan, or it is an avant-titre which grammatically cannot follow the title proper, place it in a note.[^14]
 
 !!! example "Example"
     CBS news special. Challenge in the coal mines : (other title information) men against their union
@@ -170,13 +170,13 @@ But (without separation into “title proper” and “other title information�
     Pompeii, frozen in Fire
 
 <a id="sec-alternative"></a>
-## Alternative[^3]
+## Alternative[^15]
 Ensures that users can search under any variation of the title that has been used for a Work, Variant, Manifestation or Item, and be led to the content or particular physical object that they seek.
 
 Alternative titles for the Work differ from uniform, preferred, and other title information and may be encountered in the course of cataloguing its Variants, Manifestations and Items.
 If the Work could reasonably be sought under the title(s) of one of these Variants/Manifestations, the alternative title should be indexed in such a way that a user who searches on it is led to the Work.
 
-Alternative titles for the Manifestation differ from the title proper or other title information.[^17]
+Alternative titles for the Manifestation differ from the title proper or other title information.[^16]
 
 Alternative titles on a Manifestation can have a different nature, expressing the possible different designations of the Manifestation during its production, release, publication or archival history that may be different from the title proper or parallel titles.
 
@@ -191,27 +191,27 @@ A controlled list, not exhaustive and open to further and continued implementati
 
 <a id="sec-alternative_title_types"></a>
 ### Alternative title types
-- Working: A provisional title, given during the production or the manufacturing process.[^18]
+- Working title: A provisional title, given during the production or the manufacturing process.[^17]
 
 - Acquisition title: A title under which a moving image was acquired, with no other discernible title discovered.
 
-- Pre-release title: A provisional title, given to the Manifestation before the release or publication with the definitive title of the related Work.[^19]
+- Pre-release title: A provisional title, given to the Manifestation before the release or publication with the definitive title of the related Work.[^18]
 
-- Abbreviated title: A title given in order to designate it quickly by the institution.[^20]
+- Abbreviated title: A title given in order to designate it quickly by the institution.[^19]
 
 - Translated title: A title given to designate the Manifestation in the language
 of the institution, in a literally translated form (not to be confused with the
-Parallel title).[^21]
+Parallel title).[^20]
 
 - Transliterated title: A title given to designate the Manifestation in
 the alphabet of the institution, following international standards of
-transliteration, such as [ISO 9](https://www.iso.org/standard/3589.html) (not to be confused with the Parallel title).[^22]
+transliteration, such as [ISO 9](https://www.iso.org/standard/3589.html) (not to be confused with the Parallel title).[^21]
 
 - Corrected title: A title given in the corrected form by the institution, when it
 is recorded incorrectly in the sources of information, if it is considered to be
-important (either for identification or for access).[^23]
+important (either for identification or for access).[^22]
 
-- Help/Search: Titles which may or may not have been used in verified sources but which clearly help when searching. Use the “Help/Search” title type for stylistic variations including, abbreviations (e.g., Dr./Doctor), numerals (e.g., 45/forty five), acronyms (e.g., FIAF/International Federation of Film Archives) symbols and other characters (e.g., &/and, £/pound), different spelling (Southsea/South Sea).[^24]
+- Help/Search: Titles which may or may not have been used in verified sources but which clearly help when searching. Use the “Help/Search” title type for stylistic variations including, abbreviations (e.g., Dr./Doctor), numerals (e.g., 45/forty five), acronyms (e.g., FIAF/International Federation of Film Archives) symbols and other characters (e.g., &/and, £/pound), different spelling (Southsea/South Sea).[^23]
 
 !!! example "Example"
     The fast & the furious 5 
@@ -243,7 +243,6 @@ important (either for identification or for access).[^23]
 
     Chuckles bites the dust = Preferred Title
 
-(see [Title](../../variants/elements_of_a_variant/index.md#sec-work_title))
 
 - Parallel title : the title in another language or script.
 
@@ -253,7 +252,7 @@ For archival moving image cataloguing, the concept of a parallel title includes 
 parallel titles for international co-productions, a title which cannot be reproduced) and any title by which the Work is commonly known to users and researchers.
 
 Parallel titles are recorded with wording and spelling as established by an appropriate principal source.
-Where this involves transcription between scripts, use an appropriate standard for transliterations.[^25]
+Where this involves transcription between scripts, use an appropriate standard for transliterations.[^24]
 
 !!! example "Example"
     Chandralekha [No English language title translation available; 
@@ -262,7 +261,15 @@ Where this involves transcription between scripts, use an appropriate standard f
 
 When a title is an international co-production, or is produced in a bi- or multi-lingual country of origin, and is released simultaneously under separate titles in the languages of the country of origin or countries of co-production as well as in other languages, record all the parallel titles in the languages of the countries of co-production and in the language of the copy the institution holds, if it is in an additional language.
 
-If it cannot be determined whether the Work was released simultaneously or the release order cannot be determined, the cataloguer should select one of the qualifying titles in accordance with a consistent policy (for example from a list of languages in the institution’s preferred order, or by reference to an authoritative source.) [^26] [^27]
+If it cannot be determined whether the Work was released simultaneously or the release order cannot be determined, the cataloguer should select one of the qualifying titles in accordance with a consistent policy (for example from a list of languages in the institution’s preferred order, or by reference to an authoritative source.) [^25]
+Such lists will normally give preference to the languages most familiar to researchers in the country of the archive. For example, the standard list for archival moving image cataloguing in the United States is: 
+- 1. U.S. title (if an American company is involved in the production).
+- 2. U.K. title (if a British company is involved in the production).
+- 3. Other English language title (if an English language speaking country is involved in the production).
+- 4. French title (if a French company is involved in the production).
+- 5. German title (if a German-speaking country is involved in the production).
+- 6. Other Romance language title (if these language companies are involved in the production).
+- 7. Other Germanic language title (if these language companies are involved in the production).
 
 Historically, parallel titles have been placed within the title field itself, following the preferred title and an equal sign to represent the title frame (i.e., the fact that both titles appear onscreen).
 These guidelines recommend the use of separate fields that distinguish between the preferred title and any subsequent parallel title(s) but if this is not possible, the older approach is acceptable.
@@ -279,7 +286,7 @@ These guidelines recommend the use of separate fields that distinguish between t
 Alternatively, an institution may opt to have fewer Title Types and simply use Preferred and Alternative Title Types (i.e., designating parallel titles as Alternative Title Types).
 For example, with co-productions, a Preferred title for the Work is established with all other language titles added both as Alternative title types to the Work and as the Title Proper/Other Title of an associated Variant and/or Manifestation.
 
-A parallel title of a Manifestation corresponds to the title proper in another language or script.[^28]
+A parallel title of a Manifestation corresponds to the title proper in another language or script.[^26]
 
 Record in a note the source of the parallel title, as appropriate.
 Institutions may choose to distinguish between distinct Parallel and Alternative title types or adopt a wider definition of “Alternative” which incorporates both.
@@ -288,33 +295,32 @@ For parallel titles of a Manifestation distributed in distinct geographical regi
 
 (For the treatment of the geographical names, see Getty Thesaurus of Geographic Names (TGN), or some other recognised standard.)
 
-
-[^1]: Adapted from UCLA Film & Television Archive, Cataloging Procedure Manual—Voyager, Section 5, Filmographic Record – Body of the Description, http://old.cinema.ucla.edu/CPM%20Voyager/CPMV05.html#5.2
-
-[^1]: Term “Identifying title” corresponds with EN 15907. This is the equivalent of “Uniform title” in FRBR and “Preferred title” in RDA.
-[^2]: Adapted from FIAF, 1.4. Other title information, p. 25.
-[^3]: Adapted from YCR, 1.3 Work access, p. 39.
-[^5]: FIAF Cataloguing Rules, p. xiii
-[^6]: For simplicity’s sake, this table does not present sub-types of Title Types, i.e., sub-types of Alternative and Supplied/Devised titles. Suggested sub-types and definitions can be found under the headings for the primary Title Types.
-[^7]: OLAC TF, Part 3a, p. 5.
-[^8]: Both YCR (0.9.3 Normalized human-readable identifiers or headings) and EN 15907 (6.4 Identifying Title) recommend the construction of a human-readable identifier for result list displays, with disambiguation using data such as Genre, Year, etc.
-[^9]: YCR, 0.9.3 Normalized human-readable identifiers or headings, p. 8
-[^10]: YCR, 1.1.2.3 Unique identifiers for works identified by title, pp. 21-22
-[^11]: In this FRBR-based context, the title of a moving image Manifestation corresponds strictly to the traditionally ISBD concept of “title proper”. Vice versa, in the previous FIAF Rules the title proper was defined as “the title of the original release in the country the origin”, which, in a FRBR-based approach, corresponds to the “preferred title” of a Moving Image Work.
-[^12]: Item Title Types and definitions taken from BFI CID Stylistics Manual. 2nd Edition. May 2012
-[^13]: FIAF glossary and FIAF 1992, 1.4: “Other title information: a word or phrase, or a group of characters appearing in conjunction with, and subordinate to, the title proper of the item. Other title information also occurs in conjunction with and subordinate to: parallel titles, variations of the title proper, episode titles, contents titles, titles of series, or of subseries. Other title information qualifies, explains or completes that title to which it applies, or is indicative of the character, contents, etc. of the item or the Works contained in it, or is indicative of the motive for, or the occasion of, the item’s production. The term includes subtitles and avant-tîtres.” Differently, in the RDA glossary and RDA 2.3.4: “Other title information is information that appears in conjunction with, and is subordinate to, the title proper of a resource. It may include any phrase appearing in conjunction with the title proper that is indicative of the character, content, etc. of the resource or the motives for, or occasion of, its production of publication. Other title information includes subtitles, avant-titres, etc., but does not include variations on the title proper such as spine titles, sleeve titles, etc. (see 2.3.6 ) or designations and/or names of parts, sections, or supplements (see 2.3.1.7 ).”
-[^14]: FIAF, 1.4.1.1, 1.4.1.2., 1.4.1.3., pp. 25-26.
-[^15]: FIAF, 1.4.2, p. 26.
-[^16]: Based on FIAF 1.4.2
-[^17]: The definition is based on the explanation of the “Variant title” title given in RDA (glossary and 2.3.6), but in this case, to avoid confusion with the “Variant” entity, the term “Alternative” has been adopted. The main reference and reason for this choice is the FIAF Glossary where “Alternative title” is in parallel with the RDA “Variant title” and practically with the same meaning: FIAF Glossary, 2008 revision, A 1.12 “Alternative Title, Alternative title. Any title by which a film is known other than the Original Title”.
+[^1]: FIAF Cataloguing Rules, p. xiii
+[^2]: For simplicity’s sake, this table does not present sub-types of Title Types, i.e., sub-types of Alternative and Supplied/Devised titles. Suggested sub-types and definitions can be found under the headings for the primary Title Types.
+[^3]: Term “Identifying title” corresponds with EN 15907. This is the equivalent of “Uniform title” in FRBR and “Preferred title” in RDA.
+[^4]: OLAC TF, Part 3a, p. 5.
+[^5]: Both YCR (0.9.3 Normalized human-readable identifiers or headings) and EN 15907 (6.4 Identifying Title) recommend the construction of a human-readable identifier for result list displays, with disambiguation using data such as Genre, Year, etc.
+[^6]: YCR, 0.9.3 Normalized human-readable identifiers or headings, p. 8
+[^7]: YCR, 1.1.2.3 Unique identifiers for works identified by title, pp. 21-22
+[^8]: In this FRBR-based context, the title of a moving image Manifestation corresponds strictly to the traditionally ISBD concept of “title proper”. Vice versa, in the previous FIAF Rules the title proper was defined as “the title of the original release in the country the origin”, which, in a FRBR-based approach, corresponds to the “preferred title” of a Moving Image Work.
+[^9]: Item Title Types and definitions taken from BFI CID Stylistics Manual. 2nd Edition. May 2012
+[^10]: Adapted from FIAF, 1.4. Other title information, p. 25.
+[^11]: FIAF glossary and FIAF 1992, 1.4: “Other title information: a word or phrase, or a group of characters appearing in conjunction with, and subordinate to, the title proper of the item. Other title information also occurs in conjunction with and subordinate to: parallel titles, variations of the title proper, episode titles, contents titles, titles of series, or of subseries. Other title information qualifies, explains or completes that title to which it applies, or is indicative of the character, contents, etc. of the item or the Works contained in it, or is indicative of the motive for, or the occasion of, the item’s production. The term includes subtitles and avant-tîtres.” Differently, in the RDA glossary and RDA 2.3.4: “Other title information is information that appears in conjunction with, and is subordinate to, the title proper of a resource. It may include any phrase appearing in conjunction with the title proper that is indicative of the character, content, etc. of the resource or the motives for, or occasion of, its production of publication. Other title information includes subtitles, avant-titres, etc., but does not include variations on the title proper such as spine titles, sleeve titles, etc. (see 2.3.6 ) or designations and/or names of parts, sections, or supplements (see 2.3.1.7 ).”
+[^12]: FIAF, 1.4.1.1, 1.4.1.2., 1.4.1.3., pp. 25-26.
+[^13]: FIAF, 1.4.2, p. 26.
+[^14]: Based on FIAF 1.4.2
+[^15]: Adapted from YCR, 1.3 Work access, p. 39
+[^16]: The definition is based on the explanation of the “Variant title” title given in RDA (glossary and 2.3.6), but in this case, to avoid confusion with the “Variant” entity, the term “Alternative” has been adopted. The main reference and reason for this choice is the FIAF Glossary where “Alternative title” is in parallel with the RDA “Variant title” and practically with the same meaning: FIAF Glossary, 2008 revision, A 1.12 “Alternative Title, Alternative title. Any title by which a film is known other than the Original Title”.
+[^17]: Based on FIAF 1.3.
 [^18]: Based on FIAF 1.3.
 [^19]: Based on FIAF 1.3.
 [^20]: Based on FIAF 1.3.
 [^21]: Based on FIAF 1.3.
-[^22]: Based on FIAF 1.3.
-[^23]: Based on RDA 2.3.6.
-[^24]: CID Stylistics Manual – 2nd edition. BFI. 2011.
-[^25]: FIAF, 1.3. Parallel title, p. 22.
-[^26]: FIAF, 1.3.4., pp. 23-24.
-[^27]: Such lists will normally give preference to the languages most familiar to researchers in the country of the archive. For example, the standard list for archival moving image cataloguing in the United States is: 1. U.S. title (if an American company is involved in the production). 2. U.K. title (if a British company is involved in the production). 3. Other English language title (if an English language speaking country is involved in the production). 4. French title (if a French company is involved in the production). 5. German title (if a German-speaking country is involved in the production). 6. Other Romance language title (if these language companies are involved in the production). 7. Other Germanic language title (if these language companies are involved in the production).
-[^28]: Differences between FIAF 1992 and RDA: FIAF expands the concept of Parallel title to any title qualifying as an original but not used as a title proper (the attempt was to include as many alternative titles as possible), but gives to the archives the responsibility to decide whether to enter them in the appropriate area or in the Notes area. RDA makes a distinction among the different characteristics of a title and considers the parallel title strictly as “the title proper in another language or script”. In this context the RDA approach has been considered more appropriate.
+[^22]: Based on RDA 2.3.6.
+[^23]: CID Stylistics Manual – 2nd edition. BFI. 2011.
+[^24]: FIAF, 1.3. Parallel title, p. 22.
+[^25]: FIAF, 1.3.4., pp. 23-24.
+[^26]: Differences between FIAF 1992 and RDA: FIAF expands the concept of Parallel title to any title qualifying as an original but not used as a title proper (the attempt was to include as many alternative titles as possible), but gives to the archives the responsibility to decide whether to enter them in the appropriate area or in the Notes area. RDA makes a distinction among the different characteristics of a title and considers the parallel title strictly as “the title proper in another language or script”. In this context the RDA approach has been considered more appropriate.
+
+
+
