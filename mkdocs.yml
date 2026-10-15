@@ -146,8 +146,8 @@ nav:
 
   - Events:
     - Events: events/index.md
-    - Event Types: events/event_types/index.md
-    - Further Event Types: events/further_event_types/index.md
+    - Overview: events/event_types/index.md
+    - Event Types: events/further_event_types/index.md
 
   - Other Relationships:
     - Other Relationships: other-relationships/index.md
