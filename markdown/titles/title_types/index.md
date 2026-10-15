@@ -62,8 +62,8 @@ If multiple additions must be made to the title field in order to identify the W
 !!! example "Example"
     Blade runner. Final Cut. 1982
 
-Possible qualifiers include content terms (see for example D.18 List of form terms for
-Supplied/Devised titles), corporate bodies that are not principal creators of the Work/Variant but are closely associated with the Work/Variant and useful for identification of it, place of publication/release/distribution/broadcast, and date of publication/release/distribution/broadcast.[^10]
+Possible qualifiers include content terms. See a [List of form terms for
+Supplied/Devised titles](/titles/supplied_devised_titles/#sec-list_of_form_terms_for_supplied_devised_titles), corporate bodies that are not principal creators of the Work/Variant but are closely associated with the Work/Variant and useful for identification of it, place of publication/release/distribution/broadcast, and date of publication/release/distribution/broadcast.[^10]
 
 Works:
 
