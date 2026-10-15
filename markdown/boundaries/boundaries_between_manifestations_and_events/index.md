@@ -1,6 +1,6 @@
 
 
-As mentioned at [INSERT INTERNAL LINK TO RELEVANT SECTION IN MANUAL], there is no rule within EN 15907 as to the categories of Manifestation Type there can be, only that its values come from a controlled vocabulary list. The only one stipulated value that exists is that of a category of ‘Unknown’.
+As mentioned in the chapter about [Manifestations](/manifestations/attributes_of_a_manifestation/#sec-manifestation-type) there is no rule within EN 15907 as to the categories of Manifestation Type there can be, only that its values come from a controlled vocabulary list. The only one stipulated value that exists is that of a category of ‘Unknown’.
 
 Overlaps that have evolved between use of Manifestations and Events, and Manifestation types and Event Publication types, have partly been due to some ambiguity within the EN 15907 standard itself. But also, how the latter has been interpreted and evolved since it was conceived in order to deal with the nature and range of actual moving image material and technological developments; as well as the realities and practicalities for institutions using different cataloguing systems and databases, and user access needs.
 
@@ -27,7 +27,7 @@ For example:
 
 <center><object data="/diagrams/figure_05.drawio.svg" type="image/svg+xml"></object></center>
 
-As previously mentioned, the EN 15907 standard does not have date or release country as being core elements of a Manifestation, envisaging that information being in an associated Event. However, many systems do include those fields within their Manifestation records, as actual attributes of the Manifestation, as can be seen in some of the examples featured in Appendix I.[ADD LINK] In systems with no, or minimal, Events records capabilities it is the most logical alternative place to capture that important relevant data.
+As previously mentioned, the EN 15907 standard does not have date or release country as being core elements of a Manifestation, envisaging that information being in an associated Event. However, many systems do include those fields within their Manifestation records, as actual attributes of the Manifestation, as can be seen in some of the [example records](/appendices/record_examples/index.md) In systems with no, or minimal, Events records capabilities it is the most logical alternative place to capture that important relevant data.
 
 Other systems may have developed and utilise Events more in line with EN 15907 to reflect data about different releases in various countries, e.g.   
 
@@ -65,4 +65,4 @@ For those cataloguing in non-relational databases, paper or card catalogues, or 
 
 As with the ability to utilise EN 15907 within a 4, 3, 2 or 1-level hierarchy, the same fundamental principle applies with use and structure of Events with Works, Variants, Manifestations or Items; namely, that it does not matter what data systems or structures an institution uses – whether index card or complex computer systems -  as long as their records capture the relevant data concerned.
 
-With a fundamental aim of EN 15907 being interoperability, then use of types such as those in the list of Manifestation Types at [INSERT INTERNAL LINK TO RELEVANT SECTION] is key to the flexibility and use of the data architecture reflecting the standard and makes this a lot more achievable; especially in systems where Events structures are minimal or do not exist. Because there is an overlap in Manifestation and Event type terms it could make potential mapping and interoperability achievable.
+With a fundamental aim of EN 15907 being interoperability, then use of types such as those in the list of [Manifestation Types](/manifestations/attributes_of_a_mannifestation/#sec-manifestation_type) is key to the flexibility and use of the data architecture reflecting the standard and makes this a lot more achievable; especially in systems where Events structures are minimal or do not exist. Because there is an overlap in Manifestation and Event type terms it could make potential mapping and interoperability achievable.
