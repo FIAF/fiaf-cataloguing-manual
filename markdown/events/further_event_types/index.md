@@ -140,7 +140,7 @@ A Preservation/Restoration Event is associated with a new Variant, Manifestation
 
 This includes statements about past or future treatments scheduled for the item.  If desired and if applicable, record one or more general types of past or future treatment activities (e.g. "added leaders", "cleaned ultrasonically", "tears repair", etc.). Selection should be made from a controlled list of values. See also [Item Chapter](/items/elements_of_a_moving_image_item/#sec-item_copy_condition_base_emulsion_film_and_video).
 
-A Preservation/Restoration Event has as typical Agent(s) the institution(s) or individual professionals that make preservation decisions. Selection should be made from a controlled list of values. See See [Agent Types](/agents/agents_for_works_variants/index.md).
+A Preservation/Restoration Event has as typical Agent(s) the institution(s) or individual professionals that make preservation decisions. Selection should be made from a controlled list of values. See [Agent Types](/agents/agents_for_works_variants/index.md).
 
 A Preservation/Restoration Event can be in relationship with instances of [Other Relationships](/other_relationships/other_relationships_for_works_variants_manifestations_items/#sec-work_variant_other_relationship_types) (such as technical reports, documentation material, promotional material for the specific project, etc.).
 
@@ -386,7 +386,7 @@ The date on which the Item was physically removed from an institution's collecti
 
 <a id="sec-inspection"></a>
 ## Inspection
-The inspection of a particular Item for the purposes of assessing and recording the condition or treatment of the Item. This frequently ties in with a Preservation/Restoration Event [ADD LINK TO THAT]
+The inspection of a particular Item for the purposes of assessing and recording the condition or treatment of the Item. This frequently ties in with a [Preservation/Restoration Event](/events_further_event_types/#sec-preservation_restoration).
 
 An Inspection Event may be associated with instances of Agent in the role of e.g. inventory archivist, lab technician, projectionist, etc.
 
