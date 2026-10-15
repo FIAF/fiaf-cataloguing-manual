@@ -4,7 +4,7 @@
 
 Record one or more Event type, for example, “decision,” “manufacture,” etc., to express the nature of the Event’s relationship to the Manifestation. Selection should be made from a controlled list of terms.
 
-For Manifestations, a Publication Event corresponds to a screening, broadcast, streaming, or the release of the Manifestation of a Work and Variant on a physical distribution medium or online.
+For Manifestations, a Publication Event corresponds to a screening, broadcast, streaming, or the release of the Manifestation of a Work or Variant on a physical distribution medium or online.
 
 A Publication Event may be associated with instances of Agent in the role of e.g., publisher, distributor, broadcaster[^1], etc. See [Distributor (theatrical)](../../agents/agents_for_manifestations/index.md#sec-distributor_theatrical) and [Agent Types](/agents/agents_for_works_variants/index.md).
 
@@ -38,11 +38,11 @@ For Manifestations, the Publication Event that originated the embodiment of a sp
 
 **Publication date**
 
-Record the date on which Work and Variant, or Manifestation was released or otherwise made available. Dates should be formatted according to ISO 8601 or some other recognised standard. The date should be that of the specific event of the Manifestation publication, e.g. a moving image Manifestation may have Publication dates in separate Publication events - a Manifestation for its first theatrical release date of 1957, and then Manifestations for the broadcast date (in 1981) and streaming date (in 2020). 
+Record the date on which Work or Variant, or Manifestation was released or otherwise made available. Dates should be formatted according to ISO 8601 or some other recognised standard. The date should be that of the specific event of the Manifestation publication, e.g. a moving image Manifestation may have Publication dates in separate Publication events - a Manifestation for its first theatrical release date of 1957, and then Manifestations for the broadcast date (in 1981) and streaming date (in 2020). 
  
 **Region**
 
-Record the country or other political or physical geographic entity where the Publication Event took place (e.g. first projection in the framework of a theatrical distribution) or made the Work and Variant, or Manifestation available (e.g. distribution area).
+Record the country or other political or physical geographic entity where the Publication Event took place (e.g. first projection in the framework of a theatrical distribution) or made the Work or Variant, or Manifestation available (e.g. distribution area).
 
 If known and considered of relevance, record the name of the city or smaller geographic entity where the Publication Event took place.
 
@@ -55,9 +55,9 @@ If known and considered of relevance, record the specific restrictions for acces
 <a id="sec-awards_or_nominations"></a>
 ## Award(s) or Nomination(s)[^1]
 
-The bestowal of an award relating to the Work/Variant or Manifestation. This excludes awards for Agents alone (e.g. "for lifetime achievement"), but includes awards for individual achievements within the context of a Work or Variant (e.g. "Best screenplay"). Awards will usually be associated at the level of the Work, except for cases where features of a particular Variant are explicitly mentioned (e.g. "Best audio commentary for the visually impaired") or the award relates to a particular Manifestation (such as a DVD edition).
+The bestowal of an award relating to the Work or Variant, or Manifestation. This excludes awards for Agents alone (e.g. "for lifetime achievement"), but includes awards for individual achievements within the context of a Work or Variant (e.g. "Best screenplay"). Awards will usually be associated at the level of the Work, except for cases where features of a particular Variant are explicitly mentioned (e.g. "Best audio commentary for the visually impaired") or the award relates to a particular Manifestation (such as a DVD edition).
 
-An Award(s) or Nomination(s) Event may be associated with instances of Agent in the role of e.g. publisher, distributor, broadcaster , etc. See [Distributor (theatrical)](../../agents/agents_for_manifestations/index.md#sec-distributor_theatrical) and [sec:work_variant_agent_types](../../agents/agents_for_works_variants/index.md). If the award was given for the achievement of a specific Agent within the context of the Work/Variant or Manifestation, identify the Agent. Also used to identify Agents that have sponsored the award.
+An Award(s) or Nomination(s) Event may be associated with instances of Agent in the role of e.g. publisher, distributor, broadcaster , etc. See [Distributor (theatrical)](../../agents/agents_for_manifestations/index.md#sec-distributor_theatrical) and [Agent Types](/agents/agents_for_works_variants/index.md). If the award was given for the achievement of a specific Agent within the context of the Work or Variant or Manifestation, identify the Agent. Also used to identify Agents that have sponsored the award.
 
 An Award(s) or Nomination(s) Event may be associated with instances of other Events during which award winners were selected (e.g. film festival).
 
@@ -93,7 +93,7 @@ A distinct event in the course of production of a Work or Variant, including the
 
 May include year/date of shooting of non-professional, actuality or unedited footage.
 
-A Production Event may be associated with instances of Agent in the role of e.g. production company, location scout, etc. Selection should be made from a controlled list of values. See [sec:work_variant_agent_types](../../agents/agents_for_works_variants/index.md).
+A Production Event may be associated with instances of Agent in the role of e.g. production company, location scout, etc. Selection should be made from a controlled list of values. See [Agent Types](/agents/agents_for_works_variants/index.md).
 
 Record all the existing relationships of a Production/Publication Event, if the information is known and considered of relevance.
 
@@ -140,7 +140,7 @@ A Preservation/Restoration Event is associated with a new Variant, Manifestation
 
 This includes statements about past or future treatments scheduled for the item.  If desired and if applicable, record one or more general types of past or future treatment activities (e.g. "added leaders", "cleaned ultrasonically", "tears repair", etc.). Selection should be made from a controlled list of values. [CHECK - DO WE HAVE A LIST FOR THAT?]
 
-A Preservation/Restoration Event has as typical Agent(s) the institution(s) or individual professionals that make preservation decisions. Selection should be made from a controlled list of values. See [sec:work_variant_agent_types](../../agents/agents_for_works_variants/index.md).
+A Preservation/Restoration Event has as typical Agent(s) the institution(s) or individual professionals that make preservation decisions. Selection should be made from a controlled list of values. See See [Agent Types](/agents/agents_for_works_variants/index.md).
 
 A Preservation/Restoration Event can be in relationship with instances of “Other” relationships (such as technical reports, documentation material, promotional material for the specific project, etc.).
 
