@@ -128,7 +128,7 @@ Other Work/Variant/Manifestation/Item title (WVMI) information is defined as a w
 
 Other title information includes subtitles, avant-titres, etc., but does not include alternative titles.[^13] Cataloguers may constitute subordinate phrases as part of the Work or Variant title when, in their judgment, such phrases form an integral part of the preferred title.
 
-If other title information appearing on the Manifestation or Item is considered to be important (either for identification or for access), transcribe it as it appears on the source of information, following the principle of transcription and according to the general guidelines on transcription given in [Relationship with other Standards](../../appendices/relationships-with-other-standards/index.md), section entitled “Representation (or principle of transcription).
+If other title information appearing on the Manifestation or Item is considered to be important (either for identification or for access), transcribe it as it appears on the source of information, following the principle of transcription and according to the general guidelines on transcription given in [Relationship with other Standards](../../appendices/relationships-with-other-standards/index.md).
 
 !!! example "Example"
     Dr. Strangelove, or, How I learned to stop worrying and love the bomb
