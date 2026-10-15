@@ -48,17 +48,18 @@ Answer: One way to do it, would be to link all the digital Items with the Manife
 
 - Item 1: Raw Scan of the soundtrack (5 Item-parts)  
 - Item 2: Raw Scan of the image (5 Item-parts)  
-- Item 3: Master (combined sound+image) (1 Item-part)  
+- Item 3: Master File (combined sound+image, made from both Raw Scans) (1 Item-part)  
 - Item 4: Viewing File (combined sound+image made from Master) (1 Item-part)  
-- Item 5: DCDM (1 Item-part)  
-- Item 6: DCP (1 Item-part)  
-- Item 7: DVD (1 Item-part)
+- Item 5: DSM (1 Item-part, made from both Raw Scans)  
+- Item 6: DCDM (1 Item-part, made from the DSM)  
+- Item 7: DCP (1 Item-part, made from the DCDM)
+
 
 <br><center><object data="/diagrams/digit_item4dgrmsize.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 Another, and more advisable way since this relates to a restoration project, would be to link all the new digital Items with a new Restoration type Manifestation, e.g.
 
-<br><center><object data="/diagrams/digit_item5.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+<br><center><object data="/diagrams/digit_item5a.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 Or even to create other additional new Manifestations with relevant types and linking the various digital files under these as relevant, so that five of the digital files are linked to a Restoration Manifestation, the DCP file is linked to a Theatrical release Manifestation, and the Viewing file to an Internet Manifestation, e.g.
 
