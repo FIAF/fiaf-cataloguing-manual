@@ -3,7 +3,7 @@
 
 An Event characterises occurrences in the lifecycle of a moving image Work, Variant, Manifestation, or Item. In addition, instances of any Event type can have Agent and "Other" relationships.
 
-The [EN 15907 standard](/https://filmstandards.org/fsc/index.php?title=EN_15907_Event) gives the following event types:  
+The [EN 15907 standard](https://filmstandards.org/fsc/index.php?title=EN_15907_Event) gives the following event types:  
 
 - **Publication Event** - A public screening or broadcast of a Manifestation, or a public release on a physical distribution medium or online. A publication event may be associated with instances of Agent, e.g. in the role of publisher, exhibition organiser, etc.  
 - **Decision Event** - A decision about the suitability of a cinematographic work or variant for a particular audience. Includes censorship and rating decisions. A Decision Event may be associated with instances of Agent, e.g. in the role of the agency performing the rating or censorship.  
