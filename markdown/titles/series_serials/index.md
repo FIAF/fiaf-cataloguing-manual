@@ -6,10 +6,10 @@
 
 The guidelines and principles laid out in this section can be applicable across all the categories of Works, Variants, Manifestations and Items (WVMI).
 
-For monographic Works that are an episode within a series or serial[^39], and have their own individual title, the individual episode title may be used as the preferred title for the Work or Variant, or the title proper for the Manifestation and Item.
+For monographic Works that are an episode within a series or serial[^1], and have their own individual title, the individual episode title may be used as the preferred title for the Work or Variant, or the title proper for the Manifestation and Item.
 However, the series/serial title should also be indicated.
 
-The series/serial title may be indicated within (i) the title field itself, or (ii) reflected in a linked hierarchical relationship with an individual Serial Work level record, i.e. a Work assigned the Description Type “Serial[^40]; or (iii) added as a Title Type; or (iv) a combination.
+The series/serial title may be indicated within (i) the title field itself, or (ii) reflected in a linked hierarchical relationship with an individual Serial Work level record, i.e. a Work assigned the Description Type “Serial[^2]; or (iii) added as a Title Type; or (iv) a combination.
 Individual institutions should select which is most appropriate for their own systems and for clarity of identification and retrieval.
 
 !!! example "Example"
@@ -65,7 +65,7 @@ The preferred title/title proper of the WVMI may incorporate all these for clari
 Alternatively, an institution may choose to use one form for Work/Variants and another for Manifestation and/or Items.
 With television series additional numbered season details may also be required as well as episode/part numbers.
 
-Any or either of the forms may be used in combination as an institution chooses, although this should be within the context of an institution establishing a clear standard in-house practice rather than individual cataloguer preference and choice.[^41]
+Any or either of the forms may be used in combination as an institution chooses, although this should be within the context of an institution establishing a clear standard in-house practice rather than individual cataloguer preference and choice.[^3]
 
 It is worth bearing in mind that serials are always intended to be viewed in a specified order.
 Therefore serial title, episode numbers, and episode titles are usually included on the Item itself or in secondary sources, and should be reflected in the record to aid in discovery and identification.
@@ -222,7 +222,7 @@ Newsreels and cinemagazines can often be acquired as incomplete.
 The incomplete Items acquired may have a different title than the Manifestation and Work to which they are related.
 Such Items should be linked to a Work/Manifestation reflecting the whole issue, (see “British Paramount News” examples given below).
 
-Newsreels and cinemagazines[^42] usually consisted of several separate reports that were all analytics/components of a particular issue, and also usually had inter-title headings within the newsreel itself.
+Newsreels and cinemagazines[^4] usually consisted of several separate reports that were all analytics/components of a particular issue, and also usually had inter-title headings within the newsreel itself.
 
 If an institution acquires only a part of a newsreel issue, then any inter-title heading that is on the acquired print may be used as the title of the Item, particularly in cases where the title of the newsreel issue as a whole (i.e. the Work/Manifestation) is unknown.
 
@@ -406,7 +406,7 @@ The following paragraphs relate to Archive systems that are using the CEN struct
 Work level titles created in this way would be described as having the CEN attribute of “Analytic” and indication that the title is a supplied/devised title type.
 Further clarifications could then be put into synopsis/description or notes fields areas of the Work.
 
-Should the whole Work of which the Item is a part subsequently be identified, then the Analytic record can be either modified or deleted and the Item linked via a “part of” relationship to a whole issue Theatrical Manifestation, which is in turn “part of” a whole Work, or Monographic Work.[^43]
+Should the whole Work of which the Item is a part subsequently be identified, then the Analytic record can be either modified or deleted and the Item linked via a “part of” relationship to a whole issue Theatrical Manifestation, which is in turn “part of” a whole Work, or Monographic Work.[^5]
 
 <a id="sec-titles_and_structures_of_variant_newsreel_cinemagazine_episodes"></a>
 ## Titles and structuring of Variant newsreel/cinemagazine episodes
@@ -482,8 +482,8 @@ The 2011 American series of The Killing is not a Variant of the original Danish 
 If cataloguing this series it should be created as a separate series and episodes, and linked in an associative relationship with the origianl Danish series if the latter is also catalogued.
 
 
-[^39]: Serial = something which is a continuing story, for which it is necessary to have seen previous episodes to follow the story line, e.g. Pride and Prejudice, Heimat, Brideshead Revisited. Series = something which contains programmes or episodes which are complete in themselves (although they may have characters in common) for which it is not essential to have seen previous episodes in order to understand the story line/content, e.g. Cadfael. Midsomer Murders, World in Action.. BFI SIFT Inputting Manual.
-[^40]: See Appendix [Work/Variant Description Types](../../works/attributes_of_a_moving_image_work_variant/index.md#sec-work_variant_description_type) for EN 15907/BFI definitions of Serial as Description Type.
-[^41]: The 1991 FIAF rules stipulated that such titles should have a comma separator between the part element and individual title components of the Title, e.g., Flash Gordon’s trip to Mars, Chapter 12, Ming the Merciless. However, the trend seems to be to distinguish the different elements of such component types of titles with a full stop separator, e.g., Flash Gordon’s trip to Mars. Chapter 12. Ming the Merciless.
-[^42]: BFI definitions: Newsreels = Films dating from 1910 to 1979, which report on local and international events and which were regularly screened at cinemas, e.g. Pathé News 1910-1970; Warwick Bioscope Chronicle 1910-1915; Topical Budget 1911-1931; Newsreel Flying Machine Compilation 1910. Cinemagazines = Short magazine film including more than two interest items, e.g. Aussie Oddities (1948), This Week in Britain (1950-1980)
-[^43]: See [Value Lists](../../appendices/value-lists/index.md) for CEN categories and definitions used by BFI
+[^1]: Serial = something which is a continuing story, for which it is necessary to have seen previous episodes to follow the story line, e.g. Pride and Prejudice, Heimat, Brideshead Revisited. Series = something which contains programmes or episodes which are complete in themselves (although they may have characters in common) for which it is not essential to have seen previous episodes in order to understand the story line/content, e.g. Cadfael. Midsomer Murders, World in Action.. BFI SIFT Inputting Manual.
+[^2]: See Appendix [Work/Variant Description Types](../../works/attributes_of_a_moving_image_work_variant/index.md#sec-work_variant_description_type) for EN 15907/BFI definitions of Serial as Description Type.
+[^3]: The 1991 FIAF rules stipulated that such titles should have a comma separator between the part element and individual title components of the Title, e.g., Flash Gordon’s trip to Mars, Chapter 12, Ming the Merciless. However, the trend seems to be to distinguish the different elements of such component types of titles with a full stop separator, e.g., Flash Gordon’s trip to Mars. Chapter 12. Ming the Merciless.
+[^4]: BFI definitions: Newsreels = Films dating from 1910 to 1979, which report on local and international events and which were regularly screened at cinemas, e.g. Pathé News 1910-1970; Warwick Bioscope Chronicle 1910-1915; Topical Budget 1911-1931; Newsreel Flying Machine Compilation 1910. Cinemagazines = Short magazine film including more than two interest items, e.g. Aussie Oddities (1948), This Week in Britain (1950-1980)
+[^5]: See [Value Lists](../../appendices/value-lists/index.md) for CEN categories and definitions used by BFI
