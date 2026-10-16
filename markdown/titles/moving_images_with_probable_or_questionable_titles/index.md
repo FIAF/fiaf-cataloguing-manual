@@ -56,7 +56,7 @@ For purposes of discoverability, accessibility, and standardisation, it is recom
 The Work can take the title of the Item, Manifestation or Variant, until such time as further research or identification assists in establishing the preferred title for the Work.
 The crucial factor is coupling the title with a descriptive identifier denoting that it is “supplied” or “devised,” whether within the title itself or via a juxtaposed field such as “Title Type.” If there is no Title Type field than a Notes or other field could be utilised.
 
-Examples of partially and fully supplied titles for a variety of scenarios can be found in the “form terms” list provided in [List of form terms for Supplied/Devised titles](../../appendices/value-lists/list_of_form_terms_for_supplied_devised_titles/index.md#sec-list_of_form_terms_for_supplied_devised_titles).
+Examples of partially and fully supplied titles for a variety of scenarios can be found in the “form terms” list provided in [List of form terms for Supplied/Devised titles](/titles/supplied_devised_titles/#sec-list_of_form_terms_for_supplied_devised_titles).
 
 [^1]: Based on AMIM2, 1F2.1. 
 [^2]: This example has since been identified as the film Grandpa’s Girl (United States of America, 1924 – Gil Pratt)
