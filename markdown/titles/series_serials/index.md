@@ -355,7 +355,7 @@ In the early 21st century individual story elements from each newsreel issue wer
 
 For practical and efficiency reasons, as well as systems workflows, an institution may find it  necessary and preferable to be able to keep everything in a hierarchy together under the Serial Work, particularly in systems where a hierarchy is visible and accessible for navigation into all linked records.
 
-This type of 3-tier Works structuring is a logical extension of the 2-tier Serial-Monographic parent-child linked hierarchical structures used already in many institutions.[ADD THE FOLLOWING FOOTNOTE HERE   This also corresponds with structures in UNESCO CCF/B (Common Communications Format / Bibliographic, UNESCO PGI-92/WS/9, Paris, 1992,(INSERT LINK) relating to vertical structuring and Series-Monograph-Component types (which are the basis for EN 15907 Description levels aka Work/Variant Description Types).]
+This type of 3-tier Works structuring is a logical extension of the 2-tier Serial-Monographic parent-child linked hierarchical structures used already in many institutions.[^5]
 
 
 <center><object data="/diagrams/numb_13.drawio.svg" type="image/svg+xml"></object></center>
@@ -406,29 +406,29 @@ The following paragraphs relate to Archive systems that are using the CEN struct
 Work level titles created in this way would be described as having the CEN attribute of “Analytic” and indication that the title is a supplied/devised title type.
 Further clarifications could then be put into synopsis/description or notes fields areas of the Work.
 
-Should the whole Work of which the Item is a part subsequently be identified, then the Analytic record can be either modified or deleted and the Item linked via a “part of” relationship to a whole issue Theatrical Manifestation, which is in turn “part of” a whole Work, or Monographic Work.[^5]
+Should the whole Work of which the Item is a part subsequently be identified, then the Analytic record can be either modified or deleted and the Item linked via a “part of” relationship to a whole issue Theatrical Manifestation, which is in turn “part of” a whole Work, or Monographic Work.[^6]
 
 <a id="sec-titles_and_structures_of_variant_newsreel_cinemagazine_episodes"></a>
 ## Titles and structuring of Variant newsreel/cinemagazine episodes
-With some newsreels/cinemagazines, versions were made for showing in different countries, either with a different commentator voicing it or varying differences in the stories or elements making up an issue.
+With some newsreels and/or cinemagazines, versions were made for showing in different countries, either with a different commentator voicing it or varying differences in the stories or elements making up an issue.
 
-For example, the cinemagazine series London Line was made in the United Kingdom but was aimed at audiences in Commonwealth countries such as Nigeria, Australia, Canada, Kenya, and Ghana, etc. as well. Each issue of the cinemagazine had a different version, i.e. one aimed at West African audiences, another East African version, another a Canadian version, etc. These versions all had component stories in common but also contained other stories/elements with a subject matter more specifically related to each geographical area. The different presenters for each version also reflected the latter.
+For example, the cinemagazine series "London Line" was made in the United Kingdom but was aimed at audiences in Commonwealth countries such as Nigeria, Australia, Canada, Kenya, and Ghana, etc. as well. Each issue of the cinemagazine had a different version, i.e. one aimed at West African audiences, another East African version, another a Canadian version, etc. These versions all had component stories in common but also contained other stories/elements with a subject matter more specifically related to each geographical area. The different presenters for each version also reflected the latter.
 
 In cases of potentially different versions of a newsreel/cinemagazine episode, there are different cataloguing options depending on varying factors.
 
-For Item(s) that have not yet been viewed, then if the film header, can, accompanying paperwork, legacy records, etc. indicate that an item acquired is a particular version of a newsreel/cinemagazine episode, then the Item can be created and linked to the original episode Work and Manifestation. By having a partially devised title for the Item(s) the version distinctions could be indicated, e.g. 
+For Items that have not yet been viewed, then if the film header, can, accompanying paperwork, legacy records, etc. indicate that an item acquired is a particular version of a newsreel/cinemagazine episode, then the Item can be created and linked to the original episode Work and Manifestation. By having a partially devised title for the Items the version distinctions could be indicated, e.g. 
 
 
 <center><object data="/diagrams/numb_18.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 
-This could be a temporary measure prior to viewing, checking, and fuller cataloguing. For example, after further researches and viewing it could be established that the Work or Variant and Manifestations for what was designated “East African Version” was more specifically that released in Kenya, so titling can subsequently be revised to London Line Greets ’69 [Kenyan Version] for the Item and its linked Manifestation, and Work or Variant.
+This could be a temporary measure prior to viewing, checking, and fuller cataloguing. For example, after further researches and viewing it could be established that the Work or Variant and Manifestations for what was designated “East African Version” was more specifically that released in Kenya, so titling can subsequently be revised to "London Line Greets ’69 [Kenyan Version]" for the Item and its linked Manifestation, and Work or Variant.
 
 In the case of versions it is important to decide whether the content of the episode remains largely the same. 
 
 If the episode has the same content, the commentary is the same (just perhaps a direct translation in a different language with a different commentator/presenter) then the Item simply represents a Variant and/or Manifestation of the original Work.
 
-If, for example, London Line No. 373 simply had different presenters for one version but the same commentary – or the level of difference was not yet known from researches – then the following data structures can be used:
+If, for example, "London Line No. 373" simply had different presenters for one version but the same commentary – or the level of difference was not yet known from researches – then the following data structures can be used:
 
 
 <center><object data="/diagrams/numb_19.drawio.svg" type="image/svg+xml" width="100%"></object></center>
@@ -450,7 +450,7 @@ However, always create a new Work if:
 
 Content descriptions (e.g. synopses and/or shotlists), Subjects, Cast, Credits, etc. relevant to each can then be added to the Variant or Work record accordingly. The Item which matches with these can then be linked with this Work or Variant, via a relevant specific Manifestation.
 
-If preferred, then partially devised titles can be used for easy identification across the new Works/ Variants, Manifestations, and Items, as in the examples featured. Use whichever practice or stylistic is preferred by your institution for these, e.g. square brackets, punctuation system within the titling itself, or a corresponding title type, etc.
+If preferred, then partially devised titles can be used for easy identification across the new Works or Variants, Manifestations, and Items, as in the examples featured. Use whichever practice or stylistic is preferred by your institution for these, e.g. square brackets, punctuation system within the titling itself, or a corresponding title type, etc.
 
 
 <center><object data="/diagrams/numb_21.drawio.svg" type="image/svg+xml" width="100%"></object></center>
@@ -478,7 +478,7 @@ and if both the original and Variant are acquired:
 
 If only acquiring the English subtitled version, then institutions not using Variants may choose to create a Serial Work and Monographic episodes all with the Variant titles and adding details of the original Danish titles and broadcast in a Work History or Notes field on the record. 
 
-The 2011 American series of The Killing is not a Variant of the original Danish series, but constitutes a new Work as it is an adapted re-make set in Seattle (USA) with completely different cast and crew and different production companies involved.
+The 2011 American series of "The Killing" is not a Variant of the original Danish series, but constitutes a new Work as it is an adapted re-make set in Seattle (USA) with completely different cast and crew and different production companies involved.
 If cataloguing this series it should be created as a separate series and episodes, and linked in an associative relationship with the origianl Danish series if the latter is also catalogued.
 
 
@@ -486,4 +486,5 @@ If cataloguing this series it should be created as a separate series and episode
 [^2]: See Appendix [Work Description Types](../../works/attributes_of_a_moving_image_work_variant/index.md#sec-work_variant_description_type) for EN 15907/BFI definitions of Serial as Description Type.
 [^3]: The 1991 FIAF rules stipulated that such titles should have a comma separator between the part element and individual title components of the Title, e.g., Flash Gordon’s trip to Mars, Chapter 12, Ming the Merciless. However, the trend seems to be to distinguish the different elements of such component types of titles with a full stop separator, e.g., Flash Gordon’s trip to Mars. Chapter 12. Ming the Merciless.
 [^4]: BFI definitions: Newsreels = Films dating from 1910 to 1979, which report on local and international events and which were regularly screened at cinemas, e.g. Pathé News 1910-1970; Warwick Bioscope Chronicle 1910-1915; Topical Budget 1911-1931; Newsreel Flying Machine Compilation 1910. Cinemagazines = Short magazine film including more than two interest items, e.g. Aussie Oddities (1948), This Week in Britain (1950-1980)
-[^5]: See [Work Description Types](../../works/attributes_of_a_moving_image_work_variant/index.md#sec-work_variant_description_type) for CEN categories and definitions used by BFI
+[^5] This also corresponds with structures in UNESCO CCF/B (Common Communications Format / Bibliographic, UNESCO PGI-92/WS/9, Paris, 1992), relating to vertical structuring and Series-Monograph-Component types (which are the basis for EN 15907 Description levels aka Work/Variant Description Types). See (https://digitallibrary.un.org/record/131419)
+[^6]: See [Work Description Types](../../works/attributes_of_a_moving_image_work_variant/index.md#sec-work_variant_description_type) for CEN categories and definitions used by BFI
