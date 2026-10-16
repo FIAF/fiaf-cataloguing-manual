@@ -15,13 +15,13 @@ We are indebted to Linda Tadic, who did a superb job of editing the Manual in it
 
 We thank current and former members as well as the corresponding members of the CDC, the members of the FIAF Executive Committee, and the FIAF Senior Administrator Christophe Dupin for their support and active contributions, namely Anna Högner, Jessica Hébert, Dylan Cave, Kay Forbister, and Annabelle Shaw.
 
-We thank particularly Katerina Kampoli for contributing to the much needed chapter on Variants, thus bringing to this Manual the vision Laurent Bismuth had. Also, Circe Itzel Sanchez for bringing her extensive knowledge of bibliographic standards such as IFLA-Library Reference Model to development of the Agents chapter in particular, and also producing documents relating to mapping between standards and various illustrative diagrams, links to which can be found in the Manual.  
+We thank particularly Katerina Kampoli for contributing to the much needed chapter on Variants, thus bringing to this Manual the vision Laurent Bismuth had. Also, Circe Itzel Sanchez for bringing her extensive knowledge of bibliographic standards such as IFLA-Library Reference Model to development of the Agents chapter in particular, and also producing documents relating to mapping between standards and various illustrative diagrams, links to which can be found in the Manual. Elzbieta Wysocka did a heroic deed in collecting technical metadata in relation to digitization and restoration, an extremly useful resource which is linked in this Manual as well.
 
 This new version of the Manual would never have been possible without the support and knowledge of Paul Duchesne and Torbjørn Pedersen, who elevated the CDC's Manual quite literally into another dimension (aka GitHub) and also developed a web version of it. We all learned a lot in the process!
 
 Many professionals from the FIAF Cataloguing Rules Revision Working Group graciously volunteered their knowledge and experience to the review of the 2016 manual; as did various members and corresponding members of the CDC for this updated 2026 edition, including Ladislav Cubr who contributed particularly to discussions around Manifestations and Events. Thank you very much for all the constructive feedback!
 
-Lastly, a very special thanks to Natasha Fairbairn, who did an amazing job at writing new parts of the manual, editing others, generously sharing her many years of expertise and experience, and making sure, the right decisions were made.
+Lastly, a very special thanks to Natasha Fairbairn, who did an amazing job at writing new parts of the manual, editing others, creating many new diagrams for better readibility and clarification, generously sharing her many years of expertise and experience, and making sure, the right decisions were made.
 
 This was a group effort: thank you very much!
 

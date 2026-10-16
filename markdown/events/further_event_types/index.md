@@ -4,11 +4,11 @@
 
 Record one or more Event type, for example, “decision,” “manufacture,” etc., to express the nature of the Event’s relationship to the Manifestation. Selection should be made from a controlled list of terms.
 
-For Manifestations, a Publication Event corresponds to a screening, broadcast, streaming, or the release of the Manifestation of a Work/Variant on a physical distribution medium or online.
+For Manifestations, a Publication Event corresponds to a screening, broadcast, streaming, or the release of the Manifestation of a Work or Variant on a physical distribution medium or online.
 
-A Publication Event may be associated with instances of Agent in the role of e.g., publisher, distributor, broadcaster[^1], etc. See [Distributor (theatrical)](../../agents/agents_for_manifestations/index.md#sec-distributor_theatrical) and [sec:work_variant_agent_types](../../agents/agents_for_works_variants/index.md).
+A Publication Event may be associated with instances of Agent in the role of e.g., publisher, distributor, broadcaster[^1], etc. See [Distributor (theatrical)](../../agents/agents_for_manifestations/index.md#sec-distributor_theatrical) and [Agent Types](/agents/agents_for_works_variants/index.md).
 
-A Publication Event may be associated with instances of “Other” relationship(s) (e.g., promotional material of the theatrical distribution, the advertising of the home video publication, etc.).
+A Publication Event may be associated with instances of [Other Relationships](/other_relationships/other_relationships_for_works_variants_manifestations_items/#sec-work_variant_other_relationship_types) (e.g., promotional material of the theatrical distribution, the advertising of the home video publication, etc.).
 
 Record all the existing relationships of a Publication Event, if the information is known and considered of relevance.
 
@@ -34,19 +34,19 @@ Record the Publication type for Manifestations. Selection should be made from a 
 - Home video publication  
 - Unknown
 
-For Manifestations, the Publication Event that originated the embodiment of a specific Work/Variant in a Manifestation, corresponds to criteria individuated to distinguish the boundaries between Manifestations. For this reason, conceptually, and also in practice, “publication type” overlaps the main definition of “Manifestation type,” as explained in [INSERT LINK TO Boundaries between Manifestations and Events section] and, as such, is already described. Institutions have the option to decide whether to repeat this information or not.
+For Manifestations, the Publication Event that originated the embodiment of a specific Work and Variant in a Manifestation, corresponds to criteria individuated to distinguish the boundaries between Manifestations. For this reason, conceptually, and also in practice, “publication type” overlaps the main definition of “Manifestation type,” as explained in the chapter about the [Boundaries between Manifestations and Events](/boundaries/boundaries_between_manifestations_and_events/index.md) and, as such, is already described. Institutions have the option to decide whether to repeat this information or not.
 
 **Publication date**
 
-Record the date on which Work/Variant or Manifestation was released or otherwise made available. Dates should be formatted according to ISO 8601 or some other recognised standard. The date should be that of the specific event of the Manifestation publication, e.g. a moving image Manifestation may have Publication dates in separate Publication events - a Manifestation for its first theatrical release date of 1957, and then Manifestations for the broadcast date (in 1981) and streaming date (in 2020). 
+Record the date on which Work or Variant, or Manifestation was released or otherwise made available. Dates should be formatted according to ISO 8601 or some other recognised standard. The date should be that of the specific event of the Manifestation publication, e.g. a moving image Manifestation may have Publication dates in separate Publication events - a Manifestation for its first theatrical release date of 1957, and then Manifestations for the broadcast date (in 1981) and streaming date (in 2020). 
  
 **Region**
 
-Record the country or other political or physical geographic entity where the Publication Event took place (e.g. first projection in the framework of a theatrical distribution) or made the Work/Variant or Manifestation available (e.g. distribution area).
+Record the country or other political or physical geographic entity where the Publication Event took place (e.g. first projection in the framework of a theatrical distribution) or made the Work or Variant, or Manifestation available (e.g. distribution area).
 
 If known and considered of relevance, record the name of the city or smaller geographic entity where the Publication Event took place.
 
-For the treatment of the geographical names, see Getty Thesaurus of Geographic Names (TGN), or some other recognised standard.
+For the treatment of the geographical names, see [Getty Thesaurus of Geographic Names (TGN)](https://www.getty.edu/research/tools/vocabularies/tgn/index.html), or some other recognised standard.
 
 If known and considered of relevance, record the name of the event that the publication was a part of (e.g., name of a film festival, distribution channel of a broadcaster, etc.)
 
@@ -55,9 +55,9 @@ If known and considered of relevance, record the specific restrictions for acces
 <a id="sec-awards_or_nominations"></a>
 ## Award(s) or Nomination(s)[^1]
 
-The bestowal of an award relating to the Work/Variant or Manifestation. This excludes awards for Agents alone (e.g. "for lifetime achievement"), but includes awards for individual achievements within the context of a Work or Variant (e.g. "Best screenplay"). Awards will usually be associated at the level of the Work, except for cases where features of a particular Variant are explicitly mentioned (e.g. "Best audio commentary for the visually impaired") or the award relates to a particular Manifestation (such as a DVD edition).
+The bestowal of an award relating to the Work or Variant, or Manifestation. This excludes awards for Agents alone (e.g. "for lifetime achievement"), but includes awards for individual achievements within the context of a Work or Variant (e.g. "Best screenplay"). Awards will usually be associated at the level of the Work, except for cases where features of a particular Variant are explicitly mentioned (e.g. "Best audio commentary for the visually impaired") or the award relates to a particular Manifestation (such as a DVD edition).
 
-An Award(s) or Nomination(s) Event may be associated with instances of Agent in the role of e.g. publisher, distributor, broadcaster , etc. See [Distributor (theatrical)](../../agents/agents_for_manifestations/index.md#sec-distributor_theatrical) and [sec:work_variant_agent_types](../../agents/agents_for_works_variants/index.md). If the award was given for the achievement of a specific Agent within the context of the Work/Variant or Manifestation, identify the Agent. Also used to identify Agents that have sponsored the award.
+An Award(s) or Nomination(s) Event may be associated with instances of Agent in the role of e.g. publisher, distributor, broadcaster , etc. See [Distributor (theatrical)](../../agents/agents_for_manifestations/index.md#sec-distributor_theatrical) and [Agent Types](/agents/agents_for_works_variants/index.md). If the award was given for the achievement of a specific Agent within the context of the Work or Variant or Manifestation, identify the Agent. Also used to identify Agents that have sponsored the award.
 
 An Award(s) or Nomination(s) Event may be associated with instances of other Events during which award winners were selected (e.g. film festival).
 
@@ -93,7 +93,7 @@ A distinct event in the course of production of a Work or Variant, including the
 
 May include year/date of shooting of non-professional, actuality or unedited footage.
 
-A Production Event may be associated with instances of Agent in the role of e.g. production company, location scout, etc. Selection should be made from a controlled list of values. See [sec:work_variant_agent_types](../../agents/agents_for_works_variants/index.md).
+A Production Event may be associated with instances of Agent in the role of e.g. production company, location scout, etc. Selection should be made from a controlled list of values. See [Agent Types](/agents/agents_for_works_variants/index.md).
 
 Record all the existing relationships of a Production/Publication Event, if the information is known and considered of relevance.
 
@@ -138,11 +138,11 @@ These are optional, and it is for an institution to choose whether it has the re
 ## Preservation/Restoration
 A Preservation/Restoration Event is associated with a new Variant, Manifestation or Items resulting from the preservation/restoration process in which the contents of one or more Items (or fragments thereof) from Manifestations of a Work were transferred with the intention of restoring or reconstructing the content as originally intended, or safeguarding it from decay.[^5]  
 
-This includes statements about past or future treatments scheduled for the item.  If desired and if applicable, record one or more general types of past or future treatment activities (e.g. "added leaders", "cleaned ultrasonically", "tears repair", etc.). Selection should be made from a controlled list of values. [CHECK - DO WE HAVE A LIST FOR THAT?]
+This includes statements about past or future treatments scheduled for the item.  If desired and if applicable, record one or more general types of past or future treatment activities (e.g. "added leaders", "cleaned ultrasonically", "tears repair", etc.). Selection should be made from a controlled list of values. See also [Item Chapter](/items/elements_of_a_moving_image_item/#sec-item_copy_condition_base_emulsion_film_and_video).
 
-A Preservation/Restoration Event has as typical Agent(s) the institution(s) or individual professionals that make preservation decisions. Selection should be made from a controlled list of values. See [sec:work_variant_agent_types](../../agents/agents_for_works_variants/index.md).
+A Preservation/Restoration Event has as typical Agent(s) the institution(s) or individual professionals that make preservation decisions. Selection should be made from a controlled list of values. See [Agent Types](/agents/agents_for_works_variants/index.md).
 
-A Preservation/Restoration Event can be in relationship with instances of “Other” relationships (such as technical reports, documentation material, promotional material for the specific project, etc.).
+A Preservation/Restoration Event can be in relationship with instances of [Other Relationships](/other_relationships/other_relationships_for_works_variants_manifestations_items/#sec-work_variant_other_relationship_types) (such as technical reports, documentation material, promotional material for the specific project, etc.).
 
 Record all the existing relationships of a Preservation/Restoration Event, if the information is known and considered of relevance.
 
@@ -185,13 +185,13 @@ A Preservation/Restoration Event can be used in conjunction with Preservation or
 
 [INSERT ILLUSTRATIVE DIAGRAMS USING BOTH HERE]
 
-[ALSO INSERT LINK - TO EXTERNAL CDC SITE HOLDING EWA'S COMPLEX PRESERVATION EVENT DIGITISATION AND PRESERVATION RESTORATION WORKFLOW DOCUMENTS]
+A useful collection of technical metadata on digital Items as well as data collected during digitisation, can be found [here](https://docs.google.com/spreadsheets/d/1cm4KBG_e-bdMppKOcYsFTck7vv5rJDwRI9z0RYX5bNM/edit?gid=646006523#gid=646006523). This spreadsheet was created by a Task Force in the CDC, headed by Elzbieta Wysocka.
 
 <a id="sec-decision"></a>
 ## Decision[^4]
 A Decision Event is an event in which a Manifestation of a certain Work/Variant is evaluated by a censorship body or an accredited rating agency.
 
-A Decision Event may be associated with instances of Agent, e.g. in the role of the agency performing the rating or censorship, and also with instances of “Other” relationship(s) (e.g., the original censorship documents).
+A Decision Event may be associated with instances of Agent, e.g. in the role of the agency performing the rating or censorship, and also with instances of  [Other Relationships](/other_relationships/other_relationships_for_works_variants_manifestations_items/#sec-work_variant_other_relationship_types) (e.g., the original censorship documents).
 
 Record all the existing relationships for the Decision Event, if the information is known and considered of relevance.
 
@@ -236,12 +236,12 @@ Record the outcome of the act of rating or censorship.
 ## Manufacture
 A Manufacture Event represents a “common” event within which the embodiment of a Manifestation occurs, owing to the instances of a number of physical items that bear the same characteristics.
 
-Therefore, the manufacture event of a moving image Manifestation corresponds to the activity within which it was fixed on a physical carrier, through particular technical processes such as film printing, telecine, video copying, digitisation, mastering, etc., or where it is saved to an “immaterial” medium, such as a digital file. Please note that this is different to the manufacture of the physical stock or video tape brand. For the specific stock/brand on which an Item has been manufactured see 9.2.5.14 Stock [ADD LINK].
+Therefore, the manufacture event of a moving image Manifestation corresponds to the activity within which it was fixed on a physical carrier, through particular technical processes such as film printing, telecine, video copying, digitisation, mastering, etc., or where it is saved to an “immaterial” medium, such as a digital file. Please note that this is different to the manufacture of the physical stock or video tape brand. For the specific stock/brand on which an Item has been manufactured see [Stock](/items_elements_of_moving_image_item/#sec-stock).
 
 
 A Manufacture Event may be associated with instances of Agent, e.g. a laboratory that prints all the copies for a theatrical distribution or a studio that masters the DVDs for a home video publication.
 
-A Manufacture Event may be associated with instances of “Other” relationship(s).
+A Manufacture Event may be associated with instances of [Other Relationships](/other_relationships/other_relationships_for_works_variants_manifestations_items/#sec-work_variant_other_relationship_types).
 
 Record all the existing relationships for the Manufacture Event, if the information is known and considered of relevance.
 
@@ -280,7 +280,7 @@ If known and considered of relevance, record the name of the city or smaller geo
 
 Acquisition is the process of getting physical custody and a legal transfer of title (ownership) of an object or collection (such as through a gift, purchase, or transfer).
 
-An Acquisition Event may be associated with instances of Agent in the role of e.g. the institution or a person or set of persons in charge of acquisitions for the institution, etc. and may also be associated with instances of “Other” relationship(s).
+An Acquisition Event may be associated with instances of Agent in the role of e.g. the institution or a person or set of persons in charge of acquisitions for the institution, etc. and may also be associated with instances of [Other Relationships](/other_relationships/other_relationships_for_works_variants_manifestations_items/#sec-work_variant_other_relationship_types).
 
 Record all the existing relationships for the Acquisition Event, if the information is known and considered of relevance.
 
@@ -386,11 +386,11 @@ The date on which the Item was physically removed from an institution's collecti
 
 <a id="sec-inspection"></a>
 ## Inspection
-The inspection of a particular Item for the purposes of assessing and recording the condition or treatment of the Item. This frequently ties in with a Preservation/Restoration Event [ADD LINK TO THAT]
+The inspection of a particular Item for the purposes of assessing and recording the condition or treatment of the Item. This frequently ties in with a [Preservation/Restoration Event](/events_further_event_types/#sec-preservation_restoration).
 
 An Inspection Event may be associated with instances of Agent in the role of e.g. inventory archivist, lab technician, projectionist, etc.
 
-An Inspection Event may be associated with instances of “Other” relationship(s).
+An Inspection Event may be associated with instances of [Other Relationships](/other_relationships/other_relationships_for_works_variants_manifestations_items/#sec-work_variant_other_relationship_types).
 
 Record all the existing relationships for the Inspection Event, if the information is known and considered of relevance.
 
