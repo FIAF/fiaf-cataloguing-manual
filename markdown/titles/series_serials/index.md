@@ -62,7 +62,7 @@ OR
 ## Numbered episodes of a series/serial
 With series/serials that contain episode or part numbers and individual episode titles the same principles apply.
 The preferred title/title proper of the WVMI may incorporate all these for clarity and retrieval purposes, or an institution’s systems may allow for use of the episode title combined with separate specific Part field(s) for parts and numbers, or both.
-Alternatively, an institution may choose to use one form for Work/Variants and another for Manifestation and/or Items.
+Alternatively, an institution may choose to use one form for Work or Variants and another for Manifestation and/or Items.
 With television series additional numbered season details may also be required as well as episode/part numbers.
 
 Any or either of the forms may be used in combination as an institution chooses, although this should be within the context of an institution establishing a clear standard in-house practice rather than individual cataloguer preference and choice.[^3]
@@ -194,7 +194,7 @@ Where the issue number cannot be identified, then use a date or year, if discern
 <a id="sec-episodes_of_a_series_serial"></a>
 ## Episodes of a series/serial with no individual title or numbered parts
 For episodes of a series/serial that have neither individual episode titles nor numbered parts, a date can be added to the title field, with the option of utilising square brackets for clarity.
-It is recommended to use the release/production/transmission date of the Manifestation to which the Item or Work/Variant pertains.
+It is recommended to use the release/production/transmission date of the Manifestation to which the Item or Work or Variant pertains.
 
 If a repeat broadcast of a television programme with no individual title or numbered parts has been acquired, then a new Manifestation and Item should be created with the repeat broadcast date appended to their titles.
 Within the hierarchical structure this new Manifestation would link to the Work that may incorporate an earlier original broadcast date within its preferred title.
@@ -220,11 +220,11 @@ Where a complete newsreel issue has been acquired and the newsreel series has be
 
 Newsreels and cinemagazines can often be acquired as incomplete.
 The incomplete Items acquired may have a different title than the Manifestation and Work to which they are related.
-Such Items should be linked to a Work/Manifestation reflecting the whole issue, (see “British Paramount News” examples given below).
+Such Items should be linked to a Work or a Manifestation reflecting the whole issue, (see “British Paramount News” examples given below).
 
 Newsreels and cinemagazines[^4] usually consisted of several separate reports that were all analytics/components of a particular issue, and also usually had inter-title headings within the newsreel itself.
 
-If an institution acquires only a part of a newsreel issue, then any inter-title heading that is on the acquired print may be used as the title of the Item, particularly in cases where the title of the newsreel issue as a whole (i.e. the Work/Manifestation) is unknown.
+If an institution acquires only a part of a newsreel issue, then any inter-title heading that is on the acquired print may be used as the title of the Item, particularly in cases where the title of the newsreel issue as a whole (i.e. the Work or Manifestation) is unknown.
 
 For example,*British Paramount news No. 856* contains the inter-titled headed segments *President Roosevelt opens World Fair*;*70th birthday of US coast to coast railway*; and, *Princesses play with baby pandas*.
 
@@ -317,7 +317,7 @@ Where a story element from a newsreel/cinemagazine issue has been acquired (but 
 
 If the full episode/issue is subsequently identified, then the Item can either be   
 
-•	re-linked to a pre-existing Work/Manifestation record for the whole issue, and the Analytic Work and its Manifestation deleted/removed  
+•	re-linked to a pre-existing Work or Manifestation record for the whole issue, and the Analytic Work and its Manifestation deleted/removed  
 
 or  
 
@@ -331,7 +331,7 @@ The Item then becomes a simple partial acquisition of the whole, retaining the s
 
 With some institutions, rather than a Serial – Monographic Work structure, the nature of the material they hold may mean they only ever need a Serial – Analytic Work structure. For example, an archive with a large collection of the individual story elements of multiple local regional news television programmes held on videotapes, rather than whole individual programmes – especially where the precise episode they are from is unclear or less relevant for that institution. These can be catalogued under their individual story element title, and linked to a Serial Work record for the local news series. As component parts of a whole issue the individual story elements constitute “Analytic” types. 
 
-In some collections of local news programmes only the Analytic story elements and their dates of filming are catalogued rather than the whole issues/episodes in which they featured and the broadcast date of those. If the Work/Item represents the unedited footage that was shot rather than the exact edit that was used or shown in a particular broadcast news programme, then it should have a linked Pre-Release type of Manifestation
+In some collections of local news programmes only the Analytic story elements and their dates of filming are catalogued rather than the whole issues/episodes in which they featured and the broadcast date of those. If the Work or Item represents the unedited footage that was shot rather than the exact edit that was used or shown in a particular broadcast news programme, then it should have a linked Pre-Release type of Manifestation
 
 
 <center><object data="/diagrams/numb_12.drawio.svg" type="image/svg+xml"></object></center>
@@ -344,7 +344,7 @@ If deemed necessary or helpful for the purposes of discovery, the alternative ti
 ## Further enhanced structuring possibilities with analytic/component parts and identified newsreels/cinemagazines
 There may also be instances, particularly with news and newsreel collections where a Serial-Monographic-Analytic Works construction, in a grandparent-parent-child hierarchical structure could be considered and used in certain databases that have an EN 15907 structure. 
 
-This is not a structuring or architecture that is covered within the EN 15907 Standard itself, but it is one which exploits and extends the EN 15907 basic structure model further in conjunction with Work/Variant Description types (ADD LINK TO SECTION ON THESE – WAS D.1 BUT NOW MOVED IN GITHUB DEVELOP DOCUMENT). This could suit institutions with huge newsreel collections, particularly where the individual story elements are what are searched on by users, and use of this type of structuring is also starting to evolve in some institutions in very particular scenarios.
+This is not a structuring or architecture that is covered within the EN 15907 Standard itself, but it is one which exploits and extends the EN 15907 basic structure model further in conjunction with Work or Variant Description types (ADD LINK TO SECTION ON THESE – WAS D.1 BUT NOW MOVED IN GITHUB DEVELOP DOCUMENT). This could suit institutions with huge newsreel collections, particularly where the individual story elements are what are searched on by users, and use of this type of structuring is also starting to evolve in some institutions in very particular scenarios.
 
 One such is where there may be instances of the Analytic individual story elements having their own later publication, or “manifestation”, and there is a need or preference by an institution for keeping all the records together in a vertical hierarchy. It may also suit institutions with huge newsreel collections, particularly where the individual story elements of issues are what are searched on and accessed by users.
 
@@ -422,7 +422,7 @@ For Item(s) that have not yet been viewed, then if the film header, can, accompa
 <center><object data="/diagrams/numb_18.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 
-This could be a temporary measure prior to viewing, checking, and fuller cataloguing. For example, after further researches and viewing it could be established that the Work/Variant and Manifestations for what was designated “East African Version” was more specifically that released in Kenya, so titling can subsequently be revised to London Line Greets ’69 [Kenyan Version] for the Item and its linked Manifestation, and Work/Variant.
+This could be a temporary measure prior to viewing, checking, and fuller cataloguing. For example, after further researches and viewing it could be established that the Work or Variant and Manifestations for what was designated “East African Version” was more specifically that released in Kenya, so titling can subsequently be revised to London Line Greets ’69 [Kenyan Version] for the Item and its linked Manifestation, and Work or Variant.
 
 In the case of versions it is important to decide whether the content of the episode remains largely the same. 
 
@@ -448,7 +448,7 @@ However, always create a new Work if:
 •	the stories remain the same but there are new different interconnecting segments with different presenters  
 •	the stories/footage remains the same but the wording of the commentary is changed, e.g. to give a different slant, emphasis, or impression  
 
-Content descriptions (e.g. synopses and/or shotlists), Subjects, Cast, Credits, etc. relevant to each can then be added to the Variant or Work record accordingly. The Item which matches with these can then be linked with this Work/Variant, via a relevant specific Manifestation.
+Content descriptions (e.g. synopses and/or shotlists), Subjects, Cast, Credits, etc. relevant to each can then be added to the Variant or Work record accordingly. The Item which matches with these can then be linked with this Work or Variant, via a relevant specific Manifestation.
 
 If preferred, then partially devised titles can be used for easy identification across the new Works/ Variants, Manifestations, and Items, as in the examples featured. Use whichever practice or stylistic is preferred by your institution for these, e.g. square brackets, punctuation system within the titling itself, or a corresponding title type, etc.
 
