@@ -379,7 +379,7 @@ Use numbers to distinguish separate content when there is more than one unidenti
 
     Unidentified television series. Quiz show. Unidentified episodes
 
-For a more comprehensive list of form terms to use with FULLY or PARTIALLY Supplied/Devised titles, see table List of form terms for Supplied/Devised titles [ADD LINK].
+For a more comprehensive list of form terms to use with FULLY or PARTIALLY Supplied/Devised titles, see table [List of form terms for Supplied/Devised titles](/titles/supplied_devised_titles/#sec-list_of_form_terms_for_supplied_devised_titles).
 
 <a id="sec-music_videos"></a>
 ## Music videos
