@@ -2,6 +2,6 @@
 
 <a id="sec-title_titling_of_aggregates"></a>
 <!-- ### Titling of Aggregates[^1] -->
-Titling of aggregates follows the same principles as that of other types of entities as detailed in [Titles](/titles/#sec-titles).
+Titling of aggregates follows the same principles as that of other types of entities as detailed in [Titles](/titles/titles/index.md).
 
 [^1]: Based on AMIM2, 1F2.1.
