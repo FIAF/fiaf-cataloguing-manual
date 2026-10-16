@@ -412,7 +412,7 @@ Should the whole Work of which the Item is a part subsequently be identified, th
 ## Titles and structuring of Variant newsreel/cinemagazine episodes
 With some newsreels and/or cinemagazines, versions were made for showing in different countries, either with a different commentator voicing it or varying differences in the stories or elements making up an issue.
 
-For example, the cinemagazine series "London Line" was made in the United Kingdom but was aimed at audiences in Commonwealth countries such as Nigeria, Australia, Canada, Kenya, and Ghana, etc. as well. Each issue of the cinemagazine had a different version, i.e. one aimed at West African audiences, another East African version, another a Canadian version, etc. These versions all had component stories in common but also contained other stories/elements with a subject matter more specifically related to each geographical area. The different presenters for each version also reflected the latter.
+For example, the cinemagazine series *London Line* was made in the United Kingdom but was aimed at audiences in Commonwealth countries such as Nigeria, Australia, Canada, Kenya, and Ghana, etc. as well. Each issue of the cinemagazine had a different version, i.e. one aimed at West African audiences, another East African version, another a Canadian version, etc. These versions all had component stories in common but also contained other stories/elements with a subject matter more specifically related to each geographical area. The different presenters for each version also reflected the latter.
 
 In cases of potentially different versions of a newsreel/cinemagazine episode, there are different cataloguing options depending on varying factors.
 
@@ -422,13 +422,13 @@ For Items that have not yet been viewed, then if the film header, can, accompany
 <center><object data="/diagrams/numb_18.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 
-This could be a temporary measure prior to viewing, checking, and fuller cataloguing. For example, after further researches and viewing it could be established that the Work or Variant and Manifestations for what was designated “East African Version” was more specifically that released in Kenya, so titling can subsequently be revised to "London Line Greets ’69 [Kenyan Version]" for the Item and its linked Manifestation, and Work or Variant.
+This could be a temporary measure prior to viewing, checking, and fuller cataloguing. For example, after further researches and viewing it could be established that the Work or Variant and Manifestations for what was designated “East African Version” was more specifically that released in Kenya, so titling can subsequently be revised to *London Line Greets ’69 [Kenyan Version]* for the Item and its linked Manifestation, and Work or Variant.
 
 In the case of versions it is important to decide whether the content of the episode remains largely the same. 
 
 If the episode has the same content, the commentary is the same (just perhaps a direct translation in a different language with a different commentator/presenter) then the Item simply represents a Variant and/or Manifestation of the original Work.
 
-If, for example, "London Line No. 373" simply had different presenters for one version but the same commentary – or the level of difference was not yet known from researches – then the following data structures can be used:
+If, for example, *London Line No. 373* simply had different presenters for one version but the same commentary – or the level of difference was not yet known from researches – then the following data structures can be used:
 
 
 <center><object data="/diagrams/numb_19.drawio.svg" type="image/svg+xml" width="100%"></object></center>
@@ -478,7 +478,7 @@ and if both the original and Variant are acquired:
 
 If only acquiring the English subtitled version, then institutions not using Variants may choose to create a Serial Work and Monographic episodes all with the Variant titles and adding details of the original Danish titles and broadcast in a Work History or Notes field on the record. 
 
-The 2011 American series of "The Killing" is not a Variant of the original Danish series, but constitutes a new Work as it is an adapted re-make set in Seattle (USA) with completely different cast and crew and different production companies involved.
+The 2011 American series of *The Killing* is not a Variant of the original Danish series, but constitutes a new Work as it is an adapted re-make set in Seattle (USA) with completely different cast and crew and different production companies involved.
 If cataloguing this series it should be created as a separate series and episodes, and linked in an associative relationship with the origianl Danish series if the latter is also catalogued.
 
 
