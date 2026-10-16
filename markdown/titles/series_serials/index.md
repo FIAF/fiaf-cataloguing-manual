@@ -337,7 +337,7 @@ In some collections of local news programmes only the Analytic story elements an
 <center><object data="/diagrams/numb_12.drawio.svg" type="image/svg+xml"></object></center>
 
 
-Where such individual story elements may have been aggragated together into compilations reels, tapes, or files then see [LINK TO AGGREGATES CHAPTER AND RELEVANT SECTION]
+Where such individual story elements may have been aggragated together into compilations reels, tapes, or files then see [Titling of Aggregates](/aggregates/titling_of_aggregates/#sec-titling_of_aggregates).
 If deemed necessary or helpful for the purposes of discovery, the alternative titles added to Items should also be added to the Work level record.
 
 <a id="sec-further_enhanced_structuring_possibilities_with analytic_component_parts_and_identified_newsreels_cinemagazines"></a>
