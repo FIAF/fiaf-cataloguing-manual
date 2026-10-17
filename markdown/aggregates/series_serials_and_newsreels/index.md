@@ -39,7 +39,7 @@ It is also possible for particular individual episodes from different moving ima
 
 <a id="sec-newsreels_and_tv_news_current_affairs_programmes"></a>
 ## Newsreels and TV news/current affairs programmes - aggregates or not?
-These also do not constitute aggregates.
+These also do not constitute aggregates simply because they contain multiple elements within a whole issue or programme.
 
 The nature of news/newsreels is that the different stories do not constitute “independently created Works/Variants” and are more akin to multi-component moving images (see [“Hybrid” Aggregates and multi-component moving images (e.g. Anthology/Portmanteau films or TV programmes)](../../aggregates/identifying_aggregates/index.md#sec-hybrid_aggregates_and_multi_component_moving_images)), in that each component is meant to create the whole via filmed links that are an integral planned part and structure of an original single Work concept.
 
@@ -55,11 +55,11 @@ The component parts do not.
 
 It is possible that only individual components of newsreels/news programmes may be acquired by an institution. In such cases it is simply a matter of a partial/incomplete acquisition, in the same way that only 2 reels of a 3 reel feature film might be acquired. The Item record for that acquisition would be linked as “part of” the whole Manifestation ( see A.2.6.3 Analytics/Components of identified newsreels/cinemagazines )
 
-Where several individual whole components of various newsreels/news programmes have been selected, i.e. what would constitute Analytic component Works [ADD IN LINK TO 6.2.1.1 Analytic], and used to create compilation films or reels, then as described in E.2.1. [ADD LINK] the nature of these should be assessed. As mentioned previously, any aggregate will always have an element of intention, whether simple or complex.
+Where several individual whole components of various newsreels/news programmes have been selected, i.e. what would constitute Analytic component Works [ADD IN LINK TO 6.2.1.1 Analytic], and used to create compilation films or reels, then as described in 12.2.1. [ADD LINK] the nature of these should be assessed. As mentioned previously, any aggregate will always have an element of intention, whether simple or complex.
 
-Such compilations can be structured in the same way as Collection Aggregates, i.e. a new Work record would be created for the compilation and then structured in an associative “contains/contained in” relationship with the original whole newsreel issue Work records from which they came.[ADD LINK TO SECTION  E.5.1.3 Collection Aggregates model].
+Such compilations can be structured in the same way as Collection Aggregates, i.e. a new Work record would be created for the compilation and then structured in an associative “contains/contained in” relationship with the original whole newsreel issue Work records from which they came.[ADD LINK TO SECTION  12.5.1.1 Collection Aggregates model].
 
-In instances of untitled reels containing multiple different newsreel/cinemagazine story elements, then a partially or fully supplied/devised title can be created, along with any useful additional alternative or help titles (see ADD LINK TO SECTION A.2.5.1 AND A.2.5.2)
+In instances of untitled reels containing multiple different newsreel/cinemagazine story elements, then a partially or fully supplied/devised title can be created, along with any useful additional alternative or help titles (see ADD LINK TO SECTION 11.3.1 AND 11.3.2)
 
 So for example, an institution may have created several compilation reels made up of different stories from different issues of a newsreel from a particular year, e.g. Die Deutsche Wochenschau 1944. Compilation reel 2. 
 
