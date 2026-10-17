@@ -8,6 +8,7 @@ This implies the possibility of having a Variant of a Variant, e.g. a shortened 
 In cases such as the above example, both the shortened version and shortened dubbed version would constitute two separate Variants of the one Work. However, the two Variants can then be further linked together in an associative relationship using a relevant associative term, e.g. Related Variant, dubbed version of, Variant derived from, etc. A Variant may have more than one Variant Type, so one Variant could have the Variant Type of Shortened Version, while the other has the two Variant Types Shortened Version and Dubbed Version.
 
 [INSERT ILLUSTRATIVE DIAGRAM HERE]
+<center><object data="/diagrams/figure_05.drawio.svg" type="image/svg+xml"></object></center>
 
 
 ## Change in continuity (secondary editing)
