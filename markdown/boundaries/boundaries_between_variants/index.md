@@ -1,7 +1,7 @@
 
 
 <a id="sec-boundaries_between_variants"></a>
-It is possible for a moving image Variant to be modified in such a way as to create a new Variant related to the previous one[^1]. The boundaries between one Variant and another may be drawn on the basis of the following alterations to the content.[^2]
+It is possible for a moving image Variant to be modified in such a way as to create a new Variant related to the previous one[^1]. 
 
 This implies the possibility of having a Variant of a Variant, e.g. a shortened version of a film also then has a further dubbed version. Many systems may not support this type of structuring technically, or an institution may feel this could lead to overly complex structuring impacting data display and accessibility. Also, importantly, a Variant of a Variant (or Expression of an Expression) is not supported as a data structure in either EN15907, FRBR, RDA, or LRM, although it is possible within MARC21. 
 
@@ -10,6 +10,8 @@ In cases such as the above example, both the shortened version and shortened dub
 
 <center><object data="/diagrams/bound_variant.drawio.svg" type="image/svg+xml"></object></center>
 
+
+The boundaries between one Variant and another may be drawn on the basis of the following alterations to the content.[^2]  
 
 ## Change in continuity (secondary editing)
 
