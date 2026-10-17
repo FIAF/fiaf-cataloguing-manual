@@ -5,7 +5,7 @@ It is important to distinguish between actual intended compilation or multi-comp
 
 Editing and creative assembly decisions were taken to create the first example, and it constitutes a Collection Aggregate (see [Collection Aggregates](../../aggregates/types_of_moving_image_aggregates/index.md#sec-collection_aggregates)).
 The second was just incidental or convenient assembly and is not an aggregate, and so would not have an aggregate Manifestation.
-The two Chaplin films would each have their own Work, Manifestation, and Item records, but those Items would have the same location/can id/barcode number on the same container (aka package), i.e. the number stuck or written on the physical container in which the individual film reels, videotapes, or DVDs are stored.
+The two Chaplin films could each have their own Work, Manifestation, and Item records, but those Items would have the same location/can id/barcode number on the same container (aka package), i.e. the number stuck or written on the physical container in which the individual film reels, videotapes, or DVDs are stored.
 
 Any aggregate will have an element of intention, whether simple or complex.
 Assessments will need to be made, where possible, as to whether the intention was for creative/intellectual or convenient purposes, and then represented accordingly.
@@ -36,7 +36,7 @@ Other multi-component moving images often have a common theme, and usually compr
 
  Ro.Go.Pa.G. (Italy, France, 1963): 4 episodes by 4 different directors, no common theme: R. Rossellini (Illibatezza), J.L. Godard (Il mondo nuovo), P. Pasolini (La ricotta), U. Gregoretti (Il pollo ruspante).
 
- New York stories (1989): 3 episodes by 3 different directors, common theme.Directors Woody Allen (Oedipus Wrecks), Francis Ford Coppol (Life without Zoe), Martin Scorsese (Life lessons).
+ New York stories (1989): 3 episodes by 3 different directors, common theme.Directors Woody Allen (Oedipus Wrecks), Francis Ford Coppola (Life without Zoe), Martin Scorsese (Life lessons).
 
  Tre passi nel delirio / Histoires extraordinaires (Italy-France, 1968): 3 episodes by 3 directors, common theme: L. Malle, (William Wilson), F. Fellini (Toby Dammit), R. Vadim (Metzengerstein),
 
@@ -95,7 +95,7 @@ Special Stills Photographer: Snowdon Un ballo in maschera, John Swannell La verg
 Supervising Co-ordinating Editor: Marie-Thérèse Boiché
 
 Each component title should not usually be created as a new Work, as this is not how the content was conceived (i.e., it was designed to be packaged and viewed together and is not separable) and none of them would then have any Manifestation record as an individual Work.
-Those institutions that have the ability or desire to separate them out to tie separate descriptions (e.g., credits) to each component part (i.e. representing the parent-child relationship), may represent them as Analytic Works (see [Work/Variant Description Types](../../works/attributes_of_a_moving_image_work_variant/index.md#sec-work_variant_description_type)).
+Those institutions that have the ability or desire to separate them out to tie separate descriptions (e.g., credits) to each component part (i.e. representing a parent-child relationship), may represent them as Analytic Works (see [Work/Variant Description Types](../../works/attributes_of_a_moving_image_work_variant/index.md#sec-work_variant_description_type)).
 
 Should an institution acquire some or all of the components on different physical Items, then these should be linked to the Manifestation for the whole.
 In such cases it is simply a matter of a partial/incomplete acquisition, in the same way that only 2 reels of a 3 reel feature film might be acquired.
