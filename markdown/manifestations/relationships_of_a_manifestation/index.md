@@ -10,18 +10,10 @@ A Manifestation may have relationships with the following:
 
 - [Agent(s)](/agents/agents_for_works_variants/#sec-agents_for_works_variant)
 - [Event(s)](/works/relationships_of_a_work/#sec-work_event)
-- Other
+- [Other Relationships](/other_relationships/other_relationships_for_works_variants_manifestations_items/#sec-manifestation_other_relationship_types)
 - [Item(s)](/items/#sec-moving_image_items)
 - [Work(s)](/works/#sec-moving_image_work)
 - [Variant(s)](/variants/#sec-moving_image_variant)
 
-<a id="sec-manifest_events"></a>
-## Events
-An Event characterises occurrences in the life cycle of a moving image Manifestation.
-Instances of any Event type can have Agent and “Other” relationships.
-
-Record one or more Event type, for example, “decision,” “manufacture,” etc., to express the nature of the Event’s relationship to the Manifestation.
-Selection should be made from a controlled list of terms.
-A suggested list, which is open and not exhaustive, can be found in [Event Type](../../events/event_types/index.md#sec-event_type).
 
 [^1]: EN 15907 8.1 Relationships. General
