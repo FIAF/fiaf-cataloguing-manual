@@ -82,6 +82,11 @@ It was common, especially in the silent film industry, to make different endings
     Variant Title: Jaws (USA, 2012. Steven Spielberg)  
     Digitally restored 4K Ultra-HD version released on Blu-ray internationally on 14th August 2012.
 
+!!! example "Example"  
+    Work Title: Saïd Effendi (Iraq, 1957. Kameran Hosni)  
+    Variant Title: Saïd Effendi (Iraq, 2025. Kameran Hosni)  
+    4K digital restoration of the black and white film.  
+
 **Different Soundtrack Variant**
 
 !!! example "Example"
