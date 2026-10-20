@@ -21,10 +21,10 @@ Multi-component Works are ones conceived and created from their inception to con
 These should be treated as straightforward Monographic Works.
 (See [Works](/works/#sec-moving_image_works)).
 
-The different sections making up the whole were not independently created Works/Variants with an existence in their own right outside the film.
+The different sections making up the whole were not independently created Works or Variants with an existence in their own right outside the film.
 It was one film intentionally structured as a series of different stories, sometimes linked together by scenes and characters, into one continual whole.
 
-This is not the same as a later editing together of separate individual independent Works/Variants with their own earlier individual Manifestations, e.g.
+This is not the same as a later editing together of separate individual independent Works or Variants with their own earlier individual Manifestations, e.g.
 
  Portrait of a miner (Great Britain, 2002; BFI 2 disc DVD of various individual National Coal Board short films).
 
