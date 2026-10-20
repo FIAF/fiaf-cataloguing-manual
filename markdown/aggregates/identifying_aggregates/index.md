@@ -1,6 +1,6 @@
 
 <a id="sec-aggregate_or_carrier"></a>
-## Aggregate or Carrier (i.e. convenient storage on a single reel, tape, or file)  
+## Aggregate or Carrier  
 It is important to distinguish between actual intended compilation or multi-component moving images, e.g. Victorian cinema no. 8 (containing various short films from the 1890s edited together onto a new reel for a particular theatrical showing or publication), and an unintentional compilation, reflecting simple use of a single carrier (aka an individual reel, tape, or file), i.e. two short Charlie Chaplin films that happen to be acquired on one reel or transferred onto one tape for storage convenience.
 
 Editing and creative assembly decisions were taken to create the first example, and it constitutes a Collection Aggregate (see [Collection Aggregates](../../aggregates/types_of_moving_image_aggregates/index.md#sec-collection_aggregates)).
