@@ -9,7 +9,7 @@ Instead they recommend that certain relationships be established without instruc
 A Manifestation may have relationships with the following:
 
 - [Agent(s)](/agents/agents_for_works_variants/#sec-agents_for_works_variant)
-- [Event(s)](/works/relationships_of_a_work/#sec-work_event)
+- [Events](../../events/event_types/index.md)
 - Other
 - [Item(s)](/items/#sec-moving_image_items)
 - [Work(s)](/works/#sec-moving_image_work)
