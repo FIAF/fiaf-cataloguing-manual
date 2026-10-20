@@ -14,7 +14,7 @@ A Variant may have relationships with the following:
 - [Subject(s)/Genre(s)/Form(s)](/works/elements_of_a_work_variant/#sec-subject_genre_form_terms)
 - [Work(s)](/works/#sec-moving_image_work)
 - [Manifestation(s)](/manifestations/#sec-moving_image_manifestations)
-- Other (including other Works)
+- [Other Relationships](/other_relationships/other_relationships_for_works_variants_manifestations_items/#sec-other_relationships)
 
 <a id="sec-Works"></a>
 ## Works
