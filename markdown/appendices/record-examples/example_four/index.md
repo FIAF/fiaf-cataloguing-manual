@@ -1,6 +1,6 @@
 
 
-In examples 4-6 the field names are given in red.
+In examples 4-6 the field names are given in **bold**.
 These do not relate to the initial illustrative colour codes used in examples 1 and 2 in any way, but are simply a means of distinguishing the field name from the rest of the data.
 
 | Identification number | F7271 |
