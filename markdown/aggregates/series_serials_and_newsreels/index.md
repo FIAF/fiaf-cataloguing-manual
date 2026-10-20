@@ -33,7 +33,7 @@ Where this Serial Work–Monographic Work hierarchy structure does not exist, th
 
 <center><object data="/diagrams/figure_17.drawio.svg" type="image/svg+xml"></object></center>
 
-For how this might be modelled in a flat or single hierarchy system see [Example 7. Aggregate DVD Television Serial and Episode records in 1-level Hierarchy Models](../../appendices/record-examples/example_seven/index.md)
+See here for how this might be modelled in a [flat or single hierarchy system](../../appendices/record-examples/example_seven/index.md).
 
 It is also possible for particular individual episodes from different moving image series/serials to be taken and formed together into a Collection or Augmentation Aggregate, in which case they would then follow the same pattern of structure as any other such aggregate, i.e. with an aggregate Manifestation and aggregating Work record, and associative relationship links to any existing individual Work/Variant episode records.
 
