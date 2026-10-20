@@ -53,7 +53,7 @@ These stories also are not “independently created Works/Variants” but filmed
 The “whole” would then have a Transmission Manifestation.
 The component parts do not.
 
-It is possible that only individual components of newsreels/news programmes may be acquired by an institution. In such cases it is simply a matter of a partial/incomplete acquisition, in the same way that only 2 reels of a 3 reel feature film might be acquired. The Item record for that acquisition would be linked as “part of” the whole Manifestation ( see ADD LINK 11.5.3 Analytics/Components of identified newsreels/cinemagazines )
+It is possible that only individual components of newsreels/news programmes may be acquired by an institution. In such cases it is simply a matter of a partial/incomplete acquisition, in the same way that only 2 reels of a 3 reel feature film might be acquired. The Item record for that acquisition would be linked as “part of” the whole Manifestation. See [Analytics/Components of identified newsreels/cinemagazines](/titles/series_serials/#sec-analytics_components_of_identified_newsreels_cinemagazines).
 
 Where several individual whole components of various newsreels/news programmes have been selected, i.e. what would constitute Analytic component Works [see [Work Description Type](works/attributes_of_a_moving_image_work_variant/#sec-work_variant_description_type), and used to create compilation films or reels, then as described in 12.2.1. [ADD LINK] the nature of these should be assessed. As mentioned previously, any aggregate will always have an element of intention, whether simple or complex.
 
