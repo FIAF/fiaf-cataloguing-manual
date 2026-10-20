@@ -6,7 +6,7 @@ FRBR includes the terms “serials” and “series” within examples of Collec
 However, these are in relation to bibliographic materials, and moving image series/serials are not the equivalent of articles written for a periodical, but different in nature.
 
 <a id="sec-film_video_or_tv_series_serials"></a>
-## Film/Video, or Television series/serials - aggregates or not?  
+## Film/Video, or Television series/serials   
 On the surface these would seem to be aggregates as it could be argued they are made up of different components (episodes) brought together to make a “whole” (series/serial).
 However, it is not logical under the definitions of aggregates to structure and view Television or film/video serial/series as aggregating Works.
 
@@ -38,7 +38,7 @@ For how this might be modelled in a flat or single hierarchy system see [Example
 It is also possible for particular individual episodes from different moving image series/serials to be taken and formed together into a Collection or Augmentation Aggregate, in which case they would then follow the same pattern of structure as any other such aggregate, i.e. with an aggregate Manifestation and aggregating Work record, and associative relationship links to any existing individual Work/Variant episode records.
 
 <a id="sec-newsreels_and_tv_news_current_affairs_programmes"></a>
-## Newsreels and TV news/current affairs programmes - aggregates or not?
+## Newsreels and TV news/current affairs programmes  
 These also do not constitute aggregates simply because they contain multiple story components within a whole issue or programme.
 
 The nature of news/newsreels is that the different stories do not constitute “independently created Works/Variants” and are more akin to multi-component moving images (see [“Hybrid” Aggregates and multi-component moving images (e.g. Anthology/Portmanteau films or TV programmes)](../../aggregates/identifying_aggregates/index.md#sec-hybrid_aggregates_and_multi_component_moving_images)), in that each component is meant to create the whole via filmed links that are an integral planned part and structure of an original single Work concept.
@@ -53,7 +53,7 @@ These stories also are not “independently created Works/Variants” but filmed
 The “whole” would then have a Transmission Manifestation.
 The component parts do not.
 
-It is possible that only individual components of newsreels/news programmes may be acquired by an institution. In such cases it is simply a matter of a partial/incomplete acquisition, in the same way that only 2 reels of a 3 reel feature film might be acquired. The Item record for that acquisition would be linked as “part of” the whole Manifestation ( see A.2.6.3 Analytics/Components of identified newsreels/cinemagazines )
+It is possible that only individual components of newsreels/news programmes may be acquired by an institution. In such cases it is simply a matter of a partial/incomplete acquisition, in the same way that only 2 reels of a 3 reel feature film might be acquired. The Item record for that acquisition would be linked as “part of” the whole Manifestation ( see ADD LINK 11.5.3 Analytics/Components of identified newsreels/cinemagazines )
 
 Where several individual whole components of various newsreels/news programmes have been selected, i.e. what would constitute Analytic component Works [ADD IN LINK TO 6.2.1.1 Analytic], and used to create compilation films or reels, then as described in 12.2.1. [ADD LINK] the nature of these should be assessed. As mentioned previously, any aggregate will always have an element of intention, whether simple or complex.
 
