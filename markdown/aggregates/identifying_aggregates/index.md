@@ -69,30 +69,30 @@ For example:
  Credits
 
 &nbsp;&nbsp;&nbsp;&nbsp;Directed by: Nicolas Roeg Un ballo in maschera, Charles Sturridge La vergine degli angeli
-   ‘Images’: Jean-Luc Godard Armide, Julien Temple Rigoletto, Bruce Beresford Die tote Stadt
-   Directed by: Robert Altman Les Boréades, Franc Roddam Liebestod, Ken Russell, Derek Jarman Depuis le jour, Bill Bryden I Pagliacci
-   ©: LightYear Entertainment, Virgin Vision
-   Produced... by: Boyd’s Company
-   Presents: RSV Productions, Virgin Vision
-   A Don Boyd production: Don Boyd, Jim Mervis, RVP Productions, Tom Kuhn, Charles Mitchell
-   Produced by: Don Boyd
+&nbsp;&nbsp;&nbsp;&nbsp;‘Images’: Jean-Luc Godard Armide, Julien Temple Rigoletto, Bruce Beresford Die tote Stadt
+&nbsp;&nbsp;&nbsp;&nbsp;Directed by: Robert Altman Les Boréades, Franc Roddam Liebestod, Ken Russell, Derek Jarman Depuis le jour, Bill Bryden I Pagliacci
+&nbsp;&nbsp;&nbsp;&nbsp;©: LightYear Entertainment, Virgin Vision
+&nbsp;&nbsp;&nbsp;&nbsp;Produced... by: Boyd’s Company
+&nbsp;&nbsp;&nbsp;&nbsp;Presents: RSV Productions, Virgin Vision
+&nbsp;&nbsp;&nbsp;&nbsp;A Don Boyd production: Don Boyd, Jim Mervis, RVP Productions, Tom Kuhn, Charles Mitchell
+&nbsp;&nbsp;&nbsp;&nbsp;Produced by: Don Boyd
 
-   Co-producer (for Virgin Vision): Al Clark, Mike Watts
-   Co-ordinating Associate Producer: David Barber
-   Co-ordinating Associate Producer: Michael Hamlyn
-   Co-ordinating Associate Producer: Paul Spencer, Richard Bell Un ballo in maschera, Luc Roeg Un ballo in maschera, Paul Spencer La vergine degli angeli, Nessun Dorma, I      Pagliacci, François Hamel Armide, Amanda Pirie Rigoletto, Iain Brown Die tote Stadt, Scott Bushnell Les Boréades, Joni Sighvatsson Liebestod, James Mackay
-   Depuis le jour
-   Associate Producer: Michael Hamlyn I Pagliacci
-   Associate Producer: Kevan Pegley I Pagliacci
-   Executive in Charge of Production: Arnold J. Holland, Joan Aceste
-   European Production Co-ordinator: Gabrielle Tana
-   US Production Co-ordinator: Elizabeth Moyer
-   Written by: Nicolas Roeg Un ballo in maschera, Charles Sturridge La vergine degli angeli, Julien Temple Rigoletto, Bruce Beresford Die tote Stadt, Robert Altman
-   Les Boréades, Franc Roddam Liebestod, Ken Russell Nessun Dorma, Derek Jarman
-   Depuis le jour, Bill Bryden I Pagliacci, Don Boyd I Pagliacci
-   Director of Photography: Harvey Harrison Un ballo in maschera, Gale Tattersall La vergine degli angeli, Caroline Champetier Armide, Oliver Stapleton Rigoletto, Dante        Spinotti Die tote Stadt, Pierre Mignot Les Boréades, Frederick Elmes Liebestod, Gabriel Beristáin Nessun Dorma, I Pagliacci, Mike Southon Depuis le jour, Christopher        Hughes Depuis le jour
-   Special Stills Photographer: Snowdon Un ballo in maschera, John Swannell La vergine degli angeli, Jonathan Lennard Armide, Greg Gorman Rigoletto, Bob Carlos Clarke Die      tote Stadt, David Bailey Les Boréades, Annie Leibovitz Liebestod, Terry O’Neill Nessun Dorma, Angus McBean Depuis le jour, Koo Stark I Pagliacci
-   Supervising Co-ordinating Editor: Marie-Thérèse Boiché
+&nbsp;&nbsp;&nbsp;&nbsp;Co-producer (for Virgin Vision): Al Clark, Mike Watts
+&nbsp;&nbsp;&nbsp;&nbsp;Co-ordinating Associate Producer: David Barber
+&nbsp;&nbsp;&nbsp;&nbsp;Co-ordinating Associate Producer: Michael Hamlyn
+&nbsp;&nbsp;&nbsp;&nbsp;Co-ordinating Associate Producer: Paul Spencer, Richard Bell Un ballo in maschera, Luc Roeg Un ballo in maschera, Paul Spencer La vergine degli angeli, Nessun Dorma, I      Pagliacci, François Hamel Armide, Amanda Pirie Rigoletto, Iain Brown Die tote Stadt, Scott Bushnell Les Boréades, Joni Sighvatsson Liebestod, James Mackay
+&nbsp;&nbsp;&nbsp;&nbsp;Depuis le jour
+&nbsp;&nbsp;&nbsp;&nbsp;Associate Producer: Michael Hamlyn I Pagliacci
+&nbsp;&nbsp;&nbsp;&nbsp;Associate Producer: Kevan Pegley I Pagliacci
+&nbsp;&nbsp;&nbsp;&nbsp;Executive in Charge of Production: Arnold J. Holland, Joan Aceste
+&nbsp;&nbsp;&nbsp;&nbsp;European Production Co-ordinator: Gabrielle Tana
+&nbsp;&nbsp;&nbsp;&nbsp;US Production Co-ordinator: Elizabeth Moyer
+&nbsp;&nbsp;&nbsp;&nbsp;Written by: Nicolas Roeg Un ballo in maschera, Charles Sturridge La vergine degli angeli, Julien Temple Rigoletto, Bruce Beresford Die tote Stadt, Robert Altman
+&nbsp;&nbsp;&nbsp;&nbsp;Les Boréades, Franc Roddam Liebestod, Ken Russell Nessun Dorma, Derek Jarman
+&nbsp;&nbsp;&nbsp;&nbsp;Depuis le jour, Bill Bryden I Pagliacci, Don Boyd I Pagliacci
+&nbsp;&nbsp;&nbsp;&nbsp;Director of Photography: Harvey Harrison Un ballo in maschera, Gale Tattersall La vergine degli angeli, Caroline Champetier Armide, Oliver Stapleton Rigoletto, Dante        Spinotti Die tote Stadt, Pierre Mignot Les Boréades, Frederick Elmes Liebestod, Gabriel Beristáin Nessun Dorma, I Pagliacci, Mike Southon Depuis le jour, Christopher        Hughes Depuis le jour
+&nbsp;&nbsp;&nbsp;&nbsp;Special Stills Photographer: Snowdon Un ballo in maschera, John Swannell La vergine degli angeli, Jonathan Lennard Armide, Greg Gorman Rigoletto, Bob Carlos Clarke Die      tote Stadt, David Bailey Les Boréades, Annie Leibovitz Liebestod, Terry O’Neill Nessun Dorma, Angus McBean Depuis le jour, Koo Stark I Pagliacci
+&nbsp;&nbsp;&nbsp;&nbsp;Supervising Co-ordinating Editor: Marie-Thérèse Boiché
 
 Each component title should not usually be created as a new Work, as this is not how the content was conceived (i.e., it was designed to be packaged and viewed together and is not separable) and none of them would then have any Manifestation record as an individual Work.
 Those institutions that have the ability or desire to separate them out to tie separate descriptions (e.g., credits) to each component part (i.e. representing a parent-child relationship), may represent them as Analytic Works (see [Work/Variant Description Types](../../works/attributes_of_a_moving_image_work_variant/index.md#sec-work_variant_description_type)).
