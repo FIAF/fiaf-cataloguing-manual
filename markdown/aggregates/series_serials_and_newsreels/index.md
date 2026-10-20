@@ -39,7 +39,7 @@ It is also possible for particular individual episodes from different moving ima
 
 <a id="sec-newsreels_and_tv_news_current_affairs_programmes"></a>
 ## Newsreels and TV news/current affairs programmes - aggregates or not?
-These also do not constitute aggregates simply because they contain multiple elements within a whole issue or programme.
+These also do not constitute aggregates simply because they contain multiple story components within a whole issue or programme.
 
 The nature of news/newsreels is that the different stories do not constitute “independently created Works/Variants” and are more akin to multi-component moving images (see [“Hybrid” Aggregates and multi-component moving images (e.g. Anthology/Portmanteau films or TV programmes)](../../aggregates/identifying_aggregates/index.md#sec-hybrid_aggregates_and_multi_component_moving_images)), in that each component is meant to create the whole via filmed links that are an integral planned part and structure of an original single Work concept.
 
