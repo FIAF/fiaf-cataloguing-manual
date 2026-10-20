@@ -25,7 +25,7 @@ See example below for The thick of it DVD boxed set:
 
 <center><object data="/diagrams/figure_15.drawio.svg" type="image/svg+xml"></object></center>
 
-Alternatively, a model similar to [Model: Collection Aggregate Manifestation within a many-to-many Works/Variants-Manifestation database system](../../aggregates/modelling_aggregates/index.md#sec-collection_aggregate_manifestation_within_a_many_to_many) can be used, whereby a single Aggregate Manifestation links to the many individual Works/Variants in “part of” relationship:
+Alternatively, a model similar to [Model: Collection Aggregate Manifestation within a many-to-many Works/Variants-Manifestation database system](../../aggregates/modelling_aggregates/index.md#sec-collection_aggregate_manifestation_within_a_many_to_many) can be used, whereby a single Aggregate Manifestation links to the many individual Works or Variants in “part of” relationship:
 
 <center><object data="/diagrams/figure_16.drawio.svg" type="image/svg+xml"></object></center>
 
