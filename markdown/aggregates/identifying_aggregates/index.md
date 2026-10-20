@@ -19,7 +19,7 @@ Digital Manifestations, such as DVDs, Blu Rays, and streamed moving images, that
 Multi-component Works are ones conceived and created from their inception to consist of multiple individual components that make up a whole, for example anthologies, portmanteau films and television programmes (e.g., Dead of night, Quartet, From beyond the grave).
 
 These should be treated as straightforward Monographic Works.
-(See [Moving Image Works](../../other-relationships/index.md#sec-moving_image_works)).
+(See [Works](/works/#sec-moving_image_works)).
 
 The different sections making up the whole were not independently created Works/Variants with an existence in their own right outside the film.
 It was one film intentionally structured as a series of different stories, sometimes linked together by scenes and characters, into one continual whole.
