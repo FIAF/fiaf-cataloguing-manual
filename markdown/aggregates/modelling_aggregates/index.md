@@ -12,7 +12,7 @@ In practical terms creating aggregates and how they are modelled, will be determ
 
 Under FRBR, RDA, and CEN an aggregate Manifestation is allowed to have a many-to-many relationship with Works/Variants, i.e., it can have a “part of” relationship with more than one Work/Variant.
 
-However, many database systems are structured in a way that does not allow this and will only permit links or relationships between Manifestation records and a single Work/Variant record at all times, i.e., a one-to-many Work/Variant-Manifestation relationship.
+However, many database systems are structured in a way that does not allow this and will only permit links or relationships between Manifestation records and a single Work or Variant record at all times, i.e., a one-to-many Work/Variant-Manifestation relationship.
 
 There are also potential implications for those organisations using international identifiers or registration numbers, e.g., ISAN gives a number to what they define “compilation”: “a compilation work is a collection of two or more separate works (each identified with its own ISAN) in a single distribution package”[^2].
 
