@@ -119,9 +119,9 @@ It was common, especially in the silent film industry, to make different endings
 
 A Variant may have more than one type. For example, a Variant for a restoration of a film with new, or previously missing, intertitles with restored tinting or toning and an added music track featuring the original music composed for playing with the film. Or for a shortened, different format, black and white, dubbed version:
 
-!!! example "Example"
+!!! example "Example"  
     Work Title: Nosferatu. Eine Symphonie des Grauens (Germany, 1922. F.W. Murnau)   
-    Restoration + Tinted/Toned + Different sound track Variant Title: Nosferatu. Eine Symphonie des Grauens (2006 German         version)
+    Restoration + Tinted/Toned + Different sound track Variant Title: Nosferatu. Eine Symphonie des Grauens (2006 German         version)  
     Variant characteristics: i) Digitally restored original German intertitles (including some previously missing); ii) new      added music track; iii) tinted  
 
 !!! example "Example"
