@@ -104,7 +104,7 @@ Intellectually these multi-component films are “hybrid” aggregates – they 
 
 To use a music analogy they are rather like a concept album, which is made up of individual songs/tracks that may even have one or two released as singles, but they were created originally as part of a larger concept or unfolding story to be listened to and appreciated as a whole; and which is different in nature to a “Best of..” or “Greatest Hits…” compilation album.
 
-Where an individual component does have a subsequent independent release, that component should then also be created as a new Work/Variant in its own right, with its own relevant Manifestation, and linked to the original multi-component Work in an associative “contains/contained in” relationship.
+Where an individual component does have a subsequent independent release, that component should then also be created as a new Work or Variant in its own right, with its own relevant Manifestation, and linked to the original multi-component Work in an associative “contains/contained in” relationship.
 
 Toby Dammit, (episode by F. Fellini part of Tre passi nel delirio / Histoires extraordinaires, Italy-France, 1968): 2008 restored version on 35mm of the individual episode, with its own new Italian titles.
 
