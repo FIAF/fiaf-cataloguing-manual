@@ -40,7 +40,7 @@ The individual component titles may also be added as alternative title types to 
 Some collection aggregates do not have their own new title, e.g., in 2008, Odeon Entertainment released a DVD double-bill of classic British thrillers, Bond of fear (1956) and Blackout (1950), with no collection title.
 
 The treatment of the aggregate title may differ from institution to institution, especially in cases where multiple Works are contained in the collection aggregate and recording all titles in a single title field would be unwieldy.
-There is the option of an institution using a devised/supplied title (see [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](../../titles/supplied_devised_titles/index.md#sec-supplied_devised_titles)).
+There is the option of an institution using a devised/supplied title (see [Supplied/Devised Titles](../../titles/supplied_devised_titles/index.md#sec-supplied_devised_titles)).
 
 !!! example "Example"
     Bond of fear ; Blackout 
