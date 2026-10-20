@@ -12,7 +12,7 @@ Assessments will need to be made, where possible, as to whether the intention wa
 
 Equally, an institution may decide not to differentiate between whether something is technically an aggregate or a "carrier of convenience" and just follow the same structuring either way for any multi-component compilation reels, particularly where the original intent may often not always be clear or known.
 
-Digital Manifestations, such as DVDs, Blu Rays, and streamed moving images, that have additional selectable language options chosen by the viewer are deemed to be Aggregate Manifestations under RDA [add link to diagram within modelling aggregates]
+Digital Manifestations, such as DVDs, Blu Rays, and streamed moving images, that have additional selectable language options chosen by the viewer are deemed to be Aggregate Manifestations under RDA.[^1]
 
 <a id="sec-hybrid_aggregates_and_multi_component_moving_images"></a>
 ## “Hybrid” Aggregates and multi-component moving images (e.g. Anthology/Portmanteau films or TV programmes)
@@ -40,7 +40,7 @@ Other multi-component moving images often have a common theme, and usually compr
 
  Tre passi nel delirio / Histoires extraordinaires (Italy-France, 1968): 3 episodes by 3 directors, common theme: L. Malle, (William Wilson), F. Fellini (Toby Dammit), R. Vadim (Metzengerstein),
 
-With these there was no original intention for the components to be independent[^1], and there should always be a single Monographic Work record with a single Manifestation for them.
+With these there was no original intention for the components to be independent[^2], and there should always be a single Monographic Work record with a single Manifestation for them.
 The different component titles may be added as alternative titles to the Work record to assist in retrieval or access, and/or details of individual component titles and content given in the synopsis field on the Work.
 For example:
 
@@ -120,9 +120,10 @@ They are using partial footage combined with new and different footage shot for 
 The nature of some compilations means that creating Works for each component is neither relevant nor practical, i.e. compilation reels of unidentified or untitled content (not usual in the bibliographic world but common in moving image archives).
 
 There may not always be the immediate available knowledge as to whether something is an intentional compilation (in which case it would be an aggregate) or simply a convenient carrier.
-Where there is doubt then create a single Aggregate Manifestation and Aggregating Work[^2].
+Where there is doubt then create a single Aggregate Manifestation and Aggregating Work[^3].
 
 Later research and cataloguing may then establish whether this aggregate record is retained and added to, or deleted after being used as a temporary working tool for initial record creation of acquisitions.
 
-[^1]: Although where these are made by both different directors and production companies there may have been dual consideration of potential future independent release
-[^2]: It is easier for the Cataloguer to default to treating as an Aggregate initially and create a single Work, Manifestation, and Item, rather than potentially create multiple skeletal “unidentified” Works, Manifestations and Items that then have to be deleted subsequently if it is discovered the entity is an Aggregate.
+[^1]: See: (https://www.rdatoolkit.org/sites/default/files/rsc/RSCOutreachMadrid.pdf)
+[^2]: Although where these are made by both different directors and production companies there may have been dual consideration of potential future independent release
+[^3]: It is easier for the Cataloguer to default to treating as an Aggregate initially and create a single Work, Manifestation, and Item, rather than potentially create multiple skeletal “unidentified” Works, Manifestations and Items that then have to be deleted subsequently if it is discovered the entity is an Aggregate.
