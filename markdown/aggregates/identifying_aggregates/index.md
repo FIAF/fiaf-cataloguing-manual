@@ -15,7 +15,7 @@ Equally, an institution may decide not to differentiate between whether somethin
 Digital Manifestations, such as DVDs, Blu Rays, and streamed moving images, that have additional selectable language options chosen by the viewer are deemed to be Aggregate Manifestations under RDA.[^1]
 
 <a id="sec-hybrid_aggregates_and_multi_component_moving_images"></a>
-## “Hybrid” Aggregates and multi-component moving images (e.g. Anthology/Portmanteau films or TV programmes)
+## “Hybrid” Aggregates and multi-component moving images
 Multi-component Works are ones conceived and created from their inception to consist of multiple individual components that make up a whole, for example anthologies, portmanteau films and television programmes (e.g., Dead of night, Quartet, From beyond the grave).
 
 These should be treated as straightforward Monographic Works.
