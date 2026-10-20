@@ -59,7 +59,7 @@ Where several individual whole components of various newsreels/news programmes h
 
 Such compilations can be structured in the same way as [Collection Aggregates](/aggregates/momdelling_aggregates/#sec-collection_aggregate_manifestation_within_a_one_to_many), i.e. a new Work record would be created for the compilation and then structured in an associative “contains/contained in” relationship with the original whole newsreel issue Work records from which they came.
 
-In instances of untitled reels containing multiple different newsreel/cinemagazine story elements, then a partially or fully supplied/devised title can be created, along with any useful additional alternative or help titles (see ADD LINK TO SECTION 11.3.1 AND 11.3.2)
+In instances of untitled reels containing multiple different newsreel/cinemagazine story elements, then a [partially supplied title](/titles/suppplied_devised_title/#sec-partially_supplied_devised_titles) or [fully supplied title](/titles/suppplied_devised_title/#sec-partially_supplied_devised_titles) can be created, along with any useful additional alternative or help titles.
 
 So for example, an institution may have created several compilation reels made up of different stories from different issues of a newsreel from a particular year, e.g. Die Deutsche Wochenschau 1944. Compilation reel 2. 
 
