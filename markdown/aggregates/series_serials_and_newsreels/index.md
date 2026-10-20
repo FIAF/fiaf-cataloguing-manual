@@ -57,7 +57,7 @@ It is possible that only individual components of newsreels/news programmes may 
 
 Where several individual whole components of various newsreels/news programmes have been selected, i.e. what would constitute Analytic component Works [see [Work Description Type](/works/attributes_of_a_moving_image_work_variant/#sec-work_variant_description_type), and used to [create compilation films or reels](/aggregates/identifying_aggregates/#sec-aggregate_or_carrier), the nature of these should be assessed. As mentioned previously, any aggregate will always have an element of intention, whether simple or complex.
 
-Such compilations can be structured in the same way as Collection Aggregates, i.e. a new Work record would be created for the compilation and then structured in an associative “contains/contained in” relationship with the original whole newsreel issue Work records from which they came.[ADD LINK TO SECTION  12.5.1.1 Collection Aggregates model].
+Such compilations can be structured in the same way as [Collection Aggregates](/aggregates/momdelling_aggregates/#sec-collection_aggregate_manifestation_within_a_one_to_many), i.e. a new Work record would be created for the compilation and then structured in an associative “contains/contained in” relationship with the original whole newsreel issue Work records from which they came.
 
 In instances of untitled reels containing multiple different newsreel/cinemagazine story elements, then a partially or fully supplied/devised title can be created, along with any useful additional alternative or help titles (see ADD LINK TO SECTION 11.3.1 AND 11.3.2)
 
