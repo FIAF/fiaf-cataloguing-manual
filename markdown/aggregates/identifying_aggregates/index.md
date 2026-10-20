@@ -68,7 +68,7 @@ For example:
 
  Credits
 
-   Directed by: Nicolas Roeg Un ballo in maschera, Charles Sturridge La vergine degli angeli
+&nbsp;&nbsp;&nbsp;&nbsp;Directed by: Nicolas Roeg Un ballo in maschera, Charles Sturridge La vergine degli angeli
    ‘Images’: Jean-Luc Godard Armide, Julien Temple Rigoletto, Bruce Beresford Die tote Stadt
    Directed by: Robert Altman Les Boréades, Franc Roddam Liebestod, Ken Russell, Derek Jarman Depuis le jour, Bill Bryden I Pagliacci
    ©: LightYear Entertainment, Virgin Vision
