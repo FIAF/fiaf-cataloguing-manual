@@ -27,7 +27,7 @@ It is recognised that the ability to do this may be dependent on sufficient info
 Where this is insufficient the titles of the individual Works/Variants making up the aggregate may be added as alternative title types to the aggregating Work.
 This will assist in accessibility and identification.
 
-For how aggregate records may be structured in a 1-level hierarchy system see [Example 7. Aggregate DVD Television Serial and Episode records in 1-level Hierarchy Models](../../appendices/record-examples/example_seven/index.md).
+See here for how aggregate records may be structured in a [1-level hierarchy system] (../../appendices/record-examples/example_seven/index.md).
 Whilst this relates to a television example the same principles can be applied in the case of film collection and augmented collection aggregates.
 
 <a id="sec-collection_aggregates_modelling"></a>
