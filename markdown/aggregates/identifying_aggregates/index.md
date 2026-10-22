@@ -68,9 +68,16 @@ For example:
 
  Credits
 
-Directed by: Nicolas Roeg Un ballo in maschera, Charles Sturridge La vergine degli angeli
-‘Images’: Jean-Luc Godard Armide, Julien Temple Rigoletto, Bruce Beresford Die tote Stadt
-Directed by: Robert Altman Les Boréades, Franc Roddam Liebestod, Ken Russell, Derek Jarman Depuis le jour, Bill Bryden I Pagliacci
+Directed by: Nicolas Roeg (Un ballo in maschera)   
+Directed by: Charles Sturridge (La vergine degli angeli)  
+‘Images’: Jean-Luc Godard (Armide)
+Directed by: Julien Temple (Rigoletto) 
+Directed by: Bruce Beresford (Die tote Stadt)
+Directed by: Robert Altman (Les Boréades) 
+Directed by; Franc Roddam (Liebestod) 
+Directed by: Ken Russell  
+Directed by: Derek Jarman (Depuis le jour) 
+Directed by: Bill Bryden (I Pagliacci)
 ©: LightYear Entertainment, Virgin Vision
 Produced... by: Boyd’s Company
 Presents: RSV Productions, Virgin Vision
