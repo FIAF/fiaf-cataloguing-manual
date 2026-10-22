@@ -2,10 +2,6 @@
 !!! abstract "Definition"
     An Agent for moving image Items is defined as an entity that is involved in the acquisition, movement (for loans,            inspection, storage, etc.), or preservation of a moving image Item and who is considered to have major responsibility        for, or be of major importance to, the moving image Item. That is, any agent involved in all the activities that form        part of the lifecycle of a moving image item.
 
-
-<center><object data="/images/Picture5itemagents.jpg" width="100%"></object></center>
-
-
 Full names pertaining to in-house staff are advisable for clarity, rather than initials of individuals, if data security permitts.
 
 Agent(s) may also have relationships to an instance of a specific Event or of an “Other” relationship in connection with the Item. 
@@ -30,8 +26,16 @@ Record in a note any additional details that cannot be expressed through control
 
 <a id="sec-acquisitions"></a>
 ### Acquisitions
-Manages the purchase and acquisition of rights and materials for the archive, including films, series, television programs, and other moving image content. This involves negotiating contracts, evaluating materials, managing budgets, and ensuring the proper documentation and preservation of acquired materials. See also [Events](/events/event_types/#sec-acquisition).
+Manages the purchase and acquisition of rights and materials for the archive, including films, series, television programs, and other moving image content. This involves negotiating contracts, evaluating materials, managing budgets, and ensuring the proper documentation and preservation of acquired materials. See also [Acquisition Event](/events/further_event_types/#sec-acquisition).
 
 <a id="sec-preservation"></a>
 ### Preservation
-It is the person dedicated to maintaining and ensuring the longevity of films and audiovisual content. This includes film conservation, restoration of damages materials, and preservation of digital and analogue formats. See also [Events](/events/event_types/#sec-preservation).
+It is the person dedicated to maintaining and ensuring the longevity of films and audiovisual content. This includes film conservation, restoration of damages materials, and preservation of digital and analogue formats. See also [Preservation/Restoration Events](/events/further_event_types/#sec-preservation_restoration).
+
+<a id="sec-curatorhip"></a>
+### Curatorship
+Responsible for preserving, cataloguing, and presenting films and other audiovisual materials. Their work involves selecting films for screening, organizing programming, and managing collections.
+
+<a id="sec-technical_inspection"></a>
+### Technical Inspection
+Responsible for evaluating the quality and physical condition of films in film format, ensuring that they are properly preserved for posterity. Also verifies the correct identification and cataloguing of materials, contributing to the integrity and accessibility of the archive. See also [Inspection Events](/events/further_event_types/#sec-inspection).
