@@ -7,6 +7,7 @@ Optionally, if the Agent is credited under a name that is not identical with the
 Some databases may include fields and structures to deal with various alternative or credited forms of the Agent name. 
 
 **Authority Records**
+
 Agent records should contain additional important metadata to aid disambiguation and correct identification. It is important to have such other identification factors relating to any Agent records in order for clarity, especially where there are different people/organisations with identical or very similar names.
 An Agent record should always include the following core information:
 
