@@ -31,3 +31,7 @@ Record in a note any additional details that cannot be expressed through control
 <a id="sec-acquisitions"></a>
 ### Acquisitions
 Manages the purchase and acquisition of rights and materials for the archive, including films, series, television programs, and other moving image content. This involves negotiating contracts, evaluating materials, managing budgets, and ensuring the proper documentation and preservation of acquired materials. See also [Events](/events/event_types/#sec-acquisition).
+
+<a id="sec-preservation"></a>
+### Preservation
+It is the person dedicated to maintaining and ensuring the longevity of films and audiovisual content. This includes film conservation, restoration of damages materials, and preservation of digital and analogue formats. See also [Events](/events/event_types/#sec-preservation).
