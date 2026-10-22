@@ -71,7 +71,7 @@ A relationship captured between people and/or organisation records can also act 
 Having these identification factors are important for both public users or researchers searching for relevant information, and also cataloguers adding cast and credits, distributors, etc. to moving image records and needing to identify and create links to the correct Person/Organisation Agent records.
 
 
-Agent(s) may also have relationships to an instance of a specific Event or of an “Other” relationship in connection with the Work, Variant, Manifestation or Item, e.g. cinema of a premiere screening, film classification body, film laboratory, etc. 
+Agent(s) may also have relationships to an instance of a specific [Event](/events/events/index.md) or of an “Other” relationship in connection with the Work, Variant, Manifestation or Item, e.g. cinema of a premiere screening, film classification body, film laboratory, etc. 
 
 Because responsibility for moving image materials is most often complex and highly diverse, institutions - particularly those with special interests - should determine the number of Agents and the types of roles and activities they wish to include. 
 
