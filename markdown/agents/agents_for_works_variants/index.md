@@ -53,7 +53,7 @@ It is recommended to capture these core credits on a moving image record as far 
 
 [Music composer, Author (e.g. original literary author on which the Work was adapted or based) currently being added to above diagram. Replace diagrams here with revised ones when finished] 
 
-Several of these tie in with important information needed for establishing rights and copyright, namely Director(s), Producer(s), Production Company(ies), Scriptwriter(s), Author (e.g. original literary author on which the Work was adapted or based), Music Composer, Performers (e.g. cast) [ADD LINK TO 16.1.1.2 Recommended properties for Moving Image Works and Variants] 
+Several of these tie in with [important information needed for establishing rights and copyright](/rights/#sec-recommended_properties_for_Moving_Image_Works_and_Variants), namely Director(s), Producer(s), Production Company(ies), Scriptwriter(s), Author (e.g. original literary author on which the Work was adapted or based), Music Composer, Performers (e.g. cast).
 
 Besides the principal Agent Activity suggested, institutions, particularly those with special interests, may create and apply in-house value lists of other specific Agent Types, which may vary from institution to institution.
 
@@ -62,7 +62,7 @@ Including any Stills photography credits on the work or Variant can be potential
 Record in a note any additional details that cannot be expressed through controlled terms. (e.g. “appears only in final scene”, etc.). 
 If a name is known to be fictitious, or requires clarification, make a note giving the actual name. 
 
-If more than one Agent is associated with a particular role connected with a Work/Variant or related Event, where possible or desirable, record the names in the order indicated by the sequence, layout, or typography of the names on the source of information. 
+If more than one Agent is associated with a particular role connected with a Work or Variant or related Event, where possible or desirable, record the names in the order indicated by the sequence, layout, or typography of the names on the source of information. 
 Preserving the ordering of the credited persons should be determined by the requirements of individual institutions.[^4] 
 
 !!! example "Example"
@@ -176,7 +176,7 @@ For example, during the McCarthy era and blacklisting of various people in the H
     A Breath of scandal (USA/Italy/Austria, 1960)
     <center><object data="/images/Screenshot_uncreditedeg7blacklist.png" width="100%"></object></center>
 
-Similarly, there were sometimes differences in the on-screen credits between prints. For example, with the film Falschmünzer (USSR/Germany, 1928), the Russian prints named only one director of photography whereas German prints listed an additional German one:
+Similarly, there were sometimes differences in the on-screen credits between prints. For example, with the film *Falschmünzer* (USSR/Germany, 1928), the Russian prints named only one director of photography whereas German prints listed an additional German one:
 
 
 <center><object data="/images/Screenshot_uncreditedeg5.png" width="100%"></object></center>
