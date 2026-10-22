@@ -45,7 +45,9 @@ In the same way, an Agent whose life and moving image works spanned across chang
 
 Institutions should also consider relevant national or international legislation relating to holding personal data in making decisions about what data to capture, e.g. General Data Protection Regulation (GDPR), Personal Data Protection Acts (PDPA), etc.
 
-Agent records may also be related/linked to other Agent records, e.g. 
+**Agent Relationships**
+
+Agent records may be related/linked to other Agent records, e.g. 
 
 <center><object data="/images/Screenshot_agentrecordeg1.png" width="100%"></object></center>
 
