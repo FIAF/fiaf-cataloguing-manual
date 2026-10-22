@@ -31,7 +31,7 @@ Optionally, record multiple instances of Agent, e.g., cast and credits, associat
 Variants may include both the Agents of the original Work and of the particular Variant, or just those pertaining to the particular Variant, e.g. additional cast in reinserted scenes in a Director’s Cut, new credits relating to digital special effects in a special edition with new CGI effects, cast used for a dubbed version, etc. 
 
 <a id="sec-agent_activity_works_variants"></a>
-### Agent Activity – Works or Variants
+### Agent Activity for Works or Variants
 This describes the activity or role of the Agent in relation to the moving image Work or Variant (e.g. credit terms). 
 
 Record one or more Agent Activity terms, for example, “animator,” “cast,” “choreographer,” “production company” etc., to express the nature of the agent’s relationship to the Work or Variant. 
