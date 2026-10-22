@@ -4,7 +4,18 @@ An Agent can be a Person, a Corporate body, a Collective agent, or a Family. [IN
 Record the Agent(s) and their function in the terms and language in which they appear, either in the sources of information or in the language of the institution, or both.[^1] 
 
 Optionally, if the Agent is credited under a name that is not identical with the preferred name from an authority file, record the name as used in the current instance of the related entity. 
-Some databases may include fields and structures to deal with various alternative or credited forms of the Agent name. 
+Some databases may include fields and structures to deal with various alternative or credited forms of the Agent name. These may vary from institution to institution according to the types of moving image material held. 
+
+Because responsibility for moving image materials is most often complex and highly diverse, institutions - particularly those with special interests - should determine the number of Agents and the types of roles and activities they wish to include, e.g. the total of all cast and credits of a Work.
+
+| **Work** | **Variant** | **Manifestation** | **Item** |
+| --- | --- | --- | --- |
+| Cast | Dubbing cast | Distributor/Publisher | Acquisition source (e.g. donor) |
+| Cinematographer/ Director of photography | Additional credits | Broadcaster | Curator |
+| Presenter | Additional cast | Streaming Channel | Lab technician |
+| Director |  | Manufacturer | Archivist |
+| Producer |  |  |  |
+| Production Company |  |  |  |
 
 **Authority Records**
 
@@ -73,18 +84,6 @@ Having these identification factors are important for both public users or resea
 
 Agent(s) may also have relationships to an instance of a specific [Event](/events/events/index.md) or of an “Other” relationship in connection with the Work, Variant, Manifestation or Item, e.g. cinema of a premiere screening, film classification body, film laboratory, etc. 
 
-Because responsibility for moving image materials is most often complex and highly diverse, institutions - particularly those with special interests - should determine the number of Agents and the types of roles and activities they wish to include. 
-
-These may vary from institution to institution according to the types of moving image material held. 
-
-| **Work** | **Variant** | **Manifestation** | **Item** |
-| --- | --- | --- | --- |
-| Cast | Dubbing cast | Distributor/Publisher | Acquisition source (e.g. donor) |
-| Cinematographer/ Director of photography | Additional credits | Broadcaster | Curator |
-| Presenter | Additional cast | Streaming Channel | Lab technician |
-| Director |  | Manufacturer | Archivist |
-| Producer |  |  |  |
-| Production Company |  |  |  |
 
 A more in depth look at Agents, especially within an RDA/LRM context can be found here [ADD LINK TO CIRCE'S PAPER AND DIAGRAMS - yET TO BE UPLOADED ONTO CDC WEBSITE SECTION]
 
