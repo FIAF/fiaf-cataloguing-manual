@@ -27,3 +27,7 @@ Optionally, when the role performed by an Agent is probable but not certain, pro
 Besides the principal Agent Activities suggested, institutions, particularly those with special interests, should create and apply in-house value lists of other specific Agent activities, which may vary from institution to institution. 
 
 Record in a note any additional details that cannot be expressed through controlled terms.
+
+<a id="sec-acquisitions"></a>
+### Acquisitions
+Manages the purchase and acquisition of rights and materials for the archive, including films, series, television programs, and other moving image content. This involves negotiating contracts, evaluating materials, managing budgets, and ensuring the proper documentation and preservation of acquired materials. See also [Events](/events/event_types/#sec-acquisition).
