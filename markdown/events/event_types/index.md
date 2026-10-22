@@ -18,4 +18,6 @@
 Record one or more Event types to express the nature of the Event’s relationship to the Work, Variant, Manifestation, or Item. The table above demonstrates what Event Type is applicable with each of those.
 Publication Types are not pertinent to Works or Variants in systems using a 4 or 3-level hierarchy as these both have Manifestations and it is the latter that are published.
 
-Some Event Types relate to the Item: Acquisition, Accession, Loan, Deposit, De-Acquisition and Inspection Events. Those institutions which use systems that do not have or use Events will usually capture this data in fields embedded within the Item record or linking to records in another database, e.g. a possible separate Donors database with its own acquisition records capturing names and dates; or similarly an Accessions database, etc.
+Some Event Types relate to the **Item**: 
+
+Acquisition, Accession, Loan, Deposit, De-Acquisition and Inspection Events. Those institutions which use systems that do not have or use Events will usually capture this data in fields embedded within the Item record or linking to records in another database, e.g. a possible separate Donors database with its own acquisition records capturing names and dates; or similarly an Accessions database, etc.
