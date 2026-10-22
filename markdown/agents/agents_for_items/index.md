@@ -14,7 +14,7 @@ An institution should determine the types of functions they wish to include in t
 These functions may vary from institution to institution according to the types of moving image material held and range of activities. 
 
 <a id="sec-agent_activity_items"></a>
-## Agent Activity – Items
+## Agent Activity for Items
 Describes the activity of the Agent to make explicit the relationship(s) between the Agent and the Item. 
 
 Record one or more Agent activity terms, for example, “preservationist,” “curator,” “acquisition source” or "donor", "technical reviewer", “relevant in-house job title” etc., to express the nature of the Agent’s relationship to the Item. Selection should ideally be made from a controlled list of terms. 
