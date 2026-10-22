@@ -1,7 +1,7 @@
 
-An Agent can be a Person, a Corporate body, a Collective agent, or a Family. [INSERT FOOTNOTE RDA/LRM Agent entity and subtypes]
+An Agent can be a Person, a Corporate body, a Collective agent, or a Family. [INSERT FOOTNOTE RDA/LRM Agent entity and subtypes].[^1] 
 
-Record the Agent(s) and their function in the terms and language in which they appear, either in the sources of information or in the language of the institution, or both.[^1] 
+Record the Agent(s) and their function in the terms and language in which they appear, either in the sources of information or in the language of the institution, or both.[^2] 
 
 Optionally, if the Agent is credited under a name that is not identical with the preferred name from an authority file, record the name as used in the current instance of the related entity. 
 Some databases may include fields and structures to deal with various alternative or credited forms of the Agent name. These may vary from institution to institution according to the types of moving image material held. 
@@ -87,5 +87,6 @@ Agent(s) may also have relationships to an instance of a specific [Event](/event
 
 A more in depth look at Agents, especially within an RDA/LRM context can be found here [ADD LINK TO CIRCE'S PAPER AND DIAGRAMS - yET TO BE UPLOADED ONTO CDC WEBSITE SECTION]
 
-[^1]: For recording the attributes of Agents (e.g. first name, last name, nationality, etc.), refer to authoritative sources such as AACR2, applicable RDA chapters for recording attributes of Persons, Families, and Corporate Bodies(see RDA 2.20.7.3). Functional requirements for authority data: a conceptual model (Patton, Glenn E. 2009. Functional requirements for authority data: a conceptual model. München: K.G. Saur), or tools such as the Virtual International Authority File (VIAF) (viaf.org), Library of Congress Linked Data Service (id.loc.gov), Getty Union List of Artists Names (ULAN),  BnF (France), GND (Germany), Bnelab (Spain), the [Library of Congress Name Authority File](https://id.loc.gov/authorities/names.html), or International Standard Name Identifier (ISNI). It is also recommended where possible to register key Agents with any of the aforementioned authority bodies if they are not already included. 
+[^1]: EN 15907, 5.1 Agent
+[^2]: For recording the attributes of Agents (e.g. first name, last name, nationality, etc.), refer to authoritative sources such as AACR2, applicable RDA chapters for recording attributes of Persons, Families, and Corporate Bodies(see RDA 2.20.7.3). Functional requirements for authority data: a conceptual model (Patton, Glenn E. 2009. Functional requirements for authority data: a conceptual model. München: K.G. Saur), or tools such as the Virtual International Authority File (VIAF) (viaf.org), Library of Congress Linked Data Service (id.loc.gov), Getty Union List of Artists Names (ULAN),  BnF (France), GND (Germany), Bnelab (Spain), the [Library of Congress Name Authority File](https://id.loc.gov/authorities/names.html), or International Standard Name Identifier (ISNI). It is also recommended where possible to register key Agents with any of the aforementioned authority bodies if they are not already included. 
 
