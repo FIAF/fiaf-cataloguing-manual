@@ -6,7 +6,7 @@
 <center><object data="/images/Picture5itemagents.jpg" width="100%"></object></center>
 
 
-Full names pertaining to in-house staff are advisable for clarity, rather than initials of individuals. 
+Full names pertaining to in-house staff are advisable for clarity, rather than initials of individuals, if data security permitts.
 
 Agent(s) may also have relationships to an instance of a specific Event or of an “Other” relationship in connection with the Item. 
 
