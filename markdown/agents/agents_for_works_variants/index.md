@@ -1,6 +1,6 @@
 
 <a id="sec-agents_for_works_variants"></a>
-## Agents for Works/Variants (e.g. Cast, Credits, Person, Organisation, etc.)
+## Agents for Works or Variants
 !!! abstract "Definition"
     An Agent is defined as an entity that is involved in the creation, realisation, curation or exploitation of a                Work/Variant and who is considered to have major responsibility for, or be of major importance to, the Work/Variant. 
     Typical distinctions between Agent types are Person, Collective Agent, Corporate Body, and Family.[^1] 
