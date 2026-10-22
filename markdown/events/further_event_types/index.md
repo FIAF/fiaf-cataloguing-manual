@@ -6,7 +6,7 @@ Record one or more Event type, for example, “decision,” “manufacture,” e
 
 For Manifestations, a Publication Event corresponds to a screening, broadcast, streaming, or the release of the Manifestation of a Work or Variant on a physical distribution medium or online.
 
-A Publication Event may be associated with instances of Agent in the role of e.g., publisher, distributor, broadcaster[^1], etc. See [Distributor (theatrical)](../../agents/agents_for_manifestations/index.md#sec-distributor_theatrical) and [Agent Types](/agents/agents/index.md).
+A Publication Event may be associated with instances of Agent in the role of e.g., publisher, distributor, broadcaster[^1], etc. See [Distributor (theatrical)](../../agents/agents_for_manifestations/index.md#sec-distributor_theatrical) and [Agents](/agents/agents/index.md).
 
 A Publication Event may be associated with instances of [Other Relationships](/other_relationships/other_relationships_for_works_variants_manifestations_items/#sec-work_variant_other_relationship_types) (e.g., promotional material of the theatrical distribution, the advertising of the home video publication, etc.).
 
