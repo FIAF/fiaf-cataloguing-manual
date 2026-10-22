@@ -29,7 +29,7 @@ And ideally, also include the following, as applicable and if known:
 -  nationality
 -  VIAF or other international name identifier
 
-As with establishing country of reference for a moving image ([ADD LINK BACK TO THIS]), place/country/nationality may be impacted by historical geopolitical considerations, e.g. those Agents who were born and died in areas of what was previously northern India before partition, but which are now in Pakistan or Bangladesh. 
+As with establishing [country of reference for a moving image work](/work/elements_of_a_work_variant/#sec-country_of_reference), place/country/nationality may be impacted by historical geopolitical considerations, e.g. those Agents who were born and died in areas of what was previously northern India before partition, but which are now in Pakistan or Bangladesh. 
 
 In database systems where place and country of birth/death are together in one field and taken from controlled lists of terms that default to the most recent corresponding country, then qualifying notes should ideally be added for clarity, for example:
 
