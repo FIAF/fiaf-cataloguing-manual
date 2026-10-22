@@ -2,10 +2,10 @@
 <a id="sec-agents_for_works_variants"></a>
 ## Agents for Works or Variants
 !!! abstract "Definition"
-    An Agent is defined as an entity that is involved in the creation, realisation, curation or exploitation of a                Work/Variant and who is considered to have major responsibility for, or be of major importance to, the Work/Variant. 
+    An Agent is defined as an entity that is involved in the creation, realisation, curation or exploitation of a                Work/Variant and who is considered to have major responsibility for, or be of major importance to, the Work or Variant. 
     Typical distinctions between Agent types are Person, Collective Agent, Corporate Body, and Family.[^1] 
 
-This includes cast and credits for the Work/Variant. 
+This includes cast and credits for the Work or Variant. 
 
 An institution should determine the types and quantity of activities they wish to include or capture in their records. 
 These activities may vary from institution to institution according to the types of moving image material held. 
@@ -31,13 +31,13 @@ Optionally, record multiple instances of Agent, e.g., cast and credits, associat
 Variants may include both the Agents of the original Work and of the particular Variant, or just those pertaining to the particular Variant, e.g. additional cast in reinserted scenes in a Director’s Cut, new credits relating to digital special effects in a special edition with new CGI effects, cast used for a dubbed version, etc. 
 
 <a id="sec-agent_activity_works_variants"></a>
-### Agent Activity – Works/Variants
-This describes the activity or role of the Agent in relation to the moving image Work/Variant (e.g. credit terms). 
+### Agent Activity – Works or Variants
+This describes the activity or role of the Agent in relation to the moving image Work or Variant (e.g. credit terms). 
 
 Record one or more Agent Activity terms, for example, “animator,” “cast,” “choreographer,” “production company” etc., to express the nature of the agent’s relationship to the Work or Variant. 
 Choose the single most specific term, if possible. Selection should be made from a controlled list of terms, such as the [FIAF Glossary of Filmographic Terms](http://www.fiafnet.org/publications/GlossaryMasterComboMarch2015.html). 
 
-If no suggested terms apply, compose a term to describe the relationship between the Agent and the Work/Variant being catalogued. 
+If no suggested terms apply, compose a term to describe the relationship between the Agent and the Work or Variant being catalogued. 
 If the relationship is ambiguous, use a value to indicate this, for example, “unknown” or “on-screen participant” to indicate a person appearing on screen in a capacity that is indeterminate or not covered by typical terms.[^3] 
 Optionally, when the role performed by an Agent is probable but not certain, provide the function name followed by a question mark. 
 
