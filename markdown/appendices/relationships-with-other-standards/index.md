@@ -50,7 +50,7 @@ Existing standards for describing Entities include:
     - Section 4: Concept, Object, Event & Place (Chapters 12-16)
     - Appendix F: Additional Instructions on Names of Persons
     
-- ISAAR (CPF): International Standard Archival Authority Record for Corporate Bodies, Persons and Families, 2nd Edition ([http://www.ica.org/10203/standards/isaar-cpf-international-standard-archival-authority-record-for-corporate-bodies-persons-and-families-2nd-edition.html](http://www.ica.org/10203/standards/isaar-cpf-international-standard-archival-authority-record-for-corporate-bodies-persons-and-families-2nd-edition.html)) - International Council of Archives);
+- ISAAR (CPF): International Standard Archival Authority Record for Corporate Bodies, Persons and Families, 2nd Edition ([https://web.archive.org/web/20130926082855/http://www.ica.org/10203/standards/isaar-cpf-international-standard-archival-authority-record-for-corporate-bodies-persons-and-families-2nd-edition.html](https://web.archive.org/web/20130926082855/http://www.ica.org/10203/standards/isaar-cpf-international-standard-archival-authority-record-for-corporate-bodies-persons-and-families-2nd-edition.html)) - International Council of Archives);
 
 - EFG Metadata Schema & Vocabularies – 3.6 Agent ([http://www.efgproject.eu/guidelines_and_standards.php](http://www.efgproject.eu/guidelines_and_standards.php))
 
@@ -139,7 +139,7 @@ The basic principle of transcription is an area in which archival moving image c
 
 Because, however, it is not always possible for a cataloguer to determine an original release title, guidelines are also provided for choice of the preferred title of the work when either: 1) the concept of original release title is not applicable (as in the case of unedited footage), or when 2) a cataloguer is unable, through research, to determine the original release title.
 
-[^3]: The other two conceptual models are FRAD (Functional Requirements for Authority Data), [http://www.ifla.org/node/7923](http://www.ifla.org/node/7923) and FRSAD Functional Requirements for Subject Authority Data, [http://www.ifla.org/node/1297](http://www.ifla.org/node/1297).
+[^3]: The other two conceptual models are FRAD (Functional Requirements for Authority Data), [https://web.archive.org/web/20200907170311/https://www.ifla.org/node/7923](https://web.archive.org/web/20200907170311/https://www.ifla.org/node/7923) and FRSAD Functional Requirements for Subject Authority Data, [https://web.archive.org/web/20200726052520/https://www.ifla.org/node/1297](https://web.archive.org/web/20200726052520/https://www.ifla.org/node/1297).
 [^4]: FRBR Final Reports, p. 3.
 [^5]: RDA 0.0 and 0.1, p. 0-1.
 [^6]: [https://tech.ebu.ch/MetadataEbuCore](https://tech.ebu.ch/MetadataEbuCore)

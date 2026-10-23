@@ -1,5 +1,5 @@
 
-A/V Artifact Atlas [online]. Last modified on 26 October 2015 [viewed 2016-04-04]. Available from: [http://avaa.bavc.org/artifactatlas/index.php/A/V_Artifact_Atlas](http://avaa.bavc.org/artifactatlas/index.php/A/V_Artifact_Atlas)
+A/V Artifact Atlas [online]. Last modified on 26 October 2015 [viewed 2026-10-24]. Available from: [https://web.archive.org/web/20160308013530/http://avaa.bavc.org/artifactatlas/index.php/A/V_Artifact_Atlas](https://web.archive.org/web/20160308013530/http://avaa.bavc.org/artifactatlas/index.php/A/V_Artifact_Atlas)
 
 ALA-LC Romanization Tables [online]. Last Updated: 02/24/2016 [viewed 2016-04-04]. Available from: [http://www.loc.gov/catdir/cpso/roman.html](http://www.loc.gov/catdir/cpso/roman.html)
 
@@ -7,13 +7,13 @@ Anglo-American cataloguing rules. 2nd ed., 2002 revision, 2005 update. Ottawa: C
 
 Archival moving image materials: a cataloging manual. 2nd ed. AMIM Revision Committee. Motion Picture, Broadcasting, and Recorded Sound Division. Washington: Library of Congress, Cataloging Distribution Service, 2000. 1 v. (loose-leaf). ISBN 0-8444-1008-X. Also available from: [http://www.itsmarc.com/crs/mergedProjects/archmov/archmov/Contents.htm](http://www.itsmarc.com/crs/mergedProjects/archmov/archmov/Contents.htm)
 
-COPYRIGHT BOARD OF CANADA. Unlocatable copyright owners: brochure [online]. [Viewed 2016-04-04]. Available from: [http://www.cb-cda.gc.ca/unlocatable-introuvables/brochure1-e.html](http://www.cb-cda.gc.ca/unlocatable-introuvables/brochure1-e.html)
+COPYRIGHT BOARD OF CANADA. Unlocatable copyright owners: brochure [online]. [Viewed 2026-10-24]. Available from: [https://web.archive.org/web/20170331031228/http://www.cb-cda.gc.ca/unlocatable-introuvables/brochure1-e.html](https://web.archive.org/web/20170331031228/http://www.cb-cda.gc.ca/unlocatable-introuvables/brochure1-e.html)
 
 Copyright Law of the United States of America and Related Laws Contained in Title 17 of the United States Code [online]. Washington: U.S. Copyright Office [viewed 2016-04-04]. Available from: [http://www.copyright.gov/title17/92chap1.html](http://www.copyright.gov/title17/92chap1.html)
 
 Describing archives: a content standard. Chicago: Society of American Archivists, 2004. xxii, 269 p. ISBN 1-931666-08-3.
 
-EBUVideoCompressionCode [online]. Version Date: 03.08.2010 [viewed 2016-04-04]. Available from: [https://www.ebu.ch/metadata/cs/web/ebu_VideoCompressionCodeCS_p.xml.htm](https://www.ebu.ch/metadata/cs/web/ebu_VideoCompressionCodeCS_p.xml.htm)
+EBUVideoCompressionCode [online]. Version Date: 03.08.2010 [viewed 2026-10-24]. Available from: [https://web.archive.org/web/20100415174921/http://www.ebu.ch/metadata/cs/web/ebu_VideoCompressionCodeCS_p.xml.htm](https://web.archive.org/web/20100415174921/http://www.ebu.ch/metadata/cs/web/ebu_VideoCompressionCodeCS_p.xml.htm)
 
 EN 15744:2009, Film identification – Minimum set of metadata for cinematographic works.
 
@@ -35,7 +35,7 @@ FIAF. Glossary of technical terms [online]. [Viewed 2016-04-04]. Available from:
 
 Final report of the Working group on Aggregates [online]. September 12, 2011 [viewed 2016-04-04]. 20 p. Available in PDF from: [http://www.ifla.org/files/assets/cataloguing/frbrrg/AggregatesFinalReport.pdf](http://www.ifla.org/files/assets/cataloguing/frbrrg/AggregatesFinalReport.pdf)
 
-Frequently Asked Questions about Library of Congress Genre/Form Terms for Library and Archival Materials (LCGFT) [online]. Revised June 6, 2011 [viewed 2016-04-04]. 20 p. Available from: [http://www.loc.gov/catdir/cpso/genre_form_faq.pdf](http://www.loc.gov/catdir/cpso/genre_form_faq.pdf)
+Frequently Asked Questions about Library of Congress Genre/Form Terms for Library and Archival Materials (LCGFT) [online]. Revised June 6, 2011 [viewed 2026-10-24]. 20 p. Available from: [https://web.archive.org/web/20140321044952/http://www.loc.gov/catdir/cpso/genre_form_faq.pdf](https://web.archive.org/web/20140321044952/http://www.loc.gov/catdir/cpso/genre_form_faq.pdf)
 
 GETTY RESEARCH INSTITUTE. Getty thesaurus of geographic names online [online]. The J. Paul Getty Trust, c2015 [viewed 2016-04-04]. Available from: [http://www.getty.edu/research/tools/vocabularies/tgn/index.html](http://www.getty.edu/research/tools/vocabularies/tgn/index.html)
 
@@ -121,9 +121,9 @@ Media Types [online]. Last Updated 2016-04-18 [viewed 2016-04-18]. Available fro
 
 NATIONAL FILM AND SOUND ARCHIVE OF AUSTRALIA. Technical glossary [online]. [Viewed 2016-04-04]. Available from: [http://www.nfsa.gov.au/preservation/glossary/](http://www.nfsa.gov.au/preservation/glossary/)
 
-OLAC CAPC. Moving Image Work-Level Records Task Force. Final report and recommendations. Part IIIa: Operational definitions: a thought experiment [online]. August 21, 2009 [viewed 2016-04-04]. 39 p. Available in PDF from: [http://olacinc.org/drupal/capc_files/MIW_3a.pdf](http://olacinc.org/drupal/capc_files/MIW_3a.pdf)
+OLAC CAPC. Moving Image Work-Level Records Task Force. Final report and recommendations. Part IIIa: Operational definitions: a thought experiment [online]. August 21, 2009 [viewed 2026-10-24]. 39 p. Available in PDF from: [https://web.archive.org/web/20110702223309/http://olacinc.org/drupal/capc_files/MIW_3a.pdf](https://web.archive.org/web/20110702223309/http://olacinc.org/drupal/capc_files/MIW_3a.pdf)
 
-OLAC CAPC. Moving Image Work-Level Records Task Force. Report and recommendations. Part I: Moving image work definition and boundaries. Part II: Core attributes and relationships [online]. January 5, 2009 [viewed 2016-04-04]. 21 p. Available in PDF from: [http://olacinc.org/drupal/capc_files/MIW_1-2.pdf](http://olacinc.org/drupal/capc_files/MIW_1-2.pdf)
+OLAC CAPC. Moving Image Work-Level Records Task Force. Report and recommendations. Part I: Moving image work definition and boundaries. Part II: Core attributes and relationships [online]. January 5, 2009 [viewed 2026-10-24]. 21 p. Available in PDF from: [https://web.archive.org/web/20110702223332/http://olacinc.org/drupal/capc_files/MIW_1-2.pdf](https://web.archive.org/web/20110702223332/http://olacinc.org/drupal/capc_files/MIW_1-2.pdf)
 
 Open Metadata Registry [online]. [Viewed 2016-04-04]. Available from: [http://meta-dataregistry.org/](http://meta-dataregistry.org/)
 
@@ -139,7 +139,7 @@ PBCore instantiationPhysical. In: Open Metadata Registry [online]. [Viewed 2016-
 
 RDA STEERING COMMITTEE. RDA: Resource description and access [online]. American Library Association; Canadian Library Association; Facet Publishing, the publishing arm of CILIP: the Chartered Institute of Library and Information Professionals, c2010 [viewed 2016-04-04]. Available from: [http://www.rdatoolkit.org/](http://www.rdatoolkit.org/)
 
-ROSENBAUM, Jonathan – THOMAS, François. Dossier Mr. Arkadin. In: Cineteca del Comune di Bologna. Il cinema ritrovato 2006.: 20. edizione: sabato 1 luglio-sabato 8 luglio. Bologna: Cineteca del Comune di Bologna, 2006, p. 154. Also available from: [http://www.cinetecadibologna.it/files/festival/CinemaRitrovato/archivio/catalogo2006.pdf](http://www.cinetecadibologna.it/files/festival/CinemaRitrovato/archivio/catalogo2006.pdf)
+ROSENBAUM, Jonathan – THOMAS, François. Dossier Mr. Arkadin. In: Cineteca del Comune di Bologna. Il cinema ritrovato 2006.: 20. edizione: sabato 1 luglio-sabato 8 luglio. Bologna: Cineteca del Comune di Bologna, 2006, p. 154. Also available from: [https://web.archive.org/web/20190417185102/http://www.cinetecadibologna.it/files/festival/CinemaRitrovato/archivio/catalogo2006.pdf](https://web.archive.org/web/20190417185102/http://www.cinetecadibologna.it/files/festival/CinemaRitrovato/archivio/catalogo2006.pdf)
 
 ROSS, Thelma – BALZER, Detlev – MCCONNACHIE, Stephen. The EN 15907 moving image metadata schema standard and its role in a DAM infrastructure. In: Journal of Digital Media Management. ISSN 2047-1300, 2013, vol. 2, no. 3, pp. 251-262.
 

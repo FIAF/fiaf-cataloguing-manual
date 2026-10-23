@@ -5,7 +5,7 @@ The boundaries between a moving image Work and its Variant(s) (i.e. where a Vari
 
 When an institution has set a policy not to use Variants, the boundaries will usually be between a Work and Manifestations, i.e., a new Manifestation linked to the Work would be created rather than a Variant, or else a separate new Work, depending on assessment of the level of change or variation.
 
-Boundaries for this decision are akin to the concepts of “versions with major changes” and “variations with minor changes” in the [FIAF Cataloguing Rules for Film Archives (1991)](/https://www.fiafnet.org/images/tinyUpload/E-Resources/Commission-And-PIP-Resources/CDC-resources/FIAF_Cat_Rules.pdf)
+Boundaries for this decision are akin to the concepts of “versions with major changes” and “variations with minor changes” in the [FIAF Cataloguing Rules for Film Archives (1991)](https://www.fiafnet.org/images/tinyUpload/E-Resources/Commission-And-PIP-Resources/CDC-resources/FIAF_Cat_Rules.pdf)
 
 !!! example "Example"
     Our herring industry (GB, 1932) is the shortened version of Drifters (GB, 1929).

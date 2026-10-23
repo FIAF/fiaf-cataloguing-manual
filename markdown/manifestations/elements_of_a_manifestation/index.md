@@ -507,8 +507,8 @@ Dates and country of Manifestation are not elements of a Manifestation under EN 
 [^3]: Based on FIAF 1991, 5.3.4.2.
 [^4]: The V-ISAN represents the third segment of the ISAN number, which consists of a 96-bits number structured as follows: the first is the root, which identifies the work, the second is the episode section, which identifies the part within a multi-part work, the third is the so-called version section, which identifies variants and Manifestations (particularly as far as format changes and “media embodiments”, such as Blu-Ray, digital files, tapes, etc.., are concerned): see [http://www.isan.org/docs/isan_user_guide.pdf](http://www.isan.org/docs/isan_user_guide.pdf), Version 2.2.2. February 2012, 13/49.
 [^5]: DOI (= Digital Object Identifier): see [http://www.doi.org/](http://www.doi.org/).
-[^6]: This definition from Academy Film Archive in-house glossary of terms, and OLAC, Moving Image Works, Part 3a: Operational Definitions (08/09) (PDF Document), [http://olacinc.org/drupal/capc_files/MIW_3a.pdf](http://olacinc.org/drupal/capc_files/MIW_3a.pdf).
-[^7]: OLAC, Moving Image Works, Part 3a: Operational Definitions (08/09) (PDF Document), [http://olacinc.org/drupal/capc_files/MIW_3a.pdf](http://olacinc.org/drupal/capc_files/MIW_3a.pdf)
+[^6]: This definition from Academy Film Archive in-house glossary of terms, and OLAC, Moving Image Works, Part 3a: Operational Definitions (08/09) (PDF Document), [https://web.archive.org/web/20110702223309/http://olacinc.org/drupal/capc_files/MIW_3a.pdf](https://web.archive.org/web/20110702223309/http://olacinc.org/drupal/capc_files/MIW_3a.pdf).
+[^7]: OLAC, Moving Image Works, Part 3a: Operational Definitions (08/09) (PDF Document), [https://web.archive.org/web/20110702223309/http://olacinc.org/drupal/capc_files/MIW_3a.pdf](https://web.archive.org/web/20110702223309/http://olacinc.org/drupal/capc_files/MIW_3a.pdf).
 [^8]: This definition from Academy Film Archive in-house glossary of terms.
 [^9]: RDA 3.17. 01
 [^10]: Based on AMIM2 5C3.
