@@ -19,15 +19,10 @@ As existing Items are inspected and assessed as part of the materials selection 
 
 Similarly, extra research carried out as part of a restoration project may provide further relevant information about both the original Work and restoration(s) that can be added to the Work record to enhance it, e.g. missing credits, production details, etc.
 
-## Restorations - Works/Variants
-
-Some restorations are simply improving the film/colour/sound quality of deteriorating original prints, without inserting any missing or extra scenes or new music scores, etc.
-
-These would equate with minor changes in versions and not need a new Work record created, although a Variant record would be created in 4-level hierarchy structures and systems. Any technical information relating to the restoration would be added to a new Manifestation/Item record.
-
+## Restoration constitutes a new Work or Variant
 In the large majority of cases it will not be necessary to create a new Work record for a Restoration. Since a restoration involves copying pre-existing Items in Collections, which would normally already be linked to a Work record via Manifestation(s), it is usually a matter of creating a new linked Variant (if used) with a new Restoration Manifestation, and associating the Items created as part of the restoration process to that Restoration Manifestation. 
 
-<center><object data="/diagrams/resjaws1.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+<center><object data="/diagrams/resjaws1.drawio.svg" type="image/svg+xml" width="80%"></object></center>
 
 Or if Variants are not used then:
 
@@ -39,9 +34,13 @@ New Work with titling reflecting its nature, i.e. Film title [Restoration Produc
 
 Where a restoration involves substantial editing of the original Work, e.g. new found scenes which may change the whole storyline or its slant, or, in systems that do not use Variants, multiple new cast/credits that differ from or are in addition to those of the original Work; then a new Work for the restoration should be created.
 
-Further information regarding whether a new Work is needed or not can be found in the Boundaries between Works and Boundaries between Works and Variants sections of this Manual [ADD LINK HERE]
+Further information regarding whether a new Work is needed or not can be found in the [Boundaries between Works](/boundaries/boundaries_between_works/index.md) and [Boundaries between Works and Variants](/boundaries/boundaries_between_works_and_variants/index.md) sections of this Manual.
 
 The original Work and any new restoration Work should be linked in an associative relationship with each other. The Restoration Manifestation, and its associated Items, should then be linked as part of the new Work.
+
+Some restorations are simply improving the film/colour/sound quality of deteriorating original prints, without inserting any missing or extra scenes or new music scores, etc.
+
+These would equate with minor changes in versions and not need a new Work record created, although a Variant record would be created in 4-level hierarchy structures and systems. Any technical information relating to the restoration would be added to a new Manifestation/Item record.
 
 ## Restorations - Manifestations
 
