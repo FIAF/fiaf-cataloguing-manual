@@ -85,7 +85,7 @@ It was common, especially in the silent film industry, to make different endings
 !!! example "Example"    
     Work Title: Saïd Effendi (Iraq, 1957. Kameran Hosni)    
     Variant Title: Saïd Effendi (Iraq, 2025)    
-    4K digital restoration of the black and white film, restored by the Iraqi Cinematheque Project and The Al-Hasan      Ibn     Al-Haytham Committee for Iraqi Visual Memory, and the Institut National de l'Audiovisuel (INA).  
+    4K digital restoration of the black and white film, restored by the Iraqi Cinematheque Project and The Al-Hasan Ibn         Al-Haytham Committee for Iraqi Visual Memory, and the Institut National de l'Audiovisuel (INA).  
 
 !!! example "Example"    
     Work Title: Touki Bouki (Senegal, 1973. Djibril Diop Mambéty)  
