@@ -140,6 +140,8 @@ A Preservation/Restoration Event is associated with a new Variant, Manifestation
 
 This includes statements about past or future treatments scheduled for the item.  If desired and if applicable, record one or more general types of past or future treatment activities (e.g. "added leaders", "cleaned ultrasonically", "tears repair", etc.). Selection should be made from a controlled list of values. See also [Item Chapter](/items/elements_of_a_moving_image_item/#sec-item_copy_condition_base_emulsion_film_and_video).
 
+A useful collection of technical metadata on digital Items as well as data collected during digitisation, can be found [here](https://docs.google.com/spreadsheets/d/1cm4KBG_e-bdMppKOcYsFTck7vv5rJDwRI9z0RYX5bNM/edit?gid=646006523#gid=646006523). This spreadsheet was created by a Task Force in the CDC, headed by Elzbieta Wysocka.
+
 A Preservation/Restoration Event has as typical Agent(s) the institution(s) or individual professionals that make preservation decisions. Selection should be made from a controlled list of values. See [Agents](/agents/agents/index.md).
 
 A Preservation/Restoration Event can be in relationship with instances of [Other Relationships](/other-relationships/other_relationships_for_works_variants_manifestations_items/#sec-work_variant_other_relationship_types) (such as technical reports, documentation material, promotional material for the specific project, etc.).
@@ -181,11 +183,9 @@ This can include:
 -	Technical, aesthetic or ethical decisions  
 -	Recommendations for further work (details concerning limitations due to source material, resources, technology, etc.)  
 
-A Preservation/Restoration Event can be used in conjunction with Preservation or Restoration type Manifestations as relevant.
+A Preservation/Restoration Event can be used in conjunction with [Preservation or Restoration type Manifestations](/manifestations/attributes_of_a_manifestation) as relevant.
 
-[INSERT ILLUSTRATIVE DIAGRAMS USING BOTH HERE]
-
-A useful collection of technical metadata on digital Items as well as data collected during digitisation, can be found [here](https://docs.google.com/spreadsheets/d/1cm4KBG_e-bdMppKOcYsFTck7vv5rJDwRI9z0RYX5bNM/edit?gid=646006523#gid=646006523). This spreadsheet was created by a Task Force in the CDC, headed by Elzbieta Wysocka.
+For further examples, particularly for scanning analogue items, see also the [Items chapter](/items/index.md).
 
 <a id="sec-decision"></a>
 ## Decision[^4]
