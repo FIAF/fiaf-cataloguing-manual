@@ -386,7 +386,7 @@ The date on which the Item was physically removed from an institution's collecti
 
 <a id="sec-inspection"></a>
 ## Inspection
-The inspection of a particular Item for the purposes of assessing and recording the condition or treatment of the Item. This frequently ties in with a [Preservation/Restoration Event](/events/further_event_types/#sec-preservation_restoration).
+The inspection of a particular Item for the purposes of assessing and recording the condition or treatment of the Item. This frequently ties in with a Preservation or Restoration of the Item.
 
 An Inspection Event may be associated with instances of Agent in the role of e.g. inventory archivist, lab technician, projectionist, etc.
 
