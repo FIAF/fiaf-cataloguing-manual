@@ -412,7 +412,7 @@ The date or time span in which the inspection activity was performed. (Dates sho
 
 **Inspection detail**
 
-Information describing the condition of the Item in greater detail. In many cases there will be fields embedded in Item records that relate to condition and different inspections. See [Item Condition](/items_elements_of_a_moving_image_item/#sec-access_condition)
+Information describing the condition of the Item in greater detail. In many cases there will be fields embedded in Item records that relate to condition and different inspections. See [Item Condition](/items/elements_of_a_moving_image_item/#sec-access_condition)
 
 [^1]: EN 15907, 6.12 Award, pp. 25-26.
 [^2]: Adapted from EN 15907 6.11 Production Event, p. 20
