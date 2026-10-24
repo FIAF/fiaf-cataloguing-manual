@@ -52,24 +52,6 @@ In general, make the following notes, if they are considered to be important:[^4
 
 The following instructions for notes should be considered neither all-inclusive nor mandatory. The number and type of notes included in a description must be dictated by the moving images being described and the needs of the individual institution.[^5]
 
-<a id="sec-boundaries"></a>
-## Boundaries
-Provide additional or explanatory information that clarifies boundary decisions, particularly in cases where the system used does not allow for the clear representation of all the WVMI entities.
-
-See the following examples.[^6]
-
-!!! example "Example"
-    Version information (re-editing and new narration) from copyright descriptive material.
-
-!!! example "Example"
-    Censored version.
-
-!!! example "Example"
-    Remake of the 1941 motion picture, Here comes Mr. Jordan.
-    Originally developed for ABC-TV.
-
-!!! example "Example"
-    Teaching version includes questions for discussion about the novel’s theme and philosophy presented in a classroom setting at the end of the film; discussion is 10 min. in length.
 
 [^1]: Based on FIAF 7. Notes Area, Introduction and RDA 29.7.1.1 Scope, 29.7.1.2 Sources of Information
 [^2]: FIAF 7.1.3 Form of notes
