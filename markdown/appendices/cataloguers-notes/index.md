@@ -11,7 +11,8 @@ Take information recorded in notes from any suitable source.
 When creating the note, apply the guidelines on [Punctuation and Capitalisation](/preliminary/display_issues/index.md).
 
 Institutions may establish more rigorous, local guidelines as to the order of information in the notes area.
-For example, when recording notes which further describe data elements already catalogued, some institutions may stipulate the order of notes follow a particular sequence wherever possible, e.g., title, statement of responsibility, edition/version/variation, production, distribution, etc.; or, when uniformity of presentation assists in the recognition of the type of information being presented or gives economy of space without loss of clarity.[^2][^3]
+For example, when recording notes which further describe data elements already catalogued, some institutions may stipulate the order of notes follow a particular sequence wherever possible, e.g., title, statement of responsibility, edition/version/variation, production, distribution, etc.; or, when uniformity of presentation assists in the recognition of the type of information being presented or gives economy of space without loss of clarity.[^2]
+Here are some examples:[^3]
 
 !!! example "Example"
     Title, Country of reference, Year/Date and Language(s) verified by telephone call to production company, 2013-07-01.
