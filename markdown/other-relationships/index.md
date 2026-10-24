@@ -10,6 +10,18 @@ title: Other Relationships
 If other relationships[^1] are desired or appropriate, express relationships that are not covered by the Agent, Subject, and Event relationships, including all kinds of aggregation and re-use of Works and their Variants.
 (See [Aggregates (Compilations, Multi-component productions)](../../aggregates/index.md)).
 
+Record one or more “Other” relationship type terms to express the nature of the relationship to the Work or Variant, choosing the most specific term possible from a controlled list of values , for example, “based on,” “contained in,” etc. .
+A suggested list, which is open and not exhaustive, can be found in [Other Relationships for Works, Variants, Manifestations, Items](../other-relationships/other_relationships_for_works_variants_manifestations_items/index.md).
+
+Or, compose a term to describe the relationship between the Work being catalogued and the related Work.
+
+In a note, add any additional information concerning the relationship considered relevant.
+
+Describe or demonstrate Work-to-Work relationships through linking to the Work identifier of the related Work, through the usage of relator terms, or according to the confines of the institution’s data structure.
+
+Remember, a Work based on a pre-existing Work should be identified as a Variant of the same Work unless it has been so significantly changed as to have become a new related Work.[^3] See [Boundaries between Works](../boundaries/boundaries_between_works/index.md) and [Boundaries between Works and Variants](../boundaries/boundaries_between_works_and_variants/index.md) for determining when a Work should be identified as a new, but related Work and when it should be identified as a Variant of the original Work.
+
+
 These equate to the HasOtherRelation in the Relationships section of the [EN15907 data model for Work](https://filmstandards.org/fsc/index.php?title=EN_15907_HasOtherRelation).
 
 Commonly-occurring relationships include:[^2]
@@ -68,16 +80,6 @@ Commonly-occurring relationships include:[^2]
 !!! example "Example"
     The wicked lady (United Kingdom, 1945, Leslie Arliss), costume
 
-Record one or more “Other” relationship type terms to express the nature of the relationship to the Work or Variant, choosing the most specific term possible from a controlled list of values , for example, “based on,” “contained in,” etc. .
-A suggested list, which is open and not exhaustive, can be found in [Other Relationships for Works, Variants, Manifestations, Items](../other-relationships/other_relationships_for_works_variants_manifestations_items/index.md).
-
-Or, compose a term to describe the relationship between the Work being catalogued and the related Work.
-
-In a note, add any additional information concerning the relationship considered relevant.
-
-Describe or demonstrate Work-to-Work relationships through linking to the Work identifier of the related Work, through the usage of relator terms, or according to the confines of the institution’s data structure.
-
-Remember, a Work based on a pre-existing Work should be identified as a Variant of the same Work unless it has been so significantly changed as to have become a new related Work.[^3] See [Boundaries between Works](../boundaries/boundaries_between_works/index.md) and [Boundaries between Works and Variants](../boundaries/boundaries_between_works_and_variants/index.md) for determining when a Work should be identified as a new, but related Work and when it should be identified as a Variant of the original Work.
 
 <a id="sec-moving_image_works_relationships_variants"></a>
 ### Other Relationships between Works and Variants
