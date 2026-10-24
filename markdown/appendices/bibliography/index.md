@@ -125,7 +125,7 @@ OLAC CAPC. Moving Image Work-Level Records Task Force. Final report and recommen
 
 OLAC CAPC. Moving Image Work-Level Records Task Force. Report and recommendations. Part I: Moving image work definition and boundaries. Part II: Core attributes and relationships [online]. January 5, 2009 [viewed 2026-10-24]. 21 p. Available in PDF from: [https://web.archive.org/web/20110702223332/http://olacinc.org/drupal/capc_files/MIW_1-2.pdf](https://web.archive.org/web/20110702223332/http://olacinc.org/drupal/capc_files/MIW_1-2.pdf)
 
-Open Metadata Registry [online]. [Viewed 2016-04-04]. Available from: [http://meta-dataregistry.org/](http://meta-dataregistry.org/)
+Open Metadata Registry [online]. [Viewed 2016-04-04]. Available from: [http://metadataregistry.org/](http://metadataregistry.org/)
 
 PALLANTE, Maria A. Priorities and special projects of the United States Copyright Office: October 2011 – October 2013 [online]. United States Copyright Office, October 25, 2011 [viewed 2016-04-04]. 16 p. Available in PDF from: [http://copyright.gov/docs/priorities.pdf](http://copyright.gov/docs/priorities.pdf)
 
