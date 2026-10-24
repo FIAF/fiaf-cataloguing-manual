@@ -54,7 +54,9 @@ The following instructions for notes should be considered neither all-inclusive 
 
 <a id="sec-boundaries"></a>
 ## Boundaries
-Provide additional or explanatory information that clarifies boundary decisions, particularly in cases where the system used does not allow for the clear representation of all the WVMI entities.[^6]
+Provide additional or explanatory information that clarifies boundary decisions, particularly in cases where the system used does not allow for the clear representation of all the WVMI entities.
+
+See the following examples.[^6]
 
 !!! example "Example"
     Version information (re-editing and new narration) from copyright descriptive material.
