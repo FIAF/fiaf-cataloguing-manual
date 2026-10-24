@@ -76,6 +76,7 @@ It was common, especially in the silent film industry, to make different endings
 
 
 **Restoration Variant**
+For a more detailled discussion of the term restoration see also the [Appendix](/restorations/index.md).
 
 !!! example "Example"
     Work Title: Jaws (USA, 1975. Steven Spielberg)  
