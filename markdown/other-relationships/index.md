@@ -8,7 +8,7 @@ title: Other Relationships
 ### Other Relationships between Works and Other Works
 
 If other relationships[^1] are desired or appropriate, express relationships that are not covered by the Agent, Subject, and Event relationships, including all kinds of aggregation and re-use of Works and their Variants.
-(See [Aggregates (Compilations, Multi-component productions)](/appendices/aggregates/).)
+(See [Aggregates (Compilations, Multi-component productions)](../../aggregates/index.md)).
 
 These equate to the HasOtherRelation in the Relationships section of the EN15907 data model for Works. [ADD FOOTNOTE WITH LINK TO https://filmstandards.org/fsc/index.php?title=EN_15907_Cinematographic_WorK]
 
