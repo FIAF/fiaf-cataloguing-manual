@@ -40,23 +40,86 @@ If no suggested terms apply, compose a term to describe the relationship between
 If the relationship is ambiguous, use a value to indicate this, for example, “unknown” or “on-screen participant” to indicate a person appearing on screen in a capacity that is indeterminate or not covered by typical terms.[^3] 
 Optionally, when the role performed by an Agent is probable but not certain, provide the function name followed by a question mark. 
 
-It is recommended to capture these core credits on a moving image record as far as possible and where applicable:
+It is recommended to capture these core credits on a moving image record as far as possible and where applicable Here are some suggestions for core Agent Activities, which pertain mostly to current productions and don't mention historical Activities. It should be noted, that these historical functions changed quite a bit over time and also depended on the studios and generally production context.
 
 <a id="sec-director"></a>
 ### Director
+The Director is the chief creative authority on a film and is responsible for translating the screenplay into a cohesive and compelling visual story.
 
-The Director is the chief creative authority 
+<a id="sec-screenwriter"></a>
+### Screenwriter
+Writer who creates the blueprints for movies, television shows, and other visual media, such as video games and web series. This blueprint, known as a screenplay or script, details the story's visual and auditory components, including dialogue, character actions and scene descriptions.
+
+<a id="sec-cinematographer"></a>
+### Cinematographer
+Head of the camera and lightning departments on a film, television or other visual production. A cinematographer is an artist who uses technical knowledge of cameras, lenses, and lightning to interpret and translate the director#s creative vision into powerfuland striking visual imaginery.
+
+<a id="sec-producer"></a>
+### Producer
+Person who oversees and manages the entire production process. From a project's inception to its final distribution, the producer is responsible for the business, logistical and organisational aspects of filmmaking, ensuring the project is completed on time and within the budget.
+
+<a id="sec-editor"></a>
+### Editor
+Professional responsible for assembling raw footage, selecting the best shots and arranging them in a sequence to tell a cohesive, engaging story. They are a key creative collaborator during the post-production phase, working closely with the director the shape the final product.
+
+<a id="sec-sound_designer"></a>
+### Sound Designer
+Creative audio professional responsible for crafting the entire sonic of a production. Working in post-production, they go far beyond simply recording sound to create an immersive and emotionally engaging audio experience for the audience in films, television shows, video games or theatre production.
+
+<a id="sec-music_supervisor"></a>
+### Music Supervisor
+Professional for overseeing all musical aspects of a film, television show, commercial, or other media project. Their role involves both creative curating and complex business administration.
+
+<a id="sec-animation_director"></a>
+### Animation Director
+Creative head of the animation department on an animated film, television show, or video game. While a project will still have an overall film director, the animation director is responsible and the artistic and technical execution of all things related to the animation.
+
+<a id="sec-assistent_director"></a>
+### Assistant Director
+Logistical manager and organiser on a film or television set, not a creative director. The assistant director is the director's "right hand" and severs as the primary liason between the director and cast and crew. Their role is to handle the pratical day-to-day operations so that the director can focus on the creative vision.
+
+<a id="sec-production_manager"></a>
+### Production Manager
+Key administrative role for managing the day-to-day business and logistical side of a production. A production manager ensures that the project stays on schedule and within its budget. They report to the producer or line producer and oversee all "below-the-line-crew" - the technical and support staff who are not the creative principals.
+
+<a id="sec-key_makeup_artist"></a>
+### Key Makeup Artist
+Head of the makeup department on a film or television production. As the lead, they are responsible for the creative direction, execution and management of all makeup and special effects for the cast, especially the principal actors.
+
+<a id="sec-costume_designer"></a>
+### Costume Designer
+Creative professional responsible for designing, creating, and acquiring all clothing and accessories worn by the cast. Their work is a vital element of storytelling, helping to define and develop characters, establish the film's tone, and immerse the audience the story's world.
+
+<a id="sec-production_designer"></a>
+### Production Designer
+Head of the art department of a film or television production and is responsible for the overall visual concept of the project. They work closely with the director and cinematographer to create the aesthetic world of the film, ensuring that everything seen on screen contributes to the story's narrative and tone.
+
+<a id="sec-cast"></a>
+### Cast
+Refers to the entire group of actors or performers who portray the characters in a production. The cast is distinct from the crew, who are the technical and support staff who work behind the scenes.
+
+<a id="sec-voiceover_artists"></a>
+### Voice-over Artists
+Someone who performs a role as a character, while a voice-over artist might provide narration or commentary.
 
 
+<a id="sec-dubbing_artists"></a>
+### Dubbing Artists
+Type of voice actor who replaces the original dialogues of characters film, television show, or other audiovisual media with a re-recorded performance in another language. The core task is to re-record the dialogue while precicely matching the lip movements, emotional tone, and timing of the orgiginal on-screen actors.
 
 
-<center><object data="/images/Picture1credits.jpg" width="100%"></object></center>
+<a id="sec-production_company"></a>
+### Production Company
+It is a company dedicated to the creation of films, television programmes and other moving-image-content, its primary role is to take the lead and assume responsibility for the prodcution of an audiovisual project, from pre-production through post-production. This includes planning, financing, hiring staff, managing production on set, and post-production, which encompasses editing, special effects and distribution.
 
-<center><object data="/images/Picture2credits.jpg" width="100%"></object></center>
+<a id="sec-musical_composer"></a>
+### Musical Composer
+TO BE ADDED
 
-<center><object data="/images/Picture3credits.jpg" width="100%"></object></center>
+<a id="sec-author"></a>
+### Author (e.g. original literary author on which the Work was adapted or based)
+TO BE ADDED
 
-[Music composer, Author (e.g. original literary author on which the Work was adapted or based) currently being added to above diagram. Replace diagrams here with revised ones when finished] 
 
 Several of these tie in with [important information needed for establishing rights and copyright](/rights/#sec-recommended_properties_for_Moving_Image_Works_and_Variants), namely Director(s), Producer(s), Production Company(ies), Scriptwriter(s), Author (e.g. original literary author on which the Work was adapted or based), Music Composer, Performers (e.g. cast).
 
