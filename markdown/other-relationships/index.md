@@ -1,11 +1,11 @@
 ---
-title: Moving Image Other Relationships
+title: Other Relationships
 ---
 <a id="sec-moving_image_works_other_relationships"></a>
 ## Moving Image Works
 
 <a id="sec-moving_image_works_relationships_works"></a>
-### Other Relationships between Moving Images Works and Other Works
+### Other Relationships between Works and Other Works
 
 If other relationships[^1] are desired or appropriate, express relationships that are not covered by the Agent, Subject, and Event relationships, including all kinds of aggregation and re-use of Works and their Variants.
 (See [Aggregates (Compilations, Multi-component productions)](/appendices/aggregates/).)
@@ -80,7 +80,7 @@ Describe or demonstrate Work-to-Work relationships through linking to the Work i
 Remember, a Work based on a pre-existing Work should be identified as a Variant of the same Work unless it has been so significantly changed as to have become a new related Work.[^3] See [Boundaries between Works](../boundaries/boundaries_between_works/index.md) and [Boundaries between Works and Variants](../boundaries/boundaries_between_works_and_variants/index.md) for determining when a Work should be identified as a new, but related Work and when it should be identified as a Variant of the original Work.
 
 <a id="sec-moving_image_works_relationships_variants"></a>
-### Other Relationships between Moving Images Works and Variants
+### Other Relationships between Works and Variants
 Express the relationship between a moving image Work and a moving image Variant e.g. Part/part of; Parent/child; related, etc.
 
 Describe or demonstrate Work-to-Variant relationships through linking to the Work identifier, through the usage of relator terms, or according to the confines of your data structure.
@@ -89,7 +89,7 @@ This equates to the HasVariant in the Relationships section of the EN15907 data 
 
 
 <a id="sec-moving_image_works_relationships_manifestations"></a>
-### Other Relationships between Moving Images Works and Manifestations
+### Other Relationships between Works and Manifestations
 Express the relationship between a moving image Work or Variant and a moving image Manifestation, e.g. Part/part of; Parent/child; related, etc.
 
 Describe or demonstrate Work-to-Manifestation relationships through linking to the Work identifier, through the usage of relator terms, or according to the confines of your data structure.
@@ -99,7 +99,7 @@ This equates to the HasManifestation in the Relationships section of the EN15907
 <a id="sec-manifestations_other_relationships"></a>
 ## Manifestations
 <a id="sec-manifest_relationships_manifestations"></a>
-### Other Relationships between Moving Images Manifestations and Other Manifestations
+### Other Relationships between Manifestations and Other Manifestations
 Expresses relationships that are not covered by the Agent and Event relationships.
 Aggregation relationships are expressed at the Work/Variant level (see [Aggregates (Compilations, Multi-component productions)](../aggregates/index.md)).
 
@@ -149,7 +149,7 @@ If the cataloguing system allows the procedure, attach a digital file that repro
 
 
 <a id="sec-manifest_relationships_items"></a>
-### Other Relationships between Moving Images Manifestations and Items(s)
+### Other Relationships between Manifestations and Items
 Express the relationship between a moving image Manifestation and a moving image Item, e.g. Part/part of; Parent/child; related, etc.
 
 Here could be listed the unique Item identifiers associated to this Manifestation, noting their “part of “ relationships to the Manifestation in systems using a part/part of hierarchical structuring or linked related association.
@@ -158,7 +158,7 @@ This equates to the HasItem in the Relationships section of the EN15907 data mod
 
 
 <a id="sec-manifest_relationships_work"></a>
-### Other Relationships between Moving Images Manifestations and a Work
+### Other Relationships between Manifestations and a Work
 Express the relationship between a moving image Manifestation and a moving image Work (e.g., Part/part of).
 Describe or demonstrate Manifestation-to-Work relationships through linking to the Manifestation identifier, through the usage of relator terms, or according to the confines of your data structure.
 
