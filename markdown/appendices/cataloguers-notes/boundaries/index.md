@@ -17,3 +17,4 @@ See the following examples.[^1]
 !!! example "Example"
     Teaching version includes questions for discussion about the novel’s theme and philosophy presented in a classroom setting at the end of the film; discussion is 10 min. in length.
 
+[^1: FIAF 7.2.7. History of edition/version/variation
