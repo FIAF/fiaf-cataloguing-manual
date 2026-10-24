@@ -5,7 +5,7 @@ A moving image restoration is the complex process of returning a moving image to
 
 Where the original release may have been heavily cut and censored, or there were multiple released versions, then this may involve re-inserting footage that did not exist in the original release, but was intended by the creator.
 
-[ADD LINK TO FIAF ETHICS DOCUMENT - https://www.fiafnet.org/pages/Community/fiaf-code-of-ethics-revised-2025-en.html#:~:text=1.6%20FIAF%20affiliates%20acknowledge%20the,one%20of%20its%20original%20formats.]
+For a comprehensive discussion around the ethics of restoration, see the [FIAF Code of Ethics] (https://www.fiafnet.org/pages/Community/fiaf-code-of-ethics-revised-2025-en.html#:~:text=1.6%20FIAF%20affiliates%20acknowledge%20the,one%20of%20its%20original%20formats) and further publications created by the [FIAF Technical Commission](https://www.fiafnet.org/pages/E-Resources/Technical-Commission-Resources.html).
 
 Restorations are also Variants/Versions. So they go through the same assessment as any Variant before cataloguing, i.e. deciding whether the restored version constitutes minor or major changes,[ADD LINK TO BOUNDARIES BETWEEN WORKS AND VARIANTS] and what, if any, new records may need to be created (depending on your data system and structures).
 
