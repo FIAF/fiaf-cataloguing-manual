@@ -101,20 +101,23 @@ These equate to the HasManifestation in the Relationships section of the [EN1590
 <a id="sec-manifestations_other_relationships"></a>
 ## Manifestations
 
-<a id="sec-manifest_relationships_work"></a>
-### Other Relationships between Manifestations and a Work
-Express the relationship between a moving image Manifestation and a moving image Work (e.g., Part/part of).
-Describe or demonstrate Manifestation-to-Work relationships through linking to the Manifestation identifier, through the usage of relator terms, or according to the confines of your data structure.
-
-<a id="sec-manifest_relationships_variant"></a>
-### Other Relationships between Manifestations and a Variant
-Express the relationship between a moving image Manifestation and a moving image Variant, e.g. Part/part of; Parent/child; related, etc.
-Describe or demonstrate Manifestation-to-Variant relationships through linking to the Manifestation identifier, through the usage of relator terms, or according to the confines of your data structure.
-
 <a id="sec-manifest_relationships_manifestations"></a>
 ### Other Relationships between Manifestations and Other Manifestations
 Expresses relationships that are not covered by the Agent and Event relationships.
 Aggregation relationships are expressed at the Work or Variant level (see [Aggregates (Compilations, Multi-component productions)](../aggregates/index.md)).
+
+Record one or more “Other” relationship type to express the nature of the relationship to the Manifestation, choosing the most specific term possible from existing relator terms lists, for example, “commentary on,” “review of,” etc. 
+Selection should be made from a controlled list of values.
+A suggested list, which is open and not exhaustive, can be found in [Manifestation Other Relationship Types](../other-relationships/other_relationships_for_works_variants_manifestations_items/index.md#sec-manifestation_other_relationship_types).
+
+Or, compose a term to describe the relationship between the Manifestation being catalogued and the related Manifestation.
+
+In a note, add any additional information concerning the relationship considered relevant.
+
+Describe or demonstrate Manifestation-to-Manifestation relationships through linking to the Manifestation identifier of the related Manifestation, through the usage of relator terms, or according to the confines of your data structure.
+
+If the cataloguing system allows the procedure, attach a digital file that reproduces any associated “document.”
+
 
 Commonly-occurring relationships include:
 
@@ -148,18 +151,17 @@ Commonly-occurring relationships include:
 !!! example "Example"
     Othello, Orson Welles, USA- Italy-Morocco-France, 1952 and Otello, dailies and rushes, positive silent and some with sound, 35mm, containing shots included in only a very limited extent in the first theatrical release (their title proper in Italian is: Otello).
 
-Record one or more “Other” relationship type to express the nature of the relationship to the Manifestation, choosing the most specific term possible from existing relator terms lists, for example, “commentary on,” “review of,” etc. 
-Selection should be made from a controlled list of values.
-A suggested list, which is open and not exhaustive, can be found in [Manifestation Other Relationship Types](../other-relationships/other_relationships_for_works_variants_manifestations_items/index.md#sec-manifestation_other_relationship_types).
 
-Or, compose a term to describe the relationship between the Manifestation being catalogued and the related Manifestation.
 
-In a note, add any additional information concerning the relationship considered relevant.
+<a id="sec-manifest_relationships_work"></a>
+### Other Relationships between Manifestations and a Work
+Express the relationship between a moving image Manifestation and a moving image Work (e.g., Part/part of).
+Describe or demonstrate Manifestation-to-Work relationships through linking to the Manifestation identifier, through the usage of relator terms, or according to the confines of your data structure.
 
-Describe or demonstrate Manifestation-to-Manifestation relationships through linking to the Manifestation identifier of the related Manifestation, through the usage of relator terms, or according to the confines of your data structure.
-
-If the cataloguing system allows the procedure, attach a digital file that reproduces any associated “document.”
-
+<a id="sec-manifest_relationships_variant"></a>
+### Other Relationships between Manifestations and a Variant
+Express the relationship between a moving image Manifestation and a moving image Variant, e.g. Part/part of; Parent/child; related, etc.
+Describe or demonstrate Manifestation-to-Variant relationships through linking to the Manifestation identifier, through the usage of relator terms, or according to the confines of your data structure.
 
 <a id="sec-manifest_relationships_items"></a>
 ### Other Relationships between Manifestations and Items
@@ -178,6 +180,13 @@ This equates to the HasItem in the Relationships section of the [EN15907 data mo
 Express relationships that are not covered by the Agent and Event relationships.
 These may include compilations of convenience, i.e. where an institution has transferred copies
 of two or more films onto one reel/tape/DVD etc. for convenient storage.[^4]
+
+Record one or more “Other” relationship type terms to express the nature of the relationship to the Item, choosing the most specific term possible from existing relator terms lists, for example, “accompanied by,” “contained in,” etc. Selection should be made from a controlled list of values.
+A suggested list, which is open and not exhaustive, can be found in [Item Other Relationship Types](/other-relationships/other_relationships_for_works_variants_manifestations_items/#sec-item_other_relationship_types).
+
+In a note, add any additional information concerning the relationship considered relevant.
+
+If the cataloguing system allows, attach a digital file that reproduces any associated “document”.
 
 *Item(s) associated with the moving image Item.*
 
@@ -222,12 +231,7 @@ Similarly, in the case of restorations where separate Items or elements have bee
 !!! example "Example"
     Shots of 1932 (United Kingdom, 1932) (home movie) 9.5mm Safety film Item related to paper donor agreement
 
-Record one or more “Other” relationship type terms to express the nature of the relationship to the Item, choosing the most specific term possible from existing relator terms lists, for example, “accompanied by,” “contained in,” etc. Selection should be made from a controlled list of values.
-A suggested list, which is open and not exhaustive, can be found in [Item Other Relationship Types](/other-relationships/other_relationships_for_works_variants_manifestations_items/#sec-item_other_relationship_types).
 
-In a note, add any additional information concerning the relationship considered relevant.
-
-If the cataloguing system allows, attach a digital file that reproduces any associated “document”.
 
 [^1]: EN 15907 8.5 HasAsSubject; YCR, 1.2.7 Relationships With Other Moving Image Works or Other Kinds of Works
 [^2]: OLAC TF, Part I, Moving Image Work Definition and Boundaries, Commonly-Occurring Relationships, p. 16.
