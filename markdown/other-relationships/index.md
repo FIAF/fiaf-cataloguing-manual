@@ -98,6 +98,17 @@ This equates to the HasManifestation in the Relationships section of the EN15907
 
 <a id="sec-manifestations_other_relationships"></a>
 ## Manifestations
+
+<a id="sec-manifest_relationships_work"></a>
+### Other Relationships between Manifestations and a Work
+Express the relationship between a moving image Manifestation and a moving image Work (e.g., Part/part of).
+Describe or demonstrate Manifestation-to-Work relationships through linking to the Manifestation identifier, through the usage of relator terms, or according to the confines of your data structure.
+
+<a id="sec-manifest_relationships_variant"></a>
+### Other Relationships between Manifestations and a Variant
+Express the relationship between a moving image Manifestation and a moving image Variant, e.g. Part/part of; Parent/child; related, etc.
+Describe or demonstrate Manifestation-to-Variant relationships through linking to the Manifestation identifier, through the usage of relator terms, or according to the confines of your data structure.
+
 <a id="sec-manifest_relationships_manifestations"></a>
 ### Other Relationships between Manifestations and Other Manifestations
 Expresses relationships that are not covered by the Agent and Event relationships.
@@ -157,22 +168,11 @@ Here could be listed the unique Item identifiers associated to this Manifestatio
 This equates to the HasItem in the Relationships section of the EN15907 data model for Manifestations. [ADD FOOTNOTE WITH LINK TO https://filmstandards.org/fsc/index.php?title=EN_15907_Manifestation]
 
 
-<a id="sec-manifest_relationships_work"></a>
-### Other Relationships between Manifestations and a Work
-Express the relationship between a moving image Manifestation and a moving image Work (e.g., Part/part of).
-Describe or demonstrate Manifestation-to-Work relationships through linking to the Manifestation identifier, through the usage of relator terms, or according to the confines of your data structure.
-
-<a id="sec-manifest_relationships_variant"></a>
-### Other Relationships between Moving Images Manifestations and a Variant
-Express the relationship between a moving image Manifestation and a moving image Variant, e.g. Part/part of; Parent/child; related, etc.
-Describe or demonstrate Manifestation-to-Variant relationships through linking to the Manifestation identifier, through the usage of relator terms, or according to the confines of your data structure.
-
-
 <a id="sec-items_other_relationships"></a>
 ## Items
 
 <a id="sec-moving_image_items_relationships_items"></a>
-### Other Relationships between Moving Images Items and another Item
+### Other Relationships between Items and another Item
 Express relationships that are not covered by the Agent and Event relationships.
 These may include compilations of convenience, i.e. where an institution has transferred copies
 of two or more films onto one reel/tape/DVD etc. for convenient storage.[^4]
