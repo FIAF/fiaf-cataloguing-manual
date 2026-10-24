@@ -160,7 +160,3 @@ Where Works are added to copyright schemes with external registries or portals, 
 
 A free-text Notes field may be used to record related information that does not fit easily within the structured properties described or is not strictly copyright related. This may include contractual provisions, restrictions, obligations, uncertainties, risk assessments, or contextual information relevant to the rights management, access, or exploitation of the Work.
 
-
-
-
-http://copyright.gov/docs/priorities.pdf
