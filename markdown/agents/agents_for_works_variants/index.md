@@ -1,6 +1,4 @@
 
-<a id="sec-agents_for_works_variants"></a>
-## Agents for Works or Variants
 !!! abstract "Definition"
     An Agent is defined as an entity that is involved in the creation, realisation, curation or exploitation of a                Work/Variant and who is considered to have major responsibility for, or be of major importance to, the Work or Variant. 
     Typical distinctions between Agent types are Person, Collective Agent, Corporate Body, and Family.[^1] 
@@ -30,8 +28,8 @@ Optionally, record multiple instances of Agent, e.g., cast and credits, associat
 
 Variants may include both the Agents of the original Work and of the particular Variant, or just those pertaining to the particular Variant, e.g. additional cast in reinserted scenes in a Director’s Cut, new credits relating to digital special effects in a special edition with new CGI effects, cast used for a dubbed version, etc. 
 
-<a id="sec-agent_activity_works_variants"></a>
-### Agent Activity for Works or Variants
+<a id="sec-core_agent_activity_works_variants"></a>
+## Core Agent Activities for Works or Variants
 This describes the activity or role of the Agent in relation to the moving image Work or Variant (e.g. credit terms). 
 
 Record one or more Agent Activity terms, for example, “animator,” “cast,” “choreographer,” “production company” etc., to express the nature of the agent’s relationship to the Work or Variant. 
@@ -43,6 +41,13 @@ If the relationship is ambiguous, use a value to indicate this, for example, “
 Optionally, when the role performed by an Agent is probable but not certain, provide the function name followed by a question mark. 
 
 It is recommended to capture these core credits on a moving image record as far as possible and where applicable:
+
+<a id="sec-director"></a>
+### Director
+
+The Director is the chief creative authority 
+
+
 
 
 <center><object data="/images/Picture1credits.jpg" width="100%"></object></center>
@@ -119,7 +124,7 @@ The same stylistics and display regarding Agents as cast or credits and Agent ac
 <center><object data="/images/Screenshot_excel_agentseg.png" width="100%"></object></center>
 
 <a id="sec-uncredited_agents_and_agent_activity"></a>
-### Uncredited Agents and Agent activity
+## Uncredited Agents and Agent activity
 
 Where an institution is adding uncredited Agents to Works and Variants, i.e. credits and cast where it is known that an Agent worked on or appeared in a moving image, but they were not listed in the on-screen front or end titles, then the convention of using square brackets [ ] can be applied around names and/or credits, or next to either of the latter encasing the word "uncredited". Square brackets or parantheses can be used, depending on an institution's preference. Alternatively, using a qualifying status field indicating Credited or Uncredited alongside; or both if desired. 
 
