@@ -52,7 +52,7 @@ Existing standards for describing Entities include:
     
 - ISAAR (CPF): [International Standard Archival Authority Record for Corporate Bodies, Persons and Families](http://www.ica.org/10203/standards/isaar-cpf-international-standard-archival-authority-record-for-corporate-bodies-persons-and-families-2nd-edition.html), 2nd Edition - International Council of Archives);
 
-- EFG Metadata Schema & Vocabularies – 3.6 Agent ([http://www.efgproject.eu/guidelines_and_standards.php](http://www.efgproject.eu/guidelines_and_standards.php))
+- EFG Metadata Schema & Vocabularies – [3.6 Agent](http://www.efgproject.eu/guidelines_and_standards.php](http://www.efgproject.eu/guidelines_and_standards.php))
 
 Authority files
 
