@@ -185,7 +185,7 @@ This can include:
 
 A Preservation/Restoration Event can be used in conjunction with [Preservation or Restoration type Manifestations](/manifestations/attributes_of_a_manifestation/#sec-restoration) as relevant.
 
-For further examples, particularly for scanning analogue items, see also the [Items chapter](/items/index.md).
+For further examples, particularly for scanning analogue items, see also the [Items chapter](/items/#sec-digital_items_examples).
 
 <a id="sec-decision"></a>
 ## Decision[^4]
