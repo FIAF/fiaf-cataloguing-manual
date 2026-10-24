@@ -85,7 +85,7 @@ Express the relationship between a moving image Work and a moving image Variant 
 
 Describe or demonstrate Work-to-Variant relationships through linking to the Work identifier, through the usage of relator terms, or according to the confines of your data structure.
 
-This equates to the HasVariant in the Relationships section of the EN15907 data model for Works.
+These equate to the HasOtherRelation in the Relationships section of the [EN15907 data model for Works](https://filmstandards.org/fsc/index.php?title=EN_15907_HasVariant).
 
 
 <a id="sec-moving_image_works_relationships_manifestations"></a>
@@ -94,7 +94,7 @@ Express the relationship between a moving image Work or Variant and a moving ima
 
 Describe or demonstrate Work-to-Manifestation relationships through linking to the Work identifier, through the usage of relator terms, or according to the confines of your data structure.
 
-This equates to the HasManifestation in the Relationships section of the EN15907 data model for Works.
+These equate to the HasManifestation in the Relationships section of the [EN15907 data model](https://filmstandards.org/fsc/index.php?title=EN_15907_HasManifestation).
 
 <a id="sec-manifestations_other_relationships"></a>
 ## Manifestations
@@ -165,7 +165,7 @@ Express the relationship between a moving image Manifestation and a moving image
 
 Here could be listed the unique Item identifiers associated to this Manifestation, noting their “part of “ relationships to the Manifestation in systems using a part/part of hierarchical structuring or linked related association.
 
-This equates to the HasItem in the Relationships section of the EN15907 data model for Manifestations. [ADD FOOTNOTE WITH LINK TO https://filmstandards.org/fsc/index.php?title=EN_15907_Manifestation]
+This equates to the HasItem in the Relationships section of the [EN15907 data model for Manifestations](https://filmstandards.org/fsc/index.php?title=EN_15907_HasItem).
 
 
 <a id="sec-items_other_relationships"></a>
