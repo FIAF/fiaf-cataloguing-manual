@@ -183,7 +183,7 @@ This can include:
 -	Technical, aesthetic or ethical decisions  
 -	Recommendations for further work (details concerning limitations due to source material, resources, technology, etc.)  
 
-A Preservation/Restoration Event can be used in conjunction with [Preservation or Restoration type Manifestations](/manifestations/attributes_of_a_manifestation) as relevant.
+A Preservation/Restoration Event can be used in conjunction with [Preservation or Restoration type Manifestations](/manifestations/attributes_of_a_manifestation/#sec-restoration) as relevant.
 
 For further examples, particularly for scanning analogue items, see also the [Items chapter](/items/index.md).
 
