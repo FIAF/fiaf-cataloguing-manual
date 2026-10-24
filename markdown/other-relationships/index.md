@@ -68,7 +68,7 @@ Commonly-occurring relationships include:[^2]
 !!! example "Example"
     The wicked lady (United Kingdom, 1945, Leslie Arliss), costume
 
-Record one or more “Other” relationship type terms to express the nature of the relationship to the Work/Variant, choosing the most specific term possible from a controlled list of values , for example, “based on,” “contained in,” etc. .
+Record one or more “Other” relationship type terms to express the nature of the relationship to the Work or Variant, choosing the most specific term possible from a controlled list of values , for example, “based on,” “contained in,” etc. .
 A suggested list, which is open and not exhaustive, can be found in [Other Relationships for Works, Variants, Manifestations, Items](../other-relationships/other_relationships_for_works_variants_manifestations_items/index.md).
 
 Or, compose a term to describe the relationship between the Work being catalogued and the related Work.
@@ -112,7 +112,7 @@ Describe or demonstrate Manifestation-to-Variant relationships through linking t
 <a id="sec-manifest_relationships_manifestations"></a>
 ### Other Relationships between Manifestations and Other Manifestations
 Expresses relationships that are not covered by the Agent and Event relationships.
-Aggregation relationships are expressed at the Work/Variant level (see [Aggregates (Compilations, Multi-component productions)](../aggregates/index.md)).
+Aggregation relationships are expressed at the Work or Variant level (see [Aggregates (Compilations, Multi-component productions)](../aggregates/index.md)).
 
 Commonly-occurring relationships include:
 
