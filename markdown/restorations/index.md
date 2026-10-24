@@ -1,7 +1,9 @@
 
 
 
-A moving image restoration is the complex process of returning a moving image to a known, earlier state that is as faithful as possible to its original release, respecting its authenticity, historical integrity, and the creators' intentions. It involves research, technical repair of physical damage, and the removal of time-based deterioration using both analogue and digital technologies. [Google AI - Is that quoting from an actual paragraph or devising a definition based on sentences scattered throughout the Ethics document?]
+A moving image restoration is "the process of compensating for loss, damage and degradation by returning a work of art, an image or artefact to close to it's original content"[^1]. 
+
+It is the complex process of returning a moving image to a known, earlier state that is as faithful as possible to its original release, respecting its authenticity, historical integrity, and the creators' intentions. It involves research, technical repair of physical damage, and the removal of time-based deterioration using both analogue and digital technologies. [Google AI - Is that quoting from an actual paragraph or devising a definition based on sentences scattered throughout the Ethics document?]
 
 Where the original release may have been heavily cut and censored, or there were multiple released versions, then this may involve re-inserting footage that did not exist in the original release, but was intended by the creator.
 
