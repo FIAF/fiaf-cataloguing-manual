@@ -58,4 +58,4 @@ The following instructions for notes should be considered neither all-inclusive 
 [^3]: Adapted from FIAF 7.1.3 Form of notes
 [^4]: Based on RDA 5.9.1.3 and 8.13.1.3 Making Cataloguer’s Notes
 [^5]: Based on FIAF 7.2. Notes
-[^6]: FIAF 7.2.7. History of edition/version/variation
+
