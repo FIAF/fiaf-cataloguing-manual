@@ -23,37 +23,37 @@ A change in colour, which is a physical property, expresses a different Manifest
 
 **Censored Variant**
 
-!!! example "Example"
+!!! example "Example"  
     It's a wonderful life (USA, 1946. Frank Capra)      
     Qué bello es vivir! (Censored Variant: Spain, 1948. 7 minutes shorter due to censorship cuts removing scenes relating to     positive mention or depiction of housing co-operatives, deemed subversive by the Franco government)  
 
-!!! example "Example"
+!!! example "Example"  
     Saturday Night Fever (USA, 1976) (119 minutes, R (Restricted) certification)    
     Saturday Night Fever (USA, 1979 (c.109 minutes, PG (Parental Guidance) certification. Muted/dubbed out certain swearing      and edited out drug references, violence, and a rape scene).
 
 
 **Dubbed Variant**
 
-!!! example "Example"
+!!! example "Example"  
     Work Title: Jour de fête (Tati, Jacques, 1947, FR)     
     Variant Title: Het is feest vandaag (Dubbed version 1964, dubbed in Dutch)    
     Variant Title: Tatis Schützenfest (Dubbed version 1964, dubbed in German  )
 
 **Subtitled Variant**
 
-!!! example "Example"
+!!! example "Example"  
     Work Title: Im Westen nichts Neues (Germany, 2022. Edward Berger)  
     Variant Title: All quiet on the Western Front (Subtitled version, 2022, subtitles in English)  
 
 **Abridged Variant (or Shortened Variant)**
 
-!!! example "Example"
+!!! example "Example"  
     Work Title: Newfoundland - Atlantic province (Canada, 1949. Sydney Newman. Running time: 18 minutes)   
     Variant Title: Inside Newfoundland (Canada, 1949, Sydney Newman. Running time: 11 minutes)  
 
 **Augmented Variant**
 
-!!! example "Example"
+!!! example "Example"  
     Work Title: Terminator 2: Judgement Day (USA, 1991. James Cameron. Running time: 137 minutes)    
     Variant Title: Terminator 2: Judgement Day (Special Edition) (USA, 1993. Running time: 154 minutes). Re-inserting            previously deleted scenes.    
     Variant Title: Terminator 2: Judgement Day (Extended Special Edition) (aka Terminator 2: Judgement Day (Skynet Edition))     (USA, 2009. Running time: 156 minutes). Includes all the insertions from the Special Edition Variant plus an altered         ending.
@@ -65,12 +65,12 @@ For those who do not use the Variant in cataloguing then instances of alternate 
 
 If used, institutions should set rules on how to select which ending is the work and which one is the alternative.
 
-!!! example "Example"
+!!! example "Example"  
     Work title: Rukoj materi (Russia, 1913. Yakov Protazanov) (Original sad ending - the daughter lying in her coffin having     been accidentally killed by her mother)    
     Alternative ending Variant (Foreign export version, 1913) (Happy ending - where the daughter lives)
 
 
-!!! example "Example"
+!!! example "Example"  
     Work Title : La Belle équipe (France, 1936. Julien Duvivier) (Happy ending - there is reconciliation after a jealous         confrontation between two friends)    
     Alternative Ending Variant Title : La Belle équipe (France, 1936. Julien Duvivier) (Sad ending - the confrontation leads     to a tragedy). The sad ending version is what was released and circulated outside France.  
 
@@ -79,14 +79,14 @@ It was common, especially in the silent film industry, to make different endings
 
 **Restoration Variant**
 
-!!! example "Example"
+!!! example "Example"  
     Work Title: Jaws (USA, 1975. Steven Spielberg)  
     Variant Title: Jaws (USA, 2012. Steven Spielberg)  
     Digitally restored 4K Ultra-HD version released on Blu-ray internationally on 14th August 2012.
 
 **Different Soundtrack Variant**
 
-!!! example "Example"
+!!! example "Example"  
     Work Title: Derry Girls (TV series, Season 1 first broadcast in the UK on Channel 4 2018-01-04 to 2018-02-08)  
     Variant Title: Derry Girls (TV series, Season 1 broadcast on Netflix in USA from 2018-12-21)  
     There were sometimes different pieces of music and songs used on the soundtrack of USA and international broadcasts of       episodes of the series. This was due to music licensing and rights whereby the original songs used were licensed to          Channel 4's broadcasts in the United Kingdom and Ireland.
