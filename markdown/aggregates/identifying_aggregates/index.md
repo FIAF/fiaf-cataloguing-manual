@@ -44,7 +44,7 @@ With these there was no original intention for the components to be independent[
 The different component titles may be added as alternative titles to the Work record to assist in retrieval or access, and/or details of individual component titles and content given in the synopsis field on the Work.
 For example:
 
- Aria (United States of America, UK, 1987)
+ Aria (United States of America/United Kingdom, 1987)
 
  Ten directors interpret various operatic arias:
 
@@ -58,48 +58,46 @@ For example:
 
  [4] Rigoletto Julien Temple/Rigoletto [“La donna è mobile” and other extracts from “Rigoletto” by Giuseppe Verdi]….
 
-Credits (i.e., Agents) for all the components should be attached to this single Work record, following on-screen credits as far as possible but also including an indication of which component they belong to where the on-screen credits may not be clear on this.
+Credits and Cast (i.e., Agents) for all the components should be attached to this single Work record, following on-screen credits as far as possible but also including an indication of which component they belong to where the on-screen credits may not be clear on this. This also helps in 
 
 For example:
 
- - Title
+ Aria (USA/United Kingdom, 1987)  
 
- Aria (Original)
+ Credits  
 
- Credits
+Directed by: Nicolas Roeg <span style="color:blue"> (Un ballo in maschera)</span>    
+Directed by: Charles Sturridge <span style="color:blue">(La vergine degli angeli)</span>   
+‘Images’: Jean-Luc Godard <span style="color:blue">(Armide)</span>  
+Directed by: Julien Temple <span style="color:blue">(Rigoletto)</span>  
+Directed by: Bruce Beresford <span style="color:blue">(Die tote Stadt)</span> 
+Directed by: Robert Altman <span style="color:blue">(Les Boréades)</span>  
+Directed by; Franc Roddam <span style="color:blue">(Liebestod)</span>   
+Directed by: Ken Russell <span style="color:blue">(Nessun Dorma)</span>  
+Directed by: Derek Jarman <span style="color:blue">(Depuis le jour)</span>  
+Directed by: Bill Bryden <span style="color:blue">(I Pagliacci)</span>  
+©: LightYear Entertainment, Virgin Vision  
+Production company: Boyd’s Company  
+Production company: RSV Productions  
+Production compVirgin Vision  
+Produced by: Don Boyd  
+Co-producer (for Virgin Vision): Al Clark, Mike Watts  
+Executive in Charge of Production: Arnold J. Holland, Joan Aceste  
+European Production Co-ordinator: Gabrielle Tana  
+US Production Co-ordinator: Elizabeth Moyer...  
+...  
+Director of Photography: Harvey Harrison <span style="color:blue">(Un ballo in maschera)</span>   
+Director of Photography: Gale Tattersall <span style="color:blue">(La vergine degli angeli)</span>  
+Director of Photography: Caroline Champetier <span style="color:blue">(Armide)</span>  
+Director of Photography: Oliver Stapleton <span style="color:blue">(Rigoletto)</span>  
+Director of Photography: Dante Spinotti <span style="color:blue">(Die tote Stadt)</span>  
+Director of Photography: Pierre Mignot <span style="color:blue">(Les Boréades)</span>   
+Director of Photography: Frederick Elmes <span style="color:blue">(Liebestod)</span>    
+Director of Photography: Gabriel Beristáin <span style="color:blue">(Nessun Dorma)</span>  
+Director of Photography: Gabriel Beristáin <span style="color:blue">(I Pagliacci)</span>  
+Director of Photography: Mike Southon <span style="color:blue">(Depuis le jour)</span>   
+Director of Photography: Christopher Hughes <span style="color:blue">(Depuis le jour)</span>    
 
-Directed by: Nicolas Roeg (Un ballo in maschera)   
-Directed by: Charles Sturridge (La vergine degli angeli)  
-‘Images’: Jean-Luc Godard (Armide)
-Directed by: Julien Temple (Rigoletto) 
-Directed by: Bruce Beresford (Die tote Stadt)
-Directed by: Robert Altman (Les Boréades) 
-Directed by; Franc Roddam (Liebestod) 
-Directed by: Ken Russell  
-Directed by: Derek Jarman (Depuis le jour) 
-Directed by: Bill Bryden (I Pagliacci)
-©: LightYear Entertainment, Virgin Vision
-Produced... by: Boyd’s Company
-Presents: RSV Productions, Virgin Vision
-A Don Boyd production: Don Boyd, Jim Mervis, RVP Productions, Tom Kuhn, Charles Mitchell
-Produced by: Don Boyd
-
-Co-producer (for Virgin Vision): Al Clark, Mike Watts
-Co-ordinating Associate Producer: David Barber
-Co-ordinating Associate Producer: Michael Hamlyn
-Co-ordinating Associate Producer: Paul Spencer, Richard Bell Un ballo in maschera, Luc Roeg Un ballo in maschera, Paul Spencer La vergine degli angeli, Nessun Dorma, I Pagliacci, François Hamel Armide, Amanda Pirie Rigoletto, Iain Brown Die tote Stadt, Scott Bushnell Les Boréades, Joni Sighvatsson Liebestod, James Mackay
-Depuis le jour
-Associate Producer: Michael Hamlyn I Pagliacci
-Associate Producer: Kevan Pegley I Pagliacci
-Executive in Charge of Production: Arnold J. Holland, Joan Aceste
-European Production Co-ordinator: Gabrielle Tana
-US Production Co-ordinator: Elizabeth Moyer
-Written by: Nicolas Roeg Un ballo in maschera, Charles Sturridge La vergine degli angeli, Julien Temple Rigoletto, Bruce Beresford Die tote Stadt, Robert Altman
-Les Boréades, Franc Roddam Liebestod, Ken Russell Nessun Dorma, Derek Jarman
-Depuis le jour, Bill Bryden I Pagliacci, Don Boyd I Pagliacci
-Director of Photography: Harvey Harrison Un ballo in maschera, Gale Tattersall La vergine degli angeli, Caroline Champetier Armide, Oliver Stapleton Rigoletto, Dante Spinotti Die tote Stadt, Pierre Mignot Les Boréades, Frederick Elmes Liebestod, Gabriel Beristáin Nessun Dorma, I Pagliacci, Mike Southon Depuis le jour, Christopher Hughes Depuis le jour
-Special Stills Photographer: Snowdon Un ballo in maschera, John Swannell La vergine degli angeli, Jonathan Lennard Armide, Greg Gorman Rigoletto, Bob Carlos Clarke Die tote Stadt, David Bailey Les Boréades, Annie Leibovitz Liebestod, Terry O’Neill Nessun Dorma, Angus McBean Depuis le jour, Koo Stark I Pagliacci
-Supervising Co-ordinating Editor: Marie-Thérèse Boiché
 
 Each component title should not usually be created as a new Work, as this is not how the content was conceived (i.e., it was designed to be packaged and viewed together and is not separable) and none of them would then have any Manifestation record as an individual Work.
 Those institutions that have the ability or desire to separate them out to tie separate descriptions (e.g., credits) to each component part (i.e. representing the parent-child relationship), may represent them as Analytic Works (see [Work/Variant Description Types](../../works/attributes_of_a_moving_image_work_variant/index.md#sec-work_variant_description_type)).
