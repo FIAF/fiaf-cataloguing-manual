@@ -102,30 +102,30 @@ It was common, especially in the silent film industry, to make different endings
 
 **Sonorised Variant**
 
-!!! example "Example"
-    Work Title: La passion de Jeanne d'Arc (France, 1928. Carl Th. Dreyer)   
+!!! example "Example"  
+    Work Title: La passion de Jeanne d'Arc (France, 1928. Carl Th. Dreyer)    
     Variant Title: La passion de Jeanne d'Arc (France, 1952) (Added music track using music by composers such as Bach,           Vivaldi, and Albinoni)
 
 **Colourised Variant**
 
-!!! example "Example"
-    Work Title: Scrooge (United Kingdom, 1951. Brian Desmond Hurst) (Black and white original film)    
+!!! example "Example"  
+    Work Title: Scrooge (United Kingdom, 1951. Brian Desmond Hurst) (Black and white original film)     
     Variant Title: Scrooge (United Kingdom, 2012) (Colourised version of the film)  
 
 **Monochromised**
 
-!!! example "Example"
+!!! example "Example"  
     Work Title: Nightmare Alley (USA/Mexico/Canada, 2021. Guillermo del Toro) (Filmed and released in Colour)    
     Variant Title: Nightmare Alley: Vision in Darkness and Light (USA/Mexico/Canada, 2022) (Black and white version of the       film)  
 
 A Variant may have more than one type. For example, a Variant for a restoration of a film with new, or previously missing, intertitles with restored tinting or toning and an added music track featuring the original music composed for playing with the film. Or for a shortened, different format, black and white, dubbed version:
 
-!!! example "Example"
+!!! example "Example"  
     Work Title: Nosferatu. Eine Symphonie des Grauens (Germany, 1922. F.W. Murnau)   
-    Restoration + Tinted/Toned + Different sound track Variant Title: Nosferatu. Eine Symphonie des Grauens (2006 German         version)
+    Restoration + Tinted/Toned + Different sound track Variant Title: Nosferatu. Eine Symphonie des Grauens (2006 German         version)  
     Variant characteristics: i) Digitally restored original German intertitles (including some previously missing); ii) new      added music track; iii) tinted  
 
-!!! example "Example"
+!!! example "Example"  
     Work Title: Wet Paint (USA, 1946. Jack King)    
     Variant Title : Donald s'attendrit (France, c.1950)  
     Variant characteristics:  i) French language Version, ii) format specific 9.5mm Pathé Edition, iii) short version – 3        minutes –, iv)  black and white.  
