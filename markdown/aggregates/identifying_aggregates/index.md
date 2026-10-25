@@ -45,7 +45,7 @@ The different component titles may be added as alternative titles to the Work re
 For example:
 
 !!! example "Example"  
-    Aria (United States of America/United Kingdom, 1987)  
+    Aria (United States of America/United Kingdom, 1987)    
     Ten directors interpret various operatic arias:  
     On-screen titles [and sources] for segments (which are not numbered on-screen) are:  
     [1] Un Ballo in Maschera  Nicolas Roeg/Un Ballo in Maschera [extracts from "Un ballo in Maschera" by Giuseppe Verdi]    
@@ -71,7 +71,7 @@ Credits and Cast (i.e., Agents) for all the components should be attached to thi
     Directed by: Charles Sturridge <span style="color:blue">(La vergine degli angeli)</span>   
     ‘Images’: Jean-Luc Godard <span style="color:blue">(Armide)</span>  
     Directed by: Julien Temple <span style="color:blue">(Rigoletto)</span>  
-    Directed by: Bruce Beresford <span style="color:blue">(Die tote Stadt)</span> 
+    Directed by: Bruce Beresford <span style="color:blue">(Die tote Stadt)</span>   
     Directed by: Robert Altman <span style="color:blue">(Les Boréades)</span>  
     Directed by; Franc Roddam <span style="color:blue">(Liebestod)</span>   
     Directed by: Ken Russell <span style="color:blue">(Nessun Dorma)</span>  
