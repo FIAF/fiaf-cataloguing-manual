@@ -60,7 +60,7 @@ For example:
     [10] I Pagliacci  Bill Bryden/I Pagliacci ["Vesti la Giubba" from "I Pagliacci" by Ruggiero Leoncavallo]  
     The beginning of Segment 10 is used as linking material between previous segments.  
 
-Credits and Cast (i.e., Agents) for all the components should be attached to this single Work record, following on-screen credits as far as possible but also including an indication of which component they belong to where the on-screen credits may not be clear on this. This also helps in 
+Credits and Cast (i.e., Agents) for all the components should be attached to this single Work record, following on-screen credits as far as possible but also including an indication of which component they belong to where the on-screen credits may not be clear on this. This also helps in distinguishing credits for the anthology moving image as a whole and those pertaining just to a particular component story of it.
 
 !!! example "Example"
     Aria (USA/United Kingdom, 1987)  
