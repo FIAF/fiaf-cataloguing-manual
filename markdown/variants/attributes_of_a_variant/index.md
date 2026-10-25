@@ -89,10 +89,14 @@ It was common, especially in the silent film industry, to make different endings
     Variant Title: Derry Girls (TV series, Season 1 broadcast on Netflix in USA from 2018-12-21)  
     There were sometimes different pieces of music and songs used on the soundtrack of USA and international broadcasts of       episodes of the series. This was due to music licensing and rights whereby the original songs used were licensed to          Channel 4's broadcasts in the United Kingdom and Ireland.
 
-!!! example "Example"
-    Work Title: My Sister's Husband (Nigeria, 2021. Emeka Madu. Original language - English)
-    Variant Title: Omusajja Wa Mwanniya (voice-over translation into Luganda by VJ (Video Jockey) Stevo, in a translation        track laid on top of the original audio and the latter still audible).[^2]
+!!! example "Example"  
+    Work Title: My Sister's Husband (Nigeria, 2021. Emeka Madu. Original language - English)  
+    Variant Title: Omusajja Wa Mwanniya (voice-over translation into Luganda by VJ (Video Jockey) Stevo, in a translation        track laid on top of the original audio, with the latter still audible).[^2]    
 
+!!! example "Example"  
+    Work Title: Princess Tyra (Ghana/Nigeria, 2007. Frank Rajah Arase. Original language - English)  
+    Variant Title: Princess Tyra (voice-over translation into Swahili by VJ Loba)  
+    Variant Title: Princess Tyra (voice-over translation into Luganda by VJ Stevo, released online via YouTube and Daily         Motion streaming channels)  
 
 **Sonorised Variant**
 
@@ -126,6 +130,6 @@ A Variant may have more than one type. For example, a Variant for a restoration 
 
 
 [^1]: YCR, 2.1.1 Nature of modification (change in content) of expression
-[^2] Use of popular Video Jockeys to create translated versions into Luganda and Swahili of Nigerian or other foreign films is common in East African countries such as Uganda and Tanzania. Instead of just doing a direct, literal translation as found in subtitled or dubbed language versions of a film, the VJs act as live oral storytellers using a mixture of translated dialogue, narration, and commentary which is laid on top of the soundtrack, with the original language still audible. Besides performing these voice-over translations live at screenings, they are also often recorded and made available as a pre-mixed voiceover soundtrack on physical media and digital platforms showing the films.
+[^2] Use of popular Video Jockeys to create translated versions into Luganda or Swahili of Nigerian or other foreign films is common in East African countries such as Uganda and Tanzania. Instead of just doing a direct, literal translation as found in subtitled or dubbed language versions of a film, the VJs act as live oral storytellers using a mixture of translated dialogue, narration, and commentary which is laid on top of the soundtrack, with the original language still audible. Besides performing these voice-over translations live at screenings, they are also often recorded and made available as a pre-mixed voiceover soundtrack on physical media and digital platforms showing the films.
 
 
