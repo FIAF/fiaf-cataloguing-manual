@@ -156,7 +156,7 @@ nav:
   - Rights:
     - Rights: rights/index.md
     - Rights in a Manifestation: rights/rights_in_a_manifestation/index.md
-    - Examples: rights/rights_in_an_item/index.md
+    - Examples: rights/examples/index.md
 
   - Appendices:
     - Restorations: restorations/index.md
