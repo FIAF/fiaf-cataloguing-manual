@@ -19,6 +19,8 @@ Because responsibility for moving image materials is most often complex and high
 
 **Authority Records**
 
+In many relational databases Agents have their own actual records with their own identifier fields such as reference numbers, activities, nationality, etc. In these cases, relevant name/agent fields within Works, Variants, Manifestations, and Items will link through to these Agent records.
+
 Agent records should contain additional important metadata to aid disambiguation and correct identification. It is important to have such other identification factors relating to any Agent records in order for clarity, especially where there are different people/organisations with identical or very similar names.
 An Agent record should always include the following core information:
 
