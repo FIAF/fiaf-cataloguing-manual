@@ -45,7 +45,8 @@ The different component titles may be added as alternative titles to the Work re
 For example:
 
 !!! example "Example"  
-    Aria (United States of America/United Kingdom, 1987)    
+    Aria (United States of America/United Kingdom, 1987)  
+    
     Ten directors interpret various operatic arias:  
     On-screen titles [and sources] for segments (which are not numbered on-screen) are:  
     [1] Un Ballo in Maschera  Nicolas Roeg/Un Ballo in Maschera [extracts from "Un ballo in Maschera" by Giuseppe Verdi]    
