@@ -41,35 +41,28 @@ Create alternative titles for cases where, in the judgment of the cataloguer, su
 
     Alternative title: Blake Edwards’ Victor/Victoria (title from onscreen)
 
-!!! example "Example"
-    Work 
+!!! example "Example"  
+    Work  
 
     Preferred title: Il Casanova di Federico Fellini 
+    
+    Alternative (Parallel) title: Fellini’s Casanova  
+    
+    Alternative title: Casanova  
 
-    Alternative (Parallel) title: Fellini’s Casanova 
+    Variant  
 
-    Alternative title: Casanova 
-
-    Variant 
-
-    Preferred title for English language version: Fellini’s Casanova 
-
-    (Research indicates that the possessive form of proper name 
-
-    is part of the English release title.) 
-
-    Alternative (Parallel) title for English language version: 
-
-    Il Casanova di Federico Fellini 
-
-    Alternative title: Casanova
+    Preferred title for English language version: Fellini’s Casanova (Research indicates that the possessive form of proper      name is part of the English release title.) 
+    
+    Alternative (Parallel) title for English language version: Il Casanova di Federico Fellini  
+    
+    Alternative title: Casanova  
 
 !!! example "Example"
     Work/Variant/Manifestation/Item 
 
-    Preferred title: Fisherman’s luck? 
-
-    Alternative (Part) title: Gandy Goose in Fisherman’s luck?
+    Preferred title: Fisherman’s luck?  
+    Alternative (Part) title: Gandy Goose in Fisherman’s luck?  
 
 <a id="sec-possessives"></a>
 ## Possessives
