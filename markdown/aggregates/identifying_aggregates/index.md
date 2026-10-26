@@ -50,6 +50,20 @@ With these there was no original intention for the components to be independent[
 The different component titles may be added as alternative titles to the Work record to assist in retrieval or access, and/or details of individual component titles and content given in the synopsis field on the Work.
 For example:
 
+!!! example "Example"  
+    Aria (United States of America/United Kingdom, 1987)  
+    
+    Ten directors interpret various operatic arias:  
+    On-screen titles [and sources] for segments (which are not numbered on-screen) are:  
+    [1] Un Ballo in Maschera  Nicolas Roeg/Un Ballo in Maschera [extracts from "Un ballo in Maschera" by Giuseppe Verdi]    
+    [2] La Vergine degli Angeli  Charles Sturridge/La Forza del destino ["La vergine degli angeli" from "La forza del  destino" by Giuseppe Verdi]  
+    [3] Armide  Jean-Luc Godard/Armide ["Enfin il est en ma puissance" and other extracts from "Armide" by Jean-Baptiste Lully]  
+    [4] Rigoletto  Julien Temple/Rigoletto ["La Donna è Mobile" and other extracts from "Rigoletto" by Giuseppe Verdi]  
+    [5] Die tote Stadt  Bruce Beresford/Die tote Stadt ["The Lute Song" from "Die tote Stadt" by Erich Korngold  
+    [6] Les Boréades Robert Altman/Les Boréades ["Suite des vents", "Lieu désolé", "Jouissons, jouissons!" from "Les Boréades" by Jean-Philippe Rameau]  
+    [7] Liebestod  Frank Roddam/Tristan und Isolde ["Liebestod" from "Tristan und Isolde" by Richard Wagner]  
+    [8] Nessun Dorma  Ken Russell/Turandot ["Nessun Dorma" from "Turandot" by Giacomo Puccini]  
+
 !!! example "Example"
     Aria (United States of America, UK, 1987)
 
