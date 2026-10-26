@@ -24,6 +24,9 @@ Commonly-occurring relationships include:[^2]
 !!! example "Example"
     Pink Floyd: live at Pompeii (Belgium,West Germany, France, 1972, Adrian Maben ), concert filmed in the old Pompeii amphitheatre.
 
+!!! example "Example"  
+    Matthew Bourne's Sleeping Beauty (United Kingdom, 2013-12-25), filmed performance of the ballet from the Bristol             Hippodrome, featuring the New Adventures ballet company in May 2013 and broadcast on BBC2 on 25th December 2013.  
+
 *Work(s) that the moving image Work forms part of (e.g. series/serials, aggregations/compilations)*
 
 !!! example "Example"
