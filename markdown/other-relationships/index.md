@@ -39,7 +39,9 @@ Commonly-occurring relationships include:[^2]
 
     The Godfather Part II 
 
-    The Godfather Part III Francis Ford Coppola (United States of America, 1972- 1974-1990)
+    The Godfather Part III   
+    
+    Francis Ford Coppola (United States of America, 1972- 1974-1990)
 
 *Work(s) about the moving image Work (e.g. documentary about the making of a feature film or TV programme)*
 
@@ -63,7 +65,7 @@ Commonly-occurring relationships include:[^2]
     Land and freedom (United Kingdom, 1995, Ken Loach), script Land and freedom (c.1993) (script for ‘Land and freedom’, with opening sequence different from earlier scripts).
 
 !!! example "Example"
-    Carry on camping (United Kingdom, 1969, Gerald Thomas), archival documents - general production correspondence including notes from the pre-production meeting, studio agreement, final screen credits, and draft trailer script).
+    Carry on camping (United Kingdom, 1969, Gerald Thomas), archival documents (general production correspondence including notes from the pre-production meeting, studio agreement, final screen credits, and draft trailer script).
 
 !!! example "Example"
     The wicked lady (United Kingdom, 1945, Leslie Arliss), costume
@@ -211,9 +213,7 @@ Similarly, in the case of restorations where separate Items or elements have bee
 *Item that is the source of a moving image Item (e.g. In-house copying of an Item to create a new Item for preservation or access)*
 
 !!! example "Example"
-    35mm CTA Duplicating Postive copy of Carnival (c.1927) made from a 35mm 
-
-      Nitrate Negative copy of Carnival (c.1927)
+    35mm CTA Duplicating Postive copy of Carnival (c.1927) made from a 35mm Nitrate Negative copy of Carnival (c.1927)  
 
 *Non-moving image Works/Items (e.g. Objects, documents, etc. relating to a specific Item)*
 
