@@ -112,7 +112,7 @@ These titles should then be linked to the collection-level description in either
 - Conceptual collection work, i.e. a group of Works conceived or curated by the filmmaker or an Archive Curator
   
 !!! example "Example"
-   Victorian Cinema Compilations - a curated collection of 17 compilation films relating to pre-1901 material held by the BFI
+    Victorian Cinema Compilations - a curated collection of 17 compilation films relating to pre-1901 material held by the       BFI  
 
 
 - Aggregate compilation videos/DVDs that are collections of individual works existing as entities in their own right, e.g. "Portrait of a miner" is a DVD of various Mining review shorts which had their own individual release as complete entities or works.
