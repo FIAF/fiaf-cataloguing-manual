@@ -26,14 +26,12 @@ The vast majority of commercial DVD editions now contain “extras” and so are
 
   Example:
 
-!!! example "Example"
-    2003 Warner Home Video publication of Casablanca (1943).
+!!! example "Example"  
+    2003 Warner Home Video publication of Casablanca (1943).  
+    
+    The Collection aspects of the aggregate include the theatrically released motion picture; documentaries “You must  remember this” and “Bacall on Bogart”; the Looney Tunes homage “Carrotblanca”; premier episode from the “Casablanca” TV series; and, original and reissue theatrical trailers.  
 
-!!! example "Example"
-    The Collection aspects of the aggregate include the theatrically released motion picture; documentaries “You must remember this” and “Bacall on Bogart”; the Looney Tunes homage “Carrotblanca”; premier episode from the “Casablanca” TV series; and, original and reissue theatrical trailers.
-
-!!! example "Example"
-    The Augmentation aspects of the aggregate include an introduction by Lauren Bacall; nearly 10 minutes of newly found deleted scenes and outtakes; “Screen Guild Players Radio Production” with the three stars, plus rare scoring session outtakes; production history gallery (includes photos, press materials, studio correspondence, memorabilia, musical outtakes); and, two separate feature-length audio commentaries by Roger Ebert and Rudy Behlmer.
+    The Augmentation aspects of the aggregate include an introduction by Lauren Bacall; nearly 10 minutes of newly found deleted scenes and outtakes; “Screen Guild Players Radio Production” with the three stars, plus rare scoring session outtakes; production history gallery (includes photos, press materials, studio correspondence, memorabilia, musical outtakes); and, two separate feature-length audio commentaries by Roger Ebert and Rudy Behlmer.  
 
 <a id="sec-parallel_aggregates"></a>
 ## Parallel Aggregates
@@ -42,12 +40,12 @@ Identical moving image Works/Variants but in different languages released on one
   Example:
 
 !!! example "Example"
-    Le declin de l’empire American/The decline of the American Empire (1986)
+    Le declin de l’empire American/The decline of the American Empire (1986)  
+    
+    A publication in 2004 by Seville Films contains three language versions; French dialogue, English dubbed dialogue,    English subtitles. There is complete parallelism between the English and French Variants; each is equal in duration and, except for the language, appear to be equivalent.
 
-!!! example "Example"
-    A publication in 2004 by Seville Films contains three language versions; French dialogue, English dubbed dialogue, English subtitles. There is complete parallelism between the English and French Variants; each is equal in duration and, except for the language, appear to be equivalent.
+For Aggregate Manifestations record the length/duration of the whole, i.e. the total of all the units/running times that constitute the Aggregate.  
 
-For Aggregate Manifestations record the length/duration of the whole, i.e. the total of all the units/running times that constitute the Aggregate.
 In addition there is the option to qualify this with details of the duration of each individual unit in either a Notes field, or in multiple occurrences of the duration fields, depending on what systems used permit or an institution decides.
 (See [Physical Extent of an Aggregate Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-physical_extent_of_an_aggregate_manifestation) and [Duration of an Aggregate Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-duration_of_an_aggregate_manifestation))
 
