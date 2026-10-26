@@ -62,7 +62,27 @@ For example:
     [5] Die tote Stadt  Bruce Beresford/Die tote Stadt ["The Lute Song" from "Die tote Stadt" by Erich Korngold  
     [6] Les Boréades Robert Altman/Les Boréades ["Suite des vents", "Lieu désolé", "Jouissons, jouissons!" from "Les Boréades" by Jean-Philippe Rameau]  
     [7] Liebestod  Frank Roddam/Tristan und Isolde ["Liebestod" from "Tristan und Isolde" by Richard Wagner]  
-    [8] Nessun Dorma  Ken Russell/Turandot ["Nessun Dorma" from "Turandot" by Giacomo Puccini]  
+    [8] Nessun Dorma  Ken Russell/Turandot ["Nessun Dorma" from "Turandot" by Giacomo Puccini]   
+    [9] Depuis le jour  Derek Jarman/Louise ["Depuis le jour" from "Louise" by Gustave Charpentier]  
+    [10] I Pagliacci  Bill Bryden/I Pagliacci ["Vesti la Giubba" from "I Pagliacci" by Ruggiero Leoncavallo]  
+    The beginning of Segment 10 is used as linking material between previous segments.  
+
+Credits and Cast (i.e., Agents) for all the components should be attached to this single Work record, following on-screen credits as far as possible but also including an indication of which component they belong to where the on-screen credits may not be clear on this. This also helps in distinguishing credits for the anthology moving image as a whole and those pertaining just to a particular component story of it.
+
+!!! example "Example"
+    Aria (USA/United Kingdom, 1987)  
+
+    Credits  
+
+    Directed by: Nicolas Roeg <span style="color:blue"> (Un ballo in maschera)</span>    
+    Directed by: Charles Sturridge <span style="color:blue">(La vergine degli angeli)</span>   
+    ‘Images’: Jean-Luc Godard <span style="color:blue">(Armide)</span>  
+    Directed by: Julien Temple <span style="color:blue">(Rigoletto)</span>  
+    Directed by: Bruce Beresford <span style="color:blue">(Die tote Stadt)</span>   
+    Directed by: Robert Altman <span style="color:blue">(Les Boréades)</span>  
+    Directed by; Franc Roddam <span style="color:blue">(Liebestod)</span>   
+    Directed by: Ken Russell <span style="color:blue">(Nessun Dorma)</span>  
+    Directed by: Derek Jarman <span style="color:blue">(Depuis le jour)</span>  
 
 
 
