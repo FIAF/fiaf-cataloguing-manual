@@ -12,7 +12,7 @@ The Types below reflect terms used in Section 4.1.2 Attributes in the CEN standa
 
 ### Analytic (component part)
 Content that is contained in another content.
-A component part may itself be either monographic or serial. Component here means intentional component part not fragments or excerpts of a moving image, e.g. an individual element from a larger newsreel issue.
+A component part may itself be either monographic or serial. Component here means intentional component part not fragments or excerpts of a moving image, e.g. an individual element from a larger newsreel issue, or element from an anthology film.
 
 !!! example "Example"
     Work [Monographic] – Topical Budget 657-1 
