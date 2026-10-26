@@ -82,53 +82,35 @@ Credits and Cast (i.e., Agents) for all the components should be attached to thi
     Directed by: Robert Altman <span style="color:blue">(Les Boréades)</span>  
     Directed by; Franc Roddam <span style="color:blue">(Liebestod)</span>   
     Directed by: Ken Russell <span style="color:blue">(Nessun Dorma)</span>  
-    Directed by: Derek Jarman <span style="color:blue">(Depuis le jour)</span>  
-
-
-
- 
-
-**Credits and Cast** (i.e., Agents) for all the components should be attached to this single Work record, following on-screen credits as far as possible but also including an indication of which component they belong to where the on-screen credits may not be clear on this.
-
-For example:
-
- - Title
-
- **Aria (Original)**
-
- Credits
-
-&nbsp;&nbsp;&nbsp;&nbsp;Directed by: Nicolas Roeg Un ballo in maschera, Charles Sturridge La vergine degli angeli
-&nbsp;&nbsp;&nbsp;&nbsp;‘Images’: Jean-Luc Godard Armide, Julien Temple Rigoletto, Bruce Beresford Die tote Stadt
-&nbsp;&nbsp;&nbsp;&nbsp;Directed by: Robert Altman Les Boréades, Franc Roddam Liebestod, Ken Russell, Derek Jarman Depuis le jour, Bill Bryden I Pagliacci
-&nbsp;&nbsp;&nbsp;&nbsp;©: LightYear Entertainment, Virgin Vision
-&nbsp;&nbsp;&nbsp;&nbsp;Produced... by: Boyd’s Company
-&nbsp;&nbsp;&nbsp;&nbsp;Presents: RSV Productions, Virgin Vision
-&nbsp;&nbsp;&nbsp;&nbsp;A Don Boyd production: Don Boyd, Jim Mervis, RVP Productions, Tom Kuhn, Charles Mitchell
-&nbsp;&nbsp;&nbsp;&nbsp;Produced by: Don Boyd
-
-&nbsp;&nbsp;&nbsp;&nbsp;Co-producer (for Virgin Vision): Al Clark, Mike Watts
-&nbsp;&nbsp;&nbsp;&nbsp;Co-ordinating Associate Producer: David Barber
-&nbsp;&nbsp;&nbsp;&nbsp;Co-ordinating Associate Producer: Michael Hamlyn
-&nbsp;&nbsp;&nbsp;&nbsp;Co-ordinating Associate Producer: Paul Spencer, Richard Bell Un ballo in maschera, Luc Roeg Un ballo in maschera, Paul Spencer La vergine degli angeli, Nessun Dorma, I      Pagliacci, François Hamel Armide, Amanda Pirie Rigoletto, Iain Brown Die tote Stadt, Scott Bushnell Les Boréades, Joni Sighvatsson Liebestod, James Mackay
-&nbsp;&nbsp;&nbsp;&nbsp;Depuis le jour
-&nbsp;&nbsp;&nbsp;&nbsp;Associate Producer: Michael Hamlyn I Pagliacci
-&nbsp;&nbsp;&nbsp;&nbsp;Associate Producer: Kevan Pegley I Pagliacci
-&nbsp;&nbsp;&nbsp;&nbsp;Executive in Charge of Production: Arnold J. Holland, Joan Aceste
-&nbsp;&nbsp;&nbsp;&nbsp;European Production Co-ordinator: Gabrielle Tana
-&nbsp;&nbsp;&nbsp;&nbsp;US Production Co-ordinator: Elizabeth Moyer
-&nbsp;&nbsp;&nbsp;&nbsp;Written by: Nicolas Roeg Un ballo in maschera, Charles Sturridge La vergine degli angeli, Julien Temple Rigoletto, Bruce Beresford Die tote Stadt, Robert Altman
-&nbsp;&nbsp;&nbsp;&nbsp;Les Boréades, Franc Roddam Liebestod, Ken Russell Nessun Dorma, Derek Jarman
-&nbsp;&nbsp;&nbsp;&nbsp;Depuis le jour, Bill Bryden I Pagliacci, Don Boyd I Pagliacci
-&nbsp;&nbsp;&nbsp;&nbsp;Director of Photography: Harvey Harrison Un ballo in maschera, Gale Tattersall La vergine degli angeli, Caroline Champetier Armide, Oliver Stapleton Rigoletto, Dante        Spinotti Die tote Stadt, Pierre Mignot Les Boréades, Frederick Elmes Liebestod, Gabriel Beristáin Nessun Dorma, I Pagliacci, Mike Southon Depuis le jour, Christopher        Hughes Depuis le jour
-&nbsp;&nbsp;&nbsp;&nbsp;Special Stills Photographer: Snowdon Un ballo in maschera, John Swannell La vergine degli angeli, Jonathan Lennard Armide, Greg Gorman Rigoletto, Bob Carlos Clarke Die      tote Stadt, David Bailey Les Boréades, Annie Leibovitz Liebestod, Terry O’Neill Nessun Dorma, Angus McBean Depuis le jour, Koo Stark I Pagliacci
-&nbsp;&nbsp;&nbsp;&nbsp;Supervising Co-ordinating Editor: Marie-Thérèse Boiché
+    Directed by: Derek Jarman <span style="color:blue">(Depuis le jour)</span> 
+    Directed by: Bill Bryden <span style="color:blue">(I Pagliacci)</span>  
+    ©: LightYear Entertainment, Virgin Vision  
+    Production company: Boyd’s Company  
+    Production company: RSV Productions  
+    Production company: Virgin Vision  
+    Produced by: Don Boyd  
+    Co-producer (for Virgin Vision): Al Clark, Mike Watts  
+    Executive in Charge of Production: Arnold J. Holland, Joan Aceste  
+    European Production Co-ordinator: Gabrielle Tana  
+    US Production Co-ordinator: Elizabeth Moyer...  
+    ...  
+    Director of Photography: Harvey Harrison <span style="color:blue">(Un ballo in maschera)</span>   
+    Director of Photography: Gale Tattersall <span style="color:blue">(La vergine degli angeli)</span>  
+    Director of Photography: Caroline Champetier <span style="color:blue">(Armide)</span>  
+    Director of Photography: Oliver Stapleton <span style="color:blue">(Rigoletto)</span>  
+    Director of Photography: Dante Spinotti <span style="color:blue">(Die tote Stadt)</span>  
+    Director of Photography: Pierre Mignot <span style="color:blue">(Les Boréades)</span>   
+    Director of Photography: Frederick Elmes <span style="color:blue">(Liebestod)</span>    
+    Director of Photography: Gabriel Beristáin <span style="color:blue">(Nessun Dorma)</span>  
+    Director of Photography: Gabriel Beristáin <span style="color:blue">(I Pagliacci)</span>  
+    Director of Photography: Mike Southon <span style="color:blue">(Depuis le jour)</span>   
+    Director of Photography: Christopher Hughes <span style="color:blue">(Depuis le jour)</span>    
 
 Each component title should not usually be created as a new Work, as this is not how the content was conceived (i.e., it was designed to be packaged and viewed together and is not separable) and none of them would then have any Manifestation record as an individual Work.
+
 Those institutions that have the ability or desire to separate them out to tie separate descriptions (e.g., credits) to each component part (i.e. representing a parent-child relationship), may represent them as Analytic Works (see [Work/Variant Description Types](../../works/attributes_of_a_moving_image_work_variant/index.md#sec-work_variant_description_type)).
 
-Should an institution acquire some or all of the components on different physical Items, then these should be linked to the Manifestation for the whole.
-In such cases it is simply a matter of a partial/incomplete acquisition, in the same way that only 2 reels of a 3 reel feature film might be acquired.
+Should an institution acquire some or all of the components on different physical Items, then these should be linked to the Manifestation for the whole. In such cases it is simply a matter of a partial/incomplete acquisition, in the same way that only 2 reels of a 3 reel feature film might be acquired.
 
 Intellectually these multi-component films are “hybrid” aggregates – they consist of semi-independently created Works, i.e. each can be very different and made by different directors and/or production companies – but they were always envisaged as forming a whole with the other components; although some or even all may sometimes subsequently also be released as individual shorts.
 
