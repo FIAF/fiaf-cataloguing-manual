@@ -64,22 +64,11 @@ For example:
     [7] Liebestod  Frank Roddam/Tristan und Isolde ["Liebestod" from "Tristan und Isolde" by Richard Wagner]  
     [8] Nessun Dorma  Ken Russell/Turandot ["Nessun Dorma" from "Turandot" by Giacomo Puccini]  
 
-!!! example "Example"
-    Aria (United States of America, UK, 1987)
 
- Ten directors interpret various operatic arias:
 
- On-screen titles [and sources] for segments (which are not numbered on-screen) are:
+ 
 
- [1] Un ballo in maschera Nicolas Roeg/Un ballo in maschera [extracts from “Un ballo in maschera” by Giuseppe Verdi]
-
- [2] La vergine degli angeli Charles Sturridge/La forza del destino [“La vergine degli angeli” from “La forza del destino” by Giuseppe Verdi]
-
- [3] Armide Jean-Luc Godard/Armide [«Enfin il est en ma puissance» and other extracts from «Armide» by Jean-Baptiste Lully]
-
- [4] Rigoletto Julien Temple/Rigoletto [“La donna è mobile” and other extracts from “Rigoletto” by Giuseppe Verdi]….
-
-**Credits** (i.e., Agents) for all the components should be attached to this single Work record, following on-screen credits as far as possible but also including an indication of which component they belong to where the on-screen credits may not be clear on this.
+**Credits and Cast** (i.e., Agents) for all the components should be attached to this single Work record, following on-screen credits as far as possible but also including an indication of which component they belong to where the on-screen credits may not be clear on this.
 
 For example:
 
