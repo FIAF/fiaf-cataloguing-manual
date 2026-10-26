@@ -61,7 +61,7 @@ Such compilations can be structured in the same way as [Collection Aggregates](/
 
 In instances of untitled reels containing multiple different newsreel/cinemagazine story elements, then a [partially supplied title](/titles/suppplied_devised_titles/#sec-partially_supplied_devised_titles) or [fully supplied title](/titles/suppplied_devised_titles/#sec-partially_supplied_devised_titles) can be created, along with any useful additional alternative or help titles.
 
-So for example, an institution may have created several compilation reels made up of different stories from different issues of a newsreel from a particular year, e.g. *Die Deutsche Wochenschau 1944*. Compilation reel 2. 
+So for example, an institution may have created several compilation reels made up of different stories from different issues of a newsreel from a particular year, e.g. *Die Deutsche Wochenschau 1944. Compilation reel 2*. 
 
 If the original intention of the compilation is unknown, e.g. whether it was created for a particular purpose such as an educational event held by the institution, or for public screening in their cinema, etc. was not recorded at the time, or has since been lost, then the Item can be linked to a an "Unknown" Manifestation. If the institution then subsequently makes a digital copy and uses that to stream the compilation film on YouTube or another platform then that digital Item would link to an Internet Manifestation, i.e.
 
