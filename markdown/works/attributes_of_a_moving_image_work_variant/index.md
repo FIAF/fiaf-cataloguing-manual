@@ -35,8 +35,16 @@ A component part may itself be either monographic or serial. Component here mean
 
 ### Monographic
 Complete content in one part or intended to be completed in a finite number of parts.
-This is also applicable to television episodes.
-The record for the television series itself is catalogued as a Serial.
+
+
+!!! example "Example"
+    Gangs of Lagos (Nigeria, 2023). Jadesola Osiberu.
+
+!!! example "Example"
+    Harry Potter and the goblet of fire (United Kingdom/United States of America, 2005). Mike Newell.
+
+This is also applicable to television episodes.  
+The record for the television series itself is catalogued as a Serial.  
 
 !!! example "Example"
     Coronation Street [1960-12-09] 
