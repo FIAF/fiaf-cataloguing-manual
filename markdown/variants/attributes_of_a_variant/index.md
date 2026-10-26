@@ -131,7 +131,7 @@ A Variant may have more than one type. For example, a Variant for a restoration 
     Variant characteristics:  i) French language Version, ii) format specific 9.5mm Pathé Edition, iii) short version – 3        minutes –, iv)  black and white.  
 
 
-[^1]: YCR, 2.1.1 Nature of modification (change in content) of expression
+[^1]: YCR, 2.1.1 Nature of modification (change in content) of expression  
 [^2] Use of popular Video Jockeys to create translated versions into Luganda or Swahili of Nigerian or other foreign films is common in East African countries such as Uganda and Tanzania. Instead of just doing a direct, literal translation as found in subtitled or dubbed language versions of a film, the VJs act as live oral storytellers using a mixture of translated dialogue, narration, and commentary which is laid on top of the soundtrack, with the original language still audible. Besides performing these voice-over translations live at screenings, they are also often recorded and made available as a pre-mixed voiceover soundtrack on physical media and digital platforms showing the films.
 
 
