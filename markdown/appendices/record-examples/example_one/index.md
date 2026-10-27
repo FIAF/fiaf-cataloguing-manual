@@ -7,72 +7,72 @@ Fields and data in black are additional elements and data, that also mainly corr
 
 Core concepts ([Core elements of description](../../preliminary/core_elements_of_description/index.md#sec-core_elements_of_description))
 
-Title  
-Series/Serial  
-Cast  
-Credits  
-Country of reference  
-Original format  
-Original Length  
-Original duration  
-Language  
-Year of reference  
-Identifier  
-Subject/genre/form  
-Content description  
+<span style="color:blue"> Title </span>  
+<span style="color:blue"> Series/Serial </span>  
+<span style="color:brown"> Cast </span>  
+<span style="color:brown"> Credits </span>    
+<span style="color:turquoise"> Country of reference </span>    
+<span style="color:purple"> Original format </span>   
+<span style="color:orange"> Original Length </span>    
+<span style="color:orange"> Original duration </span>   
+<span style="color:grey"> Language </span>  
+<span style="color:pink"> Year of reference </span>   
+<span style="color:grey"> Identifier </span>    
+<span style="color:green"> Subject/genre/form </span>    
+<span style="color:green"> Content description </span>    
 
 **3-Level Hierarchy Model**
 
 | **WORK** |  |
 | --- | --- |
-| Title [Title] | Title type |
-| The Ladykillers | Original |
-| The Lady killers | Help search |
+| <span style="color:blue"> Title [Title] </span> | <span style="color:blue"> Title type </span> |
+| <span style="color:blue"> The Ladykillers </span> | Original </span> |
+| <span style="color:blue"> The Lady killers </span> | Help search </span> |
 | Filmographic level: Monographic |  |
-| Production country [Country of reference] : United Kingdom |  |
-| Date(s) [Year of reference] | Date type |
-| 1955 | Copyright |
-| 1955-12 | Release |
-| Category [Form]: Fiction | Genre [Subject/Genre]: Comedy, Crime |
-| Synopsis: A gang of train robbers hide out at the lodgings of one of them, posing as an amateur string quartet. The innocent and upright elderly lady who owns the house is used by them, and is an inadvertent catalyst for their plans unravelling and the gang turning on each other. |  |
-| On-screen credit | Name [Credits] |
-| Directed by | Mackendrick, Alexander |
-| Production Company | Ealing Studios |
-| A Production by | Balcon, Michael |
-| Associate Producer | Holt, Seth |
-| Unite Production Manager | Peers, David |
-| Production Supervisor | Mason, Hal |
-| Assistant Director | Pevsner, Tom |
-| [Assistant Director (2nd)] | Meadows, John |
-| [Assistant Director (3rd)] | Birkett, Michael |
-| Continuity | Manheim, Felicia |
-| Story and Screenplay by | Rose, William |
-| Director of Photography | Heller, Otto |
-| Technicolor Colour Consultant | Bridge, Joan |
-| Camera Operator | Waterson, Chic (as Waterson, Chick) |
-| [Focus Puller] | Parslow, Ray |
-| [Clapper Loader] | Bryce, Alan |
-| [Stills] | Hanscomb, Harold |
-| Special Effects | Pearson, Syd (as Pearson, Sydney) |
-| Editor | Harris, Jack |
-| Assistant Editor | Aldous, Harry |
-| [Assistant Editor (2nd)] | Clark, Jim |
-| [Assistant Editor (2nd)] | Clark, Robin |
-| Art Director | Morahan, Jim |
-| [Assistant Art Director] | Davey, Bert |
-| [Draughtsman] | Shampan, Jack |
-| Scenic Artist | Robinson, W. Simpson |
-| Costume Designer | Mendleson, Anthony |
-| Make-up | Garfath, Alec (as Garfath, Alex) |
-| Hairstyles | Martin, Daphne |
-| Music Composed by | Cary, Tristram |
-| Played by | The Sinfonia of London |
-| Conducted by | Mathieson, Dock |
-| Recordist | Wilkins, Leo |
-| Sound Supervisor | Dalby, Stephen (as Dalby, Steven) |
-| [Sound Assistant] | Fairbairn, Harry |
-| [Boom Operator] | Wortham, Don |
-| Sound Editor | Stone, Gordon |
+|<span style="color:turquoise"> Production country [Country of reference]: United Kingdom </span> |  |
+| <span style="color:pink"> Date(s) [Year of reference] </span>| <span style="color:pink"> Date type </span> |
+| <span style="color:pink"> 1955 </span> | <span style="color:pink"> Copyright </span> |
+| <span style="color:pink"> 1955-12 </span> | <span style="color:pink"> Release </span> |
+| <span style="color:green"> Category [Form]: Fiction </span> | <span style="color:green"> Genre [Subject/Genre]: Comedy, Crime </span> |
+| <span style="color:green"> Synopsis: A gang of train robbers hide out at the lodgings of one of them, posing as an amateur string quartet. The innocent and upright elderly lady who owns the house is used by them, and is an inadvertent catalyst for their plans unravelling and the gang turning on each other. </span> |  |
+| <span style="color:brown"> On-screen credit </span> | <span style="color:brown"> Name [Credits] </span> |
+| <span style="color:brown"> Directed by </span> | <span style="color:brown"> Mackendrick, Alexander </span> |
+| <span style="color:brown"> Production Company </span> | <span style="color:brown"> Ealing Studios </span> |
+| <span style="color:brown"> A Production by </span> | <span style="color:brown"> Balcon, Michael </span> |
+| <span style="color:brown"> Associate Producer </span> | <span style="color:brown"> Holt, Seth </span> |
+| <span style="color:brown"> Unite Production Manager </span> | <span style="color:brown"> Peers, David </span> |
+| <span style="color:brown"> Production Supervisor </span> | <span style="color:brown"> Mason, Hal </span> |
+| <span style="color:brown"> Assistant Director </span> | <span style="color:brown"> Pevsner, Tom </span> |
+| <span style="color:brown"> [Assistant Director (2nd)] </span> | <span style="color:brown"> Meadows, John </span> |
+| <span style="color:brown"> [Assistant Director (3rd)] </span> | <span style="color:brown"> Birkett, Michael </span> |
+| <span style="color:brown">Continuity </span> | <span style="color:brown"> Manheim, Felicia </span> |
+| <span style="color:brown"> Story and Screenplay by </span> | <span style="color:brown"> Rose, William </span> |
+| <span style="color:brown"> Director of Photography </span> | <span style="color:brown"> Heller, Otto </span> |
+| <span style="color:brown"> Technicolor Colour Consultant </span> | <span style="color:brown"> Bridge, Joan </span> |
+| <span style="color:brown"> Camera Operator </span> | <span style="color:brown"> Waterson, Chic (as Waterson, Chick) </span> |
+| <span style="color:brown"> [Focus Puller] </span>| <span style="color:brown"> Parslow, Ray </span> |
+| <span style="color:brown"> [Clapper Loader] </span> | <span style="color:brown"> Bryce, Alan </span> |
+| <span style="color:brown"> [Stills] </span>| <span style="color:brown"> Hanscomb, Harold </span> |
+| <span style="color:brown"> Special Effects </span> | <span style="color:brown"> Pearson, Syd (as Pearson, Sydney) </span> |
+| <span style="color:brown"> Editor </span> | <span style="color:brown"> Harris, Jack </span> |
+| <span style="color:brown"> Assistant Editor </span> | <span style="color:brown"> Aldous, Harry </span> |
+| <span style="color:brown"> [Assistant Editor (2nd)] </span> | <span style="color:brown"> Clark, Jim </span> |
+| <span style="color:brown"> [Assistant Editor (2nd)] </span> | <span style="color:brown"> Clark, Robin </span> |
+| <span style="color:brown">Art Director </span> | <span style="color:brown"> Morahan, Jim </span> |
+| <span style="color:brown"> [Assistant Art Director] </span> | <span style="color:brown"> Davey, Bert </span> |
+| <span style="color:brown"> [Draughtsman]</span> | <span style="color:brown"> Shampan, Jack </span> |
+| <span style="color:brown">  Scenic Artist </span>| <span style="color:brown"> Robinson, W. Simpson </span> |
+| <span style="color:brown"> Costume Designer </span> | <span style="color:brown"> Mendleson, Anthony </span> |
+| <span style="color:brown">Make-up </span> | <span style="color:brown"> Garfath, Alec (as Garfath, Alex) </span> |
+| <span style="color:brown"> Hairstyles </span> | <span style="color:brown"> Martin, Daphne </span> |
+| <span style="color:brown"> Music Composed by </span> | <span style="color:brown"> Cary, Tristram </span> |
+| <span style="color:brown"> Played by </span> | <span style="color:brown"> The Sinfonia of London </span> |
+| <span style="color:brown"> Conducted by </span>| <span style="color:brown"> Mathieson, Dock </span> |
+| <span style="color:brown"> Recordist </span> | <span style="color:brown"> Wilkins, Leo </span> |
+| <span style="color:brown"> Sound Supervisor </span> | <span style="color:brown"> Dalby, Stephen (as Dalby, Steven) </span> |
+| <span style="color:brown"> [Sound Assistant] </span> | <span style="color:brown"> Fairbairn, Harry </span> |
+| <span style="color:brown"> [Boom Operator] </span> | <span style="color:brown"> Wortham, Don </span> |
+| <span style="color:brown"> Sound Editor </span> | <span style="color:brown"> Stone, Gordon </span> |
 |  |  |
 | Character | Name [Cast] |
 | Professor Marcus | Guinness, Alec |
