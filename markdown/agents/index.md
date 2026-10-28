@@ -1,19 +1,27 @@
 
-An Agent can be a Person, a Corporate body, a Collective agent, or a Family. [INSERT FOOTNOTE RDA/LRM Agent entity and subtypes]
+An Agent can be a Person, a Corporate body, a Collective agent, or a Family.[^1] 
 
-For recording the attributes of Agents (e.g. first name, last name, nationality, etc.), refer to authoritative sources such as AACR2, applicable RDA chapters for recording attributes of Persons, Families, and Corporate Bodies,[^1] Functional requirements for authority data: a conceptual model, [^2]  or tools such as the Virtual International Authority File (VIAF) (viaf.org), Library of Congress Linked Data Service (id.loc.gov), Getty Union List of Artists Names (ULAN),  BnF (France), GND (Germany), Bnelab (Spain), the [Library of Congress Name Authority File](https://authorities.loc.gov/cgi-bin/Pwebrecon.cgi?RefCodes=3&ref=1&hd=1,1&SEQ=20130523194229&Search_Arg=Ethnology-United%20States&Search_Code=SHED_&CNT=100&PID=mYzkzT0fYryqza3XpBkr08lSvjsf&SID=8), or International Standard Name Identifier (ISNI) 126.127 
-
-It is also recommended where possible to register key Agents with any of the aforementioned authority bodies if they are not already included. 
+Record the Agent(s) and their function in the terms and language in which they appear, either in the sources of information or in the language of the institution, or both.[^2] 
 
 Optionally, if the Agent is credited under a name that is not identical with the preferred name from an authority file, record the name as used in the current instance of the related entity. 
-Some databases may include fields and structures to deal with various alternative or credited forms of the Agent name. 
+Some databases may include fields and structures to deal with various alternative or credited forms of the Agent name. These may vary from institution to institution according to the types of moving image material held. 
 
-Give the Agent(s) and Agent Activity in the terms and language in which they appear, either in the sources of information or in the language of the institution, or both. 
+Because responsibility for moving image materials is most often complex and highly diverse, institutions - particularly those with special interests - should determine the number of Agents and the types of roles and activities they wish to include, e.g. the total of all cast and credits of a Work.
 
-In many relational databases Agents have their own actual records with their own identifier fields such as reference numbers, activities, nationality, alternative/credited names, birth and death dates, biographies, etc. 
-In these cases, relevant name/agent fields within Works, Variants, Manifestations, and Items will link through to these Agent records. 
+| **Work** | **Variant** | **Manifestation** | **Item** |
+| --- | --- | --- | --- |
+| Cast | Dubbing cast | Distributor/Publisher | Acquisition source (e.g. donor) |
+| Cinematographer/ Director of photography | Additional credits | Broadcaster | Curator |
+| Presenter | Additional cast | Streaming Channel | Lab technician |
+| Director |  | Manufacturer | Archivist |
+| Producer |  |  |  |
+| Production Company |  |  |  |
 
-Agent records in such database systems should contain such additional important metadata to aid disambiguation and correct identification. It is important to have such other identification factors relating to any Agent records in order for clarity, especially where there are different people/organisations with identical or very similar names.
+**Authority Records**
+
+In many relational databases Agents have their own actual records with their own identifier fields such as reference numbers, activities, nationality, etc. In these cases, relevant name/agent fields within Works, Variants, Manifestations, and Items will link through to these Agent records.
+
+Agent records should contain additional important metadata to aid disambiguation and correct identification. It is important to have such other identification factors relating to any Agent records in order for clarity, especially where there are different people/organisations with identical or very similar names.
 An Agent record should always include the following core information:
 
 -  the main preferred form of name
@@ -29,7 +37,7 @@ And ideally, also include the following, as applicable and if known:
 -  nationality
 -  VIAF or other international name identifier
 
-As with establishing country of reference for a moving image ([ADD LINK BACK TO THIS]), place/country/nationality may be impacted by historical geopolitical considerations, e.g. those Agents who were born and died in areas of what was previously northern India before partition, but which are now in Pakistan or Bangladesh. 
+As with establishing [country of reference for a moving image work](/work/elements_of_a_work_variant/#sec-country_of_reference), place/country/nationality may be impacted by historical geopolitical considerations, e.g. those Agents who were born and died in areas of what was previously northern India before partition, but which are now in Pakistan or Bangladesh. 
 
 In database systems where place and country of birth/death are together in one field and taken from controlled lists of terms that default to the most recent corresponding country, then qualifying notes should ideally be added for clarity, for example:
 
@@ -50,7 +58,9 @@ In the same way, an Agent whose life and moving image works spanned across chang
 
 Institutions should also consider relevant national or international legislation relating to holding personal data in making decisions about what data to capture, e.g. General Data Protection Regulation (GDPR), Personal Data Protection Acts (PDPA), etc.
 
-Agent records may also be related/linked to other Agent records, e.g. 
+**Agent Relationships**
+
+Agent records may be related/linked to other Agent records, e.g. 
 
 <center><object data="/images/Screenshot_agentrecordeg1.png" width="100%"></object></center>
 
@@ -74,24 +84,11 @@ A relationship captured between people and/or organisation records can also act 
 Having these identification factors are important for both public users or researchers searching for relevant information, and also cataloguers adding cast and credits, distributors, etc. to moving image records and needing to identify and create links to the correct Person/Organisation Agent records.
 
 
-Agent(s) may also have relationships to an instance of a specific Event or of an “Other” relationship in connection with the Work, Variant, Manifestation or Item, e.g. cinema of a premiere screening, film classification body, film laboratory, etc. 
+Agent(s) may also have relationships to an instance of a specific [Event](/events/events/index.md) or of an “Other” relationship in connection with the Work, Variant, Manifestation or Item, e.g. cinema of a premiere screening, film classification body, film laboratory, etc. 
 
-Because responsibility for moving image materials is most often complex and highly diverse, institutions - particularly those with special interests - should determine the number of Agents and the types of roles and activities they wish to include. 
-
-These may vary from institution to institution according to the types of moving image material held. 
-
-| **Work** | **Variant** | **Manifestation** | **Item** |
-| --- | --- | --- | --- |
-| Cast | Dubbing cast | Distributor/Publisher | Acquisition source (e.g. donor) |
-| Cinematographer/ Director of photography | Additional credits | Broadcaster | Curator |
-| Presenter | Additional cast | Streaming Channel | Lab technician |
-| Director |  | Manufacturer | Archivist |
-| Producer |  |  |  |
-| Production Company |  |  |  |
-
-For further information see 13.2.1.1 Agent Activity – Works/Variants - ADD LINK]
 
 A more in depth look at Agents, especially within an RDA/LRM context can be found here [ADD LINK TO CIRCE'S PAPER AND DIAGRAMS - yET TO BE UPLOADED ONTO CDC WEBSITE SECTION]
 
-[^1]: RDA 2.20.7.3
-[^2]: Patton, Glenn E. 2009. Functional requirements for authority data: a conceptual model. München: K.G. Saur.
+[^1]: EN 15907, 5.1 Agent, or relevant parts in RDA/LRM Agent entity and subtypes.
+[^2]: For recording the attributes of Agents (e.g. first name, last name, nationality, etc.), refer to authoritative sources such as AACR2, applicable RDA chapters for recording attributes of Persons, Families, and Corporate Bodies(see RDA 2.20.7.3). Functional requirements for authority data: a conceptual model (Patton, Glenn E. 2009. Functional requirements for authority data: a conceptual model. München: K.G. Saur), or tools such as the Virtual International Authority File (VIAF) (viaf.org), Library of Congress Linked Data Service (id.loc.gov), Getty Union List of Artists Names (ULAN),  BnF (France), GND (Germany), Bnelab (Spain), the [Library of Congress Name Authority File](https://id.loc.gov/authorities/names.html), or International Standard Name Identifier (ISNI). It is also recommended where possible to register key Agents with any of the aforementioned authority bodies if they are not already included. 
+
