@@ -81,8 +81,18 @@ It was common, especially in the silent film industry, to make different endings
 
 !!! example "Example"  
     Work Title: Jaws (USA, 1975. Steven Spielberg)  
-    Variant Title: Jaws (USA, 2012. Steven Spielberg)  
-    Digitally restored 4K Ultra-HD version released on Blu-ray internationally on 14th August 2012.
+    Variant Title: Jaws (USA, 2012)  
+    Digitally restored 4K Ultra-HD version released on Blu-ray internationally on 14th August 2012. Restored by Universal        Pictures as part of their Centennial Project.  
+
+!!! example "Example"    
+    Work Title: Saïd Effendi (Iraq, 1957. Kameran Hosni)    
+    Variant Title: Saïd Effendi (Iraq, 2025)    
+    4K digital restoration of the black and white film, restored by the Iraqi Cinematheque Project and The Al-Hasan Ibn         Al-Haytham Committee for Iraqi Visual Memory, and the Institut National de l'Audiovisuel (INA).  
+
+!!! example "Example"    
+    Work Title: Touki Bouki (Senegal, 1973. Djibril Diop Mambéty)  
+    Variant Title: Touki Bouki (Senegal, 2008)  
+    2K digital restoration by the Cineteca di Bologna/L’Immagine Ritrovata laboratory, in association with The Film              Foundation’s World Cinema Project and the family of director Djibril Diop Mambéty.  
 
 **Different Soundtrack Variant**
 
