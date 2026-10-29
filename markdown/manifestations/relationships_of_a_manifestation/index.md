@@ -10,7 +10,7 @@ A Manifestation may have relationships with the following:
 
 - [Agent(s)](/agents/agents_for_works_variants/#sec-agents_for_works_variant)
 - [Event(s)](/works/relationships_of_a_work/#sec-work_event)
-- [Other Relationships](/other_relationships/other_relationships_for_works_variants_manifestations_items/#sec-manifestation_other_relationship_types)
+- [Other Relationships](/other-relationships/other_relationships_for_works_variants_manifestations_items/#sec-manifestation_other_relationship_types)
 - [Item(s)](/items/#sec-moving_image_items)
 - [Work(s)](/works/#sec-moving_image_work)
 - [Variant(s)](/variants/#sec-moving_image_variant)
