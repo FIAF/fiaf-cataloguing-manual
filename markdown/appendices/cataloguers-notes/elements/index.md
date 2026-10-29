@@ -1,5 +1,3 @@
-<a id="sec-elements"></a>
-## Elements
 
 Provide additional or explanatory information for any WVMI elements, particularly in cases where this information is not recorded elsewhere in dedicated fields.
 This is offered for users that do not have the option of structuring this information as described in these guidelines.
