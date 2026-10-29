@@ -1,5 +1,3 @@
-<a id="sec-rights_in_a_moving_image_work"></a>
-### Rights in a Moving Image Work or Variant
 
 Rights in the Work vs Rights in the Item: Ownership of a physical or digital item of a work does not necessarily imply ownership of copyright or exploitation rights in the work embodied within it.
 
