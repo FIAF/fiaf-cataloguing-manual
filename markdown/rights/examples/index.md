@@ -16,8 +16,8 @@ In the Bundesarchivs database, rights are attached to the Work. Here is an examp
 
 <center><object data="/images/barch_rights_01.PNG" width="100%"></object></center>
 <center><object data="/images/barch_rights_02.PNG" width="100%"></object></center>
-<center><object data="/images/barch_rights_03.PNG" width="100%"></object></center>
-<center><object data="/images/barch_rights_04.PNG" width="100%"></object></center>
+<center><object data="/images/barch_rights_03.PNG" width="150%"></object></center>
+<center><object data="/images/barch_rights_04.PNG" width="50%"></object></center>
 
 ## Example: Amateur Film
 
@@ -26,4 +26,4 @@ System: Filemaker Pro, database developed and designed in-house guided by FIAF C
 Collection: Donated outright to the National Library of Scotland by the filmmaker’s family.
 Filmmaker: Frank Marshall. Biography of 'MARSHALL, Frank M.' - Moving Image Archive - onsite catalogue
 
-<center><object data="/images/rights_amateur.png" width="100%"></object></center>
+<center><object data="/images/rights_amateur.png" width="80%"></object></center>

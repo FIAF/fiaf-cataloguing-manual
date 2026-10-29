@@ -23,52 +23,54 @@ A change in colour, which is a physical property, expresses a different Manifest
 
 **Censored Variant**
 
-!!! example "Example"
+!!! example "Example"  
     It's a wonderful life (USA, 1946. Frank Capra)      
     Qué bello es vivir! (Censored Variant: Spain, 1948. 7 minutes shorter due to censorship cuts removing scenes relating to     positive mention or depiction of housing co-operatives, deemed subversive by the Franco government)  
 
-!!! example "Example"
+!!! example "Example"  
     Saturday Night Fever (USA, 1976) (119 minutes, R (Restricted) certification)    
     Saturday Night Fever (USA, 1979 (c.109 minutes, PG (Parental Guidance) certification. Muted/dubbed out certain swearing      and edited out drug references, violence, and a rape scene).
 
 
 **Dubbed Variant**
 
-!!! example "Example"
+!!! example "Example"  
     Work Title: Jour de fête (Tati, Jacques, 1947, FR)     
     Variant Title: Het is feest vandaag (Dubbed version 1964, dubbed in Dutch)    
     Variant Title: Tatis Schützenfest (Dubbed version 1964, dubbed in German  )
 
 **Subtitled Variant**
 
-!!! example "Example"
+!!! example "Example"  
     Work Title: Im Westen nichts Neues (Germany, 2022. Edward Berger)  
     Variant Title: All quiet on the Western Front (Subtitled version, 2022, subtitles in English)  
 
 **Abridged Variant (or Shortened Variant)**
 
-!!! example "Example"
+!!! example "Example"  
     Work Title: Newfoundland - Atlantic province (Canada, 1949. Sydney Newman. Running time: 18 minutes)   
     Variant Title: Inside Newfoundland (Canada, 1949, Sydney Newman. Running time: 11 minutes)  
 
 **Augmented Variant**
 
-!!! example "Example"
+!!! example "Example"  
     Work Title: Terminator 2: Judgement Day (USA, 1991. James Cameron. Running time: 137 minutes)    
     Variant Title: Terminator 2: Judgement Day (Special Edition) (USA, 1993. Running time: 154 minutes). Re-inserting            previously deleted scenes.    
     Variant Title: Terminator 2: Judgement Day (Extended Special Edition) (aka Terminator 2: Judgement Day (Skynet Edition))     (USA, 2009. Running time: 156 minutes). Includes all the insertions from the Special Edition Variant plus an altered         ending.
 
 **Alternative ending Variant**
 
-An alternate ending that changes the whole story line of film may also be deemed a major change warranting a new Work. This still remains as an option even where a full 4-level data hierarchy structure is used by an institution. It is for the cataloguer to assess and decide. For those who do not use the Variant in cataloguing then instances of alternate endings that substantially change the story would mean creating a new Work and linking the two versons of the film in an associative relationship. Thus, the alternate less ambiguous ending with a more positive outlook of a central character at the end of the Extended Special Edition Terminator 2 example above could be assessed as being a subtle change (and so a Variant) rather than a more stark sad vs. happy ending which changes the entire storyline and feel of a moving image (and so different enough to constitute a different Work). 
+An alternate ending that changes the whole story line of film may also be deemed a major change warranting a new Work. This still remains as an option even where a full 4-level data hierarchy structure is used by an institution. It is for the cataloguer to assess and decide. 
+For those who do not use the Variant in cataloguing then instances of alternate endings that substantially change the story would mean creating a new Work and linking the two versons of the film in an associative relationship. Thus, the alternate less ambiguous ending with a more positive outlook of a central character at the end of the Extended Special Edition Terminator 2 example above could be assessed as being a subtle change (and so a Variant) rather than a more stark sad vs. happy ending which changes the entire storyline and feel of a moving image (and so different enough to constitute a different Work). 
+
 If used, institutions should set rules on how to select which ending is the work and which one is the alternative.
 
-!!! example "Example"
+!!! example "Example"  
     Work title: Rukoj materi (Russia, 1913. Yakov Protazanov) (Original sad ending - the daughter lying in her coffin having     been accidentally killed by her mother)    
     Alternative ending Variant (Foreign export version, 1913) (Happy ending - where the daughter lives)
 
 
-!!! example "Example"
+!!! example "Example"  
     Work Title : La Belle équipe (France, 1936. Julien Duvivier) (Happy ending - there is reconciliation after a jealous         confrontation between two friends)    
     Alternative Ending Variant Title : La Belle équipe (France, 1936. Julien Duvivier) (Sad ending - the confrontation leads     to a tragedy). The sad ending version is what was released and circulated outside France.  
 
@@ -78,47 +80,69 @@ It was common, especially in the silent film industry, to make different endings
 **Restoration Variant**
 For a more detailled discussion of the term restoration see also the [Appendix](/restorations/index.md).
 
-!!! example "Example"
+!!! example "Example"  
     Work Title: Jaws (USA, 1975. Steven Spielberg)  
-    Variant Title: Jaws (USA, 2012. Steven Spielberg)  
-    Digitally restored 4K Ultra-HD version released on Blu-ray internationally on 14th August 2012.
+    Variant Title: Jaws (USA, 2012)  
+    Digitally restored 4K Ultra-HD version released on Blu-ray internationally on 14th August 2012. Restored by Universal        Pictures as part of their Centennial Project.  
+
+!!! example "Example"    
+    Work Title: Saïd Effendi (Iraq, 1957. Kameran Hosni)    
+    Variant Title: Saïd Effendi (Iraq, 2025)    
+    4K digital restoration of the black and white film, restored by the Iraqi Cinematheque Project and The Al-Hasan Ibn         Al-Haytham Committee for Iraqi Visual Memory, and the Institut National de l'Audiovisuel (INA).  
+
+!!! example "Example"    
+    Work Title: Touki Bouki (Senegal, 1973. Djibril Diop Mambéty)  
+    Variant Title: Touki Bouki (Senegal, 2008)  
+    2K digital restoration by the Cineteca di Bologna/L’Immagine Ritrovata laboratory, in association with The Film              Foundation’s World Cinema Project and the family of director Djibril Diop Mambéty.  
 
 **Different Soundtrack Variant**
 
-!!! example "Example"
+!!! example "Example"  
     Work Title: Derry Girls (TV series, Season 1 first broadcast in the UK on Channel 4 2018-01-04 to 2018-02-08)  
     Variant Title: Derry Girls (TV series, Season 1 broadcast on Netflix in USA from 2018-12-21)  
     There were sometimes different pieces of music and songs used on the soundtrack of USA and international broadcasts of       episodes of the series. This was due to music licensing and rights whereby the original songs used were licensed to          Channel 4's broadcasts in the United Kingdom and Ireland.
 
+!!! example "Example"  
+    Work Title: My Sister's Husband (Nigeria, 2021. Emeka Madu. Original language - English)  
+    Variant Title: Omusajja Wa Mwanniya (voice-over translation into Luganda by VJ (Video Jockey) Stevo, in a translation        track laid on top of the original audio, with the latter still audible).[^2]    
+
+!!! example "Example"  
+    Work Title: Princess Tyra (Ghana/Nigeria, 2007. Frank Rajah Arase. Original language - English)  
+    Variant Title: Princess Tyra (voice-over translation into Swahili by VJ Loba)  
+    Variant Title: Princess Tyra (voice-over translation into Luganda by VJ Stevo, released online via YouTube and Daily         Motion streaming channels)  
+
 **Sonorised Variant**
 
-!!! example "Example"
-    Work Title: La passion de Jeanne d'Arc (France, 1928. Carl Th. Dreyer)   
+!!! example "Example"  
+    Work Title: La passion de Jeanne d'Arc (France, 1928. Carl Th. Dreyer)    
     Variant Title: La passion de Jeanne d'Arc (France, 1952) (Added music track using music by composers such as Bach,           Vivaldi, and Albinoni)
 
 **Colourised Variant**
 
-!!! example "Example"
-    Work Title: Scrooge (United Kingdom, 1951. Brian Desmond Hurst) (Black and white original film)    
+!!! example "Example"  
+    Work Title: Scrooge (United Kingdom, 1951. Brian Desmond Hurst) (Black and white original film)     
     Variant Title: Scrooge (United Kingdom, 2012) (Colourised version of the film)  
 
 **Monochromised**
 
-!!! example "Example"
+!!! example "Example"  
     Work Title: Nightmare Alley (USA/Mexico/Canada, 2021. Guillermo del Toro) (Filmed and released in Colour)    
     Variant Title: Nightmare Alley: Vision in Darkness and Light (USA/Mexico/Canada, 2022) (Black and white version of the       film)  
 
 A Variant may have more than one type. For example, a Variant for a restoration of a film with new, or previously missing, intertitles with restored tinting or toning and an added music track featuring the original music composed for playing with the film. Or for a shortened, different format, black and white, dubbed version:
 
-!!! example "Example"
+!!! example "Example"  
     Work Title: Nosferatu. Eine Symphonie des Grauens (Germany, 1922. F.W. Murnau)   
-    Restoration + Tinted/Toned + Different sound track Variant Title: Nosferatu. Eine Symphonie des Grauens (2006 German         version)
+    Restoration + Tinted/Toned + Different sound track Variant Title: Nosferatu. Eine Symphonie des Grauens (2006 German         version)  
     Variant characteristics: i) Digitally restored original German intertitles (including some previously missing); ii) new      added music track; iii) tinted  
 
-!!! example "Example"
+!!! example "Example"  
     Work Title: Wet Paint (USA, 1946. Jack King)    
     Variant Title : Donald s'attendrit (France, c.1950)  
     Variant characteristics:  i) French language Version, ii) format specific 9.5mm Pathé Edition, iii) short version – 3        minutes –, iv)  black and white.  
 
 
 [^1]: YCR, 2.1.1 Nature of modification (change in content) of expression
+[^2] Use of popular Video Jockeys to create translated versions into Luganda or Swahili of Nigerian or other foreign films is common in East African countries such as Uganda and Tanzania. Instead of just doing a direct, literal translation as found in subtitled or dubbed language versions of a film, the VJs act as live oral storytellers using a mixture of translated dialogue, narration, and commentary which is laid on top of the soundtrack, with the original language still audible. Besides performing these voice-over translations live at screenings, they are also often recorded and made available as a pre-mixed voiceover soundtrack on physical media and digital platforms showing the films.
+
+
