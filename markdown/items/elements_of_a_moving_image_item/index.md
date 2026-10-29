@@ -183,8 +183,7 @@ Indicate the presence or absence of sound in the Item. Selection should be made 
 - Combined  
 - Combined as Mute  
 - Combined as Sound  
-- Mixed  
-- Temporary 
+- Mixed
 
 Record only if this information is not captured at the Manifestation level or if required at the Item level by the system in use.
 
