@@ -236,8 +236,10 @@ A very ambitious application might result in the following structure, where sepa
 
 Each of these Manifestations differs from the others in terms of its technical parameters (e.g., encoding, resolution, compression, file formats), which justifies the separation into different Manifestations.
 
-!!! example "Example"  
-    The great white silence (United Kingdom, Herbert Pointing, 1924) (DVD –Dual Format Edition – BFI) (2010 restoration  
+For a more detailled discussion of the term restoration see also the [Appendix](/restorations/index.md).
+
+!!! example "Example"
+    The great white silence (United Kingdom, Herbert Pointing, 1924) (DVD –Dual Format Edition – BFI) (2010 restoration)
 
 !!! example "Example"  
     Metropolis (Germany, Fritz Lang, 1927)  

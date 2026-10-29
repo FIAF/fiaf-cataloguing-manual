@@ -45,6 +45,8 @@ Cataloguing digital Items has become a lot more important and less streamlined. 
 
 An analogue feature film with 5 reels/cans of a duplicate negative image and negative optical sound has each been scanned for a restoration project. The aim was to create a DCP for cinema screenings and a viewing file for streaming.
 
+For a more detailled discussion of the term restoration see also the [Appendix](/restorations/index.md).
+
 Question: How to catalogue these Items?
 
 Answer: One way to do it, would be to link all the digital Items with the Manifestation associated with the source Item, and create the digital Items as:  
