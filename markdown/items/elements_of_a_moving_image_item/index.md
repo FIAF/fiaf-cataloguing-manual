@@ -16,7 +16,7 @@ Further data relating to the condition, preservation, location, and, [acquisitio
 
 These may be either added to the Item description itself or, where this is not possible, related to other separate files or databases, via physical link or text indication.
 
-A useful collection of technical metadata on digital Items as well as data collected during digitisation, can be found [here](https://docs.google.com/spreadsheets/d/1cm4KBG_e-bdMppKOcYsFTck7vv5rJDwRI9z0RYX5bNM/edit?gid=646006523#gid=646006523).
+A useful collection of technical metadata on digital Items as well as data collected during digitisation, can be found [here](https://docs.google.com/spreadsheets/d/1cm4KBG_e-bdMppKOcYsFTck7vv5rJDwRI9z0RYX5bNM/edit?gid=646006523#gid=646006523). This spreadsheet was created by a Task Force in the CDC, headed by Elzbieta Wysocka.
 
 <a id="sec-item_identifier"></a>
 ## Identifier
@@ -183,8 +183,7 @@ Indicate the presence or absence of sound in the Item. Selection should be made 
 - Combined  
 - Combined as Mute  
 - Combined as Sound  
-- Mixed  
-- Temporary 
+- Mixed
 
 Record only if this information is not captured at the Manifestation level or if required at the Item level by the system in use.
 

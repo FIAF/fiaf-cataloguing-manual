@@ -9,7 +9,7 @@ This is often applied to untitled or unidentified entities or production materia
 This section helps in the construction of both partially or fully supplied/devised titles for Works, Variants, Manifestations and Items.
 
 Partially or fully supplied/devised titles facilitate the discovery and identification of moving images without formal title.
-The title itself should be descriptive, describing the Work as succinctly as possible.[^29]
+The title itself should be descriptive, describing the Work as succinctly as possible.[^1]
 
 Supplied/Devised titles are implemented for:
 
@@ -72,7 +72,7 @@ Not all the above information has to be in the archive title if not discernible,
 <center><object data="/diagrams/supplied_devised.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 <a id="sec-partially_supplied_devised_titles"></a>
-## Partially Supplied/Devised Titles[^4]
+## Partially Supplied/Devised Titles[^2]
 Partially supplied/devised titles are applied in cases where the moving image content from a Manifestation/item has:
 
 - a recognised form
@@ -99,7 +99,7 @@ a compilation of outtakes from 60 Minutes) is another case where a Work may have
 
 Institutions should rely upon in-house lists of standardised form terms to be used as additions to/indexed as an attribute of such related titles, or utilise established standardised lists such as Library of Congress Genre/Form Terms for Library and Archival Materials (LCGFT), or rely upon the “form terms” list provided in [List of form terms for Supplied/Devised titles](../../appendices/value-lists/list_of_form_terms_for_supplied_devised_titles/index.md#sec-list_of_form_terms_for_supplied_devised_titles).
 
-**General guidelines for Partially Supplied/Devised titles**[^30]
+**General guidelines for Partially Supplied/Devised titles**[^3]
 
 Formulate the Partially supplied/devised title by recording in the order suggested, the following three components, in a manner that it will clearly and uniquely identify the content being catalogued.
 
@@ -174,11 +174,11 @@ OR
 
 For constructing partially supplied/devised titles where the moving image is a component part of a known larger Work, but the title of the component part is not known:
 
-If the content probably was released or broadcast or published with a title, but the title is missing, supply/devise a title with the word “unidentified.” If it is known that the content falls into a form category, add a form term as listed in the “form term” list.[^31]
+If the content probably was released or broadcast or published with a title, but the title is missing, supply/devise a title with the word “unidentified.” If it is known that the content falls into a form category, add a form term as listed in the “form term” list.[^4]
 
 Descriptive phrases, which are short statements summarising the moving image, can also be used in association with a titled Work, in conjunction with the form term.
 
-Any further description may be added following a period, or a dash.[^32] For example, the type of test (screen test), the person tested, or the particular sequence(s) in an excerpt, may be specified in the title field where necessary or warranted.
+Any further description may be added following a period, or a dash.[^5] For example, the type of test (screen test), the person tested, or the particular sequence(s) in an excerpt, may be specified in the title field where necessary or warranted.
 
 Optionally (or additionally), this data can also be indexed in specific fields dedicated to this content.
 
@@ -243,7 +243,7 @@ AND/OR
 
 2) A FORM qualifier, e.g. Commercial, Interview, Rushes, Screentest, etc. [Either added as a component to the title itself, or indexed in specific field(s)]
 
-Where ascertainable, when the content being described consists of one specific form, supply the form using standardised vocabulary.[^33]
+Where ascertainable, when the content being described consists of one specific form, supply the form using standardised vocabulary.[^6]
 
 Optionally (or additionally), establish a link with the form index adopted by the archive.
 
@@ -258,14 +258,14 @@ Institutions should rely upon in-house lists of standardised form terms, or util
 
     Home movies
 
-If the content being described consists of two or more forms, record the one or two most predominate forms followed by the phrase “and other content,”[^34] or “and other segments” or something similar as long as consistency is achieved.
+If the content being described consists of two or more forms, record the one or two most predominate forms followed by the phrase “and other content,”[^7] or “and other segments” or something similar as long as consistency is achieved.
 
 !!! example "Example"
     CBS bloopers, commercials and other content
 
 It is recommended that institutions stipulate within the supplied/devised title that the footage is unedited (e.g.
 “unedited footage” or “unedited content”), as an overall way of characterising the form of the content.
-This may not be appropriate in all cases.[^35]
+This may not be appropriate in all cases.[^8]
 
 !!! example "Example"
     Animals. Unedited footage
@@ -290,11 +290,11 @@ This may not be appropriate in all cases.[^35]
 
 Where ascertainable, supply standardised or controlled terms or phrases that most precisely and succinctly characterise what the content is about (e.g. persons, corporate bodies, objects, activities, events, geographical area).
 
-Where ascertainable, record the name(s) of the person(s), family (families) or corporate body (bodies) predominately responsible for the creation, assembly, accumulation and/or maintenance of the content.[^36] An agent relationship should be associated with a Work, Variant or Manifestation/item depending on the type of contribution involved.
+Where ascertainable, record the name(s) of the person(s), family (families) or corporate body (bodies) predominately responsible for the creation, assembly, accumulation and/or maintenance of the content.[^9] An agent relationship should be associated with a Work, Variant or Manifestation/item depending on the type of contribution involved.
 
-Record or index the name(s) in the form by which the creator/collector/assembler, etc. is generally known in natural language order.[^37]
+Record or index the name(s) in the form by which the creator/collector/assembler, etc. is generally known in natural language order.[^10]
 
-If no name has been recorded, but the subject of the content is a person, family or corporate body, express the title in a way that clearly indicates that the subject of the content is the named person, family or corporate body.[^38]
+If no name has been recorded, but the subject of the content is a person, family or corporate body, express the title in a way that clearly indicates that the subject of the content is the named person, family or corporate body.[^11]
 
 !!! example "Example"
     Compilation on Emmanuelle Devos 
@@ -311,15 +311,12 @@ If no name has been recorded, but the subject of the content is a person, family
 
     James Cagney, ca. 1965. Interviews  
 
-      ABC Network fall season preview. 1964-65 season. Unedited footage  
-
-    optionally: Unedited footage. ABC Network fall season preview. 1964-65 season 
+    ABC Network fall season preview. 1964-65 season. Unedited footage   
+    optionally: Unedited footage. ABC Network fall season preview. 1964-65 season   
 
     Academy Awards, 17th. Best actor and actress. Unedited footage  
-
-    optionally, Unedited footage. Academy Awards, 17th. Best actor and actress  
-
-    optionally, Unedited 17th Academy Awards footage. Best actor and actress 
+    optionally: Unedited footage. Academy Awards, 17th. Best actor and actress    
+    optionally: Unedited 17th Academy Awards footage. Best actor and actress  
 
     Academy Awards. Award presentation, Conrad Nagel. Unedited footage 
 
@@ -338,8 +335,7 @@ Use numbers to distinguish separate content when there is more than one unidenti
     Unidentified cartoon 
 
     Unidentified cartoon. Warner Brothers  
-
-    optionally: Unidentified Warner Brothers cartoon 
+    optionally: Unidentified Warner Brothers cartoon   
 
     Unidentified short about Africa 
 
@@ -350,16 +346,13 @@ Use numbers to distinguish separate content when there is more than one unidenti
     Unidentified films. Excerpts 
 
     Unidentified film. Kay Kyser musical  
+    optionally: Unidentified Kay Kyser musical   
 
-    optionally: Unidentified Kay Kyser musical 
+    Unidentified film. Warner Brothers. Outtakes  
+    optionally: Unidentified Warner Brothers outtakes   
 
-    Unidentified film. Warner Brothers. Outtakes 
-
-    optionally: Unidentified Warner Brothers outtakes 
-
-    Unidentified film. Western 
-
-    optionally: Unidentified Western 
+    Unidentified film. Western  
+    optionally: Unidentified Western   
 
     Unidentified newsreel. Excerpts. Auto race subjects, 1930s 
 
@@ -367,9 +360,8 @@ Use numbers to distinguish separate content when there is more than one unidenti
 
     High game 
 
-    Unidentified newsreel, Russian 
-
-    optionally: Unidentified Russian newsreel 
+    Unidentified newsreel, Russian  
+    optionally: Unidentified Russian newsreel   
 
     Unidentified shorts 
 
@@ -379,7 +371,7 @@ Use numbers to distinguish separate content when there is more than one unidenti
 
     Unidentified television series. Quiz show. Unidentified episodes
 
-For a more comprehensive list of form terms to use with FULLY or PARTIALLY Supplied/Devised titles, see table List of form terms for Supplied/Devised titles [ADD LINK].
+For a more comprehensive list of form terms to use with FULLY or PARTIALLY Supplied/Devised titles, see table [List of form terms for Supplied/Devised titles](/titles/supplied_devised_titles/#sec-list_of_form_terms_for_supplied_devised_titles).
 
 <a id="sec-music_videos"></a>
 ## Music videos
@@ -489,12 +481,14 @@ NBC programs (a collection of promos for NBC programs) - The Three Musketeers. (
 | unedited sound track | For unedited sound track recorded for a particular moving image. | - Stargate: The Ark of Truth. Unedited sound track |
 
 
-[^30]: This section, including form terms and examples, is based on or taken from FIAF 1.4.3 Additions to titles;Yee/UCLA 5.1.2; AMIM2 1F1.1
-[^31]: Taken almost wholly from Yee/UCLA, 5.2.2.1. Unidentified materials released or broadcast with a title
-[^32]: The punctuation used is less important than following a consistent order and conforming to standard terminology.
-[^33]: Adapted from DACS, 2.3.18, pp. 20-21.
-[^34]: Adapted from DACS, 2.3.18, pp. 20-21.
-[^35]: Based on Yee/UCLA, 5.2.3
-[^36]: DACS, 2.3.4, p. 18.
-[^37]: DACS, 2.3.4, p. 18.
-[^38]: Adapted from DACS, 2.3.22, p. 22.
+[^1]; Based on OLAC (2009), Part 3a, pp. 8-9.
+[^2]: This section, including form terms and examples, is based on or taken from FIAF 1.4.3 Additions to titles;Yee/UCLA 5.1.2; AMIM2 1F1.1
+[^3]: This section, including form terms and examples, is based on or taken from FIAF 1.4.3 Additions to titles;Yee/UCLA 5.1.2; AMIM2 1F1.1
+[^4]: Taken almost wholly from Yee/UCLA, 5.2.2.1. Unidentified materials released or broadcast with a title
+[^5]: The punctuation used is less important than following a consistent order and conforming to standard terminology.
+[^6]: Adapted from DACS, 2.3.18, pp. 20-21.
+[^7]: Adapted from DACS, 2.3.18, pp. 20-21.
+[^8]: Based on Yee/UCLA, 5.2.3
+[^9]: DACS, 2.3.4, p. 18.
+[^10]: DACS, 2.3.4, p. 18.
+[^11]: Adapted from DACS, 2.3.22, p. 22.

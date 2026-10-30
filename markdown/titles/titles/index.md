@@ -6,14 +6,14 @@ The following general guidelines for recording Titles largely apply across all t
 Certain guidelines are specified as applying to one or more of the WVMI entities where pertinent.
 
 When recording a title, apply the guidelines on capitalisation, numbers, diacritical marks, initial articles, spacing of initials and acronyms, and abbreviations, in [Purpose](../../preliminary/purpose_scope_and_use/index.md#sec-purpose).
-If those guidelines refer to an appendix, apply the additional instructions in that appendix, as applicable.[^2]
+If those guidelines refer to an appendix, apply the additional instructions in that appendix, as applicable.[^1]
 
 <a id="sec-title_language"></a>
-## Language[^1]
-Record titles for Works/Variants in the language and script in which they appear on the sources from which they are taken.
+## Language[^2]
+Record titles for Works or Variants in the language and script in which they appear on the sources from which they are taken.
 
-Transcribe titles for Manifestations/Items in the language of the title frames or screens.
-Otherwise, record titles for Manifestations/Items in the language and script in which they appear on the sources from which they are taken.
+Transcribe titles for Manifestations or Items in the language of the title frames or screens.
+Otherwise, record titles for Manifestations or Items in the language and script in which they appear on the sources from which they are taken.
 
 Optionally, record a transliterated form of the title for any of the WVMI entities either as a substitute for, or in addition to, the form that appears on the source.
 
@@ -41,35 +41,28 @@ Create alternative titles for cases where, in the judgment of the cataloguer, su
 
     Alternative title: Blake Edwards’ Victor/Victoria (title from onscreen)
 
-!!! example "Example"
-    Work 
+!!! example "Example"  
+    Work  
 
     Preferred title: Il Casanova di Federico Fellini 
+    
+    Alternative (Parallel) title: Fellini’s Casanova  
+    
+    Alternative title: Casanova  
 
-    Alternative (Parallel) title: Fellini’s Casanova 
+    Variant  
 
-    Alternative title: Casanova 
-
-    Variant 
-
-    Preferred title for English language version: Fellini’s Casanova 
-
-    (Research indicates that the possessive form of proper name 
-
-    is part of the English release title.) 
-
-    Alternative (Parallel) title for English language version: 
-
-    Il Casanova di Federico Fellini 
-
-    Alternative title: Casanova
+    Preferred title for English language version: Fellini’s Casanova (Research indicates that the possessive form of proper      name is part of the English release title.) 
+    
+    Alternative (Parallel) title for English language version: Il Casanova di Federico Fellini  
+    
+    Alternative title: Casanova  
 
 !!! example "Example"
     Work/Variant/Manifestation/Item 
 
-    Preferred title: Fisherman’s luck? 
-
-    Alternative (Part) title: Gandy Goose in Fisherman’s luck?
+    Preferred title: Fisherman’s luck?  
+    Alternative (Part) title: Gandy Goose in Fisherman’s luck?  
 
 <a id="sec-possessives"></a>
 ## Possessives
@@ -173,7 +166,7 @@ Or
 
 It is for an individual institution to decide on the best form of title to use in these cases, balancing exact replication or consistency of stylistics, with database capabalities, search functionalities, and user access.
 
-[^1]: Adapted from RDA 5.4 Language and Script
-[^2]: Adapted from RDA 6.2.1.3 General Guidelines on Recording Titles of Works
+[^1]: Adapted from RDA 6.2.1.3 General Guidelines on Recording Titles of Works
+[^2]: Adapted from RDA 5.4 Language and Script
 [^3]: BFI CID Stylistics Manual, A.2.3 Words not to be capitalised (unless the last word of the title), p. 10
 [^4]: BFI CID Stylistics Manual, A.2.4.4 Numerals in the title; A.2.4.5 & (ampersand) occurring in a title; A.2.4.6 Other characters; A.2.4.7 Unusual symbols not on the system

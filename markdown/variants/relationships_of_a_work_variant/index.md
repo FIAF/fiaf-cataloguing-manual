@@ -16,14 +16,5 @@ A Variant may have relationships with the following:
 - [Manifestation(s)](/manifestations/#sec-moving_image_manifestations)
 - [Other Relationships](/other_relationships/other_relationships_for_works_variants_manifestations_items/#sec-other_relationships)
 
-<a id="sec-Works"></a>
-## Works
-Express the relationship between a Work and a Variant (e.g., Part/part of).
-Describe or demonstrate Work-to-Variant relationships through linking to the Work identifier, through the usage of relator terms, or according to the confines of your data structure.
-
-<a id="sec-manifestations"></a>
-## Manifestations
-Express the relationship between a Variant and a Manifestation (e.g., Part/part of).
-Describe or demonstrate Variant-to-Manifestation relationships through linking to the Variant identifier, through the usage of relator terms, or according to the confines of your data structure.
 
 [^1]: EN 15907 8.1 Relationships. General

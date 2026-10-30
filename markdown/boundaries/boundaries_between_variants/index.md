@@ -1,14 +1,17 @@
 
 
 <a id="sec-boundaries_between_variants"></a>
-It is possible for a moving image Variant to be modified in such a way as to create a new Variant related to the previous one[^1]. The boundaries between one Variant and another may be drawn on the basis of the following alterations to the content.[^2]
+It is possible for a moving image Variant to be modified in such a way as to create a new Variant related to the previous one[^1]. 
 
-This implies the possibility of having a Variant of a Variant, e.g. a shortened version of a film also then has a further dubbed version. This is not covered in the EN15907 standard and many systems may not support this type of structuring technically, or an institution may feel this could lead to overly complex structuring impacting data display and accessibility. 
+This implies the possibility of having a Variant of a Variant, e.g. a shortened version of a film also then has a further dubbed version. Many systems may not support this type of structuring technically, or an institution may feel this could lead to overly complex structuring impacting data display and accessibility. Also, importantly, a Variant of a Variant (or Expression of an Expression) is not supported as a data structure in either EN15907, FRBR, RDA, or LRM, although it is possible within MARC21. 
 
-In cases such as the above example then two separate Variants can be created, as child records of the same Work, and linked together in an associative relationship. A Variant may have more than one Variant Type, so one Variant could have the Variant Type of Shortened Version, while the other has the two Variant Types Shortened Version and Dubbed Version.
+In cases such as the above example, both the shortened version and shortened dubbed version would constitute two separate Variants of the one Work. However, the two Variants can then be further linked together in an associative relationship using a relevant associative term, e.g. Related Variant, Dubbed version of, Variant derived from, etc. A Variant can have more than one Variant Type, so in this case, one Variant would have the Variant Type of Shortened Version, while the other would have the two Variant Types Shortened Version and Dubbed Version.
 
-[INSERT ILLUSTRATIVE DIAGRAM HERE]
 
+<center><object data="/diagrams/bound_variant.drawio.svg" type="image/svg+xml"></object></center>
+
+
+The boundaries between one Variant and another may be drawn on the basis of the following alterations to the content.[^2]  
 
 ## Change in continuity (secondary editing)
 

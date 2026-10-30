@@ -313,7 +313,7 @@ If ISO formatting and/or the Date Precision qualifier are not applied, then use 
 *Where system has date start/ date end functionality*
 
 !!! example "Example"
-    1906 1912
+    Start date: 1906    End date: 1912  
 
 In instances such as these, a note should be given which further explains the Date.
 
