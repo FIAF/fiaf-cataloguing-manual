@@ -6,7 +6,7 @@ FRBR includes the terms “serials” and “series” within examples of Collec
 However, these are in relation to bibliographic materials, and moving image series/serials are not the equivalent of articles written for a periodical, but different in nature.
 
 <a id="sec-film_video_or_tv_series_serials"></a>
-## Film/Video, or Television series/serials - aggregates or not?  
+## Film/Video, or Television series/serials   
 On the surface these would seem to be aggregates as it could be argued they are made up of different components (episodes) brought together to make a “whole” (series/serial).
 However, it is not logical under the definitions of aggregates to structure and view Television or film/video serial/series as aggregating Works.
 
@@ -25,7 +25,7 @@ See example below for The thick of it DVD boxed set:
 
 <center><object data="/diagrams/figure_15.drawio.svg" type="image/svg+xml"></object></center>
 
-Alternatively, a model similar to [Model: Collection Aggregate Manifestation within a many-to-many Works/Variants-Manifestation database system](../../aggregates/modelling_aggregates/index.md#sec-collection_aggregate_manifestation_within_a_many_to_many) can be used, whereby a single Aggregate Manifestation links to the many individual Works/Variants in “part of” relationship:
+Alternatively, a model similar to [Model: Collection Aggregate Manifestation within a many-to-many Works/Variants-Manifestation database system](../../aggregates/modelling_aggregates/index.md#sec-collection_aggregate_manifestation_within_a_many_to_many) can be used, whereby a single Aggregate Manifestation links to the many individual Works or Variants in “part of” relationship:
 
 <center><object data="/diagrams/figure_16.drawio.svg" type="image/svg+xml"></object></center>
 
@@ -33,15 +33,15 @@ Where this Serial Work–Monographic Work hierarchy structure does not exist, th
 
 <center><object data="/diagrams/figure_17.drawio.svg" type="image/svg+xml"></object></center>
 
-For how this might be modelled in a flat or single hierarchy system see [Example 7. Aggregate DVD Television Serial and Episode records in 1-level Hierarchy Models](../../appendices/record-examples/example_seven/index.md)
+See here for how this might be modelled in a [flat or single hierarchy system](../../appendices/record-examples/example_seven/index.md).
 
 It is also possible for particular individual episodes from different moving image series/serials to be taken and formed together into a Collection or Augmentation Aggregate, in which case they would then follow the same pattern of structure as any other such aggregate, i.e. with an aggregate Manifestation and aggregating Work record, and associative relationship links to any existing individual Work/Variant episode records.
 
 <a id="sec-newsreels_and_tv_news_current_affairs_programmes"></a>
-## Newsreels and TV news/current affairs programmes - aggregates or not?
-These also do not constitute aggregates.
+## Newsreels and TV news/current affairs programmes  
+These also do not constitute aggregates simply because they contain multiple story components within a whole issue or programme.
 
-The nature of news/newsreels is that the different stories do not constitute “independently created Works/Variants” and are more akin to multi-component moving images (see [“Hybrid” Aggregates and multi-component moving images (e.g. Anthology/Portmanteau films or TV programmes)](../../aggregates/identifying_aggregates/index.md#sec-hybrid_aggregates_and_multi_component_moving_images)), in that each component is meant to create the whole via filmed links that are an integral planned part and structure of an original single Work concept.
+The nature of news/newsreels is that the different stories do not constitute “independently created Works/Variants” and are more akin to multi-component moving images (see [“Hybrid” Aggregates and multi-component moving images](../../aggregates/identifying_aggregates/index.md#sec-hybrid_aggregates_and_multi_component_moving_images)), in that each component is meant to create the whole via filmed links that are an integral planned part and structure of an original single Work concept.
 
 The process of creation of these is with one whole programme in mind made up of different filmed elements – the same as planned different location shooting (and crews) of different scenes in a feature film that are then edited together to create the whole.
 It is never envisaged that the individual news stories would ever have an independent individual release/broadcast on their own.
@@ -53,16 +53,16 @@ These stories also are not “independently created Works/Variants” but filmed
 The “whole” would then have a Transmission Manifestation.
 The component parts do not.
 
-It is possible that only individual components of newsreels/news programmes may be acquired by an institution. In such cases it is simply a matter of a partial/incomplete acquisition, in the same way that only 2 reels of a 3 reel feature film might be acquired. The Item record for that acquisition would be linked as “part of” the whole Manifestation ( see A.2.6.3 Analytics/Components of identified newsreels/cinemagazines )
+It is possible that only individual components of newsreels/news programmes may be acquired by an institution. In such cases it is simply a matter of a partial/incomplete acquisition, in the same way that only 2 reels of a 3 reel feature film might be acquired. The Item record for that acquisition would be linked as “part of” the whole Manifestation. See [Analytics/Components of identified newsreels/cinemagazines](/titles/series_serials/#sec-analytics_components_of_identified_newsreels_cinemagazines).
 
-Where several individual whole components of various newsreels/news programmes have been selected, i.e. what would constitute Analytic component Works [ADD IN LINK TO 6.2.1.1 Analytic], and used to create compilation films or reels, then as described in E.2.1. [ADD LINK] the nature of these should be assessed. As mentioned previously, any aggregate will always have an element of intention, whether simple or complex.
+Where several individual whole components of various newsreels/news programmes have been selected, i.e. what would constitute Analytic component Works [see [Work Description Type](/works/attributes_of_a_moving_image_work_variant/#sec-work_variant_description_type), and used to [create compilation films or reels](/aggregates/identifying_aggregates/#sec-aggregate_or_carrier), the nature of these should be assessed. As mentioned previously, any aggregate will always have an element of intention, whether simple or complex.
 
-Such compilations can be structured in the same way as Collection Aggregates, i.e. a new Work record would be created for the compilation and then structured in an associative “contains/contained in” relationship with the original whole newsreel issue Work records from which they came.[ADD LINK TO SECTION  E.5.1.3 Collection Aggregates model].
+Such compilations can be structured in the same way as [Collection Aggregates](/aggregates/momdelling_aggregates/#sec-collection_aggregate_manifestation_within_a_one_to_many), i.e. a new Work record would be created for the compilation and then structured in an associative “contains/contained in” relationship with the original whole newsreel issue Work records from which they came.
 
-In instances of untitled reels containing multiple different newsreel/cinemagazine story elements, then a partially or fully supplied/devised title can be created, along with any useful additional alternative or help titles (see ADD LINK TO SECTION A.2.5.1 AND A.2.5.2)
+In instances of untitled reels containing multiple different newsreel/cinemagazine story elements, then a [partially supplied title](/titles/suppplied_devised_titles/#sec-partially_supplied_devised_titles) or [fully supplied title](/titles/suppplied_devised_titles/#sec-partially_supplied_devised_titles) can be created, along with any useful additional alternative or help titles.
 
-So for example, an institution may have created several compilation reels made up of different stories from different issues of a newsreel from a particular year, e.g. Die Deutsche Wochenschau 1944. Compilation reel 2. 
+So for example, an institution may have created several compilation reels made up of different stories from different issues of a newsreel from a particular year, e.g. *Die Deutsche Wochenschau 1944. Compilation reel 2*. 
 
-If the original intention of the compilation is unknown, e.g. whether it was created for a particular purpose such as an educational event held by the institution, or for public screening in their cinema, etc. was not recorded at the time, or has since been lost, then the Item can be linked to a an Unknown Manifestation. If the institution then subsequently makes a digital copy and uses that to stream the compilation film on YouTube or another platform then that digital Item would link to an Internet Manifestation, i.e.
+If the original intention of the compilation is unknown, e.g. whether it was created for a particular purpose such as an educational event held by the institution, or for public screening in their cinema, etc. was not recorded at the time, or has since been lost, then the Item can be linked to a an "Unknown" Manifestation. If the institution then subsequently makes a digital copy and uses that to stream the compilation film on YouTube or another platform then that digital Item would link to an Internet Manifestation, i.e.
 
 <center><object data="/diagrams/aggnwscomp.drawio.svg" type="image/svg+xml"></object></center>

@@ -1,7 +1,11 @@
 
 <a id="sec-definition"></a>
-## Definition
-A moving image aggregate is a Manifestation embodying two or more distinct Works/Variants.[^1]
+
+
+
+
+!!! abstract "Definition"  
+    A moving image aggregate is a Manifestation embodying two or more distinct Works/Variants.[^1]
 
 It is not necessary to create an actual Manifestation Type of “Aggregate Manifestation” in existing Manifestation Type lists.
 
