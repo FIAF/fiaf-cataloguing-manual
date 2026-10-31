@@ -4,19 +4,21 @@
 It is important to distinguish between actual intended compilation or multi-component moving images, e.g. *Victorian cinema no. 8* (containing various short films from the 1890s edited together onto a new reel for a particular theatrical showing or publication), and an unintentional compilation, reflecting simple use of a single carrier (aka an individual reel, tape, or file), i.e. two short Charlie Chaplin films that happen to be acquired on one reel or transferred onto one tape for storage convenience.
 
 Editing and creative assembly decisions were taken to create the first example, and it constitutes a Collection Aggregate (see [Collection Aggregates](../../aggregates/types_of_moving_image_aggregates/index.md#sec-collection_aggregates)).
-The second was just incidental or convenient assembly and is not an aggregate, and so would not have an aggregate Manifestation.
+The second was just incidental or convenient assembly and is not technically an aggregate, and so would not have an aggregate Manifestation. 
 The two Chaplin films could each have their own Work, Manifestation, and Item records, but those Items would have the same location/can id/barcode number on the same container (aka package), i.e. the number stuck or written on the physical container in which the individual film reels, videotapes, or DVDs are stored.
 
 <center><object data="/diagrams/agg_chaplineg1.drawio.svg" type="image/svg+xml"></object></center>
 
 or where an institution's database allows for a many-to-one structuring then:
 
-
+<center><object data="/diagrams/agg_chaplineg2.drawio.svg" type="image/svg+xml"></object></center>
 
 Any aggregate will have an element of intention, whether simple or complex.
 Assessments will need to be made, where possible, as to whether the intention was for creative/intellectual or convenient purposes, and then represented accordingly.
 
 Equally, an institution may decide not to differentiate between whether something is technically an aggregate or a "carrier of convenience" and just follow the same structuring either way for any multi-component compilation reels, particularly where the original intent may often not always be clear or known.
+
+Decisions on which structure to use will often depend on what structuring an institution's database will accommodate and allow.
 
 Digital Manifestations, such as DVDs, Blu Rays, and streamed moving images, that have additional selectable language options chosen by the viewer are deemed to be Aggregate Manifestations under RDA.[^1]
 
