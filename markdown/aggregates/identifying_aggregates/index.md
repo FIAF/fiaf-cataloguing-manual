@@ -7,6 +7,12 @@ Editing and creative assembly decisions were taken to create the first example, 
 The second was just incidental or convenient assembly and is not an aggregate, and so would not have an aggregate Manifestation.
 The two Chaplin films could each have their own Work, Manifestation, and Item records, but those Items would have the same location/can id/barcode number on the same container (aka package), i.e. the number stuck or written on the physical container in which the individual film reels, videotapes, or DVDs are stored.
 
+<center><object data="/diagrams/agg_chaplineg1.drawio.svg" type="image/svg+xml"></object></center>
+
+or where an institution's database allows for a many-to-one structuring then:
+
+
+
 Any aggregate will have an element of intention, whether simple or complex.
 Assessments will need to be made, where possible, as to whether the intention was for creative/intellectual or convenient purposes, and then represented accordingly.
 
