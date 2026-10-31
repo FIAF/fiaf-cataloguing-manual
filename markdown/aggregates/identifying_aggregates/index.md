@@ -144,7 +144,7 @@ Where there is doubt then create a single Aggregate Manifestation and Aggregatin
 
 Later research and cataloguing may then establish whether this aggregate record is retained and added to, or deleted after being used as a temporary working tool for initial record creation of acquisitions.
 
-There may also be Pre-release compilations of production material and an aggregate of Variants, for example, where production firms may submit a compilation reel or file of pre-release material with different versions of a the same film work for different purposes, either as part of the production process for editing decisions and selections, or because different versions were required, e.g. different versions of TV public information spots or adverts with different lengths.
+There may also be Pre-release compilations of production material and an aggregate of Variants, for example, where production firms may submit a compilation reel or file of pre-release material with different versions of the same film for different purposes, either as part of the production process for editing decisions and selections, or because different versions were required, e.g. different versions of TV public information spots or adverts with different lengths. Or else several different short films on the same theme or subject designed for TV spots aimed at different age groups or audiences.
 
 [^1]: See: (https://www.rdatoolkit.org/sites/default/files/rsc/RSCOutreachMadrid.pdf)
 [^2]: Although where these are made by both different directors and production companies there may have been dual consideration of potential future independent release
