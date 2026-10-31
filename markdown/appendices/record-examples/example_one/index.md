@@ -256,18 +256,18 @@ Core concepts ([Core elements of description](../../preliminary/core_elements_of
 | --- | --- |
 | Institution record identification number: C-88339 |  |
 | Can identification number: 61470E |  |
-| Title | Title type |
-| The Ladykillers | Original |
-| The Lady killers | Help search |
+|  <span style="color:blue"> Title </span> | <span style="color:blue"> Title type </span> |
+| <span style="color:blue"> The Ladykillers </span>| <span style="color:blue"> Original </span> |
+| <span style="color:blue"> The Lady killers </span>| <span style="color:blue"> Help search </span> |
 | Manifestation type: Theatrical (main country of origin) |  |
-| Event: Release - Release Country: United Kingdom Date: 1955-12 |  |
+| Event: Release - <span style="color:turquoise"> Release Country: United Kingdom </span> <span style="color:magenta"> Date: 1955-12 </span> |  |
 | Distributor: Rank |  |
-| Language [Language] | Usage |
-| English | Dialogue (original) |
-| [Original duration] Running time – 97 minutes [Original length] Length: 8142 feet |  |
-| Number of cans/cassettes: 5 Number of Reels: 10 Total footage: 7981 feet |  |
+| <span style="color:grey"> Language [Language] </span> | <span style="color:grey"> Usage </span> |
+| <span style="color:grey"> English </span> | <span style="color:grey"> Dialogue (original) </span> |
+| <span style="color:orange"> [Original duration] Running time – 97 minutes [Original length] Length: 8142 feet </span> |  |
+| <span style="color:orange"> Number of cans/cassettes: 5 Number of Reels: 10 Total footage: 7981 feet </span>|  |
 | Physical Description: Colour Positive Status Master |  |
-| Item type: Film [Original format] Base: Safety Gauge: 35mm Colour Colour system: Technicolor Sound Sound system: VA Bilateral Stock: Kodak |  |
+| Item type: Film [Original format] <span style="color:purple"> Base: Safety Gauge: 35mm Colour Colour system: Technicolor Sound Sound system: VA Bilateral Stock: Kodak </span> |  |
 | Access conditions: Restricted access to preserved film |  |
 | Emulsion: New |  |
 | Observations: No sound on main and end titles; scratches on first 20 ft of reel 5 |  |
@@ -281,18 +281,18 @@ Core concepts ([Core elements of description](../../preliminary/core_elements_of
 
 **1-Level Hierarchy model**
 
-| Title [Title] | Title type |
+| <span style="color:blue"> Title [Title] | <span style="color:blue"> Title type |
 | --- | --- |
-| The Ladykillers | Original |
-| The Lady killers | Help search |
-| Work type: Film | Filmographic level: Monographic |
-| Production country [Country of reference]: United Kingdom |  |
-| Date(s) [Year of reference] | Date type |
-| 1955 | Copyright |
-| 1955-12 | Release |
-| Category [Form]: Fiction | Genre [Subject/Genre]: Comedy, Crime |
-| Synopsis [Content description]: A gang of train robbers hide out at the lodgings of one of them, posing as an amateur string quartet. The innocent and upright elderly lady who owns the house is used by them, and is an inadvertent catalyst for their plans unravelling and the gang turning on each other. |  |
-| On-screen credit | Name [Credits] |
+| <span style="color:blue"> The Ladykillers </span> | <span style="color:blue"> Original </span> |
+| <span style="color:blue"> The Lady killers </span> | <span style="color:blue"> Help search </span>|
+| Filmographic level: Monographic |
+| <span style="color:turquoise"> Production country [Country of reference]: United Kingdom </span> |  |
+| <span style="color:magenta"> Date(s) [Year of reference] | <span style="color:magenta"> Date type </span> |
+| <span style="color:magenta"> 1955 </span> | <span style="color:magenta"> Copyright </span>|
+| <span style="color:magenta"> 1955-12 </span> | <span style="color:magenta"> Release </span> |
+| <span style="color:green"> Category [Form]: Fiction </span> | <span style="color:green"> Genre [Subject/Genre]: Comedy, Crime |
+| <span style="color:green"> Synopsis [Content description]: A gang of train robbers hide out at the lodgings of one of them, posing as an amateur string quartet. The innocent and upright elderly lady who owns the house is used by them, and is an inadvertent catalyst for their plans unravelling and the gang turning on each other. </span> |  |
+| <span style="color:brown"> On-screen credit | Name [Credits] |
 | Directed by | Mackendrick, Alexander |
 | Production Company | Ealing Studios |
 | A Production by | Balcon, Michael |
@@ -366,17 +366,17 @@ Core concepts ([Core elements of description](../../preliminary/core_elements_of
 | [cast] | Evans, Peter |
 | [cast] | Green, Kevin |
 | [cast] | Hart, Janet |
-| [cast] | Pike, Colin |
-| [Identifier] EIDR identifier | 10.5240/1C59-EFCF-AAF0-F735-71AB-H |
+| [cast] | Pike, Colin </span> |
+|  <span style="color:grey"> [Identifier] EIDR identifier | 10.5240/1C59-EFCF-AAF0-F735-71AB-H |
 | [Identifier] Institution record identification number: C-88339 |  |
-| [Identifier] Can identification number: 61470E |  |
-| Event: Production – Date: 1955 | Location(s): Frederica Street, Islington, London N7 Cheney Road, Kings Cross, London NW1 |
-| Release Country: United Kingdom | Release Date: 1955-12 |
+| [Identifier] Can identification number: 61470E </span> |  |
+| Event: Production –  <span style="color:magenta"> Date: 1955 </span> | Location(s): Frederica Street, Islington, London N7 Cheney Road, Kings Cross, London NW1 |
+|  <span style="color:turquoise"> Release Country: United Kingdom |  <span style="color:magenta"> Release Date: 1955-12 </span> |
 | Theatrical release (in country of origin) |  |
-| [Original duration] Running time – 97 minutes [Original length] Length (original footage): 8142 feet |  |
-| Number of cans/cassettes: 5 Number of Reels: 10 Total footage: 7981 feet |  |
-| Physical Description: Colour Positive Status: Master Item type: Film [Original format] Base: Safety Gauge: 35mm Colour Colour system: Technicolor Sound Sound system: VA Bilateral Stock: Kodak |  |
-| Language [Language]: English | Usage: Dialogue (original) |
+|  <span style="color:orange"> [Original duration] Running time – 97 minutes [Original length] Length (original footage): 8142 feet |  |
+| Number of cans/cassettes: 5 Number of Reels: 10 Total footage: 7981 feet </span> |  |
+| Physical Description: Colour Positive Status: Master Item type: Film [Original format]  <span style="color:purple"> Base: Safety Gauge: 35mm Colour Colour system: Technicolor Sound Sound system: VA Bilateral Stock: Kodak </span> |  |
+|  <span style="color:grey"> Language [Language]: English </span> |  <span style="color:grey"> Usage: Dialogue (original) </span> |
 | Access conditions: Restricted access to preserved film |  |
 | Emulsion condition: New |  |
 | Observations: No sound on main and end titles; scratches on first 20 ft of reel 5 |  |
