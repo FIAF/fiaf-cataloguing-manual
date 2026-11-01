@@ -1,11 +1,9 @@
 
-<a id="sec-agents_for_works_variants"></a>
-## Agents for Works/Variants (e.g. Cast, Credits, Person, Organisation, etc.)
 !!! abstract "Definition"
-    An Agent is defined as an entity that is involved in the creation, realisation, curation or exploitation of a                Work/Variant and who is considered to have major responsibility for, or be of major importance to, the Work/Variant. 
+    An Agent is defined as an entity that is involved in the creation, realisation, curation or exploitation of a                Work/Variant and who is considered to have major responsibility for, or be of major importance to, the Work or Variant. 
     Typical distinctions between Agent types are Person, Collective Agent, Corporate Body, and Family.[^1] 
 
-This includes cast and credits for the Work/Variant. 
+This includes cast and credits for the Work or Variant. 
 
 An institution should determine the types and quantity of activities they wish to include or capture in their records. 
 These activities may vary from institution to institution according to the types of moving image material held. 
@@ -26,33 +24,104 @@ Optionally, if the Agent is credited under a name that is not identical with the
 !!! example "Example"
     Sofia Lazzaro (first pseudonym/screen name used by the actress Sophia Loren, whose birth name is Sofia Villani Scicolone).
 
-Optionally, record multiple instances of Agent, e.g., cast and credits, associated with aggregated Works/Variants (See 12.7 Credits (i.e. Agents) for Aggregates - ADD LINK). 
+Optionally, record multiple instances of Agent, e.g., cast and credits, associated with [aggregated Works or Variants](/aggregates/credits_agents_aggregates/index.md).
 
 Variants may include both the Agents of the original Work and of the particular Variant, or just those pertaining to the particular Variant, e.g. additional cast in reinserted scenes in a Director’s Cut, new credits relating to digital special effects in a special edition with new CGI effects, cast used for a dubbed version, etc. 
 
-<a id="sec-agent_activity_works_variants"></a>
-### Agent Activity – Works/Variants
-This describes the activity or role of the Agent in relation to the moving image Work/Variant (e.g. credit terms). 
+<a id="sec-core_agent_activity_works_variants"></a>
+## Core Agent Activities for Works or Variants
+This describes the activity or role of the Agent in relation to the moving image Work or Variant (e.g. credit terms). 
 
 Record one or more Agent Activity terms, for example, “animator,” “cast,” “choreographer,” “production company” etc., to express the nature of the agent’s relationship to the Work or Variant. 
-Choose the single most specific term, if possible. Selection should be made from a controlled list of terms, such as the [FIAF Glossary of Filmographic Terms](http://www.fiafnet.org/publications/GlossaryMasterComboMarch2015.html). 
+Choose the single most specific term, if possible. Selection should be made from a controlled list of terms, such as the [FIAF Glossary of Filmographic Terms](
+https://www.fiafnet.org/pages/e-resources/glossary.html). 
 
-If no suggested terms apply, compose a term to describe the relationship between the Agent and the Work/Variant being catalogued. 
+If no suggested terms apply, compose a term to describe the relationship between the Agent and the Work or Variant being catalogued. 
 If the relationship is ambiguous, use a value to indicate this, for example, “unknown” or “on-screen participant” to indicate a person appearing on screen in a capacity that is indeterminate or not covered by typical terms.[^3] 
 Optionally, when the role performed by an Agent is probable but not certain, provide the function name followed by a question mark. 
 
-It is recommended to capture these core credits on a moving image record as far as possible and where applicable:
+It is recommended to capture these core credits on a moving image record as far as possible and where applicable Here are some suggestions for core Agent Activities, which pertain mostly to current productions and don't mention historical Activities. It should be noted, that these historical functions changed quite a bit over time and also depended on the studios and generally production context.
+
+<a id="sec-director"></a>
+### Director
+The Director is the chief creative authority on a film and is responsible for translating the screenplay into a cohesive and compelling visual story.
+
+<a id="sec-screenwriter"></a>
+### Screenwriter
+Writer who creates the blueprints for movies, television shows, and other visual media, such as video games and web series. This blueprint, known as a screenplay or script, details the story's visual and auditory components, including dialogue, character actions and scene descriptions.
+
+<a id="sec-cinematographer"></a>
+### Cinematographer
+Head of the camera and lightning departments on a film, television or other visual production. A cinematographer is an artist who uses technical knowledge of cameras, lenses, and lightning to interpret and translate the director#s creative vision into powerfuland striking visual imaginery.
+
+<a id="sec-producer"></a>
+### Producer
+Person who oversees and manages the entire production process. From a project's inception to its final distribution, the producer is responsible for the business, logistical and organisational aspects of filmmaking, ensuring the project is completed on time and within the budget.
+
+<a id="sec-editor"></a>
+### Editor
+Professional responsible for assembling raw footage, selecting the best shots and arranging them in a sequence to tell a cohesive, engaging story. They are a key creative collaborator during the post-production phase, working closely with the director the shape the final product.
+
+<a id="sec-sound_designer"></a>
+### Sound Designer
+Creative audio professional responsible for crafting the entire sonic of a production. Working in post-production, they go far beyond simply recording sound to create an immersive and emotionally engaging audio experience for the audience in films, television shows, video games or theatre production.
+
+<a id="sec-music_supervisor"></a>
+### Music Supervisor
+Professional for overseeing all musical aspects of a film, television show, commercial, or other media project. Their role involves both creative curating and complex business administration.
+
+<a id="sec-animation_director"></a>
+### Animation Director
+Creative head of the animation department on an animated film, television show, or video game. While a project will still have an overall film director, the animation director is responsible and the artistic and technical execution of all things related to the animation.
+
+<a id="sec-assistent_director"></a>
+### Assistant Director
+Logistical manager and organiser on a film or television set, not a creative director. The assistant director is the director's "right hand" and severs as the primary liason between the director and cast and crew. Their role is to handle the pratical day-to-day operations so that the director can focus on the creative vision.
+
+<a id="sec-production_manager"></a>
+### Production Manager
+Key administrative role for managing the day-to-day business and logistical side of a production. A production manager ensures that the project stays on schedule and within its budget. They report to the producer or line producer and oversee all "below-the-line-crew" - the technical and support staff who are not the creative principals.
+
+<a id="sec-key_makeup_artist"></a>
+### Key Makeup Artist
+Head of the makeup department on a film or television production. As the lead, they are responsible for the creative direction, execution and management of all makeup and special effects for the cast, especially the principal actors.
+
+<a id="sec-costume_designer"></a>
+### Costume Designer
+Creative professional responsible for designing, creating, and acquiring all clothing and accessories worn by the cast. Their work is a vital element of storytelling, helping to define and develop characters, establish the film's tone, and immerse the audience the story's world.
+
+<a id="sec-production_designer"></a>
+### Production Designer
+Head of the art department of a film or television production and is responsible for the overall visual concept of the project. They work closely with the director and cinematographer to create the aesthetic world of the film, ensuring that everything seen on screen contributes to the story's narrative and tone.
+
+<a id="sec-cast"></a>
+### Cast
+Refers to the entire group of actors or performers who portray the characters in a production. The cast is distinct from the crew, who are the technical and support staff who work behind the scenes.
+
+<a id="sec-voiceover_artists"></a>
+### Voice-over Artists
+Someone who performs a role as a character, while a voice-over artist might provide narration or commentary.
 
 
-<center><object data="/images/Picture1credits.jpg" width="75%"></object></center>
+<a id="sec-dubbing_artists"></a>
+### Dubbing Artists
+Type of voice actor who replaces the original dialogues of characters film, television show, or other audiovisual media with a re-recorded performance in another language. The core task is to re-record the dialogue while precicely matching the lip movements, emotional tone, and timing of the orgiginal on-screen actors.
 
-<center><object data="/images/Picture2credits.jpg" width="75%"></object></center>
 
-<center><object data="/images/Picture3credits.jpg" width="75%"></object></center>
+<a id="sec-production_company"></a>
+### Production Company
+It is a company dedicated to the creation of films, television programmes and other moving-image-content, its primary role is to take the lead and assume responsibility for the prodcution of an audiovisual project, from pre-production through post-production. This includes planning, financing, hiring staff, managing production on set, and post-production, which encompasses editing, special effects and distribution.
 
-[Music composer, Author (e.g. original literary author on which the Work was adapted or based) currently being added to above diagram. Replace diagrams here with revised ones when finished] 
+<a id="sec-musical_composer"></a>
+### Musical Composer
+TO BE ADDED
 
-Several of these tie in with important information needed for establishing rights and copyright, namely Director(s), Producer(s), Production Company(ies), Scriptwriter(s), Author (e.g. original literary author on which the Work was adapted or based), Music Composer, Performers (e.g. cast) [ADD LINK TO 16.1.1.2 Recommended properties for Moving Image Works and Variants] 
+<a id="sec-author"></a>
+### Author (e.g. original literary author on which the Work was adapted or based)
+TO BE ADDED
+
+
+Several of these tie in with [important information needed for establishing rights and copyright](/rights/#sec-recommended_properties_for_Moving_Image_Works_and_Variants), namely Director(s), Producer(s), Production Company(ies), Scriptwriter(s), Author (e.g. original literary author on which the Work was adapted or based), Music Composer, Performers (e.g. cast).
 
 Besides the principal Agent Activity suggested, institutions, particularly those with special interests, may create and apply in-house value lists of other specific Agent Types, which may vary from institution to institution.
 
@@ -61,7 +130,7 @@ Including any Stills photography credits on the work or Variant can be potential
 Record in a note any additional details that cannot be expressed through controlled terms. (e.g. “appears only in final scene”, etc.). 
 If a name is known to be fictitious, or requires clarification, make a note giving the actual name. 
 
-If more than one Agent is associated with a particular role connected with a Work/Variant or related Event, where possible or desirable, record the names in the order indicated by the sequence, layout, or typography of the names on the source of information. 
+If more than one Agent is associated with a particular role connected with a Work or Variant or related Event, where possible or desirable, record the names in the order indicated by the sequence, layout, or typography of the names on the source of information. 
 Preserving the ordering of the credited persons should be determined by the requirements of individual institutions.[^4] 
 
 !!! example "Example"
@@ -118,7 +187,7 @@ The same stylistics and display regarding Agents as cast or credits and Agent ac
 <center><object data="/images/Screenshot_excel_agentseg.png" width="100%"></object></center>
 
 <a id="sec-uncredited_agents_and_agent_activity"></a>
-### Uncredited Agents and Agent activity
+## Uncredited Agents and Agent activity
 
 Where an institution is adding uncredited Agents to Works and Variants, i.e. credits and cast where it is known that an Agent worked on or appeared in a moving image, but they were not listed in the on-screen front or end titles, then the convention of using square brackets [ ] can be applied around names and/or credits, or next to either of the latter encasing the word "uncredited". Square brackets or parantheses can be used, depending on an institution's preference. Alternatively, using a qualifying status field indicating Credited or Uncredited alongside; or both if desired. 
 
@@ -175,7 +244,7 @@ For example, during the McCarthy era and blacklisting of various people in the H
     A Breath of scandal (USA/Italy/Austria, 1960)
     <center><object data="/images/Screenshot_uncreditedeg7blacklist.png" width="70%"></object></center>
 
-Similarly, there were sometimes differences in the on-screen credits between prints. For example, with the film Falschmünzer (USSR/Germany, 1928), the Russian prints named only one director of photography whereas German prints listed an additional German one:
+Similarly, there were sometimes differences in the on-screen credits between prints. For example, with the film *Falschmünzer* (USSR/Germany, 1928), the Russian prints named only one director of photography whereas German prints listed an additional German one:
 
 <center><object data="/images/Falschmunzer_1.PNG" width="100%"></object></center>
 <center><object data="/images/Falschmunzer_2.PNG" width="100%"></object></center>
