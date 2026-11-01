@@ -25,11 +25,11 @@ Similarly, extra research carried out as part of a restoration project may provi
 ## Restoration constitutes a new Work or Variant
 In the large majority of cases it will not be necessary to create a new Work record for a Restoration. Since a restoration involves copying pre-existing Items in Collections, which would normally already be linked to a Work record via Manifestation(s), it is usually a matter of creating a new linked Variant (if used) with a new Restoration Manifestation, and associating the Items created as part of the restoration process to that Restoration Manifestation. 
 
-<center><object data="/diagrams/resjaws1.drawio.svg" type="image/svg+xml" width="60%"></object></center>
+<center><object data="/diagrams/resjaws1.drawio.svg" type="image/svg+xml" width="50%"></object></center>
 
 Or if Variants are not used then:
 
-<center><object data="/diagrams/resjaws2.drawio.svg" type="image/svg+xml" width="60%"></object></center>
+<center><object data="/diagrams/resjaws2.drawio.svg" type="image/svg+xml" width="50%"></object></center>
 
 If using a 2 or 1 level system then structuring similar to that of Production Materials could be utilised if a lot of new Items are generated, e.g. [DIAGRAMS]
 
