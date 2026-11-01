@@ -113,7 +113,7 @@ That way you have two Items: the DCDM and the ProRes, each with language informa
 Option 2: Another, more granular option would be to catalogue the srt files as separate Items too; so there should be 4 Item records in total.
 As the srt files are literally just the subtitles for the film and do not include the film itself, but are designed for use in conjunction with a different Item containing the film, the Items could be linked together in an associative relationship potentially (if the system allows that) which means that each srt file could be linked to the DCDM or ProRes Items (or both), as relevant, something like e.g.:
 
-<br><center><object data="/diagrams/item_mult-lang.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+<br><center><object data="/diagrams/item_mult-lang.drawio.svg" type="image/svg+xml" width="75%"></object></center>
 
 Relating Items in this way is covered in [ADD LINK TO RELEVANT SECTION IN OTHER RELATIONSHIPS CHAPTER]
 

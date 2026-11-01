@@ -16,11 +16,19 @@ or where an institution's database allows for a many-to-one structuring then:
 Any aggregate will have an element of intention, whether simple or complex.
 Assessments will need to be made, where possible, as to whether the intention was for creative/intellectual or convenient purposes, and then represented accordingly.
 
-Equally, an institution may decide not to differentiate between whether something is technically an aggregate or a "carrier of convenience" and just follow the same structuring either way for any multi-component compilation reels, particularly where the original intent may often not always be clear or known. In those databases where there are records for the individual reels/tapes/files that make up an Item structured in a part of/parts hierarchical relationship (i.e. a parent-child structure) and where only a one-to-many structure is possible, then this option may be best in order to avoid multiple creation of records of both Items and reels for what is one physical object.
+Equally, an institution may decide not to differentiate between whether something is technically an aggregate or a "carrier of convenience" and just follow the same structuring either way for any multi-component compilation reels, particularly where the original intent may often not always be clear or known. 
+
 
 <center><object data="/diagrams/agg_chaplineg3.drawio.svg" type="image/svg+xml"></object></center>
 
-Decisions on which structure to use will often depend on what structuring an institution's database will accommodate and allow.
+
+In those databases where there are records for the individual reels/tapes/files that make up an Item and structured in a part of/parts hierarchical relationship (i.e. a parent-child structure), and where only a one-to-many structure is possible, then this option may be best in order to avoid multiple creation of records of both Items and reels for what is one physical object.
+
+
+<center><object data="/diagrams/agg_chaplineg4.drawio.svg" type="image/svg+xml"></object></center>
+
+
+Decisions on which structure to use will depend on what structuring an institution's database will accommodate and allow.
 
 Digital Manifestations, such as DVDs, Blu Rays, and streamed moving images, that have additional selectable language options chosen by the viewer are deemed to be Aggregate Manifestations under RDA.[^1]
 

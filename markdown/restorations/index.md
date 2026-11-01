@@ -25,11 +25,11 @@ Similarly, extra research carried out as part of a restoration project may provi
 ## Restoration constitutes a new Work or Variant
 In the large majority of cases it will not be necessary to create a new Work record for a Restoration. Since a restoration involves copying pre-existing Items in Collections, which would normally already be linked to a Work record via Manifestation(s), it is usually a matter of creating a new linked Variant (if used) with a new Restoration Manifestation, and associating the Items created as part of the restoration process to that Restoration Manifestation. 
 
-<center><object data="/diagrams/resjaws1.drawio.svg" type="image/svg+xml" width="80%"></object></center>
+<center><object data="/diagrams/resjaws1.drawio.svg" type="image/svg+xml" width="60%"></object></center>
 
 Or if Variants are not used then:
 
-<center><object data="/diagrams/resjaws2.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+<center><object data="/diagrams/resjaws2.drawio.svg" type="image/svg+xml" width="60%"></object></center>
 
 If using a 2 or 1 level system then structuring similar to that of Production Materials could be utilised if a lot of new Items are generated, e.g. [DIAGRAMS]
 
@@ -45,22 +45,22 @@ Some restorations are simply improving the film/colour/sound quality of deterior
 
 These would equate with minor changes in versions and not need a new Work record created, although a Variant record would be created in 4-level hierarchy structures and systems. Any technical information relating to the restoration would be added to a new Manifestation/Item record.
 
-## Restorations constitutes a Manifestation
+## Restoration constitutes a Manifestation
 
 Restoration Manifestation Type represents the outcome(s) of restoration events/activities, usually involving selection and aggregation of materials from diverse source elements to replicate an “original” or “ideal” manifestation
 
 Any dates associated with this Manifestation should be those of the restoration project dates, not the original date of the film, e.g. a 2024-2025 restoration project relating to a 1921 film will have the 2024-2025 dates associated with it.
 Any Variant record will have the date of the actual release of the restored moving image associated with it.
 
-<center><object data="/diagrams/restnap1.drawio (1).svg" type="image/svg+xml" width="100%"></object></center>
+<center><object data="/diagrams/restnap1.drawio (1).svg" type="image/svg+xml" width="60%"></object></center>
 
 Additionally, if required, there is the option of creating a second, or more, Restoration Manifestation(s) for specific outcomes of the project, such as a Demonstration Reel, particularly where there may be several Items, or copies, of this on different formats. This would be linked to the same Work record as the main Restoration Manifestation, and its nature can be reflected and distinguished from the latter using a semi-devised title. For example:
 
-<center><object data="/diagrams/restgws.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+<center><object data="/diagrams/restgws.drawio.svg" type="image/svg+xml" width="70%"></object></center>
 
 or
 
-<center><object data="/diagrams/restnap2a.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+<center><object data="/diagrams/restnap2a.drawio.svg" type="image/svg+xml" width="70%"></object></center>
 
 Alternatively, such Items can be attached to the one original Restoration Manifestation along with all other the other Items associated with the restoration project, again with the option of using a semi-devised title to identify and distinguish it. 
 
@@ -68,7 +68,7 @@ The title of any such second Restoration Manifestation and/or Item(s) should ref
 
 In both Manifestations and Items such titles should indicate that they are devised titles. 
 
-## Restorations constitutes an Items
+## Restoration constitutes Items
 
 Items created by an Archive as part of a restoration project are associated with the Restoration Manifestation. If the full released restored version of the moving image is also subsequently acquired, e.g. a published DVD/Blu Ray, then a Home Viewing Manifestation should also be created and a new Item record for the acquisition created and linked to that.
 
