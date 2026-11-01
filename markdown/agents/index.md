@@ -52,16 +52,16 @@ Institutions should also consider relevant national or international legislation
 
 Agent records may also be related/linked to other Agent records, e.g. 
 
-<center><object data="/images/Screenshot_agentrecordeg1.png" width="100%"></object></center>
+<center><object data="/images/Screenshot_agentrecordeg1.png" width="75%"></object></center>
 
 
 
-<center><object data="/images/Screenshot_agentrecordeg4.png" width="100%"></object></center>
+<center><object data="/images/Screenshot_agentrecordeg4.png" width="75%"></object></center>
 
 
 
 
-<center><object data="/images/Screenshot_agentrecordeg3.png" width="100%"></object></center>
+<center><object data="/images/Screenshot_agentrecordeg3.png" width="75%"></object></center>
 
 
 Or else, additional identifying metadata can be added to a biographical or notes field, e.g.
