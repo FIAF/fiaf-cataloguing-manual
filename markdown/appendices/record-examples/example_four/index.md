@@ -42,7 +42,7 @@ These do not relate to the initial illustrative colour codes used in examples 1 
 | <span style="color:blue"> Parts reference </span> | <span style="color:blue"> Parts title </span> |
 | M7272 | Day of the subgenius |
 
-| Identification number | M7272 |
+| <span style="color:blue"> Identification number </span> | M7272 |
 | --- | --- |
 | <span style="color:blue"> Title </span> | <span style="color:blue"> Title type </span> |
 | Day of the subgenius | Original |
@@ -65,7 +65,7 @@ These do not relate to the initial illustrative colour codes used in examples 1 
 | I7274 | Day of the subgenius |
 | I8003 | Day of the subgenius |
 
-| Identification number | I7274 |
+| <span style="color:blue"> Identification number </span> | I7274 |
 | --- | --- |
 | <span style="color:blue"> Title </span> | <span style="color:blue"> Title type </span> |
 | Day of the subgenius | Original |
@@ -97,7 +97,7 @@ These do not relate to the initial illustrative colour codes used in examples 1 
 | <span style="color:blue"> Part of reference </span> | M7272 |
 | <span style="color:blue"> Part of Title </span> | Day of the subgenius |
 
-| Identification number | I8003 |
+| <span style="color:blue"> Identification number </span> | I8003 |
 | --- | --- |
 | <span style="color:blue"> Title </span> | <span style="color:blue"> Title type </span> |
 | Day of the subgenius | Original |
@@ -125,5 +125,5 @@ These do not relate to the initial illustrative colour codes used in examples 1 
 | <span style="color:blue"> Start date </span> | 2015-02-26 |
 | <span style="color:blue"> Removal date </span> | 2015-02-27 |
 | <span style="color:blue"> Donor </span> | FIAF |
-| <span style="color:blue"> Part of reference </span> | <span style="color:blue"> Part of Title </span> </span> |
+| <span style="color:blue"> Part of reference </span> | <span style="color:blue"> Part of Title </span> |
 | M7272 | Day of the subgenius |
