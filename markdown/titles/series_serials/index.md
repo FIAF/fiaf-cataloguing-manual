@@ -382,7 +382,7 @@ A further, and similar, enhanced hierarchical structuring of different types of 
 For example, a collection of all the UK daily morning news and magazine programme Good Morning Britain:
 
 
-<center><object data="/diagrams/numb_16.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+<center><object data="/diagrams/numb_16.drawio.svg" type="image/svg+xml" width="75%"></object></center>
 
 
 While not actually stipulated or covered in the EN 15907 standard model, the inherent flexibility of that model and structure does potentially enable possible stretching of the standard, and it could be argued that it is logically acceptable structuring within EN 15907. 
@@ -453,13 +453,13 @@ Content descriptions (e.g. synopses and/or shotlists), Subjects, Cast, Credits, 
 If preferred, then partially devised titles can be used for easy identification across the new Works or Variants, Manifestations, and Items, as in the examples featured. Use whichever practice or stylistic is preferred by your institution for these, e.g. square brackets, punctuation system within the titling itself, or a corresponding title type, etc.
 
 
-<center><object data="/diagrams/numb_21.drawio.svg" type="image/svg+xml" width="70%"></object></center>
+<center><object data="/diagrams/numb_21.drawio.svg" type="image/svg+xml" width="80%"></object></center>
 
 
 And if variations are minor and Variants are used, then structure would look like this:
 
 
-<center><object data="/diagrams/numb_22.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+<center><object data="/diagrams/numb_22.drawio.svg" type="image/svg+xml" width="85%"></object></center>
 
 <a id="sec-titles_and_structures_of_variant_series_serials"></a>
 ## Titles and structuring of Variant series/serials
@@ -474,7 +474,7 @@ or
 
 and if both the original and Variant are acquired:
 
-<center><object data="/diagrams/varkill_03.drawio.svg" type="image/svg+xml" width="70%"></object></center>
+<center><object data="/diagrams/varkill_03.drawio.svg" type="image/svg+xml" width="75%"></object></center>
 
 If only acquiring the English subtitled version, then institutions not using Variants may choose to create a Serial Work and Monographic episodes all with the Variant titles and adding details of the original Danish titles and broadcast in a Work History or Notes field on the record. 
 
