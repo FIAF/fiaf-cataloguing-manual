@@ -43,7 +43,7 @@ Besides the principal Agent Activities suggested, institutions, particularly tho
 
 <a id="sec-distributor_theatrical"></a>
 ### Distributor (theatrical)
-Agent responsible for the theatrical distribution of a Manifestation. A distribution company is a business entity responsible for making a finished film available to the audience. They are critical intermediary between the film's production company and the public. A distributor's role encompasses a range of tasks, from marketing and promotion to negotiating with exhibitors like movie theaters and straming platforms.
+Agent responsible for the theatrical distribution of a Manifestation. A distribution company is a business entity responsible for making a finished film available to the audience. They are critical intermediary between the film's production company and the public. A distributor's role encompasses a range of tasks, from marketing and promotion to negotiating with exhibitors such as cinemas and streaming platforms.
 
 <a id="sec-distributor_non_theatrical"></a>
 ### Distributor (non-theatrical)
@@ -55,7 +55,7 @@ Agent responsible for the broadcasting of a Manifestation, namely the network or
 
 <a id="sec-publisher"></a>
 ### Publisher
-Agent responsible for the home video publication or for the web publication of a moving image Manifestation: i.e. the publishing company, which often is the same as the distribution company. This may engage in various activities, including producing films, distributing them, screening them in theaters, providing in-theater advertising, and selling film rights. They may also operate video-on-demand platforms and conduct marketing, among other activities.
+Agent responsible for the home video publication or for the web publication of a moving image Manifestation: i.e. the publishing company, which is often the same as the distribution company. This may engage in various activities, including producing films, distributing them, screening them in cinemas, providing in-theatre advertising, and selling film rights. They may also operate video-on-demand platforms and conduct marketing, among other activities.
 
 <a id="sec-manufacturer"></a>
 ### Manufacturer
