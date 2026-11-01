@@ -148,7 +148,7 @@ Typically a Preservation Event is related to the Item which is treated.
 
 This includes statements about past or future treatments scheduled for the item.  If desired and if applicable, record one or more general types of past or future treatment activities (e.g. "added leaders", "cleaned ultrasonically", "tears repair", etc.). Selection should be made from a controlled list of values. See also [Item Chapter](/items/elements_of_a_moving_image_item/#sec-item_copy_condition_base_emulsion_film_and_video).
 
-A Restoration Event can go beyond a mere treatment. For a more comprehensive discussion on restoration and examples to help with decisions on whether a restoration constitutes a new Varian, Manifestation or Item, see the chapter [Restoration](/appendices/restorations/index.md).
+A Restoration Event can go beyond a mere treatment. For a more comprehensive discussion on restoration and examples to help with decisions on whether a restoration constitutes a new Variant, Manifestation or Item, see the chapter [Restoration](/appendices/restorations/index.md).
 
 Preservation/Restoration Event information consists of the following sub-elements:
 
