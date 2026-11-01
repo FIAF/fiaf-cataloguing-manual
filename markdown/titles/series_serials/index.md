@@ -419,7 +419,7 @@ In cases of potentially different versions of a newsreel/cinemagazine episode, t
 For Items that have not yet been viewed, then if the film header, can, accompanying paperwork, legacy records, etc. indicate that an item acquired is a particular version of a newsreel/cinemagazine episode, then the Item can be created and linked to the original episode Work and Manifestation. By having a partially devised title for the Items the version distinctions could be indicated, e.g. 
 
 
-<center><object data="/diagrams/numb_18.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+<center><object data="/diagrams/numb_18.drawio.svg" type="image/svg+xml" width="50%"></object></center>
 
 
 This could be a temporary measure prior to viewing, checking, and fuller cataloguing. For example, after further researches and viewing it could be established that the Work or Variant and Manifestations for what was designated “East African Version” was more specifically that released in Kenya, so titling can subsequently be revised to *London Line Greets ’69 [Kenyan Version]* for the Item and its linked Manifestation, and Work or Variant.
@@ -431,13 +431,13 @@ If the episode has the same content, the commentary is the same (just perhaps a 
 If, for example, *London Line No. 373* simply had different presenters for one version but the same commentary – or the level of difference was not yet known from researches – then the following data structures can be used:
 
 
-<center><object data="/diagrams/numb_19.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+<center><object data="/diagrams/numb_19.drawio.svg" type="image/svg+xml" width="70%"></object></center>
 
 
 Or if you institution does not use Variants:
 
 
-<center><object data="/diagrams/numb_20.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+<center><object data="/diagrams/numb_20.drawio.svg" type="image/svg+xml" width="70%"></object></center>
 
 
 The above diagrams also illustrate the structure that could be used where there is an additional separate acquisition of one of the component elements of one of the versions.
@@ -453,7 +453,7 @@ Content descriptions (e.g. synopses and/or shotlists), Subjects, Cast, Credits, 
 If preferred, then partially devised titles can be used for easy identification across the new Works or Variants, Manifestations, and Items, as in the examples featured. Use whichever practice or stylistic is preferred by your institution for these, e.g. square brackets, punctuation system within the titling itself, or a corresponding title type, etc.
 
 
-<center><object data="/diagrams/numb_21.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+<center><object data="/diagrams/numb_21.drawio.svg" type="image/svg+xml" width="70%"></object></center>
 
 
 And if variations are minor and Variants are used, then structure would look like this:
@@ -466,15 +466,15 @@ And if variations are minor and Variants are used, then structure would look lik
 
 There are often Variant series/serials, particularly with television programmes, e.g. the transmission of an original Danish crime drama on television in the United Kingdom with English subtitles. There are different options for structuring these, in situations where an institution acquires Items for both the original programme and the Variant, or for where it just acquires the Variant and not the original.
 
-<center><object data="/diagrams/varkill_01.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+<center><object data="/diagrams/varkill_01.drawio.svg" type="image/svg+xml" width="70%"></object></center>
 
 or
 
-<center><object data="/diagrams/varkill_02.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+<center><object data="/diagrams/varkill_02.drawio.svg" type="image/svg+xml" width="70%"></object></center>
 
 and if both the original and Variant are acquired:
 
-<center><object data="/diagrams/varkill_03.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+<center><object data="/diagrams/varkill_03.drawio.svg" type="image/svg+xml" width="70%"></object></center>
 
 If only acquiring the English subtitled version, then institutions not using Variants may choose to create a Serial Work and Monographic episodes all with the Variant titles and adding details of the original Danish titles and broadcast in a Work History or Notes field on the record. 
 
