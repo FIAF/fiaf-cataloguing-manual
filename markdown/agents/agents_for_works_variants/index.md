@@ -44,11 +44,11 @@ Optionally, when the role performed by an Agent is probable but not certain, pro
 It is recommended to capture these core credits on a moving image record as far as possible and where applicable:
 
 
-<center><object data="/images/Picture1credits.jpg" width="100%"></object></center>
+<center><object data="/images/Picture1credits.jpg" width="75%"></object></center>
 
-<center><object data="/images/Picture2credits.jpg" width="100%"></object></center>
+<center><object data="/images/Picture2credits.jpg" width="75%"></object></center>
 
-<center><object data="/images/Picture3credits.jpg" width="100%"></object></center>
+<center><object data="/images/Picture3credits.jpg" width="75%"></object></center>
 
 [Music composer, Author (e.g. original literary author on which the Work was adapted or based) currently being added to above diagram. Replace diagrams here with revised ones when finished] 
 
@@ -132,26 +132,26 @@ or
 
 !!! example "Example"
     The Ladykillers (United Kingdom, 1955)
-    <center><object data="/images/Screenshot_uncreditedeg9.png" width="100%"></object></center>
+    <center><object data="/images/Screenshot_uncreditedeg9.png" width="70%"></object></center>
 
 
 
 !!! example "Example"
     Doctor Zhivago (USA/Italy/Liechtenstein, 1965)
-    <center><object data="/images/Screenshot_uncreditedeg3.png" width="100%"></object></center>
+    <center><object data="/images/Screenshot_uncreditedeg3.png" width="75%"></object></center>
 
 Or
 
 !!! example "Example"
     Familie Benthin (German Democratic Republic, 1950)
-    <center><object data="/images/Screenshot_uncreditedeg4.png" width="100%"></object></center>
+    <center><object data="/images/Screenshot_uncreditedeg4.png" width="70%"></object></center>
 
 Or
 
 
 !!! example "Example"
     Ifigenia w a... (Poland, 2011-12-11)
-    <center><object data="/images/Screenshot_uncreditedeg6.png" width="100%"></object></center>
+    <center><object data="/images/Screenshot_uncreditedeg6.png" width="70%"></object></center>
 
 The same applies in the case of uncredited cast members, for example:
 
@@ -163,7 +163,7 @@ or
 
 !!! example "Example"
     The Ladykillers (United Kingdom, 1955)  
-    <center><object data="/images/Screenshot_uncreditedcast1.png" width="100%"></object></center>
+    <center><object data="/images/Screenshot_uncreditedcast1.png" width="70%"></object></center>
 
 
 
@@ -173,7 +173,7 @@ For example, during the McCarthy era and blacklisting of various people in the H
 
 !!! example "Example"
     A Breath of scandal (USA/Italy/Austria, 1960)
-    <center><object data="/images/Screenshot_uncreditedeg7blacklist.png" width="100%"></object></center>
+    <center><object data="/images/Screenshot_uncreditedeg7blacklist.png" width="70%"></object></center>
 
 Similarly, there were sometimes differences in the on-screen credits between prints. For example, with the film Falschmünzer (USSR/Germany, 1928), the Russian prints named only one director of photography whereas German prints listed an additional German one:
 
