@@ -18,6 +18,8 @@ Assessments will need to be made, where possible, as to whether the intention wa
 
 Equally, an institution may decide not to differentiate between whether something is technically an aggregate or a "carrier of convenience" and just follow the same structuring either way for any multi-component compilation reels, particularly where the original intent may often not always be clear or known.
 
+<center><object data="/diagrams/agg_chaplineg3.drawio.svg" type="image/svg+xml"></object></center>
+
 Decisions on which structure to use will often depend on what structuring an institution's database will accommodate and allow.
 
 Digital Manifestations, such as DVDs, Blu Rays, and streamed moving images, that have additional selectable language options chosen by the viewer are deemed to be Aggregate Manifestations under RDA.[^1]
