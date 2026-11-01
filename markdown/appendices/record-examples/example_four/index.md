@@ -3,7 +3,7 @@
 In examples 4-6 the field names are given in blue.
 These do not relate to the initial illustrative colour codes used in examples 1 and 2 in any way, but are simply a means of distinguishing the field name from the rest of the data.
 
-| Identification number | F7271 |
+| <span style="color:blue"> Identification number </span> | F7271 |
 | --- | --- |
 | <span style="color:blue"> Title </span> | <span style="color:blue"> Title type </span> |
 | Day of the subgenius | Original |
