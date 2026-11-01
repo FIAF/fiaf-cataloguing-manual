@@ -50,13 +50,13 @@ Some may choose always to create a new Manifestation (i.e. a Preservation Manife
 
 <center><object data="/diagrams/pres_02.drawio.svg" type="image/svg+xml" width="50%"></object></center>
 
-or
+or80
 
-<center><object data="/diagrams/pres_03.drawio.svg" type="image/svg+xml" width="65%"></object></center>
+<center><object data="/diagrams/pres_03.drawio.svg" type="image/svg+xml" width="80%"></object></center>
 
 or if using Variants
 
-<center><object data="/diagrams/pres_04.drawio.svg" type="image/svg+xml" width="65%"></object></center>
+<center><object data="/diagrams/pres_04.drawio.svg" type="image/svg+xml" width="80%"></object></center>
 
 whilst others may decide to create a new Manifestation where change in format and change in distribution/publication coincide but simply create a new Item linked to an existing Manifestation where change in format is as a result of in-house copying.
 
