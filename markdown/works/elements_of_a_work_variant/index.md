@@ -212,7 +212,7 @@ d) Alternatively create a country for the Ukrainian SSR, Georgian SSR, Armenian 
 
 e) Combinations of any of the above.
 
-It remains the policy decision of an institution or festival to choose a preferred name for display on online platforms and/or in festival catalogues. This decision should not be taken lightly and should be informed by the opinions and experiences of those affected.
+It remains the policy decision of an institution to choose a preferred name for display on online platforms and/or in  catalogues. This decision should not be taken lightly and should be informed by the opinions and experiences of those affected.
 
 <a id="sec-year_date_of_reference"></a>
 ## Year/Date of Reference
