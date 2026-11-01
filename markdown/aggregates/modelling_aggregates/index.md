@@ -107,7 +107,7 @@ More importantly, it is not always practical or feasible for many cataloguing sy
 
     Contains: 6 short Chaplin Mutual films – Behind the screen, The Immigrant, Easy Street, The Rink, The Cure, The Adventurer. Plus DVD extras: Topical Budget newsreel footage of Chaplin on voyage and visit back to Britain; filmed interview with Carl Davis [who did music soundtrack for the aggregate]; on-screen text biographies of Edna Purviance and Eric Campbell. Plus sleeve notes by Frank Scheide.
 
-An aggregating Work record for the above enables adding of credits, for example, the music composer for the soundtrack on the aggregate, the interviewees, etc.; associative “contains/contained in” relationship links to any individual films or newsreel works; and then any other remaining details of the Work that cannot be linked in associative relationships may be added as free text in synopsis or notes fields.
+An aggregating Work record for the above enables adding of credits, for example, the music composer for the soundtrack on the aggregate, the interviewees, etc.; associative “contains/contained in” relationship links to any individual films or newsreel Works; and then any other remaining details of the Work that cannot be linked in associative relationships may be added as free text in synopsis or notes fields.
 
 [^1]: Working Group on Aggregates. Final Report of the Working Group on Aggregates, September 12, 2011, [http://www.ifla.org/files/assets/cataloguing/frbrrg/AggregatesFinalReport.pdf](http://www.ifla.org/files/assets/cataloguing/frbrrg/AggregatesFinalReport.pdf)
 [^2]: Definition of “Compilation” in [http://www.isan.org/resources/glossary.html#index_A](http://www.isan.org/resources/glossary.html#index_A)
