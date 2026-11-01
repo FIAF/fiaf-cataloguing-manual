@@ -9,7 +9,7 @@ Instead they recommend that certain relationships be established without instruc
 An Item may have relationships with the following:
 
 - [Agent(s)](/agents/agents_for_items/index.md)
-- [Event(s)](/events/event_types/index.md)
+- [Events](../../events/event_types/index.md)
 - [Manifestation(s)](/manifestations/#sec-moving_image_manifestations)
 - [Other Relationships](/other-relationships/other_relationships_for_works_variants_manifestations_items/#sec-item_other_relationship_types)
  

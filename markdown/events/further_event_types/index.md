@@ -146,6 +146,8 @@ A Preservation/Restoration Event has as typical Agent(s) the institution(s) or i
 
 A Preservation/Restoration Event can be in relationship with instances of [Other Relationships](/other-relationships/other_relationships_for_works_variants_manifestations_items/#sec-work_variant_other_relationship_types) (such as technical reports, documentation material, promotional material for the specific project, etc.).
 
+For a more detailled discussion of the term restoration see also the [Appendix](/restorations/index.md).
+
 Record all the existing relationships of a Preservation/Restoration Event, if the information is known and considered of relevance.
 
 Preservation/Restoration Event information consists of the following sub-elements:

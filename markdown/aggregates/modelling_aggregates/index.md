@@ -12,7 +12,7 @@ In practical terms creating aggregates and how they are modelled, will be determ
 
 Under FRBR, RDA, and CEN an aggregate Manifestation is allowed to have a many-to-many relationship with Works/Variants, i.e., it can have a “part of” relationship with more than one Work/Variant.
 
-However, many database systems are structured in a way that does not allow this and will only permit links or relationships between Manifestation records and a single Work/Variant record at all times, i.e., a one-to-many Work/Variant-Manifestation relationship.
+However, many database systems are structured in a way that does not allow this and will only permit links or relationships between Manifestation records and a single Work or Variant record at all times, i.e., a one-to-many Work/Variant-Manifestation relationship.
 
 There are also potential implications for those organisations using international identifiers or registration numbers, e.g., ISAN gives a number to what they define “compilation”: “a compilation work is a collection of two or more separate works (each identified with its own ISAN) in a single distribution package”[^2].
 
@@ -27,20 +27,20 @@ It is recognised that the ability to do this may be dependent on sufficient info
 Where this is insufficient the titles of the individual Works/Variants making up the aggregate may be added as alternative title types to the aggregating Work.
 This will assist in accessibility and identification.
 
-For how aggregate records may be structured in a 1-level hierarchy system see [Example 7. Aggregate DVD Television Serial and Episode records in 1-level Hierarchy Models](../../appendices/record-examples/example_seven/index.md).
+See here for how aggregate records may be structured in a [1-level hierarchy system] (../../appendices/record-examples/example_seven/index.md).
 Whilst this relates to a television example the same principles can be applied in the case of film collection and augmented collection aggregates.
 
 <a id="sec-collection_aggregates_modelling"></a>
 ## Collection Aggregates Modelling
-Many collection aggregates have their own new title, e.g., The Audrey Hepburn collection (consisting of Breakfast at Tiffany’s, Funny face and Sabrina); Heroes of the sky (consisting of Angels one five, The Dambusters, Aces high); Portrait of a miner (consisting of various Mining review shorts).
+Many collection aggregates have their own new title, e.g., *The Audrey Hepburn collection* (consisting of Breakfast at Tiffany’s, Funny face and Sabrina); *Heroes of the sky* (consisting of Angels one five, The Dambusters, Aces high); *Portrait of a miner* (consisting of various Mining review shorts).
 These should be the titles of the aggregate Manifestation, and also any new aggregating Work record.
 
 The individual component titles may also be added as alternative title types to the aggregating Work.
 
-Some collection aggregates do not have their own new title, e.g., in 2008, Odeon Entertainment released a DVD double-bill of classic British thrillers, Bond of fear (1956) and Blackout (1950), with no collection title.
+Some collection aggregates do not have their own new title, e.g., in 2008, Odeon Entertainment released a DVD double-bill of classic British thrillers, *Bond of fear* (1956) and *Blackout* (1950), with no collection title.
 
 The treatment of the aggregate title may differ from institution to institution, especially in cases where multiple Works are contained in the collection aggregate and recording all titles in a single title field would be unwieldy.
-There is the option of an institution using a devised/supplied title (see [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](../../titles/supplied_devised_titles/index.md#sec-supplied_devised_titles)).
+There is the option of an institution using a devised/supplied title (see [Supplied/Devised Titles](../../titles/supplied_devised_titles/index.md#sec-supplied_devised_titles)).
 
 !!! example "Example"
     Bond of fear ; Blackout 
@@ -68,12 +68,12 @@ This model involves creation of a new aggregating Work record.
 
 The original individual Works and aggregating Work link together in associative relationship “contains/contained in” and aggregate Manifestation links to aggregating Work in “part of” relationship, with individual Items rather than one aggregated Item linking to aggregate Manifestation in “part of” relationship.
 
-This model may occur particularly with internet streaming by an institution and digital files used, whereby an aggregate Internet Manifestation is available as an Internet broadcast, but is streamed in from individual digital files (i.e. individual Items) seamlessly and consecutively, not from a single aggregated digital file, i.e. a thematic compilation of three short films of the late 19th century is devised and entitled “Victorian Cinema 3”[^3].
-The internet user views the whole aggregate Manifestation as one entity, but it is streamed from separate digital Items streamed seamlessly one after the other.
+This model may occur particularly with Internet streaming by an institution and digital files used, whereby an aggregate Internet Manifestation is available as an Internet broadcast, but is streamed in from individual digital files (i.e. individual Items) seamlessly and consecutively, not from a single aggregated digital file, i.e. a thematic compilation of three short films of the late 19th century is devised and entitled *Victorian Cinema 3*[^3].
+The Internet user views the whole aggregate Manifestation as one entity, but it is streamed from separate digital Items streamed seamlessly one after the other.
 
 <center><object data="/diagrams/figure_12.drawio.svg" type="image/svg+xml"></object></center>
 
-In the above scenario each of the Items could be given the same location/container/barcode number and each could have the alternative title of “Victorian Cinema 3”.
+In the above scenario each of the Items could be given the same location/container/barcode number and each could have the alternative title of *Victorian Cinema 3*.
 Similarly, the individual titles could also be added as alternative titles to the aggregating Work if an institution wishes, to aid searchability and access.
 
 <a id="sec-augmented_collection_aggregate"></a>
@@ -105,9 +105,9 @@ More importantly, it is not always practical or feasible for many cataloguing sy
 !!! example "Example"
     Charlie Chaplin. The Mutual films. Volume 1. 
 
-    Contains: 6 short Chaplin Mutual films – Behind the screen, The immigrant, Easy Street, The rink, The cure, The adventurer. Plus DVD extras: Topical Budget newsreel footage of Chaplin on voyage and visit back to Britain; filmed interview with Carl Davis [who did music soundtrack for the aggregate]; on-screen text biographies of Edna Purviance and Eric Campbell. Plus sleeve notes by Frank Scheide.
+    Contains: 6 short Chaplin Mutual films – Behind the screen, The Immigrant, Easy Street, The Rink, The Cure, The Adventurer. Plus DVD extras: Topical Budget newsreel footage of Chaplin on voyage and visit back to Britain; filmed interview with Carl Davis [who did music soundtrack for the aggregate]; on-screen text biographies of Edna Purviance and Eric Campbell. Plus sleeve notes by Frank Scheide.
 
-An aggregating Work record for the above enables adding of credits, for example, the music composer for the soundtrack on the aggregate, the interviewees, etc.; associative “contains/contained in” relationship links to any individual films or newsreel works; and then any other remaining details of the Work that cannot be linked in associative relationships may be added as free text in synopsis or notes fields.
+An aggregating Work record for the above enables adding of credits, for example, the music composer for the soundtrack on the aggregate, the interviewees, etc.; associative “contains/contained in” relationship links to any individual films or newsreel Works; and then any other remaining details of the Work that cannot be linked in associative relationships may be added as free text in synopsis or notes fields.
 
 [^1]: Working Group on Aggregates. Final Report of the Working Group on Aggregates, September 12, 2011, [http://www.ifla.org/files/assets/cataloguing/frbrrg/AggregatesFinalReport.pdf](http://www.ifla.org/files/assets/cataloguing/frbrrg/AggregatesFinalReport.pdf)
 [^2]: Definition of “Compilation” in [http://www.isan.org/resources/glossary.html#index_A](http://www.isan.org/resources/glossary.html#index_A)

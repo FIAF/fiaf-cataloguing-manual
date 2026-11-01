@@ -1,8 +1,8 @@
 
 
 <a id="sec-elements_of_description_comparison"></a>
-## Elements of Description comparison
-1991 FIAF Cataloguing Rules (ISBD based), EN 15907 and FIAF Moving Image Cataloguing Manual
+## Comparison between Elements of Description
+The following resources were compared: 1991 FIAF Cataloguing Rules (ISBD based), EN 15907 and FIAF Moving Image Cataloguing Manual
 
 **Moving Image Work / Variant**
 
