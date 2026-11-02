@@ -52,7 +52,7 @@ Some restorations are simply improving the film/colour/sound quality of deterior
 
 These would equate with minor changes in versions and not need a new Work record created, although a Variant record would be created in 4-level hierarchy structures and systems. Any technical information relating to the restoration would be added to a new Manifestation/Item record.
 
-## Restoration constitutes a Manifestation
+## Restorations - Manifestations
 
 Restoration Manifestation Type represents the outcome(s) of restoration events/activities, usually involving selection and aggregation of materials from diverse source elements to replicate an “original” or “ideal” manifestation
 
@@ -75,7 +75,7 @@ The title of any such second Restoration Manifestation and/or Item(s) should ref
 
 In both Manifestations and Items such titles should indicate that they are devised titles. 
 
-## Restoration constitutes Items
+## Restorations - Items
 
 Items created by an Archive as part of a restoration project are associated with the Restoration Manifestation. If the full released restored version of the moving image is also subsequently acquired, e.g. a published DVD/Blu Ray, then a Home Viewing Manifestation should also be created and a new Item record for the acquisition created and linked to that.
 
