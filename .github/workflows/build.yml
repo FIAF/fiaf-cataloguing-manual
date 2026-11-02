@@ -19,9 +19,10 @@ jobs:
           python-version: 3.x
 
       - name: Install dependencies
-        run: |
-          pip install mkdocs
-          pip install mkdocs-material 
+        run: | 
+          pip install mkdocs==1.6.1
+          pip install mkdocs-material==9.7.6
+          pip install mkdocs-nav-numbering-plugin==1.3.0
 
       - name: Deploy to GitHub Pages
         run: mkdocs gh-deploy --force
