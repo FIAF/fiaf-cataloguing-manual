@@ -89,7 +89,7 @@ All the existing Items from which the copies have been made (ie. the source Item
 
 The new copy Item record should always cite or be linked to its original source Item record, preferably using the latter’s unique id number.
 
-If produced in-house, then the actual equipment used to create the copy may also be indicated if required.
+Detailed information about the individual stages of the work — including what was done, when, by whom, using which equipment and for what reason, as well as the source and resulting Items or Manifestations — can be documented and linked through appropriate Preservation/Restoration Events, or in relevant fields within an Item where a system does not have Events.
 
 Where to link any final complete print Item record depends on context. 
 
@@ -101,6 +101,6 @@ Digital file Items of Restorations that are used for internet streaming by the i
 
 The same data can be collected, grouped and recorded in any system. For example: 
 
-If an index card catalogue, or non-relational database, then add the information to an existing record for the original film, possibly under a heading of “Restoration version + [date]”. The original source of any new Items for the project should also be recorded. Or else create a new record for the restoration version, and add the details on that, relating it to the original film record using a “See also” reference
+If an index card catalogue, or non-relational database, is used then add the information to an existing record for the original film, possibly under a heading of “Restoration version + [date]”. The original source of any new Items for the project should also be recorded. Or else create a new record for the restoration version, and add the details on that, relating it to the original film record using a “See also” reference
 
 [^1] ADD LINK TO https://www.fiafnet.org/pages/E-Resources/Technical-Terms-Full-List.html#R
