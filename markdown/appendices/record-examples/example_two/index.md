@@ -4,8 +4,8 @@ In this second example, the corresponding data of the core concepts also has the
 
 Core concepts ([[Core elements of description](../../../preliminary/core_elements_of_description/index.md#sec-core_elements_of_description))
 
-Title
-Series/Serial
+<span style="color:blue"> Title
+<span style="color:blue"> Series/Serial
 Cast
 Credits
 Country of reference
@@ -23,99 +23,99 @@ Content description
 | 6.2 Attributes of a Moving Image Work/Variant |  |  |  |
 | 6.2.1 Work/Variant Description Type | D.1 Work/Variant Description Types | monographic | monografická |
 | 6.3 Elements of a Work/Variant |  |  |  |
-| 6.3.1 Work/Variant Identifier |  | urn:nbn:sk:sfu-ko1ugsb | urn:nbn:sk:sfu-ko1ugsb |
+| <span style="color:grey"> 6.3.1 Work/Variant Identifier |  |  <span style="color:grey"> urn:nbn:sk:sfu-ko1ugsb |  <span style="color:grey"> urn:nbn:sk:sfu-ko1ugsb |
 | 6.3.1.1 Identifier Type |  | URN:NBN | URN:NBN |
-| 6.3.1 Work/Variant Identifier |  | SFD000163 | SFD000163 |
-| 6.3.1.1 Identifier Type |  | SFÚ identifier [local] | identifikátor SFÚ [lokálny] |
-| 6.3.2 Title |  | Obrazy starého sveta | Obrazy starého sveta |
+|  <span style="color:grey"> 6.3.1 Work/Variant Identifier |  |  <span style="color:grey"> SFD000163 |  <span style="color:grey"> SFD000163 |
+| <span style="color:grey"> 6.3.1.1 Identifier Type |  |  <span style="color:grey"> SFÚ identifier [local] |  <span style="color:grey"> identifikátor SFÚ [lokálny] |
+| <span style="color:blue"> 6.3.2 Title |  | Obrazy starého sveta | Obrazy starého sveta |
 | 6.3.2.1 Title Type | 11.2 Title Types | 11.2.1 Preferred [original: slo] | preferovaný [originálny: slo] |
-| 6.3.2 Title |  | Pictures of the old world | Pictures of the old world |
+| <span style="color:blue"> 6.3.2 Title |  | Pictures of the old world | Pictures of the old world |
 | 6.3.2.1 Title Type | 11.2 Title Types | 11.2.5 Alternative [translated title: eng] | alternatívny [preklad názvu: eng] |
-| 6.3.2 Title |  | Images du vieux monde | Images du vieux monde |
+| <span style="color:blue"> 6.3.2 Title |  | Images du vieux monde | Images du vieux monde |
 | 6.3.2.1 Title Type | 11.2 Title Types | 11.2.5 Alternative [translated title: fre] | alternatívny [preklad názvu: fre] |
-| 1.3.2 Title |  | Bilder einer alten Welt | Bilder einer alten Welt |
+| <span style="color:blue"> 1.3.2 Title |  | Bilder einer alten Welt | Bilder einer alten Welt |
 | 1.3.2.1 Title Type | 11.2 Title Types | 11.2.5 Alternative [translated title: ger] | alternatívny [preklad názvu: ger] |
-| 1.3.2 Title |  | Картины старого мира | Картины старого мира |
+| <span style="color:blue"> 1.3.2 Title |  | Картины старого мира | Картины старого мира |
 | 1.3.2.1 Title Type | 11.2 Title Types | 11.2.5 Alternative [translated title: rus] | alternatívny [preklad názvu: rus] |
-| 1.3.2 Title |  | Kartiny starogo mira | Kartiny starogo mira |
+| <span style="color:blue"> 1.3.2 Title |  | Kartiny starogo mira | Kartiny starogo mira |
 | 1.3.2.1 Title Type | A.2 Title Types | 11.2.5.1 Alternative [translated title:rus | transliterated title] | alternatívny [preklad názvu: rus a transliterácia názvu] |
-| 6.3.3 Country of reference |  | Slovakia [Czechoslovakia] | Slovensko [Československo] |
-| 6.3.4 Year/Date of reference |  | 1972 | 1972 |
-| 6.3.4.1 Date Type |  | year of production | rok výroby |
-| 6.3.5 Language(s) |  | Slovak | slovenčina |
+|  <span style="color:turquoise"> 6.3.3 Country of reference |  | <span style="color:turquoise"> Slovakia [Czechoslovakia] |  <span style="color:turquoise"> Slovensko [Československo] |
+|  <span style="color:magenta"> 6.3.4 Year/Date of reference |  | 1972 | 1972 |
+|  <span style="color:magenta"> 6.3.4.1 Date Type |  |  <span style="color:magenta"> year of production |  <span style="color:magenta"> rok výroby |
+|  <span style="color:grey"> 6.3.5 Language(s) |  |  <span style="color:grey"> Slovak |  <span style="color:grey"> slovenčina |
 | 6.3.5.1 Language Term |  | slo | slo |
 | 6.3.5.2 Usage type | D.6 Language Usage Types | Original Language | pôvodný jazyk |
 | 6.3.5.2 Usage type | D.6 Language Usage Types | spoken language | hovorený jazyk |
 | 6.3.5.2 Usage type | D.6 Language Usage Types | sung language | spievaný jazyk |
-| 6.3.6 Content description (synopses, shotlists, etc) |  | Suggestive portraits of old people from the Liptov and Orava regions who are able to enjoy their individual freedom even in the times of civilisational chaos and insecurity. | Sugestívne portréty starých ľudí z Liptova a Oravy, ktorí dokážu aj v stave civilizačného chaosu a neistoty žiť vnútorne slobodní. |
+|  <span style="color:green"> 6.3.6 Content description (synopses, shotlists, etc) |  | Suggestive portraits of old people from the Liptov and Orava regions who are able to enjoy their individual freedom even in the times of civilisational chaos and insecurity. | Sugestívne portréty starých ľudí z Liptova a Oravy, ktorí dokážu aj v stave civilizačného chaosu a neistoty žiť vnútorne slobodní. |
 | 6.3.6.1 Content Description Type |  | synopsis | anotácia |
 | 6.3.8 Notes | Appendix B, Cataloguer’s Notes | Text before the opening credits: These are stories of people rooted in the soil they came from. They cannot be replanted, they would perish. | Pred úvodnými titulkami text: Toto sú príbehy, ľudí, ktorí ostali sami sebou. Zabudnutí a prostí, vrastení do zeme, z ktorej vyšli. Nemožno ich presadiť pretože by zahynuli. |
 | 6.3.9.2 Censorship history |  | banned film (cinema release: July 1989) | zakázaný film (kinodistribúcia: júl 1989) |
 | 15.1 Relationships of a Work/Variant (links/associations with other entities/records) |  |  |  |
-| Credits |  |  |  |
-| 13.2 Agents (e.g. Cast, Credits, Person, Organisation, etc.) |  | Československý film Bratislava | Československý film Bratislava |
-| 13.2.1 Agent Activity |  | Production Company | Produkčná spoločnosť |
-| 13.2 Agents (e.g. Cast, Credits, Person, Organisation, etc.) |  | Dušan Hanák | Dušan Hanák |
-| 13.2.1 Agent Activity |  | Director | Réžia |
-| 13.2 Agents (e.g. Cast, Credits, Person, Organisation, etc.) |  | Dušan Hanák Dušan Hanák |
-| 13.2.1 Agent Activity |  | Story and screenplay | Námet a scenár |
-| 13.2  Agents (e.g. Cast, Credits, Person, Organisation, etc.) |  | Alojz Hanúsek | Alojz Hanúsek |
-| 13.2.1 Agent Activity |  | Cinematographer | Kamera |
-| 13.2 Agents (e.g. Cast, Credits, Person, Organisation, etc.) |  | Alfréd Benčič | Alfréd Benčič |
-| 13.2.1 Agent Activity |  | Editor | Strih |
-| 13.2 Agents (e.g. Cast, Credits, Person, Organisation, etc.) |  | Ondrej Polomský | Ondrej Polomský |
-| 13.2.1 Agent Activity |  | Sound | Zvuk |
-| 13.2 Agents (e.g. Cast, Credits, Person, Organisation, etc.) |  | Martin Martinček | Martin Martinček |
-| 13.2.1 Agent Activity |  | Photographs by | Fotografie |
-| 13.2 Agents (e.g. Cast, Credits, Person, Organisation, etc.) |  | Vladimír Vavrek | Vladimír Vavrek |
-| 13.2.1 Agent Activity |  | Photographs by | Fotografie |
-| 13.2 Agents |  | George Frideric Handel | George Frideric Handel |
-| 13.2.1 Agent Activity |  | Music | Hudba |
-| 13.2 Agents |  | Václav Hálek | Václav Hálek |
-| 13.2.1 Agent Activity |  | Music | Hudba |
-| 13.2 Agents |  | Jozef Malovec | Jozef Malovec |
-| 13.2.1 Agent Activity |  | Music | Hudba |
-| 13.2 Agents |  | František Belfín | František Belfín |
-| 13.2.1 Agent Activity |  | Conductor | Dirigent |
-| 13.2 Agents |  | Filmový symfonický orchestr, Praha | Filmový symfonický orchestr, Praha |
-| 13.2.1 Agent Activity |  | Music Performed by | Hudbu nahral |
-| 13.2 Agents |  | Boris Hochel | Boris Hochel |
-| 13.2.1 Agent Activity |  | Script Editor | Dramaturg |
-| 13.2 Agents |  | Juraj Král | Juraj Král |
-| 13.2.1 Agent Activity |  | Production Manager | Vedúci výroby |
-| 13.2 Agents |  | Stanislav Učník | Stanislav Učník |
-| 13.2.1 Agent Activity |  | Production Supervisor | Vedúci nakrúcania |
-| 13.2 Agents |  | Oľga Hrajnohová | Oľga Hrajnohová |
-| 13.2.1 Agent Activity |  | Script-girl | Skript |
-| 13.2 Agents |  | Štefan Kondrót | Štefan Kondrót |
-| 13.2.1 Agent Activity |  | Cooperation | Spolupráca |
-| 13.2 Agents |  | Martin Gazík | Martin Gazík |
-| 13.2.1 Agent Activity |  | Cooperation | Spolupráca |
-| 13.2 Agents |  | Ján Albrecht | Ján Albrecht |
-| 13.2.1 Agent Activity |  | Cooperation | Spolupráca |
-| 13.2 Agents |  | Jan Švankmajer | Jan Švankmajer |
-| 13.2.1 Agent Activity |  | Cooperation | Spolupráca |
-| 13.2 Agents |  | Jozef Košťál | Jozef Košťál |
-| 13.2.1 Agent Activity |  | Cooperation | Spolupráca |
-| 13.2 Agents |  | Jaroslav Rihák | Jaroslav Rihák |
-| 13.2.1 Agent Activity |  | Cooperation | Spolupráca |
-| 13.2 Agents |  | Milan Hurtig | Milan Hurtig |
-| 13.2.1 Agent Activity |  | Cooperation | Spolupráca |
-| 13.2 Agents |  | Jozef Kováčik | Jozef Kováčik |
-| 13.2.1 Agent Activity |  | Cooperation | Spolupráca |
-| 13.2 Agents |  | Ján Gašparec | Ján Gašparec |
-| 13.2.1 Agent Activity |  | Cooperation | Spolupráca |
-| Cast/ Featuring |  | From the lives of those mentioned below: | Zo života: |
-| 13.2 Agents |  | Veronika Ralíková | Veronika Ralíková |
-| 13.2.1 Agent Activity |  | Herself |  |
-| 13.2 Agents |  | Adam Kura | Adam Kura |
-| 13.2.1 Agent Activity |  | Himself |  |
-| 13.2 Agents |  | Jozef Országh | Jozef Országh |
-| 13.2.1 Agent Activity |  | Himself |  |
-| 13.2 Agents |  | Juraj Michelík | Juraj Michelík |
-| 13.2.1 Agent Activity |  | Himself |  |
-| 13.2 Agents |  | Anton Miček | Anton Miček |
-| 13.2.1 Agent Activity |  | Himself |  |
+|  <span style="color:brown"> Credits |  |  |  |
+|  13.2 Agents (e.g. Cast, Credits, Person, Organisation, etc.) |  | <span style="color:brown"> Československý film Bratislava | <span style="color:brown"> Československý film Bratislava |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Production Company | <span style="color:brown"> Produkčná spoločnosť |
+| 13.2 Agents (e.g. Cast, Credits, Person, Organisation, etc.) |  | <span style="color:brown"> Dušan Hanák | <span style="color:brown"> Dušan Hanák |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Director | <span style="color:brown"> Réžia |
+| 13.2 Agents (e.g. Cast, Credits, Person, Organisation, etc.) |  | <span style="color:brown"> Dušan Hanák | <span style="color:brown"> Dušan Hanák |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Story and screenplay | <span style="color:brown"> Námet a scenár |
+| 13.2  Agents (e.g. Cast, Credits, Person, Organisation, etc.) |  | <span style="color:brown"> Alojz Hanúsek | <span style="color:brown"> Alojz Hanúsek |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Cinematographer | <span style="color:brown"> Kamera |
+| 13.2 Agents (e.g. Cast, Credits, Person, Organisation, etc.) |  | <span style="color:brown"> Alfréd Benčič | <span style="color:brown"> Alfréd Benčič |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Editor | <span style="color:brown"> Strih |
+| 13.2 Agents (e.g. Cast, Credits, Person, Organisation, etc.) |  | <span style="color:brown"> Ondrej Polomský | <span style="color:brown"> Ondrej Polomský |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Sound | <span style="color:brown"> Zvuk |
+| 13.2 Agents (e.g. Cast, Credits, Person, Organisation, etc.) |  | <span style="color:brown"> Martin Martinček | <span style="color:brown"> Martin Martinček |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Photographs by | <span style="color:brown"> Fotografie |
+| 13.2 Agents (e.g. Cast, Credits, Person, Organisation, etc.) |  | <span style="color:brown"> Vladimír Vavrek | <span style="color:brown"> Vladimír Vavrek |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Photographs by | <span style="color:brown"> Fotografie |
+| 13.2 Agents |  | <span style="color:brown"> George Frideric Handel | <span style="color:brown"> George Frideric Handel |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Music | <span style="color:brown"> Hudba |
+| 13.2 Agents |  | <span style="color:brown"> Václav Hálek | <span style="color:brown"> Václav Hálek |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Music | <span style="color:brown"> Hudba |
+| 13.2 Agents |  | <span style="color:brown"> Jozef Malovec | <span style="color:brown"> Jozef Malovec |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Music | <span style="color:brown"> Hudba |
+| 13.2 Agents |  | <span style="color:brown"> František Belfín | <span style="color:brown"> František Belfín |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Conductor |<span style="color:brown"> Dirigent |
+| 13.2 Agents |  | <span style="color:brown"> Filmový symfonický orchestr, Praha | <span style="color:brown"> Filmový symfonický orchestr, Praha |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Music Performed by | <span style="color:brown"> Hudbu nahral |
+| 13.2 Agents |  | <span style="color:brown"> Boris Hochel | <span style="color:brown"> Boris Hochel |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Script Editor | <span style="color:brown"> Dramaturg |
+| 13.2 Agents |  | <span style="color:brown"> Juraj Král | <span style="color:brown"> Juraj Král |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Production Manager | <span style="color:brown"> Vedúci výroby |
+| 13.2 Agents |  | <span style="color:brown"> Stanislav Učník | <span style="color:brown"> Stanislav Učník |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Production Supervisor | <span style="color:brown"> Vedúci nakrúcania |
+| 13.2 Agents |  | <span style="color:brown"> Oľga Hrajnohová | <span style="color:brown"> Oľga Hrajnohová |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Script-girl | <span style="color:brown"> Skript |
+| 13.2 Agents |  | <span style="color:brown"> Štefan Kondrót | <span style="color:brown"> Štefan Kondrót |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Cooperation | <span style="color:brown"> Spolupráca |
+| 13.2 Agents |  | <span style="color:brown"> Martin Gazík | <span style="color:brown"> Martin Gazík |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Cooperation | <span style="color:brown"> Spolupráca |
+| 13.2 Agents |  | <span style="color:brown"> Ján Albrecht | <span style="color:brown"> Ján Albrecht |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Cooperation | <span style="color:brown"> Spolupráca |
+| 13.2 Agents |  | <span style="color:brown"> Jan Švankmajer | <span style="color:brown"> Jan Švankmajer |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Cooperation | <span style="color:brown"> Spolupráca |
+| 13.2 Agents |  | <span style="color:brown"> Jozef Košťál | <span style="color:brown"> Jozef Košťál |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Cooperation | <span style="color:brown"> Spolupráca |
+| 13.2 Agents |  | <span style="color:brown"> Jaroslav Rihák | <span style="color:brown"> Jaroslav Rihák |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Cooperation | <span style="color:brown"> Spolupráca |
+| 13.2 Agents |  | <span style="color:brown"> Milan Hurtig | <span style="color:brown"> Milan Hurtig |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Cooperation | <span style="color:brown"> Spolupráca |
+| 13.2 Agents |  | <span style="color:brown"> Jozef Kováčik | <span style="color:brown"> Jozef Kováčik |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Cooperation | <span style="color:brown"> Spolupráca |
+| 13.2 Agents |  | <span style="color:brown"> Ján Gašparec | <span style="color:brown"> Ján Gašparec |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Cooperation | <span style="color:brown"> Spolupráca |
+| <span style="color:brown"> Cast/ Featuring |  | <span style="color:brown"> From the lives of those mentioned below: | <span style="color:brown"> Zo života: |
+| 13.2 Agents |  | <span style="color:brown"> Veronika Ralíková | <span style="color:brown"> Veronika Ralíková |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Herself |  |
+| 13.2 Agents |  | <span style="color:brown"> Adam Kura | <span style="color:brown"> Adam Kura |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Himself |  |
+| 13.2 Agents |  | <span style="color:brown"> Jozef Országh | <span style="color:brown"> Jozef Országh |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Himself |  |
+| 13.2 Agents |  | <span style="color:brown"> Juraj Michelík | <span style="color:brown"> Juraj Michelík |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Himself |  |
+| 13.2 Agents |  | <span style="color:brown"> Anton Miček | <span style="color:brown"> Anton Miček |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Himself |  |
 | 13.2 Agents |  | Františka Ševčíková | Františka Ševčíková |
 | 13.2.1 Agent Activity |  | Herself |  |
 | 13.2 Agents |  | Adam Struhárňanský | Adam Struhárňanský |
