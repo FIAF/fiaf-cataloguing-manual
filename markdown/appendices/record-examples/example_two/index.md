@@ -6,128 +6,128 @@ Core concepts ([[Core elements of description](../../../preliminary/core_element
 
 <span style="color:blue"> Title
 <span style="color:blue"> Series/Serial
-Cast
-Credits
-Country of reference
-Original format
-Original Length
-Original duration
-Language
-Year of reference
-Identifier
-Subject/genre/form
-Content description
+<span style="color:brown"> Cast
+<span style="color:brown"> Credits
+<span style="color:turquoise"> Country of reference
+<span style="color:purple"> Original format
+<span style="color:orange"> Original Length
+<span style="color:orange"> Original duration
+<span style="color:grey"> Language
+<span style="color:magenta"> Year of reference
+<span style="color:grey"> Identifier
+<span style="color:green"> Subject/genre/form
+<span style="color:green"> Content description
 
 | **WORK** |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | 6.2 Attributes of a Moving Image Work/Variant |  |  |  |
 | 6.2.1 Work/Variant Description Type | D.1 Work/Variant Description Types | monographic | monografická |
 | 6.3 Elements of a Work/Variant |  |  |  |
-| <span style="color:grey"> 6.3.1 Work/Variant Identifier |  |  <span style="color:grey"> urn:nbn:sk:sfu-ko1ugsb |  <span style="color:grey"> urn:nbn:sk:sfu-ko1ugsb |
+| <span style="color:grey"> 6.3.1 Work/Variant Identifier </span>|  |  <span style="color:grey"> urn:nbn:sk:sfu-ko1ugsb </span> |  <span style="color:grey"> urn:nbn:sk:sfu-ko1ugsb </span>|
 | 6.3.1.1 Identifier Type |  | URN:NBN | URN:NBN |
-|  <span style="color:grey"> 6.3.1 Work/Variant Identifier |  |  <span style="color:grey"> SFD000163 |  <span style="color:grey"> SFD000163 |
-| <span style="color:grey"> 6.3.1.1 Identifier Type |  |  <span style="color:grey"> SFÚ identifier [local] |  <span style="color:grey"> identifikátor SFÚ [lokálny] |
-| <span style="color:blue"> 6.3.2 Title |  | Obrazy starého sveta | Obrazy starého sveta |
-| 6.3.2.1 Title Type | 11.2 Title Types | 11.2.1 Preferred [original: slo] | preferovaný [originálny: slo] |
-| <span style="color:blue"> 6.3.2 Title |  | Pictures of the old world | Pictures of the old world |
-| 6.3.2.1 Title Type | 11.2 Title Types | 11.2.5 Alternative [translated title: eng] | alternatívny [preklad názvu: eng] |
-| <span style="color:blue"> 6.3.2 Title |  | Images du vieux monde | Images du vieux monde |
-| 6.3.2.1 Title Type | 11.2 Title Types | 11.2.5 Alternative [translated title: fre] | alternatívny [preklad názvu: fre] |
-| <span style="color:blue"> 1.3.2 Title |  | Bilder einer alten Welt | Bilder einer alten Welt |
-| 1.3.2.1 Title Type | 11.2 Title Types | 11.2.5 Alternative [translated title: ger] | alternatívny [preklad názvu: ger] |
-| <span style="color:blue"> 1.3.2 Title |  | Картины старого мира | Картины старого мира |
-| 1.3.2.1 Title Type | 11.2 Title Types | 11.2.5 Alternative [translated title: rus] | alternatívny [preklad názvu: rus] |
-| <span style="color:blue"> 1.3.2 Title |  | Kartiny starogo mira | Kartiny starogo mira |
-| 1.3.2.1 Title Type | A.2 Title Types | 11.2.5.1 Alternative [translated title:rus | transliterated title] | alternatívny [preklad názvu: rus a transliterácia názvu] |
-|  <span style="color:turquoise"> 6.3.3 Country of reference |  | <span style="color:turquoise"> Slovakia [Czechoslovakia] |  <span style="color:turquoise"> Slovensko [Československo] |
-|  <span style="color:magenta"> 6.3.4 Year/Date of reference |  | 1972 | 1972 |
-|  <span style="color:magenta"> 6.3.4.1 Date Type |  |  <span style="color:magenta"> year of production |  <span style="color:magenta"> rok výroby |
-|  <span style="color:grey"> 6.3.5 Language(s) |  |  <span style="color:grey"> Slovak |  <span style="color:grey"> slovenčina |
-| 6.3.5.1 Language Term |  | slo | slo |
-| 6.3.5.2 Usage type | D.6 Language Usage Types | Original Language | pôvodný jazyk |
-| 6.3.5.2 Usage type | D.6 Language Usage Types | spoken language | hovorený jazyk |
-| 6.3.5.2 Usage type | D.6 Language Usage Types | sung language | spievaný jazyk |
-|  <span style="color:green"> 6.3.6 Content description (synopses, shotlists, etc) |  | Suggestive portraits of old people from the Liptov and Orava regions who are able to enjoy their individual freedom even in the times of civilisational chaos and insecurity. | Sugestívne portréty starých ľudí z Liptova a Oravy, ktorí dokážu aj v stave civilizačného chaosu a neistoty žiť vnútorne slobodní. |
-| 6.3.6.1 Content Description Type |  | synopsis | anotácia |
+|  <span style="color:grey"> 6.3.1 Work/Variant Identifier </span> |  |  <span style="color:grey"> SFD000163 </span> |  <span style="color:grey"> SFD000163 </span> |
+| 6.3.1.1 Identifier Type |  |  <span style="color:grey"> SFÚ identifier [local] </span> |  <span style="color:grey"> identifikátor SFÚ [lokálny] </span> |
+| 6.3.2 Title |  |  <span style="color:blue"> Obrazy starého sveta </span> |  <span style="color:blue"> Obrazy starého sveta </span> |
+| 6.3.2.1 Title Type | 11.2 Title Types | 11.2.1 Preferred [original: slo] |  <span style="color:blue"> preferovaný [originálny: slo] </span> |
+| 6.3.2 Title |  |  <span style="color:blue"> Pictures of the old world </span> |  <span style="color:blue"> Pictures of the old world </span> |
+| 6.3.2.1 Title Type | 11.2 Title Types | 11.2.5 Alternative [translated title: eng] |  <span style="color:blue"> alternatívny [preklad názvu: eng] </span>|
+| 6.3.2 Title |  |  <span style="color:blue"> Images du vieux monde </span> |  <span style="color:blue"> Images du vieux monde </span> |
+| 6.3.2.1 Title Type | 11.2 Title Types | 11.2.5 Alternative [translated title: fre] |  <span style="color:blue"> alternatívny [preklad názvu: fre] </span> |
+| 1.3.2 Title |  |  <span style="color:blue"> Bilder einer alten Welt </span> |  <span style="color:blue"> Bilder einer alten Welt </span> |
+| 1.3.2.1 Title Type | 11.2 Title Types | 11.2.5 Alternative [translated title: ger] |  <span style="color:blue"> alternatívny [preklad názvu: ger] </span> |
+| 1.3.2 Title |  |  <span style="color:blue"> Картины старого мира </span> |  <span style="color:blue"> Картины старого мира </span> |
+| 1.3.2.1 Title Type | 11.2 Title Types | 11.2.5 Alternative [translated title: rus] |  <span style="color:blue"> alternatívny [preklad názvu: rus] </span> |
+| 1.3.2 Title |  |  <span style="color:blue"> Kartiny starogo mira </span> |  <span style="color:blue"> Kartiny starogo mira </span> |
+| 1.3.2.1 Title Type | A.2 Title Types | 11.2.5.1 Alternative [translated title:rus |  <span style="color:blue"> transliterated title] </span> |  <span style="color:blue"> alternatívny [preklad názvu: rus a transliterácia názvu] </span> |
+| 6.3.3 Country of reference |  | <span style="color:turquoise"> Slovakia [Czechoslovakia] </span> |  <span style="color:turquoise"> Slovensko [Československo] </span> |
+| 6.3.4 Year/Date of reference |  | <span style="color:magenta"> 1972 </span> | <span style="color:magenta"> 1972 </span> |
+| 6.3.4.1 Date Type |  |  <span style="color:magenta"> year of production </span> |  <span style="color:magenta"> rok výroby </span> |
+| 6.3.5 Language(s) |  |  <span style="color:grey"> Slovak </span> |  <span style="color:grey"> slovenčina </span> |
+| 6.3.5.1 Language Term |  | <span style="color:grey"> slo </span> | <span style="color:grey"> slo </span> |
+| 6.3.5.2 Usage type | D.6 Language Usage Types | <span style="color:grey"> Original Language </span>  | <span style="color:grey"> pôvodný jazyk </span> |
+| 6.3.5.2 Usage type | D.6 Language Usage Types | <span style="color:grey"> spoken language </span>  | <span style="color:grey"> hovorený jazyk </span>  |
+| 6.3.5.2 Usage type | D.6 Language Usage Types | <span style="color:grey"> sung language </span>  | <span style="color:grey"> spievaný jazyk </span> |
+|  <span style="color:green"> 6.3.6 Content description (synopses, shotlists, etc) </span> |  | <span style="color:green"> Suggestive portraits of old people from the Liptov and Orava regions who are able to enjoy their individual freedom even in the times of civilisational chaos and insecurity. </span>  | <span style="color:green"> Sugestívne portréty starých ľudí z Liptova a Oravy, ktorí dokážu aj v stave civilizačného chaosu a neistoty žiť vnútorne slobodní. </span>  |
+| 6.3.6.1 Content Description Type |  | <span style="color:green"> synopsis </span> | <span style="color:green"> anotácia </span> |
 | 6.3.8 Notes | Appendix B, Cataloguer’s Notes | Text before the opening credits: These are stories of people rooted in the soil they came from. They cannot be replanted, they would perish. | Pred úvodnými titulkami text: Toto sú príbehy, ľudí, ktorí ostali sami sebou. Zabudnutí a prostí, vrastení do zeme, z ktorej vyšli. Nemožno ich presadiť pretože by zahynuli. |
 | 6.3.9.2 Censorship history |  | banned film (cinema release: July 1989) | zakázaný film (kinodistribúcia: júl 1989) |
 | 15.1 Relationships of a Work/Variant (links/associations with other entities/records) |  |  |  |
-|  <span style="color:brown"> Credits |  |  |  |
-|  13.2 Agents (e.g. Cast, Credits, Person, Organisation, etc.) |  | <span style="color:brown"> Československý film Bratislava | <span style="color:brown"> Československý film Bratislava |
-| 13.2.1 Agent Activity |  | <span style="color:brown"> Production Company | <span style="color:brown"> Produkčná spoločnosť |
-| 13.2 Agents (e.g. Cast, Credits, Person, Organisation, etc.) |  | <span style="color:brown"> Dušan Hanák | <span style="color:brown"> Dušan Hanák |
-| 13.2.1 Agent Activity |  | <span style="color:brown"> Director | <span style="color:brown"> Réžia |
-| 13.2 Agents (e.g. Cast, Credits, Person, Organisation, etc.) |  | <span style="color:brown"> Dušan Hanák | <span style="color:brown"> Dušan Hanák |
-| 13.2.1 Agent Activity |  | <span style="color:brown"> Story and screenplay | <span style="color:brown"> Námet a scenár |
-| 13.2  Agents (e.g. Cast, Credits, Person, Organisation, etc.) |  | <span style="color:brown"> Alojz Hanúsek | <span style="color:brown"> Alojz Hanúsek |
-| 13.2.1 Agent Activity |  | <span style="color:brown"> Cinematographer | <span style="color:brown"> Kamera |
-| 13.2 Agents (e.g. Cast, Credits, Person, Organisation, etc.) |  | <span style="color:brown"> Alfréd Benčič | <span style="color:brown"> Alfréd Benčič |
-| 13.2.1 Agent Activity |  | <span style="color:brown"> Editor | <span style="color:brown"> Strih |
-| 13.2 Agents (e.g. Cast, Credits, Person, Organisation, etc.) |  | <span style="color:brown"> Ondrej Polomský | <span style="color:brown"> Ondrej Polomský |
-| 13.2.1 Agent Activity |  | <span style="color:brown"> Sound | <span style="color:brown"> Zvuk |
-| 13.2 Agents (e.g. Cast, Credits, Person, Organisation, etc.) |  | <span style="color:brown"> Martin Martinček | <span style="color:brown"> Martin Martinček |
-| 13.2.1 Agent Activity |  | <span style="color:brown"> Photographs by | <span style="color:brown"> Fotografie |
-| 13.2 Agents (e.g. Cast, Credits, Person, Organisation, etc.) |  | <span style="color:brown"> Vladimír Vavrek | <span style="color:brown"> Vladimír Vavrek |
-| 13.2.1 Agent Activity |  | <span style="color:brown"> Photographs by | <span style="color:brown"> Fotografie |
-| 13.2 Agents |  | <span style="color:brown"> George Frideric Handel | <span style="color:brown"> George Frideric Handel |
-| 13.2.1 Agent Activity |  | <span style="color:brown"> Music | <span style="color:brown"> Hudba |
-| 13.2 Agents |  | <span style="color:brown"> Václav Hálek | <span style="color:brown"> Václav Hálek |
-| 13.2.1 Agent Activity |  | <span style="color:brown"> Music | <span style="color:brown"> Hudba |
-| 13.2 Agents |  | <span style="color:brown"> Jozef Malovec | <span style="color:brown"> Jozef Malovec |
-| 13.2.1 Agent Activity |  | <span style="color:brown"> Music | <span style="color:brown"> Hudba |
-| 13.2 Agents |  | <span style="color:brown"> František Belfín | <span style="color:brown"> František Belfín |
-| 13.2.1 Agent Activity |  | <span style="color:brown"> Conductor |<span style="color:brown"> Dirigent |
-| 13.2 Agents |  | <span style="color:brown"> Filmový symfonický orchestr, Praha | <span style="color:brown"> Filmový symfonický orchestr, Praha |
-| 13.2.1 Agent Activity |  | <span style="color:brown"> Music Performed by | <span style="color:brown"> Hudbu nahral |
-| 13.2 Agents |  | <span style="color:brown"> Boris Hochel | <span style="color:brown"> Boris Hochel |
-| 13.2.1 Agent Activity |  | <span style="color:brown"> Script Editor | <span style="color:brown"> Dramaturg |
-| 13.2 Agents |  | <span style="color:brown"> Juraj Král | <span style="color:brown"> Juraj Král |
-| 13.2.1 Agent Activity |  | <span style="color:brown"> Production Manager | <span style="color:brown"> Vedúci výroby |
-| 13.2 Agents |  | <span style="color:brown"> Stanislav Učník | <span style="color:brown"> Stanislav Učník |
-| 13.2.1 Agent Activity |  | <span style="color:brown"> Production Supervisor | <span style="color:brown"> Vedúci nakrúcania |
-| 13.2 Agents |  | <span style="color:brown"> Oľga Hrajnohová | <span style="color:brown"> Oľga Hrajnohová |
-| 13.2.1 Agent Activity |  | <span style="color:brown"> Script-girl | <span style="color:brown"> Skript |
-| 13.2 Agents |  | <span style="color:brown"> Štefan Kondrót | <span style="color:brown"> Štefan Kondrót |
-| 13.2.1 Agent Activity |  | <span style="color:brown"> Cooperation | <span style="color:brown"> Spolupráca |
-| 13.2 Agents |  | <span style="color:brown"> Martin Gazík | <span style="color:brown"> Martin Gazík |
-| 13.2.1 Agent Activity |  | <span style="color:brown"> Cooperation | <span style="color:brown"> Spolupráca |
-| 13.2 Agents |  | <span style="color:brown"> Ján Albrecht | <span style="color:brown"> Ján Albrecht |
-| 13.2.1 Agent Activity |  | <span style="color:brown"> Cooperation | <span style="color:brown"> Spolupráca |
-| 13.2 Agents |  | <span style="color:brown"> Jan Švankmajer | <span style="color:brown"> Jan Švankmajer |
-| 13.2.1 Agent Activity |  | <span style="color:brown"> Cooperation | <span style="color:brown"> Spolupráca |
-| 13.2 Agents |  | <span style="color:brown"> Jozef Košťál | <span style="color:brown"> Jozef Košťál |
-| 13.2.1 Agent Activity |  | <span style="color:brown"> Cooperation | <span style="color:brown"> Spolupráca |
-| 13.2 Agents |  | <span style="color:brown"> Jaroslav Rihák | <span style="color:brown"> Jaroslav Rihák |
-| 13.2.1 Agent Activity |  | <span style="color:brown"> Cooperation | <span style="color:brown"> Spolupráca |
-| 13.2 Agents |  | <span style="color:brown"> Milan Hurtig | <span style="color:brown"> Milan Hurtig |
-| 13.2.1 Agent Activity |  | <span style="color:brown"> Cooperation | <span style="color:brown"> Spolupráca |
-| 13.2 Agents |  | <span style="color:brown"> Jozef Kováčik | <span style="color:brown"> Jozef Kováčik |
-| 13.2.1 Agent Activity |  | <span style="color:brown"> Cooperation | <span style="color:brown"> Spolupráca |
-| 13.2 Agents |  | <span style="color:brown"> Ján Gašparec | <span style="color:brown"> Ján Gašparec |
-| 13.2.1 Agent Activity |  | <span style="color:brown"> Cooperation | <span style="color:brown"> Spolupráca |
-| <span style="color:brown"> Cast/ Featuring |  | <span style="color:brown"> From the lives of those mentioned below: | <span style="color:brown"> Zo života: |
-| 13.2 Agents |  | <span style="color:brown"> Veronika Ralíková | <span style="color:brown"> Veronika Ralíková |
-| 13.2.1 Agent Activity |  | <span style="color:brown"> Herself |  |
-| 13.2 Agents |  | <span style="color:brown"> Adam Kura | <span style="color:brown"> Adam Kura |
-| 13.2.1 Agent Activity |  | <span style="color:brown"> Himself |  |
-| 13.2 Agents |  | <span style="color:brown"> Jozef Országh | <span style="color:brown"> Jozef Országh |
-| 13.2.1 Agent Activity |  | <span style="color:brown"> Himself |  |
-| 13.2 Agents |  | <span style="color:brown"> Juraj Michelík | <span style="color:brown"> Juraj Michelík |
-| 13.2.1 Agent Activity |  | <span style="color:brown"> Himself |  |
-| 13.2 Agents |  | <span style="color:brown"> Anton Miček | <span style="color:brown"> Anton Miček |
-| 13.2.1 Agent Activity |  | <span style="color:brown"> Himself |  |
-| 13.2 Agents |  | Františka Ševčíková | Františka Ševčíková |
-| 13.2.1 Agent Activity |  | Herself |  |
-| 13.2 Agents |  | Adam Struhárňanský | Adam Struhárňanský |
-| 13.2.1 Agent Activity |  | Himself |  |
-| 13.2 Agents |  | Jozef Račko | Jozef Račko |
-| 13.2.1 Agent Activity |  | Himself |  |
-| 13.2 Agents |  | Alojz Kováč | Alojz Kováč |
-| 13.2.1 Agent Activity |  | Himself |  |
-| 13.2 Agents |  | Matej Dudka | Matej Dudka |
-| 13.2.1 Agent Activity |  | Himself |  |
-| 13.2 Agents |  | Ladislav Chudík | Ladislav Chudík |
-| 13.2.1 Agent Activity |  | commentary spoken by | interpret komentára |
+|  <span style="color:brown"> Credits </span>|  |  |  |
+|  13.2 Agents (e.g. Cast, Credits, Person, Organisation, etc.) |  | <span style="color:brown"> Československý film Bratislava </span> | <span style="color:brown"> Československý film Bratislava </span>|
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Production Company </span> | <span style="color:brown"> Produkčná spoločnosť </span> |
+| 13.2 Agents (e.g. Cast, Credits, Person, Organisation, etc.) |  | <span style="color:brown"> Dušan Hanák </span> | <span style="color:brown"> Dušan Hanák </span> |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Director </span>| <span style="color:brown"> Réžia </span> |
+| 13.2 Agents (e.g. Cast, Credits, Person, Organisation, etc.) |  | <span style="color:brown"> Dušan Hanák </span> | <span style="color:brown"> Dušan Hanák </span> |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Story and screenplay </span> | <span style="color:brown"> Námet a scenár </span> |
+| 13.2  Agents (e.g. Cast, Credits, Person, Organisation, etc.) |  | <span style="color:brown"> Alojz Hanúsek </span> | <span style="color:brown"> Alojz Hanúsek </span> |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Cinematographer </span> | <span style="color:brown"> Kamera </span> |
+| 13.2 Agents (e.g. Cast, Credits, Person, Organisation, etc.) |  | <span style="color:brown"> Alfréd Benčič </span> | <span style="color:brown"> Alfréd Benčič </span>|
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Editor </span> | <span style="color:brown"> Strih </span> |
+| 13.2 Agents (e.g. Cast, Credits, Person, Organisation, etc.) |  | <span style="color:brown"> Ondrej Polomský </span> | <span style="color:brown"> Ondrej Polomský </span> |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Sound </span> | <span style="color:brown"> Zvuk </span> |
+| 13.2 Agents (e.g. Cast, Credits, Person, Organisation, etc.) |  | <span style="color:brown"> Martin Martinček </span> | <span style="color:brown"> Martin Martinček </span> |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Photographs by </span> | <span style="color:brown"> Fotografie </span> |
+| 13.2 Agents (e.g. Cast, Credits, Person, Organisation, etc.) |  | <span style="color:brown"> Vladimír Vavrek </span> | <span style="color:brown"> Vladimír Vavrek </span> |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Photographs by </span> | <span style="color:brown"> Fotografie </span> |
+| 13.2 Agents |  | <span style="color:brown"> George Frideric Handel </span> | <span style="color:brown"> George Frideric Handel </span> |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Music </span> | <span style="color:brown"> Hudba </span> |
+| 13.2 Agents |  | <span style="color:brown"> Václav Hálek </span>| <span style="color:brown"> Václav Hálek </span> |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Music </span> | <span style="color:brown"> Hudba </span>|
+| 13.2 Agents |  | <span style="color:brown"> Jozef Malovec </span> | <span style="color:brown"> Jozef Malovec </span> |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Music </span> | <span style="color:brown"> Hudba </span> |
+| 13.2 Agents |  | <span style="color:brown"> František Belfín </span> | <span style="color:brown"> František Belfín </span> |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Conductor </span> |<span style="color:brown"> Dirigent </span> |
+| 13.2 Agents |  | <span style="color:brown"> Filmový symfonický orchestr, Praha </span> | <span style="color:brown"> Filmový symfonický orchestr, Praha </span>|
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Music Performed by </span> | <span style="color:brown"> Hudbu nahral </span> |
+| 13.2 Agents |  | <span style="color:brown"> Boris Hochel </span> | <span style="color:brown"> Boris Hochel </span> |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Script Editor </span> | <span style="color:brown"> Dramaturg </span> |
+| 13.2 Agents |  | <span style="color:brown"> Juraj Král </span> | <span style="color:brown"> Juraj Král </span> |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Production Manager </span> | <span style="color:brown"> Vedúci výroby </span> |
+| 13.2 Agents |  | <span style="color:brown"> Stanislav Učník </span> | <span style="color:brown"> Stanislav Učník </span>|
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Production Supervisor </span> | <span style="color:brown"> Vedúci nakrúcania </span> |
+| 13.2 Agents |  | <span style="color:brown"> Oľga Hrajnohová </span> | <span style="color:brown"> Oľga Hrajnohová </span> |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Script-girl </span> | <span style="color:brown"> Skript </span> |
+| 13.2 Agents |  | <span style="color:brown"> Štefan Kondrót </span> | <span style="color:brown"> Štefan Kondrót </span> |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Cooperation </span>| <span style="color:brown"> Spolupráca </span> |
+| 13.2 Agents |  | <span style="color:brown"> Martin Gazík </span> | <span style="color:brown"> Martin Gazík </span> |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Cooperation </span> | <span style="color:brown"> Spolupráca </span> |
+| 13.2 Agents |  | <span style="color:brown"> Ján Albrecht </span> | <span style="color:brown"> Ján Albrecht </span> |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Cooperation </span> | <span style="color:brown"> Spolupráca </span> |
+| 13.2 Agents |  | <span style="color:brown"> Jan Švankmajer </span> | <span style="color:brown"> Jan Švankmajer </span>  |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Cooperation </span> | <span style="color:brown"> Spolupráca </span> |
+| 13.2 Agents |  | <span style="color:brown"> Jozef Košťál </span> | <span style="color:brown"> Jozef Košťál </span> |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Cooperation </span> | <span style="color:brown"> Spolupráca </span> |
+| 13.2 Agents |  | <span style="color:brown"> Jaroslav Rihák </span> | <span style="color:brown"> Jaroslav Rihák </span> |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Cooperation </span> | <span style="color:brown"> Spolupráca </span> |
+| 13.2 Agents |  | <span style="color:brown"> Milan Hurtig </span> | <span style="color:brown"> Milan Hurtig </span> |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Cooperation </span> | <span style="color:brown"> Spolupráca </span> |
+| 13.2 Agents |  | <span style="color:brown"> Jozef Kováčik </span> | <span style="color:brown"> Jozef Kováčik </span> |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Cooperation </span> | <span style="color:brown"> Spolupráca </span> |
+| 13.2 Agents |  | <span style="color:brown"> Ján Gašparec </span> | <span style="color:brown"> Ján Gašparec </span> |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Cooperation </span> | <span style="color:brown"> Spolupráca </span> |
+| <span style="color:brown"> Cast/ Featuring |  | <span style="color:brown"> From the lives of those mentioned below: </span> | <span style="color:brown"> Zo života: </span> |
+| 13.2 Agents |  | <span style="color:brown"> Veronika Ralíková </span> | <span style="color:brown"> Veronika Ralíková </span> |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Herself </span> |  |
+| 13.2 Agents |  | <span style="color:brown"> Adam Kura </span> | <span style="color:brown"> Adam Kura </span> |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Himself </span> |  |
+| 13.2 Agents |  | <span style="color:brown"> Jozef Országh </span> | <span style="color:brown"> Jozef Országh </span> |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Himself </span> |  |
+| 13.2 Agents |  | <span style="color:brown"> Juraj Michelík </span> | <span style="color:brown"> Juraj Michelík </span> |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Himself </span> |  |
+| 13.2 Agents |  | <span style="color:brown"> Anton Miček </span> | <span style="color:brown"> Anton Miček </span> |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Himself </span> |  |
+| 13.2 Agents |  | <span style="color:brown"> Františka Ševčíková </span>| <span style="color:brown"> Františka Ševčíková </span> |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Herself </span> |  |
+| 13.2 Agents |  | <span style="color:brown"> Adam Struhárňanský </span> | <span style="color:brown"> Adam Struhárňanský </span> |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Himself </span> |  |
+| 13.2 Agents |  | <span style="color:brown"> Jozef Račko </span> | <span style="color:brown"> Jozef Račko </span> |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Himself </span> |  |
+| 13.2 Agents |  | <span style="color:brown"> Alojz Kováč </span> | <span style="color:brown"> Alojz Kováč </span> |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Himself </span> |  |
+| 13.2 Agents |  | <span style="color:brown"> Matej Dudka </span> | <span style="color:brown"> Matej Dudka </span> |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> Himself </span> |  |
+| 13.2 Agents |  | <span style="color:brown"> Ladislav Chudík </span> | <span style="color:brown"> Ladislav Chudík </span> |
+| 13.2.1 Agent Activity |  | <span style="color:brown"> commentary spoken by </span> | <span style="color:brown"> interpret komentára </span> |
 | 14.1 Events (e.g., IPR registration, screenings, awards, etc.) 14.1 Production |  |  |  |
 | - Production Event type | 14.1 Production Event Types | beginning of shooting | prvý filmovací deň |
 | - Year/Date |  | 1971-09-13 | 1971-09-13 |
@@ -143,10 +143,10 @@ Content description
 | - Award(s)/Nomination(s) date |  | 1990 | 1990 |
 | - Award name |  | Los Angeles Film Critics Association Award / Best Non-Fiction Film | Cena asociácie losangeleských filmových kritikov / Najlepší non-fiction film |
 | - Event |  | 16th Los Angeles Film Critics Association Awards 1990 | 16. ročník Cien asociácie losangeleských filmových kritikov 1990 |
-| 6.3.7 Subject/Genre/Form terms | genre documentary films AND dokumentárne filmy | form full-length films | dlhometrážné filmy |
+| 6.3.7 Subject/Genre/Form terms | <span style="color:green"> genre documentary films AND dokumentárne filmy </span> | <span style="color:green"> form full-length films </span> |  <span style="color:green"> dlhometrážné filmy </span> |
 | 15.1.1.1 Other relationships | D.17.1 Work/Variant Other Relationship Types | “Has a relationship to an “object” (a non-moving image resource)” | Má vzťah k objektu |
 |  |  | Obrazy starého sveta / Dušan Hanák. – The screenplay of the film: Pictures of the old world (1972). In: 322 ; Obrazy starého sveta ; Růžové sny / Dušan Hanák. – Praha : Lika klub, 2005. – ISBN 8086069-37-0. – p. 78-127. | Obrazy starého sveta / Dušan Hanák. – Scenár filmu: Obrazy starého sveta (1972). In: 322 ; Obrazy starého sveta ; Růžové sny / Dušan Hanák. – Praha : Lika klub, 2005. – ISBN 8086069-37-0. – s. 78-127. |
-| 15.1.1.1 Other relationships | D.17.1 Work/Variant Other Relationship Types | “Has a relationship to a Work “about” the Work/Variant in question” | Má vzťah k dielu o diele |
+| 15.1.1.1 Other relationships between Works and other Works |  | “Has a relationship to a Work “about” the Work/Variant in question” | Má vzťah k dielu o diele |
 |  |  | Kinožurnál [film]. 51/1988 (1988) | Kinožurnál [film]. 51/1988 (1988) |
 | 15.1.1.2 Variants |  | “Has a relationship to a Variant” |  |
 |  |  | 199999163 | 199999163 |
@@ -154,38 +154,38 @@ Content description
 | 7.2 Attributes of a Moving Image Work/Variant |  |  |  |
 | 7.2.1 Variant Type |  | subtitled | s podtitulkami |
 | 7.3 Elements of a Work/Variant |  |  |  |
-| 7.3.1 Work/Variant Identifier |  | 199999163 | 199999163 |
-| 7.3.1 Identifier Type |  | SFÚ identifier [local] | identifikátor SFÚ [lokálny] |
-| 7.3.2 Title |  | Pictures of the old world | Pictures of the old world |
-| 11.2 Title Type | | 11.2.5.1 Alternative [parallel title: eng] | alternatívny [súbežný názov: eng] |
-| 7.3.5 Language(s) |  | English | angličtina |
-| 7.3.5.1 Language |  | eng | eng |
-| 7.3.5.2 Usage type |  | subtitles | podtitulky |
+| 7.3.1 Work/Variant Identifier |  | <span style="color:grey"> 199999163 </span> | <span style="color:grey"> 199999163 </span> |
+| 7.3.1 Identifier Type |  | <span style="color:grey"> SFÚ identifier [local] </span> | <span style="color:grey"> identifikátor SFÚ [lokálny] </span> |
+| 7.3.2 Title |  | <span style="color:blue"> Pictures of the old world </span> |  <span style="color:blue">  Pictures of the old world </span> |
+| 11.2 Title Type | | 11.2.5.1 Alternative [parallel title: eng] | <span style="color:blue"> alternatívny [súbežný názov: eng] </span> |
+| 7.3.5 Language(s) |  |  <span style="color:grey"> English </span> |  <span style="color:grey">  angličtina </span> |
+| 7.3.5.1 Language |  |  <span style="color:grey">  eng |  <span style="color:grey">  eng </span> |
+| 7.3.5.2 Usage type |  |  <span style="color:grey"> subtitles </span> |  <span style="color:grey"> podtitulky |
 | 15.1.2.3 Manifestations |  | “Has a relationship to a Manifestation” |  |
 |  |  | 299999163 | 299999163 |
 | MANIFESTATION |  |  |  |
 | 8.2 Attributes of a Manifestation |  |  |  |
 | 8.2.1 Manifestation Type | D.5 Manifestation Types | 8.2.10 Restoration |  |
 | 8.3 Elements of a Manifestation |  |  |  |
-| 8.3.1 Identifier |  | 299999163 | 299999163 |
-| 8.3.1.1 Identifier Type |  | SFÚ identifier [local] | identifikátor SFÚ [lokálny] |
-| 8.3.2 Title |  | Pictures of the old world | Pictures of the old world |
+| 8.3.1 Identifier |  |  <span style="color:grey"> 299999163 </span> |  <span style="color:grey"> 299999163 </span> |
+| 8.3.1.1 Identifier Type |  |  <span style="color:grey"> SFÚ identifier [local] </span> |  <span style="color:grey">  identifikátor SFÚ [lokálny] </span> |
+| 8.3.2 Title |  |  <span style="color:blue"> Pictures of the old world </span> |  <span style="color:blue"> Pictures of the old world </span> |
 | 11.2 Title Type | | 11.2.5.1 Alternative [parallel: eng] |  |
 | 8.3.4 Format of a moving image Manifestation |  |  |  |
 | 8.3.4.1 Media type of a Manifestation |  |  |  |
-| 8.3.4.1.1 General Carrier Type |  | Film | film |
-| 8.3.4.1.2 Specific Carrier Type |  | 35 mm | 35 mm |
+| 8.3.4.1.1 General Carrier Type |  |  <span style="color:purple"> Film </span> |  <span style="color:purple"> film </span> |
+| 8.3.4.1.2 Specific Carrier Type |  |  <span style="color:purple"> 35 mm </span> |  <span style="color:purple"> 35 mm </span> |
 | 8.3.5 Projection characteristics of a Manifestation |  |  |  |
-| Aspect Ratio |  | 1:1,37 | 1:1,37 |
-| Aperture/Image Format |  | Academy | Academy |
-| 8.3.5.1 Sound characteristics of a Manifestation | D.7.4 Manifestation/Item Sound Type | sound | zvukový |
-| 8.3.5.1.1 Sound systems | D.7.13 Item Sound System | combined optical sound | kombinovaný optický zvuk |
-| 8.3.5.1.2 Sound Channel Configuration | D.7.5 Manifestation/Item Sound Fixation Type | optical mono | optický (mono) |
-| 8.3.5.2 Colour characteristics of a Manifestation | D.7.11 Manifestation/Item Colour Type | black and white | čiernobiely |
+| <span style="color:purple"> Aspect Ratio </span> |  | <span style="color:purple"> 1:1,37 </span> | <span style="color:purple"> 1:1,37 </span> |
+| <span style="color:purple"> Aperture/Image Format </span> |  |  <span style="color:purple"> Academy </span> |  <span style="color:purple"> Academy </span> |
+| 8.3.5.1 Sound characteristics of a Manifestation |  | <span style="color:purple"> sound </span> | <span style="color:purple"> zvukový </span> |
+| 8.3.5.1.1 Sound systems |  | <span style="color:purple"> combined optical sound </span> | <span style="color:purple"> kombinovaný optický zvuk </span> |
+| 8.3.5.1.2 Sound Channel Configuration | 8.3.5.1.2 Sound Fixation Type | <span style="color:purple"> optical mono </span> | <span style="color:purple"> optický (mono) </span> |
+| 8.3.5.2 Colour characteristics of a Manifestation |  | <span style="color:purple"> black and white </span> | <span style="color:purple"> čiernobiely </span> |
 | 8.3.6 Extent of a Manifestation |  |  |  |
-| 8.3.6.1 Logical extent of a Manifestation |  | 4 reels | 4 kotúče |
-| 8.3.6.2 Physical extent of a Manifestation | metres | 1827,8 m | 1827,8 m |
-| 8.3.6.3 Duration of a Manifestation | HH:MM:SS | 01:06:38 | 01:06:38 |
+| 8.3.6.1 Logical extent of a Manifestation |  |  <span style="color:orange"> 4 reels </span> |  <span style="color:orange"> 4 kotúče </span> |
+| 8.3.6.2 Physical extent of a Manifestation |  <span style="color:orange"> metres </span> | <span style="color:orange"> 1827,8 m </span> | <span style="color:orange"> 1827,8 m </span> |
+| 8.3.6.3 Duration of a Manifestation | <span style="color:orange"> HH:MM:SS </span> | <span style="color:orange"> 01:06:38 </span> | <span style="color:orange"> 01:06:38 </span> |
 | 13.3 Agents for Manifestations |  |  |  |
 | 13.3 Agent(s) |  | Slovak Film Institute | Slovenský filmový ústav |
 | 13.3.1 Agent Activity |  | 13.3.1.6 Agent responsible for preservation | zodpovednosť za uchovávanie |
@@ -199,29 +199,29 @@ Content description
 |  |  | 099967 | 099967 |
 | ITEM |  |  |  |
 | 9.2 Elements of a moving image Item |  |  |  |
-| 9.2.1 Identifier |  | 099967 | 099967 |
-| 9.2.1.1 Identifier Type |  | SFÚ identifier [local] | identifikátor SFÚ [lokálny] |
-| 9.2.1 Identifier |  | 140-ZO-A3 | 140-ZO-A3 |
-| 9.2.1.1 Identifier Type |  | archive number | archívne číslo |
-| 9.2.2 Title |  | Obrazy starého sveta | Obrazy starého sveta |
-| 9.2.2.1 Title Type |  | title on can | názov na obale |
+| 9.2.1 Identifier |  | <span style="color:grey"> 099967 </span> | <span style="color:grey"> 099967 </span> |
+| 9.2.1.1 Identifier Type |  | <span style="color:grey"> SFÚ identifier [local] </span> | <span style="color:grey"> identifikátor SFÚ [lokálny] </span> |
+| 9.2.1 Identifier |  | <span style="color:grey"> 140-ZO-A3 </span> | <span style="color:grey"> 140-ZO-A3 </span> |
+| 9.2.1.1 Identifier Type |  | <span style="color:grey"> archive number </span> | <span style="color:grey"> archívne číslo </span> |
+| 9.2.2 Title |  | <span style="color:blue"> Obrazy starého sveta </span> | <span style="color:blue"> Obrazy starého sveta </span> |
+| 9.2.2.1 Title Type |  | <span style="color:blue"> title on can </span> |  <span style="color:blue"> názov na obale </span> |
 | 9.2.3 Holding institution |  | Slovak Film Institute | Slovenský filmový ústav |
 |  |  | SK-BrSFU [MARC Code] | SK-BrSFU [MARC] |
-| 9.2.4 Item Element type | D.7.8 Item Element Type | Positive | Pozitív |
+| 9.2.4 Item Element type |  | Positive | Pozitív |
 | 9.2.5 Item Specifics/Extent (e.g. physical/Digital description) |  |  |  |
-| 9.2.5.2 Item Status | D.7.3 Item Preservation/Access status | Viewing | Na premietanie |
-| 9.2.5.8 Extent | Metres | reel 1: 552,8 m | 1. kotúč: 552,8 m |
-|  | Metres | reel 2: 570,4 m | 2. kotúč: 570,4 m |
-|  | Metres | reel 3: 520,4 m | 3. kotúč: 520,4 m |
-|  | Metres | reel 4: 184,2 m | 4. kotúč: 184,2 m |
-|  | metres | TOTAL LENGTH: 1827,8 m DĹŽKA SPOLU: 1827,8 m |
-| 9.2.5.11 Duration | HH:MM:SS | reel 1: 00:20:09 | 1. kotúč: 00:20:09 |
-|  | HH:MM:SS | reel 2: 00:20:48 | 2. kotúč: 00:20:48 |
-|  | HH:MM:SS | reel 3: 00:18:58 | 3. kotúč: 00:18:58 |
-|  | HH:MM:SS | reel 4: 00:06:43 | 4. kotúč: 00:06:43 |
-|  | HH:MM:SS | TOTAL DURATION: 01:06:38 | DĹŽKA TRVANIA SPOLU: 01:06:38 |
-| 9.2.5.13 Base | D.7.7 Item Base - Film or Video | Polyester | Polyester |
-| 9.2.5.14 Stock | D.7.16 Item Stock | Eastman Kodak | Eastman Kodak |
+| 9.2.5.2 Item Status |  | Viewing | Na premietanie |
+| 9.2.5.8 Extent | <span style="color:orange"> Metres </span> | <span style="color:orange"> reel 1: 552,8 m </span> | <span style="color:orange"> 1. kotúč: 552,8 m </span> |
+|  | <span style="color:orange"> Metres </span> | <span style="color:orange"> reel 2: 570,4 m </span> | <span style="color:orange"> 2. kotúč: 570,4 m </span> |
+|  | <span style="color:orange"> Metres </span> | <span style="color:orange"> reel 3: 520,4 m </span> | <span style="color:orange"> 3. kotúč: 520,4 m </span> |
+|  | <span style="color:orange"> Metres </span> | <span style="color:orange"> reel 4: 184,2 m </span> | <span style="color:orange"> 4. kotúč: 184,2 m </span> |
+|  | <span style="color:orange"> Metres </span> | <span style="color:orange"> TOTAL LENGTH: 1827,8 m </span> |  <span style="color:orange"> DĹŽKA SPOLU: 1827,8 m </span> |
+| <span style="color:orange"> 9.2.5.11 Duration </span> | <span style="color:orange"> HH:MM:SS </span> | <span style="color:orange"> reel 1: 00:20:09 </span> | <span style="color:orange"> 1. kotúč: 00:20:09 </span> |
+|  | <span style="color:orange"> HH:MM:SS </span> | <span style="color:orange"> reel 2: 00:20:48 </span> | <span style="color:orange"> 2. kotúč: 00:20:48 </span> |
+|  | <span style="color:orange"> HH:MM:SS </span> | <span style="color:orange"> reel 3: 00:18:58 </span> | <span style="color:orange"> 3. kotúč: 00:18:58 </span> |
+|  | <span style="color:orange"> HH:MM:SS </span> | <span style="color:orange"> reel 4: 00:06:43 </span> | <span style="color:orange"> 4. kotúč: 00:06:43 </span> |
+|  | <span style="color:orange"> HH:MM:SS </span> | <span style="color:orange"> TOTAL DURATION: 01:06:38 </span> | <span style="color:orange"> DĹŽKA TRVANIA SPOLU: 01:06:38 </span> |
+| 9.2.5.13 Base |  | <span style="color:purple"> Polyester </span> | <span style="color:purple"> Polyester </span> |
+| 9.2.5.14 Stock |  | <span style="color:purple"> Eastman Kodak </span> | <span style="color:purple"> Eastman Kodak </span> |
 | 9.2.6 Access conditions |  | No restrictions (film print can be requested for access). | Bez obmedzení (filmová kópia je dostupná na požiadanie). |
 | 9.2.6 Item condition | 9.2.6.0.1 Item Copy Condition Base/Emulsion – Film and Video | Good condition | Dobrý stav |
 |  | 9.2.6.0.2 Item Copy Condition Perforations – Film | Good condition | Dobrý stav |
