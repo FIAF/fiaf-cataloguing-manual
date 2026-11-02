@@ -1,5 +1,3 @@
-<a id="sec-attributes"></a>
-## Attributes
 
 Provide additional or explanatory information for any WVMI attributes as desired, particularly in cases where this information is not recorded elsewhere in dedicated fields. 
 See the following examples:[^1][^2]

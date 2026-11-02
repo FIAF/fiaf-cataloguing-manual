@@ -12,7 +12,7 @@ The Types below reflect terms used in Section 4.1.2 Attributes in the CEN standa
 
 ### Analytic (component part)
 Content that is contained in another content.
-A component part may itself be either monographic or serial. Component here means intentional component part not fragments or excerpts of a moving image, e.g. an individual element from a larger newsreel issue.
+A component part may itself be either monographic or serial. Component here means intentional component part not fragments or excerpts of a moving image, e.g. an individual element from a larger newsreel issue, or element from an anthology film.
 
 !!! example "Example"
     Work [Monographic] – Topical Budget 657-1 
@@ -35,8 +35,16 @@ A component part may itself be either monographic or serial. Component here mean
 
 ### Monographic
 Complete content in one part or intended to be completed in a finite number of parts.
-This is also applicable to television episodes.
-The record for the television series itself is catalogued as a Serial.
+
+
+!!! example "Example"
+    Gangs of Lagos (Nigeria, 2023). Jadesola Osiberu.
+
+!!! example "Example"
+    Harry Potter and the goblet of fire (United Kingdom/United States of America, 2005). Mike Newell.
+
+This is also applicable to television episodes.  
+The record for the television series itself is catalogued as a Serial.  
 
 !!! example "Example"
     Coronation Street [1960-12-09] 
@@ -59,31 +67,29 @@ A Work record for a television series is catalogued as a “Serial.” Individua
 ### Collection
 Content issued in several independent parts; an ‘umbrella’ work title covering a number of different Works/Variants/Manifestations[^3].
 
-!!! example "Example"
-    Pleasure (Joan Littlewood, c1963) (Footage shot on behalf of Joan Littlewood as part of her ‘Fun Palace’ project.) 
-!!! example "Example"
-    The ‘Dogme’ films (Each individually numbered.) 
-!!! example "Example"
-    Shadows of progress: documentary film in post-war Britain 1951-1977
+!!! example "Example"  
+    Pleasure (Joan Littlewood, c1963) (Footage shot on behalf of Joan Littlewood as part of her ‘Fun Palace’ project.)   
+!!! example "Example" 
+    The ‘Dogme’ films (Each individually numbered.)   
+!!! example "Example"  
+    Shadows of progress: documentary film in post-war Britain 1951-1977  
 
 Other uses for Collection:[^4]
 
 Archive-acquired collections of works not originally intended for general release or broadcast all have component parts that form the collection as a whole, usually acquired on a series of numerous film reels or videotapes, etc. each with an identifying title. These may have previously been put together originally by the filmmaker for personal use, e.g. family home movies, or may be collections of production materials, extracts or inserts acquired from individuals or film/television companies.
 
-!!! example "Example"
-    David Lean home movies 
-!!! example "Example"
-    William Butlin personal films 
-!!! example "Example"
-    Hollywood interviews (unedited production material for series Hollywood) 
-!!! example "Example"
-    BFI London Film Festival Awards 2010 – production material, etc. 
-!!! example "Example"
-    Fifties features (videotape collection of production material, with each of the tapes given an identifying acquisition title: 
-!!! example "Example"
-    B1-3 Sylvia Syms I/V 
-!!! example "Example"
-    B4-6 Sylvia Syms I/V & Jill Craigie I/V 
+!!! example "Example"  
+    David Lean home movies   
+!!! example "Example"  
+    William Butlin personal films   
+!!! example "Example"  
+    Hollywood interviews (unedited production material for series Hollywood)   
+!!! example "Example"  
+    BFI London Film Festival Awards 2010 – production material, etc.   
+!!! example "Example"  
+    Fifties features (videotape collection of production material, with each of the tapes given an identifying acquisition       title:  
+    B1-3 Sylvia Syms I/V  
+    B4-6 Sylvia Syms I/V & Jill Craigie I/V   
 
 
 “David Lean home movies,” “Fifties features,” etc. would be the Work titles for the collection-level description, with Collection as its description level.
@@ -104,7 +110,7 @@ These titles should then be linked to the collection-level description in either
 - Conceptual collection work, i.e. a group of Works conceived or curated by the filmmaker or an Archive Curator
   
 !!! example "Example"
-   Victorian Cinema Compilations - a curated collection of 17 compilation films relating to pre-1901 material held by the BFI
+    Victorian Cinema Compilations - a curated collection of 17 compilation films relating to pre-1901 material held by the       BFI  
 
 
 - Aggregate compilation videos/DVDs that are collections of individual works existing as entities in their own right, e.g. "Portrait of a miner" is a DVD of various Mining review shorts which had their own individual release as complete entities or works.

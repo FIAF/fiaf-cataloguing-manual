@@ -1,5 +1,3 @@
-<a id="sec-relationships"></a>
-## Relationships
 
 **Agent**
 

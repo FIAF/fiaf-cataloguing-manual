@@ -33,7 +33,9 @@ In general, make the following notes, if they are considered to be important:[^4
     Title represented onscreen in lower-case.
 
 !!! example "Example"
-    Herr der Ringe Die Zwei Türme (Germany, New Zealand, United States of America, 2002, Peter Jackson) Part II of trilogy. Majority German financing nationality confirmed, thus German title assigned as Preferred title and The Lord of the Rings The Fellowship of the Ring as Alternative.
+    Herr der Ringe Die Zwei Türme (Germany, New Zealand, United States of America, 2002, Peter Jackson) 
+    
+    Part II of trilogy. Majority German financing nationality confirmed, thus German title assigned as Preferred title and The Lord of the Rings The Fellowship of the Ring as Alternative.  
 
 !!! example "Example"
     Le cœur de la France (France, 1967, Roger Leenhardt) 

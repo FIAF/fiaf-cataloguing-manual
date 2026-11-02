@@ -95,13 +95,13 @@ Again, if using these it is important to have standardisation of terminology and
 
 d) Also inclusion of other metadata for disambiguation, e.g. if there are two different films with identical titles and release years, then the director's full name or surname could be added, i.e.  
 
-!!! example "Example"
-    F_147_23_Hamlet_1965_Smith_01of01.mp4
-    F_147_23_Hamlet_1965_JohnSmith_01of01.mp4
-    F_147_23_Hamlet_1965_JSmith_01of01.mp4  
+!!! example "Example"  
+    F_147_23_Hamlet_1965_Smith_01of01.mp4  
+    F_147_23_Hamlet_1965_JohnSmith_01of01.mp4  
+    F_147_23_Hamlet_1965_JSmith_01of01.mp4   
   
-    F_147_34_Hamlet_1965_Jones_01of01.mp4
-    F_147_34_Hamlet_1965_DavidJones_01of01.mp4
+    F_147_34_Hamlet_1965_Jones_01of01.mp4  
+    F_147_34_Hamlet_1965_DavidJones_01of01.mp4  
 
 or other identifier, such as production country.
 
