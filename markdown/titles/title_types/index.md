@@ -154,7 +154,7 @@ If a general material designation is used, place it after the preferred title an
 <a id="sec-abridging_or_omitting_other_title_information"></a>
 ### Abridging or omitting other title information
 If other title information is lengthy or of very minor importance, either give it in a note or omit it.
-See [Cataloguer’s Notes](/appendices/catalogers_notes).
+See [Cataloguer’s Notes](/appendices/cataloguers-notes/).
 Abridge other title information only if this can be done without essential loss of information.[^13]
 
 If other title information is clearly of very minor importance, for example a newsreel slogan, or it is an avant-titre which grammatically cannot follow the title proper, place it in a note.[^14]
@@ -319,6 +319,5 @@ For parallel titles of a Manifestation distributed in distinct geographical regi
 [^24]: FIAF, 1.3. Parallel title, p. 22.
 [^25]: FIAF, 1.3.4., pp. 23-24.
 [^26]: Differences between FIAF 1992 and RDA: FIAF expands the concept of Parallel title to any title qualifying as an original but not used as a title proper (the attempt was to include as many alternative titles as possible), but gives to the archives the responsibility to decide whether to enter them in the appropriate area or in the Notes area. RDA makes a distinction among the different characteristics of a title and considers the parallel title strictly as “the title proper in another language or script”. In this context the RDA approach has been considered more appropriate.
-
 
 

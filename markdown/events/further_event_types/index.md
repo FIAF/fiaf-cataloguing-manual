@@ -6,7 +6,7 @@ Record one or more Event type, for example, “decision,” “manufacture,” e
 
 For Manifestations, a Publication Event corresponds to a screening, broadcast, streaming, or the release of the Manifestation of a Work or Variant on a physical distribution medium or online.
 
-A Publication Event may be associated with instances of Agent in the role of e.g., publisher, distributor, broadcaster, etc. See [Distributor (theatrical)](../../agents/agents_for_manifestations/index.md#sec-distributor_theatrical) and [Agents](/agents/agents/index.md).
+A Publication Event may be associated with instances of Agent in the role of e.g., publisher, distributor, broadcaster, etc. See [Distributor (theatrical)](../../agents/agents_for_manifestations/index.md#sec-distributor_theatrical) and [Agents](/agents/index.md).
 
 A Publication Event may be associated with instances of [Other Relationships](/other-relationships/other_relationships_for_works_variants_manifestations_items/#sec-work_variant_other_relationship_types) (e.g., promotional material of the theatrical distribution, the advertising of the home video publication, etc.).
 
@@ -57,7 +57,7 @@ If known and considered of relevance, record the specific restrictions for acces
 
 The bestowal of an award relating to the Work or Variant, or Manifestation. This excludes awards for Agents alone (e.g. "for lifetime achievement"), but includes awards for individual achievements within the context of a Work or Variant (e.g. "Best screenplay"). Awards will usually be associated at the level of the Work, except for cases where features of a particular Variant are explicitly mentioned (e.g. "Best audio commentary for the visually impaired") or the award relates to a particular Manifestation (such as a DVD edition).
 
-An Award(s) or Nomination(s) Event may be associated with instances of Agent in the role of e.g. publisher, distributor, broadcaster , etc. See [Distributor (theatrical)](../../agents/agents_for_manifestations/index.md#sec-distributor_theatrical) and [Agents](/agents/agents/index.md). If the award was given for the achievement of a specific Agent within the context of the Work or Variant or Manifestation, identify the Agent. Also used to identify Agents that have sponsored the award.
+An Award(s) or Nomination(s) Event may be associated with instances of Agent in the role of e.g. publisher, distributor, broadcaster , etc. See [Distributor (theatrical)](../../agents/agents_for_manifestations/index.md#sec-distributor_theatrical) and [Agents](/agents/index.md). If the award was given for the achievement of a specific Agent within the context of the Work or Variant or Manifestation, identify the Agent. Also used to identify Agents that have sponsored the award.
 
 An Award(s) or Nomination(s) Event may be associated with instances of other Events during which award winners were selected (e.g. film festival).
 
@@ -93,7 +93,7 @@ A distinct event in the course of production of a Work or Variant, including the
 
 May include year/date of shooting of non-professional, actuality or unedited footage.
 
-A Production Event may be associated with instances of Agent in the role of e.g. production company, location scout, etc. Selection should be made from a controlled list of values. See [Agents](/agents/agents/index.md).
+A Production Event may be associated with instances of Agent in the role of e.g. production company, location scout, etc. Selection should be made from a controlled list of values. See [Agents](/agents/index.md).
 
 Record all the existing relationships of a Production/Publication Event, if the information is known and considered of relevance.
 
@@ -142,7 +142,7 @@ This includes statements about past or future treatments scheduled for the item.
 
 A useful collection of technical metadata on digital Items as well as data collected during digitisation, can be found [here](https://docs.google.com/spreadsheets/d/1cm4KBG_e-bdMppKOcYsFTck7vv5rJDwRI9z0RYX5bNM/edit?gid=646006523#gid=646006523). This spreadsheet was created by a Task Force in the CDC, headed by Elzbieta Wysocka.
 
-A Preservation/Restoration Event has as typical Agent(s) the institution(s) or individual professionals that make preservation decisions. Selection should be made from a controlled list of values. See [Agents](/agents/agents/index.md).
+A Preservation/Restoration Event has as typical Agent(s) the institution(s) or individual professionals that make preservation decisions. Selection should be made from a controlled list of values. See [Agents](/agents/index.md).
 
 A Preservation/Restoration Event can be in relationship with instances of [Other Relationships](/other-relationships/other_relationships_for_works_variants_manifestations_items/#sec-work_variant_other_relationship_types) (such as technical reports, documentation material, promotional material for the specific project, etc.).
 
@@ -238,7 +238,7 @@ Record the outcome of the act of rating or censorship.
 ## Manufacture
 A Manufacture Event represents a “common” event within which the embodiment of a Manifestation occurs, owing to the instances of a number of physical items that bear the same characteristics.
 
-Therefore, the manufacture event of a moving image Manifestation corresponds to the activity within which it was fixed on a physical carrier, through particular technical processes such as film printing, telecine, video copying, digitisation, mastering, etc., or where it is saved to an “immaterial” medium, such as a digital file. Please note that this is different to the manufacture of the physical stock or video tape brand. For the specific stock/brand on which an Item has been manufactured see [Stock](/items_elements_of_a_moving_image_item/#sec-stock).
+Therefore, the manufacture event of a moving image Manifestation corresponds to the activity within which it was fixed on a physical carrier, through particular technical processes such as film printing, telecine, video copying, digitisation, mastering, etc., or where it is saved to an “immaterial” medium, such as a digital file. Please note that this is different to the manufacture of the physical stock or video tape brand. For the specific stock/brand on which an Item has been manufactured see [Stock](/items/elements_of_a_moving_image_item/#sec-stock).
 
 
 A Manufacture Event may be associated with instances of Agent, e.g. a laboratory that prints all the copies for a theatrical distribution or a studio that masters the DVDs for a home video publication.
@@ -414,7 +414,7 @@ The date or time span in which the inspection activity was performed. (Dates sho
 
 **Inspection detail**
 
-Information describing the condition of the Item in greater detail. In many cases there will be fields embedded in Item records that relate to condition and different inspections. See [Item Condition](/items/elements_of_a_moving_image_item/#sec-access_condition)
+Information describing the condition of the Item in greater detail. In many cases there will be fields embedded in Item records that relate to condition and different inspections. See [Item Condition](/items/elements_of_a_moving_image_item/#sec-access_conditions)
 
 [^1]: EN 15907, 6.12 Award, pp. 25-26.
 [^2]: Adapted from EN 15907 6.11 Production Event, p. 20

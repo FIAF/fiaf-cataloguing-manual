@@ -236,7 +236,7 @@ Where full dates are not known use Year-Month YYYY-MM or just Year YYYY, as syst
 
 <a id="sec-date_type"></a>
 ### Date Type
-The year or date should be associated with an event in the life cycle of the Work (see [Events (e.g., IPR registration, screenings, awards, etc.)](/works/relationships_of_a_work_variant/#sec-work_events)).
+The year or date should be associated with an event in the life cycle of the Work (see [Events (e.g., IPR registration, screenings, awards, etc.)](/events/event_types/index.md)).
 If your system supports it, apply a “Date Type” qualifier to make the date or year purpose clear.
 Date Type terms should be derived from a controlled vocabulary.
 For a list of initial terms, see [Event Type](../../events/event_types/index.md#sec-event_type).

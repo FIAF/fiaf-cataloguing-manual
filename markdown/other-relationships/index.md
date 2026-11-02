@@ -8,7 +8,7 @@ title: Other Relationships
 ### Other Relationships between Works and Other Works
 
 If other relationships[^1] are desired or appropriate, express relationships that are not covered by the Agent, Subject, and Event relationships, including all kinds of aggregation and re-use of Works and their Variants.
-(See [Aggregates (Compilations, Multi-component productions)](../../aggregates/index.md)).
+(See [Aggregates (Compilations, Multi-component productions)](/aggregates/index.md)).
 
 Record one or more “Other” relationship type terms to express the nature of the relationship to the Work or Variant, choosing the most specific term possible from a controlled list of values , for example, “based on,” “contained in,” etc. .
 A suggested list, which is open and not exhaustive, can be found in [Other Relationships for Works, Variants, Manifestations, Items](../other-relationships/other_relationships_for_works_variants_manifestations_items/index.md).

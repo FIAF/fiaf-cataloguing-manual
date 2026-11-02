@@ -37,7 +37,7 @@ And ideally, also include the following, as applicable and if known:
 -  nationality
 -  VIAF or other international name identifier
 
-As with establishing [country of reference for a moving image work](/work/elements_of_a_work_variant/#sec-country_of_reference), place/country/nationality may be impacted by historical geopolitical considerations, e.g. those Agents who were born and died in areas of what was previously northern India before partition, but which are now in Pakistan or Bangladesh. 
+As with establishing [country of reference for a moving image work](/works/elements_of_a_work_variant/#sec-country_of_reference), place/country/nationality may be impacted by historical geopolitical considerations, e.g. those Agents who were born and died in areas of what was previously northern India before partition, but which are now in Pakistan or Bangladesh.
 
 In database systems where place and country of birth/death are together in one field and taken from controlled lists of terms that default to the most recent corresponding country, then qualifying notes should ideally be added for clarity, for example:
 
@@ -84,11 +84,10 @@ A relationship captured between people and/or organisation records can also act 
 Having these identification factors are important for both public users or researchers searching for relevant information, and also cataloguers adding cast and credits, distributors, etc. to moving image records and needing to identify and create links to the correct Person/Organisation Agent records.
 
 
-Agent(s) may also have relationships to an instance of a specific [Event](/events/events/index.md) or of an “Other” relationship in connection with the Work, Variant, Manifestation or Item, e.g. cinema of a premiere screening, film classification body, film laboratory, etc. 
+Agent(s) may also have relationships to an instance of a specific [Event](/events/index.md) or of an “Other” relationship in connection with the Work, Variant, Manifestation or Item, e.g. cinema of a premiere screening, film classification body, film laboratory, etc.
 
 
 A more in depth look at Agents, especially within an RDA/LRM context can be found here [ADD LINK TO CIRCE'S PAPER AND DIAGRAMS - yET TO BE UPLOADED ONTO CDC WEBSITE SECTION]
 
 [^1]: EN 15907, 5.1 Agent, or relevant parts in RDA/LRM Agent entity and subtypes.
 [^2]: For recording the attributes of Agents (e.g. first name, last name, nationality, etc.), refer to authoritative sources such as AACR2, applicable RDA chapters for recording attributes of Persons, Families, and Corporate Bodies(see RDA 2.20.7.3). Functional requirements for authority data: a conceptual model (Patton, Glenn E. 2009. Functional requirements for authority data: a conceptual model. München: K.G. Saur), or tools such as the Virtual International Authority File (VIAF) (viaf.org), Library of Congress Linked Data Service (id.loc.gov), Getty Union List of Artists Names (ULAN),  BnF (France), GND (Germany), Bnelab (Spain), the [Library of Congress Name Authority File](https://id.loc.gov/authorities/names.html), or International Standard Name Identifier (ISNI). It is also recommended where possible to register key Agents with any of the aforementioned authority bodies if they are not already included. 
-

@@ -108,7 +108,7 @@ Where full dates are not known use Year-Month YYYY-MM or just Year YYYY, as syst
 
 <a id="sec-date_type"></a>
 ### Date Type
-The year or date should be associated with an event in the life cycle of the Variant (see [Events (e.g., IPR registration, screenings, awards, etc.)](../../works/relationships_of_a_work_variant/index.md#sec-work_events)).
+The year or date should be associated with an event in the life cycle of the Variant (see [Events (e.g., IPR registration, screenings, awards, etc.)](/events/event_types/index.md)).
 If your system supports it, apply a “Date Type” qualifier to make the date or year purpose clear.
 Date Type terms should be derived from a controlled vocabulary.
 For a list of initial terms, see [Event Type](../../events/event_types/index.md#sec-event_type).
@@ -118,7 +118,7 @@ For Variants, the date is typically related to events such as its creation, avai
 <a id="sec-date_precision"></a>
 ### Date Precision
 
-See Works chapter for more information on [Date Precision](/works/elements_of_a_work/#sec-date_precision).
+See Works chapter for more information on [Date Precision](/works/elements_of_a_work_variant/#sec-date_precision).
 
 
 <a id="sec-languages"></a>
@@ -153,7 +153,7 @@ A value of “original” can be added to the Language element here to indicate 
 <a id="sec-content_description"></a>
 ## Content description (synopses, shotlists, etc)[^1]
 
-An institution may decide to replicate the synopsis and/or shotlist of the Work in the Variant record and add in additional descriptions of any changes, e.g. particulars about some scenes added in for a Director's Cut version of a film. See [Work Chapter](/works/elements_of_a_work_variant/idex.md#sec-content_description).
+An institution may decide to replicate the synopsis and/or shotlist of the Work in the Variant record and add in additional descriptions of any changes, e.g. particulars about some scenes added in for a Director's Cut version of a film. See [Work Chapter](/works/elements_of_a_work_variant/#sec-content_description).
 
 Alternatively an institution may choose only to add information about the content of the moving image Variant where it differs from the content of the Work, rather than duplicate data.
 
