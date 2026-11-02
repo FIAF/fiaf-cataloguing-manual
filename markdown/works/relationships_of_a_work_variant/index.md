@@ -10,7 +10,7 @@ Instead they recommend that certain relationships be established without instruc
 
 A Work may have relationships with the following:
 
-- [Agent(s)](/agents/agents_for_works_variants/)
+- [Agent(s)](../../agents/agents_for_works_variants/index.md)
 - [Events](../../events/event_types/index.md)
 - [Subject(s)/Genre(s)/Form(s)](/works/elements_of_a_work_variant/#sec-subject_genre_form_terms)
 - [Variant(s)](/variants/#sec-moving_image_variant)
