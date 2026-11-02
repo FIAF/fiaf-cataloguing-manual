@@ -136,9 +136,7 @@ These are optional, and it is for an institution to choose whether it has the re
 
 <a id="sec-preservation_restoration"></a>
 ## Preservation/Restoration
-A Preservation/Restoration Event is associated with a new Variant, Manifestation or Items resulting from the preservation/restoration process in which the contents of one or more Items (or fragments thereof) from Manifestations of a Work were transferred with the intention of restoring or reconstructing the content as originally intended, or safeguarding it from decay.[^5]  
-
-This includes statements about past or future treatments scheduled for the item.  If desired and if applicable, record one or more general types of past or future treatment activities (e.g. "added leaders", "cleaned ultrasonically", "tears repair", etc.). Selection should be made from a controlled list of values. See also [Item Chapter](/items/elements_of_a_moving_image_item/#sec-item_copy_condition_base_emulsion_film_and_video).
+A Preservation/Restoration Event is generally associated with a new Variant, Manifestation or Items resulting from the preservation/restoration process in which the contents of one or more Items (or fragments thereof) from Manifestations of a Work were transferred with the intention of restoring or reconstructing the content as originally intended, or safeguarding it from decay.[^5]
 
 A useful collection of technical metadata on digital Items as well as data collected during digitisation, can be found [here](https://docs.google.com/spreadsheets/d/1cm4KBG_e-bdMppKOcYsFTck7vv5rJDwRI9z0RYX5bNM/edit?gid=646006523#gid=646006523). This spreadsheet was created by a Task Force in the CDC, headed by Elzbieta Wysocka.
 
@@ -149,6 +147,12 @@ A Preservation/Restoration Event can be in relationship with instances of [Other
 For a more detailled discussion of the term restoration see also the [Appendix](/restorations/index.md).
 
 Record all the existing relationships of a Preservation/Restoration Event, if the information is known and considered of relevance.
+
+Typically a Preservation Event is related to the Item which is treated.
+
+This includes statements about past or future treatments scheduled for the item.  If desired and if applicable, record one or more general types of past or future treatment activities (e.g. "added leaders", "cleaned ultrasonically", "tears repair", etc.). Selection should be made from a controlled list of values. See also [Item Chapter](/items/elements_of_a_moving_image_item/#sec-item_copy_condition_base_emulsion_film_and_video).
+
+A Restoration Event can go beyond a mere treatment. For a more comprehensive discussion on restoration and examples to help with decisions on whether a restoration constitutes a new Variant, Manifestation or Item, see the chapter [Restoration](/appendices/restorations/index.md).
 
 Preservation/Restoration Event information consists of the following sub-elements:
 
@@ -169,7 +173,9 @@ Record the general type of the preservation/restoration activity performed. Sele
 - Sound Restoration  
 - Printing / Recording   
 - Duplication   
-- Transfer   
+- Transfer
+
+A useful collection of technical metadata on digital Items as well as data collected during digitisation, can be found [here](https://docs.google.com/spreadsheets/d/1cm4KBG_e-bdMppKOcYsFTck7vv5rJDwRI9z0RYX5bNM/edit?gid=646006523#gid=646006523). This spreadsheet was created by a Task Force in the CDC, headed by Elzbieta Wysocka.
 
 **Preservation/Restoration Date**
 
@@ -185,9 +191,16 @@ This can include:
 -	Technical, aesthetic or ethical decisions  
 -	Recommendations for further work (details concerning limitations due to source material, resources, technology, etc.)  
 
-A Preservation/Restoration Event can be used in conjunction with [Preservation or Restoration type Manifestations](/manifestations/attributes_of_a_manifestation/#sec-restoration) as relevant.
 
-For further examples, particularly for scanning analogue items, see also the [Items chapter](/items/#sec-digital_items_examples).
+**Example for Events related to the Item**
+
+[INSERT Screenshots from Bundesarchiv DB here]
+
+**Example for Events related to the Manifestation**
+A Preservation/Restoration Event can be used in conjunction with Preservation or Restoration type Manifestations as relevant.
+
+[INSERT Screenshots from other institution here?]
+
 
 <a id="sec-decision"></a>
 ## Decision[^4]
