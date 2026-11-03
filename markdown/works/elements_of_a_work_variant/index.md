@@ -81,12 +81,12 @@ If your institution is applying the use of “Type” qualifiers, use [Title Typ
 
 Ideally, the record should at a minimum contain the “preferred title” (also referred to as “main” or “original” title) of the Work.
 Generally, it is the title of a moving image Work when first released, broadcast, published or transmitted (i.e. mounted online) in the country or countries of origin.
-It may differ from the title found on a particular manifestation of the Work; the actual title on the Manifestation is noted in the Manifestation Title element (see [Title](/manifestations/elements_of_a_manifestation/#sec-manifest_title)).
-See [Title Type](/titles/title_types/#sec-title_types)) for additional information.
+It may differ from the title found on a particular manifestation of the Work; the actual title on the Manifestation is noted in the Manifestation Title element (see [Title](../../manifestations/elements_of_a_manifestation/index.md#sec-manifest_title)).
+See [Title Type](../../titles/title_types/index.md#sec-title_types)) for additional information.
 
-For creating titles for untitled or unidentified entities see [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](/titles/supplied_devised_titles/#sec-supplied_devised_titles).Television programmes and other types of content that are part of a series/serial should have both the series/serial title and the episode title included in the Work record.
+For creating titles for untitled or unidentified entities see [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](../../titles/supplied_devised_titles/index.md#sec-supplied_devised_titles).Television programmes and other types of content that are part of a series/serial should have both the series/serial title and the episode title included in the Work record.
 This may be via use of a “Title type” qualifier.
-See [Titles and structuring of series/serials](/titles/series_serials) for other options.
+See [Titles and structuring of series/serials](../../titles/series_serials/index.md) for other options.
 
 !!! example "Example"
     Gone with the wind (United States of America, 1939, Victor Fleming) 
@@ -131,9 +131,9 @@ See [Titles and structuring of series/serials](/titles/series_serials) for other
 
     Chuckles bites the dust – Preferred title
 
-See [Title](/titles/titles/#sec-appendix_title) for fuller titling details and information.
+See [Title](../../titles/titles/index.md#sec-appendix_title) for fuller titling details and information.
 
-See [Titling of Aggregates](/aggregates/titling_of_aggregates/#sec-titling_of_aggregates) for titling of Aggregates (e.g., compilations).
+See [Titling of Aggregates](../../aggregates/titling_of_aggregates/index.md#sec-titling_of_aggregates) for titling of Aggregates (e.g., compilations).
 
 For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see [Purpose](../../preliminary/purpose_scope_and_use/index.md#sec-purpose).
 
@@ -141,7 +141,7 @@ For sources of information for the Title, see [Sources of Information](../../pre
 
 <a id="sec-work_title_type"></a>
 ### Title Type
-Where relevant for an institution, if the Work, Variant or Manifestation includes multiple titles, such as a title in another language for a dubbed or subtitled variant, record the relevant Variant titles and associate a “Title Type” to each title for differentiation between the various types of titles (see [Title Type](/titles/title_types/#sec-title_types)).
+Where relevant for an institution, if the Work, Variant or Manifestation includes multiple titles, such as a title in another language for a dubbed or subtitled variant, record the relevant Variant titles and associate a “Title Type” to each title for differentiation between the various types of titles (see [Title Type](../../titles/title_types/index.md#sec-title_types)).
 
 <a id="sec-country_of_reference"></a>
 ## Country of Reference
@@ -236,7 +236,7 @@ Where full dates are not known use Year-Month YYYY-MM or just Year YYYY, as syst
 
 <a id="sec-date_type"></a>
 ### Date Type
-The year or date should be associated with an event in the life cycle of the Work (see [Events (e.g., IPR registration, screenings, awards, etc.)](/works/relationships_of_a_work_variant/#sec-work_events)).
+The year or date should be associated with an event in the life cycle of the Work (see [Events (e.g., IPR registration, screenings, awards, etc.)](../../events/event_types/index.md#sec-event_type)).
 If your system supports it, apply a “Date Type” qualifier to make the date or year purpose clear.
 Date Type terms should be derived from a controlled vocabulary.
 For a list of initial terms, see [Event Type](../../events/event_types/index.md#sec-event_type).
@@ -361,7 +361,7 @@ Record the usage type of a language (e.g. spoken, intertitles, subtitles, etc.) 
  - Language(s) of summaries on containers
  - Language(s) of accompanying material
 
-Optionally, record language usage type at the Manifestation/Item level (see [Language](/manifestations/elements_of_a_manifestation/#sec-manifest_language)).
+Optionally, record language usage type at the Manifestation/Item level (see [Language](../../manifestations/elements_of_a_manifestation/index.md#sec-manifest_language)).
 A value of “original” can be added to the Language element here to indicate that statements made about the language(s) for a particular Manifestation/Item are indicative of the language(s) of the “original” Work.[^10]
 
 Language term and usage included on a Work record should only pertain to the original language in which the moving image was conceived and first made. Any subsequent other dubbed or subtitled versions should be reflected in an associated Variant and/or Manifestation.
@@ -383,7 +383,7 @@ If acceptable summaries are already available in secondary sources, cataloguers 
 !!! example "Example"
     Donald Graham, millionaire ex-convict, plans revenge on society figure John Cabin Brand, whom he blames for the death of his daughter.
 
-A content description may also be a shotlist or listing of the contents of an aggregate Work (see [Aggregates (Compilations, Multi-component productions)](/aggregates/types_of_moving_image_aggregates/#sec-collection_aggregates)). Shotlists are the ideal content description to have or aim to have, particularly for non-fiction moving images, but it is recognised that resources and accessibility mean this is not always possible or practical for an archive or institution.[^12]
+A content description may also be a shotlist or listing of the contents of an aggregate Work (see [Aggregates (Compilations, Multi-component productions)](../../aggregates/types_of_moving_image_aggregates/index.md#sec-collection_aggregates)). Shotlists are the ideal content description to have or aim to have, particularly for non-fiction moving images, but it is recognised that resources and accessibility mean this is not always possible or practical for an archive or institution.[^12]
 
 !!! example "Example"
     Title: Pathe News [Excerpts No. 6] 
@@ -602,7 +602,7 @@ Actual filming locations data can be added in a different field (in the EN 15907
 
 <a id="sec-notes"></a>
 ## Notes
-Notes for moving image Works are annotations providing additional information or clarification relating specifically to Works/Variants attributes and relationships.[^15] See [Cataloguer’s Notes](/appendices/cataloguers-notes/).
+Notes for moving image Works are annotations providing additional information or clarification relating specifically to Works/Variants attributes and relationships.[^15] See [Cataloguer’s Notes](../../appendices/cataloguers-notes/index.md).
 
 <a id="sec-history"></a>
 ## History

@@ -3,7 +3,7 @@
 <a id="sec-moving_images_with_probable_or_questionable_titles"></a>
 <!-- ### Moving images with probable or questionable titles[^1] -->
 There are instances where the title from a Manifestation/Item may not be inherited by the Work or Variant.
-Such is the case when a Manifestation/Item contains a probable or questionable title.
+Such is the case when a Manifestation/Item contains a probable or questionable title.[^1]
 
 If the Manifestation/item contains a probable or questionable title, this title may be included as a component in constructing the supplied/devised title, or it may be used alone as the supplied/devised title for the Work. See [Supplied/Devised Titles](../../titles/supplied_devised_titles/index.md#sec-supplied_devised_titles).
 The probability or questionable nature of the title, and its source, should be made clear in a note.

@@ -108,7 +108,7 @@ Where full dates are not known use Year-Month YYYY-MM or just Year YYYY, as syst
 
 <a id="sec-date_type"></a>
 ### Date Type
-The year or date should be associated with an event in the life cycle of the Variant (see [Events (e.g., IPR registration, screenings, awards, etc.)](../../works/relationships_of_a_work_variant/index.md#sec-work_events)).
+The year or date should be associated with an event in the life cycle of the Variant (see [Events (e.g., IPR registration, screenings, awards, etc.)](../../events/event_types/index.md#sec-event_type)).
 If your system supports it, apply a “Date Type” qualifier to make the date or year purpose clear.
 Date Type terms should be derived from a controlled vocabulary.
 For a list of initial terms, see [Event Type](../../events/event_types/index.md#sec-event_type).
@@ -247,7 +247,6 @@ For information about titling and structuring of Variant series/serials and news
 [^3]: The certification of “Italian nationality” is provided by the law/decree 2004, n. 28, part. 5 (but already provided in the former law 1213/1965). 
 According to the 2004 law, the biggest part of the cast and crew, the locations, and the technical facilities have to be Italian, and 30% of the budget has to be spent in Italy. There is a number of exceptions for artistic reasons and in case of co-productions.
 [^7]: EN 15907, 6.6 Year of Reference, p. 20
-[^9]: FIAF, 3.5.4, p. 64
 [^10]: The indication of “original” values at the Manifestation level follows EN 15907 attributes of a Manifestation, pp. 10-11
 [^13]: EN 15907, 6.17.3 Elements, Description type, p. 30.
 [^14]: Based on RDA 2.20.1.Basic Instructions on Making Notes on Manifestations or Items

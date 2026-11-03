@@ -2,7 +2,7 @@
 
 | **Work** | **Variant** | **Manifestation** | **Item** |
 | --- | --- | --- | --- |
-|  |  | [Manifestation Publication Types](#sec-publication) |  |
+|  |  | [Manifestation Publication Types](/events/further_event_types/#sec-publication) |  |
 | [Award(s) or Nomination(s)](/events/further_event_types/#sec-awards_or_nominations) | [Award(s) or Nomination(s)](/events/further_event_types/#sec-awards_or_nominations) | [Award(s) or Nomination(s)](events/further_event_types/#sec-awards_or_nominations) |  |
 | [Production](events/further_event_types/#sec-production) | [Production](events/further_event_types/#sec-production) |  |  |
 | [Rights/Copyright/IPR Registration](events/further_event_types/#sec-values_rights_copyright_ipr_registration) | [Rights/Copyright/IPR Registration](events/further_event_types/#sec-values_rights_copyright_ipr_registration) | [Licensing](/rights/rights_in_a_manifestation) | [Licensing](/rights/rights_in_a_manifestation) |
