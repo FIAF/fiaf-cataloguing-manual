@@ -34,10 +34,10 @@
 |  <span style="color:blue"> Abstract: </span> | TV Guide and television experts at NICK AT NITE’S TV LAND select 100 greatest episodes from drama series and sitcoms from the 1950s to 1997. |
 |  <span style="color:blue"> Periodical: </span> | Playback – issue Special Collectors April 1995. Page 52 |
 |  <span style="color:blue"> Abstract: </span> | Article about the background, production and reception of the series. |
-| <span style="color:blue"> Periodical: </span> </span> Creative Screenwriting volume 5. Issue 3, June 1998. pages 24-31 |
+| <span style="color:blue"> Periodical: </span> | <span style="color:blue"> Creative Screenwriting volume 5. Issue 3, June 1998. pages 24-31 </span>|
 | <span style="color:blue"> Article: </span> | Creating the prime time novel: an interview with Michael Kozoll by: Douglas Heil. |
 | <span style="color:blue"> Abstract: </span> | Interview with television screenwriter Michael Kozoll who discusses Hollywood screenwriting as purely business. His work on the US television series HILL STREET BLUES and DELVECCHIO is particularly mentioned. |
-| <span style="color:blue"> Written by – volume 3. issue 10. November 1999. pages 16-30 |
+| <span style="color:blue"> Periodical: | <span style="color:blue"> Written by – volume 3. issue 10. November 1999. pages 16-30 </span>|
 | <span style="color:blue"> Article: | Upstairs/downstairs by: Alan Waldman |
 | <span style="color:blue"> Abstract: | Steve Bochco, Bruce Paltrow and other writers talk about the period in the 1980s when they worked together for CBS to write classic shows such as HILL STREET BLUES and ST. ELSEWHERE. |
 
