@@ -67,7 +67,7 @@ Works include:
 !!! example "Example"
     University College Hospital. Endoscopy – Colonscope. Patient HX3456. 2010 (United Kingdom, 2010, University College Hospital)
 
-[^1]: For a discussion of other definitions of the “Work” and Variant entities, see [Moving Image Works](../other-relationships/index.md#sec-moving_image_works).
+[^1]: For a discussion of other definitions of the “Work” and Variant entities, see [Moving Image Works](../other-relationships/index.md#sec-moving_image_works_other_relationships).
 
 [^2]: Adapted from the definition of a Cinematographic Work in EN 15907, 4.1.1, p.8.
 [^3]: Adapted from the definition of a Cinematographic Work in EN 15907, 4.1.1, p.8.

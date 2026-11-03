@@ -337,14 +337,14 @@ In some collections of local news programmes only the Analytic story elements an
 <center><object data="/diagrams/numb_12.drawio.svg" type="image/svg+xml"></object></center>
 
 
-Where such individual story elements may have been aggragated together into compilations reels, tapes, or files then see [Titling of Aggregates](/aggregates/titling_of_aggregates/#sec-titling_of_aggregates).
+Where such individual story elements may have been aggragated together into compilations reels, tapes, or files then see [Titling of Aggregates](../../aggregates/titling_of_aggregates/index.md#sec-titling_of_aggregates).
 If deemed necessary or helpful for the purposes of discovery, the alternative titles added to Items should also be added to the Work level record.
 
 <a id="sec-further_enhanced_structuring_possibilities_with analytic_component_parts_and_identified_newsreels_cinemagazines"></a>
 ## Further enhanced structuring possibilities with analytic/component parts and identified newsreels/cinemagazines
 There may also be instances, particularly with news and newsreel collections where a Serial-Monographic-Analytic Works construction, in a grandparent-parent-child hierarchical structure could be considered and used in certain databases that have an EN 15907 structure. 
 
-This is not a structuring or architecture that is covered within the EN 15907 Standard itself, but it is one which exploits and extends the EN 15907 basic structure model further in conjunction with [Work or Variant Description types](/works/attributes_of_a_moving_image_work_variant/index.md#sec-work_variant_description_type). This could suit institutions with huge newsreel collections, particularly where the individual story elements are what are searched on by users, and use of this type of structuring is also starting to evolve in some institutions in very particular scenarios.
+This is not a structuring or architecture that is covered within the EN 15907 Standard itself, but it is one which exploits and extends the EN 15907 basic structure model further in conjunction with [Work or Variant Description types](../../works/attributes_of_a_moving_image_work_variant/index.md#sec-work_variant_description_type). This could suit institutions with huge newsreel collections, particularly where the individual story elements are what are searched on by users, and use of this type of structuring is also starting to evolve in some institutions in very particular scenarios.
 
 One such is where there may be instances of the Analytic individual story elements having their own later publication, or “manifestation”, and there is a need or preference by an institution for keeping all the records together in a vertical hierarchy. It may also suit institutions with huge newsreel collections, particularly where the individual story elements of issues are what are searched on and accessed by users.
 

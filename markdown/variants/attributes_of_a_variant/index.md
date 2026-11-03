@@ -78,7 +78,7 @@ It was common, especially in the silent film industry, to make different endings
 
 
 **Restoration Variant**
-For a more detailled discussion of the term restoration see also the [Appendix](/restorations/index.md).
+For a more detailled discussion of the term restoration see also the [Appendix](../../restorations/index.md).
 
 !!! example "Example"  
     Work Title: Jaws (USA, 1975. Steven Spielberg)  
@@ -144,5 +144,3 @@ A Variant may have more than one type. For example, a Variant for a restoration 
 
 [^1]: YCR, 2.1.1 Nature of modification (change in content) of expression  
 [^2] Use of popular Video Jockeys to create translated versions into Luganda or Swahili of Nigerian or other foreign films is common in East African countries such as Uganda and Tanzania. Instead of just doing a direct, literal translation as found in subtitled or dubbed language versions of a film, the VJs act as live oral storytellers using a mixture of translated dialogue, narration, and commentary which is laid on top of the soundtrack, with the original language still audible. Besides performing these voice-over translations live at screenings, they are also often recorded and made available as a pre-mixed voiceover soundtrack on physical media and digital platforms showing the films.
-
-
