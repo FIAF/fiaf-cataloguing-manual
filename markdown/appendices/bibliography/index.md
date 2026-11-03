@@ -145,7 +145,7 @@ ROSS, Thelma – BALZER, Detlev – MCCONNACHIE, Stephen. The EN 15907 moving im
 
 TECH 3293. EBUCore metadata set (EBUCore) [online]. Specification v. 1.6. Geneva: EBU, June 2015 [viewed 2016-04-04]. 40 p. Available in PDF from: [https://tech.ebu.ch/docs/tech/tech3293.pdf](https://tech.ebu.ch/docs/tech/tech3293.pdf)
 
-UCLA FILM & TELEVISION ARCHIVE. UCLA Film & Television Archive Cataloging Procedure Manual--Voyager [online]. Last modified: March 6, 2007 [viewed 2016-04-04]. Available from: [http://old.cinema.ucla.edu/CPM%20Voyager/](http://old.cinema.ucla.edu/CPM%20Voyager/)
+UCLA FILM & TELEVISION ARCHIVE. UCLA Film & Television Archive Cataloging Procedure Manual--Voyager [online]. Last modified: March 6, 2007 [viewed 2026-11-03]. Available from: [https://emarket.cinema.ucla.edu/CPMVoyager/CPMV00TofC.html](https://emarket.cinema.ucla.edu/CPMVoyager/CPMV00TofC.html)
 
 UNITED STATES COPYRIGHT OFFICE. Revising section 108: Copyright exceptions for libraries and archives [online]. Washington: U.S. Copyright Office, Revised: 20-Feb-2013 [viewed 2016-04-04]. Available from: [http://www.copyright.gov/docs/section108/](http://www.copyright.gov/docs/section108/)
 
