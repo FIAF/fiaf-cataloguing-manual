@@ -22,7 +22,14 @@ As existing Items are inspected and assessed as part of the materials selection 
 
 Similarly, extra research carried out as part of a restoration project may provide further relevant information about both the original Work and restoration(s) that can be added to the Work record to enhance it, e.g. missing credits, production details, etc.
 
-## Restoration constitutes a new Work or Variant
+Restorations are linked to [Events](/events/further_event_types/#sec-preservation_restoration_event) and [Agents](/agents/agents/index.md).
+
+## Restorations - Works/Variants
+
+Some restorations are simply improving the film/colour/sound quality of deteriorating original prints, without inserting any missing or extra scenes or new music scores, etc.
+
+These would equate with minor changes in versions and not need a new Work record created, although a Variant record would be created in 4-level hierarchy structures and systems. Any technical information relating to the restoration would be added to a new Manifestation/Item record.
+
 In the large majority of cases it will not be necessary to create a new Work record for a Restoration. Since a restoration involves copying pre-existing Items in Collections, which would normally already be linked to a Work record via Manifestation(s), it is usually a matter of creating a new linked Variant (if used) with a new Restoration Manifestation, and associating the Items created as part of the restoration process to that Restoration Manifestation. 
 
 <center><object data="/diagrams/resjaws1.drawio.svg" type="image/svg+xml" width="50%"></object></center>

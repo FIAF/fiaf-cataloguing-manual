@@ -682,7 +682,7 @@ Any other relevant information or clarifications pertaining to the Work.
 [^2]: The certification of “Italian nationality” is provided by the law/decree 2004, n. 28, part. 5 (but already provided in the former law 1213/1965). 
 According to the 2004 law, the biggest part of the cast and crew, the locations, and the technical facilities have to be Italian, and 30% of the budget has to be spent in Italy. There is a number of exceptions for artistic reasons and in case of co-productions.
 [^3]: The first of these was the formula followed by the British Film Institute. BFI CID Stylistics Manual – 2nd Edition. A.8.1., which subsequently changed to using a country of reference ordering based more on the on-screen ordering of production companies. CID Cataloguing Manual|Moving Image Catalogue (revised 2022). F.4 and F.4.1.
-[^4]: http://www.iso.org/iso/home/standards/country_codes.htm
+[^4]: https://www.iso.org/iso-3166-country-codes.html
 [^5]: ISO 3166-3 Codes for the representation of names of countries and their subdivisions -- Part 3: Code for formerly used names of countries, is available for purchase as a PDF on the ISO website: [http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=2130](http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=2130)
 [^200]: SSRs were often officially formed on different dates between 1918 and the 1930s, and there were also often subsequent boundary changes between them. For further exploration of this see ADD LINK TO CDC FIAF website Ukraine document if latter has been enhanced with additional details
 [^6]: EN 15907, 6.6 Year of Reference, p. 20

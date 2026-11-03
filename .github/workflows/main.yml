@@ -1,29 +1,29 @@
-name: build_and_publish
+# name: build_and_publish
 
-on:
-  push:
-    branches:
-      - develop
-  workflow_dispatch:
+# on:
+#   push:
+#     branches:
+#       - develop
+#   workflow_dispatch:
 
-jobs:
-  build-and-publish:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+# jobs:
+#   build-and-publish:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout repo
+#         uses: actions/checkout@v4
 
-      - name: Install dependencies
-        run: pip install -r requirements.txt
+#       - name: Install dependencies
+#         run: pip install -r requirements.txt
 
-      - name: Build site
-        run: mkdocs build
+#       - name: Build site
+#         run: mkdocs build
 
-      - name: Sync to Scaleway bucket
-        env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.SCW_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.SCW_SECRET_ACCESS_KEY }}
-        run: |
-          aws s3 sync site/ s3://fiaf-cataloguing-manual/ \
-            --endpoint-url https://s3.fr-par.scw.cloud \
-            --delete
+#       - name: Sync to Scaleway bucket
+#         env:
+#           AWS_ACCESS_KEY_ID: ${{ secrets.SCW_ACCESS_KEY_ID }}
+#           AWS_SECRET_ACCESS_KEY: ${{ secrets.SCW_SECRET_ACCESS_KEY }}
+#         run: |
+#           aws s3 sync site/ s3://fiaf-cataloguing-manual/ \
+#             --endpoint-url https://s3.fr-par.scw.cloud \
+#             --delete

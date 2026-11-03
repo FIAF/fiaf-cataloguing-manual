@@ -1,87 +1,86 @@
 
 
-| Identification number | 664643 |
+| <span style="color:blue"> Identification number </span> | 664643 |
 | --- | --- |
-| Title | Title type |
+| <span style="color:blue"> Title </span> | <span style="color:blue"> Title type </span> |
 | Shots of 1932 | Acquisition |
 | Brown Family Film | Devised |
-| Level | Work |
-| Category | Non Fiction |
-| Country | United Kingdom |
-| Date | 1932 |
-| start Precision | circa |
-| Date type | Production |
-| Production status | Completed |
-| Genre | Amateur film |
-| Subject | Family life, Christenings, Seaside holidays |
-| Description type | Description |
+| <span style="color:blue"> Level </span> | Work |
+| <span style="color:blue"> Category </span> | Non Fiction |
+| <span style="color:blue">  Country </span> | United Kingdom |
+| <span style="color:blue"> Date </span> | 1932 |
+| <span style="color:blue"> start Precision </span> | circa |
+| <span style="color:blue"> Date type </span> | Production |
+| <span style="color:blue"> Production status </span> | Completed |
+| <span style="color:blue"> Genre </span> | Amateur film |
+| <span style="color:blue"> Subject </span> | Family life, Christenings, Seaside holidays |
+| <span style="color:blue"> Description type </span> | <span style="color:blue"> Description </span> |
 | Synopsis | Important events in the life of the Brown family, taking place in 1932. |
 | Shotlist | RL 1: Valerie Vivienne, the daughter of Edwin and Joyce, is born. Various shots of the baby being held by Edwin and Joyce; baby’s christening. Some shots of the Hendon Air Pageant. Family holiday, scenes at Little Holland (near Clacton on Sea). Back home; Jack and Tops’ wedding. Return to Little Holland. RL 2: Joyce and another woman are pushing prams up a hill near the beach. Edwin poses for the camera. Shots of “Red Gable”, which is possibly their holiday home, outside and inside. The women hold the babies up to the camera. The men go horse riding. Shots at the beach. Outing to Tunbridge Wells, having a stroll. More shots of the baby. |
-| Credit | Name |
+| <span style="color:blue"> Credit </span> | <span style="color:blue"> Name </span> |
 | Camera Operator | Brown, Edwin G., |
-| Parts reference | Parts title |
+| <span style="color:blue"> Parts reference </span> | <span style="color:blue"> Parts title </span> |
 | M-438218 | Shots of 1932 |
 
-| Identification number | M-438218 |
+| <span style="color:blue"> Identification number </span> | M-438218 |
 | --- | --- |
-| Title | Title type |
+| <span style="color:blue"> Title </span> | <span style="color:blue"> Title type </span> |
 | Shots of 1932 | Acquisition |
-| Level | Manifestation |
-| Manifestation type | Not for release |
-| General Format | Specific Format |
+| <span style="color:blue"> Level </span> | Manifestation |
+| <span style="color:blue"> Manifestation type </span> | Not for release |
+| <span style="color:blue"> General Format </span> | <span style="color:blue"> Specific Format </span> |
 | Film | 9.5mm Film |
-| Colour | Black and White |
-| Sound | Silent |
-| Release Country | United Kingdom |
-| Date | 1932 |
-| Precision | circa |
-| Dimension | Length |
-| Value | 400 |
-| Unite | Feet |
-| Part of reference | title |
+| <span style="color:blue"> Colour </span> | Black and White |
+| <span style="color:blue"> Sound </span> | Silent |
+| <span style="color:blue"> Release Country </span> | United Kingdom |
+| <span style="color:blue"> Date </span> | 1932 |
+| <span style="color:blue"> Precision </span> | circa |
+| <span style="color:blue"> Dimension </span> | <span style="color:blue"> Length |
+| <span style="color:blue"> Value </span> | 400 |
+| <span style="color:blue">  Unit </span> | Feet |
+| <span style="color:blue"> Part of reference </span> | <span style="color:blue"> title </span> |
 | 664643 | Shots of 1932 |
-| Parts reference | Parts title |
+| <span style="color:blue"> Parts reference </span> | <span style="color:blue"> Parts title </span> |
 | C-1264202 | Shots of 1932 |
 
-| Identification number | C-1264202 |
+| <span style="color:blue"> Identification number </span> | C-1264202 |
 | --- | --- |
-| Title | Title type |
+| <span style="color:blue"> Title </span> | <span style="color:blue"> Title type </span> |
 | Shots of 1932 | Acquisition |
 | Brown Family Film. Shots of 1932 | Devised |
-| Level | Item |
-| Item type | Film |
-| Status | Usage |
+| <span style="color:blue"> Level </span> | Item |
+| <span style="color:blue"> Item type </span> | Film |
+| <span style="color:blue"> Status </span> | <span style="color:blue"> Usage </span> |
 | Master | Restricted access to preserved film |
-| Colour | Black and white |
-| Base | Safety |
-| Gauge | 9.5mm |
-| Description | Original Reversal BW Positive |
-| Sound | Silent |
-| Stock | Pathe |
-| Stock date early | 1932 |
-| Precision | circa |
-| Stock date late | 1932 |
-| Precision | circa |
-| Condition emulsion | Condition base |
+| <span style="color:blue"> Colour </span> | Black and white |
+| <span style="color:blue"> Base </span> | Safety |
+| <span style="color:blue"> Gauge </span> | 9.5mm |
+| <span style="color:blue"> Description </span> | Original Reversal BW Positive |
+| <span style="color:blue"> Sound </span> | Silent |
+| <span style="color:blue"> Stock </span> | Pathe |
+| <span style="color:blue"> Stock date early </span> | 1932 |
+| <span style="color:blue"> Precision </span> | circa |
+| <span style="color:blue"> Stock date late </span> | 1932 |
+| <span style="color:blue"> Precision </span> | circa |
+|<span style="color:blue">  Condition emulsion </span> | <span style="color:blue"> Condition base </span> |
 | Scratches | Scratches |
-| Copy number | 1264202-1 |
-| Package number | AB12C3D |
-| Reel number | 1 |
-| Total reels | 2 |
-| Number of cans/cassettes | 1 |
-| Dimensions Part | Total |
-| Value | 400 |
-| Unit | feet |
-| Dimensions Part | Reel 1 |
-| Value | 200 |
-| Unit | feet |
-| Dimensions Part | Reel 2 |
-| Value | 200 |
-| Unit | feet |
-| Current location | BK1AC12344 |
-| Home location | BK1AC12344 |
-| Acquisition date | 2003-01-22 |
-| Method | Donation |
-| Donor | Fiaf Brown |
-| Part of reference | Part of Title |
+| <span style="color:blue"> Can ID number </span> | 1264202-1 |
+| <span style="color:blue"> Barcode number </span> | AB12C3D60009435 |
+| <span style="color:blue"> Total reels </span> | 2 |
+| <sp an style="color:blue">Number of cans/cassettes </span> | 2 |
+| <span style="color:blue"> Dimensions Part </span> | <span style="color:blue"> Total </span> |
+| <span style="color:blue"> Value </span> | 400 |
+| <span style="color:blue"> Unit </span> | feet |
+| <span style="color:blue"> Dimensions Part </span> | Reel 1 |
+| <span style="color:blue"> Value </span> | 200 |
+|<span style="color:blue">  Unit </span> | feet |
+| <span style="color:blue"> Dimensions Part </span> | Reel 2 |
+| <span style="color:blue"> Value </span> | 200 |
+| <span style="color:blue"> Unit </span> | feet |
+| <span style="color:blue"> Current location </span> | BK1AC12344 |
+| <span style="color:blue"> Home location </span> | BK1AC12344 |
+| <span style="color:blue"> Acquisition date </span> | 2003-01-22 |
+| <span style="color:blue"> Method </span> | Donation |
+| <span style="color:blue"> Donor </span> | Fleur Brown |
+| <span style="color:blue"> Part of reference </span> | <span style="color:blue"> Part of Title </span> |
 | M-438218 | Shots of 1932 |

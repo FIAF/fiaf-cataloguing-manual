@@ -1,0 +1,29 @@
+name: ci 
+on:
+  push:
+    branches:
+      - develop
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Configure Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+
+      - name: Install dependencies
+        run: | 
+          pip install mkdocs==1.6.1
+          pip install mkdocs-material==9.7.6
+          pip install mkdocs-nav-numbering-plugin==1.3.0
+
+      - name: Deploy to GitHub Pages
+        run: mkdocs gh-deploy --force
+        
