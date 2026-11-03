@@ -45,6 +45,8 @@ Cataloguing digital Items has become a lot more important and less streamlined. 
 
 An analogue feature film with 5 reels/cans of a duplicate negative image and negative optical sound has each been scanned for a restoration project. The aim was to create a DCP for cinema screenings and a viewing file for streaming.
 
+For a more detailled discussion of the term restoration see also the [Appendix](/restorations/index.md).
+
 Question: How to catalogue these Items?
 
 Answer: One way to do it, would be to link all the digital Items with the Manifestation associated with the source Item, and create the digital Items as:  
@@ -111,7 +113,7 @@ That way you have two Items: the DCDM and the ProRes, each with language informa
 Option 2: Another, more granular option would be to catalogue the srt files as separate Items too; so there should be 4 Item records in total.
 As the srt files are literally just the subtitles for the film and do not include the film itself, but are designed for use in conjunction with a different Item containing the film, the Items could be linked together in an associative relationship potentially (if the system allows that) which means that each srt file could be linked to the DCDM or ProRes Items (or both), as relevant, something like e.g.:
 
-<br><center><object data="/diagrams/item_mult-lang.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+<br><center><object data="/diagrams/item_mult-lang.drawio.svg" type="image/svg+xml" width="75%"></object></center>
 
 Relating Items in this way is covered in [ADD LINK TO RELEVANT SECTION IN OTHER RELATIONSHIPS CHAPTER]
 

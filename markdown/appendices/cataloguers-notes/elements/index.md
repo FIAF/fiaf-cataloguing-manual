@@ -4,9 +4,11 @@ This is offered for users that do not have the option of structuring this inform
 
 *Title*
 
-The source or function of a title, the date the title was viewed and who viewed it, variations in titles, inaccuracies, deletions, etc., or other information relating to a title, if this information is not recorded elsewhere in dedicated fields.
+The source or function of a title, the date the title was viewed and who viewed it, variations in titles, inaccuracies, deletions, etc., or other information relating to a title, if this information is not recorded elsewhere in dedicated fields.[^1]
 
-Work:[^1]
+Some examples:[^2]
+
+Work:
 
 !!! example "Example"
     Commonly known in moving image reference sources under title Mon oncle.
@@ -69,18 +71,18 @@ Relevant information which further explains the year/date and the source(s) of i
     Rockies -- US, 1926.
 
 !!! example "Example"
-    [Note] Date from notes accompanying item, attached to inventory, and from Merlo Pusey’s Eugene Meyer, (New York: Knopf, 1974), p.195.[^2]
+    [Note] Date from notes accompanying item, attached to inventory, and from Merlo Pusey’s Eugene Meyer, (New York: Knopf, 1974), p.195.[^3]
 
 !!! example "Example"
     French language edition ©1982.
     Copyright date recorded as copyright 1987.
-    Resource described is a translation of the French language edition.[^3]
+    Resource described is a translation of the French language edition.[^4]
 
 !!! example "Example"
     Title of work is clearly, Ten nights in a bar room; however, several versions of this film were produced between 1910-1931.
-    It is probable that this work is the 1921 version, but due to vagueness of available plot summaries and disappearance of copyright descriptive material for the 1921 version, date cannot be verified at this time.[^4]
+    It is probable that this work is the 1921 version, but due to vagueness of available plot summaries and disappearance of copyright descriptive material for the 1921 version, date cannot be verified at this time.[^5]
 
-**Language**[^5]
+**Language**[^6]
 
 Give the language or languages of the spoken, sung, or written content of the WVMI unless they are apparent from the rest of the description or data contained in specific language and usage fields.
 
@@ -110,7 +112,7 @@ Explain the format changes used to determine the moving image Manifestation in h
 
 **Sound characteristics**
 
-If the moving image Work/Variant associated with the moving image Manifestation in hand had sound originally, but the Manifestation lacks sound, describe it as silent (or mute) and give a note to that effect.[^6]
+If the moving image Work/Variant associated with the moving image Manifestation in hand had sound originally, but the Manifestation lacks sound, describe it as silent (or mute) and give a note to that effect.[^7]
 
 If the moving image Work/Variant associated with the moving image Manifestation was silent originally, but the Manifestation has sound, describe it as sound and give a note to that effect.
 
@@ -120,7 +122,7 @@ If the length of a moving image Manifestation/Item is uncertain, give an explana
 
 **Duration**
 
-If the duration/running time of a Manifestation/Item is uncertain, give an explanation for the estimated duration/running time, if such information applies.[^7]
+If the duration/running time of a Manifestation/Item is uncertain, give an explanation for the estimated duration/running time, if such information applies.[^8]
 
 Indicate the frame rate on which the duration is based or if the moving image Manifestation is the result of a “stretch frame” practice.
 
@@ -128,10 +130,11 @@ Indicate the frame rate on which the duration is based or if the moving image Ma
 
 Note any indication that the Item is in need of servicing prior to being accessed for use.
 
-[^1]: Examples taken from RDA 2.20.2.3 Title Source, 2.20.2.4 Title variations, Inaccuracies, and Deletions; RDA 5.9.1.3 Making Cataloguer’s Notes; and FIAF 7.2 Notes
-[^2]: FIAF, p. 65
-[^3]: RDA 2.20.10.3 Details Relating to Copyright Dates
-[^4]: FIAF 7.2.7. History of edition/version/variation
-[^5]: Based on FIAF 7.2.2. Language
-[^6]: Based on AMIM2 5C3.
-[^7]: Based on FIAF 1991, 5.3.4.2.
+[^1]: RDA 2.20.2.1 Scope
+[^2]: Examples taken from RDA 2.20.2.3 Title Source, 2.20.2.4 Title variations, Inaccuracies, and Deletions; RDA 5.9.1.3 Making Cataloguer’s Notes; and FIAF 7.2 Notes
+[^3]: FIAF, p. 65
+[^4]: RDA 2.20.10.3 Details Relating to Copyright Dates
+[^5]: FIAF 7.2.7. History of edition/version/variation
+[^6]: Based on FIAF 7.2.2. Language
+[^7]: Based on AMIM2 5C3.
+[^8]: Based on FIAF 1991, 5.3.4.2.

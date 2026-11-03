@@ -255,21 +255,19 @@ Parallel titles are recorded with wording and spelling as established by an appr
 Where this involves transcription between scripts, use an appropriate standard for transliterations.[^24]
 
 !!! example "Example"
-    Chandralekha [No English language title translation available; 
-
-    archive holds Indian release copy – title is romanized.]
+    Chandralekha [No English language title translation available; archive holds Indian release copy – title is romanized.]
 
 When a title is an international co-production, or is produced in a bi- or multi-lingual country of origin, and is released simultaneously under separate titles in the languages of the country of origin or countries of co-production as well as in other languages, record all the parallel titles in the languages of the countries of co-production and in the language of the copy the institution holds, if it is in an additional language.
 
 If it cannot be determined whether the Work was released simultaneously or the release order cannot be determined, the cataloguer should select one of the qualifying titles in accordance with a consistent policy (for example from a list of languages in the institution’s preferred order, or by reference to an authoritative source.) [^25]
-Such lists will normally give preference to the languages most familiar to researchers in the country of the archive. For example, the standard list for archival moving image cataloguing in the United States is: 
-- 1. U.S. title (if an American company is involved in the production).
-- 2. U.K. title (if a British company is involved in the production).
-- 3. Other English language title (if an English language speaking country is involved in the production).
-- 4. French title (if a French company is involved in the production).
-- 5. German title (if a German-speaking country is involved in the production).
-- 6. Other Romance language title (if these language companies are involved in the production).
-- 7. Other Germanic language title (if these language companies are involved in the production).
+Such lists will normally give preference to the languages most familiar to researchers in the country of the archive. For example, the standard list for archival moving image cataloguing in the United States is:  
+- 1. U.S. title (if an American company is involved in the production).  
+- 2. U.K. title (if a British company is involved in the production).  
+- 3. Other English language title (if an English language speaking country is involved in the production).  
+- 4. French title (if a French company is involved in the production).  
+- 5. German title (if a German-speaking country is involved in the production).  
+- 6. Other Romance language title (if these language companies are involved in the production).  
+- 7. Other Germanic language title (if these language companies are involved in the production).  
 
 Historically, parallel titles have been placed within the title field itself, following the preferred title and an equal sign to represent the title frame (i.e., the fact that both titles appear onscreen).
 These guidelines recommend the use of separate fields that distinguish between the preferred title and any subsequent parallel title(s) but if this is not possible, the older approach is acceptable.

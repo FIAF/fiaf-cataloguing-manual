@@ -151,12 +151,12 @@ nav:
 
   - Other Relationships:
     - Other Relationships: other-relationships/index.md
-    - Other Relationships for Works, Variants, Manifestations, Items: other-relationships/other_relationships_for_works_variants_manifestations_items/index.md
+    - Other Relationship Types: other-relationships/other_relationships_for_works_variants_manifestations_items/index.md
 
   - Rights:
     - Rights: rights/index.md
     - Rights in a Manifestation: rights/rights_in_a_manifestation/index.md
-    - Examples: rights/rights_in_an_item/index.md
+    - Examples: rights/examples/index.md
 
   - Appendices:
     - Restorations: restorations/index.md
@@ -168,6 +168,7 @@ nav:
     - Comparison between Elements of Description: appendices/element-comparison/index.md
     - Examples of Records:
         - Examples of Records: appendices/record-examples/index.md
+        - Example 1. 3-level, 2-level and 1 level Model Hierarchies for the same film: appendices/record-examples/example_one/index.md
         - Example 2. Documentary film in 4-level hierarchy: appendices/record-examples/example_two/index.md
         - Example 3. Silent feature film in 3-level Hierarchy Model: appendices/record-examples/example_three/index.md
         - Example 4. Short feature film in 3-level Hierarchy Model: appendices/record-examples/example_four/index.md

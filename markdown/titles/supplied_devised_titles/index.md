@@ -311,15 +311,12 @@ If no name has been recorded, but the subject of the content is a person, family
 
     James Cagney, ca. 1965. Interviews  
 
-      ABC Network fall season preview. 1964-65 season. Unedited footage  
-
-    optionally: Unedited footage. ABC Network fall season preview. 1964-65 season 
+    ABC Network fall season preview. 1964-65 season. Unedited footage   
+    optionally: Unedited footage. ABC Network fall season preview. 1964-65 season   
 
     Academy Awards, 17th. Best actor and actress. Unedited footage  
-
-    optionally, Unedited footage. Academy Awards, 17th. Best actor and actress  
-
-    optionally, Unedited 17th Academy Awards footage. Best actor and actress 
+    optionally: Unedited footage. Academy Awards, 17th. Best actor and actress    
+    optionally: Unedited 17th Academy Awards footage. Best actor and actress  
 
     Academy Awards. Award presentation, Conrad Nagel. Unedited footage 
 
@@ -338,8 +335,7 @@ Use numbers to distinguish separate content when there is more than one unidenti
     Unidentified cartoon 
 
     Unidentified cartoon. Warner Brothers  
-
-    optionally: Unidentified Warner Brothers cartoon 
+    optionally: Unidentified Warner Brothers cartoon   
 
     Unidentified short about Africa 
 
@@ -350,16 +346,13 @@ Use numbers to distinguish separate content when there is more than one unidenti
     Unidentified films. Excerpts 
 
     Unidentified film. Kay Kyser musical  
+    optionally: Unidentified Kay Kyser musical   
 
-    optionally: Unidentified Kay Kyser musical 
+    Unidentified film. Warner Brothers. Outtakes  
+    optionally: Unidentified Warner Brothers outtakes   
 
-    Unidentified film. Warner Brothers. Outtakes 
-
-    optionally: Unidentified Warner Brothers outtakes 
-
-    Unidentified film. Western 
-
-    optionally: Unidentified Western 
+    Unidentified film. Western  
+    optionally: Unidentified Western   
 
     Unidentified newsreel. Excerpts. Auto race subjects, 1930s 
 
@@ -367,9 +360,8 @@ Use numbers to distinguish separate content when there is more than one unidenti
 
     High game 
 
-    Unidentified newsreel, Russian 
-
-    optionally: Unidentified Russian newsreel 
+    Unidentified newsreel, Russian  
+    optionally: Unidentified Russian newsreel   
 
     Unidentified shorts 
 
