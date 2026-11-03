@@ -117,7 +117,7 @@ These titles should then be linked to the collection-level description in either
 
   "Portrait of a miner" would be created as the work title, with the description level of Collection.
 
-  Each of the Mining review Works used in Portrait of a miner would then be linked to it and assigned a “contained in” relationship (see [Modelling Aggregates](/aggregates/modelling_aggregates/#sec-modelling_aggregates)).
+  Each of the Mining review Works used in Portrait of a miner would then be linked to it and assigned a “contained in” relationship (see [Modelling Aggregates](../../aggregates/modelling_aggregates/index.md#sec-modelling_aggregates)).
 
 Provide a list of the compiled works contained in the Collections Work in its Synopsis or Summary field.
 

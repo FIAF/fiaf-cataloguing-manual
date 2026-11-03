@@ -24,7 +24,7 @@ Optionally, if the Agent is credited under a name that is not identical with the
 !!! example "Example"
     Sofia Lazzaro (first pseudonym/screen name used by the actress Sophia Loren, whose birth name is Sofia Villani Scicolone).
 
-Optionally, record multiple instances of Agent, e.g., cast and credits, associated with [aggregated Works or Variants](/aggregates/credits_agents_aggregates/index.md).
+Optionally, record multiple instances of Agent, e.g., cast and credits, associated with [aggregated Works or Variants](../../aggregates/credits_agents_for_aggregates/index.md).
 
 Variants may include both the Agents of the original Work and of the particular Variant, or just those pertaining to the particular Variant, e.g. additional cast in reinserted scenes in a Director’s Cut, new credits relating to digital special effects in a special edition with new CGI effects, cast used for a dubbed version, etc. 
 
@@ -121,7 +121,7 @@ TO BE ADDED
 TO BE ADDED
 
 
-Several of these tie in with [important information needed for establishing rights and copyright](/rights/#sec-recommended_properties_for_Moving_Image_Works_and_Variants), namely Director(s), Producer(s), Production Company(ies), Scriptwriter(s), Author (e.g. original literary author on which the Work was adapted or based), Music Composer, Performers (e.g. cast).
+Several of these tie in with [important information needed for establishing rights and copyright](../../rights/rights_in_work_and_variant/index.md#sec-recommended_properties_for_Moving_Image_Works_and_Variants), namely Director(s), Producer(s), Production Company(ies), Scriptwriter(s), Author (e.g. original literary author on which the Work was adapted or based), Music Composer, Performers (e.g. cast).
 
 Besides the principal Agent Activity suggested, institutions, particularly those with special interests, may create and apply in-house value lists of other specific Agent Types, which may vary from institution to institution.
 

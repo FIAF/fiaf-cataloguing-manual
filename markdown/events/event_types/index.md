@@ -2,16 +2,16 @@
 
 | **Work** | **Variant** | **Manifestation** | **Item** |
 | --- | --- | --- | --- |
-|  |  | [Manifestation Publication Types](/events/further_event_types/#sec-publication) |  |
-| [Award(s) or Nomination(s)](/events/further_event_types/#sec-awards_or_nominations) | [Award(s) or Nomination(s)](/events/further_event_types/#sec-awards_or_nominations) | [Award(s) or Nomination(s)](events/further_event_types/#sec-awards_or_nominations) |  |
-| [Production](events/further_event_types/#sec-production) | [Production](events/further_event_types/#sec-production) |  |  |
-| [Rights/Copyright/IPR Registration](events/further_event_types/#sec-values_rights_copyright_ipr_registration) | [Rights/Copyright/IPR Registration](events/further_event_types/#sec-values_rights_copyright_ipr_registration) | [Licensing](/rights/rights_in_a_manifestation) | [Licensing](/rights/rights_in_a_manifestation) |
-|  | [Preservation](events/further_event_types/#sec-preservation_restoration) | [Preservation](events/further_event_types/#sec-preservation_restoration) | [Preservation](events/further_event_types/#sec-preservation_restoration) |
-|  | [Decision](events/further_event_types/#sec-decision) | [Decision](events/further_event_types/#sec-decision) |  |
-|  |  | [Manufacture](events/further_event_types/#sec-manufacture) |  |
-|  |  |  | [Inspection](events/further_event_types/#sec-inspection) |
-|  |  |  | [Acquisition](events/further_event_types/#sec-acquisition) | 
-|  |  |  | [Accession](events/further_event_types/#sec-accession) |
+|  |  | [Manifestation Publication Types](../../events/further_event_types/index.md#sec-publication) |  |
+| [Award(s) or Nomination(s)](../../events/further_event_types/index.md#sec-awards_or_nominations) | [Award(s) or Nomination(s)](../../events/further_event_types/index.md#sec-awards_or_nominations) | [Award(s) or Nomination(s)](../../events/further_event_types/index.md#sec-awards_or_nominations) |  |
+| [Production](../../events/further_event_types/index.md#sec-production) | [Production](../../events/further_event_types/index.md#sec-production) |  |  |
+| [Rights/Copyright/IPR Registration](../../events/further_event_types/index.md#sec-values_rights_copyright_ipr_registration) | [Rights/Copyright/IPR Registration](../../events/further_event_types/index.md#sec-values_rights_copyright_ipr_registration) | [Licensing](../../rights/rights_in_a_manifestation/index.md) | [Licensing](../../rights/rights_in_a_manifestation/index.md) |
+|  | [Preservation](../../events/further_event_types/index.md#sec-preservation_restoration) | [Preservation](../../events/further_event_types/index.md#sec-preservation_restoration) | [Preservation](../../events/further_event_types/index.md#sec-preservation_restoration) |
+|  | [Decision](../../events/further_event_types/index.md#sec-decision) | [Decision](../../events/further_event_types/index.md#sec-decision) |  |
+|  |  | [Manufacture](../../events/further_event_types/index.md#sec-manufacture) |  |
+|  |  |  | [Inspection](../../events/further_event_types/index.md#sec-inspection) |
+|  |  |  | [Acquisition](../../events/further_event_types/index.md#sec-acquisition) | 
+|  |  |  | [Accession](../../events/further_event_types/index.md#sec-accession) |
 
 <a id="sec-event_type"></a>
 

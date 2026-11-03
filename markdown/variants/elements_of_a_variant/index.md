@@ -85,7 +85,7 @@ This may differ from that of the original Work, for example, a Restored version 
 Where an official national certificate or designation of a Work exists, use this as the authoritative source, e.g., Italian government department designates what is officially an Italian film.[^3]
 When more than one place is associated with a Variant, choose the place(s) with primary importance.
 
-Establishing the country of reference for a Variant is the same as for a Work, including forms and historical changes of country name. See details in [Work](/works/elements_of_a_work_variant/index.md#sec-country_of_reference)
+Establishing the country of reference for a Variant is the same as for a Work, including forms and historical changes of country name. See details in [Work](../../works/elements_of_a_work_variant/index.md#sec-country_of_reference)
 
 <a id="sec-year_date_of_reference"></a>
 ## Year/Date of Reference
@@ -118,7 +118,7 @@ For Variants, the date is typically related to events such as its creation, avai
 <a id="sec-date_precision"></a>
 ### Date Precision
 
-See Works chapter for more information on [Date Precision](/works/elements_of_a_work/#sec-date_precision).
+See Works chapter for more information on [Date Precision](../../works/elements_of_a_work_variant/index.md#sec-date_precision).
 
 
 <a id="sec-languages"></a>
@@ -153,7 +153,7 @@ A value of “original” can be added to the Language element here to indicate 
 <a id="sec-content_description"></a>
 ## Content description (synopses, shotlists, etc)[^1]
 
-An institution may decide to replicate the synopsis and/or shotlist of the Work in the Variant record and add in additional descriptions of any changes, e.g. particulars about some scenes added in for a Director's Cut version of a film. See [Work Chapter](/works/elements_of_a_work_variant/idex.md#sec-content_description).
+An institution may decide to replicate the synopsis and/or shotlist of the Work in the Variant record and add in additional descriptions of any changes, e.g. particulars about some scenes added in for a Director's Cut version of a film. See [Work Chapter](../../works/elements_of_a_work_variant/index.md#sec-content_description).
 
 Alternatively an institution may choose only to add information about the content of the moving image Variant where it differs from the content of the Work, rather than duplicate data.
 
@@ -240,7 +240,7 @@ Any other relevant information or clarifications pertaining to the Variant.
     Spartacus (United States of America, 1991)  
     Restored, re-edited version which reinserted shots and scenes cut from the original, one of which was a scene between        Tony Curtis and Laurence Olivier for which the original soundtrack was missing. For the redubbing, Anthony Hopkins did       the voice for Laurence Olivier's part. This scene was originally cut for censorship reasons as the dialogue touched on       homosexuality/bi-sexuality.
 
-For information about titling and structuring of Variant series/serials and newsreels/cinemagazines see [Titles and structuring of Variant series/serials](/titles/series_serials/index.md#sec-titles_of_series_serials).
+For information about titling and structuring of Variant series/serials and newsreels/cinemagazines see [Titles and structuring of Variant series/serials](../../titles/series_serials/index.md#sec-titles_of_series_serials).
 
 
 [^1]: Adapted from YCR, 1.2.16 Summary of genre, form, and subject matter of work, p. 38.

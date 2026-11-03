@@ -8,7 +8,7 @@ title: Other Relationships
 ### Other Relationships between Works and Other Works
 
 If other relationships[^1] are desired or appropriate, express relationships that are not covered by the Agent, Subject, and Event relationships, including all kinds of aggregation and re-use of Works and their Variants.
-(See [Aggregates (Compilations, Multi-component productions)](../../aggregates/index.md)).
+(See [Aggregates (Compilations, Multi-component productions)](../aggregates/index.md)).
 
 Record one or more “Other” relationship type terms to express the nature of the relationship to the Work or Variant, choosing the most specific term possible from a controlled list of values , for example, “based on,” “contained in,” etc. .
 A suggested list, which is open and not exhaustive, can be found in [Other Relationships for Works, Variants, Manifestations, Items](../other-relationships/other_relationships_for_works_variants_manifestations_items/index.md).
@@ -187,7 +187,7 @@ These may include compilations of convenience, i.e. where an institution has tra
 of two or more films onto one reel/tape/DVD etc. for convenient storage.[^4]
 
 Record one or more “Other” relationship type terms to express the nature of the relationship to the Item, choosing the most specific term possible from existing relator terms lists, for example, “accompanied by,” “contained in,” etc. Selection should be made from a controlled list of values.
-A suggested list, which is open and not exhaustive, can be found in [Item Other Relationship Types](/other-relationships/other_relationships_for_works_variants_manifestations_items/#sec-item_other_relationship_types).
+A suggested list, which is open and not exhaustive, can be found in [Item Other Relationship Types](../other-relationships/other_relationships_for_works_variants_manifestations_items/index.md#sec-item_other_relationship_types).
 
 In a note, add any additional information concerning the relationship considered relevant.
 

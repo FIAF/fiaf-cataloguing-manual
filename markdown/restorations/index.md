@@ -10,7 +10,7 @@ Where the original release may have been heavily cut and censored, or there were
 
 For a comprehensive discussion around the ethics of restoration, see the [FIAF Code of Ethics](https://www.fiafnet.org/pages/Community/fiaf-code-of-ethics-revised-2025-en.html#:~:text=1.6%20FIAF%20affiliates%20acknowledge%20the,one%20of%20its%20original%20formats) and further publications created by the [FIAF Technical Commission](https://www.fiafnet.org/pages/E-Resources/Technical-Commission-Resources.html).
 
-Restorations are also Variants/Versions. So they go through the same assessment as any Variant before cataloguing, i.e. deciding whether the restored version constitutes minor or major changes, see also [Boundaries between Works and Variants](/boundaries/boundaries_between_works_and_variants/index.md) and what, if any, new records may need to be created (depending on your data system and structures).
+Restorations are also Variants/Versions. So they go through the same assessment as any Variant before cataloguing, i.e. deciding whether the restored version constitutes minor or major changes, see also [Boundaries between Works and Variants](../boundaries/boundaries_between_works_and_variants/index.md) and what, if any, new records may need to be created (depending on your data system and structures).
 
 Cataloguing for Restoration projects usually involves two core aspects:
 
@@ -37,7 +37,7 @@ New Work with titling reflecting its nature, i.e. Film title [Restoration Produc
 
 Where a restoration involves substantial editing of the original Work, e.g. new found scenes which may change the whole storyline or its slant, or, in systems that do not use Variants, multiple new cast/credits that differ from or are in addition to those of the original Work; then a new Work for the restoration should be created.
 
-Further information regarding whether a new Work is needed or not can be found in the [Boundaries between Works](/boundaries/boundaries_between_works/index.md) and [Boundaries between Works and Variants](/boundaries/boundaries_between_works_and_variants/index.md) sections of this Manual.
+Further information regarding whether a new Work is needed or not can be found in the [Boundaries between Works](../boundaries/boundaries_between_works/index.md) and [Boundaries between Works and Variants](../boundaries/boundaries_between_works_and_variants/index.md) sections of this Manual.
 
 The original Work and any new restoration Work should be linked in an associative relationship with each other. The Restoration Manifestation, and its associated Items, should then be linked as part of the new Work.
 

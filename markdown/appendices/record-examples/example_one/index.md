@@ -1,11 +1,11 @@
 
-Example 1 depicts 3-level, 2-level and 1 level model hierarchies (see [Elements of description across Works, Variants, Manifestations, and Items](../../preliminary/core_elements_of_description/index.md#sec-elements_of_description)) for the same film.
+Example 1 depicts 3-level, 2-level and 1 level model hierarchies (see [Elements of description across Works, Variants, Manifestations, and Items](../../../preliminary/core_elements_of_description/index.md#sec-elements_of_description)) for the same film.
 
 In this first example, as an initial illustration,  the corresponding data of the core concepts has the same matching colours as used in the list below, and the core concept term is also given in italics and square brackets alongside the most equivalent field name.
 
-Fields and data in black are additional elements and data, that also mainly correspond with the wider Attributes, Elements and Relationships stipulated in CEN EN 15907 and found at [Moving Image Works](../../other-relationships/index.md#sec-moving_image_works), [Moving Image Manifestations](../../manifestations/index.md), and [Moving Image Items](../../items/index.md).
+Fields and data in black are additional elements and data, that also mainly correspond with the wider Attributes, Elements and Relationships stipulated in CEN EN 15907 and found at [Moving Image Works](../../../other-relationships/index.md#sec-moving_image_works_relationships_works), [Moving Image Manifestations](../../../manifestations/index.md), and [Moving Image Items](../../../items/index.md).
 
-Core concepts ([Core elements of description](../../preliminary/core_elements_of_description/index.md#sec-core_elements_of_description))
+Core concepts ([Core elements of description](../../../preliminary/core_elements_of_description/index.md#sec-core_elements_of_description))
 
 <span style="color:blue"> Title </span>  
 <span style="color:blue"> Series/Serial </span>  
@@ -386,4 +386,3 @@ Core concepts ([Core elements of description](../../preliminary/core_elements_of
 | Event type: Preservation Treatment: Damaged perforations on reels 2 and 7 repaired |  |
 | Treatment date: 1968-10-05 Technician: Joe Bloggs |  |
 | Event type: Acquisition Donor: FIAF Acquisition Date: 1959-09-03 |  |
-

@@ -16,7 +16,7 @@ The underlying philosophy is to associate as many titles to the respective entit
 The different titles types have been combined in a single section to aid in real-world cataloguing, where one may have an item-in-hand but be making assessments about the title of the Work or Variant associated with the Item, as well as physical characteristics that are particular to the Item but which do not signal a change in the content itself.
 This is often the case for archival moving images where titles can be readily changed, misidentified by a well-meaning collector, or completely eliminated before the material reaches an institution.[^1]
 
-For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see [Display Issues](/preliminary/display_issues/#sec-punctuation).
+For guidance on wording, order, spelling, punctuation, accentuation and capitalisation, see [Display Issues](../../preliminary/display_issues/index.md#sec-punctuation).
 
 For sources of information for the Title, see [Sources of Information](../../preliminary/prelim_sources_of_information/index.md#sec-prelim_sources_of_information).
 
@@ -24,12 +24,12 @@ Primary Title Types [^2]
 
 | **Work** | **Variant** | **Manifestation** | **Item** |
 | --- | --- | --- | --- |
-| [Identifiying](/titles/title_types/#sec-identifying_uniform_or_display) | [Identifiying](/titles/title_types/#sec-identifying_uniform_or_display) |  |  |
-| [Preferred](/titles/title_types/#sec-preferred) | [Preferred](/titles/title_types/#sec-preferred) |  |  |
-|  |  | [Title Proper](/titles/title_types/#sec-title_proper) | [Title Proper](/titles/title_types/#sec-title_proper) |
-| [Other title information](/titles/title_types/#sec-other_title_information) | [Other title information](/titles/title_types/#sec-other_title_information) | [Other title information](/titles/title_types/#sec-other_title_information) | [Other title information](/titles/title_types/#sec-other_title_information) |
-| [Alternative](/titles/title_types/#sec-alternative) | [Alternative](/titles/title_types/#sec-alternative) | [Alternative](/titles/title_types/#sec-alternative) | [Alternative](/titles/title_types/#sec-alternative) |
-| [Supplied/Devised](/titles/supplied_devised_titles/#sec-supplied_devised_titles) | [Supplied/Devised](/titles/supplied_devised_titles/#sec-supplied_devised_titles) | [Supplied/Devised](/titles/supplied_devised_titles/#sec-supplied_devised_titles) | [Supplied/Devised](/titles/supplied_devised_titles/#sec-supplied_devised_titles) | 
+| [Identifiying](../../titles/title_types/index.md#sec-identifying_uniform_or_display) | [Identifiying](../../titles/title_types/index.md#sec-identifying_uniform_or_display) |  |  |
+| [Preferred](../../titles/title_types/index.md#sec-preferred) | [Preferred](../../titles/title_types/index.md#sec-preferred) |  |  |
+|  |  | [Title Proper](../../titles/title_types/index.md#sec-title_proper) | [Title Proper](../../titles/title_types/index.md#sec-title_proper) |
+| [Other title information](../../titles/title_types/index.md#sec-other_title_information) | [Other title information](../../titles/title_types/index.md#sec-other_title_information) | [Other title information](../../titles/title_types/index.md#sec-other_title_information) | [Other title information](../../titles/title_types/index.md#sec-other_title_information) |
+| [Alternative](../../titles/title_types/index.md#sec-alternative) | [Alternative](../../titles/title_types/index.md#sec-alternative) | [Alternative](../../titles/title_types/index.md#sec-alternative) | [Alternative](../../titles/title_types/index.md#sec-alternative) |
+| [Supplied/Devised](../../titles/supplied_devised_titles/index.md#sec-supplied_devised_titles) | [Supplied/Devised](../../titles/supplied_devised_titles/index.md#sec-supplied_devised_titles) | [Supplied/Devised](../../titles/supplied_devised_titles/index.md#sec-supplied_devised_titles) | [Supplied/Devised](../../titles/supplied_devised_titles/index.md#sec-supplied_devised_titles) | 
 
 <a id="sec-preferred"></a>
 ## Preferred
@@ -63,7 +63,7 @@ If multiple additions must be made to the title field in order to identify the W
     Blade runner. Final Cut. 1982
 
 Possible qualifiers include content terms. See a [List of form terms for
-Supplied/Devised titles](/titles/supplied_devised_titles/#sec-list_of_form_terms_for_supplied_devised_titles), corporate bodies that are not principal creators of the Work/Variant but are closely associated with the Work/Variant and useful for identification of it, place of publication/release/distribution/broadcast, and date of publication/release/distribution/broadcast.[^7]
+Supplied/Devised titles](../../titles/supplied_devised_titles/index.md#sec-list_of_form_terms_for_supplied_devised_titles), corporate bodies that are not principal creators of the Work/Variant but are closely associated with the Work/Variant and useful for identification of it, place of publication/release/distribution/broadcast, and date of publication/release/distribution/broadcast.[^7]
 
 Works:
 
@@ -154,7 +154,7 @@ If a general material designation is used, place it after the preferred title an
 <a id="sec-abridging_or_omitting_other_title_information"></a>
 ### Abridging or omitting other title information
 If other title information is lengthy or of very minor importance, either give it in a note or omit it.
-See [Cataloguer’s Notes](/appendices/catalogers_notes).
+See [Cataloguer’s Notes](../../appendices/cataloguers-notes/index.md).
 Abridge other title information only if this can be done without essential loss of information.[^13]
 
 If other title information is clearly of very minor importance, for example a newsreel slogan, or it is an avant-titre which grammatically cannot follow the title proper, place it in a note.[^14]
@@ -319,6 +319,3 @@ For parallel titles of a Manifestation distributed in distinct geographical regi
 [^24]: FIAF, 1.3. Parallel title, p. 22.
 [^25]: FIAF, 1.3.4., pp. 23-24.
 [^26]: Differences between FIAF 1992 and RDA: FIAF expands the concept of Parallel title to any title qualifying as an original but not used as a title proper (the attempt was to include as many alternative titles as possible), but gives to the archives the responsibility to decide whether to enter them in the appropriate area or in the Notes area. RDA makes a distinction among the different characteristics of a title and considers the parallel title strictly as “the title proper in another language or script”. In this context the RDA approach has been considered more appropriate.
-
-
-

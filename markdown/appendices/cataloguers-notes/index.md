@@ -8,7 +8,7 @@ It includes information that does not readily fit into dedicated fields or other
 The extent and specificity of notes will depend upon factors such as staff, viewing facilities, documentation, system designs, etc.[^1]
 
 Take information recorded in notes from any suitable source.
-When creating the note, apply the guidelines on [Punctuation and Capitalisation](/preliminary/display_issues/index.md).
+When creating the note, apply the guidelines on [Punctuation and Capitalisation](../../preliminary/display_issues/index.md).
 
 Institutions may establish more rigorous, local guidelines as to the order of information in the notes area.
 For example, when recording notes which further describe data elements already catalogued, some institutions may stipulate the order of notes follow a particular sequence wherever possible, e.g., title, statement of responsibility, edition/version/variation, production, distribution, etc.; or, when uniformity of presentation assists in the recognition of the type of information being presented or gives economy of space without loss of clarity.[^2]
@@ -60,4 +60,3 @@ The following instructions for notes should be considered neither all-inclusive 
 [^3]: Adapted from FIAF 7.1.3 Form of notes
 [^4]: Based on RDA 5.9.1.3 and 8.13.1.3 Making Cataloguer’s Notes
 [^5]: Based on FIAF 7.2. Notes
-
