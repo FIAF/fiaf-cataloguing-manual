@@ -22,7 +22,7 @@ As existing Items are inspected and assessed as part of the materials selection 
 
 Similarly, extra research carried out as part of a restoration project may provide further relevant information about both the original Work and restoration(s) that can be added to the Work record to enhance it, e.g. missing credits, production details, etc.
 
-Restorations are linked to [Events](/events/further_event_types/#sec-preservation_restoration_event) and [Agents](/agents/agents/index.md).
+Restorations are linked to [Events](../events/further_event_types/index.md#sec-preservation_restoration) and [Agents](../agents/index.md).
 
 ## Restorations - Works/Variants
 

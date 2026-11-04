@@ -41,11 +41,13 @@ External links use standard Markdown syntax:
 [FIAF Cataloguing Manual](https://www.fiafnet.org/pages/E-Resources/Cataloguing-Manual.html)
 ```
 
-Internal links reference the site path and anchor:
+Internal links use a path relative to the current page, optionally followed by an anchor. For example, from `markdown/restorations/index.md`:
 
 ```md
-[Extent of a Manifestation](/manifestations/elements_of_a_manifestation/#sec-extent_of_a_manifestation)
+[Extent of a Manifestation](../manifestations/elements_of_a_manifestation/index.md#sec-extent_of_a_manifestation)
 ```
+
+Do not start internal page links with `/`. MkDocs leaves absolute `.md` links unprocessed, and a leading slash points to the domain root, which breaks on GitHub Pages, where the site is served from `/fiaf-cataloguing-manual/`.
 
 **Examples**
 
@@ -71,10 +73,14 @@ Tables use standard Markdown syntax:
 
 **Diagrams**
 
-Diagram images are stored in `markdown/diagrams/` and inserted with standard Markdown image syntax:
+Diagram images are stored in `markdown/diagrams/` (and images in `markdown/images/`). Reference them from the site root:
 
-```md
-![Figure 1](/diagrams/figure_01.png)
+```html
+<center><object data="/diagrams/figure_01.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 ```
+
+A build hook (`hooks/content_paths.py`) rewrites these root-absolute paths to page-relative paths during the build, so they work on GitHub Pages and do not need to be changed when a page moves.
+
+Standard Markdown images work too: `![Figure 1](/diagrams/figure_01.drawio.svg)`.
 
 Source files for regenerating diagrams are in `scripts/diagrams/`. Contact the manual administrator for the creation of new diagrams.

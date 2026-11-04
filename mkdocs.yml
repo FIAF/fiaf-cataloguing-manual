@@ -4,6 +4,7 @@ docs_dir: markdown
 repo_url: https://github.com/FIAF/fiaf-cataloguing-manual
 repo_name: FIAF/fiaf-cataloguing-manual
 edit_uri: edit/develop/markdown/
+site_url: https://fiaf.github.io/fiaf-cataloguing-manual/
 
 
 
@@ -44,6 +45,10 @@ theme:
 
 extra_css:
   - assets/extra.css
+
+# Rewrite root-absolute content URLs so they work under the GitHub Pages subpath.
+hooks:
+  - hooks/content_paths.py
 
 plugins:
   - search
