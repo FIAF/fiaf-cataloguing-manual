@@ -413,8 +413,8 @@ Individual institutions may also choose to capture further data as required, e.g
 [^2]: Based on EN 15907, Instantiation type
 [^3]: EN 15907, “Inventory number,” p. 12
 [^4]: See The FIAF Cataloguing Rules for Film Archives (1991). 5. Physical Description. Introduction
-[^5] Based on EN 15907, General Carrier Type
-[^6] Based on EN 15907, Specific Carrier Type
+[^5]: Based on EN 15907, General Carrier Type
+[^6]: Based on EN 15907, Specific Carrier Type
 [^7]: RDA 7.17.3 Colour of Moving Image
 [^8]: ISO 8601
-[^7]: Based on RDA 2.20.1.Basic Instructions on Making Notes on Manifestations or Items
+[^9]: Based on RDA 2.20.1.Basic Instructions on Making Notes on Manifestations or Items
