@@ -26,7 +26,7 @@ Optionally, if the Agent is credited under a name that is not identical with the
 
 Optionally, record multiple instances of Agent, e.g., cast and credits, associated with [aggregated Works or Variants](../../aggregates/credits_agents_for_aggregates/index.md).
 
-Variants may include both the Agents of the original Work and of the particular Variant, or just those pertaining to the particular Variant, e.g. additional cast in reinserted scenes in a Director’s Cut, new credits relating to digital special effects in a special edition with new CGI effects, cast used for a dubbed version, etc. 
+Variants may include both the Agents of the original Work and of the particular Variant, or just those pertaining to the particular Variant, e.g. additional cast in reinserted scenes in a Director’s Cut, new credits relating to digital special effects in a special edition with new CGI effects, cast used for a dubbed version, etc.[^3] 
 
 <a id="sec-core_agent_activity_works_variants"></a>
 ## Core Agent Activities for Works or Variants
@@ -37,7 +37,7 @@ Choose the single most specific term, if possible. Selection should be made from
 https://www.fiafnet.org/pages/e-resources/glossary.html). 
 
 If no suggested terms apply, compose a term to describe the relationship between the Agent and the Work or Variant being catalogued. 
-If the relationship is ambiguous, use a value to indicate this, for example, “unknown” or “on-screen participant” to indicate a person appearing on screen in a capacity that is indeterminate or not covered by typical terms.[^3] 
+If the relationship is ambiguous, use a value to indicate this, for example, “unknown” or “on-screen participant” to indicate a person appearing on screen in a capacity that is indeterminate or not covered by typical terms.[^4] 
 Optionally, when the role performed by an Agent is probable but not certain, provide the function name followed by a question mark. 
 
 It is recommended to capture these core credits on a moving image record as far as possible and where applicable Here are some suggestions for core Agent Activities, which pertain mostly to current productions and don't mention historical Activities. It should be noted, that these historical functions changed quite a bit over time and also depended on the studios and generally production context.
@@ -131,7 +131,7 @@ Record in a note any additional details that cannot be expressed through control
 If a name is known to be fictitious, or requires clarification, make a note giving the actual name. 
 
 If more than one Agent is associated with a particular role connected with a Work or Variant or related Event, where possible or desirable, record the names in the order indicated by the sequence, layout, or typography of the names on the source of information. 
-Preserving the ordering of the credited persons should be determined by the requirements of individual institutions.[^4] 
+Preserving the ordering of the credited persons should be determined by the requirements of individual institutions.[^5] 
 
 !!! example "Example"
     Les Enfants du paradis 
@@ -256,5 +256,6 @@ In many database systems there are specific Credits and Cast sections to records
 
 [^1]: EN 15907, 5.1 Agent
 [^2]: 1991 FIAF Cataloguing Rules for Film Archives – Statements of Responsibility, p. 35.
-[^3]: ist of relator terms are a combination of those found in YCR, 1.3.2. Other creators, pp. 42-43; and, OLAC TF, Part II, Core Attributes and Relationships, Commonly-Occurring Roles, pp. 16-18.
-[^4]: FIAF, 1.6.2, pp. 36-37.
+[^3] See known AI sourced issue for some overlaid credits found on subtitled Variants [LINK TO PRELIMINARY - sOURCES OF INFORMATION SECTION] 
+[^4]: ist of relator terms are a combination of those found in YCR, 1.3.2. Other creators, pp. 42-43; and, OLAC TF, Part II, Core Attributes and Relationships, Commonly-Occurring Roles, pp. 16-18.
+[^5]: FIAF, 1.6.2, pp. 36-37.
