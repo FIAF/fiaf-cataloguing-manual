@@ -111,6 +111,12 @@ The above examples of language term and usage type relate to instances of one pa
 
 There are different options for capturing this, depending on the systems used, materials acquired, and decisions made by your institution on the extent of data to be captured.
 
+There are largely three main possible approaches:
+
+1.	Core description: record only the principal or relevant language(s) necessary for identification and access.  
+2.	Extended Manifestation/Item description: distinguish the language actually presented from additional selectable dubbed       and/or subtitled languages.  
+3.	Full descriptive approach: record the complete language configuration when this is significant for an institution's          collection, users, preservation responsibilities or access requirements.  
+
 Ideally, if desiring to capture all the language options of a digital entity, it would be best to have a further separate language section and fields within the Manifestation record. This is in order to distinguish clearly between the actual presence of particular spoken and/or subtitled languages on the soundtrack of the original moving image (or particular Manifestation of the moving image) and the selective choice options of other dubbed or subtitled alternative language(s), i.e. fields for Language and Usage and fields for alternative Selectable Language and Usage.
 
 !!! example "Example"
@@ -124,17 +130,27 @@ It is not necessary to create a new Variant/Manifestation for each selectable la
 
 In 3-level hierarchy systems that allow one Item to link to multiple parent Manifestations then each language option could be reflected with its own Manifestation if desired, e.g.
 
+
 <center><object data="/diagrams/manif_multi_lang_threelevel.drawio.svg" type="image/svg+xml" width="80%"></object></center>
+
 
 Similarly, in systems where Variants are used that allow one Manifestation to link to multiple parent Variants then each language option could be reflected with its own Variant all linked to the one Manifestation and Item, if desired. This would also be the structuring that is RDA compliant (if following the RDA standard then Variants will be called Expressions), e.g.
 
+
 <center><object data="/diagrams/manif_multi_lang_rda.drawio.svg" type="image/svg+xml" width="80%"></object></center>
 
-However, a similar ambiguity to that of utilising the one language field for both actual and selectable languages could arise. So notes would be needed on the Manifestation/Item to clarify that there are selectable languages for the user to choose on the one entity, not that it is an Aggregate consisting of three versions of the film itself one after the other and all on one Blu Ray.
 
-If capturing Selectable language(s) information it is also important to have the same fields and fill in this same information on the Item record too, as it may sometimes be different to the Manifestation. An acquired digital file of a streamed moving image may be a recording of what was streamed, which is likely to default to the most appropriate language version for the streaming country in which it was recorded, and as a recording will not therefore necessarily include all the other language options as well. Equally, if acquired directly from the streaming company, then an institution's deliverable specifications in agreements with the company may only be to include one, or a few, set(s) of language subtitles, namely just those in the language(s) of the institution's own country.
+However, a similar ambiguity to that of utilising the one language field for both actual and selectable languages could arise. So notes would be needed on the Manifestation/Item to clarify that there are selectable languages for the user to choose on the one entity, not that it is an Aggregate consisting of three versions of the film itself one after the other and all on one Blu Ray.  
 
-Alternatively, an insitution may take the stance that multiple language choice options are a known integral part of any DVD, Blu Ray, and digital streaming - whether one or two dubbed/subtitled language options, or twenty plus options - and do not necessarily all need to be captured on the Manifestation/Item in their records. If the focus or interest of their users is most likely to be for accessing a moving image in their own spoken or subtitled language then an institution may decide to prioritise just that in the Language and Usage fields of their relevant Manifestation/Item records.
+If capturing Selectable language(s) information it is also important to have the same fields and fill in this same information on the Item record too, as it may sometimes be different to the Manifestation. 
+
+An acquired digital file of a streamed moving image may be a recording of what was streamed, which is likely to default to the most appropriate language version for the streaming country in which it was recorded, and as a recording will not therefore necessarily include all the other language options as well. Equally, if acquired directly from a streaming company, then an institution's deliverable specifications in agreements with the company may only be to include one, or a few, set(s) of language subtitles, namely just those in the language(s) of the institution's own country.  
+
+It is also possible that language(s) are added as part of digitalisation, preservation or other technological processes so it will be important to be able to specify which languages were added in relation to particular Items in those instances.  
+
+The Item should record the actual characteristics of the material held by an institution rather than simply inherit all the possibilities of the Manifestation.  
+
+Alternatively, an insitution may take the stance that multiple language choice options are a known integral part of any DVD, Blu Ray, and digital streaming - whether one or two dubbed/subtitled language options, or twenty plus options - and do not necessarily all need to be captured on the Manifestation/Item in their records. If the focus or interest of their users is most likely to be for accessing a moving image in their own spoken or subtitled language then an institution may decide to prioritise just that in the Language and Usage fields of their relevant Manifestation/Item records, taking the "core description" approach.  
 
 <a id="sec-format_of_a_moving_image_manifestation"></a>
 ## Format of a Moving Image Manifestation
