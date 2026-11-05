@@ -4,19 +4,19 @@ In this second example, the corresponding data of the core concepts also has the
 
 Core concepts ([[Core elements of description](../../../preliminary/core_elements_of_description/index.md#sec-core_elements_of_description))
 
-<span style="color:blue"> Title  
-<span style="color:blue"> Series/Serial  
-<span style="color:brown"> Cast  
-<span style="color:brown"> Credits  
-<span style="color:turquoise"> Country of reference  
-<span style="color:purple"> Original format  
-<span style="color:orange"> Original Length  
-<span style="color:orange"> Original duration  
-<span style="color:grey"> Language  
-<span style="color:magenta"> Year of reference  
-<span style="color:grey"> Identifier  
-<span style="color:green"> Subject/genre/form  
-<span style="color:green"> Content description  
+<span style="color:blue"> Title</span>  
+<span style="color:blue"> Series/Serial</span>  
+<span style="color:brown"> Cast</span>  
+<span style="color:brown"> Credits</span>  
+<span style="color:turquoise"> Country of reference</span>  
+<span style="color:purple"> Original format</span>  
+<span style="color:orange"> Original Length</span>  
+<span style="color:orange"> Original duration</span>  
+<span style="color:grey"> Language</span>  
+<span style="color:magenta"> Year of reference</span>  
+<span style="color:grey"> Identifier</span>  
+<span style="color:green"> Subject/genre/form</span>  
+<span style="color:green"> Content description</span>  
 
 | **WORK** |  |  |  |  |
 | --- | --- | --- | --- | --- |
