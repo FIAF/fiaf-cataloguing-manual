@@ -46,9 +46,11 @@ theme:
 extra_css:
   - assets/extra.css
 
-# Rewrite root-absolute content URLs so they work under the GitHub Pages subpath.
 hooks:
+  # Rewrite root-absolute content URLs so they work under the GitHub Pages subpath.
   - hooks/content_paths.py
+  # Keep table cells as separate search-index blocks so previews don't show whole tables.
+  - hooks/search_tables.py
 
 plugins:
   - search
