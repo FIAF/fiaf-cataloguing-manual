@@ -58,11 +58,11 @@ Without Docker (Python 3.12 recommended):
 ```sh
 python3 -m venv .venv
 source .venv/bin/activate
-pip install -r requirements.txt
+pip install -r requirements.txt 
 mkdocs serve
 ```
 
-The site is served at `http://localhost:8000`.
+The site is served at `http://localhost:8000`. 
 
 ### Deployment
 
