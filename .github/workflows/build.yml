@@ -9,6 +9,9 @@ permissions:
 
 jobs:
   deploy:
+  
+    if: github.ref == 'refs/heads/develop'
+  
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
