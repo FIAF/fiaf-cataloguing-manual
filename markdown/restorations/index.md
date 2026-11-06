@@ -103,4 +103,4 @@ The same data can be collected, grouped and recorded in any system. For example:
 
 If an index card catalogue, or non-relational database, then add the information to an existing record for the original film, possibly under a heading of “Restoration version + [date]”. The original source of any new Items for the project should also be recorded. Or else create a new record for the restoration version, and add the details on that, relating it to the original film record using a “See also” reference
 
-[^1] ADD LINK TO https://www.fiafnet.org/pages/E-Resources/Technical-Terms-Full-List.html#R
+[^1]: FIAF, “Restoration,” [Glossary of Technical Terms](https://www.fiafnet.org/pages/E-Resources/Technical-Terms-Full-List.html#R).

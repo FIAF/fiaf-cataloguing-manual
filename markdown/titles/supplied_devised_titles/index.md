@@ -481,7 +481,7 @@ NBC programs (a collection of promos for NBC programs) - The Three Musketeers. (
 | unedited sound track | For unedited sound track recorded for a particular moving image. | - Stargate: The Ark of Truth. Unedited sound track |
 
 
-[^1]; Based on OLAC (2009), Part 3a, pp. 8-9.
+[^1]: Based on OLAC (2009), Part 3a, pp. 8-9.
 [^2]: This section, including form terms and examples, is based on or taken from FIAF 1.4.3 Additions to titles;Yee/UCLA 5.1.2; AMIM2 1F1.1
 [^3]: This section, including form terms and examples, is based on or taken from FIAF 1.4.3 Additions to titles;Yee/UCLA 5.1.2; AMIM2 1F1.1
 [^4]: Taken almost wholly from Yee/UCLA, 5.2.2.1. Unidentified materials released or broadcast with a title
@@ -492,3 +492,4 @@ NBC programs (a collection of promos for NBC programs) - The Three Musketeers. (
 [^9]: DACS, 2.3.4, p. 18.
 [^10]: DACS, 2.3.4, p. 18.
 [^11]: Adapted from DACS, 2.3.22, p. 22.
+[^44]: See [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](#sec-supplied_devised_titles) and examples of titling.
