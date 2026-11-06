@@ -62,7 +62,7 @@ pip install -r requirements.txt
 mkdocs serve
 ```
 
-The site is served at `http://localhost:8000`.
+The site is served at `http://localhost:8000`. 
 
 ### Deployment
 
