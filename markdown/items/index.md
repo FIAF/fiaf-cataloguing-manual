@@ -45,11 +45,9 @@ Cataloguing digital Items has become a lot more important and less streamlined. 
 
 An analogue feature film with 5 reels/cans of a duplicate negative image and negative optical sound has each been scanned for a restoration project. The aim was to create a DCP for cinema screenings and a viewing file for streaming.
 
-For a more detailled discussion of the term restoration see also the [Appendix](../restorations/index.md).
+For a more detailed discussion of the term "restoration" see also the [Appendix](../restorations/index.md).
 
 Question: How to catalogue these Items?
-
-Answer: One way to do it, would be to link all the digital Items with the Manifestation associated with the source Item, and create the digital Items as:  
 
 - Item 1: Raw Scan of the soundtrack (5 Item-parts)  
 - Item 2: Raw Scan of the image (5 Item-parts)  
@@ -57,7 +55,19 @@ Answer: One way to do it, would be to link all the digital Items with the Manife
 - Item 4: Viewing File (combined sound+image made from Master) (1 Item-part)  
 - Item 5: DSM (1 Item-part, made from both Raw Scans)  
 - Item 6: DCDM (1 Item-part, made from the DSM)  
-- Item 7: DCP (1 Item-part, made from the DCDM)
+- Item 7: DCP (1 Item-part, made from the DCDM)  
+
+Whereby:  
+
+-  the 5 reels of 35mm negative sound are the source for the 5 files of Raw scan soundtrack Item
+-  the 5 reels of 35mm negative image are the source for the 5 files of Raw scan image Item
+-  both the Raw scan soundtrack Item and Raw scan image Item were used to create the Master file
+-  the Master file is the source for the Viewing file
+-  both the Raw scan soundtrack Item and Raw scan image Item were used to create a DSM
+-  the DSM is the source for the DCDM
+-  the DCDM is the source for the DCP
+
+Answer: One way to do it, would be to link all the digital Items with the Manifestation associated with the source Item, and create the digital Items as:  
 
 
 <br><center><object data="/diagrams/digit_item4dgrmsize.drawio.svg" type="image/svg+xml" width="100%"></object></center>
@@ -66,7 +76,7 @@ Another, and more advisable way since this relates to a restoration project, wou
 
 <br><center><object data="/diagrams/digit_item5a.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
-Or even to create other additional new Manifestations with relevant types and linking the various digital files under these as relevant, so that five of the digital files are linked to a Restoration Manifestation, the DCP file is linked to a Theatrical release Manifestation, and the Viewing file to an Internet Manifestation, e.g.
+Or even to create other additional new Manifestations with relevant types and linking the various digital files under these as appropriate, so that five of the digital files are linked to a Restoration Manifestation, the DCP file is linked to a Theatrical release Manifestation, and the Viewing file to an Internet Manifestation, e.g.
 
 <br><center><object data="/diagrams/digit_item7.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
