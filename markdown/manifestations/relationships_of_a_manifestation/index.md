@@ -8,12 +8,11 @@ Instead they recommend that certain relationships be established without instruc
 
 A Manifestation may have relationships with the following:
 
-- [Agent(s)](../../agents/agents_for_works_variants/index.md)
-- [Event(s)](../../works/relationships_of_a_work_variant/index.md)
-- [Other Relationships](../../other-relationships/other_relationships_for_works_variants_manifestations_items/index.md#sec-manifestation_other_relationship_types)
-- [Item(s)](../../items/index.md#sec-moving_image_items)
 - [Work(s)](../../works/index.md#sec-moving_image_work)
 - [Variant(s)](../../variants/index.md#sec-moving_image_variant)
+- [Item(s)](../../items/index.md#sec-moving_image_items)
+- [Agent(s)](../../agents/agents_for_works_variants/index.md)
+- [Event(s)](../../works/relationships_of_a_work_variant/index.md)
 - [Other Relationships](../../other-relationships/other_relationships_for_works_variants_manifestations_items/index.md#sec-manifestation_other_relationship_types)
 
 
