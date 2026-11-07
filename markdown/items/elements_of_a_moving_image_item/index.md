@@ -1,14 +1,19 @@
 
 
-A majority of the physical and digital description elements of moving image Items are intended to be inherited from the Manifestations, as they serve as the exemplars of Manifestations.
-In some databases, selection of a general media type initiates provision of element fields relevant to that type at a Manifestation level, or an Item level, or both (e.g. in a 2 Level hierarchy.
-See “Shallow hierarchy model: 2 levels” in [Elements of description across Works, Variants, Manifestations, and Items](../../preliminary/core_elements_of_description/index.md#sec-elements_of_description)).
+A majority of the physical and digital description elements of moving image Items are intended to be inherited from their associated Manifestations. This allows information common to the relevant Items to be recorded once at Manifestation level and made available within their descriptions.
+
+The way this information is made available depends on the cataloguing system. Some systems support inheritance or display information from linked Manifestation records; others require relevant information to be recorded directly at Item level. Where inheritance is not supported, record the information needed to identify and describe the Item within the available structure.
+
+In applying this principle, account should be taken of the nature of the associated materials. A Manifestation may describe copies of a particular release, but it may also bring together varied production materials or, according to institutional practice, source materials and derivatives in different formats. Item descriptions should therefore identify characteristics specific to each object and make clear which Manifestation-level information applies. Information describing some associated Items should not inadvertently be presented as a characteristic of every Item linked to that Manifestation (see [Moving Image Manifestations](../../manifestations/index.md#sec-moving_image_manifestations)).
+
+In some databases, selection of a format or broad format category initiates provision of element fields relevant to that format at a Manifestation level, an Item level, or both, for example in a 2-Level hierarchy.
+See “Shallow hierarchy model: 2 levels” in [Elements of description across Works, Variants, Manifestations, and Items](../../preliminary/core_elements_of_description/index.md#sec-elements_of_description).
 
 Ideally the information need only be recorded once irrespective of where in the data structure an institution must place it.
 Therefore guidelines for the treatment of physical/digital description elements are explained fully in the Manifestation chapter.
 
 This chapter contains Item-specific physical/digital description elements beginning at [Item Specifics/Extent](../../items/elements_of_a_moving_image_item/index.md#sec-item_specifics_extent).
-For example, properties such as Extent and Format at the Manifestation level represent the “ideal,” and item-specific information will capture where it differs from this ideal.
+Where properties such as Extent and Format at Manifestation level describe an expected or “ideal” release, Item-specific information records the actual material and any differences from that reference. Where the Manifestation groups varied materials, each Item should be described on its own terms rather than as a deviation from a single ideal object.
 Only elements that are considered Item-specific have guidelines for the recording of data.
 Physical/digital description elements that are considered Manifestation-specific, but which may be repeated at the Item level, contain hyperlinks to the relevant sections in the Manifestation chapter.
 
@@ -22,9 +27,9 @@ A useful collection of technical metadata on digital Items as well as data colle
 ## Identifier
 Create an unambiguous numerical or alphanumerical reference to the moving image Item, such as a call number, barcode, shelf mark, UUID or similar, to uniquely identify the copy.[^3] This may be in addition to separate Acquisition and Accession number(s) or identifier(s). More information on [Acquisition](../../events/further_event_types/index.md#sec-acquisition).
 
-For digital files, the filename is not an identifier since filenames can change. Filenames are unreliable for uniquely identifying digital objects due to several limitations: users or systems may rename files, causing loss of reference; different versions of the same files from multiple sources can share identical names; and, changing storage locations makes filenames unreliable for tracking. Moreover different systems and organisations may use varying file-naming schemes and have limited interoperability.
+For digital objects, assign an identifier to the object being described, whether it comprises one file or several. Do not rely solely on a filename or directory path: names and locations may change, and different files may share the same name. Retain filenames as technical metadata and record identifiers for components or individual files where needed. An object-level identifier does not require a separate catalogue record for every file.
 
-Digital systems use UUID (Universally Unique Identifier), Internal Database IDs and Persistent Identifiers, which, unlike UUIDs, may not be globally unique but are essential for internal collection management and control. They play a crucial role in organising and archiving digital content, ensuring unambiguous identification within asset management systems.  This means that the filename is tracked as part of the technical metadata associated with a digital item.
+Digital systems may use UUIDs (Universally Unique Identifiers), internal database identifiers, or persistent identifiers. Record the identifier scheme or namespace where necessary to make the reference unambiguous. Identifiers and links should connect the Item description to the corresponding digital object and, where applicable, to metadata held in linked systems, independently of its current storage location.
 
 As with Work, Variant and Manifestation Identifiers, besides its one unique identifier an Item can have more than one Identifier.
 

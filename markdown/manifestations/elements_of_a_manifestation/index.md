@@ -155,22 +155,22 @@ Alternatively, an insitution may take the stance that multiple language choice o
 <a id="sec-format_of_a_moving_image_manifestation"></a>
 ## Format of a Moving Image Manifestation
 As previously mentioned, a Manifestation is defined on the basis of two criteria: changes in the publication context and changes in format.
-The format of a Manifestation is the description of the physical artefact or the digital file on which it is fixed.
-The concept of format as applied to Manifestations is the “ideal” representation of all the physical items or computer files that bear the same characteristics and descend from a common Work/Variant, regardless of what is actually held in a collection.
+Physical and digital description records technical characteristics such as format, projection, sound, and colour. For a Manifestation describing a particular release or edition, its expected characteristics can provide a reference for the associated Items, regardless of which Items are held in a collection.
 
-A majority of the physical and digital description elements of moving image Manifestations are intended to be inherited by the Items, as they serve as the exemplars of Manifestations.
-In some databases, selection of a physical media type initiates provision of element fields relevant to that type at a Manifestation level, or an Item level, or both (e.g.
-in a 2-Level hierarchy.
-See “Shallow hierarchy model: 2 levels” found at [Elements of description across Works, Variants, Manifestations, and Items](../../preliminary/core_elements_of_description/index.md#sec-elements_of_description)).
+This reference does not imply that every Item associated with a Manifestation has the same technical characteristics. As explained in [Moving Image Manifestations](../index.md#sec-moving_image_manifestations), a Pre-Release Manifestation may group different production materials, and institutions may associate in-house derivatives with the same Manifestation as their sources. A single “ideal” technical format need not apply to every Item in such a grouping.
+
+Manifestation-level characteristics may be reused in Item descriptions where they apply to the object being described. Item descriptions should record the actual characteristics of each object; characteristics should not be assumed to apply solely because the Item is linked to that Manifestation.
+In some databases, selection of a format or broad format category initiates provision of element fields relevant to that format at a Manifestation level, an Item level, or both, for example in a 2-Level hierarchy.
+See “Shallow hierarchy model: 2 levels” found at [Elements of description across Works, Variants, Manifestations, and Items](../../preliminary/core_elements_of_description/index.md#sec-elements_of_description).
 
 Ideally the information need only be recorded once irrespective of where in the data structure an institution must place it.
 Therefore guidelines for the treatment of high-level physical and digital description elements are explained fully in the Manifestation chapter.
 The Item chapter contains a detailed listing of item-specific elements.
-Physical properties such as Extent and Format at the Manifestation level represent the “ideal,” and item-specific elements will capture where it differs from this “ideal” at the Item level.
+Where Extent and Format at Manifestation level describe an expected or “ideal” release, Item-specific information records the actual material and any differences from that reference. Where the Manifestation groups varied materials, describe each Item on its own terms rather than treating its different characteristics as deviations from a single ideal object.
 
-The information about the format of a Manifestation plays a relevant role because any change in format represents a criterion to determine the boundaries between one Manifestation and another (see [Boundaries between Manifestations](../../boundaries/boundaries_between_manifestations/index.md)).
+Differences in format can help distinguish Manifestations. Apply the criteria below together with the institutional options described in [Boundaries between Manifestations](../../boundaries/boundaries_between_manifestations/index.md), including the option of associating an in-house copy in a different format with the same Manifestation as its source.
 
-Record a new Manifestation of a Work/Variant when there is evidence of at least one, or more than one, of the following changes associated with the format:
+Subject to those institutional options, record a new Manifestation of a Work/Variant when there is evidence of one or more of the following changes associated with the format:
 
 - Changes to the physical artefact or the digital file on which it is fixed
 - Changes to the display characteristics (i.e. in aspect ratio, sound or colour characteristics, etc.)
