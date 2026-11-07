@@ -355,24 +355,27 @@ If the Work/Variant associated with the Manifestation in hand was silent origina
 
 <a id="sec-colour_characteristics_of_a_manifestation"></a>
 ### Colour Characteristics of a Manifestation
-The presence of colour(s), tone(s), etc. in a Manifestation.[^11]
+Distinguish the colour appearance of the image from the technical means used to produce or encode it.[^11] Colour appearance describes what is visible, including black and white, colour, and the appearance of tinting or toning.[^12] The technical description identifies the colour system, process, or digital encoding used. A particular appearance does not, by itself, establish how it was produced.
 
-Colour is also the specific colours, tones, etc. (including black and white) present in a moving image contained in a Manifestation.[^12]
+**Colour appearance**
 
-It consists of a designation of the colour state and, optionally, of the description of the colour system.
-
-Record the colour state of a Manifestation. Selection should be made from a controlled list of terms, e.g.:
+Record the colour characteristics of the image represented by the Manifestation, including black and white, tinting, toning, or combinations of colour and black and white. Where these characteristics vary between sections, describe the variation as needed. Select terms from a controlled vocabulary, for example:
 
 - Colour
-- Colour + Black & White
-- Tinted
 - Black and white
-- Black and white (tinted)
-- Black and white (toned)
-- Black and white (tinted and toned)
-- Sepia
+- Tinted
+- Toned
+- Tinted and toned (both present in the same image)
 
-Optionally, if considered relevant, describe the system or process by which colour is fixed on the carrier or as part of the digital encoding. Selection should be made from a controlled list of terms, e.g.:
+More specific vocabulary terms may identify particular tint colours or toning processes, such as blue tinting or sepia toning. These can support searching by the particular treatment or colour represented. Distinguish a process applied to the material from its appearance reproduced in a copy.
+
+Tinting and toning can be described both as processes applied to film material and as colour appearances. State which meaning is intended. A film element may have undergone tinting or toning, while a photographic or digital copy may reproduce that appearance without having undergone the same process.
+
+For digital Manifestations and Items, terms such as Tinted or Toned may describe the colour appearance reproduced in the image, rather than a physical treatment of the digital object. Make this distinction clear in the description.
+
+**Colour systems and processes**
+
+Where relevant, also record the colour system or process used. Record the actual tinting or toning process applied to source film material separately where known. Select terms from a controlled vocabulary, for example:
 
 - Pathécolor
 - Technicolor
@@ -383,8 +386,11 @@ Optionally, if considered relevant, describe the system or process by which colo
 - Kodachrome
 - Eastmancolor
 
-- RGB
-- YUV
+**Digital colour encoding**
+
+For digital materials, distinguish the image's colour appearance from its colour encoding. RGB and YUV describe colour models, not film colour processes, and do not, by themselves, establish that the image is in colour. Record relevant digital colour-encoding information separately where needed.
+
+Manifestation-level information should describe characteristics applicable to the associated Items; record Item-specific characteristics and differences in the Item descriptions. These groupings do not require separate database fields.
 
 <a id="sec-extent_of_a_manifestation"></a>
 ## Extent of a Manifestation[^1]

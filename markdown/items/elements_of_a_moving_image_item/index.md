@@ -232,9 +232,11 @@ These characteristics are not mutually exclusive; record the applicable system a
 ### Colour
 For full instructions, see [Colour Characteristics of a Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-colour_characteristics_of_a_manifestation).
 
-The presence of colour(s), tone(s), etc. in an Item.[^7]
+Record the colour characteristics of the image present in the Item, including black and white or combinations of colour and black and white.[^7] Where characteristics vary between components or sections, describe the variation as needed.
 
-Record only if this information is not captured at the Manifestation level or if required at the Item level by the system in use.
+Distinguish the image's colour appearance from the processes used to produce it and its digital colour encoding; for example, RGB encoding does not, by itself, establish that the image is in colour. For photographic or digital copies, Tinted or Toned may describe reproduced colour appearance rather than a process applied to the Item, as explained in the Manifestation guidance above.
+
+Reuse Manifestation-level information where it applies and the system supports it. Record any Item-specific differences.
 
 <a id="sec-unit_number"></a>
 ### Unit Number
