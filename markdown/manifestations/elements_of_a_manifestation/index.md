@@ -200,6 +200,8 @@ Cataloguing systems may record format information in one field or distribute it 
 
 Use terminology appropriate to the collection and cataloguing system, drawing on a controlled vocabulary where available. Broad format designations may support identification and searching, while named formats provide further technical information. This guidance does not require separate general and specific fields or a hierarchical vocabulary.
 
+For film and tape, distinguish gauge—the width of the material—from format. A format designation may include its gauge, but different formats may use material of the same width. For example, Standard 8 and Super 8 share the same nominal gauge but differ in perforation and image dimensions. Gauge remains a distinct descriptive attribute and may be recorded separately, even when it is also included in the format designation.
+
 For digital objects, distinguish container formats, image file formats, and package formats. A package may contain files in several formats; an image sequence may comprise many files in one image format. Describe the component formats where needed to make their application clear. Codecs describe the encoding of the digital content and should not be treated as interchangeable with container or package formats.
 
 Authored audio and video disc formats should be distinguished from optical media used to store digital objects. Whether a disc is writable or commercially produced does not, by itself, identify the technical format of its contents. Where physical storage media are also recorded in the catalogue, keep their characteristics distinguishable from those of the digital objects. See [Moving Image Items](../../items/index.md#sec-moving_image_items) for the scope of this distinction.
@@ -208,7 +210,7 @@ The following terms are examples, not exhaustive lists or a prescribed classific
 
 #### Film Formats
 
-- 8mm film
+- Standard 8mm film
 - Super 8mm film
 - 16mm film
 - 35mm film
