@@ -188,37 +188,45 @@ Where local status terms such as Master or Viewing are used, make clear that the
 
 <a id="sec-sound"></a>
 ### Sound
-Technical specifications relating to the fixation of sound in a moving image Manifestation/Item (see [Sound Characteristics of a Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-sound_characteristics_of_a_manifestation)).
-This element is for high-level description of sound on the item; i.e., noting whether it has sound, is silent, etc.
+Indicate whether the Item includes recorded sound. For a digital object comprising related files, describe the object as a whole; sound may be carried within an audiovisual file or in separate associated audio files.
 
-Indicate the presence or absence of sound in the Item. Selection should be made from a controlled list of terms, e.g.:
+Select terms from a controlled vocabulary, for example:
 
-- Sound  
-- Silent  
-- Mute  
-- Combined  
-- Combined as Mute  
-- Combined as Sound  
-- Mixed
+- Sound
+- Silent
+- Mute
 
-Record only if this information is not captured at the Manifestation level or if required at the Item level by the system in use.
+The absence of recorded sound in an Item does not, by itself, establish that its associated Manifestation lacks sound or that the Work was originally silent.
+
+Reuse Manifestation-level information where it applies and the system supports it. Record any Item-specific differences. See also [Sound Characteristics of a Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-sound_characteristics_of_a_manifestation).
 
 <a id="sec-item_sound_channel_configuration"></a>
 ### Sound Channel Configuration
-If the Item has sound, note here the track configuration (e.g., mono, stereo, etc.) Selection should be made from a controlled list of terms.
+Record the sound channel configuration, using terms from a controlled vocabulary, for example mono, stereo, or 5.1.
+
+Where an Item includes sound components or selectable soundtracks with different configurations, identify which configuration applies to each. Channel count alone does not establish the configuration; for example, two channels may carry stereo sound or two independent mono recordings.
 
 <a id="sec-sound_system"></a>
 ### Sound System
 See also [Sound Characteristics of a Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-sound_characteristics_of_a_manifestation)
 
-Describes the technical or proprietary system used to record the sound on a Item. Select from a controlled list, e.g.:
+Record the technical sound system and, where relevant, the soundtrack type present on the Item. Select terms from a controlled vocabulary.
+
+For film, distinguish a mute element with a blank soundtrack area from a silent-format element whose image extends into the area otherwise reserved for the soundtrack.
+
+Examples of sound systems:
 
 - Dolby SR
 - Dolby Digital
+- VA RCA Duplex
+
+Examples of soundtrack types:
+
 - Mute
 - Combined Magnetic Sound
 - Combined Optical Sound
-- VA RCA Duplex
+
+These characteristics are not mutually exclusive; record the applicable system and soundtrack type using the fields available.
 
 <a id="sec-colour"></a>
 ### Colour
