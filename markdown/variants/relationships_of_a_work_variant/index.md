@@ -9,11 +9,11 @@ Instead they recommend that certain relationships be established without instruc
 
 A Variant may have relationships with the following:
 
+- [Work(s)](../../works/index.md#sec-moving_image_work)
+- [Manifestation(s)](../../manifestations/index.md#sec-moving_image_manifestations)
 - [Agent(s)](../../agents/agents_for_works_variants/index.md)
 - [Events](../../events/event_types/index.md)
 - [Subject(s)/Genre(s)/Form(s)](../../works/elements_of_a_work_variant/index.md#sec-subject_genre_form_terms)
-- [Work(s)](../../works/index.md#sec-moving_image_work)
-- [Manifestation(s)](../../manifestations/index.md#sec-moving_image_manifestations)
 - [Other Relationships](../../other-relationships/other_relationships_for_works_variants_manifestations_items/index.md#sec-work_variant_other_relationship_types)
 
 
