@@ -37,7 +37,8 @@ The following resources were compared: 1991 FIAF Cataloguing Rules (ISBD based),
 | Identifier | Identifier |  |
 | Title <br/> **Title type** <br/>- Proper <br/>- Other title information <br/>- Alternative <br/>- Supplied/Devised | Title | Title area |
 | Language | Language | Physical description area |
-| Format | Format | Physical description area |
+| Physical and digital description | Format | Physical description area |
+| Format | Carrier type and Gauge (within Format) | Physical description area |
 | Extent | Extent | Physical description area |
 | **Relationships (including main attributes)** | **Allowed relationships** |  |
 | Agents <br/> **Agent type** <br/>- Distributor (theatrical) <br/>- Distributor (non-theatrical) <br/>- Broadcaster <br/>- Publisher <br/>- Manufacturer <br/>- Agent responsible for preservation <br/>- Agent responsible for reproduction or transfer <br/>- Agent responsible for archival availability <br/>- Agent responsible for the mere availability <br/>- Agent unclear or undetermined <br/>- Agent not identified | HasAgent | Production/distribution area Notes area |

@@ -21,7 +21,7 @@ Create a new Manifestation when there is evidence of at least one (or more than 
 
 *Change in the container (i.e. cassette to cartridge as container for a tape).*
 
-Include and describe any of the distinguishing physical changes according to the guidelines in [Format of a Moving Image Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-format_of_a_moving_image_manifestation).
+Include and describe any of the distinguishing physical changes according to the guidelines in [Physical and Digital Description of a Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-physical_digital_description_of_a_manifestation).
 
 The example below shows a number of possible Manifestations of the original Italian version of Il gattopardo (Italy, France, Luchino Visconti, 1963).
 
