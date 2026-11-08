@@ -462,15 +462,12 @@ For more information about aggregates, see [Aggregates (Compilations, Multi-comp
 
 <a id="sec-duration_of_a_manifestation"></a>
 ### Duration of a Manifestation[^3]
-This is the total duration/running time under normal or specific playback conditions (e.g. a specific frame rate).
-It represents the concept of “ideal” duration/running time (i.e., the duration reported on the moving image Manifestation itself – i.e., on the container, on the accompanying material, on the wrapper of metadata in a digital file or reported by authoritative secondary sources such as filmographies, censorship visas, etc.).
-In cases where it is known that the time on the Manifestation is incorrect and all Items will inherit the same incorrect duration, record the accurate duration and make a note about the error/discrepancy found on the Manifestation.
+Manifestation duration represents the expected or “ideal” total running time under specified playback conditions, for example a specific frame rate. Sources may include information on containers, accompanying material, metadata associated with a digital object, or authoritative secondary sources such as filmographies and censorship records.
+Where a reported duration is known to be incorrect, record the accurate duration and explain the discrepancy in a note.
 
 The actual duration is usually considered a characteristic of a singular moving image Item, since it can differ among multiple Items exemplifying the same Manifestation.
 
-Record, in Arabic numerals, the total duration/running time in minutes, normally rounded off to the nearest minute.
-Optionally, include minutes and seconds, or, for a higher level of precision and to enable calculations, use the format HH:MM:SS.
-This numeric format will help to calculate estimated digital storage in analogue-to-digital transfer projects.
+Use a duration notation appropriate to the cataloguing system and institutional practice. Examples include minutes, hours/minutes/seconds expressed as HH:MM:SS, or ISO 8601 duration notation. For example, 90 minutes may be expressed as 90 min, 01:30:00, or PT1H30M. Record only the precision supported by the available information. Duration can also support estimates of digital storage requirements for digitisation projects.
 
 If the duration/running time of a Manifestation is uncertain, use a question mark following the unit count or, if the system allows, use the qualifier “Duration Precision” and add the term “approximate.” (see [Duration Precision](../../manifestations/elements_of_a_manifestation/index.md#sec-manifest_duration_precision))
 
@@ -495,7 +492,7 @@ For more information about Aggregates see [Aggregates (Compilations, Multi-compo
 When recording duration of Manifestations of a Work/Variant of the silent era, take into account that the rate of frames per second varied over the years and between Variants/Manifestations.
 Also take into account the so-called “stretch frame” practice, adopted after the silent era, which “increases the number of frames printed on a film to enable films shot at silent speeds to be projected at sound speed and retain the original temporal characteristics.” [^16]
 
-In a note, indicate the frame rate on which the duration is based or if the Manifestation is the result of a “stretch frame” practice.[^17] (See also [Frame Rate](../../items/elements_of_a_moving_image_item/index.md#sec-frame_rate))
+Indicate the frame rate on which the duration is based. Where a film print or digital object uses repeated frames to preserve the running time of a slower-speed source, explain this in a note and distinguish the playback rate from the source film’s projection rate.[^17] See also [Frame Rate](../../items/elements_of_a_moving_image_item/index.md#sec-frame_rate).
 
 <a id="sec-duration_of_a_broadcast"></a>
 #### Duration of a Broadcast Manifestation associated with a Work/Variant
@@ -512,7 +509,7 @@ It is for an institution to choose whether to record both sets of data in each i
 <a id="sec-manifest_duration_precision"></a>
 #### Duration Precision
 In this qualifier, note whether the duration is exact, approximate, or estimated.
-Items can apply the additional “stock maximum.”
+“Stock maximum” describes a tape’s labelled maximum playing time rather than duration precision. For its optional use at Item level, see [Item Duration](../../items/elements_of_a_moving_image_item/index.md#sec-duration).
 
 <a id="sec-duration_type"></a>
 #### Duration Type

@@ -298,12 +298,13 @@ Record the broadcast standard applicable to the Item, where relevant, for exampl
 
 <a id="sec-duration"></a>
 ### Duration
-Duration in minutes of the moving image(s) contained in the Item, not the total duration of the Manifestation.
-Optionally, include minutes and seconds, or, for a higher level of precision and to enable calculations, use the format HH:MM:SS (hours, minutes, seconds).
-This numeric format will help to calculate estimated digital storage in analogue-to-digital transfer projects.
+Record the actual duration of the moving image content in the Item, even if it is the same as the duration recorded for the associated Manifestation.
 
-This duration represents actual temporal extent, rather than the “ideal” temporal extent, which is recorded for Manifestations (see [Duration of a Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-duration_of_a_manifestation)).
-Actual duration is a characteristic of a singular Item, since it can differ among multiple Items exemplifying the same Manifestation.
+Use a duration notation appropriate to the cataloguing system and institutional practice. Examples include minutes, hours/minutes/seconds expressed as HH:MM:SS, or ISO 8601 duration notation. For example, 90 minutes may be expressed as 90 min, 01:30:00, or PT1H30M. Record only the precision supported by the available information. Duration can also support estimates of digital storage requirements for digitisation projects.
+
+The Item’s duration represents its actual temporal extent and may differ between Items associated with the same Manifestation. Where the Manifestation records an expected or “ideal” duration, it may be used as a reference for assessing the Item’s completeness (see [Duration of a Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-duration_of_a_manifestation)).
+
+Where a digital Item comprises components that play together, such as an image sequence and associated sound files, do not add their durations together when recording the Item’s total duration.
 
 If the duration/running time of an Item is uncertain, use a question mark following the unit count or record the uncertain number preceded by “approximately.” If necessary, in a note, give an explanation for the estimated duration/running time, where known.
 
@@ -311,22 +312,21 @@ If the duration/running time of an Item is indeterminate, record the information
 
 Alternatively, provide for a distinguishing “precision” field specifying if the duration/ running time is exact, approximate or unknown.
 
-If the Item is a video or audio tape where the tape stock maximum duration is identified (e.g., Fuji M321-SP 30M is a Betacam SP tape of 30 minutes duration), that maximum duration can be noted in the “precision” field as “stock maximum.” This information can be helpful since it implies the Item cannot be longer than the maximum duration of the stock.
+Where the recorded duration is unknown, the labelled maximum playing time of an audio or video tape may be recorded instead, identified as the tape’s stock maximum. For example, a Fuji M321-SP 30M Betacam SP tape has a labelled playing time of 30 minutes. This describes the tape’s capacity, not the actual duration of its recorded content.
 
 <a id="sec-item_duration_precision"></a>
 #### Duration Precision
-In this qualifier, note whether the duration is exact, approximate, estimated, or stock maximum.
+In this qualifier, note whether the duration is exact, approximate, or estimated.
 
 <a id="sec-frame_rate"></a>
 ### Frame Rate
-Frame rate is the native or preferred (if silent cinema) frame rate for the Item.
-Information related to the frame rate used during a digitisation process is added to Transfer Speed (see [Transfer Speed](../../items/elements_of_a_moving_image_item/index.md#sec-transfer_speed)).
+Record the Item’s playback frame rate. For film intended to be shown at variable or uncertain speeds, record the preferred or assumed projection rate where known. For the speed at which source film was run during transfer, see [Transfer Speed](#sec-transfer_speed).
 
-Frame Rate and Transfer Speed can sometimes be the same thing, and at other times different, depending on whether it is an Item that is being scanned into a digital file or an Item that is a digital file to start with. For example, a silent film that was shot at a 16 fps frame rate could be transferred at 23.98 fps. In this case, the resulting digital file would have a frame rate of 23.98, even though the original film is 16 fps.
+A film intended for projection at 16 fps may be represented in a digital object playing at 24 fps. Repeated frames may preserve the intended running time; playing the original frames at 24 fps without such adjustment would shorten it. Record the frame rate of the digital Item, distinguishing it from the source film’s projection rate.
 
-Precision can be added to this element by adding a “Type” qualifier to note if the frame rate is original, or the transfer rate.
+Where more than one frame-rate value is recorded, identify what each describes, for example the source projection rate or the digital Item’s playback rate.
 
-Note that in digital cinema, a film can have Variable frame rates.
+For digital Items with a variable frame rate, record this characteristic rather than implying that one fixed rate applies throughout.
 
 <a id="sec-base"></a>
 ### Base
@@ -393,11 +393,7 @@ State whether the value describes image or audio samples and which stream or com
 
 <a id="sec-transfer_speed"></a>
 ### Transfer Speed
-If the Transfer Speed is the same as the Frame Rate [Frame Rate](../../items/elements_of_a_moving_image_item/index.md#sec-frame_rate), these values should be the same.
-However, silent films might be transferred at a higher speed than the original frame rate.
-For example, a silent film that was shot at a 16fps frame rate could be transferred at 23.98 fps.
-It is important to note the transfer speed so an institution can identify how the transferred Item compares to the source Item.
-If the transfer speed is faster than the source frame rate, the target Item could have a shorter duration than the source Item.
+For film-to-video transfers, record the speed at which the source film was run during transfer, where relevant. Distinguish this from the film’s intended projection rate and the resulting Item’s playback frame rate (see [Frame Rate](#sec-frame_rate)). For frame-by-frame scanning, capture speed does not, by itself, determine playback speed or duration.
 
 <a id="sec-access_conditions"></a>
 ## Access Conditions
