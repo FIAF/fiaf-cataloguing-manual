@@ -42,9 +42,6 @@ A Parallel Aggregate brings together otherwise equivalent language versions of t
 
     The 2004 Seville Films DVD offers French and English dialogue and optional English subtitles. Where an institution describes the language versions as distinct Variants, these may be associated with one Aggregate Manifestation; selectable language options do not, by themselves, require this structure.
 
-For Aggregate Manifestations record the length/duration of the whole, i.e. the total of all the units/running times that constitute the Aggregate.  
-
-In addition there is the option to qualify this with details of the duration of each individual unit in either a Notes field, or in multiple occurrences of the duration fields, depending on what systems used permit or an institution decides.
-(See [Physical Extent of an Aggregate Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-physical_extent_of_an_aggregate_manifestation) and [Duration of an Aggregate Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-duration_of_an_aggregate_manifestation))
+Record measurements for the aggregate as a whole where known, distinguishing physical or digital extent from playback duration, and make clear which constituents and versions they describe. Where applicable extent or duration information is already available through linked descriptions, it need not be recorded again. See [Physical Extent of an Aggregate Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-physical_extent_of_an_aggregate_manifestation) and [Duration of an Aggregate Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-duration_of_an_aggregate_manifestation).
 
 [^1]: Published within the context of moving image means released or broadcast, and may also include in-house aggregate creation

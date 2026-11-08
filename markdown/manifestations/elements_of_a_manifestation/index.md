@@ -451,8 +451,7 @@ Alternatively, provide for a distinguishing “precision” field specifying if 
 
 <a id="sec-physical_extent_of_an_aggregate_manifestation"></a>
 #### Physical Extent of an Aggregate Manifestation
-For Aggregate Manifestations record the length or footage of the whole, i.e. the total in feet or metres of all the units that constitute the Aggregate.
-In addition there is the option to qualify this with details of the physical extent of each individual unit in either a Notes field, or in multiple occurrences of the duration fields, depending on what systems used permit or an institution decides.
+Record the extent of the Aggregate Manifestation as a whole where known, for example as stated on the container, using the guidance above for the relevant medium. Where useful, also record the extent of individual constituents, making clear what each measurement describes—for example, a constituent film or a reel. Applicable constituent measurements already available through linked descriptions need not be recorded again. This information may be recorded using the available descriptive elements or notes.
 
 For more information about aggregates, see [Aggregates (Compilations, Multi-component productions)](../../aggregates/index.md).
 
@@ -473,13 +472,16 @@ If the duration/running time of a Manifestation is unknown, record the informati
 
 <a id="sec-duration_of_an_aggregate_manifestation"></a>
 #### Duration of an Aggregate Manifestation
-For Aggregate Manifestations record the duration of the whole, i.e. the total running time of all the units that constitute the Aggregate.
-In addition there is the option to qualify this with details of the duration of each individual unit in either a Notes field, or in multiple occurrences of the duration fields, depending on what systems used permit or an institution decides.
+Record the duration of the Aggregate Manifestation as a whole where known, for example as stated on the container. Make clear whether it describes a continuous presentation, an individual programme or version, or the combined running times of several programmes or versions. Do not add the durations of components that play simultaneously.
+
+Where useful, record the running times of individual constituents using the available descriptive elements or a note.
+
+Applicable constituent measurements already available through linked descriptions need not be recorded again.
 
 !!! example "Example"
-    DVD “The Audrey Hepburn Collection” contains 3 films, all with extra features. The running times for each of those 3 units are given on the container. 
+    DVD “The Audrey Hepburn Collection” contains three films with additional features. Running times for the three units are given on the container.
 
-    The total running time of these may be added as duration, with an additional clarifying note detailing the running times of the individual units.
+    These running times may be added to give a combined total. Make clear whether the timings cover the films alone or include additional features, and optionally record the individual running times.
 
 For more information about Aggregates see [Aggregates (Compilations, Multi-component productions)](../../aggregates/index.md).
 
