@@ -101,22 +101,25 @@ If possible, record who currently has ownership of the Item, ideally also tracki
 
 <a id="sec-item_item_element_type"></a>
 ## Item Element Type[^2]
-Record the nature or function of the moving image Item, describing its place in the photochemical or digital production or duplication process. Selection should be made from a controlled list of terms, e.g.:
+Element Type describes the nature of an Item and its intended function within a production, duplication, preservation, or access workflow: why it was made and its place in that process. It helps distinguish, for example, a production original, an intermediate made for further copying, and a copy made for exhibition or viewing.
 
-- Colour Positive
-- Colour Negative
-- Copper Toned Positive
-- Cyan Matrix
-- Direct BW Positive
-- Original negative
-- Duplicate negative
-- Positive
-- Original positive (reversal film)
-- Duplicate positive
-- Lavender
-- Image negative
-- Sound negative
-- DCP
+Element Type should be distinguished from the Item's format and its current preservation, access, or administrative status. Format describes the physical or digital technical form in which the Item exists, indicating the technology, equipment, or software required to reproduce, read, or decode its content. Element Type describes its place and intended purpose in the workflow. An institution's subsequent use or designation of an Item does not, by itself, change its Element Type. For example, a release print retained for preservation remains a release print.
+
+Institutions should use a controlled vocabulary whose terms are consistent in scope, describing the nature and intended function of the Item. Avoid mixing Element Types with terms describing technical formats, colour processes, physical storage media, or current administrative status; record these characteristics in their respective fields.
+
+Select an Element Type from the vocabulary used by the institution, based on the available information about the Item. Where its particular function is unknown, use an available term that accurately reflects what is known rather than assuming a function. Do not infer intended function solely from format, technical quality, storage location, or current use.
+
+The following terms are examples, not an exhaustive vocabulary. They are arranged by format category, because the same function is named differently for different media. Audio and video Element Types describe physical tapes and discs, whether their signal is analogue or digital; file-based digital objects, including sound-only recordings, use digital Element Types. Physical storage media holding digital objects have no Element Type of their own. Select terminology appropriate to the Item being described.
+
+| **Format** | **Element Type examples** |
+| --- | --- |
+| Film: picture | Original negative, Original cut negative, Duplicate negative, Film-out negative, Original reversal positive, Duplicate positive, Fine grain master positive, Work print, Answer print, Release print; Negative or Positive where generation or function is unknown |
+| Film: sound | Sound negative, Sound positive, Separated magnetic sound |
+| Audio tapes and discs | Original sound recording, Audio master |
+| Video tapes and discs | Original video recording, Video master, Video access copy, Home video release |
+| Digital files and packages | Original digital recording, Digital master, Digital mezzanine, Digital access copy, Digital release |
+
+A digital release is made for the publication or distribution of the content, such as a distributor's theatrical or online delivery. Package and file formats do not determine Element Type: a DCP may, for example, be a digital release, an access copy made by an archive for screenings, or a master.
 
 <a id="sec-item_specifics_extent"></a>
 ## Item Specifics/Extent (e.g. physical/digital description)
@@ -151,14 +154,23 @@ Distinguish an authored audio or video disc from an optical disc used to store d
 
 <a id="sec-item_status"></a>
 ### Item Status
-Description of the preservation or access status of the Item. Select term from a controlled list, e.g.  
+Description of the current preservation, access, or administrative status of the Item. This is separate from [Element Type](#sec-item_item_element_type), which describes the nature and intended function of the Item in the workflow in which it was made. For example, retaining a release print for preservation does not change its Element Type.
 
-- Master   
-- Viewing   
-- Accessioned   
-- On Loan  
-- Status pending   
+A designation of how the Item is used, such as for preservation or for access, and its administrative status, such as whether it has been accessioned or is on loan, answer different questions. Where both are recorded, keep them distinguishable rather than mixing them in one list of values. Select terms from controlled lists, for example:
+
+*Preservation and access designation*
+
+- Preservation
+- Access
+
+*Administrative status*
+
+- Accessioned
+- On Loan
+- Status pending
 - Removed
+
+Where local status terms such as Master or Viewing are used, make clear that they express the institution's current designation of the Item, not necessarily its original intended function.
 
 <a id="sec-sound"></a>
 ### Sound
@@ -396,7 +408,7 @@ Notes for Items are an annotation providing additional information relating spec
 Individual institutions may also choose to capture further data as required, e.g. line standard, or source device/software (used in creating in-house copies of acquired moving images), etc.
 
 [^1]: Based on EN 15907, Holding institution
-[^2]: Based on EN 15907, Instantiation type
+[^2]: Developed from EN 15907, Instantiation type, with practical guidance for production, duplication, preservation, and access across film, audio, video, and digital objects.
 [^3]: EN 15907, “Inventory number,” p. 12
 [^4]: See The FIAF Cataloguing Rules for Film Archives (1991). 5. Physical Description. Introduction
 [^5]: The first edition of [The FIAF Moving Image Cataloguing Manual (2016)](https://www.fiafnet.org/images/tinyUpload/E-Resources/Commission-And-PIP-Resources/CDC-resources/20160920_Fiaf_Manual-WEB.pdf), §§3.1.5.1.1–3.1.5.1.2, uses General Carrier Type and Specific Carrier Type. These are not separately named elements in EN 15907; see the correspondence explained under Format in the Manifestation chapter.

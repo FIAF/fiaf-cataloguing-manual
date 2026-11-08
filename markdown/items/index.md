@@ -72,6 +72,8 @@ Question: How to catalogue these Items?
 - Item 6: DCDM (Digital Cinema Distribution Master, made from the DSM).
 - Item 7: DCP (Digital Cinema Package, made from the DCDM).
 
+These descriptions distinguish objects in this particular workflow; they are not all Element Types. Record each object's [Element Type](elements_of_a_moving_image_item/index.md#sec-item_item_element_type) according to its intended function, and its file, image, or package formats separately. For example, the streaming copy has Element Type Digital access copy. DCP identifies a package format; the DCP's Element Type depends on what it was made for, for example Digital access copy if it was made for the archive's own screenings, or Digital release if the restoration was made for distribution to cinemas. A raw scan is not automatically a preservation master solely because of its resolution or other technical characteristics.
+
 The DCDM and DCP are multi-file digital objects, not single files. The other Items may also comprise several files. Item-part descriptions follow the structure of the cataloguing system: a system using this level may describe even a single component in an Item-part record, while another system records the same information within the Item. This does not imply a record for every constituent file. The image and sound outputs may alternatively be described together as one Item where they are managed as a unit.
 
 Whereby:  

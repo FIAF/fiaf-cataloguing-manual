@@ -54,7 +54,7 @@ The following resources were compared: 1991 FIAF Cataloguing Rules (ISBD based),
 | Identifier |  | Production/distribution area |
 | Title <br/> **Title type** <br/>- Proper <br/>- Other title information <br/>- Alternative <br/>- Supplied/Devised | Title | Title area |
 | Holding institution | Holding institution | Notes area |
-| Item Material type | Instantiation type | Physical description area |
+| Item Element Type | Instantiation type | Physical description area |
 | Item-specifics | Item specifics | Physical description area   Notes area |
 | Access conditions | Access conditions | Physical description area |
 | Notes for moving image |  | Notes area |
