@@ -337,26 +337,23 @@ For digital Items with a variable frame rate, record this characteristic rather 
 
 <a id="sec-base"></a>
 ### Base
-The physical material or video format on which the Item is captured, for example, describing the flexible transparent material that supports a film items’ emulsion (e.g.  acetate, nitrate, polyester) or a magnetic track, (e.g. CTA).
-Select from controlled list of terms, if possible, keep separate lists for analogue film material and analogue video.
+Base describes the physical support material of a film or tape, not its recording format or the physical storage media holding a digital object. Select terms from a controlled vocabulary, for example:
 
 - Acetate  
 - Diacetate  
 - Triacetate (aka CTA)
 - Nitrate  
 - Polyester  
-- Magnetic tape  
 
 <a id="sec-stock"></a>
 ### Stock
-Describes the specific stock/brand on which the Item is captured. This element should be used for all media: film, video, audio, optical, digital tape.
-Selection should be made from a controlled list of terms, e.g. Agfa, Eastman Kodak, Fujifilm, Gevaert, etc. for analogue film; Akai, BASF, Sony, TDK, etc. for Video; Ampex, Scotch, Shamrock, 3M, etc. for Audio; Maxell, Memorex, Philips, Verbatim, etc. for Optical; Fuji, HP, Oracle, Sony, etc. for Digital Tape; Hitachi, Seagate, Toshiba, Western Digital, etc. for Hard drives.
+Record the manufacturer, brand, or product designation of the film, tape, or other physical recording medium, where relevant. Select terms from a controlled vocabulary, for example Agfa, Eastman Kodak, Fujifilm, or Gevaert for film; Akai, BASF, Sony, or TDK for video tape; Ampex, Scotch, Shamrock, or 3M for audio tape.
+
+Where physical storage media for digital objects are catalogued, stock and batch information describes the storage medium, not the digital objects stored on it.
 
 <a id="sec-stock_batch"></a>
 ### Stock Batch
-The stock batch number of the media the Item is captured on.
-This can be a video, audio, optical media, or digital tape stock.
-Identifying the batch number can assist in identifying problems related to specific manufactured batches.
+Record the manufacturer’s batch number of the physical recording medium, where known. This may help identify material from batches with shared defects or preservation problems. For physical storage media holding digital objects, the distinction described under [Stock](#sec-stock) also applies.
 
 <a id="sec-video_codec"></a>
 ### Video Codec
