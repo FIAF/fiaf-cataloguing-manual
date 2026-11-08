@@ -225,13 +225,37 @@ Where relevant, record noise reduction separately; see [Noise Reduction](../../m
 
 <a id="sec-colour"></a>
 ### Colour
-For full instructions, see [Colour Characteristics of a Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-colour_characteristics_of_a_manifestation).
+For guidance on colour appearance and colour systems and processes, see [Colour Characteristics of a Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-colour_characteristics_of_a_manifestation).
 
 Record the colour characteristics of the image present in the Item, including black and white or combinations of colour and black and white.[^7] Where characteristics vary between components or sections, describe the variation as needed.
 
-Distinguish the image's colour appearance from the processes used to produce it and its digital colour encoding; for example, RGB encoding does not, by itself, establish that the image is in colour. For photographic or digital copies, Tinted or Toned may describe reproduced colour appearance rather than a process applied to the Item, as explained in the Manifestation guidance above.
+Distinguish the image's colour appearance from the processes used to produce it. Where an institution uses Tinted or Toned for reproduced colour appearance, distinguish this usage from a process applied to the Item, as explained in the Manifestation guidance above.
 
 Reuse applicable Manifestation-level information and record Item-specific differences.
+
+**Digital colour encoding**
+
+For digital materials, distinguish the image's colour appearance from its colour encoding. RGB and YUV describe colour models, not film colour processes, and do not, by themselves, establish that the image is in colour. Record relevant digital colour-encoding information separately where needed.
+
+Where relevant, also record the colour space and transfer function. These describe different aspects of digital colour representation and should be distinguished from the colour encoding. Select terms from controlled vocabularies appropriate to each aspect, for example:
+
+*Colour encoding*
+
+- RGB
+- YUV
+
+*Colour space*
+
+- Rec. 709
+- Rec. 2020
+
+*Transfer function*
+
+- Linear
+- PQ
+- HLG
+
+These groupings do not require separate database fields.
 
 <a id="sec-unit_number"></a>
 ### Unit Number

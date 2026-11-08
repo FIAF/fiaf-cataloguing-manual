@@ -389,11 +389,11 @@ More specific vocabulary terms may identify particular tint colours or toning pr
 
 Tinting and toning can be described both as processes applied to film material and as colour appearances. State which meaning is intended. A film element may have undergone tinting or toning, while a photographic or digital copy may reproduce that appearance without having undergone the same process.
 
-For digital Manifestations and Items, terms such as Tinted or Toned may describe the colour appearance reproduced in the image, rather than a physical treatment of the digital object. Make this distinction clear in the description.
+Some archives may choose to use terms such as Tinted or Toned to describe a colour appearance reproduced in a photographic or digital copy. Where this practice is followed, make clear that the terms describe the reproduced appearance, not a process applied to the copy.
 
 **Colour systems and processes**
 
-Where relevant, also record the colour system or process used. Record the actual tinting or toning process applied to source film material separately where known. Select terms from a controlled vocabulary, for example:
+Where relevant, also record the colour system or process used. Select terms from a controlled vocabulary, for example:
 
 - Pathécolor
 - Technicolor
@@ -404,9 +404,7 @@ Where relevant, also record the colour system or process used. Record the actual
 - Kodachrome
 - Eastmancolor
 
-**Digital colour encoding**
-
-For digital materials, distinguish the image's colour appearance from its colour encoding. RGB and YUV describe colour models, not film colour processes, and do not, by themselves, establish that the image is in colour. Record relevant digital colour-encoding information separately where needed.
+For digital colour encoding, colour space, and transfer function, see [Colour](../../items/elements_of_a_moving_image_item/index.md#sec-colour) in the Item chapter. Record these characteristics at Manifestation level only where they apply to the associated Items.
 
 Manifestation-level information should describe characteristics applicable to the associated Items; record Item-specific characteristics and differences in the Item descriptions. These groupings do not require separate database fields.
 
