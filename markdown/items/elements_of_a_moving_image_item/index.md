@@ -174,37 +174,45 @@ Where local status terms such as Master or Viewing are used, make clear that the
 
 <a id="sec-sound"></a>
 ### Sound
-Technical specifications relating to the fixation of sound in a moving image Manifestation/Item (see [Sound Characteristics of a Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-sound_characteristics_of_a_manifestation)).
-This element is for high-level description of sound on the item; i.e., noting whether it has sound, is silent, etc.
+Indicate whether the Item includes recorded sound. For a digital object comprising related files, describe the object as a whole; sound may be carried within an audiovisual file or in separate associated audio files.
 
-Indicate the presence or absence of sound in the Item. Selection should be made from a controlled list of terms, e.g.:
+Select terms from a controlled vocabulary, for example:
 
-- Sound  
-- Silent  
-- Mute  
-- Combined  
-- Combined as Mute  
-- Combined as Sound  
-- Mixed
+- Sound
+- Silent
+- Mute
 
-Record only if this information is not captured at the Manifestation level or if required at the Item level by the system in use.
+Use Silent where the moving image was made without a recorded soundtrack, as with films of the silent era. Use Mute for material whose content is intended to have recorded sound but which carries none of it, such as a picture negative of a sound film, a print with a blank soundtrack area, or a picture-only scan of a sound film. A digital object without audio need not be described as Mute, since the absence of audio in its technical description shows that no sound is carried; the term remains available where it helps distinguish such an object from silent material.
+
+The absence of recorded sound in an Item does not, by itself, establish that its associated Manifestation lacks sound or that the Work was originally silent.
+
+For film, distinguish a mute element with a blank soundtrack area from a silent-aperture element whose image extends into the area otherwise reserved for the soundtrack. Describe the image area under [Projection Characteristics](#sec-projection_characteristics).
+
+Reuse applicable Manifestation-level information and record Item-specific differences. See also [Sound Characteristics of a Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-sound_characteristics_of_a_manifestation).
 
 <a id="sec-item_sound_channel_configuration"></a>
 ### Sound Channel Configuration
-If the Item has sound, note here the track configuration (e.g., mono, stereo, etc.) Selection should be made from a controlled list of terms.
+Record the sound channel configuration, using terms from a controlled vocabulary, for example mono, stereo, or 5.1.
+
+Where an Item includes sound components or selectable soundtracks with different configurations, identify which configuration applies to each. Channel count alone does not establish the configuration; for example, two channels may carry stereo sound or two independent mono recordings.
 
 <a id="sec-sound_system"></a>
 ### Sound System
 See also [Sound Characteristics of a Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-sound_characteristics_of_a_manifestation)
 
-Describes the technical or proprietary system used to record the sound on a Item. Select from a controlled list, e.g.:
+Record the sound system present on the Item, using a broad category or a specific system as appropriate. Select terms from a controlled vocabulary.
 
-- Dolby SR
+For digital objects, record the sound system that a soundtrack is made for or needs for reproduction, such as Dolby Digital, where known; record the encoding of the audio stream under [Audio Codec](#sec-audio_codec). Some names refer to both, so record each under its own attribute where both are known.
+
+Examples of sound systems:
+
+- Combined magnetic sound
+- Optical variable area
+- Dolby Stereo SR
 - Dolby Digital
-- Mute
-- Combined Magnetic Sound
-- Combined Optical Sound
 - VA RCA Duplex
+
+Where relevant, record noise reduction separately; see [Noise Reduction](../../manifestations/elements_of_a_manifestation/index.md#sec-noise_reduction).
 
 <a id="sec-colour"></a>
 ### Colour

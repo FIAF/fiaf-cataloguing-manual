@@ -38,6 +38,7 @@
 |  |  | 2.3.4.3 | Sound Characteristics | 3.1.5.3 | Sound |
 |  |  | 2.3.4.3.1 | Sound systems | 3.1.5.5 | Sound System |
 |  |  | 2.3.4.3.2 | Sound Channel Configuration | 3.1.5.4 | Sound Channel Configuration |
+|  |  |  | Noise Reduction |  |  |
 |  |  | 2.3.4.4 | Colour Characteristics | 3.1.5.6 | Colour |
 |  |  |  |  | 3.1.5.7 | Unit Number |
 |  |  | 2.3.5 | Extent |  |  |

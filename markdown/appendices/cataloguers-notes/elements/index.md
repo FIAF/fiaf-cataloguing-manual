@@ -112,7 +112,7 @@ Explain the format changes used to determine the moving image Manifestation in h
 
 **Sound characteristics**
 
-If the moving image Work/Variant associated with the moving image Manifestation in hand had sound originally, but the Manifestation lacks sound, describe it as silent (or mute) and give a note to that effect.[^7]
+If the moving image Work/Variant associated with the moving image Manifestation in hand had sound originally, but the Manifestation lacks sound, describe it as mute, not silent, and give a note to that effect.[^7]
 
 If the moving image Work/Variant associated with the moving image Manifestation was silent originally, but the Manifestation has sound, describe it as sound and give a note to that effect.
 
