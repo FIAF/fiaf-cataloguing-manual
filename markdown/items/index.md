@@ -8,7 +8,9 @@
 <a id="sec-moving_image_items"></a>
 ## Moving Image Items
 
-Whereas the Manifestation record describes the “ideal” of a particular format or publication, the Item record represents the actual holding in a repository’s collection.
+The Item description identifies a particular object and its actual characteristics. A Manifestation description provides the context in which that object is associated with the Work or Variant. Where the Manifestation describes a particular release, its expected content, format, and extent may provide a reference for describing the Item, including its completeness.
+
+Items associated with the same Manifestation are not necessarily identical copies or materials of the same kind. A [Pre-Release Manifestation](../manifestations/attributes_of_a_manifestation/index.md#sec-pre_release) may bring together camera negatives, sound negatives, trims, and other production materials, each described as a distinct Item. Depending on institutional cataloguing practice, a Manifestation may also associate source materials with derivatives made from them, including derivatives in different technical formats (see [Boundaries between Manifestations](../boundaries/boundaries_between_manifestations/index.md#sec-changes_in_the_format)). Each Item's description should identify what it comprises, its intended function, and its technical characteristics. Association with a Manifestation should follow the guidance on Manifestation types and boundaries, rather than being based solely on a relationship to the same Work.
 
 An Item may consist of one or more components or parts (Item-parts).[^1] These may include individual film reels, tapes, or digital components such as reel-length image sequences. A digital Item-part may itself comprise several files. An Item record may contain identifiers, extent, technical characteristics, and condition information for its components, with separate identifiers for their physical containers where required.
 

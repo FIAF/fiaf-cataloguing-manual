@@ -1,16 +1,15 @@
 
 
-A majority of the physical and digital description elements of moving image Items are intended to be inherited from the Manifestations, as they serve as the exemplars of Manifestations.
-In some databases, selection of a general media type initiates provision of element fields relevant to that type at a Manifestation level, or an Item level, or both (e.g. in a 2 Level hierarchy.
-See “Shallow hierarchy model: 2 levels” in [Elements of description across Works, Variants, Manifestations, and Items](../../preliminary/core_elements_of_description/index.md#sec-elements_of_description)).
+The manual generally envisages recording shared physical and digital characteristics once at Manifestation level for use in Item descriptions. Institutions may also record these characteristics directly at Item level. In either approach, the Item description should reflect the actual object and identify its specific characteristics and differences.
 
-Ideally the information need only be recorded once irrespective of where in the data structure an institution must place it.
-Therefore guidelines for the treatment of physical/digital description elements are explained fully in the Manifestation chapter.
+In applying this principle, account should be taken of the nature of the associated materials. A Manifestation may describe copies of a particular release, but it may also bring together varied production materials or, according to institutional practice, source materials and derivatives in different formats. Item descriptions should therefore identify characteristics specific to each object and make clear which Manifestation-level information applies. Information describing some associated Items should not inadvertently be presented as a characteristic of every Item linked to that Manifestation (see [Moving Image Manifestations](../../manifestations/index.md#sec-moving_image_manifestations)).
 
-This chapter contains Item-specific physical/digital description elements beginning at [Item Specifics/Extent](../../items/elements_of_a_moving_image_item/index.md#sec-item_specifics_extent).
-For example, properties such as Extent and Format at the Manifestation level represent the “ideal,” and item-specific information will capture where it differs from this ideal.
-Only elements that are considered Item-specific have guidelines for the recording of data.
-Physical/digital description elements that are considered Manifestation-specific, but which may be repeated at the Item level, contain hyperlinks to the relevant sections in the Manifestation chapter.
+In some databases, selection of a format or broad format category initiates provision of element fields relevant to that format at a Manifestation level, an Item level, or both, for example in a 2-Level hierarchy.
+See “Shallow hierarchy model: 2 levels” in [Elements of description across Works, Variants, Manifestations, and Items](../../preliminary/core_elements_of_description/index.md#sec-elements_of_description).
+
+Physical and digital description is covered in both the Manifestation and Item chapters. The detailed Item guidance begins at [Item Specifics/Extent](../../items/elements_of_a_moving_image_item/index.md#sec-item_specifics_extent), with cross-references to relevant Manifestation guidance.
+
+Where properties such as Extent and Format at Manifestation level describe an expected or “ideal” release, Item-specific information records the actual material and any differences from that reference. Where the Manifestation groups varied materials, each Item should be described on its own terms rather than as a deviation from a single ideal object.
 
 Further data relating to the condition, preservation, location, and, [acquisition](../../events/further_event_types/index.md#sec-acquisition), accessioning, and source of the Item are also recommended elements for the Item (see [Access Conditions](../../items/elements_of_a_moving_image_item/index.md#sec-access_conditions)). 
 
