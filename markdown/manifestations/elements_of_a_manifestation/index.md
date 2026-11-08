@@ -335,26 +335,38 @@ Channel configuration and sound system describe distinct but related characteris
 
 <a id="sec-colour_characteristics_of_a_manifestation"></a>
 ### Colour Characteristics of a Manifestation
-The presence of colour(s), tone(s), etc. in a Manifestation.[^11]
+Distinguish the colour appearance of the image from the technical means used to produce or encode it. Colour appearance describes what is visible, including black and white and colour.[^12] The technical description identifies the colour system, process, or digital encoding used. A particular appearance does not, by itself, establish how it was produced.
 
-Colour is also the specific colours, tones, etc. (including black and white) present in a moving image contained in a Manifestation.[^12]
+**Colour appearance**
 
-It consists of a designation of the colour state and, optionally, of the description of the colour system.
+Record the colour characteristics of the image represented by the Manifestation. Select terms from a controlled vocabulary, for example:
 
-Record the colour state of a Manifestation. Selection should be made from a controlled list of terms, e.g.:
-
-- Colour
-- Colour + Black & White
-- Tinted
 - Black and white
-- Black and white (tinted)
-- Black and white (toned)
-- Black and white (tinted and toned)
-- Sepia
+- Colour
+- Black and white with applied colour
 
-Optionally, if considered relevant, describe the system or process by which colour is fixed on the carrier or as part of the digital encoding. Selection should be made from a controlled list of terms, e.g.:
+Where the image combines these, for example a black-and-white film with colour sequences, record each applicable term rather than a combined term. Where the characteristics vary between sections, describe the variation as needed.
 
-- Pathécolor
+Black and white with applied colour describes a black-and-white photographic image coloured by tinting, toning, stencil colouring, hand colouring, or similar means. The term describes the appearance of the image, and applies equally to a photographic or digital copy that reproduces it. Record the process itself under Colour systems and processes below, in the description of the material that underwent it. A tinted nitrate print, for example, is Black and white with applied colour, with the process Tinted; a digital copy of that print has the same appearance, but Tinted is not recorded as its process.
+
+Catalogues that do not record colour processes separately may use terms such as Black and white (tinted) in their colour description. Where such a term describes a copy, make clear that it refers to the appearance reproduced, not to a process applied to the copy.
+
+**Colour systems and processes**
+
+Where relevant, and where the catalogue records them, also record the colour system or process used in the material described. Select terms from a controlled vocabulary, for example:
+
+*Applied colour*
+
+- Tinted
+- Toned
+- Tinted and toned (both present in the same image)
+- Stencil colouring, for example Pathécolor
+- Hand colouring
+
+More specific terms may identify particular tint colours or toning processes, such as blue tinting or sepia toning. These can support searching by the particular treatment or colour represented.
+
+*Photographic colour processes*
+
 - Technicolor
 - Kinemacolor
 - Anscocolor
@@ -363,8 +375,9 @@ Optionally, if considered relevant, describe the system or process by which colo
 - Kodachrome
 - Eastmancolor
 
-- RGB
-- YUV
+For digital colour encoding, colour space, and transfer function, see [Colour](../../items/elements_of_a_moving_image_item/index.md#sec-colour) in the Item chapter. Record these characteristics at Manifestation level only where they apply to the associated Items.
+
+Manifestation-level information should describe characteristics applicable to the associated Items; record Item-specific characteristics and differences in the Item descriptions. These groupings do not require separate database fields.
 
 <a id="sec-extent_of_a_manifestation"></a>
 ## Extent of a Manifestation[^1]
@@ -505,7 +518,6 @@ Dates and country of Manifestation are not elements of a Manifestation under EN 
 [^8]: This definition from Academy Film Archive in-house glossary of terms.
 [^9]: RDA 3.17. 01
 [^10]: Based on AMIM2 5C3.
-[^11]: RDA 7.17.3 Colour of Moving Image
 [^12]: RDA 7.17.3 Colour of Moving Image
 [^13]: AMIM2, 5B5, p.9
 [^14]: RDA: 3.4.0.4
