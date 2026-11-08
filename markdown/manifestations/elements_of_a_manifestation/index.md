@@ -410,10 +410,7 @@ Manifestation-level information should describe characteristics applicable to th
 
 <a id="sec-extent_of_a_manifestation"></a>
 ## Extent of a Manifestation[^1]
-The concept of extent as applied to Manifestations is the “ideal” logical, physical, or temporal (duration) units and not a description of a real physical object.
-Actual objects in the collection are described at the Item level.
-
-The extent of a Manifestation must be recorded as a reference for the completeness of all the related Items, using appropriate authoritative secondary sources where feasible.
+For a Manifestation describing a particular release or edition, record its expected or “ideal” extent as a reference for assessing the completeness of associated Items, using appropriate authoritative sources where feasible. Where a Manifestation groups varied production materials or derivatives, a single expected extent need not apply to every Item. Record the actual extent of each object at Item level.
 
 <a id="sec-logical_extent_of_a_manifestation"></a>
 ### Logical Extent of a Manifestation
@@ -466,8 +463,7 @@ Alternatively, provide for a distinguishing “precision” field specifying if 
 
 <a id="sec-physical_extent_of_an_aggregate_manifestation"></a>
 #### Physical Extent of an Aggregate Manifestation
-For Aggregate Manifestations record the length or footage of the whole, i.e. the total in feet or metres of all the units that constitute the Aggregate.
-In addition there is the option to qualify this with details of the physical extent of each individual unit in either a Notes field, or in multiple occurrences of the duration fields, depending on what systems used permit or an institution decides.
+For an Aggregate Manifestation, record its total extent using the guidance above for the relevant medium. Where useful, also record the extent of individual constituents, making clear what each measurement describes—for example, a constituent film or a reel. This information may be recorded using the available descriptive elements or notes.
 
 For more information about aggregates, see [Aggregates (Compilations, Multi-component productions)](../../aggregates/index.md).
 
