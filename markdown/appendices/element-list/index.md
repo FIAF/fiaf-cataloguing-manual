@@ -33,10 +33,8 @@
 |  |  | 2.4.4 | Items |  |  |
 |  |  |  |  | 3.1.3 | Holding Institution |
 |  |  |  |  | 3.1.4 | Element Type |
-|  |  | 2.3.4 | Format | 3.1.5 | Item Physical-Digital Description |
-|  |  | 2.3.4.1 | Carrier Type | 3.1.5.1 | Carrier Type |
-|  |  | 2.3.4.1.1 | Carrier Type: General | 3.1.5.1.1 | Carrier Type: General |
-|  |  | 2.3.4.1.2 | Carrier Type: Specific | 3.1.5.1.2 | Carrier Type: Specific |
+|  |  | 2.3.4 | Physical and Digital Description | 3.1.5 | Item Physical-Digital Description |
+|  |  | 2.3.4.1 | Format | 3.1.5.1 | Format |
 |  |  | 2.3.4.3 | Sound Characteristics | 3.1.5.3 | Sound |
 |  |  | 2.3.4.3.1 | Sound systems | 3.1.5.5 | Sound System |
 |  |  | 2.3.4.3.2 | Sound Channel Configuration | 3.1.5.4 | Sound Channel Configuration |

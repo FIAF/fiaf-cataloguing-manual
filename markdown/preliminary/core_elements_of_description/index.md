@@ -33,7 +33,7 @@ They represent an ideal minimum set of metadata for moving image cataloguing.
   <tr><td> Cast </td><td> Agents (e.g. Cast, Credits, Person, Organisation, etc.) [Work] </td><td> Agent Activity = Cast [Work] </td></tr>
   <tr><td> Credits (including Production Companies) </td><td> Agents [Work] </td><td> Agent Activity = Credit (use term for actual role)  [Work] </td></tr>
   <tr><td> Country of Reference </td><td> Country of reference [Work] </td><td>  </td></tr>
-  <tr><td> *Original Format </td><td> Format of a moving image Manifestation [Manifestation] </td><td> Specific Carrier Type: [Manifestation] </td></tr>
+  <tr><td> *Original Format </td><td> Physical and Digital Description of a Manifestation [Manifestation] </td><td> Format [Manifestation] </td></tr>
   <tr><td> *Original Length </td><td> Extent of a Manifestation [Manifestation] </td><td> Physical extent of a Manifestation </td></tr>
   <tr><td> *Original Duration </td><td> Extent of a Manifestation [Manifestation] </td><td> Duration of a Manifestation </td></tr>
   <tr><td> *Original Language </td><td> Language(s) [Work] </td><td> Language Term + Usage type [Work] </td></tr>
@@ -50,7 +50,7 @@ They represent an ideal minimum set of metadata for moving image cataloguing.
 | Cast | Agents (e.g. Cast, Credits, Person, Organisation, etc.) [Work] | Agent Activity = Cast [Work] |
 | Credits (including Production Companies) | Agents [Work] | Agent Activity = Credit (use term for actual role)  [Work] |
 | Country of Reference | Country of reference [Work] |  |
-| *Original Format | Format of a moving image Manifestation [Manifestation] | Specific Carrier Type: [Manifestation] |
+| *Original Format | Physical and Digital Description of a Manifestation [Manifestation] | Format [Manifestation] |
 | *Original Length | Extent of a Manifestation [Manifestation] | Physical extent of a Manifestation |
 | *Original Duration | Extent of a Manifestation [Manifestation] | Duration of a Manifestation |
 | *Original Language | Language(s) [Work] | Language Term + Usage type [Work] |
@@ -111,8 +111,7 @@ See [Examples of records containing core elements in the different levels of hie
   <tr><td> Agents </td><td> Cast, credits, rights holders, creator, etc. </td><td> Distributor, broadcaster, publisher </td><td> Donor, Archive/archivist, technician, restorer, etc. </td></tr>
   <tr><td> Rights context </td><td> Copyright holder and date </td><td> Platforms, territories, dates. Agents (distributors, license holder) </td><td> Transfer of ownership </td></tr>
   <tr><td> Event types </td><td> Awards Censorship Production IPR registration </td><td> Pre-release, theatrical, non-theatrical, transmission, home viewing, internet, not for release, censorship etc. </td><td> Acquisition Reproductions Disposal </td></tr>
-  <tr><td> Format general </td><td>  </td><td> 35mm film, digital cinema, blu ray, etc. </td><td>  </td>
-  <tr><td> Format specific </td><td>  </td><td>  </td><td> 16mm film pos, 35mm lavender separation, ProRes422 HQ, etc. </td></tr>
+  <tr><td> Format </td><td>  </td><td> 35mm film, DVD-Video, DCP, etc. </td><td> 16mm film, Digital Betacam, MOV, etc. </td></tr>
   <tr><td> Condition report </td><td>  </td><td>  </td><td> Pristine, not for projection, heavy scratches, etc. </td></tr>
   <tr><td> Storage location </td><td>  </td><td>  </td><td> Home location, current location, previous location </td></tr>
   <tr><td> Conservation recommendations </td><td>  </td><td>  </td><td> Urgent transfer required, relocate sub-zero, etc. </td></tr>

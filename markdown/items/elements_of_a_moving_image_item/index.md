@@ -134,34 +134,20 @@ Independently acquired digital objects may warrant separate Item descriptions ev
 Institutions may record as much technical information as they wish or need, but the Physical and Digital Description elements of an Item should ideally consist of the elements listed in the sub-sections below where discernible.
 
 <a id="sec-media_type"></a>
-### Media Type (aka Carrier Type)
-
-Media type is the medium on or the encoding format in which the Item is fixed.
-
-Its description consists of a **general media** type, which describes the basic properties of the Item’s physical format, for example, film, video tape, digital file, etc., and a **specific media type**, which corresponds to the gauge, in the case of films and tapes, and for digital files, to the physical carrier on which the file is stored or containers, when carriers for files are not separately catalogued.
-
 <a id="sec-item_general_media_type"></a>
-#### General Media Type[^5] (aka General Carrier Type)
-The broad media type of the Item (e.g., film, video, audio, optical, digital file).
-Recording this high-level information will enable simple searching for only film, video, digital, etc. elements rather than searching by all possible formats and media types.
-
-Record only if this information is not captured at the Manifestation level or if required at the Item level by the system in use.
-
-A suggested list can be found in [Manifestation General Media Type].
-
-For reasons of clarity and to avoid redundancy, optionally, institutions can decide to skip the general media type description for film and video, since it is already implicit in the specific media type.
-
 <a id="sec-item_specific_media_type"></a>
-#### Specific Media Type[^6] (aka Specific Carrier Type)
+<a id="sec-item_format"></a>
+### Format
 
-The specific media type for analogue film and video can be the width of the film stock or of the magnetic tape on which the Item is fixed.
+Format describes the physical or digital technical form in which content is fixed, including the physical medium, recording format, digital file format, or package format. It helps identify the technology, equipment, or software required to read, decode, reproduce, or play back that content. Other technical characteristics may be needed to establish the full playback requirements. Format should be distinguished from the Item's intended function, which is described through [Element Type](#sec-item_item_element_type).
 
-For digital files, it is most important for users to immediately identify the file container or wrapper (MXF, MOV, DPX, etc.) rather than the physical media on which it is stored, because the physical media storing a file can change, but that does not necessarily mean that the file format has changed. It is the digital file format that is the important distinguishing factor. Information on the specific codecs and resolution are captured in other Item properties.
+Cataloguing systems may record format information in one field or distribute it across several fields, such as General Carrier Type and Specific Carrier Type, as used in the first edition of this manual (2016).[^5] Use the available structure consistently so that the technical format of the object can be identified. For digital materials, distinguish the format of the digital object from that of the physical storage media holding its copies.
 
-For optical media, only add commercially produced media here. If the optical media is “writable” and is being used to store a digital file, put the digital file format in the general media type, and the optical storage media in specific media type.
+Record the format of the actual Item. Reuse applicable Manifestation-level information and record Item-specific differences. Broad format designations may support searching, but separate general and specific fields or a hierarchical vocabulary are not required by this guidance. For common recording guidance, illustrative format terms, and the relationship to EN 15907, see [Format](../../manifestations/elements_of_a_manifestation/index.md#sec-manifestation_format).
 
-Record the specific media type, selecting from a suitable controlled list.
-A suggested list, which is open and not exhaustive, can be found in [Manifestation Specific Media Type].
+For digital objects, identify the relevant container, image, or package format. A package may contain files in several formats, and an image sequence may comprise many files in the same image format. Record component formats where necessary to make the description unambiguous, without requiring a separate catalogue record for each file. Information on codecs and resolution is recorded in the corresponding technical properties.
+
+Distinguish an authored audio or video disc from an optical disc used to store digital objects. The fact that a disc is writable or commercially produced does not, by itself, determine the function or technical format of its contents. For the distinction between digital objects and physical storage media, see [Moving Image Items](../index.md#sec-moving_image_items).
 
 <a id="sec-item_status"></a>
 ### Item Status
@@ -413,8 +399,7 @@ Individual institutions may also choose to capture further data as required, e.g
 [^2]: Based on EN 15907, Instantiation type
 [^3]: EN 15907, “Inventory number,” p. 12
 [^4]: See The FIAF Cataloguing Rules for Film Archives (1991). 5. Physical Description. Introduction
-[^5]: Based on EN 15907, General Carrier Type
-[^6]: Based on EN 15907, Specific Carrier Type
+[^5]: The first edition of [The FIAF Moving Image Cataloguing Manual (2016)](https://www.fiafnet.org/images/tinyUpload/E-Resources/Commission-And-PIP-Resources/CDC-resources/20160920_Fiaf_Manual-WEB.pdf), §§3.1.5.1.1–3.1.5.1.2, uses General Carrier Type and Specific Carrier Type. These are not separately named elements in EN 15907; see the correspondence explained under Format in the Manifestation chapter.
 [^7]: RDA 7.17.3 Colour of Moving Image
 [^8]: ISO 8601
 [^9]: Based on RDA 2.20.1.Basic Instructions on Making Notes on Manifestations or Items

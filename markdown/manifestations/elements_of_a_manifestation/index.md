@@ -153,7 +153,8 @@ The Item should record the actual characteristics of the material held by an ins
 Alternatively, an insitution may take the stance that multiple language choice options are a known integral part of any DVD, Blu Ray, and digital streaming - whether one or two dubbed/subtitled language options, or twenty plus options - and do not necessarily all need to be captured on the Manifestation/Item in their records. If the focus or interest of their users is most likely to be for accessing a moving image in their own spoken or subtitled language then an institution may decide to prioritise just that in the Language and Usage fields of their relevant Manifestation/Item records, taking the "core description" approach.  
 
 <a id="sec-format_of_a_moving_image_manifestation"></a>
-## Format of a Moving Image Manifestation
+<a id="sec-physical_digital_description_of_a_manifestation"></a>
+## Physical and Digital Description of a Manifestation
 As previously mentioned, a Manifestation is defined on the basis of two criteria: changes in the publication context and changes in format.
 Physical and digital description records technical characteristics such as format, projection, sound, and colour. For a Manifestation describing a particular release or edition, its expected characteristics can provide a reference for the associated Items, regardless of which Items are held in a collection.
 
@@ -176,86 +177,64 @@ Record a new Manifestation of a Work/Variant when there is evidence of at least 
 
 In a note (See [Cataloguer’s Notes](../../appendices/cataloguers-notes/index.md)), explain the format changes used to determine the Manifestation in hand as different and “new” in comparison with any other, already identified and described Manifestation.
 
-The description of the format of a Manifestation is articulated in the following elements:
+The physical and digital description of a Manifestation includes the following elements:
 
-- Media type
+- Format
 - Projection characteristics
 - Sound characteristics
 - Colour characteristics
 
 <a id="sec-media_type_of_a_manifestation"></a>
-### Media Type of a Manifestation  
-The media type is the medium on or the encoding format in which the Manifestation is fixed.
-
-Its description consists of a general media type, which describes the basic proper- ties of the Item’s physical format, for example, film, video tape, digital file, etc., and a specific media type, which corresponds to the gauge, in case of films and tapes, and for digital files, to the physical carrier on which the file is stored or containers, when carriers for files are not separately catalogued.
-
 <a id="sec-manifest_general_media_type"></a>
-#### General Media Type 
-The broad media type of the Manifestation (e.g., film, video, audio, optical, digital file).
-Recording this high-level information will enable simple searching for only film, video, digital, etc. elements rather than searching by all possible formats and carriers. A suggested list, which is open and not exhaustive, can include:
-
-- Film
-- Video Tape
-- Video Disc
-- Digital Tape
-- Digital Disc
-- Digital File
-
 <a id="sec-manifest_specific_media_type"></a>
-#### Specific Media Type
-The specific media type for analogue film can be the width of the film stock or of the magnetic tape on which the Item is fixed.
-For digital files, it is most important for users to immediately identify the file container or wrapper (MXF, MOV, DPX, etc.) rather than the physical media on which it is stored, because the physical media storing a file can change, but that does not necessarily mean that the file format has changed.
-It is the digital file format that is the important distinguishing factor.
-Information on the specific codecs and resolution are captured in other Item properties.
+<a id="sec-manifestation_format"></a>
+### Format
 
-For optical media, only add commercially produced media here.
-If the optical media is “writable” and is being used to store a digital file, put the digital file format in the general media type, and the optical storage media in specific media type.
+Format describes the physical or digital technical form in which content is fixed, including the physical medium, recording format, digital file format, or package format. It helps identify the technology, equipment, or software required to read, decode, reproduce, or play back that content. Other technical characteristics may be needed to establish the full playback requirements.
 
-Institutions should develop standard lists of terms to indicate the specific carrier type or refer to authoritative existing lists.
+This develops the information addressed through Carrier type and Gauge within EN 15907's broader Format description.[^format_standard] Other technical characteristics, including aspect ratio, sound, colour, and digital codecs, are described separately in this manual.
 
-!!! example "Example"
-    YEE ([http://myee.bol.ucla.edu/catrul.doc](http://myee.bol.ucla.edu/catrul.doc)) 5.3.3 (physical carriers) 
+Cataloguing systems may record format information in one field or distribute it across several fields, such as General Carrier Type and Specific Carrier Type, as used in the first edition of this manual (2016).[^format_history] Use the available structure consistently so that the technical format of the object can be identified. For digital materials, distinguish the format of the digital object from that of the physical storage media holding its copies.
 
-    AMIM2 5D, pp. 18-19 (for gauges/width values) 
+Use terminology appropriate to the collection and cataloguing system, drawing on a controlled vocabulary where available. Broad designations such as Film, Audio, Video, or Digital file may support initial identification and searching. Record more specific technical format information where known and relevant. This guidance does not require separate general and specific fields or a hierarchical vocabulary.
 
-    AMIM2 5B7, pp. 10-11 (including both “tape” and “disc” based video formats). 
+For film and tape, distinguish gauge—the width of the material—from format. A format designation may include its gauge, but different formats may use material of the same width. For example, Standard 8 and Super 8 share the same nominal gauge but differ in perforation and image dimensions. Gauge remains a distinct descriptive attribute and may be recorded separately, even when it is also included in the format designation.
 
-    RDA 3.20; YEE ([http://myee.bol.ucla.edu/catrul.doc](http://myee.bol.ucla.edu/catrul.doc)) 5.3.14 (for encoding formats). 
+For digital objects, distinguish container formats, image file formats, and package formats. A package may contain files in several formats; an image sequence may comprise many files in one image format. Describe the component formats where needed to make their application clear. Codecs describe the encoding of the digital content and should not be treated as interchangeable with container or package formats.
 
-    PBCore instantiationPhysical [http://metadataregistry.org/concept/list/vocabulary_id/145.html](http://metadataregistry.org/concept/list/vocabulary_id/145.html) (for physical carriers) 
+Authored audio and video disc formats should be distinguished from optical media used to store digital objects. Whether a disc is writable or commercially produced does not, by itself, identify the technical format of its contents. Where physical storage media are also recorded in the catalogue, keep their characteristics distinguishable from those of the digital objects. See [Moving Image Items](../../items/index.md#sec-moving_image_items) for the scope of this distinction.
+
+The following terms are examples, not exhaustive lists or a prescribed classification. They are grouped by the kind of equipment or software needed, as described above. Audio and video carrier formats may record analogue or digital signals; file-based audio and video objects are described through their digital formats.
+
+| **Format** | **Examples** |
+| --- | --- |
+| Film | Standard 8mm film, Super 8mm film, 16mm film, 35mm film, 35mm magnetic film, 70mm film |
+| Audio tapes and discs | Open-reel audiotape, Audiocassette, CD (audio), DAT |
+| Video tapes and discs | 1-inch Type C, U-matic, Betacam SP, Digital Betacam, DVD-Video, Blu-ray |
+| Digital files and packages | Container formats: MOV, MXF, MKV, MP4, WAV; image file formats: DPX, TIFF, OpenEXR; package formats: DCP, DCDM, IMF |
+| Physical storage media | LTO tape, hard disk drive, data disc such as DVD-R |
+
+Physical storage media are listed for institutions that catalogue them. Their format describes the medium, not the digital objects it holds, which are described by their own formats.
+
+#### Sources for Format Terminology
+
+Institutions may develop their own controlled lists or refer to existing sources. These include SMPTE standards, engineering guidelines, and recommended practices, as well as the following:
+
+!!! example "Examples of sources"
+    YEE ([http://myee.bol.ucla.edu/catrul.doc](http://myee.bol.ucla.edu/catrul.doc)) 5.3.3 (physical carriers)
+
+    AMIM2 5D, pp. 18-19 (for gauges/width values)
+
+    AMIM2 5B7, pp. 10-11 (including both “tape” and “disc” based video formats).
+
+    RDA 3.20; YEE ([http://myee.bol.ucla.edu/catrul.doc](http://myee.bol.ucla.edu/catrul.doc)) 5.3.14 (for encoding formats).
+
+    PBCore instantiationPhysical [http://metadataregistry.org/concept/list/vocabulary_id/145.html](http://metadataregistry.org/concept/list/vocabulary_id/145.html) (for physical carriers)
 
     PBCore instantiationDigital ([http://pbcore.org/pbcoreinstantiation/instantiationdigital/](http://pbcore.org/pbcoreinstantiation/instantiationdigital/)) (for broad digital formats)
 
-Additional sources of information include several SMPTE standards, engineering guidelines, and recommended practices. These are some of the most common terms, but not a complete or definitive list.
-
-| **Film Gauge** | **Video** | **Audio** | **Optical** | **Digital File** | **Digital File Encoding** |
-| --- | --- | --- | --- | --- | --- |
-| 35mm | 1-inch C Format | 2” audioreel | CD | DPX | MPEG-4 |
-| 16mm | Digital Betacam | 1” audioreel | DVD | MOV | Quicktime |
-| Super 16mm | Betacam SP | ½” audioreel | Blu-Ray | MP4 | Real video |
-| 8mm | 2-inch Quadruplex | ¼” audioreel | Laser Disc | MXF | SVCD |
-| Super8mm | HDCAM SR | audiocassette |  | AVI | VCD |
-| 9.5mm | D1 | 35mm magnetic track |  |  | Windows Media |
-| 17.5mm | D5 | 16mm magnetic track |  |  |  |
-| 70mm | DVCPRO HD |  |  |  |  | 
-
-For digital files, list the physical carrier on which the file is stored. For all other materials, use this element to provide more specific information on the physical carrier.
-
-Institutions should develop standard lists of terms to indicate the specific carrier type or refer to authoritative existing lists.
-
-These are some of the most common terms, but not a complete or definitive list.
-
-- LTO5
-- LTO6
-- T10000D
-- HDD (abbreviated for “external hard drive”)
-- DVD-R
-- Blu-Ray 
-
-For reasons of clarity and to avoid redundancy, optionally, institutions can decide to skip the general carrier type description, since it is already implicit in the specific carrier type.
-
 <a id="sec-projection_characteristics_of_a_manifestation"></a>
-## Projection Characteristics of a Manifestation  
+### Projection Characteristics of a Manifestation
 The projection characteristics of a Manifestation include aspect ratio and aperture or image format.
 
 **Aspect Ratio/Image Ratio**
@@ -531,3 +510,5 @@ Dates and country of Manifestation are not elements of a Manifestation under EN 
 [^16]: Definition of “Stretch frame” taken from: [http://www.nfsa.gov.au/preservation/glossary/stretch-frame](http://www.nfsa.gov.au/preservation/glossary/stretch-frame).
 [^17]: Adapted from FIAF 5.3.4.2.
 [^18]: Based on RDA 2.20.1.Basic Instructions on Making Notes on Manifestations or Items
+[^format_standard]: EN 15907:2010, §6.7, Format. Carrier type and Gauge are elements within its broader Format description, alongside aspect ratio, sound system, and colour; this is a correspondence, not an assertion of identical scope.
+[^format_history]: See the first edition of [The FIAF Moving Image Cataloguing Manual (2016)](https://www.fiafnet.org/images/tinyUpload/E-Resources/Commission-And-PIP-Resources/CDC-resources/20160920_Fiaf_Manual-WEB.pdf), §§2.3.4.1.1–2.3.4.1.2 (Manifestation) and §§3.1.5.1.1–3.1.5.1.2 (Item), General Carrier Type and Specific Carrier Type.
