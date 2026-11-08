@@ -78,12 +78,15 @@ Record the name of the institution possessing the moving image Item or authorise
 Optionally, if available, record a suitable repository identifier or a registered namespace identifier for the institution.
 
 <a id="sec-item_location"></a>
+<a id="sec-item-location"></a>
 ### Item Location
-Item descriptions should indicate a storage location number in order to provide access and retrieval.
-Movements and changes of location should also be logged in order to ascertain the precise location of an Item at any given time.
-If possible, use the Item Identifier and Identifier Type fields to note an Item’s location (see [Identifier](../../items/elements_of_a_moving_image_item/index.md#sec-item_identifier)).
+Record location information sufficient to locate and retrieve the Item. Where locations have identifiers, record these as part of the location information.
 
-This could be a single simple field, or could include multiple fields to reflect various electronic package or barcode numbers that may be attached to each individual can or container, shelf, or whatever is applicable to an individual institution.
+Keep the Item’s identifier distinguishable from its location information, even where a shelf mark or other location-based reference also serves as an identifier.
+
+Record movements and changes of location so that the current location of the Item or its parts can be established. Location information may be recorded directly or provided through linked records or systems, according to institutional practice. Barcodes may identify containers or storage locations and support the tracking of movements.
+
+Where copies of a digital object are held in multiple storage locations, location information may refer to those copies without treating each as a separate Item. For digital Items, persistent identifiers may link to current access or storage information without making the location itself the Item’s identifier (see [Identifier](#sec-item_identifier)).
 
 <a id="sec-item_acquisition type"></a>
 ### Item Acquisition Type
@@ -450,10 +453,6 @@ The identification of the individual who carried out the technical assessment an
 As stated above, people or companies performing inspections are Agents.
 
 Note any indication that the Item is in need of servicing prior to being accessed for use.
-
-<a id="sec-item-location"></a>
-## Item location
-Location information should be indicated in order to provide access and retrieval. Movements and changes of location should also be logged in order to ascertain the precise location of an Item (or Item-parts) at any give time. This can either be added to the Item record itself or displayed from a linked/related container record (i.e. a record for the actual physical film can, videotape box, etc.) - depending on the system used by an individual institution. Some Archives may use barcoding systems for identifying location, with built in tracking.
 
 <a id="sec-notes_for_items"></a>
 ## Notes for Items
