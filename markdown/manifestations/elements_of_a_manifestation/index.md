@@ -329,50 +329,47 @@ Further examples can be found in [The Advanced Projection Manual](https://iupres
 
 <a id="sec-sound_characteristics_of_a_manifestation"></a>
 ### Sound Characteristics of a Manifestation
-Sound characteristics are technical specifications relating to the placement of sound on a Manifestation.[^9]
+Sound characteristics describe the presence or absence of recorded sound and, where relevant, its technical characteristics.[^9] The example lists below distinguish these aspects; they are suggested values, not exhaustive lists. Select terms from one or more controlled vocabularies appropriate to the aspects being described.
 
-Its description consists of a statement about the presence or absence of sound, and optionally, in case of presence, of the description of the method with which the sound has been fixed.
+**Presence or absence of sound**
 
-Indicate the presence or absence of sound in the Manifestation. Selection should be made from a controlled list of terms, e.g.:
+Select terms from a controlled vocabulary, for example:
 
-- Sound  
-- Silent  
-- Mute  
-- Combined  
-- Combined as Mute  
-- Combined as Sound  
-- Mixed  
-- Temporary 
+- Sound
+- Silent
 
-Optionally, use a flag-type value indicating if the Manifestation includes recorded sound or not (i.e.: has sound: yes/no).
+If the associated Work/Variant originally had sound but the Manifestation lacks it, record the absence and explain it in a note.[^10]
+
+If the associated Work/Variant was originally silent but the Manifestation includes added recorded sound, describe it as Sound and explain the addition in a note.
+
+Optionally, also record a yes/no value indicating whether recorded sound is present.
 
 <a id="sec-sound_systems"></a>
-#### Sound Systems
-Describes the technical or proprietary system used to record the sound on a Manifestation. Select from a controlled list, e.g.:
-
-- Dolby SR
-- Dolby Digital
-- Mute
-- Combined Magnetic Sound
-- Combined Optical Sound
-- VA RCA Duplex
-
-<a id="sec-manifest_sound_channel_configuration"></a>
-#### Sound Channel Configuration and Sound Fixation Type
-If the Manifestation has sound, note here the track configuration (e.g., mono, stereo, etc.).
-Selection should be made from a controlled list of terms.
-
-In case of presence of sound, optionally, if considered relevant, record the name of the physical principle of sound recording. Selection should be made from a controlled list of terms, e.g.:
+#### Sound System
+Describe the sound system used, using a broad category or a specific system as appropriate. Select terms from a controlled vocabulary, for example:
 
 - Needle sound
 - Optical
 - Magnetic
-- Analogue sound
-- Digital
+- Dolby Stereo SR
+- Dolby Digital
+- VA RCA Duplex
 
-If the Work/Variant associated with the Manifestation in hand had sound originally, but the Manifestation lacks sound, describe it as silent (or mute) and give a note to that effect.[^10]
+<a id="sec-noise_reduction"></a>
+#### Noise Reduction
+Some sound systems, such as Dolby Stereo, incorporate noise reduction; it may also be used with other recording methods, such as magnetic sound. Where relevant, describe noise reduction separately from the sound system, for example:
 
-If the Work/Variant associated with the Manifestation in hand was silent originally, but the Manifestation has sound added, describe it as sound and make a note to that effect.
+- Dolby A
+- Dolby SR
+
+<a id="sec-manifest_sound_channel_configuration"></a>
+#### Sound Channel Configuration
+If recorded sound is present, describe its channel configuration. Select terms from a controlled vocabulary, for example:
+
+- Mono
+- Stereo
+
+These terms describe the arrangement of sound channels, not the sound system. The groupings above do not require separate database fields.
 
 <a id="sec-colour_characteristics_of_a_manifestation"></a>
 ### Colour Characteristics of a Manifestation

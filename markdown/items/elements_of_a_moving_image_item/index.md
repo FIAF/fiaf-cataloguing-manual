@@ -194,9 +194,10 @@ Select terms from a controlled vocabulary, for example:
 
 - Sound
 - Silent
-- Mute
 
 The absence of recorded sound in an Item does not, by itself, establish that its associated Manifestation lacks sound or that the Work was originally silent.
+
+For film, distinguish a mute element with a blank soundtrack area from a silent-format element whose image extends into the area otherwise reserved for the soundtrack.
 
 Reuse applicable Manifestation-level information and record Item-specific differences. See also [Sound Characteristics of a Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-sound_characteristics_of_a_manifestation).
 
@@ -210,23 +211,17 @@ Where an Item includes sound components or selectable soundtracks with different
 ### Sound System
 See also [Sound Characteristics of a Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-sound_characteristics_of_a_manifestation)
 
-Record the technical sound system and, where relevant, the soundtrack type present on the Item. Select terms from a controlled vocabulary.
-
-For film, distinguish a mute element with a blank soundtrack area from a silent-format element whose image extends into the area otherwise reserved for the soundtrack.
+Record the sound system present on the Item, using a broad category or a specific system as appropriate. Select terms from a controlled vocabulary.
 
 Examples of sound systems:
 
-- Dolby SR
+- Magnetic stripe
+- Optical variable area
+- Dolby Stereo SR
 - Dolby Digital
 - VA RCA Duplex
 
-Examples of soundtrack types:
-
-- Mute
-- Combined Magnetic Sound
-- Combined Optical Sound
-
-These characteristics are not mutually exclusive; record the applicable system and soundtrack type using the fields available.
+Where relevant, record noise reduction separately; see [Noise Reduction](../../manifestations/elements_of_a_manifestation/index.md#sec-noise_reduction).
 
 <a id="sec-colour"></a>
 ### Colour
