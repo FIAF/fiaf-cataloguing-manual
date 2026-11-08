@@ -169,13 +169,7 @@ Therefore guidelines for the treatment of high-level physical and digital descri
 The Item chapter contains a detailed listing of item-specific elements.
 Where Extent and Format at Manifestation level describe an expected or “ideal” release, Item-specific information records the actual material and any differences from that reference. Where the Manifestation groups varied materials, describe each Item on its own terms rather than treating its different characteristics as deviations from a single ideal object.
 
-Differences in format can help distinguish Manifestations. Apply the criteria below together with the institutional options described in [Boundaries between Manifestations](../../boundaries/boundaries_between_manifestations/index.md), including the option of associating an in-house copy in a different format with the same Manifestation as its source.
-
-Subject to those institutional options, record a new Manifestation of a Work/Variant when there is evidence of one or more of the following changes associated with the format:
-
-- Changes to the physical artefact or the digital file on which it is fixed
-- Changes to the display characteristics (i.e. in aspect ratio, sound or colour characteristics, etc.)
-- Change in the container (i.e. cassette to cartridge as container for a tape).
+Differences in format can help distinguish Manifestations. Apply the criteria and institutional options described in [Boundaries between Manifestations](../../boundaries/boundaries_between_manifestations/index.md#sec-changes_in_the_format), including the option of associating an in-house copy in a different format with the same Manifestation as its source.
 
 In a note (See [Cataloguer’s Notes](../../appendices/cataloguers-notes/index.md)), explain the format changes used to determine the Manifestation in hand as different and “new” in comparison with any other, already identified and described Manifestation.
 
