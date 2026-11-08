@@ -457,7 +457,7 @@ Alternatively, provide for a distinguishing “precision” field specifying if 
 
 <a id="sec-physical_extent_of_an_aggregate_manifestation"></a>
 #### Physical Extent of an Aggregate Manifestation
-For an Aggregate Manifestation, record its total extent using the guidance above for the relevant medium. Where useful, also record the extent of individual constituents, making clear what each measurement describes—for example, a constituent film or a reel. This information may be recorded using the available descriptive elements or notes.
+Where useful, record the total extent of an Aggregate Manifestation using the guidance above for the relevant medium. Where useful, also record the extent of individual constituents, making clear what each measurement describes—for example, a constituent film or a reel. Applicable constituent measurements already available through linked descriptions need not be recorded again. This information may be recorded using the available descriptive elements or notes.
 
 For more information about aggregates, see [Aggregates (Compilations, Multi-component productions)](../../aggregates/index.md).
 
@@ -482,6 +482,8 @@ If the duration/running time of a Manifestation is unknown, record the informati
 When recording the duration of an Aggregate Manifestation, make clear whether it describes a continuous presentation, an individual programme or version, or the combined running times of several programmes or versions. Do not add the durations of components that play simultaneously.
 
 Where useful, record the running times of individual constituents using the available descriptive elements or a note.
+
+Applicable constituent measurements already available through linked descriptions need not be recorded again.
 
 !!! example "Example"
     DVD “The Audrey Hepburn Collection” contains three films with additional features. The container gives the running time of each film.

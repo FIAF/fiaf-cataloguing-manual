@@ -33,7 +33,7 @@ The vast majority of commercial DVD editions now contain “extras” and so are
 
 <a id="sec-parallel_aggregates"></a>
 ## Parallel Aggregates
-Identical moving image Works/Variants but in different languages released on one Manifestation.
+A Parallel Aggregate brings together different language versions of a moving image, described as distinct Works/Variants, within one Manifestation. Selectable soundtracks or subtitles within one digital object do not, by themselves, require this aggregate structure; see [Multiple Language Options](../../manifestations/elements_of_a_manifestation/index.md#sec-multiple_language_options_for_digital_manifestions_items).
 
   Example:
 
@@ -42,9 +42,6 @@ Identical moving image Works/Variants but in different languages released on one
     
     A publication in 2004 by Seville Films contains three language versions; French dialogue, English dubbed dialogue,    English subtitles. There is complete parallelism between the English and French Variants; each is equal in duration and, except for the language, appear to be equivalent.
 
-For Aggregate Manifestations record the length/duration of the whole, i.e. the total of all the units/running times that constitute the Aggregate.  
-
-In addition there is the option to qualify this with details of the duration of each individual unit in either a Notes field, or in multiple occurrences of the duration fields, depending on what systems used permit or an institution decides.
-(See [Physical Extent of an Aggregate Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-physical_extent_of_an_aggregate_manifestation) and [Duration of an Aggregate Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-duration_of_an_aggregate_manifestation))
+Where applicable extent or duration information is already available through linked descriptions, it need not be recorded again. Make clear which constituents and versions the information describes. Where useful, record measurements for the aggregate as a whole, distinguishing physical or digital extent from playback duration. See [Physical Extent of an Aggregate Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-physical_extent_of_an_aggregate_manifestation) and [Duration of an Aggregate Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-duration_of_an_aggregate_manifestation).
 
 [^1]: Published within the context of moving image means released or broadcast, and may also include in-house aggregate creation

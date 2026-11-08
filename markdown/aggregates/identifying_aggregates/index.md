@@ -30,6 +30,8 @@ In those databases where there are records for the individual reels/tapes/files 
 
 Decisions on which structure to use will depend on what structuring an institution's database will accommodate and allow.
 
+Digital objects stored together on an LTO tape or another storage medium do not, by that fact alone, form an Aggregate Manifestation. Distinguish intentional compilations or publications from objects that merely share storage; see [Moving Image Items](../../items/index.md#sec-moving_image_items).
+
 Digital Manifestations, such as DVDs, Blu Rays, and streamed moving images, that have additional selectable language options chosen by the viewer are deemed to be Aggregate Manifestations under RDA.[^1]
 
 <a id="sec-hybrid_aggregates_and_multi_component_moving_images"></a>
