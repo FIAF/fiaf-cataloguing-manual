@@ -47,19 +47,21 @@ The example below shows a number of possible Manifestations of the original Ital
 
 In-house transfers or conversions, such as a film-to-video transfer or the creation of a differently encoded digital derivative, may be described through a separate Item associated with the same Manifestation as its source. A change in encoding does not, by itself, require a separate Manifestation. Institutions may instead create another Manifestation for such derivatives, taking account of their publication context and technical characteristics and applying a consistent cataloguing policy.
 
-Some may choose always to create a new Manifestation (i.e. a Preservation Manifestation) in such cases , 
+Changes to encoding or packaging do not, by themselves, require a new Work or Variant. Where processing changes the version presented—for example through re-editing, adding or removing footage, or altering dialogue—apply the guidance in [Boundaries between Manifestations and Works or Variants](../boundaries_between_manifestations_and_works_or_variants/index.md).
+
+The following examples illustrate these institutional approaches. An institution may create a separate Manifestation for in-house derivatives, for example a Preservation Manifestation:
 
 <center><object data="/diagrams/pres_02.drawio.svg" type="image/svg+xml" width="50%"></object></center>
 
-or80
+Further Manifestations may distinguish subsequent preservation or access outputs:
 
 <center><object data="/diagrams/pres_03.drawio.svg" type="image/svg+xml" width="80%"></object></center>
 
-or if using Variants
+An example incorporating a Variant is shown below:
 
 <center><object data="/diagrams/pres_04.drawio.svg" type="image/svg+xml" width="80%"></object></center>
 
-whilst others may decide to create a new Manifestation where change in format and change in distribution/publication coincide but simply create a new Item linked to an existing Manifestation where change in format is as a result of in-house copying.
+Alternatively, an institution may associate an in-house derivative with the same Manifestation as its source, while distinguishing Manifestations for changes in publication context:
 
 <center><object data="/diagrams/pres_01.drawio.svg" type="image/svg+xml" width="50%"></object></center>
 

@@ -17,6 +17,12 @@ An Item may consist of one or more components or parts (Item-parts).[^1] These m
 The Item may be whole or incomplete or a fragment.
 A digital Item represents a particular digital object. The object may comprise a single file or a related group of files managed and described as a unit. Its [Element Type](elements_of_a_moving_image_item/index.md#sec-item_item_element_type) records its intended function within a production, duplication, preservation, or access workflow, independently of its file or package formats and physical storage media. Backup copies maintained for the same digital object are storage instances of that object, rather than additional Items. Their number and storage locations do not, by themselves, change the identity of the Item.[^2]
 
+Processing may produce a distinct digital object, such as a differently encoded access copy or a restored master. Where the resulting object is retained and managed separately, describe it as a separate Item and identify its source. The source need not remain in the collection.
+
+Not every modification to an existing digital object requires another Item. Changes made in maintaining that object may be documented in its description or associated history. Consider the nature of the changes, particularly changes to content or encoding, and whether the result is treated as a distinct object.
+
+Whether a resulting Item requires a different Manifestation is a separate decision; see [Boundaries between Manifestations](../boundaries/boundaries_between_manifestations/index.md#sec-changes_in_the_format).
+
 Description of a digital object should be distinguished from description of the physical storage media on which copies are held. A physical storage medium may hold several digital objects or only part of one. Some institutions also record these physical storage media in their catalogues. The management of storage inventory, replication, and storage systems is outside the scope of this guidance. Use of a digital preservation system or digital asset management system does not itself determine what constitutes a digital object.
 
 Cataloguing systems and practices vary, including paper-based catalogues and systems in which holdings can only be described through their shared carrier or container. Such arrangements should still allow the individual contents to be identified and located. Grouping otherwise distinct Items solely because they share a physical storage container or medium can obscure their relationships to Works and Manifestations and reduce search accuracy. Where the system does not support separate Item descriptions, identify the contents through entries, notes, indexes, or references appropriate to that system.
@@ -114,7 +120,7 @@ There are different options. Structuring choices will very much depend on whethe
 
 The most pragmatic way would be this one: A Work and a Manifestation (Variant optional) record is created, e.g. Manifestation Type "Internet" .
 An Item record is created, including all the technical metadata available. You might use tools like Media Info to analyse the file and extract technical metadata. Some systems can pull information directly from the file when the item is created and stored in the long term storage.
-The language options are added as language(s) on the Manifestation and Item level, maybe using a notes' field if necessary to clarify what are the original main language(s) on the print itself and what are the selectable languages in bit streams on the same file. Since the film is originally in English, English would be catalogued at the Manifestation level and other languages at the Item level.
+Describe the language options available in the Item: the English original-language soundtrack, the French dubbed soundtrack, and the English and French subtitle options. Distinguish their usage and selectable availability using the relevant descriptive elements or notes. Manifestation-level language information may describe the publication’s configuration, but the Item description should identify the options actually present. Original and alternative languages need not be allocated to different descriptive levels.
 
 ### Example 3: Legal Deposit: DCDM Package and Streaming File with multiple soundtrack options ###
 
@@ -123,7 +129,7 @@ By Legal deposit, an institution receives 1 DCDM package, 1 Apple QuickTime ProR
 Question: Should the srt files be catalogued as separate items? If not, should they be included within the DCDM’s Item record or within the ProRes’ item record? Also, should a “French subtitled” Variant (or Manifestation) and a “German subtitled” Variant (or Manifestations) be created and how should the relationships between Items, Manifestations and Variants be managed? 
 
 Answer:
-First of all, the decision needs to be made if one or two Manifestations are created, e.g. Type "Theatrical Distribution" if there is a DCP too, or is made, and "Internet" for the streaming file. Your institutions should have rules about that. The original language is English, so that needs to be catalogued at Manifestation level.
+First of all, the decision needs to be made if one or two Manifestations are created, e.g. Type "Theatrical Distribution" if there is a DCP too, or is made, and "Internet" for the streaming file. Your institutions should have rules about that. Identify English as the original language, and make clear which subtitle files are associated with each digital object. Original-language status does not, by itself, determine the descriptive level at which language information is recorded.
 Depending on that, you create Item records (either linked to the same Manifestation or separate ones). 
 
 If an institution uses Variants, a Variant record could be created for the French language version and one for the German language version, plus Manifestations, and each srt file Item under the relevant one could be linked.
