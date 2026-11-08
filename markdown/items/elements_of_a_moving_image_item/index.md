@@ -157,6 +157,8 @@ Each Item should have its own description, whether the physical/digital characte
 
 Institutions may record as much technical information as they wish or need, but the Physical and Digital Description elements of an Item should ideally consist of the elements listed in the sub-sections below where discernible.
 
+Where technical characteristics differ between streams or components of a digital Item, make clear which values belong together and which stream or component they describe. This does not require separate catalogue records.
+
 <a id="sec-media_type"></a>
 <a id="sec-item_general_media_type"></a>
 <a id="sec-item_specific_media_type"></a>
