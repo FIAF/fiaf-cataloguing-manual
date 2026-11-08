@@ -136,6 +136,10 @@ Independently acquired digital objects may warrant separate Item descriptions ev
 
 Institutions may record as much technical information as they wish or need, but the Physical and Digital Description elements of an Item should ideally consist of the elements listed in the sub-sections below where discernible.
 
+A digital file may contain several streams, such as video, audio, or subtitles, including multiple audio or subtitle alternatives. A digital object comprising related files may carry these elements within individual files or across separate files. Where technical characteristics differ between streams or components of a digital Item, make clear which values belong together and which stream or component they describe. This does not require separate catalogue records.
+
+Technical characteristics of digital objects may be obtained from embedded metadata or identified using tools such as [MediaInfo](https://mediaarea.net/en/MediaInfo). Check which stream or component each value describes.
+
 <a id="sec-media_type"></a>
 <a id="sec-item_general_media_type"></a>
 <a id="sec-item_specific_media_type"></a>
@@ -258,7 +262,7 @@ Record only if this information is not captured at the Manifestation level or if
 
 <a id="sec-broadcast_standard_video"></a>
 ### Broadcast Standard - Video
-The broadcast standard for a video or DVD/BluRay, e.g. NTSC, PAL, SECAM, etc.
+Record the broadcast standard applicable to the Item, where relevant, for example NTSC, PAL, or SECAM.
 
 <a id="sec-duration"></a>
 ### Duration
@@ -317,10 +321,11 @@ Identifying the batch number can assist in identifying problems related to speci
 
 <a id="sec-video_codec"></a>
 ### Video Codec
-A video codec refers to a pair of algorithms used for encoding and decoding digital video.
+Record the video encoding used in the digital Item. Where encodings differ between streams or components, identify which encoding applies to each.
 
-Video and digital cinema formats contained in wrappers have separate audio files contained in the format with the video file.
-For example, DCPs (contained in MXF files) are comprised of a JPEG2000 video file and a WAV audio file (along with textual information in an XML file), The audio codec is described separately.
+A digital container may hold video, audio, and subtitle streams within one file. A package may instead contain separate files for image, sound, subtitles, and metadata. These are different levels of technical description, not interchangeable uses of the word file.
+
+For example, a DCP is a package containing MXF picture and sound track files and supporting metadata, rather than a DCP contained in an MXF file. Picture encoding, such as JPEG 2000, and audio encoding, such as PCM, are described separately from the package and container formats. Internal stream descriptions do not, by themselves, create Item-parts.
 
 Examples for value lists:
 
@@ -331,24 +336,28 @@ EBUCore Video Compression Code: [https://web.archive.org/web/20100415174921/http
 
 <a id="sec-audio_codec"></a>
 ### Audio Codec
-The audio compression standard used in the audio file, whether it is contained in a wrapper with a video file or as a standalone audio file.
+The audio encoding used for the sound, whether carried as an audio stream within an audiovisual file or in a separate audio file. Record the encoding for the relevant stream or component where different encodings occur within one Item. Audio encoding may be compressed or uncompressed.
 
 Examples for value lists:
 
 PBCore essenceTrackEncoding vocabulary:
 [http://metadataregistry.org/concept/list/vocabulary_id/156.html](http://metadataregistry.org/concept/list/vocabulary_id/156.html)
 
-EBUCore Video Compression Code: [https://web.archive.org/web/20100415174921/http://www.ebu.ch/metadata/cs/web/ebu_VideoCompressionCodeCS_p.xml.htm](https://web.archive.org/web/20100415174921/http://www.ebu.ch/metadata/cs/web/ebu_VideoCompressionCodeCS_p.xml.htm)
+EBU Audio Compression Code vocabulary: [https://www.ebu.ch/metadata/cs/ebu_AudioCompressionCodeCS.xml](https://www.ebu.ch/metadata/cs/ebu_AudioCompressionCodeCS.xml)
+
+This vocabulary also includes sound systems and noise-reduction terms. Select values appropriate to audio encoding; describe sound systems and noise reduction under their respective attributes.
 
 <a id="sec-resolution"></a>
 ### Resolution
-Note whether the Item’s resolution is Standard Definition, High Definition, etc.
+Record the digital image’s frame dimensions in pixels, where known. Broad designations such as Standard Definition or High Definition may also be recorded.
 
 <a id="sec-bit_depth"></a>
 ### Bit Depth
 Selection should be made from a controlled list of terms, e.g. 10, 16, 24, 32, etc.
 
 Note that bit depth can be used in describing both video and audio files.
+
+State whether the value describes image or audio samples and which stream or component it applies to. For images, distinguish bits per channel from a total bits-per-pixel value.
 
 <a id="sec-transfer_speed"></a>
 ### Transfer Speed
