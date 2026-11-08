@@ -260,6 +260,8 @@ For full instructions see [Logical Extent of a Manifestation](../../manifestatio
 
 The number of discrete logical units that make up the moving image Item. Item unit number(s) may differ from that of the associated Manifestation. The unit number in Manifestation relates to the ideal, whereas the Item unit number refers to the actual units held by the institution, e.g. an institution may have only acquired 3 reels of a 4-reel film.
 
+For digital objects, state what is being counted. Six reel-length image sequences may be described as six components while comprising thousands of files. File counts, where recorded, should be distinguished from component counts; neither count requires separate records for every unit. See [Moving Image Items](../index.md#sec-moving_image_items) for optional Item-part descriptions.
+
 <a id="sec-extent"></a>
 ### Extent
 The actual physical/digital extent is a characteristic of a singular Item, since it can be different for multiple Items exemplifying the same moving image Manifestation.
@@ -269,7 +271,7 @@ This footage represents actual length, rather than the “ideal” length, which
 If your system allows, provide the Unit of Measurement – feet or metres – in another element.
 Having separate numeric fields can facilitate calculations in determining the amount of footage that will be preserved.
 
-For digital files, enter the numerical measurement indicating the size of the digital asset’s file(s), in KB, MB, GB, or TB.
+For digital objects, record the total size of the constituent files in bytes, KB, MB, GB, or TB, stating the unit used. Make clear whether a measurement describes the whole Item, a component, or an individual file. The size of one digital object should not be multiplied by the number of backup copies, or confused with the capacity of its physical storage media.
 
 As above, the Unit of Measurement (feet, metres, GB, etc.) may be provided in a separate field.
 This could be two separate fields side by side – one for numbers and one for size measurement.

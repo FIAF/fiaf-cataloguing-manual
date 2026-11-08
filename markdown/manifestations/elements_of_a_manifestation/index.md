@@ -406,16 +406,16 @@ For a Manifestation describing a particular release or edition, record its expec
 
 <a id="sec-logical_extent_of_a_manifestation"></a>
 ### Logical Extent of a Manifestation
-Logical extent is the number of discrete logical units which make up the Manifestation, both for analogue (e.g. reels, cassettes, discs) and digital (cassettes, discs, files), considering that the digital Manifestations may be bound to a physical carrier (such as DVD) or exist without a defined carrier (such as online streaming media, podcasts, etc.).
+Logical extent is the number of discrete units that make up the Manifestation, for example reels, discs, or digital components. State the type of unit being counted.
 
-For digital Manifestations, there can be two extents: one for the number of files, and one for the extent of the carrier (e.g., 2 LTO6 tapes).
+For digital Manifestations, distinguish the number of logical components from the number of constituent files, stating what is being counted. Physical storage units, such as LTO tapes holding copies, do not determine the logical extent of the digital Manifestation.
 
 !!! example "Example"
     A home video publication: DVD in 2 discs 
 
     A theatrical print: in 6 reels 
 
-    A hard-disk stored film in 3 files
+    A digital publication comprising 3 files
 
 Record the number of the logical units of a Manifestation in Arabic numerals, and, if necessary, specify the type of unit. Selection should be made from a controlled list of terms, e.g:
 
@@ -426,7 +426,6 @@ Record the number of the logical units of a Manifestation in Arabic numerals, an
 - Loop
 - Disc
 - File
-- Digital tape
 
 If the number of the logical units of a Manifestation is uncertain, use a question mark following the unit count[^13] or record the uncertain number preceded by “approximately.”[^14]
 
@@ -442,14 +441,13 @@ The actual length is a characteristic of a singular Item since it can be differe
 
 Record the total length in Arabic numerals, in metres or feet.
 
-For digital Manifestations, record the total storage of all files that comprise the Manifestation.
+For digital Manifestations, record the total file size where it is a defined characteristic of the Manifestation. Otherwise, record file sizes at Item level.
 Use Arabic numerals followed by MB, GB, or TB as appropriate.
 
 The Unit of Measurement (feet, metres, GB, etc.) can be provided in a separate field.
 This could be two separate fields side by side – one for numbers and one for size measurement.
 
 If the length of a Manifestation is uncertain, use a question mark following the unit count or record the uncertain number preceded by “approximately.” In a note, give an explanation for the estimated footage or metre count, where known.
-Estimating the total storage size for a digital Manifestation can be particularly difficult, since storage can vary depending on technical characteristics of the file(s).
 
 If the length of a Manifestation is unknown, record the information using a value of “unknown.”
 
