@@ -52,7 +52,7 @@ Digital Items may be acquired as born-digital materials or produced through digi
 
 Identifiers and links may connect the catalogue description to technical metadata and to the corresponding object in other systems. Description may be maintained within the catalogue, in linked systems, or through a combination of both. The following examples do not prescribe a storage architecture or require file-by-file cataloguing.
 
-Digital Items come with many more language options though, which can be chosen by the user and thus exist somewhat simultaneously. This makes cataloguing challenging because choices need to be made on the Manifestation level as well as the Item. See here for more information on [Multiple Language Options](../manifestations/elements_of_a_manifestation/index.md#sec-multiple_language_options_for_digital_manifestions_items).
+Digital objects may offer selectable soundtracks and subtitles within a single file or across related files. These options should be distinguished from the Item's inventory components. See [Multiple Language Options](../manifestations/elements_of_a_manifestation/index.md#sec-multiple_language_options_for_digital_manifestions_items) for the implications for Manifestation and Item descriptions.
 
 Fixity information can support the assessment of the integrity of an object's files. Automated fixity checks can compare newly calculated file checksums with previously recorded values to detect changes in file data. Such information, together with technical inspection and provenance, may be recorded in or linked to the catalogue. Fixity checks alone do not establish authenticity, completeness, or successful playback.
 
@@ -122,7 +122,10 @@ There are different options. Structuring choices will very much depend on whethe
 
 The most pragmatic way would be this one: A Work and a Manifestation (Variant optional) record is created, e.g. Manifestation Type "Internet" .
 An Item record is created, including all the technical metadata available. You might use tools like Media Info to analyse the file and extract technical metadata. Some systems can pull information directly from the file when the item is created and stored in the long term storage.
-The language options are added as language(s) on the Manifestation and Item level, maybe using a notes' field if necessary to clarify what are the original main language(s) on the print itself and what are the selectable languages in bit streams on the same file. Since the film is originally in English, English would be catalogued at the Manifestation level and other languages at the Item level.
+
+For comparison, a film print with English dialogue and French subtitles presents those languages together as part of a fixed presentation. Describe English as dialogue and French as subtitles. This differs from a digital object offering selectable alternative soundtracks or subtitles.
+
+For the digital Item described here, record the available language options: the English original-language soundtrack, the French dubbed soundtrack, and the English and French subtitle options. Distinguish their usage and selectable availability using the relevant descriptive elements or notes. Manifestation-level language information may describe the publication’s configuration, but the Item description should identify the options actually present. Original and alternative languages need not be allocated to different descriptive levels.
 
 ### Example 3: Legal Deposit: DCDM Package and Streaming File with multiple soundtrack options ###
 
@@ -131,20 +134,19 @@ By Legal deposit, an institution receives 1 DCDM package, 1 Apple QuickTime ProR
 Question: Should the srt files be catalogued as separate items? If not, should they be included within the DCDM’s Item record or within the ProRes’ item record? Also, should a “French subtitled” Variant (or Manifestation) and a “German subtitled” Variant (or Manifestations) be created and how should the relationships between Items, Manifestations and Variants be managed? 
 
 Answer:
-First of all, the decision needs to be made if one or two Manifestations are created, e.g. Type "Theatrical Distribution" if there is a DCP too, or is made, and "Internet" for the streaming file. Your institutions should have rules about that. The original language is English, so that needs to be catalogued at Manifestation level.
+First of all, the decision needs to be made if one or two Manifestations are created, e.g. Type "Theatrical Distribution" if there is a DCP too, or is made, and "Internet" for the streaming file. Your institutions should have rules about that. Identify English as the original language, and make clear which subtitle files are associated with each digital object. Original-language status does not, by itself, determine the descriptive level at which language information is recorded.
 Depending on that, you create Item records (either linked to the same Manifestation or separate ones). 
 
 If an institution uses Variants, a Variant record could be created for the French language version and one for the German language version, plus Manifestations, and each srt file Item under the relevant one could be linked.
 
-Option 1: A pragmatic decision would be to record the language options at the Item level, either in the respective field for languages or in a notes field. The srt file stored in the LTO tape library would have the srt file within the bag of the digital Item.
-That way you have two Items: the DCDM and the ProRes, each with language information rather than the srt files as separate Items.
+Option 1: A pragmatic approach is to record the language options within the DCDM and QuickTime/ProRes Item descriptions, rather than creating separate Items for the subtitle files. Describe the subtitles as associated components of the digital object or objects with which they are managed and used. This can result in two Item descriptions, each including the relevant language information. Identify the subtitle files and make clear whether they apply to one or both objects; this information may be recorded in the relevant fields or in a note.
 
 Option 2: Another, more granular option would be to catalogue the srt files as separate Items too; so there should be 4 Item records in total.
 As the srt files are literally just the subtitles for the film and do not include the film itself, but are designed for use in conjunction with a different Item containing the film, the Items could be linked together in an associative relationship potentially (if the system allows that) which means that each srt file could be linked to the DCDM or ProRes Items (or both), as relevant, something like e.g.:
 
 <br><center><object data="/diagrams/item_mult-lang.drawio.svg" type="image/svg+xml" width="75%"></object></center>
 
-Relating Items in this way is covered in [ADD LINK TO RELEVANT SECTION IN OTHER RELATIONSHIPS CHAPTER]
+Relating Items in this way is covered in [Other Relationships for Items](../other-relationships/other_relationships_for_works_variants_manifestations_items/index.md#sec-item_other_relationship_types).
 
 [^1]: Institutions use terms such as Carriers, Components, Parts, and Containers with varying meanings. This manual uses Item-parts for components of an Item, distinguishing these from physical storage containers. A digital component may comprise a single file or a related group of files; it is not defined by the internal streams or tracks within a file.
 [^2]: EN 15907:2010 defines a digital Item in terms of the availability of a computer file, irrespective of backup copies. This manual develops that guidance to accommodate multi-file digital objects as well as single files.

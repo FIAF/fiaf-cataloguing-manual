@@ -33,14 +33,14 @@ The vast majority of commercial DVD editions now contain “extras” and so are
 
 <a id="sec-parallel_aggregates"></a>
 ## Parallel Aggregates
-Identical moving image Works/Variants but in different languages released on one Manifestation.
+A Parallel Aggregate brings together otherwise equivalent language versions of the same moving image, described as distinct Works/Variants, within one Manifestation. Selectable soundtracks or subtitles within one digital object do not, by themselves, require this aggregate structure; see [Multiple Language Options](../../manifestations/elements_of_a_manifestation/index.md#sec-multiple_language_options_for_digital_manifestions_items).
 
   Example:
 
 !!! example "Example"
-    Le declin de l’empire American/The decline of the American Empire (1986)  
-    
-    A publication in 2004 by Seville Films contains three language versions; French dialogue, English dubbed dialogue,    English subtitles. There is complete parallelism between the English and French Variants; each is equal in duration and, except for the language, appear to be equivalent.
+    *Le déclin de l’empire américain / The Decline of the American Empire* (1986)
+
+    The 2004 Seville Films DVD offers French and English dialogue and optional English subtitles. Where an institution describes the language versions as distinct Variants, these may be associated with one Aggregate Manifestation; selectable language options do not, by themselves, require this structure.
 
 For Aggregate Manifestations record the length/duration of the whole, i.e. the total of all the units/running times that constitute the Aggregate.  
 

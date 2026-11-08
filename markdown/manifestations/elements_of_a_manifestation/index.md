@@ -72,6 +72,8 @@ Where relevant for an institution, if the Manifestation includes multiple titles
 Language can be present in a Manifestation as written, spoken or sung.
 Its usage qualifies whether the specific language is dialogue, dubbed, subtitles, intertitles, etc.
 
+Language and usage information can help distinguish language versions described as separate Variants or Manifestations (see [Boundaries between Manifestations and Works or Variants](../../boundaries/boundaries_between_manifestations_and_works_or_variants/index.md) and [Changes in the Publication Context](../../boundaries/boundaries_between_manifestations/index.md#sec-changes_in_the_publication_context)). However, selectable soundtracks or subtitles within one digital object do not, by themselves, require separate Variants or Manifestations.
+
 <a id="sec-language_terms"></a>
 ### Language Terms
 Where possible, record the language(s) using the full form of name, e.g., French, Italian, etc. rather than abbreviations or codes, by taking the most suitable value(s) from a controlled list.
@@ -107,50 +109,48 @@ If usage type(s) cannot be determined, indicate a value of “unknown”.
 <a id="sec-multiple_language_options_for_digital_manifestions_items"></a>
 ### Multiple language options for Digital Manifestations/Items
 
-The above examples of language term and usage type relate to instances of one particular manifestation or print on analogue media or a recording of a particular broadcast, where there would be multiple individual instances of different language dialogue and subtitle/dubbed combinations (i.e. an individual Manifestation and Item(s) for each). However, with digital media, including digital streaming files, DVDs, Blu Rays, etc. there are often multiple language choices all on the one entity.
+Digital objects may offer multiple selectable soundtracks or subtitle options within a single file or across related files. Examples include DVD and Blu-ray publications and objects acquired from streaming services.
 
 There are different options for capturing this, depending on the systems used, materials acquired, and decisions made by your institution on the extent of data to be captured.
 
 There are largely three main possible approaches:
 
 1.	Core description: record only the principal or relevant language(s) necessary for identification and access.  
-2.	Extended Manifestation/Item description: distinguish the language actually presented from additional selectable dubbed       and/or subtitled languages.  
+2.	Extended Manifestation/Item description: distinguish languages presented together from selectable alternative soundtracks or subtitles.
 3.	Full descriptive approach: record the complete language configuration when this is significant for an institution's          collection, users, preservation responsibilities or access requirements.  
 
-Ideally, if desiring to capture all the language options of a digital entity, it would be best to have a further separate language section and fields within the Manifestation record. This is in order to distinguish clearly between the actual presence of particular spoken and/or subtitled languages on the soundtrack of the original moving image (or particular Manifestation of the moving image) and the selective choice options of other dubbed or subtitled alternative language(s), i.e. fields for Language and Usage and fields for alternative Selectable Language and Usage.
+Distinguish languages presented together from alternative soundtracks or subtitles that the user can select. Where relevant, identify the original-language soundtrack and dubbed alternatives. Make clear which language options are available, without implying that all are presented simultaneously. This information may be recorded using the available descriptive elements or notes.
 
 !!! example "Example"
     New York stories, (United States of America, Woody Allen, Francis Ford Coppola, Martin Scorsese, 1989) 
 
     Home video publication – DVD, English (spoken); – Selectable language alternatives Italian, German (dubbed); English,        Italian, German, French, Spanish, (subtitles) – Buena Vista (publisher), 2002/05/16
 
-The same language field could be utilised for both, but there is a high risk of ambiguity and lack of clarity regarding what language(s) actually feature on the original release and what are selectable alternative language options chosen by the individual viewer. It could imply that all the languages indicated appeared at the same time within the moving image. If used, then some form of qualifying note on the record would also be necessary for clarity. Alternatively, an additional field to go alongside the Lanaguage and Usage field indicating original or selectable language on the Manifestation would aid clarity.
+It is not necessary to create a separate Variant or Manifestation for each selectable language option. Depending on the cataloguing system, representing each option separately may lead to duplicate Item records for the same object. This should not give the impression that several Items exist when the options belong to a single Item.
 
-It is not necessary to create a new Variant/Manifestation for each selectable language. In systems that only allow for single parent records, or have a 2-level hierarchy, this would mean having to create multiple Item records as well for what is effectively the same Item, i.e. giving an impression of multiple Items of the moving image held in a collection, when in fact there may only be one physical Item. 
-
-In 3-level hierarchy systems that allow one Item to link to multiple parent Manifestations then each language option could be reflected with its own Manifestation if desired, e.g.
+Where the cataloguing system allows one Item to be associated with more than one Manifestation, an institution may describe selectable language options through separate Manifestations linked to that Item, for example:
 
 
 <center><object data="/diagrams/manif_multi_lang_threelevel.drawio.svg" type="image/svg+xml" width="80%"></object></center>
 
 
-Similarly, in systems where Variants are used that allow one Manifestation to link to multiple parent Variants then each language option could be reflected with its own Variant all linked to the one Manifestation and Item, if desired. This would also be the structuring that is RDA compliant (if following the RDA standard then Variants will be called Expressions), e.g.
+Where Variants are used and the cataloguing system allows one Manifestation to be associated with more than one Variant, an institution may describe language options through separate Variants linked to that Manifestation, with the Item linked to the same Manifestation, for example:
 
 
 <center><object data="/diagrams/manif_multi_lang_rda.drawio.svg" type="image/svg+xml" width="80%"></object></center>
 
 
-However, a similar ambiguity to that of utilising the one language field for both actual and selectable languages could arise. So notes would be needed on the Manifestation/Item to clarify that there are selectable languages for the user to choose on the one entity, not that it is an Aggregate consisting of three versions of the film itself one after the other and all on one Blu Ray.  
+Where separate Variants or Manifestations describe selectable language options, make clear that those options are available within one Item. They should not be mistaken for an aggregate containing several complete versions of the moving image presented one after another.
 
-If capturing Selectable language(s) information it is also important to have the same fields and fill in this same information on the Item record too, as it may sometimes be different to the Manifestation. 
+Where selectable-language information is recorded, it is important to make clear which options are actually available in the Item, including any differences from the Manifestation description.
 
-An acquired digital file of a streamed moving image may be a recording of what was streamed, which is likely to default to the most appropriate language version for the streaming country in which it was recorded, and as a recording will not therefore necessarily include all the other language options as well. Equally, if acquired directly from a streaming company, then an institution's deliverable specifications in agreements with the company may only be to include one, or a few, set(s) of language subtitles, namely just those in the language(s) of the institution's own country.  
+A recording of a streamed moving image may contain only the selected soundtrack and subtitles, not all the language options offered for that moving image. Similarly, a digital object acquired directly from a streaming provider may include only the language options specified in the delivery agreement.
 
 It is also possible that language(s) are added as part of digitalisation, preservation or other technological processes so it will be important to be able to specify which languages were added in relation to particular Items in those instances.  
 
 The Item should record the actual characteristics of the material held by an institution rather than simply inherit all the possibilities of the Manifestation.  
 
-Alternatively, an insitution may take the stance that multiple language choice options are a known integral part of any DVD, Blu Ray, and digital streaming - whether one or two dubbed/subtitled language options, or twenty plus options - and do not necessarily all need to be captured on the Manifestation/Item in their records. If the focus or interest of their users is most likely to be for accessing a moving image in their own spoken or subtitled language then an institution may decide to prioritise just that in the Language and Usage fields of their relevant Manifestation/Item records, taking the "core description" approach.  
+An institution may choose not to record every selectable language option, depending on its users’ needs and its preservation and access responsibilities. A core description may prioritise the language(s) most relevant to identification and access.
 
 <a id="sec-format_of_a_moving_image_manifestation"></a>
 <a id="sec-physical_digital_description_of_a_manifestation"></a>
