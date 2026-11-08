@@ -79,11 +79,11 @@ In both Manifestations and Items such titles should indicate that they are devis
 
 Items created by an Archive as part of a restoration project are associated with the Restoration Manifestation. If the full released restored version of the moving image is also subsequently acquired, e.g. a published DVD/Blu Ray, then a Home Viewing Manifestation should also be created and a new Item record for the acquisition created and linked to that.
 
-Events, such as the premiere of a restored film, would be linked with a new Theatrical Manifestation for the release of the restoration, rather than with the Restoration Manifestation. Again, if a full final print of the restored film exists then it should be created as a new Item and linked to a Theatrical Manifestation. [Need to check scenarios for this as depends on context - as mentioned below]
+A premiere or other theatrical release may be described through the relevant Theatrical Manifestation and Publication Event. Describe each newly made final print as a distinct Item. Where an already described Item is used, do not create another Item record solely for the screening. Determine the Item’s Manifestation association according to the context, as discussed below.
 
-All the Item elements created and used in the production of the restored film should be linked under the Restoration Manifestation, eg. separate Magenta, Yellow and Cyan Separation Negative Items, soundtracks, various footages, intertitle reels, etc. 
+All the Item elements created as restoration outputs in the production of the restored film should be linked under the Restoration Manifestation, eg. separate Magenta, Yellow and Cyan Separation Negative Items, soundtracks, various footages, intertitle reels, etc.
 
-All the copies made of pre-existing Items for a restoration project should have new Item records created and be linked to or associated with the Restoration Manifestation. 
+Each copy made from a pre-existing Item for a restoration project should have a new Item record where it is retained and managed as a distinct object. Link or associate the new Item with the Restoration Manifestation. For digital objects, distinguish these outputs from managed backup copies and maintenance of an existing object; see [Moving Image Items](../items/index.md#sec-moving_image_items).
 
 All the existing Items from which the copies have been made (ie. the source Items) should remain with their existing Manifestations and not be moved to link or associate with the Restoration Manifestation.
 
@@ -97,7 +97,7 @@ If the institution is also going to be the main distributor and the final print 
 
 However, if an institution was involved with a restoration project in conjunction with other institutions and acquires a copy of the final print released theatrically for its collection, then any Item for that would be linked to a Theatrical Manifestation for the moving image.
 
-Digital file Items of Restorations that are used for internet streaming by the institution itself should be linked to a new Internet Manifestation.
+When digital objects are used to stream a restoration, determine the appropriate Manifestation association from the publication context and technical characteristics; see [Boundaries between Manifestations](../boundaries/boundaries_between_manifestations/index.md). Where the streaming release is described through an Internet Manifestation, associate the relevant Items with that Manifestation, using an existing record where applicable.
 
 The same data can be collected, grouped and recorded in any system. For example: 
 
