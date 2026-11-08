@@ -162,6 +162,8 @@ Institutions may record as much technical information as they wish or need, but 
 
 Where technical characteristics differ between streams or components of a digital Item, make clear which values belong together and which stream or component they describe. This does not require separate catalogue records.
 
+Technical characteristics of digital objects may be obtained from embedded metadata or identified using tools such as [MediaInfo](https://mediaarea.net/en/MediaInfo). Check which stream or component each value describes.
+
 <a id="sec-media_type"></a>
 <a id="sec-item_general_media_type"></a>
 <a id="sec-item_specific_media_type"></a>
@@ -302,7 +304,7 @@ Reuse applicable Manifestation-level information and record Item-specific differ
 
 <a id="sec-broadcast_standard_video"></a>
 ### Broadcast Standard - Video
-The broadcast standard for a video or DVD/BluRay, e.g. NTSC, PAL, SECAM, etc.
+Record the broadcast standard applicable to the Item, where relevant, for example NTSC, PAL, or SECAM.
 
 <a id="sec-duration"></a>
 ### Duration
@@ -379,7 +381,9 @@ Examples for value lists:
 PBCore essenceTrackEncoding vocabulary:
 [http://metadataregistry.org/concept/list/vocabulary_id/156.html](http://metadataregistry.org/concept/list/vocabulary_id/156.html)
 
-EBUCore Video Compression Code: [https://web.archive.org/web/20100415174921/http://www.ebu.ch/metadata/cs/web/ebu_VideoCompressionCodeCS_p.xml.htm](https://web.archive.org/web/20100415174921/http://www.ebu.ch/metadata/cs/web/ebu_VideoCompressionCodeCS_p.xml.htm)
+EBU Audio Compression Code vocabulary: [https://www.ebu.ch/metadata/cs/ebu_AudioCompressionCodeCS.xml](https://www.ebu.ch/metadata/cs/ebu_AudioCompressionCodeCS.xml)
+
+This vocabulary also includes sound systems and noise-reduction terms. Select values appropriate to audio encoding; describe sound systems and noise reduction under their respective attributes.
 
 <a id="sec-resolution"></a>
 ### Resolution
