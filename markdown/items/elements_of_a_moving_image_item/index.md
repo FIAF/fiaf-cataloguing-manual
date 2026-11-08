@@ -2,7 +2,7 @@
 
 A majority of the physical and digital description elements of moving image Items are intended to be inherited from their associated Manifestations. This allows information common to the relevant Items to be recorded once at Manifestation level and made available within their descriptions.
 
-The way this information is made available depends on the cataloguing system. Some systems support inheritance or display information from linked Manifestation records; others require relevant information to be recorded directly at Item level. Where inheritance is not supported, record the information needed to identify and describe the Item within the available structure.
+The way this information is made available depends on the cataloguing system. Some systems support inheritance or display of information from linked Manifestation records. Reuse Manifestation-level information where it applies to the actual Item and the system supports it. Otherwise, record the relevant information at Item level. Record Item-specific characteristics and differences in all cases.
 
 In applying this principle, account should be taken of the nature of the associated materials. A Manifestation may describe copies of a particular release, but it may also bring together varied production materials or, according to institutional practice, source materials and derivatives in different formats. Item descriptions should therefore identify characteristics specific to each object and make clear which Manifestation-level information applies. Information describing some associated Items should not inadvertently be presented as a characteristic of every Item linked to that Manifestation (see [Moving Image Manifestations](../../manifestations/index.md#sec-moving_image_manifestations)).
 
@@ -167,7 +167,7 @@ Format describes the physical or digital technical form in which content is fixe
 
 Cataloguing systems may record format information in one field or distribute it across several fields, such as General Carrier Type and Specific Carrier Type, as used in the first edition of this manual (2016).[^5] Use the available structure consistently so that the technical format of the object can be identified. For digital materials, distinguish the format of the digital object from that of the physical storage media holding its copies.
 
-Record the format of the actual Item, reusing Manifestation-level information where it applies and the system supports it. Where the Item differs from its associated Manifestation's expected format, record that difference. Broad format designations may support searching, but separate general and specific fields or a hierarchical vocabulary are not required by this guidance. For common recording guidance, illustrative format terms, and the relationship to EN 15907, see [Format](../../manifestations/elements_of_a_manifestation/index.md#sec-manifestation_format).
+Record the format of the actual Item. Reuse applicable Manifestation-level information and record Item-specific differences. Broad format designations may support searching, but separate general and specific fields or a hierarchical vocabulary are not required by this guidance. For common recording guidance, illustrative format terms, and the relationship to EN 15907, see [Format](../../manifestations/elements_of_a_manifestation/index.md#sec-manifestation_format).
 
 For digital objects, identify the relevant container, image, or package format. A package may contain files in several formats, and an image sequence may comprise many files in the same image format. Record component formats where necessary to make the description unambiguous, without requiring a separate catalogue record for each file. Information on codecs and resolution is recorded in the corresponding technical properties.
 
@@ -198,7 +198,7 @@ Select terms from a controlled vocabulary, for example:
 
 The absence of recorded sound in an Item does not, by itself, establish that its associated Manifestation lacks sound or that the Work was originally silent.
 
-Reuse Manifestation-level information where it applies and the system supports it. Record any Item-specific differences. See also [Sound Characteristics of a Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-sound_characteristics_of_a_manifestation).
+Reuse applicable Manifestation-level information and record Item-specific differences. See also [Sound Characteristics of a Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-sound_characteristics_of_a_manifestation).
 
 <a id="sec-item_sound_channel_configuration"></a>
 ### Sound Channel Configuration
@@ -236,7 +236,7 @@ Record the colour characteristics of the image present in the Item, including bl
 
 Distinguish the image's colour appearance from the processes used to produce it and its digital colour encoding; for example, RGB encoding does not, by itself, establish that the image is in colour. For photographic or digital copies, Tinted or Toned may describe reproduced colour appearance rather than a process applied to the Item, as explained in the Manifestation guidance above.
 
-Reuse Manifestation-level information where it applies and the system supports it. Record any Item-specific differences.
+Reuse applicable Manifestation-level information and record Item-specific differences.
 
 <a id="sec-unit_number"></a>
 ### Unit Number
