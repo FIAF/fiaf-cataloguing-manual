@@ -489,13 +489,14 @@ If the duration/running time of a Manifestation is unknown, record the informati
 
 <a id="sec-duration_of_an_aggregate_manifestation"></a>
 #### Duration of an Aggregate Manifestation
-For Aggregate Manifestations record the duration of the whole, i.e. the total running time of all the units that constitute the Aggregate.
-In addition there is the option to qualify this with details of the duration of each individual unit in either a Notes field, or in multiple occurrences of the duration fields, depending on what systems used permit or an institution decides.
+When recording the duration of an Aggregate Manifestation, make clear whether it describes a continuous presentation, an individual programme or version, or the combined running times of several programmes or versions. Do not add the durations of components that play simultaneously.
+
+Where useful, record the running times of individual constituents using the available descriptive elements or a note.
 
 !!! example "Example"
-    DVD “The Audrey Hepburn Collection” contains 3 films, all with extra features. The running times for each of those 3 units are given on the container. 
+    DVD “The Audrey Hepburn Collection” contains three films with additional features. The container gives the running time of each film.
 
-    The total running time of these may be added as duration, with an additional clarifying note detailing the running times of the individual units.
+    These running times may be added to give a combined total for the three films. Identify this total as excluding the additional features, and optionally record the individual films’ running times.
 
 For more information about Aggregates see [Aggregates (Compilations, Multi-component productions)](../../aggregates/index.md).
 
