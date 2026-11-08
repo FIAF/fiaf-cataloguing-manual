@@ -499,10 +499,11 @@ Indicate the frame rate on which the duration is based. Where a film print or di
 When recording duration for Broadcast Manifestations there are two potential sets of data: a Slot Duration and an Actual Running Time.
 If the system allows, note the type of duration in the Duration Type element (see [Duration Type](../../manifestations/elements_of_a_manifestation/index.md#sec-duration_type)).
 
-Slot Duration relates to information from TV listings or publicity information for the programmed “slot” on the TV channel, whereas Actual Running Time relates to the exact running time of the entity when it was broadcast, excluding any inserted advertisements, etc. Thus, for example, an episode of the soap opera “Coronation Street” may have a Slot Duration of 30 minutes, but an Actual Running Time of 24 minutes.
+Slot Duration is the scheduled length of the broadcast slot, which may include advertisements or other material outside the programme. Sources may include television listings or schedules. Actual Running Time is the duration of the programme as broadcast, excluding those insertions. For example, an episode of “Coronation Street” may have a Slot Duration of 30 minutes but an Actual Running Time of 24 minutes.
 
-Similarly, record the start and end time of the broadcast, ideally using 24-hour clock notation, e.g. 23:00 rather than 11:00pm.
-This may also involve two potential sets of data: a whole slot start and end time, or the actual more precise start and end time of the broadcast.
+An Item recording may include advertisements or surrounding broadcast material, or may be incomplete. Record its actual duration as described under [Item Duration](../../items/elements_of_a_moving_image_item/index.md#sec-duration).
+
+Record the start and end times of the broadcast where available, preferably using 24-hour clock notation, for example 23:00–23:30. Indicate whether the times are scheduled or actual, and whether they describe the programme or the whole slot. An interval that includes advertisement breaks should not be treated as the programme’s running time excluding those breaks.
 
 It is for an institution to choose whether to record both sets of data in each instance or limit to either just slot or actual broadcast/running times.
 
@@ -514,7 +515,7 @@ In this qualifier, note whether the duration is exact, approximate, or estimated
 <a id="sec-duration_type"></a>
 #### Duration Type
 Where appropriate, add the type of duration being described.
-For example, broadcast materials could have “Slot Duration” and “Actual Duration.”
+For broadcast materials, examples include “Slot Duration” and “Actual Running Time.”
 
 <a id="sec-notes_for_manifestations"></a>
 ## Notes for Manifestations
