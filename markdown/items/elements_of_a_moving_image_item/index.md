@@ -325,7 +325,7 @@ Where the recorded duration is unknown, the labelled maximum playing time of an 
 
 <a id="sec-item_duration_precision"></a>
 #### Duration Precision
-In this qualifier, note whether the duration is exact, approximate, estimated, or stock maximum.
+In this qualifier, note whether the duration is exact, approximate, or estimated.
 
 <a id="sec-frame_rate"></a>
 ### Frame Rate

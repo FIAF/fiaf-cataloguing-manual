@@ -505,29 +505,30 @@ For more information about Aggregates see [Aggregates (Compilations, Multi-compo
 When recording duration of Manifestations of a Work/Variant of the silent era, take into account that the rate of frames per second varied over the years and between Variants/Manifestations.
 Also take into account the so-called “stretch frame” practice, adopted after the silent era, which “increases the number of frames printed on a film to enable films shot at silent speeds to be projected at sound speed and retain the original temporal characteristics.” [^16]
 
-In a note, indicate the frame rate on which the duration is based or if the Manifestation is the result of a “stretch frame” practice.[^17] (See also [Frame Rate](../../items/elements_of_a_moving_image_item/index.md#sec-frame_rate))
+Indicate the frame rate on which the duration is based. Where a film print or digital object uses repeated frames to preserve the running time of a slower-speed source, explain this in a note and distinguish the playback rate from the source film’s projection rate.[^17] See also [Frame Rate](../../items/elements_of_a_moving_image_item/index.md#sec-frame_rate).
 
 <a id="sec-duration_of_a_broadcast"></a>
 #### Duration of a Broadcast Manifestation associated with a Work/Variant
 When recording duration for Broadcast Manifestations there are two potential sets of data: a Slot Duration and an Actual Running Time.
 If the system allows, note the type of duration in the Duration Type element (see [Duration Type](../../manifestations/elements_of_a_manifestation/index.md#sec-duration_type)).
 
-Slot Duration relates to information from TV listings or publicity information for the programmed “slot” on the TV channel, whereas Actual Running Time relates to the exact running time of the entity when it was broadcast, excluding any inserted advertisements, etc. Thus, for example, an episode of the soap opera “Coronation Street” may have a Slot Duration of 30 minutes, but an Actual Running Time of 24 minutes.
+Slot Duration is the scheduled length of the broadcast slot, which may include advertisements or other material outside the programme. Sources may include television listings or schedules. Actual Running Time is the duration of the programme as broadcast, excluding those insertions. For example, an episode of “Coronation Street” may have a Slot Duration of 30 minutes but an Actual Running Time of 24 minutes.
 
-Similarly, record the start and end time of the broadcast, ideally using 24-hour clock notation, e.g. 23:00 rather than 11:00pm.
-This may also involve two potential sets of data: a whole slot start and end time, or the actual more precise start and end time of the broadcast.
+An Item recording may include advertisements or surrounding broadcast material, or may be incomplete. Record its actual duration as described under [Item Duration](../../items/elements_of_a_moving_image_item/index.md#sec-duration).
+
+When recording broadcast start and end times, distinguish scheduled times from actual transmission times and make clear whether they refer to the programme or the whole slot. Prefer 24-hour clock notation, for example 23:00 rather than 11:00 pm. The interval between a programme’s start and end may include advertisement breaks and should not be assumed to equal its running time excluding those breaks.
 
 It is for an institution to choose whether to record both sets of data in each instance or limit to either just slot or actual broadcast/running times.
 
 <a id="sec-manifest_duration_precision"></a>
 #### Duration Precision
 In this qualifier, note whether the duration is exact, approximate, or estimated.
-Items can apply the additional “stock maximum.”
+“Stock maximum” describes a tape’s labelled maximum playing time rather than duration precision. For its optional use at Item level, see [Item Duration](../../items/elements_of_a_moving_image_item/index.md#sec-duration).
 
 <a id="sec-duration_type"></a>
 #### Duration Type
 Where appropriate, add the type of duration being described.
-For example, broadcast materials could have “Slot Duration” and “Actual Duration.”
+For broadcast materials, examples include “Slot Duration” and “Actual Running Time.”
 
 <a id="sec-notes_for_manifestations"></a>
 ## Notes for Manifestations
