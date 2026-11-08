@@ -239,7 +239,7 @@ The projection characteristics of a Manifestation include aspect ratio and apert
 
 **Aspect Ratio/Image Ratio**
 
-The aspect ratio (also known as the image ratio or projection ratio) is the projected image area visible on screen, expressed as a value of width to height (the value of height always being “1”), for example, 2.34:1, 2.39:1.
+Aspect ratio (also known as the image ratio or projection ratio) expresses the relationship between image width and height. Film aspect ratios are conventionally expressed with the height normalised to 1, for example 1.37:1 or 2.39:1. Video aspect ratios are also commonly expressed as whole-number proportions, such as 4:3 or 16:9. State whether the value describes the recorded image area, the active image area within an encoded frame, or the intended presentation, where this distinction is relevant.
 Selection should be made from a controlled list of values.
 A suggested list of examples, which is open and not exhaustive, includes:
 
@@ -257,29 +257,50 @@ A suggested list of examples, which is open and not exhaustive, includes:
 Fuller details and examples of “aspect ratio” value lists can be found in the Technical Glossary of Common Audiovisual Terms (National Film and Sound Archive Australia), [The Advanced Projection Manual](https://iupress.org/9782960029611/the-advanced-projection-manual) and the PBCore essenceTrackAspect Ratio [http://metadataregistry.org/concept/list/vocabulary_id/129.html](http://metadataregistry.org/concept/list/vocabulary_id/129.html)
 
 
-The aspect ratio reflects the compositional intentions of the original content makers and the intended presentation of the moving image content.[^6] If the aspect ratio of a Work/Variant is altered, moving image information is lost, creating a Manifestation/Item with different moving image content.[^7] The Manifestation should reflect the projected image of the Work/Variant that it represents, rather than that on the Item.
+The intended presentation aspect ratio reflects the compositional intentions of the original content makers.[^6] Distinguish alterations to the image, such as cropping or stretching, from changes to the surrounding frame, such as letterboxing or pillarboxing. Cropping may remove image information.[^7] Adding borders does not, by itself, change the image's proportions or remove content.
+
+Where applicable, describe the intended presentation at Manifestation level and the actual characteristics of the particular Item in its description.
+
 Institutions may record variations in projection characteristics as Item-specifics, rather than create multiple Manifestations.
 
 **Aperture/Image Format**
 
-The actual exposed image or picture area as it appears on the moving image itself, for example Academy, Full screen, Widescreen, etc. The image format (aperture) does not necessarily bear any relation to the preferred image ratio (projection ration or aspect ratio) of the moving image.[^8]
+For film, describe the recorded image area and the applicable aperture or image format, for example Academy or full aperture.[^8] Distinguish the recorded image area from the area intended to be shown in projection, which may be masked.
 
-Selection should be made from a controlled list of terms.
-A suggested list of examples, which is open and not exhaustive, includes:
+Select terms from one or more controlled vocabularies, as appropriate to the aspects being described. The following examples are illustrative, not exhaustive, and may be used in combination.
 
-- Academy 
-- Widescreen 
-- Cinemascope 
-- Movietone 
-- Flat 
-- Full Height 
-- Full Screen 
-- Anamorphic 
-- 3D 
-- Pan and scan 
-- Pillarbox (bars added at the sides) 
-- Letterbox/Widescreen (bars added at the top and bottom) 
-- Windowbox (bars added at the side and the top and bottom) 
+*Aperture and recording geometry*
+
+- Academy
+- Full aperture
+- Movietone
+
+*Named image systems*
+
+- CinemaScope
+- Todd-AO
+
+*Image characteristics*
+
+- Anamorphic
+
+*Broad presentation designations*
+
+- Widescreen
+- Flat
+- Full Height
+- Full Screen
+
+*Image placement and reframing*
+
+- Pan and scan (reframing the image)
+- Pillarbox (bars added at the sides)
+- Letterbox (bars added at the top and bottom)
+- Windowbox (bars added at the sides and top and bottom)
+
+*Stereoscopic presentation*
+
+- 3D
 
 Further examples can be found in [The Advanced Projection Manual](https://iupress.org/9782960029611/the-advanced-projection-manual/).
 
@@ -515,7 +536,7 @@ Dates and country of Manifestation are not elements of a Manifestation under EN 
 [^5]: DOI (= Digital Object Identifier): see [http://www.doi.org/](http://www.doi.org/).
 [^6]: This definition from Academy Film Archive in-house glossary of terms, and OLAC, Moving Image Works, Part 3a: Operational Definitions (08/09) (PDF Document), [https://web.archive.org/web/20110702223309/http://olacinc.org/drupal/capc_files/MIW_3a.pdf](https://web.archive.org/web/20110702223309/http://olacinc.org/drupal/capc_files/MIW_3a.pdf).
 [^7]: OLAC, Moving Image Works, Part 3a: Operational Definitions (08/09) (PDF Document), [https://web.archive.org/web/20110702223309/http://olacinc.org/drupal/capc_files/MIW_3a.pdf](https://web.archive.org/web/20110702223309/http://olacinc.org/drupal/capc_files/MIW_3a.pdf).
-[^8]: This definition from Academy Film Archive in-house glossary of terms.
+[^8]: Based on the Academy Film Archive in-house glossary of terms.
 [^9]: RDA 3.17. 01
 [^10]: Based on AMIM2 5C3.
 [^12]: RDA 7.17.3 Colour of Moving Image

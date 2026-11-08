@@ -284,9 +284,11 @@ Alternatively, provide for a distinguishing “precision” field specifying if 
 ### Projection Characteristics
 For full instructions, see [Projection Characteristics of a Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-projection_characteristics_of_a_manifestation)
 
-The projection characteristics of a Manifestation/Item include aspect ratio and aperture or image format.
+Record the Item's projection characteristics, including aspect ratio and aperture or image format, where applicable.
 
-Record only if this information is not captured at the Manifestation level or if required at the Item level by the system in use.
+For digital objects, distinguish the encoded frame dimensions from the intended presentation of the image. Letterboxing or pillarboxing may mean that the image occupies only part of the encoded frame.
+
+Reuse applicable Manifestation-level information and record Item-specific differences.
 
 <a id="sec-broadcast_standard_video"></a>
 ### Broadcast Standard - Video
