@@ -45,7 +45,7 @@ This means that the one standard and structuring can be applied with mixed colle
 
 Institutions may also not only collect and acquire items, but stream their own VOD (Video on Demand) channels, e.g. BFIplayer which provides a mixture of Free, Subscription and Transactional VOD, using digital items to stream the content.
 
-Thus, having an Internet Manifestation type means that both acquired or produced VOD materials can be captured within an EN 15907 structure. The actual digital Items held and representing records for the files used in streaming can then be linked to these Manifestations.
+Thus, having an Internet Manifestation type means that both acquired or produced VOD materials can be captured within an EN 15907 structure. The Items describing the digital objects used for streaming can then be linked to these Manifestations; see [Moving Image Items](../../items/index.md#sec-moving_image_items).
 
 Where institutions use a 4 or 3 level hierarchy and have moving image collections that include both film and television programmes, significant amounts of production materials, digitisation projects for preservation/restoration, and streaming content, then there seems less complexity and more structural logic and sense to developing use of Manifestation Type, e.g.
 
