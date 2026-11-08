@@ -34,9 +34,8 @@
 | “Is Contained in”/ “is part of” | Episode, number, part, etc. included in an unintentional/convenient compilation (see [Aggregates (Compilations, Multi-component productions)](../../aggregates/index.md)). |
 | “Associated separation negative” | Different colour elements held on separate Items whereby each Item would be needed to create a whole new print of the moving image, e.g. Yellow, Cyan and Magenta Separation Negatives, each of which have to be combined in Technicolor Three Colour Strip Process to make a new colour print. |
 | “Associated Sound/Associated image” | Where sound and image components are held on separate Item, and would both be needed to create a whole new print e.g. On DPX and Wav, 35mm Mute Pos and Magnetic track |
-| “Preservation clone of/Has preservation clone” | Reflecting association of 2 identical master digital copies, as per best practice for digital collections |
+| “Preservation clone of/Has preservation clone” | Relates an identical digital preservation copy to its source where these are described as distinct Items. Backup copies maintained for the same digital object are storage copies, not additional Items; see [Moving Image Items](../../items/index.md#sec-moving_image_items). |
 | “Access copy of/Has Access copy” | E.g. an MP4 viewing access copy created from a preservation of a master DPX AND “Source of/Has Source” AND In-house copying of held Items creating new Items, e.g. to create a viewing copy, copy on a different format, copy Nitrate to Safety etc. |
 | “Has a relationship to an “object” (a non-moving image resource)” | Can/container and label (description of, photo of, etc); punch tapes FCC (frames count cue) found in the can/container |
 | “Has a relationship to an archival document” | Censorship visa, laboratory report, projection instructions (in general papers in the can/container or related to the specific item and held in separate archive), acquisition contract, DCP key |
 | “Has a relationship to a Work “about” the Item in question” | Inspection report, restoration report, etc. (in general papers in the can or related to the specific item and held in separate archive) | 
-

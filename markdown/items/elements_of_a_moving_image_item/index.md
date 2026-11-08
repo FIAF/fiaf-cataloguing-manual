@@ -22,9 +22,9 @@ A useful collection of technical metadata on digital Items as well as data colle
 ## Identifier
 Create an unambiguous numerical or alphanumerical reference to the moving image Item, such as a call number, barcode, shelf mark, UUID or similar, to uniquely identify the copy.[^3] This may be in addition to separate Acquisition and Accession number(s) or identifier(s). More information on [Acquisition](../../events/further_event_types/index.md#sec-acquisition).
 
-For digital files, the filename is not an identifier since filenames can change. Filenames are unreliable for uniquely identifying digital objects due to several limitations: users or systems may rename files, causing loss of reference; different versions of the same files from multiple sources can share identical names; and, changing storage locations makes filenames unreliable for tracking. Moreover different systems and organisations may use varying file-naming schemes and have limited interoperability.
+For digital objects, assign an identifier to the object being described, whether it comprises one file or several. Do not rely solely on a filename or directory path: names and locations may change, and different files may share the same name. Retain filenames as technical metadata and record identifiers for components or individual files where needed. An object-level identifier does not require a separate catalogue record for every file.
 
-Digital systems use UUID (Universally Unique Identifier), Internal Database IDs and Persistent Identifiers, which, unlike UUIDs, may not be globally unique but are essential for internal collection management and control. They play a crucial role in organising and archiving digital content, ensuring unambiguous identification within asset management systems.  This means that the filename is tracked as part of the technical metadata associated with a digital item.
+Digital systems may use UUIDs (Universally Unique Identifiers), internal database identifiers, or persistent identifiers. Record the identifier scheme or namespace where necessary to make the reference unambiguous. Identifiers and links should connect the Item description to the corresponding digital object and, where applicable, to metadata held in linked systems, independently of its current storage location.
 
 As with Work, Variant and Manifestation Identifiers, besides its one unique identifier an Item can have more than one Identifier.
 
@@ -73,12 +73,15 @@ Record the name of the institution possessing the moving image Item or authorise
 Optionally, if available, record a suitable repository identifier or a registered namespace identifier for the institution.
 
 <a id="sec-item_location"></a>
+<a id="sec-item-location"></a>
 ### Item Location
-Item descriptions should indicate a storage location number in order to provide access and retrieval.
-Movements and changes of location should also be logged in order to ascertain the precise location of an Item at any given time.
-If possible, use the Item Identifier and Identifier Type fields to note an Item’s location (see [Identifier](../../items/elements_of_a_moving_image_item/index.md#sec-item_identifier)).
+Record location information sufficient to locate and retrieve the Item. Where locations have identifiers, record these as part of the location information.
 
-This could be a single simple field, or could include multiple fields to reflect various electronic package or barcode numbers that may be attached to each individual can or container, shelf, or whatever is applicable to an individual institution.
+Keep the Item’s identifier distinguishable from its location information, even where a shelf mark or other location-based reference also serves as an identifier.
+
+Record movements and changes of location so that the current location of the Item or its parts can be established. Location information may be recorded directly or provided through linked records or systems, according to institutional practice. Barcodes may identify containers or storage locations and support the tracking of movements.
+
+Where copies of a digital object are held in multiple storage locations, location information may refer to those copies without treating each as a separate Item. For digital Items, persistent identifiers may link to current access or storage information without making the location itself the Item’s identifier (see [Identifier](#sec-item_identifier)).
 
 <a id="sec-item_acquisition type"></a>
 ### Item Acquisition Type
@@ -126,6 +129,8 @@ Often there will be physically separate Items, for example image, track, music, 
 The range of these and what they are can be established in-house or utilising an established list, for example, the [FIAF Glossary of Technical Terms](https://www.fiafnet.org/pages/E-Resources/Technical-Terms.html).
 
 Each Item should have its own description, whether the physical/digital characteristics between Items differ in one way or another, for example, in length, gauge, base, sound, etc., or, the Items acquired are duplicate identical copies.
+
+Independently acquired digital objects may warrant separate Item descriptions even where their files are identical, for example where their provenance or acquisition conditions differ. Preserve the relevant acquisition histories and conditions whether the objects are described separately or together. Do not assume that they are backup copies of one digital object solely because their files are identical.
 
 Institutions may record as much technical information as they wish or need, but the Physical and Digital Description elements of an Item should ideally consist of the elements listed in the sub-sections below where discernible.
 
@@ -398,10 +403,6 @@ The identification of the individual who carried out the technical assessment an
 As stated above, people or companies performing inspections are Agents.
 
 Note any indication that the Item is in need of servicing prior to being accessed for use.
-
-<a id="sec-item-location"></a>
-## Item location
-Location information should be indicated in order to provide access and retrieval. Movements and changes of location should also be logged in order to ascertain the precise location of an Item (or Item-parts) at any give time. This can either be added to the Item record itself or displayed from a linked/related container record (i.e. a record for the actual physical film can, videotape box, etc.) - depending on the system used by an individual institution. Some Archives may use barcoding systems for identifying location, with built in tracking.
 
 <a id="sec-notes_for_items"></a>
 ## Notes for Items

@@ -81,7 +81,7 @@ The use of the term “variant” is not a mere substitute for the term “expre
 ## Definitions of the Manifestation and Item Entities
 A Manifestation is the embodiment of a Work/Variant and includes all the analogue or digital forms that are derived from a Work/Variant and bear common characteristics with respect to shared intellectual content and physical format. It may be whole or incomplete or a fragment.
 
-An Item is the physical product of a Manifestation of a Work or Variant, i.e. the physical copy of a Work or Variant. It may be whole or incomplete or a fragment. In the case of purely digital media, an Item is defined as the availability of the computer file, irrespective of the number of backup copies that may exist[^17].
+An Item is a particular physical or digital object associated with a Manifestation of a Work or Variant. It may comprise one or more components and may be whole, incomplete, or a fragment. A digital Item may comprise a single file or a related group of files managed and described as a unit. Backup copies maintained for that object represent the same digital object, rather than additional Items. This develops the single-file wording in EN 15907 to accommodate multi-file digital objects.[^17] See [Moving Image Items](../../items/index.md#sec-moving_image_items) for guidance on digital objects and Item-part descriptions in different cataloguing systems.
 
 <a id="sec-boundaries_between_entities"></a>
 ## Boundaries between entities
