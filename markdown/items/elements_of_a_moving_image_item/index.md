@@ -357,7 +357,7 @@ Record the manufacturer’s batch number of the physical recording medium, where
 
 <a id="sec-video_codec"></a>
 ### Video Codec
-A video codec refers to a pair of algorithms used for encoding and decoding digital video.
+Record the video encoding used in the digital Item. Where encodings differ between streams or components, identify which encoding applies to each.
 
 A digital container may hold video, audio, and subtitle streams within one file. A package may instead contain separate files for image, sound, subtitles, and metadata. These are different levels of technical description, not interchangeable uses of the word file.
 
@@ -383,13 +383,15 @@ EBUCore Video Compression Code: [https://web.archive.org/web/20100415174921/http
 
 <a id="sec-resolution"></a>
 ### Resolution
-Note whether the Item’s resolution is Standard Definition, High Definition, etc.
+Record the digital image’s frame dimensions in pixels, where known. Broad designations such as Standard Definition or High Definition may also be recorded.
 
 <a id="sec-bit_depth"></a>
 ### Bit Depth
 Selection should be made from a controlled list of terms, e.g. 10, 16, 24, 32, etc.
 
 Note that bit depth can be used in describing both video and audio files.
+
+State whether the value describes image or audio samples and which stream or component it applies to. For images, distinguish bits per channel from a total bits-per-pixel value.
 
 <a id="sec-transfer_speed"></a>
 ### Transfer Speed
