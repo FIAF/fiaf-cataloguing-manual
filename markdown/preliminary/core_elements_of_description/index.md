@@ -43,21 +43,7 @@ They represent an ideal minimum set of metadata for moving image cataloguing.
   <tr><td> Content Description </td><td> Content description (synopses, shotlists, etc) </td><td>  </td></tr>
 </table>
 
-| **CORE CONCEPT** | **TOP-LEVEL ELEMENT** | **SUB-ELEMENT** |
-| --- | --- | --- |
-| Title | Title [Work] | -- |
-| Series / Serial [^1] | Title [Work] | Title Type = Series/Serial [Work] |
-| Cast | Agents (e.g. Cast, Credits, Person, Organisation, etc.) [Work] | Agent Activity = Cast [Work] |
-| Credits (including Production Companies) | Agents [Work] | Agent Activity = Credit (use term for actual role)  [Work] |
-| Country of Reference | Country of reference [Work] |  |
-| *Original Format | Format of a moving image Manifestation [Manifestation] | Specific Carrier Type: [Manifestation] |
-| *Original Length | Extent of a Manifestation [Manifestation] | Physical extent of a Manifestation |
-| *Original Duration | Extent of a Manifestation [Manifestation] | Duration of a Manifestation |
-| *Original Language | Language(s) [Work] | Language Term + Usage type [Work] |
-| Year of Reference | Year/Date of reference [Work] | Date Type [Work] |
-| Identifier | As appropriate: Work/Variant Identifier [Work/Variant] AND/OR Identifier [Manifestation] AND/OR Identifier [Item] | As appropriate: Identifier Type [Work/Variant] AND/OR Identifier Type [Manifestation] AND/OR Identifier Type [Item] |
-| Subject/Genre/Form [^2] | Subject/Genre/Form terms [Work] |  |
-| Content Description | Content description (synopses, shotlists, etc) |  |
+
 
 The concept of “original” in this manual indicates the first known manifestation of the Work, which is not determined by its release status.
 The concept of “original” must be flexible enough to be applied to released and unreleased Works.
