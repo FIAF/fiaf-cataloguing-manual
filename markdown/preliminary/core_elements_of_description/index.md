@@ -29,7 +29,7 @@ They represent an ideal minimum set of metadata for moving image cataloguing.
 
 
   <tr><td> Title </td><td> Title [Work] </td><td> -- </td></tr>
-  <tr markdown="1"><td markdown="span"> Series / Serial [^1] </td><td> Title [Work] </td><td> Title Type = Series/Serial [Work] </td></tr>
+  <tr markdown="1"><td markdown="span"> Series / Serial[^1] </td><td> Title [Work] </td><td> Title Type = Series/Serial [Work] </td></tr>
   <tr><td> Cast </td><td> Agents (e.g. Cast, Credits, Person, Organisation, etc.) [Work] </td><td> Agent Activity = Cast [Work] </td></tr>
   <tr><td> Credits (including Production Companies) </td><td> Agents [Work] </td><td> Agent Activity = Credit (use term for actual role)  [Work] </td></tr>
   <tr><td> Country of Reference </td><td> Country of reference [Work] </td><td>  </td></tr>
@@ -39,7 +39,7 @@ They represent an ideal minimum set of metadata for moving image cataloguing.
   <tr><td> *Original Language </td><td> Language(s) [Work] </td><td> Language Term + Usage type [Work] </td></tr>
   <tr><td> Year of Reference </td><td> Year/Date of reference [Work] </td><td> Date Type [Work] </td></tr>
   <tr><td> Identifier </td><td> As appropriate: Work/Variant Identifier [Work/Variant] AND/OR Identifier [Manifestation] AND/OR Identifier [Item] </td><td> As appropriate: Identifier Type [Work/Variant] AND/OR Identifier Type [Manifestation] AND/OR Identifier Type [Item] </td></tr>
-  <tr markdown="1"><td markdown="span"> Subject/Genre/Form [^2] </td><td> Subject/Genre/Form terms [Work] </td><td>  </td></tr>
+  <tr markdown="1"><td markdown="span"> Subject/Genre/Form[^2] </td><td> Subject/Genre/Form terms [Work] </td><td>  </td></tr>
   <tr><td> Content Description </td><td> Content description (synopses, shotlists, etc) </td><td>  </td></tr>
 </table>
 
