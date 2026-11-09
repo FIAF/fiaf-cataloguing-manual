@@ -244,6 +244,14 @@ Record in Arabic numerals the number issued by the agency as a unique identifier
 
 Record the outcome of the act of rating or censorship.
 
+!!! example "Example"
+    Film: Jaws ((USA, 1975)
+    Decision type: Classification
+    Date: 1975-06-12
+    Region: United Kingdom
+    Number:
+    Verdict: A [Advisory - contains content that might be unsuitable for younger children]
+
 [INSERT ILLUSTRATIVE EXAMPLES HERE FROM A COUPLE OF DIFFERENT COUNTRIES]
 
 <a id="sec-manufacture"></a>
