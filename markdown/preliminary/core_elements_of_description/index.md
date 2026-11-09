@@ -46,7 +46,7 @@ They represent an ideal minimum set of metadata for moving image cataloguing.
 | **CORE CONCEPT** | **TOP-LEVEL ELEMENT** | **SUB-ELEMENT** |
 | --- | --- | --- |
 | Title | Title [Work] | -- |
-| Series / Serial [^2] | Title [Work] | Title Type = Series/Serial [Work] |
+| Series / Serial [^1] | Title [Work] | Title Type = Series/Serial [Work] |
 | Cast | Agents (e.g. Cast, Credits, Person, Organisation, etc.) [Work] | Agent Activity = Cast [Work] |
 | Credits (including Production Companies) | Agents [Work] | Agent Activity = Credit (use term for actual role)  [Work] |
 | Country of Reference | Country of reference [Work] |  |
@@ -56,7 +56,7 @@ They represent an ideal minimum set of metadata for moving image cataloguing.
 | *Original Language | Language(s) [Work] | Language Term + Usage type [Work] |
 | Year of Reference | Year/Date of reference [Work] | Date Type [Work] |
 | Identifier | As appropriate: Work/Variant Identifier [Work/Variant] AND/OR Identifier [Manifestation] AND/OR Identifier [Item] | As appropriate: Identifier Type [Work/Variant] AND/OR Identifier Type [Manifestation] AND/OR Identifier Type [Item] |
-| Subject/Genre/Form [^3] | Subject/Genre/Form terms [Work] |  |
+| Subject/Genre/Form [^2] | Subject/Genre/Form terms [Work] |  |
 | Content Description | Content description (synopses, shotlists, etc) |  |
 
 The concept of “original” in this manual indicates the first known manifestation of the Work, which is not determined by its release status.
@@ -118,5 +118,5 @@ See [Examples of records containing core elements in the different levels of hie
   <tr><td> Conservation recommendations </td><td>  </td><td>  </td><td> Urgent transfer required, relocate sub-zero, etc. </td></tr>
 </table>
 
-[^1]: EN15744 definitions “A series is a group of separate items related to one another by the fact that each item bears, in addition to its own title, a collective title applying to the group as a whole. A serial is a type of “short subject” work which is characterized principally by the episodic development of a story”. This Core Concept is referencing the name of another Work that a Work may be “part of”, where the latter has been conceived within the context/intention of being an element of a Series or Serial. It is not being used here as a Work Description Type. (See 6.2.1 Work Description Types)
+[^1]: EN15744 definitions “A series is a group of separate items related to one another by the fact that each item bears, in addition to its own title, a collective title applying to the group as a whole. A serial is a type of “short subject” work which is characterized principally by the episodic development of a story”. This Core Concept is referencing the name of another Work that a Work may be “part of”, where the latter has been conceived within the context/intention of being an element of a Series or Serial. It is not being used here as a Work Description Type. (See 6.2.1 Work Description Types)  
 [^2]: Form = Fiction, Non-fiction, etc. Some institutions may incorporate these as a genre term, whilst others may have them as a separate category to genre.
