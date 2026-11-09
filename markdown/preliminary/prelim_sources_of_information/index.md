@@ -74,5 +74,5 @@ In instances where Primary source data relating to on-screen titles and credits,
 [^6]: RDA 2.2.4 Other Sources of Information
 [^7]: RDA 2.2.4 Other Sources of Information
 [^8]: RDA 2.2.4 Other Sources of Information
-[^9]: See the name note on the [BFI record for Richard Greene](https://collections-search.bfi.org.uk/web/Details/People/177651)
+[^9]: See the name note on the [BFI record for Richard Greene](https://collections-search.bfi.org.uk/web/Details/People/177651)  
 [^10] https://steigerlegal.ch/2024/02/11/transkription-ai-ki-whisper-halluzinationen/
