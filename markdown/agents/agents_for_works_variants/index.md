@@ -256,6 +256,6 @@ In many database systems there are specific Credits and Cast sections to records
 
 [^1]: EN 15907, 5.1 Agent
 [^2]: 1991 FIAF Cataloguing Rules for Film Archives – Statements of Responsibility, p. 35.  
-[^3]: See known AI sourced issue for some overlaid credits found on subtitled Variants [LINK TO PRELIMINARY - sOURCES OF INFORMATION SECTION]  
+[^3]: See known AI sourced issue for some overlaid credits found on subtitled Variants. See also [Sources of Information](/preliminary/prelim_sources_of_information/#sec-prelim_sources_of_information).
 [^4]:List of relator terms are a combination of those found in YCR, 1.3.2. Other creators, pp. 42-43; and, OLAC TF, Part II, Core Attributes and Relationships, Commonly-Occurring Roles, pp. 16-18.
 [^5]: FIAF, 1.6.2, pp. 36-37.
