@@ -2,7 +2,7 @@
 <a id="sec-publication"></a>
 ## Publication
 
-Record one or more Event type, for example, “decision,” “manufacture,” etc., to express the nature of the Event’s relationship to the Manifestation. Selection should be made from a controlled list of terms.
+Record one or more Event type, for example, “decision”, “manufacture”, "screening", etc., to express the nature of the Event’s relationship to the Manifestation. Selection should be made from a controlled list of terms.
 
 For Manifestations, a Publication Event corresponds to a screening, broadcast, streaming, or the release of the Manifestation of a Work or Variant on a physical distribution medium or online.
 
@@ -20,16 +20,20 @@ Publication Event information consists of the following sub-elements:
 
 **Publication type**
 
+The type of exhibition event (eg. Premiere, Cinema release, Festival screening, Broadcast, etc) or the type of publication (eg. Paperback book with DVD, etc.) if not evident from the type of the associated Manifestation.[^1]
+
 Record the Publication type for Manifestations. Selection should be made from a controlled list of values, e.g.
 
 - Release  
 - Publication  
-- Distribution  
+- Distribution
+- Festival screening   
 - Broadcast  
 - Online Transmission (e.g. Internet, Intranet)  
 - Pre-Release  
 - Theatrical distribution  
-- Non-theatrical distribution  
+- Non-theatrical distribution
+- Screening    
 - Not for release  
 - Home video publication  
 - Unknown
@@ -53,7 +57,7 @@ If known and considered of relevance, record the name of the event that the publ
 If known and considered of relevance, record the specific restrictions for accessing the content (e.g. press-screening only, airplanes only, etc.).
 
 <a id="sec-awards_or_nominations"></a>
-## Award(s) or Nomination(s)[^1]
+## Award(s) or Nomination(s)[^2]
 
 The bestowal of an award relating to the Work or Variant, or Manifestation. This excludes awards for Agents alone (e.g. "for lifetime achievement"), but includes awards for individual achievements within the context of a Work or Variant (e.g. "Best screenplay"). Awards will usually be associated at the level of the Work, except for cases where features of a particular Variant are explicitly mentioned (e.g. "Best audio commentary for the visually impaired") or the award relates to a particular Manifestation (such as a DVD edition).
 
@@ -88,7 +92,7 @@ The name of the award or trophy, possibly including a numeric designation (e.g. 
 A phrase describing a specific achievement for which the award was given, if not for the Work, Variant or Manifestation in total.
 
 <a id="sec-production"></a>
-## Production[^2]
+## Production[^3]
 A distinct event in the course of production of a Work or Variant, including the main production event OR events that are separated in space and/or time from the main production event, or known with a greater amount of detail. Examples are dates and locations where castings took place; dates and locations of shootings or other recordings; or dates and locations of particular post-production activities.
 
 May include year/date of shooting of non-professional, actuality or unedited footage.
@@ -131,7 +135,7 @@ The year/date or time-span during which the event took place. Dates should be fo
 Any further information about the event either in plain textual form, or as an instance of a data type from another schema
 
 <a id="sec-values_rights_copyright_ipr_registration"></a>
-## Rights/Copyright/IPR Registration[^3]
+## Rights/Copyright/IPR Registration[^4]
 These are optional, and it is for an institution to choose whether it has the resources or requirement to compile rights data. Further more detailed information on the subject of rights/copyright/IPR registration can be found in [Rights/Copyright/IPR Registration](../../rights/index.md#sec-ipr_copyright).
 
 <a id="sec-preservation_restoration"></a>
@@ -198,7 +202,7 @@ A Preservation/Restoration Event can be used in conjunction with [Preservation o
 For further examples, particularly for scanning analogue items, see also the [Items chapter](../../items/index.md#sec-digital_items_examples).
 
 <a id="sec-decision"></a>
-## Decision[^4]
+## Decision[^6]
 A Decision Event is an event in which a Manifestation of a certain Work/Variant is evaluated by a censorship body or an accredited rating agency.
 
 A Decision Event may be associated with instances of Agent, e.g. in the role of the agency performing the rating or censorship, and also with instances of  [Other Relationships](../../other-relationships/other_relationships_for_works_variants_manifestations_items/index.md#sec-work_variant_other_relationship_types) (e.g., the original censorship documents).
@@ -424,8 +428,9 @@ The date or time span in which the inspection activity was performed. (Dates sho
 
 Information describing the condition of the Item in greater detail. In many cases there will be fields embedded in Item records that relate to condition and different inspections. See [Item Condition](../../items/elements_of_a_moving_image_item/index.md#sec-access_conditions)
 
-[^1]: EN 15907, 6.12 Award, pp. 25-26.
-[^2]: Adapted from EN 15907 6.11 Production Event, p. 20
-[^3]: EN 15907 6.15 IPR Registration, pp. 23-24
-[^4]: EN 15907, 6.13 Decision event, pp. 26-27
-[^5]: There is no designated separate Restoration Event in EN 15907, and as there can often be an overlap in the types of activity associated with both preservation and restoration, we extended the definition in the 2016 FIAF Manual.
+[^1]: EN 15907, 6.11.3. Publication Type, p.22. "The type of exhibition event (eg. Premiere, Cinema release, Festival screening, Broadcast, etc) or the type of publication (eg. Paperback book with DVD, etc.) if not evident from the type of the associated Manifestation."  
+[^2]: EN 15907, 6.12 Award, pp. 25-26.  
+[^3]: Adapted from EN 15907 6.11 Production Event, p. 20  
+[^4]: EN 15907 6.15 IPR Registration, pp. 23-24  
+[^5]: There is no designated separate Restoration Event in EN 15907, and as there can often be an overlap in the types of activity associated with both preservation and restoration, we extended the definition in the 2016 FIAF Manual.  
+[^6]: EN 15907, 6.13 Decision event, pp. 26-27  
