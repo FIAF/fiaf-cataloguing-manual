@@ -8,7 +8,7 @@
     For example: The original release running time of a film is 1:30:00, but the Item held at the archive is missing footage so is shorter.
 
 <a id="sec-moving_image_manifestations"></a>
-# Moving Image Manifestations
+## Moving Image Manifestations
 
 A Manifestation describes an embodiment of a moving image Work or Variant. For a particular release or broadcast, common characteristics of content and technical format can provide a reference for describing the associated Items.
 
