@@ -440,7 +440,7 @@ Provide access to the Work by means of subjects (or subject identifiers) that de
 
 There are no rules as to how many genre and subject terms can be associated with a Work. It will be different from moving image to moving image and down to the assessment of the individual cataloguer within the levels of subject cataloguing decided by their institution.
 
-The types of genres and subjects used will also vary between institutions depending on the nature of their collections.
+The types of genres and subjects used will also vary between institutions depending on the nature and content of the materials in their collections, e.g. a scientific institution's collection of medical or scientific films is likely to use different narrower genres relating to non-fiction and very specific science related subject terms in cataloguing than an institution with collections of various features, shorts, and documentaries across a range of genres and subject matter.
 
 !!! example "Example"
     **Main title** 
@@ -542,7 +542,7 @@ The types of genres and subjects used will also vary between institutions depend
 
     **Summary**  
 
-    Molina, a homosexual window-trimmer convicted on a morals charge, shares a dreary prison cell with Valentin, a clandestinely-held politically active journalist who has been endlessly tortured by prison authorities in a vain attempt to extract information about his activities. Both men could not be farthe apart in personal attitudes, lifestyles, and emotional makeup: Molina is a glib raconteur, who dwells in a fantasy world of glamorous movies from yesteryear, of romantic screen heroes and tragic heroines. Valentin is a self-disciplined intellectual who is devoted to the cause of human rights and his political concerns. [etc. ; this is an excerpt from the full record] 
+    Molina, a homosexual window-trimmer convicted on a morals charge, shares a dreary prison cell with Valentin, a clandestinely-held politically active journalist who has been endlessly tortured by prison authorities in a vain attempt to extract information about his activities. Both men could not be farther apart in personal attitudes, lifestyles, and emotional makeup: Molina is a glib raconteur, who dwells in a fantasy world of glamorous movies from yesteryear, of romantic screen heroes and tragic heroines. Valentin is a self-disciplined intellectual who is devoted to the cause of human rights and his political concerns. [etc. ; this is an excerpt from the full record] 
 
 
 
@@ -555,10 +555,12 @@ The types of genres and subjects used will also vary between institutions depend
       **Genres**
 
     1. Drama. 2. Features.
+    
 
 !!! example "Example"
     **Main title**  
-    Crystal growth - formation and growth of germanium sulfide crystals by the sublimation method; Variation of the pulling rate (Federal Republic of Germany; IWF (Göttingen); producer: Gerd Lamprecht, 1982)  
+    
+    Crystal growth - formation and growth of germanium sulfide crystals by the sublimation method; Variation of the pulling rate (Federal Republic of Germany, 1982. Institut für den wissenschaftlichen Film (Göttingen); producer - Gerd Lamprecht)   
 
         **Summary** 
 
@@ -570,11 +572,24 @@ The types of genres and subjects used will also vary between institutions depend
 
         **Subjects**  
 
-        Chemistry -- Organic Chemistry -- Physics -- Solid state physics -- Crystals (physics) -- Technology -- Material sciences -- Crystals (technology)  
+        Chemistry  
+        Organic Chemistry  
+        Physics  
+        Solid state physics  
+        Crystals (physics)  
+        Technology  
+        Material sciences  
+        Crystals (technology)  
 
         **Keywords**  
 
-        Crystal growth -- Germanium sulphide crystal -- Germanium sulphide crystals -- GeS nuclei -- Secondary nucleus -- Crystallography -- Encyclopaedia Cinematografica   
+        Crystal growth  
+        Germanium sulphide crystal  
+        Germanium sulphide crystals  
+        GeS nuclei  
+        Secondary nucleus  
+        Crystallography  
+        Encyclopaedia Cinematografica   
              
     
 <a id="sec-assigning_subject_terms"></a>
