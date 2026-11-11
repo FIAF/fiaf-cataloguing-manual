@@ -440,6 +440,8 @@ Provide access to the Work by means of subjects (or subject identifiers) that de
 
 There are no rules as to how many genre and subject terms can be associated with a Work. It will be different from moving image to moving image and down to the assessment of the individual cataloguer within the levels of subject cataloguing decided by their institution.
 
+The types of genres and subjects used will also vary between institutions depending on the nature of their collections.
+
 !!! example "Example"
     **Main title** 
 
@@ -550,10 +552,31 @@ There are no rules as to how many genre and subject terms can be associated with
 
 
 
-    **Genres**  
+      **Genres**
 
     1. Drama. 2. Features.
 
+!!! example "Example"
+    **Main title**  
+    Crystal growth - formation and growth of germanium sulfide crystals by the sublimation method; Variation of the pulling rate (Federal Republic of Germany; IWF (Göttingen); producer: Gerd Lamprecht, 1982)  
+
+        **Summary** 
+
+        Sublimation of germanium sulphide (GeS) crystals in the ampoule point within a cylindrical growth oven at     approximately 5400°C. The variation of the pulling rate of 1mm/d over 3,10,30 to 100mm/d gives large differences in the growth form of the GeS-crystals, GeS-nuclei, growth front, secondary nucleation, needle form growth. Time-lapse. Animated film of the experimental technique.  
+
+        **Genres**
+
+        Experiment/Model test  
+
+        **Subjects**  
+
+        Chemistry -- Organic Chemistry -- Physics -- Solid state physics -- Crystals (physics) -- Technology -- Material sciences -- Crystals (technology)  
+
+        **Keywords**  
+
+        Crystal growth -- Germanium sulphide crystal -- Germanium sulphide crystals -- GeS nuclei -- Secondary nucleus -- Crystallography -- Encyclopaedia Cinematografica   
+             
+    
 <a id="sec-assigning_subject_terms"></a>
 ### Assigning Subject terms
 When considering the assigning of subject terms to a moving image Work record there are two main components to consider in making an intellectual assessment; the contexts of "about" and "of":
