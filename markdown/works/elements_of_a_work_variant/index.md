@@ -562,15 +562,15 @@ The types of genres and subjects used will also vary between institutions depend
     
     Crystal growth - formation and growth of germanium sulfide crystals by the sublimation method; Variation of the pulling rate (Federal Republic of Germany, 1982. Institut für den wissenschaftlichen Film (Göttingen); producer - Gerd Lamprecht)   
 
-        **Summary** 
+      **Summary** 
 
         Sublimation of germanium sulphide (GeS) crystals in the ampoule point within a cylindrical growth oven at     approximately 5400°C. The variation of the pulling rate of 1mm/d over 3,10,30 to 100mm/d gives large differences in the growth form of the GeS-crystals, GeS-nuclei, growth front, secondary nucleation, needle form growth. Time-lapse. Animated film of the experimental technique.  
 
-        **Genres**
+     **Genres**      
 
         Experiment/Model test  
 
-        **Subjects**  
+      **Subjects**  
 
         Chemistry  
         Organic Chemistry  
@@ -581,7 +581,7 @@ The types of genres and subjects used will also vary between institutions depend
         Material sciences  
         Crystals (technology)  
 
-        **Keywords**  
+         **Keywords**  
 
         Crystal growth  
         Germanium sulphide crystal  
