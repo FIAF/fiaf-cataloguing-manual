@@ -377,6 +377,10 @@ Avoid slang expressions and colloquialisms fashionable at the time of writing,an
 Descriptions should be objective and not include subjective commentary on the quality of the content.
 If acceptable summaries are already available in secondary sources, cataloguers may use these, instead of taking the time to prepare summaries of their own. If using summaries exactly as written, put the summary in quotes and note the source of the summary.[^11]
 
+Where a database uses keyword searching as an access point, then the cataloguer needs to consider what relevant words would be good to include in the descriptive text from the perspective of user searching and discovery.
+
+For systems depending on keyword searching rather than using subject indexing, synopses or descriptions may need to be larger and fuller than a concise summary to accommodate this.
+
 !!! example "Example"
     An historical drama set in 16th century England in which King Henry VIII divorces his wife, Catherine of Aragon, and marries Anne Boleyn, a former lady-in-waiting, who is in love with Sir Thomas Wyatt. After several years, Henry becomes infatuated with Lady Jane Seymour and arranges to have the innocent Anne found in a compromising situation with Sir Thomas. Anne is tried for infidelity, found guilty, and executed.
 
@@ -384,6 +388,11 @@ If acceptable summaries are already available in secondary sources, cataloguers 
     Donald Graham, millionaire ex-convict, plans revenge on society figure John Cabin Brand, whom he blames for the death of his daughter.
 
 A content description may also be a shotlist or listing of the contents of an aggregate Work (see [Aggregates (Compilations, Multi-component productions)](../../aggregates/types_of_moving_image_aggregates/index.md#sec-collection_aggregates)). Shotlists are the ideal content description to have or aim to have, particularly for non-fiction moving images, but it is recognised that resources and accessibility mean this is not always possible or practical for an archive or institution.[^12]
+
+A shotlist consists of detailed shot by shot, scene by scene, descriptions of the content along with references to camera  angles or other types of shot, e.g. CU (close-ups), pans, cut to, zooms, L-R (left to right, etc. and also to precise timings or time points in the footage where these shots/screens or camera angles occur, either in minutes or feet/metres.
+Terminologies and abbreviations used should be film industry standard camera shot and movements ones.
+
+Stylistics of shotlists can vary between institutions, with some including both references to camera angles and footage timings or points, some just having one or the other, and others having neither but descriptions of each shot/scene. While others may be a more simple list of the main shots/scenes and aspects covered in the content in the order in which they appear.
 
 !!! example "Example"
     Title: Pathe News [Excerpts No. 6] 
