@@ -430,26 +430,25 @@ Stylistics of shotlists can vary between institutions, with some including both 
 
 !!! example "Example"
     The fair city of Udaipur (Secrets of India), (1934). 
-    
     BBFC certificate (13). Series and main title (36). Credits (54). Map showing
-the location of the city (72). XLS through a grove of palm trees of the city.
-The commentary outlines the tradition and role of the Maharana of Udaipur
-(112). Pan from roof top of palace of the city (158). The Elephant Gate to the
-city (170). Main street scenes (240). An elephant outside the Temple of
-Juggernaut (262). CU of the details of the temple (292). Steps to the temple
-(307). MS of carved elephant (324). Holy men at the foot of the temple -
-referred to as Sadoos (354). The market at the foot of the temple (372). A man
-sharpens a sword on a lathe which is operated by a woman pulling on a leather
-belt (446). Further street scenes (468). CU of silverwork (496). CU of a
-moneychanger counting out coins (505). MS of his `safe deposit'; a large step
-he sits on has a metal door which he unlocks and removes a sack of coins;
-money is exchanged (581). Five women - agricultural workers from the outlying
-area resting with stacks of hay brought into the city to sell. The women are
-referred to as `Beels' (?) (657). Lake Pichola viewed from the Palace (677).
-Travelling shot along the banks showing men bathing and children playing
-(727). LS of a waterseller refilling his buckets (747). LS of the Summer
-Palace on the lake (760). XLS of the city seen through the grove of palms; a
-herd of camels pass (800ft).
+    the location of the city (72). XLS through a grove of palm trees of the city.
+    The commentary outlines the tradition and role of the Maharana of Udaipur
+    (112). Pan from roof top of palace of the city (158). The Elephant Gate to the
+    city (170). Main street scenes (240). An elephant outside the Temple of
+    Juggernaut (262). CU of the details of the temple (292). Steps to the temple
+    (307). MS of carved elephant (324). Holy men at the foot of the temple -
+    referred to as Sadoos (354). The market at the foot of the temple (372). A man
+    sharpens a sword on a lathe which is operated by a woman pulling on a leather
+    belt (446). Further street scenes (468). CU of silverwork (496). CU of a
+    moneychanger counting out coins (505). MS of his `safe deposit'; a large step
+    he sits on has a metal door which he unlocks and removes a sack of coins;
+    money is exchanged (581). Five women - agricultural workers from the outlying
+    area resting with stacks of hay brought into the city to sell. The women are
+    referred to as `Beels' (?) (657). Lake Pichola viewed from the Palace (677).
+    Travelling shot along the banks showing men bathing and children playing
+    (727). LS of a waterseller refilling his buckets (747). LS of the Summer
+    Palace on the lake (760). XLS of the city seen through the grove of palms; a
+    herd of camels pass (800ft).
 
 The content description can be based on a viewing of the work, accompanying documentation, or secondary sources, but the source should be clearly noted.
 
