@@ -244,9 +244,9 @@ Record the outcome of the act of rating or censorship.
 
 <a id="sec-manufacture"></a>
 ## Manufacture
-A Manufacture Event represents a “common” event within which the embodiment of a Manifestation occurs, owing to the instances of a number of physical items that bear the same characteristics.
+A Manufacture Event describes the technical production of physical or digital embodiments of a Manifestation, for example through film printing, telecine, video copying, digitisation, or mastering. It may describe a production process shared by a number of Items.
 
-Therefore, the manufacture event of a moving image Manifestation corresponds to the activity within which it was fixed on a physical carrier, through particular technical processes such as film printing, telecine, video copying, digitisation, mastering, etc., or where it is saved to an “immaterial” medium, such as a digital file. Please note that this is different to the manufacture of the physical stock or video tape brand. For the specific stock/brand on which an Item has been manufactured see [Stock](../../items/elements_of_a_moving_image_item/index.md#sec-stock).
+This is distinct from the manufacture of the physical film stock, tape, or other storage medium. For information about the recording medium of a particular Item, see [Stock](../../items/elements_of_a_moving_image_item/index.md#sec-stock).
 
 
 A Manufacture Event may be associated with instances of Agent, e.g. a laboratory that prints all the copies for a theatrical distribution or a studio that masters the DVDs for a home video publication.

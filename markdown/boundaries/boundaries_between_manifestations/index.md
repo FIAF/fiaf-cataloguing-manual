@@ -11,17 +11,21 @@ A suggested list, which is open and not exhaustive, can be found at [Manifestati
 
 <a id="sec-changes_in_the_format"></a>
 ## Changes in the Format
-If the embodiment of a Work/Variant involves changes in format, the resulting product is a new Manifestation, e.g., a change from 70mm to 35mm.
+A change in format can distinguish one Manifestation from another, for example theatrical releases in 70mm and 35mm. In-house copying to another format does not necessarily require a new Manifestation; institutions may associate the resulting Items with the same Manifestation as their sources, as discussed below.
 
-Create a new Manifestation when there is evidence of at least one (or more than one) of the following changes from the original format:
+For an existing digital object, renaming its files, relocating it, or changing the storage media holding its copies does not, by itself, require a new Item or Manifestation.
 
-*Changes to the physical format or the digital file on which it is fixed.*
+Consider the following changes when determining whether a new Manifestation is appropriate:
 
-*Changes to the display characteristics (i.e. in aspect ratio, sound or colour characteristics, etc.)*
+- Changes to the physical or digital technical format, for example film gauge, recording format, digital container or image-file format, or package format.
+- Changes to presentation characteristics, such as aspect ratio, sound, or colour.
+- Changes to digital encoding or other technical characteristics, such as codec, resolution, or bit depth.
 
-*Change in the container (i.e. cassette to cartridge as container for a tape).*
+A change from cassette to cartridge may represent a change in technical format and should be assessed on that basis. Replacing a protective container, or repairing or replacing an existing Item’s housing without changing its technical format, does not, by itself, establish a new Manifestation.
 
-Include and describe any of the distinguishing physical changes according to the guidelines in [Format of a Moving Image Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-format_of_a_moving_image_manifestation).
+Changes to packaging introduced as part of publication or release should be considered in relation to [publication context](#sec-changes_in_the_publication_context), rather than treated as an independent format-change criterion.
+
+Include and describe any of the distinguishing physical or digital changes according to the guidelines in [Physical and Digital Description of a Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-physical_digital_description_of_a_manifestation).
 
 The example below shows a number of possible Manifestations of the original Italian version of Il gattopardo (Italy, France, Luchino Visconti, 1963).
 
@@ -41,24 +45,23 @@ The example below shows a number of possible Manifestations of the original Ital
 
     Home video publication, DVD – aspect ratio 2,21 :1 – Medusa Video, Italia, 00/00/2009
 
-In-house copying of an institution’s holding onto a different format, e.g. a video transfer of a 35mm film does not necessitate creation of a new Manifestation.
-In this case there is also the option of simply creating an Item for the copy, and linking it to the same Manifestation as the source Item.
+In-house copying or conversion, such as a film-to-video transfer or the creation of a differently encoded digital derivative, may be described through a separate Item associated with the same Manifestation as its source. A change in encoding does not, by itself, require a separate Manifestation. Institutions may instead create another Manifestation for such derivatives, taking account of their publication context and technical characteristics and applying a consistent cataloguing policy.
 
-This option depends on an institution’s policy.
+Changes to encoding or packaging do not, by themselves, require a new Work or Variant. Where processing changes the version presented—for example through re-editing, adding or removing footage, or altering dialogue—apply the guidance in [Boundaries between Manifestations and Works or Variants](../boundaries_between_manifestations_and_works_or_variants/index.md).
 
-Some may choose always to create a new Manifestation (i.e. a Preservation Manifestation) in such cases , 
+The following examples illustrate these institutional approaches. An institution may create a separate Manifestation for in-house derivatives, for example a Preservation Manifestation:
 
 <center><object data="/diagrams/pres_02.drawio.svg" type="image/svg+xml" width="50%"></object></center>
 
-or80
+Further Manifestations may distinguish subsequent preservation or access outputs:
 
 <center><object data="/diagrams/pres_03.drawio.svg" type="image/svg+xml" width="80%"></object></center>
 
-or if using Variants
+An example incorporating a Variant is shown below:
 
 <center><object data="/diagrams/pres_04.drawio.svg" type="image/svg+xml" width="80%"></object></center>
 
-whilst others may decide to create a new Manifestation where change in format and change in distribution/publication coincide but simply create a new Item linked to an existing Manifestation where change in format is as a result of in-house copying.
+Alternatively, an institution may associate an in-house derivative with the same Manifestation as its source, while distinguishing Manifestations for changes in publication context:
 
 <center><object data="/diagrams/pres_01.drawio.svg" type="image/svg+xml" width="50%"></object></center>
 

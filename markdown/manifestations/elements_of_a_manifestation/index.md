@@ -72,6 +72,8 @@ Where relevant for an institution, if the Manifestation includes multiple titles
 Language can be present in a Manifestation as written, spoken or sung.
 Its usage qualifies whether the specific language is dialogue, dubbed, subtitles, intertitles, etc.
 
+Language and usage information can help distinguish language versions described as separate Variants or Manifestations (see [Boundaries between Manifestations and Works or Variants](../../boundaries/boundaries_between_manifestations_and_works_or_variants/index.md) and [Changes in the Publication Context](../../boundaries/boundaries_between_manifestations/index.md#sec-changes_in_the_publication_context)). However, selectable soundtracks or subtitles within one digital object do not, by themselves, require separate Variants or Manifestations.
+
 <a id="sec-language_terms"></a>
 ### Language Terms
 Where possible, record the language(s) using the full form of name, e.g., French, Italian, etc. rather than abbreviations or codes, by taking the most suitable value(s) from a controlled list.
@@ -107,162 +109,133 @@ If usage type(s) cannot be determined, indicate a value of “unknown”.
 <a id="sec-multiple_language_options_for_digital_manifestions_items"></a>
 ### Multiple language options for Digital Manifestations/Items
 
-The above examples of language term and usage type relate to instances of one particular manifestation or print on analogue media or a recording of a particular broadcast, where there would be multiple individual instances of different language dialogue and subtitle/dubbed combinations (i.e. an individual Manifestation and Item(s) for each). However, with digital media, including digital streaming files, DVDs, Blu Rays, etc. there are often multiple language choices all on the one entity.
+Digital objects may offer multiple selectable soundtracks or subtitle options within a single file or across related files. Examples include DVD and Blu-ray publications and objects acquired from streaming services.
 
 There are different options for capturing this, depending on the systems used, materials acquired, and decisions made by your institution on the extent of data to be captured.
 
 There are largely three main possible approaches:
 
 1.	Core description: record only the principal or relevant language(s) necessary for identification and access.  
-2.	Extended Manifestation/Item description: distinguish the language actually presented from additional selectable dubbed       and/or subtitled languages.  
+2.	Extended Manifestation/Item description: distinguish languages presented together from selectable alternative soundtracks or subtitles.
 3.	Full descriptive approach: record the complete language configuration when this is significant for an institution's          collection, users, preservation responsibilities or access requirements.  
 
-Ideally, if desiring to capture all the language options of a digital entity, it would be best to have a further separate language section and fields within the Manifestation record. This is in order to distinguish clearly between the actual presence of particular spoken and/or subtitled languages on the soundtrack of the original moving image (or particular Manifestation of the moving image) and the selective choice options of other dubbed or subtitled alternative language(s), i.e. fields for Language and Usage and fields for alternative Selectable Language and Usage.
+Distinguish languages presented together from alternative soundtracks or subtitles that the user can select. Where relevant, identify the original-language soundtrack and dubbed alternatives. Make clear which language options are available, without implying that all are presented simultaneously. This information may be recorded using the available descriptive elements or notes.
 
 !!! example "Example"
     New York stories, (United States of America, Woody Allen, Francis Ford Coppola, Martin Scorsese, 1989) 
 
     Home video publication – DVD, English (spoken); – Selectable language alternatives Italian, German (dubbed); English,        Italian, German, French, Spanish, (subtitles) – Buena Vista (publisher), 2002/05/16
 
-The same language field could be utilised for both, but there is a high risk of ambiguity and lack of clarity regarding what language(s) actually feature on the original release and what are selectable alternative language options chosen by the individual viewer. It could imply that all the languages indicated appeared at the same time within the moving image. If used, then some form of qualifying note on the record would also be necessary for clarity. Alternatively, an additional field to go alongside the Lanaguage and Usage field indicating original or selectable language on the Manifestation would aid clarity.
+It is not necessary to create a separate Variant or Manifestation for each selectable language option. Depending on the cataloguing system, representing each option separately may lead to duplicate Item records for the same object. This should not give the impression that several Items exist when the options belong to a single Item.
 
-It is not necessary to create a new Variant/Manifestation for each selectable language. In systems that only allow for single parent records, or have a 2-level hierarchy, this would mean having to create multiple Item records as well for what is effectively the same Item, i.e. giving an impression of multiple Items of the moving image held in a collection, when in fact there may only be one physical Item. 
-
-In 3-level hierarchy systems that allow one Item to link to multiple parent Manifestations then each language option could be reflected with its own Manifestation if desired, e.g.
+Where the cataloguing system allows one Item to be associated with more than one Manifestation, an institution may describe selectable language options through separate Manifestations linked to that Item, for example:
 
 
 <center><object data="/diagrams/manif_multi_lang_threelevel.drawio.svg" type="image/svg+xml" width="80%"></object></center>
 
 
-Similarly, in systems where Variants are used that allow one Manifestation to link to multiple parent Variants then each language option could be reflected with its own Variant all linked to the one Manifestation and Item, if desired. This would also be the structuring that is RDA compliant (if following the RDA standard then Variants will be called Expressions), e.g.
+Where Variants are used and the cataloguing system allows one Manifestation to be associated with more than one Variant, an institution may describe language options through separate Variants linked to that Manifestation, with the Item linked to the same Manifestation, for example:
 
 
 <center><object data="/diagrams/manif_multi_lang_rda.drawio.svg" type="image/svg+xml" width="80%"></object></center>
 
 
-However, a similar ambiguity to that of utilising the one language field for both actual and selectable languages could arise. So notes would be needed on the Manifestation/Item to clarify that there are selectable languages for the user to choose on the one entity, not that it is an Aggregate consisting of three versions of the film itself one after the other and all on one Blu Ray.  
+Where separate Variants or Manifestations describe selectable language options, make clear that those options are available within one Item. They should not be mistaken for an aggregate containing several complete versions of the moving image presented one after another.
 
-If capturing Selectable language(s) information it is also important to have the same fields and fill in this same information on the Item record too, as it may sometimes be different to the Manifestation. 
+Where selectable-language information is recorded, it is important to make clear which options are actually available in the Item, including any differences from the Manifestation description.
 
-An acquired digital file of a streamed moving image may be a recording of what was streamed, which is likely to default to the most appropriate language version for the streaming country in which it was recorded, and as a recording will not therefore necessarily include all the other language options as well. Equally, if acquired directly from a streaming company, then an institution's deliverable specifications in agreements with the company may only be to include one, or a few, set(s) of language subtitles, namely just those in the language(s) of the institution's own country.  
+A recording of a streamed moving image may contain only the selected soundtrack and subtitles, not all the language options offered for that moving image. Similarly, a digital object acquired directly from a streaming provider may include only the language options specified in the delivery agreement.
 
 It is also possible that language(s) are added as part of digitalisation, preservation or other technological processes so it will be important to be able to specify which languages were added in relation to particular Items in those instances.  
 
 The Item should record the actual characteristics of the material held by an institution rather than simply inherit all the possibilities of the Manifestation.  
 
-Alternatively, an insitution may take the stance that multiple language choice options are a known integral part of any DVD, Blu Ray, and digital streaming - whether one or two dubbed/subtitled language options, or twenty plus options - and do not necessarily all need to be captured on the Manifestation/Item in their records. If the focus or interest of their users is most likely to be for accessing a moving image in their own spoken or subtitled language then an institution may decide to prioritise just that in the Language and Usage fields of their relevant Manifestation/Item records, taking the "core description" approach.  
+An institution may choose not to record every selectable language option, depending on its users’ needs and its preservation and access responsibilities. A core description may prioritise the language(s) most relevant to identification and access.
 
 <a id="sec-format_of_a_moving_image_manifestation"></a>
-## Format of a Moving Image Manifestation
+<a id="sec-physical_digital_description_of_a_manifestation"></a>
+## Physical and Digital Description of a Manifestation
 As previously mentioned, a Manifestation is defined on the basis of two criteria: changes in the publication context and changes in format.
-The format of a Manifestation is the description of the physical artefact or the digital file on which it is fixed.
-The concept of format as applied to Manifestations is the “ideal” representation of all the physical items or computer files that bear the same characteristics and descend from a common Work/Variant, regardless of what is actually held in a collection.
+Physical and digital description records technical characteristics such as format, projection, sound, and colour. For a Manifestation describing a particular release or edition, its expected characteristics can provide a reference for the associated Items, regardless of which Items are held in a collection.
 
-A majority of the physical and digital description elements of moving image Manifestations are intended to be inherited by the Items, as they serve as the exemplars of Manifestations.
-In some databases, selection of a physical media type initiates provision of element fields relevant to that type at a Manifestation level, or an Item level, or both (e.g.
-in a 2-Level hierarchy.
-See “Shallow hierarchy model: 2 levels” found at [Elements of description across Works, Variants, Manifestations, and Items](../../preliminary/core_elements_of_description/index.md#sec-elements_of_description)).
+This reference does not imply that every Item associated with a Manifestation has the same technical characteristics. As explained in [Moving Image Manifestations](../index.md#sec-moving_image_manifestations), a Pre-Release Manifestation may group different production materials, and institutions may associate in-house derivatives with the same Manifestation as their sources. A single “ideal” technical format need not apply to every Item in such a grouping.
+
+Manifestation-level characteristics may be reused in Item descriptions where they apply to the object being described. Item descriptions should record the actual characteristics of each object; characteristics should not be assumed to apply solely because the Item is linked to that Manifestation.
+In some databases, selection of a format or broad format category initiates provision of element fields relevant to that format at a Manifestation level, an Item level, or both, for example in a 2-Level hierarchy.
+See “Shallow hierarchy model: 2 levels” found at [Elements of description across Works, Variants, Manifestations, and Items](../../preliminary/core_elements_of_description/index.md#sec-elements_of_description).
 
 Ideally the information need only be recorded once irrespective of where in the data structure an institution must place it.
 Therefore guidelines for the treatment of high-level physical and digital description elements are explained fully in the Manifestation chapter.
 The Item chapter contains a detailed listing of item-specific elements.
-Physical properties such as Extent and Format at the Manifestation level represent the “ideal,” and item-specific elements will capture where it differs from this “ideal” at the Item level.
+Where Extent and Format at Manifestation level describe an expected or “ideal” release, Item-specific information records the actual material and any differences from that reference. Where the Manifestation groups varied materials, describe each Item on its own terms rather than treating its different characteristics as deviations from a single ideal object.
 
-The information about the format of a Manifestation plays a relevant role because any change in format represents a criterion to determine the boundaries between one Manifestation and another (see [Boundaries between Manifestations](../../boundaries/boundaries_between_manifestations/index.md)).
-
-Record a new Manifestation of a Work/Variant when there is evidence of at least one, or more than one, of the following changes associated with the format:
-
-- Changes to the physical artefact or the digital file on which it is fixed
-- Changes to the display characteristics (i.e. in aspect ratio, sound or colour characteristics, etc.)
-- Change in the container (i.e. cassette to cartridge as container for a tape).
+Differences in format can help distinguish Manifestations. Apply the criteria and institutional options described in [Boundaries between Manifestations](../../boundaries/boundaries_between_manifestations/index.md#sec-changes_in_the_format), including the option of associating an in-house copy in a different format with the same Manifestation as its source.
 
 In a note (See [Cataloguer’s Notes](../../appendices/cataloguers-notes/index.md)), explain the format changes used to determine the Manifestation in hand as different and “new” in comparison with any other, already identified and described Manifestation.
 
-The description of the format of a Manifestation is articulated in the following elements:
+The physical and digital description of a Manifestation includes the following elements:
 
-- Media type
+- Format
 - Projection characteristics
 - Sound characteristics
 - Colour characteristics
 
 <a id="sec-media_type_of_a_manifestation"></a>
-### Media Type of a Manifestation  
-The media type is the medium on or the encoding format in which the Manifestation is fixed.
-
-Its description consists of a general media type, which describes the basic proper- ties of the Item’s physical format, for example, film, video tape, digital file, etc., and a specific media type, which corresponds to the gauge, in case of films and tapes, and for digital files, to the physical carrier on which the file is stored or containers, when carriers for files are not separately catalogued.
-
 <a id="sec-manifest_general_media_type"></a>
-#### General Media Type 
-The broad media type of the Manifestation (e.g., film, video, audio, optical, digital file).
-Recording this high-level information will enable simple searching for only film, video, digital, etc. elements rather than searching by all possible formats and carriers. A suggested list, which is open and not exhaustive, can include:
-
-- Film
-- Video Tape
-- Video Disc
-- Digital Tape
-- Digital Disc
-- Digital File
-
 <a id="sec-manifest_specific_media_type"></a>
-#### Specific Media Type
-The specific media type for analogue film can be the width of the film stock or of the magnetic tape on which the Item is fixed.
-For digital files, it is most important for users to immediately identify the file container or wrapper (MXF, MOV, DPX, etc.) rather than the physical media on which it is stored, because the physical media storing a file can change, but that does not necessarily mean that the file format has changed.
-It is the digital file format that is the important distinguishing factor.
-Information on the specific codecs and resolution are captured in other Item properties.
+<a id="sec-manifestation_format"></a>
+### Format
 
-For optical media, only add commercially produced media here.
-If the optical media is “writable” and is being used to store a digital file, put the digital file format in the general media type, and the optical storage media in specific media type.
+Format describes the physical or digital technical form in which content is fixed, including the physical medium, recording format, digital file format, or package format. It helps identify the technology, equipment, or software required to read, decode, reproduce, or play back that content. Other technical characteristics may be needed to establish the full playback requirements.
 
-Institutions should develop standard lists of terms to indicate the specific carrier type or refer to authoritative existing lists.
+This develops the information addressed through Carrier type and Gauge within EN 15907's broader Format description.[^format_standard] Other technical characteristics, including aspect ratio, sound, colour, and digital codecs, are described separately in this manual.
 
-!!! example "Example"
-    YEE ([http://myee.bol.ucla.edu/catrul.doc](http://myee.bol.ucla.edu/catrul.doc)) 5.3.3 (physical carriers) 
+Cataloguing systems may record format information in one field or distribute it across several fields, such as General Carrier Type and Specific Carrier Type, as used in the first edition of this manual (2016).[^format_history] Use the available structure consistently so that the technical format of the object can be identified. For digital materials, distinguish the format of the digital object from that of the physical storage media holding its copies.
 
-    AMIM2 5D, pp. 18-19 (for gauges/width values) 
+Use terminology appropriate to the collection and cataloguing system, drawing on a controlled vocabulary where available. Broad designations such as Film, Audio, Video, or Digital file may support initial identification and searching. Record more specific technical format information where known and relevant. This guidance does not require separate general and specific fields or a hierarchical vocabulary.
 
-    AMIM2 5B7, pp. 10-11 (including both “tape” and “disc” based video formats). 
+For film and tape, distinguish gauge—the width of the material—from format. A format designation may include its gauge, but different formats may use material of the same width. For example, Standard 8 and Super 8 share the same nominal gauge but differ in perforation and image dimensions. Gauge remains a distinct descriptive attribute and may be recorded separately, even when it is also included in the format designation.
 
-    RDA 3.20; YEE ([http://myee.bol.ucla.edu/catrul.doc](http://myee.bol.ucla.edu/catrul.doc)) 5.3.14 (for encoding formats). 
+For digital objects, distinguish container formats, image file formats, and package formats. A package may contain files in several formats; an image sequence may comprise many files in one image format. Describe the component formats where needed to make their application clear. Codecs describe the encoding of the digital content and should not be treated as interchangeable with container or package formats.
 
-    PBCore instantiationPhysical [http://metadataregistry.org/concept/list/vocabulary_id/145.html](http://metadataregistry.org/concept/list/vocabulary_id/145.html) (for physical carriers) 
+Authored audio and video disc formats should be distinguished from optical media used to store digital objects. Whether a disc is writable or commercially produced does not, by itself, identify the technical format of its contents. Where physical storage media are also recorded in the catalogue, keep their characteristics distinguishable from those of the digital objects. See [Moving Image Items](../../items/index.md#sec-moving_image_items) for the scope of this distinction.
+
+The following terms are examples, not exhaustive lists or a prescribed classification. They are grouped by the kind of equipment or software needed, as described above. Audio and video carrier formats may record analogue or digital signals; file-based audio and video objects are described through their digital formats.
+
+| **Format** | **Examples** |
+| --- | --- |
+| Film | Standard 8mm film, Super 8mm film, 16mm film, 35mm film, 35mm magnetic film, 70mm film |
+| Audio tapes and discs | Open-reel audiotape, Audiocassette, CD (audio), DAT |
+| Video tapes and discs | 1-inch Type C, U-matic, Betacam SP, Digital Betacam, DVD-Video, Blu-ray |
+| Digital files and packages | Container formats: MOV, MXF, MKV, MP4, WAV; image file formats: DPX, TIFF, OpenEXR; package formats: DCP, DCDM, IMF |
+| Physical storage media | LTO tape, hard disk drive, data disc such as DVD-R |
+
+Physical storage media are listed for institutions that catalogue them. Their format describes the medium, not the digital objects it holds, which are described by their own formats.
+
+#### Sources for Format Terminology
+
+Institutions may develop their own controlled lists or refer to existing sources. These include SMPTE standards, engineering guidelines, and recommended practices, as well as the following:
+
+!!! example "Examples of sources"
+    YEE ([http://myee.bol.ucla.edu/catrul.doc](http://myee.bol.ucla.edu/catrul.doc)) 5.3.3 (physical carriers)
+
+    AMIM2 5D, pp. 18-19 (for gauges/width values)
+
+    AMIM2 5B7, pp. 10-11 (including both “tape” and “disc” based video formats).
+
+    RDA 3.20; YEE ([http://myee.bol.ucla.edu/catrul.doc](http://myee.bol.ucla.edu/catrul.doc)) 5.3.14 (for encoding formats).
+
+    PBCore instantiationPhysical [http://metadataregistry.org/concept/list/vocabulary_id/145.html](http://metadataregistry.org/concept/list/vocabulary_id/145.html) (for physical carriers)
 
     PBCore instantiationDigital ([http://pbcore.org/pbcoreinstantiation/instantiationdigital/](http://pbcore.org/pbcoreinstantiation/instantiationdigital/)) (for broad digital formats)
 
-Additional sources of information include several SMPTE standards, engineering guidelines, and recommended practices. These are some of the most common terms, but not a complete or definitive list.
-
-| **Film Gauge** | **Video** | **Audio** | **Optical** | **Digital File** | **Digital File Encoding** |
-| --- | --- | --- | --- | --- | --- |
-| 35mm | 1-inch C Format | 2” audioreel | CD | DPX | MPEG-4 |
-| 16mm | Digital Betacam | 1” audioreel | DVD | MOV | Quicktime |
-| Super 16mm | Betacam SP | ½” audioreel | Blu-Ray | MP4 | Real video |
-| 8mm | 2-inch Quadruplex | ¼” audioreel | Laser Disc | MXF | SVCD |
-| Super8mm | HDCAM SR | audiocassette |  | AVI | VCD |
-| 9.5mm | D1 | 35mm magnetic track |  |  | Windows Media |
-| 17.5mm | D5 | 16mm magnetic track |  |  |  |
-| 70mm | DVCPRO HD |  |  |  |  | 
-
-For digital files, list the physical carrier on which the file is stored. For all other materials, use this element to provide more specific information on the physical carrier.
-
-Institutions should develop standard lists of terms to indicate the specific carrier type or refer to authoritative existing lists.
-
-These are some of the most common terms, but not a complete or definitive list.
-
-- LTO5
-- LTO6
-- T10000D
-- HDD (abbreviated for “external hard drive”)
-- DVD-R
-- Blu-Ray 
-
-For reasons of clarity and to avoid redundancy, optionally, institutions can decide to skip the general carrier type description, since it is already implicit in the specific carrier type.
-
 <a id="sec-projection_characteristics_of_a_manifestation"></a>
-## Projection Characteristics of a Manifestation  
+### Projection Characteristics of a Manifestation
 The projection characteristics of a Manifestation include aspect ratio and aperture or image format.
 
 **Aspect Ratio/Image Ratio**
 
-The aspect ratio (also known as the image ratio or projection ratio) is the projected image area visible on screen, expressed as a value of width to height (the value of height always being “1”), for example, 2.34:1, 2.39:1.
+Aspect ratio (also known as the image ratio or projection ratio) expresses the relationship between image width and height. Film aspect ratios are conventionally expressed with the height normalised to 1, for example 1.37:1 or 2.39:1. Video aspect ratios are also commonly expressed as whole-number proportions, such as 4:3 or 16:9. State whether the value describes the recorded image area, the active image area within an encoded frame, or the intended presentation, where this distinction is relevant.
 Selection should be made from a controlled list of values.
 A suggested list of examples, which is open and not exhaustive, includes:
 
@@ -280,101 +253,137 @@ A suggested list of examples, which is open and not exhaustive, includes:
 Fuller details and examples of “aspect ratio” value lists can be found in the Technical Glossary of Common Audiovisual Terms (National Film and Sound Archive Australia), [The Advanced Projection Manual](https://iupress.org/9782960029611/the-advanced-projection-manual) and the PBCore essenceTrackAspect Ratio [http://metadataregistry.org/concept/list/vocabulary_id/129.html](http://metadataregistry.org/concept/list/vocabulary_id/129.html)
 
 
-The aspect ratio reflects the compositional intentions of the original content makers and the intended presentation of the moving image content.[^6] If the aspect ratio of a Work/Variant is altered, moving image information is lost, creating a Manifestation/Item with different moving image content.[^7] The Manifestation should reflect the projected image of the Work/Variant that it represents, rather than that on the Item.
+The intended presentation aspect ratio reflects the compositional intentions of the original content makers.[^6] Distinguish alterations to the image, such as cropping or stretching, from changes to the surrounding frame, such as letterboxing or pillarboxing. Cropping may remove image information.[^7] Adding borders does not, by itself, change the image's proportions or remove content.
+
+Where applicable, describe the intended presentation at Manifestation level and the actual characteristics of the particular Item in its description.
+
 Institutions may record variations in projection characteristics as Item-specifics, rather than create multiple Manifestations.
 
 **Aperture/Image Format**
 
-The actual exposed image or picture area as it appears on the moving image itself, for example Academy, Full screen, Widescreen, etc. The image format (aperture) does not necessarily bear any relation to the preferred image ratio (projection ration or aspect ratio) of the moving image.[^8]
+For film, describe the recorded image area and the applicable aperture or image format, for example Academy or full aperture.[^8] Distinguish the recorded image area from the area intended to be shown in projection, which may be masked.
 
-Selection should be made from a controlled list of terms.
-A suggested list of examples, which is open and not exhaustive, includes:
+Select terms from one or more controlled vocabularies, as appropriate to the aspects being described. The following examples are illustrative, not exhaustive, and may be used in combination.
 
-- Academy 
-- Widescreen 
-- Cinemascope 
-- Movietone 
-- Flat 
-- Full Height 
-- Full Screen 
-- Anamorphic 
-- 3D 
-- Pan and scan 
-- Pillarbox (bars added at the sides) 
-- Letterbox/Widescreen (bars added at the top and bottom) 
-- Windowbox (bars added at the side and the top and bottom) 
+*Aperture and recording geometry*
+
+- Academy
+- Full aperture
+- Movietone
+
+*Named image systems*
+
+- CinemaScope
+- Todd-AO
+
+*Image characteristics*
+
+- Anamorphic
+
+*Broad presentation designations*
+
+- Widescreen
+- Flat
+- Full Height
+- Full Screen
+
+*Image placement and reframing*
+
+- Pan and scan (reframing the image)
+- Pillarbox (bars added at the sides)
+- Letterbox (bars added at the top and bottom)
+- Windowbox (bars added at the sides and top and bottom)
+
+*Stereoscopic presentation*
+
+- 3D
 
 Further examples can be found in [The Advanced Projection Manual](https://iupress.org/9782960029611/the-advanced-projection-manual/).
 
 <a id="sec-sound_characteristics_of_a_manifestation"></a>
 ### Sound Characteristics of a Manifestation
-Sound characteristics are technical specifications relating to the placement of sound on a Manifestation.[^9]
+Sound characteristics describe the presence or absence of recorded sound and, where relevant, its technical characteristics.[^9] The example lists below distinguish these aspects; they are suggested values, not exhaustive lists. Select terms from one or more controlled vocabularies appropriate to the aspects being described.
 
-Its description consists of a statement about the presence or absence of sound, and optionally, in case of presence, of the description of the method with which the sound has been fixed.
+**Presence or absence of sound**
 
-Indicate the presence or absence of sound in the Manifestation. Selection should be made from a controlled list of terms, e.g.:
+Select terms from a controlled vocabulary, for example:
 
-- Sound  
-- Silent  
-- Mute  
-- Combined  
-- Combined as Mute  
-- Combined as Sound  
-- Mixed  
-- Temporary 
+- Sound
+- Silent
+- Mute
 
-Optionally, use a flag-type value indicating if the Manifestation includes recorded sound or not (i.e.: has sound: yes/no).
+Use Silent where the moving image was made without a recorded soundtrack, as with films of the silent era.
+
+If the associated Work/Variant originally had sound but the Manifestation lacks it, describe it as Mute, not Silent, and explain this in a note.[^10]
+
+If the associated Work/Variant was originally silent but the Manifestation includes added recorded sound, describe it as Sound and explain the addition in a note.
+
+Optionally, also record a yes/no value indicating whether recorded sound is present.
 
 <a id="sec-sound_systems"></a>
-#### Sound Systems
-Describes the technical or proprietary system used to record the sound on a Manifestation. Select from a controlled list, e.g.:
-
-- Dolby SR
-- Dolby Digital
-- Mute
-- Combined Magnetic Sound
-- Combined Optical Sound
-- VA RCA Duplex
-
-<a id="sec-manifest_sound_channel_configuration"></a>
-#### Sound Channel Configuration and Sound Fixation Type
-If the Manifestation has sound, note here the track configuration (e.g., mono, stereo, etc.).
-Selection should be made from a controlled list of terms.
-
-In case of presence of sound, optionally, if considered relevant, record the name of the physical principle of sound recording. Selection should be made from a controlled list of terms, e.g.:
+#### Sound System
+Describe the sound system used, using a broad category or a specific system as appropriate. Select terms from a controlled vocabulary, for example:
 
 - Needle sound
-- Optical
+- Analogue optical
 - Magnetic
-- Analogue sound
-- Digital
+- Combined magnetic sound
+- Dolby Stereo SR
+- Dolby Digital
+- VA RCA Duplex
 
-If the Work/Variant associated with the Manifestation in hand had sound originally, but the Manifestation lacks sound, describe it as silent (or mute) and give a note to that effect.[^10]
+Some digital sound systems, such as Dolby Digital and SDDS, are also printed optically on film. Where a broad category is used, make clear whether optical sound is analogue or digital.
 
-If the Work/Variant associated with the Manifestation in hand was silent originally, but the Manifestation has sound added, describe it as sound and make a note to that effect.
+<a id="sec-noise_reduction"></a>
+#### Noise Reduction
+Some sound systems, such as Dolby Stereo, incorporate noise reduction; it may also be used with other recording methods, such as magnetic sound. Where relevant, describe noise reduction separately from the sound system, for example:
+
+- Dolby A
+- Dolby SR
+
+<a id="sec-manifest_sound_channel_configuration"></a>
+#### Sound Channel Configuration
+If recorded sound is present, describe its channel configuration. Select terms from a controlled vocabulary, for example:
+
+- Mono
+- Stereo
+
+Channel configuration and sound system describe distinct but related characteristics. Some sound systems specify a particular channel arrangement, while others support several configurations. For example, 35mm optical Dolby Stereo carries left, centre, right, and surround channels matrix-encoded into two recorded channels. Distinguish the recorded arrangement from the intended reproduced configuration where relevant, and identify the configuration applicable to the soundtrack being described. The groupings above do not require separate database fields.
 
 <a id="sec-colour_characteristics_of_a_manifestation"></a>
 ### Colour Characteristics of a Manifestation
-The presence of colour(s), tone(s), etc. in a Manifestation.[^11]
+Distinguish the colour appearance of the image from the technical means used to produce or encode it. Colour appearance describes what is visible, including black and white and colour.[^12] The technical description identifies the colour system, process, or digital encoding used. A particular appearance does not, by itself, establish how it was produced.
 
-Colour is also the specific colours, tones, etc. (including black and white) present in a moving image contained in a Manifestation.[^12]
+**Colour appearance**
 
-It consists of a designation of the colour state and, optionally, of the description of the colour system.
+Record the colour characteristics of the image represented by the Manifestation. Select terms from a controlled vocabulary, for example:
 
-Record the colour state of a Manifestation. Selection should be made from a controlled list of terms, e.g.:
-
-- Colour
-- Colour + Black & White
-- Tinted
 - Black and white
-- Black and white (tinted)
-- Black and white (toned)
-- Black and white (tinted and toned)
-- Sepia
+- Colour
+- Black and white with applied colour
 
-Optionally, if considered relevant, describe the system or process by which colour is fixed on the carrier or as part of the digital encoding. Selection should be made from a controlled list of terms, e.g.:
+Where the image combines these, for example a black-and-white film with colour sequences, record each applicable term rather than a combined term. Where the characteristics vary between sections, describe the variation as needed.
 
-- Pathécolor
+Black and white with applied colour describes a black-and-white photographic image coloured by tinting, toning, stencil colouring, hand colouring, or similar means. The term describes the appearance of the image, and applies equally to a photographic or digital copy that reproduces it. Record the process itself under Colour systems and processes below, in the description of the material that underwent it. A tinted nitrate print, for example, is Black and white with applied colour, with the process Tinted; a digital copy of that print has the same appearance, but Tinted is not recorded as its process.
+
+Catalogues that do not record colour processes separately may use terms such as Black and white (tinted) in their colour description. Where such a term describes a copy, make clear that it refers to the appearance reproduced, not to a process applied to the copy.
+
+**Colour systems and processes**
+
+Where relevant, and where the catalogue records them, also record the colour system or process used in the material described. Select terms from a controlled vocabulary, for example:
+
+*Applied colour*
+
+- Tinted
+- Toned
+- Tinted and toned (both present in the same image)
+- Stencil colouring, for example Pathécolor
+- Hand colouring
+
+More specific terms may identify particular tint colours or toning processes, such as blue tinting or sepia toning. These can support searching by the particular treatment or colour represented.
+
+*Photographic colour processes*
+
 - Technicolor
 - Kinemacolor
 - Anscocolor
@@ -383,28 +392,26 @@ Optionally, if considered relevant, describe the system or process by which colo
 - Kodachrome
 - Eastmancolor
 
-- RGB
-- YUV
+For digital colour encoding, colour space, and transfer function, see [Colour](../../items/elements_of_a_moving_image_item/index.md#sec-colour) in the Item chapter. Record these characteristics at Manifestation level only where they apply to the associated Items.
+
+Manifestation-level information should describe characteristics applicable to the associated Items; record Item-specific characteristics and differences in the Item descriptions. These groupings do not require separate database fields.
 
 <a id="sec-extent_of_a_manifestation"></a>
 ## Extent of a Manifestation[^1]
-The concept of extent as applied to Manifestations is the “ideal” logical, physical, or temporal (duration) units and not a description of a real physical object.
-Actual objects in the collection are described at the Item level.
-
-The extent of a Manifestation must be recorded as a reference for the completeness of all the related Items, using appropriate authoritative secondary sources where feasible.
+For a Manifestation describing a particular release or edition, record its expected or “ideal” extent as a reference for assessing the completeness of associated Items, using appropriate authoritative sources where feasible. Where a Manifestation groups varied production materials or derivatives, a single expected extent need not apply to every Item. Record the actual extent of each object at Item level.
 
 <a id="sec-logical_extent_of_a_manifestation"></a>
 ### Logical Extent of a Manifestation
-Logical extent is the number of discrete logical units which make up the Manifestation, both for analogue (e.g. reels, cassettes, discs) and digital (cassettes, discs, files), considering that the digital Manifestations may be bound to a physical carrier (such as DVD) or exist without a defined carrier (such as online streaming media, podcasts, etc.).
+Logical extent is the number of discrete units that make up the Manifestation, for example reels, discs, or digital components. State the type of unit being counted.
 
-For digital Manifestations, there can be two extents: one for the number of files, and one for the extent of the carrier (e.g., 2 LTO6 tapes).
+For digital Manifestations, distinguish the number of logical components from the number of constituent files, stating what is being counted. Physical storage units, such as LTO tapes holding copies, do not determine the logical extent of the digital Manifestation.
 
 !!! example "Example"
     A home video publication: DVD in 2 discs 
 
     A theatrical print: in 6 reels 
 
-    A hard-disk stored film in 3 files
+    A digital publication comprising 3 files
 
 Record the number of the logical units of a Manifestation in Arabic numerals, and, if necessary, specify the type of unit. Selection should be made from a controlled list of terms, e.g:
 
@@ -415,7 +422,6 @@ Record the number of the logical units of a Manifestation in Arabic numerals, an
 - Loop
 - Disc
 - File
-- Digital tape
 
 If the number of the logical units of a Manifestation is uncertain, use a question mark following the unit count[^13] or record the uncertain number preceded by “approximately.”[^14]
 
@@ -431,14 +437,13 @@ The actual length is a characteristic of a singular Item since it can be differe
 
 Record the total length in Arabic numerals, in metres or feet.
 
-For digital Manifestations, record the total storage of all files that comprise the Manifestation.
+For digital Manifestations, record the total file size where it is a defined characteristic of the Manifestation. Otherwise, record file sizes at Item level.
 Use Arabic numerals followed by MB, GB, or TB as appropriate.
 
 The Unit of Measurement (feet, metres, GB, etc.) can be provided in a separate field.
 This could be two separate fields side by side – one for numbers and one for size measurement.
 
 If the length of a Manifestation is uncertain, use a question mark following the unit count or record the uncertain number preceded by “approximately.” In a note, give an explanation for the estimated footage or metre count, where known.
-Estimating the total storage size for a digital Manifestation can be particularly difficult, since storage can vary depending on technical characteristics of the file(s).
 
 If the length of a Manifestation is unknown, record the information using a value of “unknown.”
 
@@ -446,22 +451,18 @@ Alternatively, provide for a distinguishing “precision” field specifying if 
 
 <a id="sec-physical_extent_of_an_aggregate_manifestation"></a>
 #### Physical Extent of an Aggregate Manifestation
-For Aggregate Manifestations record the length or footage of the whole, i.e. the total in feet or metres of all the units that constitute the Aggregate.
-In addition there is the option to qualify this with details of the physical extent of each individual unit in either a Notes field, or in multiple occurrences of the duration fields, depending on what systems used permit or an institution decides.
+Record the extent of the Aggregate Manifestation as a whole where known, for example as stated on the container, using the guidance above for the relevant medium. Where useful, also record the extent of individual constituents, making clear what each measurement describes—for example, a constituent film or a reel. Applicable constituent measurements already available through linked descriptions need not be recorded again. This information may be recorded using the available descriptive elements or notes.
 
 For more information about aggregates, see [Aggregates (Compilations, Multi-component productions)](../../aggregates/index.md).
 
 <a id="sec-duration_of_a_manifestation"></a>
 ### Duration of a Manifestation[^3]
-This is the total duration/running time under normal or specific playback conditions (e.g. a specific frame rate).
-It represents the concept of “ideal” duration/running time (i.e., the duration reported on the moving image Manifestation itself – i.e., on the container, on the accompanying material, on the wrapper of metadata in a digital file or reported by authoritative secondary sources such as filmographies, censorship visas, etc.).
-In cases where it is known that the time on the Manifestation is incorrect and all Items will inherit the same incorrect duration, record the accurate duration and make a note about the error/discrepancy found on the Manifestation.
+Manifestation duration represents the expected or “ideal” total running time under specified playback conditions, for example a specific frame rate. Sources may include information on containers, accompanying material, metadata associated with a digital object, or authoritative secondary sources such as filmographies and censorship records.
+Where a reported duration is known to be incorrect, record the accurate duration and explain the discrepancy in a note.
 
 The actual duration is usually considered a characteristic of a singular moving image Item, since it can differ among multiple Items exemplifying the same Manifestation.
 
-Record, in Arabic numerals, the total duration/running time in minutes, normally rounded off to the nearest minute.
-Optionally, include minutes and seconds, or, for a higher level of precision and to enable calculations, use the format HH:MM:SS.
-This numeric format will help to calculate estimated digital storage in analogue-to-digital transfer projects.
+Use a duration notation appropriate to the cataloguing system and institutional practice. Examples include minutes, hours/minutes/seconds expressed as HH:MM:SS, or ISO 8601 duration notation. For example, 90 minutes may be expressed as 90 min, 01:30:00, or PT1H30M. Record only the precision supported by the available information. Duration can also support estimates of digital storage requirements for digitisation projects.
 
 If the duration/running time of a Manifestation is uncertain, use a question mark following the unit count or, if the system allows, use the qualifier “Duration Precision” and add the term “approximate.” (see [Duration Precision](../../manifestations/elements_of_a_manifestation/index.md#sec-manifest_duration_precision))
 
@@ -471,13 +472,16 @@ If the duration/running time of a Manifestation is unknown, record the informati
 
 <a id="sec-duration_of_an_aggregate_manifestation"></a>
 #### Duration of an Aggregate Manifestation
-For Aggregate Manifestations record the duration of the whole, i.e. the total running time of all the units that constitute the Aggregate.
-In addition there is the option to qualify this with details of the duration of each individual unit in either a Notes field, or in multiple occurrences of the duration fields, depending on what systems used permit or an institution decides.
+Record the duration of the Aggregate Manifestation as a whole where known, for example as stated on the container. Make clear whether it describes a continuous presentation, an individual programme or version, or the combined running times of several programmes or versions. Do not add the durations of components that play simultaneously.
+
+Where useful, record the running times of individual constituents using the available descriptive elements or a note.
+
+Applicable constituent measurements already available through linked descriptions need not be recorded again.
 
 !!! example "Example"
-    DVD “The Audrey Hepburn Collection” contains 3 films, all with extra features. The running times for each of those 3 units are given on the container. 
+    DVD “The Audrey Hepburn Collection” contains three films with additional features. Running times for the three units are given on the container.
 
-    The total running time of these may be added as duration, with an additional clarifying note detailing the running times of the individual units.
+    These running times may be added to give a combined total. Make clear whether the timings cover the films alone or include additional features, and optionally record the individual running times.
 
 For more information about Aggregates see [Aggregates (Compilations, Multi-component productions)](../../aggregates/index.md).
 
@@ -486,29 +490,30 @@ For more information about Aggregates see [Aggregates (Compilations, Multi-compo
 When recording duration of Manifestations of a Work/Variant of the silent era, take into account that the rate of frames per second varied over the years and between Variants/Manifestations.
 Also take into account the so-called “stretch frame” practice, adopted after the silent era, which “increases the number of frames printed on a film to enable films shot at silent speeds to be projected at sound speed and retain the original temporal characteristics.” [^16]
 
-In a note, indicate the frame rate on which the duration is based or if the Manifestation is the result of a “stretch frame” practice.[^17] (See also [Frame Rate](../../items/elements_of_a_moving_image_item/index.md#sec-frame_rate))
+Indicate the frame rate on which the duration is based. Where a film print or digital object uses repeated frames to preserve the running time of a slower-speed source, explain this in a note and distinguish the playback rate from the source film’s projection rate.[^17] See also [Frame Rate](../../items/elements_of_a_moving_image_item/index.md#sec-frame_rate).
 
 <a id="sec-duration_of_a_broadcast"></a>
 #### Duration of a Broadcast Manifestation associated with a Work/Variant
 When recording duration for Broadcast Manifestations there are two potential sets of data: a Slot Duration and an Actual Running Time.
 If the system allows, note the type of duration in the Duration Type element (see [Duration Type](../../manifestations/elements_of_a_manifestation/index.md#sec-duration_type)).
 
-Slot Duration relates to information from TV listings or publicity information for the programmed “slot” on the TV channel, whereas Actual Running Time relates to the exact running time of the entity when it was broadcast, excluding any inserted advertisements, etc. Thus, for example, an episode of the soap opera “Coronation Street” may have a Slot Duration of 30 minutes, but an Actual Running Time of 24 minutes.
+Slot Duration is the scheduled length of the broadcast slot, which may include advertisements or other material outside the programme. Sources may include television listings or schedules. Actual Running Time is the duration of the programme as broadcast, excluding those insertions. For example, an episode of “Coronation Street” may have a Slot Duration of 30 minutes but an Actual Running Time of 24 minutes.
 
-Similarly, record the start and end time of the broadcast, ideally using 24-hour clock notation, e.g. 23:00 rather than 11:00pm.
-This may also involve two potential sets of data: a whole slot start and end time, or the actual more precise start and end time of the broadcast.
+An Item recording may include advertisements or surrounding broadcast material, or may be incomplete. Record its actual duration as described under [Item Duration](../../items/elements_of_a_moving_image_item/index.md#sec-duration).
+
+Record the start and end times of the broadcast where available, preferably using 24-hour clock notation, for example 23:00–23:30. Indicate whether the times are scheduled or actual, and whether they describe the programme or the whole slot. An interval that includes advertisement breaks should not be treated as the programme’s running time excluding those breaks.
 
 It is for an institution to choose whether to record both sets of data in each instance or limit to either just slot or actual broadcast/running times.
 
 <a id="sec-manifest_duration_precision"></a>
 #### Duration Precision
 In this qualifier, note whether the duration is exact, approximate, or estimated.
-Items can apply the additional “stock maximum.”
+“Stock maximum” describes a tape’s labelled maximum playing time rather than duration precision. For its optional use at Item level, see [Item Duration](../../items/elements_of_a_moving_image_item/index.md#sec-duration).
 
 <a id="sec-duration_type"></a>
 #### Duration Type
 Where appropriate, add the type of duration being described.
-For example, broadcast materials could have “Slot Duration” and “Actual Duration.”
+For broadcast materials, examples include “Slot Duration” and “Actual Running Time.”
 
 <a id="sec-notes_for_manifestations"></a>
 ## Notes for Manifestations
@@ -525,10 +530,9 @@ Dates and country of Manifestation are not elements of a Manifestation under EN 
 [^5]: DOI (= Digital Object Identifier): see [http://www.doi.org/](http://www.doi.org/).
 [^6]: This definition from Academy Film Archive in-house glossary of terms, and OLAC, Moving Image Works, Part 3a: Operational Definitions (08/09) (PDF Document), [https://web.archive.org/web/20110702223309/http://olacinc.org/drupal/capc_files/MIW_3a.pdf](https://web.archive.org/web/20110702223309/http://olacinc.org/drupal/capc_files/MIW_3a.pdf).
 [^7]: OLAC, Moving Image Works, Part 3a: Operational Definitions (08/09) (PDF Document), [https://web.archive.org/web/20110702223309/http://olacinc.org/drupal/capc_files/MIW_3a.pdf](https://web.archive.org/web/20110702223309/http://olacinc.org/drupal/capc_files/MIW_3a.pdf).
-[^8]: This definition from Academy Film Archive in-house glossary of terms.
+[^8]: Based on the Academy Film Archive in-house glossary of terms.
 [^9]: RDA 3.17. 01
 [^10]: Based on AMIM2 5C3.
-[^11]: RDA 7.17.3 Colour of Moving Image
 [^12]: RDA 7.17.3 Colour of Moving Image
 [^13]: AMIM2, 5B5, p.9
 [^14]: RDA: 3.4.0.4
@@ -536,3 +540,5 @@ Dates and country of Manifestation are not elements of a Manifestation under EN 
 [^16]: Definition of “Stretch frame” taken from: [http://www.nfsa.gov.au/preservation/glossary/stretch-frame](http://www.nfsa.gov.au/preservation/glossary/stretch-frame).
 [^17]: Adapted from FIAF 5.3.4.2.
 [^18]: Based on RDA 2.20.1.Basic Instructions on Making Notes on Manifestations or Items
+[^format_standard]: EN 15907:2010, §6.7, Format. Carrier type and Gauge are elements within its broader Format description, alongside aspect ratio, sound system, and colour; this is a correspondence, not an assertion of identical scope.
+[^format_history]: See the first edition of [The FIAF Moving Image Cataloguing Manual (2016)](https://www.fiafnet.org/images/tinyUpload/E-Resources/Commission-And-PIP-Resources/CDC-resources/20160920_Fiaf_Manual-WEB.pdf), §§2.3.4.1.1–2.3.4.1.2 (Manifestation) and §§3.1.5.1.1–3.1.5.1.2 (Item), General Carrier Type and Specific Carrier Type.
