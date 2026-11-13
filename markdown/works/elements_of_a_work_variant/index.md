@@ -379,7 +379,7 @@ If acceptable summaries are already available in secondary sources, cataloguers 
 
 Where a database uses keyword searching as an access point, then the cataloguer needs to consider what relevant words would be good to include in the descriptive text from the perspective of user searching and discovery.
 
-For systems depending on keyword searching rather than using subject indexing, synopses or descriptions may need to be larger and fuller than a concise summary to accommodate this.
+For systems depending on keyword searching rather than using subject terms, synopses or descriptions may need to be larger and fuller than a concise summary to accommodate this.
 
 !!! example "Example"
     An historical drama set in 16th century England in which King Henry VIII divorces his wife, Catherine of Aragon, and marries Anne Boleyn, a former lady-in-waiting, who is in love with Sir Thomas Wyatt. After several years, Henry becomes infatuated with Lady Jane Seymour and arranges to have the innocent Anne found in a compromising situation with Sir Thomas. Anne is tried for infidelity, found guilty, and executed.
