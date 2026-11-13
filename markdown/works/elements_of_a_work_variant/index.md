@@ -427,8 +427,8 @@ Stylistics of shotlists can vary between institutions, with some including both 
     Mitchell & Kenyon 641: Panning shot across a road to the Yorkshire Agricultural Society building with a diffuse crowd of people in front of the building. As the shot passes the building, a number of people can be seen sitting down, including mothers with babies and some older people (00.36). Cut to a close-up shot of the building, with a sign reading “The Yorkshire Agricultural Society. Established 1837” (00.45). Cut to a horse-drawn cart spraying some sort of liquid on the path as it moves along. Lettering on the back of the cart reads “Bradford City Council no. 30” (00.58). Cut to wide steps, with a number of smartly dressed men walking down them (presumably entering the show) (01.14). Cut to a shot of the blades of a windmill as they turn (01.23). Cut to a general shot of the show, with crowds and various stalls (02.07). A marquee in the background has the sign “R. Hornsby & Sons Ltd., Grantham”. Another sign reads “Marshall. Sons & Co.”. Chimneys and houses can be seen in the background (02.27min).
 
 
-!!! example "Example"  
-    The fair city of Udaipur (Secrets of India), (1934). 
+!!! example "Example" Title: The fair city of Udaipur (Secrets of India), 1934.
+     
     BBFC certificate (13). Series and main title (36). Credits (54). Map showing
     the location of the city (72). XLS through a grove of palm trees of the city.
     The commentary outlines the tradition and role of the Maharana of Udaipur
