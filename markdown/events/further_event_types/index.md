@@ -33,7 +33,8 @@ Record the Publication type for Manifestations. Selection should be made from a 
 - Pre-Release  
 - Theatrical distribution  
 - Non-theatrical distribution
-- Screening    
+- Screening
+- Premiere  
 - Not for release  
 - Home video publication  
 - Unknown
