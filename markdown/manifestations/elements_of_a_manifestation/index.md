@@ -363,11 +363,13 @@ Record the colour characteristics of the image represented by the Manifestation.
 - Colour
 - Black and white with applied colour
 
-Where the image combines these, for example a black-and-white film with colour sequences, record each applicable term rather than a combined term. Where the characteristics vary between sections, describe the variation as needed.
+Where an image combines different colour characteristics, record each applicable appearance term. For example, a documentary combining black-and-white archive footage with colour interviews would be described using Black and white and Colour. Describe significant variations between sections where needed.
+
+Some catalogues permit only one colour value. In these systems, a combined term such as Colour and black and white may represent the same characteristics.
 
 Black and white with applied colour describes a black-and-white photographic image coloured by tinting, toning, stencil colouring, hand colouring, or similar means. The term describes the appearance of the image, and applies equally to a photographic or digital copy that reproduces it. Record the process itself under Colour systems and processes below, in the description of the material that underwent it. A tinted nitrate print, for example, is Black and white with applied colour, with the process Tinted; a digital copy of that print has the same appearance, but Tinted is not recorded as its process.
 
-Catalogues that do not record colour processes separately may use terms such as Black and white (tinted) in their colour description. Where such a term describes a copy, make clear that it refers to the appearance reproduced, not to a process applied to the copy.
+Where only one colour field is available, use it to describe colour appearance and record relevant process information in a note. Where an existing vocabulary uses terms such as Black and white (tinted), clarify whether the qualifier describes a treatment applied to the material being described or an appearance reproduced from a source.
 
 **Colour systems and processes**
 

@@ -226,7 +226,7 @@ For guidance on colour appearance and colour systems and processes, see [Colour 
 
 Record the colour characteristics of the image present in the Item.[^7] Where characteristics vary between components or sections, describe the variation as needed.
 
-Distinguish the image's colour appearance from the processes used to produce it. Record tinting, toning, or another applied-colour process only for an Item that itself underwent it. A photographic or digital copy reproducing the result shares the appearance, Black and white with applied colour, without the process, as explained in the Manifestation guidance above.
+Distinguish the image's colour appearance from the processes used to produce it. Record tinting, toning, or another applied-colour process only for an Item that itself underwent it. A photographic or digital copy that reproduces applied-colour appearance, without itself undergoing that treatment, is also described as Black and white with applied colour. For example, a digital scan of a tinted print reproduces its appearance, but Tinted does not describe a process applied to the digital Item.
 
 Reuse applicable Manifestation-level information and record Item-specific differences.
 
