@@ -377,6 +377,10 @@ Avoid slang expressions and colloquialisms fashionable at the time of writing,an
 Descriptions should be objective and not include subjective commentary on the quality of the content.
 If acceptable summaries are already available in secondary sources, cataloguers may use these, instead of taking the time to prepare summaries of their own. If using summaries exactly as written, put the summary in quotes and note the source of the summary.[^11]
 
+Where a database uses keyword searching as an access point, then the cataloguer needs to consider what relevant words would be good to include in the descriptive text from the perspective of user searching and discovery.
+
+For systems depending on keyword searching rather than using subject terms, synopses or descriptions may need to be larger and fuller than a concise summary to accommodate this.
+
 !!! example "Example"
     An historical drama set in 16th century England in which King Henry VIII divorces his wife, Catherine of Aragon, and marries Anne Boleyn, a former lady-in-waiting, who is in love with Sir Thomas Wyatt. After several years, Henry becomes infatuated with Lady Jane Seymour and arranges to have the innocent Anne found in a compromising situation with Sir Thomas. Anne is tried for infidelity, found guilty, and executed.
 
@@ -384,6 +388,11 @@ If acceptable summaries are already available in secondary sources, cataloguers 
     Donald Graham, millionaire ex-convict, plans revenge on society figure John Cabin Brand, whom he blames for the death of his daughter.
 
 A content description may also be a shotlist or listing of the contents of an aggregate Work (see [Aggregates (Compilations, Multi-component productions)](../../aggregates/types_of_moving_image_aggregates/index.md#sec-collection_aggregates)). Shotlists are the ideal content description to have or aim to have, particularly for non-fiction moving images, but it is recognised that resources and accessibility mean this is not always possible or practical for an archive or institution.[^12]
+
+A shotlist consists of detailed shot by shot, scene by scene, descriptions of the content along with references to camera  angles or other types of shot, e.g. CU (close-ups), pans, cut to, zooms, L-R (left to right, etc. and also to precise timings or time points in the footage where these shots/screens or camera angles occur, either in minutes or feet/metres.
+Terminologies and abbreviations used should be film industry standard camera shot and movements ones.
+
+Stylistics of shotlists can vary between institutions, with some including both references to camera angles and footage timings or points, some just having one or the other, and others having neither but descriptions of each shot/scene. While others may be a more simple list of the main shots/scenes and aspects covered in the content in the order in which they appear.
 
 !!! example "Example"
     Title: Pathe News [Excerpts No. 6] 
@@ -415,8 +424,32 @@ A content description may also be a shotlist or listing of the contents of an ag
     Title: Magnificent Reproductions of the Great Yorkshire Show in Bradford (1901) 
 
 
-
     Mitchell & Kenyon 641: Panning shot across a road to the Yorkshire Agricultural Society building with a diffuse crowd of people in front of the building. As the shot passes the building, a number of people can be seen sitting down, including mothers with babies and some older people (00.36). Cut to a close-up shot of the building, with a sign reading “The Yorkshire Agricultural Society. Established 1837” (00.45). Cut to a horse-drawn cart spraying some sort of liquid on the path as it moves along. Lettering on the back of the cart reads “Bradford City Council no. 30” (00.58). Cut to wide steps, with a number of smartly dressed men walking down them (presumably entering the show) (01.14). Cut to a shot of the blades of a windmill as they turn (01.23). Cut to a general shot of the show, with crowds and various stalls (02.07). A marquee in the background has the sign “R. Hornsby & Sons Ltd., Grantham”. Another sign reads “Marshall. Sons & Co.”. Chimneys and houses can be seen in the background (02.27min).
+
+
+!!! example "Example" 
+    Title: The fair city of Udaipur (Secrets of India), 1934.
+     
+    BBFC certificate (13). Series and main title (36). Credits (54). Map showing
+    the location of the city (72). XLS through a grove of palm trees of the city.
+    The commentary outlines the tradition and role of the Maharana of Udaipur
+    (112). Pan from roof top of palace of the city (158). The Elephant Gate to the
+    city (170). Main street scenes (240). An elephant outside the Temple of
+    Juggernaut (262). CU of the details of the temple (292). Steps to the temple
+    (307). MS of carved elephant (324). Holy men at the foot of the temple -
+    referred to as Sadoos (354). The market at the foot of the temple (372). A man
+    sharpens a sword on a lathe which is operated by a woman pulling on a leather
+    belt (446). Further street scenes (468). CU of silverwork (496). CU of a
+    moneychanger counting out coins (505). MS of his safe deposit; a large step
+    he sits on has a metal door which he unlocks and removes a sack of coins;
+    money is exchanged (581). Five women - agricultural workers from the outlying
+    area resting with stacks of hay brought into the city to sell. The women are
+    referred to as "Beels" (?) (657). Lake Pichola viewed from the Palace (677).
+    Travelling shot along the banks showing men bathing and children playing
+    (727). LS of a waterseller refilling his buckets (747). LS of the Summer
+    Palace on the lake (760). XLS of the city seen through the grove of palms; a
+    herd of camels pass (800ft).
+
 
 The content description can be based on a viewing of the work, accompanying documentation, or secondary sources, but the source should be clearly noted.
 
@@ -439,6 +472,8 @@ Provide access to the Work by means of subjects (or subject identifiers) that de
 **Subject** reflects the content of the Work, what it features and what it is about.
 
 There are no rules as to how many genre and subject terms can be associated with a Work. It will be different from moving image to moving image and down to the assessment of the individual cataloguer within the levels of subject cataloguing decided by their institution.
+
+The types of genres and subjects used will also vary between institutions depending on the nature and content of the materials in their collections, e.g. a scientific institution's collection of medical or scientific films is likely to use different narrower genres relating to non-fiction and very specific science related subject terms in cataloguing than an institution with collections of various features, shorts, and documentaries across a range of genres and subject matter.
 
 !!! example "Example"
     **Main title** 
@@ -540,7 +575,7 @@ There are no rules as to how many genre and subject terms can be associated with
 
     **Summary**  
 
-    Molina, a homosexual window-trimmer convicted on a morals charge, shares a dreary prison cell with Valentin, a clandestinely-held politically active journalist who has been endlessly tortured by prison authorities in a vain attempt to extract information about his activities. Both men could not be farthe apart in personal attitudes, lifestyles, and emotional makeup: Molina is a glib raconteur, who dwells in a fantasy world of glamorous movies from yesteryear, of romantic screen heroes and tragic heroines. Valentin is a self-disciplined intellectual who is devoted to the cause of human rights and his political concerns. [etc. ; this is an excerpt from the full record] 
+    Molina, a homosexual window-trimmer convicted on a morals charge, shares a dreary prison cell with Valentin, a clandestinely-held politically active journalist who has been endlessly tortured by prison authorities in a vain attempt to extract information about his activities. Both men could not be farther apart in personal attitudes, lifestyles, and emotional makeup: Molina is a glib raconteur, who dwells in a fantasy world of glamorous movies from yesteryear, of romantic screen heroes and tragic heroines. Valentin is a self-disciplined intellectual who is devoted to the cause of human rights and his political concerns. [etc. ; this is an excerpt from the full record] 
 
 
 
@@ -550,10 +585,46 @@ There are no rules as to how many genre and subject terms can be associated with
 
 
 
-    **Genres**  
+      **Genres**
 
     1. Drama. 2. Features.
+    
 
+!!! example "Example"
+    **Main title**  
+    
+    Crystal growth - formation and growth of germanium sulfide crystals by the sublimation method; Variation of the pulling rate (Federal Republic of Germany, 1982. Institut für den wissenschaftlichen Film (Göttingen); producer - Gerd Lamprecht)   
+
+      **Summary** 
+
+        Sublimation of germanium sulphide (GeS) crystals in the ampoule point within a cylindrical growth oven at     approximately 5400°C. The variation of the pulling rate of 1mm/d over 3,10,30 to 100mm/d gives large differences in the growth form of the GeS-crystals, GeS-nuclei, growth front, secondary nucleation, needle form growth. Time-lapse. Animated film of the experimental technique.  
+
+     **Genres**      
+
+        Experiment/Model test  
+
+      **Subjects**  
+
+        Chemistry  
+        Organic Chemistry  
+        Physics  
+        Solid state physics  
+        Crystals (physics)  
+        Technology  
+        Material sciences  
+        Crystals (technology)  
+
+         **Keywords**  
+
+        Crystal growth  
+        Germanium sulphide crystal  
+        Germanium sulphide crystals  
+        GeS nuclei  
+        Secondary nucleus  
+        Crystallography  
+        Encyclopaedia Cinematografica   
+             
+    
 <a id="sec-assigning_subject_terms"></a>
 ### Assigning Subject terms
 When considering the assigning of subject terms to a moving image Work record there are two main components to consider in making an intellectual assessment; the contexts of "about" and "of":

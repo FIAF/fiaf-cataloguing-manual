@@ -52,7 +52,7 @@ Some restorations are simply improving the film/colour/sound quality of deterior
 
 These would equate with minor changes in versions and not need a new Work record created, although a Variant record would be created in 4-level hierarchy structures and systems. Any technical information relating to the restoration would be added to a new Manifestation/Item record.
 
-## Restoration constitutes a Manifestation
+## Restorations - Manifestations
 
 Restoration Manifestation Type represents the outcome(s) of restoration events/activities, usually involving selection and aggregation of materials from diverse source elements to replicate an “original” or “ideal” manifestation
 
@@ -75,7 +75,7 @@ The title of any such second Restoration Manifestation and/or Item(s) should ref
 
 In both Manifestations and Items such titles should indicate that they are devised titles. 
 
-## Restoration constitutes Items
+## Restorations - Items
 
 Items created by an Archive as part of a restoration project are associated with the Restoration Manifestation. If the full released restored version of the moving image is also subsequently acquired, e.g. a published DVD/Blu Ray, then a Home Viewing Manifestation should also be created and a new Item record for the acquisition created and linked to that.
 
@@ -89,7 +89,7 @@ All the existing Items from which the copies have been made (ie. the source Item
 
 The new copy Item record should always cite or be linked to its original source Item record, preferably using the latter’s unique id number.
 
-If produced in-house, then the actual equipment used to create the copy may also be indicated if required.
+Detailed information about the individual stages of the work — including what was done, when, by whom, using which equipment and for what reason, as well as the source and resulting Items or Manifestations — can be documented and linked through appropriate Preservation/Restoration Events, or in relevant fields within an Item where a system does not have Events.
 
 Where to link any final complete print Item record depends on context. 
 
@@ -101,6 +101,6 @@ When digital objects are used to stream a restoration, determine the appropriate
 
 The same data can be collected, grouped and recorded in any system. For example: 
 
-If an index card catalogue, or non-relational database, then add the information to an existing record for the original film, possibly under a heading of “Restoration version + [date]”. The original source of any new Items for the project should also be recorded. Or else create a new record for the restoration version, and add the details on that, relating it to the original film record using a “See also” reference
+If an index card catalogue, or non-relational database, is used then add the information to an existing record for the original film, possibly under a heading of “Restoration version + [date]”. The original source of any new Items for the project should also be recorded. Or else create a new record for the restoration version, and add the details on that, relating it to the original film record using a “See also” reference
 
 [^1]: FIAF, “Restoration,” [Glossary of Technical Terms](https://www.fiafnet.org/pages/E-Resources/Technical-Terms-Full-List.html#R).
