@@ -344,7 +344,7 @@ Base describes the physical support material of a film or tape, not its recordin
 ### Stock
 Record the manufacturer, brand, or product designation of the film, tape, or other physical recording medium, where relevant. Select terms from a controlled vocabulary, for example Agfa, Eastman Kodak, Fujifilm, or Gevaert for film; Akai, BASF, Sony, or TDK for video tape; Ampex, Scotch, Shamrock, or 3M for audio tape.
 
-Where physical storage media for digital objects are catalogued, stock and batch information describes the storage medium, not the digital objects stored on it.
+Where physical storage media for digital objects are catalogued, stock and batch information describes the storage medium, not the digital objects stored on it, for example Maxell, Memorex, Philips, or Verbatim for recordable optical discs; Fujifilm, HP, Oracle, or Sony for data tape; and Hitachi, Seagate, Toshiba, or Western Digital for hard drives.
 
 <a id="sec-stock_batch"></a>
 ### Stock Batch
