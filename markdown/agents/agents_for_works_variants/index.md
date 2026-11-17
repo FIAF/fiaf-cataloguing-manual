@@ -114,11 +114,11 @@ It is a company dedicated to the creation of films, television programmes and ot
 
 <a id="sec-musical_composer"></a>
 ### Musical Composer
-TO BE ADDED
+The creator and composer of original music especially created for and used in a moving image.
 
 <a id="sec-author"></a>
-### Author (e.g. original literary author on which the Work was adapted or based)
-TO BE ADDED
+### Author 
+The original literary author on which the script or screenplay was adapted or based.  
 
 
 Several of these tie in with [important information needed for establishing rights and copyright](../../rights/rights_in_work_and_variant/index.md#sec-recommended_properties_for_Moving_Image_Works_and_Variants), namely Director(s), Producer(s), Production Company(ies), Scriptwriter(s), Author (e.g. original literary author on which the Work was adapted or based), Music Composer, Performers (e.g. cast).
