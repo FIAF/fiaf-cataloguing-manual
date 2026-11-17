@@ -119,12 +119,14 @@ There are largely three main possible approaches:
 2.	Extended Manifestation/Item description: distinguish languages presented together from selectable alternative soundtracks or subtitles.
 3.	Full descriptive approach: record the complete language configuration when this is significant for an institution's          collection, users, preservation responsibilities or access requirements.  
 
-Distinguish languages presented together from alternative soundtracks or subtitles that the user can select. Where relevant, identify the original-language soundtrack and dubbed alternatives. Make clear which language options are available, without implying that all are presented simultaneously. This information may be recorded using the available descriptive elements or notes.
+Where language options are recorded in detail, distinguish languages presented together from alternative soundtracks or subtitles that the user can select, for example through fields for Language and Usage alongside fields for Selectable Language and Usage. Where relevant, identify the original-language soundtrack and dubbed alternatives. Make clear which language options are available, without implying that all are presented simultaneously. Where such fields are not available, this information may be recorded using other descriptive elements or notes.
 
 !!! example "Example"
     New York stories, (United States of America, Woody Allen, Francis Ford Coppola, Martin Scorsese, 1989) 
 
     Home video publication – DVD, English (spoken); – Selectable language alternatives Italian, German (dubbed); English,        Italian, German, French, Spanish, (subtitles) – Buena Vista (publisher), 2002/05/16
+
+The same Language field could be used for both, but this risks ambiguity about which languages are presented together and which are selectable alternatives, and could imply that all the languages indicated appear at the same time. If a single field is used, add a qualifying note for clarity. Alternatively, an additional field alongside Language and Usage, indicating whether each language is presented or selectable, would aid clarity.
 
 It is not necessary to create a separate Variant or Manifestation for each selectable language option. Depending on the cataloguing system, representing each option separately may lead to duplicate Item records for the same object. This should not give the impression that several Items exist when the options belong to a single Item.
 
@@ -139,6 +141,7 @@ Where Variants are used and the cataloguing system allows one Manifestation to b
 
 <center><object data="/diagrams/manif_multi_lang_rda.drawio.svg" type="image/svg+xml" width="80%"></object></center>
 
+This structure is modelled on an RDA-based approach and may be useful for institutions following RDA. Note that this manual's Variants are not equivalent to RDA Expressions (see [Definitions of the Work and Variant Entities](../../appendices/relationships-with-other-standards/index.md#sec-definitions_of_the_work_and_variant_entities)).
 
 Where separate Variants or Manifestations describe selectable language options, make clear that those options are available within one Item. They should not be mistaken for an aggregate containing several complete versions of the moving image presented one after another.
 
@@ -150,7 +153,7 @@ It is also possible that language(s) are added as part of digitalisation, preser
 
 The Item should record the actual characteristics of the material held by an institution rather than simply inherit all the possibilities of the Manifestation.  
 
-An institution may choose not to record every selectable language option, depending on its users’ needs and its preservation and access responsibilities. A core description may prioritise the language(s) most relevant to identification and access.
+Alternatively, an institution may take the “core description” approach and choose not to record every selectable language option, but prioritise the language(s) most relevant to its users’ needs and its preservation and access responsibilities.
 
 <a id="sec-format_of_a_moving_image_manifestation"></a>
 <a id="sec-physical_digital_description_of_a_manifestation"></a>
