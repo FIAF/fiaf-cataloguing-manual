@@ -48,13 +48,15 @@ File counts and component counts are not necessarily the same, and a common fold
 <a id="sec-digital_items_examples"></a>
 ## Examples for Digital Items ##
 
+How digital Items are catalogued depends very much on each institution's set-up. Some institutions have fully developed in-house digitisation and restoration workflows that produce many Items; others hold only a single access copy of a title. Some manage files in LTO tape libraries or other managed storage linked to the catalogue through identifiers such as UUIDs (Universally Unique Identifiers); others store them on individual LTO tapes or hard drives.
+
 Digital Items may be acquired as born-digital materials or produced through digitisation, restoration, duplication, or preparation for access. A digital object may be a single audiovisual file, an image sequence with associated sound, or a multi-file package such as a DCP. The catalogue should identify the object, explain what it comprises, and distinguish its intended function from its technical formats and current status.
 
-Identifiers and links may connect the catalogue description to technical metadata and to the corresponding object in other systems. Description may be maintained within the catalogue, in linked systems, or through a combination of both. The following examples do not prescribe a storage architecture or require file-by-file cataloguing.
+Many film archives have modelled their cataloguing of digital Items on their practice for analogue Items. Identifiers and links may connect the catalogue description to technical metadata and to the corresponding object in other systems. Description may be maintained within the catalogue, in linked systems, or through a combination of both. The following examples show how some institutions catalogue digital Items; they do not prescribe a storage architecture or require file-by-file cataloguing.
 
 Digital objects may offer selectable soundtracks and subtitles within a single file or across related files. These options should be distinguished from the Item's inventory components. See [Multiple Language Options](../manifestations/elements_of_a_manifestation/index.md#sec-multiple_language_options_for_digital_manifestions_items) for the implications for Manifestation and Item descriptions.
 
-Fixity information can support the assessment of the integrity of an object's files. Automated fixity checks can compare newly calculated file checksums with previously recorded values to detect changes in file data. Such information, together with technical inspection and provenance, may be recorded in or linked to the catalogue. Fixity checks alone do not establish authenticity, completeness, or successful playback.
+Fixity information can support the assessment of the integrity of an object's files. Automated fixity checks can compare newly calculated file checksums (such as MD5 or SHA-256) with previously recorded values to detect changes in file data. Such information, together with technical inspection and provenance, may be recorded in or linked to the catalogue. Fixity checks alone do not establish authenticity, completeness, or successful playback.
 
 ### Example 1: Digitisation or Restoration of analogue material in-house ###
 
