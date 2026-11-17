@@ -88,7 +88,7 @@ Whereby:
 -  the DSM is the source for the DCDM
 -  the DCDM is the source for the DCP
 
-Answer: One way to do it would be to link all the digital Items with the Manifestation associated with the source Item, and create the digital Items as shown below. The diagrams illustrate alternative associations with Manifestations. Their existing "file" labels should be read in conjunction with the object and component descriptions above: a reel-length image sequence or a digital package need not be a single file, and the use of Item-part records depends on the cataloguing system.
+Answer: One way to do it would be to link all the digital Items with the Manifestation associated with the source Item, and create the digital Items as shown below. The diagrams illustrate alternative associations with Manifestations. The Item-parts shown need not correspond to individual files: a reel-length image sequence or a digital package may comprise several files. The use of Item-part records depends on the cataloguing system.
 
 
 <br><center><object data="/diagrams/digit_item4dgrmsize.drawio.svg" type="image/svg+xml" width="100%"></object></center>
