@@ -352,6 +352,8 @@ Record the manufacturer’s batch number of the physical recording medium, where
 
 <a id="sec-video_codec"></a>
 ### Video Codec
+A video codec (coder–decoder) is the method used to encode digital video for storage or transmission and decode it for playback, for example ProRes, H.264, or JPEG 2000.
+
 Record the video encoding used in the digital Item. Where encodings differ between streams or components, identify which encoding applies to each.
 
 A digital container may hold video, audio, and subtitle streams within one file. A package may instead contain separate files for image, sound, subtitles, and metadata. These are different levels of technical description, not interchangeable uses of the word file.
