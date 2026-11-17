@@ -15,7 +15,11 @@
       {% set number = plugin.page_numbers[src] %}
     {% endif %}
   {% endif %}
-  <h1>{% if number and not page.title.startswith(number ~ " ") %}{{ number }} {% endif %}{{ page.title | d(config.site_name, true) }}</h1>
+  {% set title = page.title | d(config.site_name, true) %}
+  {% if number and title.startswith(number ~ " ") %}
+    {% set title = title[number | length + 1:] %}
+  {% endif %}
+  <h1>{% if number %}<span class="section-number">{{ number }}</span> {% endif %}{{ title }}</h1>
 {% endif %}
 {{ page.content }}
 {% include "partials/source-file.html" %}

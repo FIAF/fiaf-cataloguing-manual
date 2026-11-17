@@ -4,18 +4,21 @@
   src: url("fonts/BrownStdRegular.otf") format("opentype");
   font-weight: 400;
   font-style: normal;
+  font-display: swap;
 }
 @font-face {
   font-family: "Brown";
   src: url("fonts/BrownStdLight.otf") format("opentype");
   font-weight: 300;
   font-style: normal;
+  font-display: swap;
 }
 @font-face {
   font-family: "Brown";
   src: url("fonts/BrownStdBold.otf") format("opentype");
   font-weight: 700;
   font-style: normal;
+  font-display: swap;
 }
 @font-face {
   font-family: "Brown";
@@ -31,6 +34,16 @@
   --md-text-font:       "Brown";
   --md-code-font:       "Roboto Mono";
   --md-typeset-a-color: #e30521;
+  --fiaf-link-hover-color: #c72b1a;
+  --fiaf-example-blue: #1455a0;
+  --fiaf-example-brown: #874b24;
+  --fiaf-example-turquoise: #006e68;
+  --fiaf-example-purple: #783f9b;
+  --fiaf-example-orange: #8c4a00;
+  --fiaf-example-grey: #595959;
+  --fiaf-example-magenta: #a11975;
+  --fiaf-example-green: #246326;
+  --fiaf-example-pink: #a12a55;
 }
 
 [data-md-color-scheme="default"] {
@@ -66,28 +79,70 @@
   --md-primary-fg-color--dark:  #000000;
   --md-primary-bg-color:        #f1f2f2;
   --md-primary-bg-color--light: rgba(241,242,242,0.7);
-  --md-accent-fg-color:         #e30521;
+  --md-accent-fg-color:         #ff7183;
   --md-accent-fg-color--transparent: rgba(227,5,33,0.1);
+  --md-typeset-a-color:         #ff7183;
+  --fiaf-link-hover-color:      #ff9aa7;
+  --fiaf-example-blue: #91bfff;
+  --fiaf-example-brown: #dfb08e;
+  --fiaf-example-turquoise: #63d8ca;
+  --fiaf-example-purple: #caa7ed;
+  --fiaf-example-orange: #ffc078;
+  --fiaf-example-grey: #c6c6c6;
+  --fiaf-example-magenta: #ed9edb;
+  --fiaf-example-green: #9bcf93;
+  --fiaf-example-pink: #ffa8c3;
 }
 
 /* Links */
 .md-content a {
-  color: #e30521;
+  color: var(--md-typeset-a-color);
 }
 .md-content a:hover {
-  color: #c72b1a;
+  color: var(--fiaf-link-hover-color);
+}
+
+/* Links remain identifiable without color, including muted footnotes. */
+.md-typeset a[href]:not(.headerlink):not(.footnote-ref):not(.footnote-backref),
+.md-copyright a {
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+}
+
+.md-footer {
+  --md-footer-fg-color--lighter: #b0b0b0;
+}
+
+/* Render-time classes keep the original shared color legend intact. */
+.example-color--blue { color: var(--fiaf-example-blue); }
+.example-color--brown { color: var(--fiaf-example-brown); }
+.example-color--turquoise { color: var(--fiaf-example-turquoise); }
+.example-color--purple { color: var(--fiaf-example-purple); }
+.example-color--orange { color: var(--fiaf-example-orange); }
+.example-color--grey { color: var(--fiaf-example-grey); }
+.example-color--magenta { color: var(--fiaf-example-magenta); }
+.example-color--green { color: var(--fiaf-example-green); }
+.example-color--pink { color: var(--fiaf-example-pink); }
+
+/* Diagram alternatives remain available without changing the reading layout. */
+.diagram-description {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
 }
 
 /* Active nav item indicator */
 .md-nav__link--active {
-  color: #e30521 !important;
+  color: var(--md-typeset-a-color) !important;
 }
 
-/* Example admonitions — use FIAF red instead of default purple */
-.md-typeset .admonition.example,
-.md-typeset details.example {
-  border-color: #e30521;
-}
+/* Example labels retain the FIAF red accent. */
 .md-typeset .example > .admonition-title,
 .md-typeset .example > summary {
   background-color: rgba(227, 5, 33, 0.08);
@@ -99,9 +154,39 @@
 
 /* Section numbers injected by heading_numbers.py hook */
 .section-number {
-  font-weight: 300;
-  color: var(--md-default-fg-color--light);
-  margin-right: 0.15em;
+  font-weight: 400;
+  margin-inline-end: 0.35em;
+}
+
+/* Keep Brown's heading hierarchy clear without synthetic intermediate weights. */
+.md-typeset h1,
+.md-typeset h2 {
+  color: var(--md-default-fg-color);
+  font-weight: 400;
+}
+
+.md-typeset h3 {
+  font-weight: 700;
+}
+
+.md-typeset :is(h1, h2, h3) {
+  text-wrap: balance;
+}
+
+.md-typeset p {
+  text-wrap: pretty;
+}
+
+/* Examples are core reading material, with the same type size as the prose. */
+.md-typeset .admonition,
+.md-typeset details {
+  font-size: 1em;
+}
+
+.md-typeset .admonition.example,
+.md-typeset details.example {
+  border-color: var(--md-default-fg-color--lighter);
+  box-shadow: none;
 }
 
 /* Logo sizing */
@@ -125,4 +210,100 @@
   display: flex;
   align-items: center;
   height: 2rem;
+}
+
+/* Keep prose comfortable when a short page has no secondary contents rail. */
+@media screen and (min-width: 60em) {
+  .md-content__inner {
+    max-width: 72ch;
+    margin-inline: auto;
+  }
+}
+
+/* Chapter navigation and page contents have distinct roles and rhythms. */
+@media screen and (min-width: 76.25em) {
+  /* The header already names the manual; retain the drawer title on mobile. */
+  .md-nav--primary > .md-nav__title {
+    display: none;
+  }
+
+  .md-nav--primary > .md-nav__list > .md-nav__item {
+    margin-block: 1.2rem;
+  }
+
+  .md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link {
+    font-weight: 700;
+  }
+}
+
+.md-nav--primary .md-nav__link--active {
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+
+.md-nav--secondary > .md-nav__list > .md-nav__item {
+  margin-block: 0.6rem;
+}
+
+.md-nav--secondary > .md-nav__list > .md-nav__item > .md-nav__link {
+  font-weight: 700;
+}
+
+.md-nav--secondary .md-nav .md-nav__link {
+  padding-inline-start: 0.6rem;
+}
+
+/* Reference tables remain slightly denser than prose, with readable text. */
+.md-typeset table:not([class]) {
+  width: 100%;
+  font-size: 0.9em;
+  line-height: 1.6;
+}
+
+.md-typeset table:not([class]) :is(th, td) {
+  padding: 0.6rem 0.8rem;
+  vertical-align: top;
+  overflow-wrap: break-word;
+}
+
+.md-typeset table:not([class]) th {
+  background-color: var(--md-default-fg-color--lightest);
+  font-weight: 700;
+}
+
+.md-typeset table:not([class]) :is(th, td) > :first-child {
+  margin-block-start: 0;
+}
+
+.md-typeset table:not([class]) :is(th, td) > :last-child {
+  margin-block-end: 0;
+}
+
+/* Keep supporting blocks distinct without leaving oversized gaps in cells. */
+.md-typeset > :is(.admonition, details) {
+  margin-block: 1.5em;
+}
+
+.md-typeset .footnote {
+  font-size: 0.875em;
+  line-height: 1.6;
+}
+
+.md-typeset .footnote > hr {
+  margin-block: 2em 1em;
+}
+
+/* Current section and keyboard position remain legible in either theme. */
+.md-nav--secondary .md-nav__link--active {
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+
+.md-nav__link:focus-visible,
+.md-content a:focus-visible,
+.md-typeset__scrollwrap:focus-visible {
+  outline: 2px solid var(--md-accent-fg-color);
+  outline-offset: 3px;
 }
