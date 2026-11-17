@@ -78,9 +78,9 @@ Record location information sufficient to locate and retrieve the Item. Where lo
 
 Keep the Item’s identifier distinguishable from its location information, even where a shelf mark or other location-based reference also serves as an identifier.
 
-Record movements and changes of location so that the current location of the Item or its parts can be established. Location information may be recorded directly or provided through linked records or systems, according to institutional practice. Barcodes may identify containers or storage locations and support the tracking of movements.
+Record movements and changes of location so that the precise current location of the Item or its Item-parts can be established at any given time. Location information may be recorded directly or provided through linked records or systems, according to institutional practice. Barcodes may identify containers or storage locations and support the tracking of movements.
 
-Where copies of a digital object are held in multiple storage locations, location information may refer to those copies without treating each as a separate Item. For digital Items, persistent identifiers may link to current access or storage information without making the location itself the Item’s identifier (see [Identifier](#sec-item_identifier)).
+Location information could be a single simple field, or could include recurring fields where the Item-parts are held in more than one film can or other container. Where copies of a digital object are held in multiple storage locations, location information may refer to those copies without treating each as a separate Item. For digital Items, persistent identifiers may link to current access or storage information without making the location itself the Item’s identifier (see [Identifier](#sec-item_identifier)).
 
 <a id="sec-item_acquisition type"></a>
 ### Item Acquisition Type
