@@ -4,3 +4,5 @@
 src/manual.pdf
 site/
 __pycache__/
+pdf/out/
+pdf/.cache/

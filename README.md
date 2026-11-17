@@ -64,6 +64,19 @@ mkdocs serve
 
 The site is served at `http://localhost:8000`. 
 
+### PDF edition
+
+A print edition (168 × 240 mm, the trim size of the 2016 book; A4 with `--paper a4`) is generated from the built site:
+
+```sh
+pip install -r pdf/requirements.txt   # WeasyPrint needs Pango: brew install pango / apt install libpango-1.0-0
+python pdf/build_pdf.py               # writes pdf/out/fiaf-cataloguing-manual.pdf
+```
+
+Or with Docker: `docker compose run --rm pdf`.
+
+The diagrams are rendered to images with Chrome or Chromium, which must be installed (or passed with `--chromium PATH`). The images are cached in `pdf/.cache/`, so later builds only re-render changed diagrams. Layout and typography live in `pdf/print.css`. GitHub Actions builds the PDF on every push and attaches it to the workflow run.
+
 ### Deployment
 
 On every push to the `develop` branch, GitHub Actions builds the site and syncs it to a [Scaleway Object Storage](https://www.scaleway.com/en/object-storage/) bucket in the Paris region using the AWS CLI.

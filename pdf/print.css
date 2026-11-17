@@ -1,0 +1,221 @@
+/*
+ * Print stylesheet for the PDF edition (CSS Paged Media, rendered by WeasyPrint).
+ * Page size is set separately by build_pdf.py (--paper); everything else lives here.
+ * The HTML it styles is produced by build_pdf.py, not by MkDocs directly.
+ */
+
+@font-face { font-family: "Brown"; src: url("../markdown/assets/fonts/BrownStdLight.otf"); font-weight: 300; }
+@font-face { font-family: "Brown"; src: url("../markdown/assets/fonts/BrownStdRegular.otf"); font-weight: 400; }
+@font-face { font-family: "Brown"; src: url("../markdown/assets/fonts/BrownStdBold.otf"); font-weight: 700; }
+
+:root {
+  --ink: #1a1a1a;
+  --muted: #666;
+  --accent: #1f5fa8;    /* section headings, links */
+  --title: #2b2a7a;     /* chapter titles, cover */
+  --rule: #b5b5b5;
+  --table-head: #eef1f6;
+}
+
+/* ------------------------------------------------------------------ pages */
+
+@page {
+  margin: 20mm 17mm 22mm 23mm;   /* inner margin wider for binding */
+  @footnote {
+    border-top: 0.4pt solid var(--rule);
+    padding-top: 1.5mm;
+    margin-top: 4mm;
+  }
+}
+@page :left {
+  margin-left: 17mm;
+  margin-right: 23mm;
+  /* first-except: no running head on the page where the heading itself appears */
+  @top-left     { content: string(chapter, first-except); font: 300 7.5pt "Brown"; color: var(--muted); }
+  @bottom-left  { content: counter(page); font: 400 8pt "Brown"; }
+}
+@page :right {
+  @top-right    { content: string(section, first-except); font: 300 7.5pt "Brown"; color: var(--muted); }
+  @bottom-right { content: counter(page); font: 400 8pt "Brown"; }
+}
+@page :blank {
+  @top-left { content: none; } @top-right { content: none; }
+}
+/* Page numbers run continuously in arabic numerals, so printed numbers match
+   the PDF viewer's. (Roman front matter with an arabic restart was tried:
+   WeasyPrint 70 ignores counter-reset in @page rules, and on elements it
+   breaks target-counter() in the contents.) */
+@page front {
+  @top-left { content: none; } @top-right { content: none; }
+}
+@page bare {
+  @top-left { content: none; } @top-right { content: none; }
+  @bottom-left { content: none; } @bottom-right { content: none; }
+}
+@page cover {
+  margin: 0;
+  @top-left { content: none; } @top-right { content: none; }
+  @bottom-left { content: none; } @bottom-right { content: none; }
+}
+
+/* ------------------------------------------------------------------- base */
+
+html {
+  font-family: "Brown", "Noto Color Emoji", "Noto Emoji", sans-serif;
+  font-size: 9pt;
+  font-weight: 400;
+  line-height: 1.42;
+  color: var(--ink);
+  hyphens: auto;
+  text-align: justify;
+}
+body { margin: 0; }
+p { margin: 0 0 0.6em; orphans: 3; widows: 3; }
+strong, b { font-weight: 700; }
+ul, ol { padding-left: 5mm; margin: 0 0 0.6em; }
+li { margin-bottom: 0.15em; }
+li > p { margin-bottom: 0.2em; }
+code { font-family: "Fira Code", "DejaVu Sans Mono", monospace; font-size: 0.88em; }
+hr { border: 0; border-top: 0.4pt solid var(--rule); margin: 4mm 0; }
+
+/* --------------------------------------------------- cover and front pages */
+
+.cover {
+  page: cover;
+  height: 100vh;               /* one full page */
+  box-sizing: border-box;
+  padding: 28mm 20mm 0 22mm;
+  background: var(--title);
+  color: #fff;
+  text-align: left;
+  hyphens: manual;
+}
+.cover .cover-org { font-weight: 300; font-size: 8.5pt; line-height: 1.5; margin: 0 0 70mm; }
+.cover .book-title { font-size: 26pt; line-height: 1.12; font-weight: 700; margin: 0 0 6mm; }
+.cover .cover-edition { font-size: 12pt; font-weight: 300; }
+
+.title-page { page: bare; break-before: right; padding-top: 55mm; text-align: left; hyphens: manual; }
+.tp-title { font-size: 20pt; font-weight: 700; color: var(--title); line-height: 1.15; margin-bottom: 4mm; }
+.tp-edition { font-size: 11pt; font-weight: 300; margin-bottom: 30mm; }
+.tp-by { font-size: 9pt; }
+
+.colophon { page: bare; break-before: left; padding-top: 140mm; font-size: 7.5pt; text-align: left; color: var(--muted); }
+.colophon p { margin-bottom: 0.8em; }
+
+/* -------------------------------------------------------------------- TOC */
+
+.toc { page: front; break-before: right; }
+.toc ol { list-style: none; padding: 0; margin: 0; }
+.toc li { font-size: 8.5pt; margin: 0; text-align: left; }
+.toc li a { color: inherit; }
+.toc li a::after { content: leader(". ") target-counter(attr(href), page); }
+.toc-chapter { font-weight: 700; margin-top: 2.6mm !important; }
+.toc-section { padding-left: 6mm; }
+.toc-subsection { padding-left: 12mm; font-size: 8pt !important; }
+
+/* --------------------------------------------------------------- sections */
+
+section.page { break-before: page; }
+section.front { page: front; break-before: right; }
+section.chapter-start { break-before: right; counter-reset: footnote; }
+
+h1, h2, h3, h4, h5, h6 { text-align: left; hyphens: manual; break-after: avoid; font-weight: 700; }
+.toc-title, h1.chapter {
+  font-size: 18pt; line-height: 1.15; color: var(--title);
+  margin: 0 0 9mm;
+  bookmark-level: 1;
+  string-set: chapter attr(data-running), section attr(data-running);
+}
+h1.group + h1.section { margin-top: 0; }
+h1.section {
+  font-size: 13.5pt; line-height: 1.2; color: var(--title);
+  margin: 0 0 5mm;
+  bookmark-level: 2;
+  string-set: section attr(data-running);
+}
+section.front h1.chapter { string-set: none; }
+h2 { font-size: 11pt; color: var(--accent); margin: 6mm 0 2mm; bookmark-level: 3; }
+h3 { font-size: 9.8pt; color: var(--accent); margin: 4.5mm 0 1.5mm; bookmark-level: 4; }
+h4 { font-size: 9pt; margin: 3.5mm 0 1mm; bookmark-level: none; }
+h5, h6 { font-size: 9pt; font-weight: 400; font-style: italic; margin: 3mm 0 1mm; bookmark-level: none; }
+
+/* ------------------------------------------------------------------ links */
+
+a { color: var(--accent); text-decoration: none; }
+a.xref::after {
+  content: "\2009(p.\00a0" target-counter(attr(href), page) ")";
+  color: var(--muted);
+  font-size: 0.88em;
+}
+.toc a.xref::after, h1 a.xref::after, h2 a.xref::after, h3 a.xref::after { content: none; }
+.fn a, a.ext, .url-inline { overflow-wrap: anywhere; }
+
+/* -------------------------------------------------------------- footnotes */
+
+.fn {
+  float: footnote;
+  font-size: 7pt;
+  font-weight: 400;
+  line-height: 1.3;
+  text-align: left;
+  hyphens: manual;
+  color: var(--ink);
+}
+.fn.url { overflow-wrap: anywhere; }
+::footnote-call {
+  content: counter(footnote);
+  font-size: 0.68em;
+  vertical-align: super;
+  line-height: 0;
+  color: var(--accent);
+}
+::footnote-marker { content: counter(footnote) ".\2002"; }
+
+/* ------------------------------------------------------------ admonitions */
+
+.admonition, details {
+  margin: 2.5mm 0 3.5mm;
+  padding: 0.6mm 0 0.6mm 3.5mm;
+  border-left: 1.1pt solid var(--accent);
+  font-size: 8.5pt;
+  text-align: left;
+  hyphens: manual;
+}
+.admonition-title, details > summary {
+  display: block;
+  font-size: 6.8pt;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--accent);
+  margin: 0 0 0.8mm;
+}
+.admonition p { margin-bottom: 0.3em; }
+.admonition p:last-child { margin-bottom: 0; }
+.admonition.abstract { border-left-color: var(--title); background: #f4f4f9; padding: 2mm 3mm 2mm 3.5mm; }
+.admonition.abstract .admonition-title { color: var(--title); }
+/* keep short examples together; long ones may break */
+.admonition { break-inside: avoid-page; }
+
+/* ----------------------------------------------------------------- tables */
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 3mm 0 4mm;
+  font-size: 7.4pt;
+  line-height: 1.3;
+  text-align: left;
+  hyphens: auto;
+}
+th, td { border: 0.4pt solid #9a9a9a; padding: 1mm 1.4mm; vertical-align: top; }
+th { background: var(--table-head); font-weight: 700; }
+thead { display: table-header-group; }   /* repeat header on each page */
+tr { break-inside: avoid; }
+td p, th p { margin: 0 0 0.25em; }
+
+/* ----------------------------------------------------------------- images */
+
+center { display: block; text-align: center; }
+img { display: block; max-width: 100%; margin: 3mm auto; }
+img.diagram { max-height: 185mm; object-fit: contain; break-inside: avoid; }
