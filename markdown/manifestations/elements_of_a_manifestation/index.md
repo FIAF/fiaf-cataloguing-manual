@@ -319,7 +319,7 @@ If the associated Work/Variant originally had sound but the Manifestation lacks 
 
 If the associated Work/Variant was originally silent but the Manifestation includes added recorded sound, describe it as Sound and explain the addition in a note.
 
-Optionally, also record a yes/no value indicating whether recorded sound is present.
+Optionally, in systems that cannot record the values above, record a simple yes/no value indicating whether recorded sound is present. As this does not distinguish Silent from Mute, explain the absence of sound in a note where it is known.
 
 <a id="sec-sound_systems"></a>
 #### Sound System
