@@ -504,7 +504,7 @@ Slot Duration is the scheduled length of the broadcast slot, which may include a
 
 An Item recording may include advertisements or surrounding broadcast material, or may be incomplete. Record its actual duration as described under [Item Duration](../../items/elements_of_a_moving_image_item/index.md#sec-duration).
 
-Record the start and end times of the broadcast where available, preferably using 24-hour clock notation, for example 23:00–23:30. Indicate whether the times are scheduled or actual, and whether they describe the programme or the whole slot. An interval that includes advertisement breaks should not be treated as the programme’s running time excluding those breaks.
+Record the start and end times of the broadcast where available, preferably using 24-hour clock notation, for example 23:00–23:30. Indicate whether the times are scheduled or actual, and whether they describe the programme or the whole slot. Do not calculate the programme’s running time from start and end times that include advertisement breaks: a broadcast from 23:00 to 23:30 may contain only 24 minutes of programme.
 
 It is for an institution to choose whether to record both sets of data in each instance or limit to either just slot or actual broadcast/running times.
 
