@@ -358,7 +358,7 @@ Record the video encoding used in the digital Item. Where encodings differ betwe
 
 A digital container may hold video, audio, and subtitle streams within one file. A package may instead contain separate files for image, sound, subtitles, and metadata. These are different levels of technical description, not interchangeable uses of the word file.
 
-For example, a DCP is a package containing MXF picture and sound track files and supporting metadata, rather than a DCP contained in an MXF file. Picture encoding, such as JPEG 2000, and audio encoding, such as PCM, are described separately from the package and container formats. Internal stream descriptions do not, by themselves, create Item-parts.
+For example, a DCP (Digital Cinema Package) is a package of related files rather than a single file, commonly supplied together in a folder. In a typical DCP, picture and sound are held in separate MXF files, accompanied by XML metadata describing the package and playback sequence. The picture is encoded as JPEG 2000 and the sound as uncompressed PCM audio. Describe these encodings separately from the package format (DCP) and the container format (MXF). Internal stream descriptions do not, by themselves, create Item-parts.
 
 Examples for value lists:
 
