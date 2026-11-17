@@ -167,6 +167,7 @@ See “Shallow hierarchy model: 2 levels” found at [Elements of description ac
 Ideally the information need only be recorded once irrespective of where in the data structure an institution must place it.
 Therefore guidelines for the treatment of high-level physical and digital description elements are explained fully in the Manifestation chapter.
 The Item chapter contains a detailed listing of item-specific elements.
+
 Where Extent and Format at Manifestation level describe an expected or “ideal” release, Item-specific information records the actual material and any differences from that reference. Where the Manifestation groups varied materials, describe each Item on its own terms rather than treating its different characteristics as deviations from a single ideal object.
 
 Differences in format can help distinguish Manifestations. Apply the criteria and institutional options described in [Boundaries between Manifestations](../../boundaries/boundaries_between_manifestations/index.md#sec-changes_in_the_format), including the option of associating an in-house copy in a different format with the same Manifestation as its source.
@@ -204,11 +205,11 @@ The following terms are examples, not exhaustive lists or a prescribed classific
 
 | **Format** | **Examples** |
 | --- | --- |
-| Film | Standard 8mm film, Super 8mm film, 16mm film, 35mm film, 35mm magnetic film, 70mm film |
+| Film | Standard 8mm film, Super 8mm film, 9.5mm film, 16mm film, 35mm film, 35mm magnetic film, 70mm film |
 | Audio tapes and discs | Open-reel audiotape, Audiocassette, CD (audio), DAT |
-| Video tapes and discs | 1-inch Type C, U-matic, Betacam SP, Digital Betacam, DVD-Video, Blu-ray |
+| Video tapes and discs | 2-inch Quadruplex, 1-inch Type C, U-matic, Betacam SP, D1, Digital Betacam, LaserDisc, DVD-Video, Blu-ray |
 | Digital files and packages | Container formats: MOV, MXF, MKV, MP4, WAV; image file formats: DPX, TIFF, OpenEXR; package formats: DCP, DCDM, IMF |
-| Physical storage media | LTO tape, hard disk drive, data disc such as DVD-R |
+| Physical storage media | LTO tape (e.g. LTO-5, LTO-6), hard disk drive (HDD), data disc such as DVD-R |
 
 Physical storage media are listed for institutions that catalogue them. Their format describes the medium, not the digital objects it holds, which are described by their own formats.
 
