@@ -158,14 +158,16 @@ Distinguish an authored audio or video disc from an optical disc used to store d
 
 <a id="sec-item_status"></a>
 ### Item Status
-Description of the current preservation, access, or administrative status of the Item. This is separate from [Element Type](#sec-item_item_element_type), which describes the nature and intended function of the Item in the workflow in which it was made. For example, retaining a release print for preservation does not change its Element Type.
+Description of the Item’s current institutional role or use, or its administrative status. This is separate from [Element Type](#sec-item_item_element_type), which describes the nature and intended function of the Item in the workflow in which it was made. For example, retaining a release print for preservation does not change its Element Type.
 
-A designation of how the Item is used, such as for preservation or for access, and its administrative status, such as whether it has been accessioned or is on loan, answer different questions. Where both are recorded, keep them distinguishable rather than mixing them in one list of values. Select terms from controlled lists, for example:
+A designation of how the Item is used, such as for preservation or for access, and its administrative status, such as whether it has been accessioned or is on loan, answer different questions. Where both are recorded, ideally keep them distinguishable rather than mixing them in one list of values. In some systems they share a single status field; in that case, use terms whose meaning is clear. Select terms from controlled lists, for example:
 
-*Preservation and access designation*
+*Current institutional role or use*
 
 - Preservation
+- Master
 - Access
+- Viewing
 
 *Administrative status*
 
@@ -174,7 +176,7 @@ A designation of how the Item is used, such as for preservation or for access, a
 - Status pending
 - Removed
 
-Where local status terms such as Master or Viewing are used, make clear that they express the institution's current designation of the Item, not necessarily its original intended function.
+Where local status terms such as Master or Viewing are used, make clear that they express the institution’s current designation of the Item, not necessarily its original intended function. Define their local meanings; these designations may overlap and should not be assumed to be synonyms.
 
 <a id="sec-sound"></a>
 ### Sound
