@@ -223,11 +223,11 @@ Core concepts ([[Core elements of description](../../../preliminary/core_element
 | 9.2.5.13 Base |  | <span style="color:purple"> Polyester </span> | <span style="color:purple"> Polyester </span> |
 | 9.2.5.14 Stock |  | <span style="color:purple"> Eastman Kodak </span> | <span style="color:purple"> Eastman Kodak </span> |
 | 9.2.6 Access conditions |  | No restrictions (film print can be requested for access). | Bez obmedzení (filmová kópia je dostupná na požiadanie). |
-| 9.2.6 Item condition | 9.2.6.0.1 Item Copy Condition Base/Emulsion – Film and Video | Good condition | Dobrý stav |
-|  | 9.2.6.0.2 Item Copy Condition Perforations – Film | Good condition | Dobrý stav |
-|  | 9.2.6.0.3 Item Surface Deposit – Film and Video | Good condition | Dobrý stav |
-|  | 9.2.6.0.4 Item Image – Film and Video | Good condition | Dobrý stav |
-|  | 9.2.6.0.5 Item Decomposition – Film and Video | Good condition | Dobrý stav |
+| 9.2.6 Item condition | 9.2.6.1 Item Copy Condition Base/Emulsion – Film and Video | Good condition | Dobrý stav |
+|  | 9.2.6.2 Item Copy Condition Perforations – Film | Good condition | Dobrý stav |
+|  | 9.2.6.3 Item Surface Deposit – Film and Video | Good condition | Dobrý stav |
+|  | 9.2.6.4 Item Image – Film and Video | Good condition | Dobrý stav |
+|  | 9.2.6.5 Item Decomposition – Film and Video | Good condition | Dobrý stav |
 | 9.2.7 Item location |  | FA-019-12-1-1 | FA-019-12-1-1 |
 | 13.4 Relationships of an Item |  |  |  |
 | 13.4 Agent(s) |  | Slovak Film Institute | Slovenský filmový ústav |
