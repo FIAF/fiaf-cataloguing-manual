@@ -262,7 +262,7 @@ Institutions may record variations in projection characteristics as Item-specifi
 
 **Aperture/Image Format**
 
-For film, describe the recorded image area and the applicable aperture or image format, for example Academy or full aperture.[^8] Distinguish the recorded image area from the area intended to be shown in projection, which may be masked.
+For film, describe the recorded image area and the applicable aperture or image format, for example Academy or full aperture.[^8] Distinguish the recorded image area from the area intended to be shown in projection, which may be masked. The image format (aperture) does not necessarily correspond to the intended image ratio (projection ratio or aspect ratio) of the moving image.
 
 Select terms from one or more controlled vocabularies, as appropriate to the aspects being described. The following examples are illustrative, not exhaustive, and may be used in combination.
 
