@@ -75,7 +75,7 @@ python pdf/build_pdf.py               # writes pdf/out/fiaf-cataloguing-manual.p
 
 Or with Docker: `docker compose run --rm pdf`.
 
-The diagrams are rendered to images with Chrome or Chromium, which must be installed (or passed with `--chromium PATH`). The images are cached in `pdf/.cache/`, so later builds only re-render changed diagrams. Layout and typography live in `pdf/print.css`. GitHub Actions builds the PDF on every push and attaches it to the workflow run.
+The diagrams are rendered to images with Chrome or Chromium, which must be installed (or passed with `--chromium PATH`). The images are cached in `pdf/.cache/`, so later builds only re-render changed diagrams. Layout and typography live in `pdf/print.css`. On GitHub, the PDF is built on request only: Actions → **pdf** → Run workflow (on `develop`). The PDF is attached to the run under Artifacts.
 
 ### Deployment
 
