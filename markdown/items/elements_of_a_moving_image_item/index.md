@@ -314,11 +314,11 @@ If the duration/running time of an Item is indeterminate, record the information
 
 Alternatively, provide for a distinguishing “precision” field specifying if the duration/ running time is exact, approximate or unknown.
 
-Where the recorded duration is unknown, the labelled maximum playing time of an audio or video tape may be recorded instead, identified as the tape’s stock maximum. For example, a Fuji M321-SP 30M Betacam SP tape has a labelled playing time of 30 minutes. This describes the tape’s capacity, not the actual duration of its recorded content.
+Where the recorded duration is unknown, the labelled maximum playing time of an audio or video tape may be recorded instead, identified as the tape’s stock maximum. For example, a Fuji M321-SP 30M Betacam SP tape has a labelled playing time of 30 minutes. This describes the tape’s nominal recording capacity under the stated recording conditions, not the actual duration of its recorded content.
 
 <a id="sec-item_duration_precision"></a>
 #### Duration Precision
-In this qualifier, note whether the duration is exact, approximate, or estimated.
+In this qualifier, indicate how the recorded time value is to be interpreted: exact, approximate, estimated, or Stock maximum. Stock maximum identifies the labelled recording capacity of a tape, used where the actual duration is unknown; it is not a measurement or estimate of the recorded content’s running time.
 
 <a id="sec-frame_rate"></a>
 ### Frame Rate
