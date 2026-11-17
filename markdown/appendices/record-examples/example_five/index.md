@@ -67,7 +67,7 @@
 | <span style="color:blue"> Can ID number </span> | 1264202-1 |
 | <span style="color:blue"> Barcode number </span> | AB12C3D60009435 |
 | <span style="color:blue"> Total reels </span> | 2 |
-| <sp an style="color:blue">Number of cans/cassettes </span> | 2 |
+| <span style="color:blue">Number of cans/cassettes </span> | 2 |
 | <span style="color:blue"> Dimensions Part </span> | <span style="color:blue"> Total </span> |
 | <span style="color:blue"> Value </span> | 400 |
 | <span style="color:blue"> Unit </span> | feet |

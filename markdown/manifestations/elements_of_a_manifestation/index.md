@@ -131,13 +131,15 @@ It is not necessary to create a new Variant/Manifestation for each selectable la
 In 3-level hierarchy systems that allow one Item to link to multiple parent Manifestations then each language option could be reflected with its own Manifestation if desired, e.g.
 
 
-<center><object data="/diagrams/manif_multi_lang_threelevel.drawio.svg" type="image/svg+xml" width="80%"></object></center>
+<center><object data="/diagrams/manif_multi_lang_threelevel.drawio.svg" type="image/svg+xml" width="80%" role="img" aria-label="One Item linked to three language-specific Manifestations" aria-describedby="diagram-language-manifestations-description"><a href="/diagrams/manif_multi_lang_threelevel.drawio.svg">View the diagram of language-specific Manifestations</a>.</object></center>
+<p id="diagram-language-manifestations-description" class="diagram-description">An English film Work is linked to three Home Viewing Manifestations of a Blu-ray release: original English, German subtitles, and French subtitles. All three Manifestations link to one Blu-ray Item in English, with German or French subtitles available for the viewer to select.</p>
 
 
 Similarly, in systems where Variants are used that allow one Manifestation to link to multiple parent Variants then each language option could be reflected with its own Variant all linked to the one Manifestation and Item, if desired. This would also be the structuring that is RDA compliant (if following the RDA standard then Variants will be called Expressions), e.g.
 
 
-<center><object data="/diagrams/manif_multi_lang_rda.drawio.svg" type="image/svg+xml" width="80%"></object></center>
+<center><object data="/diagrams/manif_multi_lang_rda.drawio.svg" type="image/svg+xml" width="80%" role="img" aria-label="Three language Variants linked to one Manifestation and Item" aria-describedby="diagram-language-variants-description"><a href="/diagrams/manif_multi_lang_rda.drawio.svg">View the diagram of language Variants</a>.</object></center>
+<p id="diagram-language-variants-description" class="diagram-description">An English film Work is linked to three Variants/Expressions: original English, a German-subtitled version, and a French-subtitled version. All three link to one Home Viewing Manifestation of a Blu-ray release. That Manifestation links to one Blu-ray Item in English, with German or French subtitles available for the viewer to select.</p>
 
 
 However, a similar ambiguity to that of utilising the one language field for both actual and selectable languages could arise. So notes would be needed on the Manifestation/Item to clarify that there are selectable languages for the user to choose on the one entity, not that it is an Aggregate consisting of three versions of the film itself one after the other and all on one Blu Ray.  
