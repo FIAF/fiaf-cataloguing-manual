@@ -30,7 +30,9 @@ In those databases where there are records for the individual reels/tapes/files 
 
 Decisions on which structure to use will depend on what structuring an institution's database will accommodate and allow.
 
-Digital Manifestations, such as DVDs, Blu Rays, and streamed moving images, that have additional selectable language options chosen by the viewer are deemed to be Aggregate Manifestations under RDA.[^1]
+Digital objects stored together on an LTO tape or another storage medium do not, by that fact alone, form an Aggregate Manifestation. Distinguish intentional compilations or publications from objects that merely share storage; see [Moving Image Items](../../items/index.md#sec-moving_image_items).
+
+The cited 2017 RDA presentation describes aggregates as Manifestations embodying multiple distinct Expressions, including parallel Expressions in different languages.[^1] For this manual’s guidance on selectable soundtracks and subtitles, see [Multiple Language Options](../../manifestations/elements_of_a_manifestation/index.md#sec-multiple_language_options_for_digital_manifestions_items).
 
 <a id="sec-hybrid_aggregates_and_multi_component_moving_images"></a>
 ## “Hybrid” Aggregates and multi-component moving images (Anthology/Portmanteau films or TV programmes)
@@ -156,6 +158,6 @@ Later research and cataloguing may then establish whether this aggregate record 
 
 There may also be Pre-release compilations of production material and an aggregate of Variants, for example, where production firms may submit a compilation reel or file of pre-release material with different versions of the same film for different purposes, either as part of the production process for editing decisions and selections, or because different versions were required, e.g. different versions of TV public information spots or adverts with different lengths. Or else several different short films on the same theme or subject designed for TV spots aimed at different age groups or audiences.
 
-[^1]: See: (https://www.rdatoolkit.org/sites/default/files/rsc/RSCOutreachMadrid.pdf)
+[^1]: Gordon Dunsire, Deborah Fritz, and Damian Iseminger, [*Preparing for the new RDA Toolkit: special topics*](https://www.rdatoolkit.org/sites/default/files/rsc/RSCOutreachMadrid.pdf), RSC outreach seminar, National Library of Spain, Madrid, 23 October 2017 (amended presentation), slides “Types of aggregates” and “Types of aggregates: 3”.
 [^2]: Although where these are made by both different directors and production companies there may have been dual consideration of potential future independent release
 [^3]: It is easier for the Cataloguer to default to treating as an Aggregate initially and create a single Work, Manifestation, and Item, rather than potentially create multiple skeletal “unidentified” Works, Manifestations and Items that then have to be deleted subsequently if it is discovered the entity is an Aggregate.
