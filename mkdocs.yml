@@ -47,6 +47,10 @@ extra_css:
   - assets/extra.css
 
 hooks:
+  # Preserve worked-example color categories with accessible theme palettes.
+  - hooks/example_colors.py
+  # Style heading numbers after anchor IDs and table of contents are generated.
+  - hooks/heading_numbers.py
   # Rewrite root-absolute content URLs so they work under the GitHub Pages subpath.
   - hooks/content_paths.py
   # Keep table cells as separate search-index blocks so previews don't show whole tables.
@@ -66,8 +70,9 @@ markdown_extensions:
   - attr_list
   - admonition
   - toc:
+      title: On this page
       permalink: true
-      toc_depth: 2
+      toc_depth: 3
 
 nav:
 

@@ -133,13 +133,15 @@ It is not necessary to create a separate Variant or Manifestation for each selec
 Where the cataloguing system allows one Item to be associated with more than one Manifestation, an institution may describe selectable language options through separate Manifestations linked to that Item, for example:
 
 
-<center><object data="/diagrams/manif_multi_lang_threelevel.drawio.svg" type="image/svg+xml" width="80%"></object></center>
+<center><object data="/diagrams/manif_multi_lang_threelevel.drawio.svg" type="image/svg+xml" width="80%" role="img" aria-label="One Item linked to three language-specific Manifestations" aria-describedby="diagram-language-manifestations-description"><a href="/diagrams/manif_multi_lang_threelevel.drawio.svg">View the diagram of language-specific Manifestations</a>.</object></center>
+<p id="diagram-language-manifestations-description" class="diagram-description">An English film Work is linked to three Home Viewing Manifestations of a Blu-ray release: original English, German subtitles, and French subtitles. All three Manifestations link to one Blu-ray Item in English, with German or French subtitles available for the viewer to select.</p>
 
 
 Where Variants are used and the cataloguing system allows one Manifestation to be associated with more than one Variant, an institution may describe language options through separate Variants linked to that Manifestation, with the Item linked to the same Manifestation, for example:
 
 
-<center><object data="/diagrams/manif_multi_lang_rda.drawio.svg" type="image/svg+xml" width="80%"></object></center>
+<center><object data="/diagrams/manif_multi_lang_rda.drawio.svg" type="image/svg+xml" width="80%" role="img" aria-label="Three language Variants linked to one Manifestation and Item" aria-describedby="diagram-language-variants-description"><a href="/diagrams/manif_multi_lang_rda.drawio.svg">View the diagram of language Variants</a>.</object></center>
+<p id="diagram-language-variants-description" class="diagram-description">An English film Work is linked to three Variants/Expressions: original English, a German-subtitled version, and a French-subtitled version. All three link to one Home Viewing Manifestation of a Blu-ray release. That Manifestation links to one Blu-ray Item in English, with German or French subtitles available for the viewer to select.</p>
 
 This structure is modelled on an RDA-based approach and may be useful for institutions following RDA. Note that this manual's Variants are not equivalent to RDA Expressions (see [Definitions of the Work and Variant Entities](../../appendices/relationships-with-other-standards/index.md#sec-definitions_of_the_work_and_variant_entities)).
 

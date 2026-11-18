@@ -405,22 +405,26 @@ Observations about Item conditions will typically happen in the course of an Eve
 
 These actions can be recorded as an [Event](../../events/further_event_types/index.md), and the person or entity performing the action linked/added as an [Agent](../../agents/agents_for_items/index.md).
 
+<a id="92601-item-copy-condition-baseemulsion-film-and-video"></a>
 <a id="sec-item_copy_condition_base_emulsion_film_and_video"></a>
-#### Item Copy Condition Base/Emulsion - Film and Video
+### Item Copy Condition Base/Emulsion - Film and Video
 
 Record information about the condition of the Item including the nature and extent of any damage to its base and/or emulsion and/or perforations, where applicable.
 Selection should be made from a controlled list of terms, e.g. Brittle, Buckled, Light Scratches, Heavy Scratches, Tears, Warped, Hydrolysis.
 
+<a id="92602-item-copy-condition-perforations-film"></a>
 <a id="sec-item_copy_condition_perforations_film"></a>
-#### Item Copy Condition Perforations – Film
+### Item Copy Condition Perforations – Film
 Selection should be made from a controlled list of terms, e.g. Foil Patches, Torn, Pulled, Missing.
 
+<a id="92603-item-surface-deposit-film-and-video"></a>
 <a id="sec-item_surface_deposit_film_and_video"></a>
-#### Item Surface Deposit – Film and Video
+### Item Surface Deposit – Film and Video
 Selection should be made from a controlled list of terms, e.g. Mould, Rust, Oil deposits, Dirt, Drying marks.
 
+<a id="92604-image-film-and-video"></a>
 <a id="sec-image_film_and_video"></a>
-#### Image – Film and Video
+### Image – Film and Video
 For film, this relates to the inherent qualities of the Emulsion rather than the physical
 condition of the Emulsion.
 
@@ -434,8 +438,9 @@ For video, refer to AV Artifact Atlas for guidance on terms.
 * Print through in mould
 * Drop-outs
 
+<a id="92605-item-decomposition-film-and-video"></a>
 <a id="sec-item_decomposition_film_and_video"></a>
-#### Item Decomposition – Film and Video
+### Item Decomposition – Film and Video
 
 * Powder
 * Sticky
