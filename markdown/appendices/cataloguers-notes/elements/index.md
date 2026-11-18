@@ -112,7 +112,7 @@ Explain the format changes used to determine the moving image Manifestation in h
 
 **Sound characteristics**
 
-If the moving image Work/Variant associated with the moving image Manifestation in hand had sound originally, but the Manifestation lacks sound, describe it as silent (or mute) and give a note to that effect.[^7]
+If the moving image Work/Variant associated with the moving image Manifestation in hand had sound originally, but the Manifestation lacks sound, describe it as mute, not silent, and give a note to that effect.[^7]
 
 If the moving image Work/Variant associated with the moving image Manifestation was silent originally, but the Manifestation has sound, describe it as sound and give a note to that effect.
 
@@ -124,7 +124,7 @@ If the length of a moving image Manifestation/Item is uncertain, give an explana
 
 If the duration/running time of a Manifestation/Item is uncertain, give an explanation for the estimated duration/running time, if such information applies.[^8]
 
-Indicate the frame rate on which the duration is based or if the moving image Manifestation is the result of a “stretch frame” practice.
+Indicate the frame rate on which the duration is based, where relevant. Where repeated frames preserve the timing of a slower-speed source, distinguish the playback rate from the source film’s projection rate; see [Frame Rate](../../../items/elements_of_a_moving_image_item/index.md#sec-frame_rate).
 
 **Item condition**
 
