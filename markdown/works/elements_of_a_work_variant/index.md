@@ -389,8 +389,8 @@ For systems depending on keyword searching rather than using subject terms, syno
 
 A content description may also be a shotlist or listing of the contents of an aggregate Work (see [Aggregates (Compilations, Multi-component productions)](../../aggregates/types_of_moving_image_aggregates/index.md#sec-collection_aggregates)). Shotlists are the ideal content description to have or aim to have, particularly for non-fiction moving images, but it is recognised that resources and accessibility mean this is not always possible or practical for an archive or institution.[^12]
 
-A shotlist consists of detailed shot by shot, scene by scene, descriptions of the content along with references to camera  angles or other types of shot, e.g. CU (close-ups), pans, cut to, zooms, L-R (left to right, etc. and also to precise timings or time points in the footage where these shots/screens or camera angles occur, either in minutes or feet/metres.
-Terminologies and abbreviations used should be film industry standard camera shot and movements ones.
+A shotlist consists of detailed shot by shot, scene by scene, descriptions of the content along with references to camera  angles or other types of shot, e.g. CU (close-up), MS (medium shot), AS (aerial shot), pans, cut to, zooms, L-R (left to right), etc. and also to precise timings or time points in the footage where these shots/scenes or camera angles occur, either in minutes or feet/metres.
+Terminologies and abbreviations used should be film industry standard camera shots and movements ones, and it is also good practice to define any acronym the first time that it is used within a shot list to aid clarity for users accessing the record.
 
 Stylistics of shotlists can vary between institutions, with some including both references to camera angles and footage timings or points, some just having one or the other, and others having neither but descriptions of each shot/scene. While others may be a more simple list of the main shots/scenes and aspects covered in the content in the order in which they appear.
 

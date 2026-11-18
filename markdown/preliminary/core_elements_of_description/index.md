@@ -29,7 +29,7 @@ They represent an ideal minimum set of metadata for moving image cataloguing.
 
 
   <tr><td> Title </td><td> Title [Work] </td><td> -- </td></tr>
-  <tr markdown="1"><td markdown="span"> Series / Serial [^2] </td><td> Title [Work] </td><td> Title Type = Series/Serial [Work] </td></tr>
+  <tr markdown="1"><td markdown="span"> Series / Serial [^1] </td><td> Title [Work] </td><td> Title Type = Series/Serial [Work] </td></tr>
   <tr><td> Cast </td><td> Agents (e.g. Cast, Credits, Person, Organisation, etc.) [Work] </td><td> Agent Activity = Cast [Work] </td></tr>
   <tr><td> Credits (including Production Companies) </td><td> Agents [Work] </td><td> Agent Activity = Credit (use term for actual role)  [Work] </td></tr>
   <tr><td> Country of Reference </td><td> Country of reference [Work] </td><td>  </td></tr>
@@ -39,25 +39,11 @@ They represent an ideal minimum set of metadata for moving image cataloguing.
   <tr><td> *Original Language </td><td> Language(s) [Work] </td><td> Language Term + Usage type [Work] </td></tr>
   <tr><td> Year of Reference </td><td> Year/Date of reference [Work] </td><td> Date Type [Work] </td></tr>
   <tr><td> Identifier </td><td> As appropriate: Work/Variant Identifier [Work/Variant] AND/OR Identifier [Manifestation] AND/OR Identifier [Item] </td><td> As appropriate: Identifier Type [Work/Variant] AND/OR Identifier Type [Manifestation] AND/OR Identifier Type [Item] </td></tr>
-  <tr markdown="1"><td markdown="span"> Subject/Genre/Form [^3] </td><td> Subject/Genre/Form terms [Work] </td><td>  </td></tr>
+  <tr markdown="1"><td markdown="span"> Subject/Genre/Form [^2] </td><td> Subject/Genre/Form terms [Work] </td><td>  </td></tr>
   <tr><td> Content Description </td><td> Content description (synopses, shotlists, etc) </td><td>  </td></tr>
 </table>
 
-| **CORE CONCEPT** | **TOP-LEVEL ELEMENT** | **SUB-ELEMENT** |
-| --- | --- | --- |
-| Title | Title [Work] | -- |
-| Series / Serial [^2] | Title [Work] | Title Type = Series/Serial [Work] |
-| Cast | Agents (e.g. Cast, Credits, Person, Organisation, etc.) [Work] | Agent Activity = Cast [Work] |
-| Credits (including Production Companies) | Agents [Work] | Agent Activity = Credit (use term for actual role)  [Work] |
-| Country of Reference | Country of reference [Work] |  |
-| *Original Format | Physical and Digital Description of a Manifestation [Manifestation] | Format [Manifestation] |
-| *Original Length | Extent of a Manifestation [Manifestation] | Physical extent of a Manifestation |
-| *Original Duration | Extent of a Manifestation [Manifestation] | Duration of a Manifestation |
-| *Original Language | Language(s) [Work] | Language Term + Usage type [Work] |
-| Year of Reference | Year/Date of reference [Work] | Date Type [Work] |
-| Identifier | As appropriate: Work/Variant Identifier [Work/Variant] AND/OR Identifier [Manifestation] AND/OR Identifier [Item] | As appropriate: Identifier Type [Work/Variant] AND/OR Identifier Type [Manifestation] AND/OR Identifier Type [Item] |
-| Subject/Genre/Form [^3] | Subject/Genre/Form terms [Work] |  |
-| Content Description | Content description (synopses, shotlists, etc) |  |
+
 
 The concept of “original” in this manual indicates the first known manifestation of the Work, which is not determined by its release status.
 The concept of “original” must be flexible enough to be applied to released and unreleased Works.
@@ -117,5 +103,5 @@ See [Examples of records containing core elements in the different levels of hie
   <tr><td> Conservation recommendations </td><td>  </td><td>  </td><td> Urgent transfer required, relocate sub-zero, etc. </td></tr>
 </table>
 
-[^2]: EN15744 definitions “A series is a group of separate items related to one another by the fact that each item bears, in addition to its own title, a collective title applying to the group as a whole. A serial is a type of “short subject” work which is characterized principally by the episodic development of a story”. This Core Concept is referencing the name of another Work that a Work may be “part of”, where the latter has been conceived within the context/intention of being an element of a Series or Serial. It is not being used here as a Work/Variant Description Type. (See D.1 Work/Variant Description Types)
-[^3]: Form = Fiction, Non-fiction, etc. Some institutions may incorporate these as a genre term, whilst others may have them as a separate category to genre.
+[^1]: EN15744 definitions “A series is a group of separate items related to one another by the fact that each item bears, in addition to its own title, a collective title applying to the group as a whole. A serial is a type of “short subject” work which is characterized principally by the episodic development of a story”. This Core Concept is referencing the name of another Work that a Work may be “part of”, where the latter has been conceived within the context/intention of being an element of a Series or Serial. It is not being used here as a Work Description Type. (See 6.2.1 Work Description Types)    
+[^2]: Form = Fiction, Non-fiction, etc. Some institutions may incorporate these as a genre term, whilst others may have them as a separate category to genre.
