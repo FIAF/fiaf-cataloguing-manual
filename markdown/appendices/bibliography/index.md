@@ -9,7 +9,7 @@ Archival moving image materials: a cataloging manual. 2nd ed. AMIM Revision Comm
 
 COPYRIGHT BOARD OF CANADA. Unlocatable copyright owners: brochure [online]. [Viewed 2026-10-24]. Available from: [https://web.archive.org/web/20170331031228/http://www.cb-cda.gc.ca/unlocatable-introuvables/brochure1-e.html](https://web.archive.org/web/20170331031228/http://www.cb-cda.gc.ca/unlocatable-introuvables/brochure1-e.html)
 
-Copyright Law of the United States of America and Related Laws Contained in Title 17 of the United States Code [online]. Washington: U.S. Copyright Office [viewed 2016-04-04]. Available from: [http://www.copyright.gov/title17/92chap1.html](http://www.copyright.gov/title17/92chap1.html)
+Copyright Law of the United States of America and Related Laws Contained in Title 17 of the United States Code [online]. Washington: U.S. Copyright Office [viewed 2016-04-04]. Available from: [http://www.copyright.gov/title17/92chap1.html](http://www.copyright.gov/title17/92chap1.html) [Archived copy (2026-11-17)](https://web.archive.org/web/20261117124021/https://www.copyright.gov/title17/92chap1.html)
 
 Describing archives: a content standard. Chicago: Society of American Archivists, 2004. xxii, 269 p. ISBN 1-931666-08-3.
 
@@ -19,7 +19,7 @@ EN 15744:2009, Film identification – Minimum set of metadata for cinematograph
 
 EN 15907:2010, Film identification – Enhancing interoperability of metadata – Element sets and structures.
 
-ENTERTAINMENT ID REGISTRY ASSOCIATION. EIDR: Entertainment identifier registry [online]. Entertainment ID Registry Association (EIDR), c2016 [viewed 2016-04-04]. Available from: [http://eidr.org/](http://eidr.org/)
+ENTERTAINMENT ID REGISTRY ASSOCIATION. EIDR: Entertainment identifier registry [online]. Entertainment ID Registry Association (EIDR), c2016 [viewed 2016-04-04]. Available from: [http://eidr.org/](http://eidr.org/) [Archived copy (2026-11-17)](https://web.archive.org/web/20261117142924/https://www.eidr.org/)
 
 EUROPEAN UNION INTELLECTUAL PROPERTY OFFICE. Orphan works database [online].
 
@@ -29,19 +29,19 @@ EUROPEAN UNION INTELLECTUAL PROPERTY OFFICE. What are orphan works? [online]. Eu
 
 FÉDÉRATION INTERNATIONALE DES ARCHIVES DU FILM (FIAF). The FIAF cataloguing rules for film archives. Compiled and edited by Harriet W. Harrison for the FIAF Cataloguing Commission. München; London; New York; Paris: K. G. Saur, 1991. xvi, 239 p. Film, television, sound archive series; vol. 1. ISBN 3-598-22590-3. Also available in PDF from: [http://www.fiafnet.org/images/tinyUpload/E-Resources/Commission-And-PIP-Resources/CDC-resources/FIAF_Cat_Rules.pdf](http://www.fiafnet.org/images/tinyUpload/E-Resources/Commission-And-PIP-Resources/CDC-resources/FIAF_Cat_Rules.pdf) Part 1 [http://www.fiafnet.org/~fiafnet/pdf/uk/FIAF_Cat_Rules_-_1.pdf](http://www.fiafnet.org/~fiafnet/pdf/uk/FIAF_Cat_Rules_-_1.pdf) Part 2 [http://www.fiafnet.org/~fiafnet/pdf/uk/FIAF_Cat_Rules_-_2.pdf](http://www.fiafnet.org/~fiafnet/pdf/uk/FIAF_Cat_Rules_-_2.pdf) Part 3 [http://www.fiafnet.org/~fiafnet/pdf/uk/FIAF_Cat_Rules_-_3.pdf](http://www.fiafnet.org/~fiafnet/pdf/uk/FIAF_Cat_Rules_-_3.pdf)
 
-FIAF. Glossary of filmographic terms [online]. [Viewed 2016-04-04]. Available from: [http://www.fiafnet.org/pages/E-Resources/Glossary.html](http://www.fiafnet.org/pages/E-Resources/Glossary.html)
+FIAF. Glossary of filmographic terms [online]. [Viewed 2016-04-04]. Available from: [http://www.fiafnet.org/pages/E-Resources/Glossary.html](http://www.fiafnet.org/pages/E-Resources/Glossary.html) [Archived copy (2026-07-13)](https://web.archive.org/web/20260713131812/https://www.fiafnet.org/pages/E-Resources/Glossary.html)
 
-FIAF. Glossary of technical terms [online]. [Viewed 2016-04-04]. Available from: [http://www.fiafnet.org/pages/E-Resources/Technical-Terms.html](http://www.fiafnet.org/pages/E-Resources/Technical-Terms.html)
+FIAF. Glossary of technical terms [online]. [Viewed 2016-04-04]. Available from: [http://www.fiafnet.org/pages/E-Resources/Technical-Terms.html](http://www.fiafnet.org/pages/E-Resources/Technical-Terms.html) [Archived copy (2026-09-20)](https://web.archive.org/web/20260920221844/https://www.fiafnet.org/pages/E-Resources/Technical-Terms.html)
 
-Final report of the Working group on Aggregates [online]. September 12, 2011 [viewed 2016-04-04]. 20 p. Available in PDF from: [http://www.ifla.org/files/assets/cataloguing/frbrrg/AggregatesFinalReport.pdf](http://www.ifla.org/files/assets/cataloguing/frbrrg/AggregatesFinalReport.pdf)
+Final report of the Working group on Aggregates [online]. September 12, 2011 [viewed 2016-04-04]. 20 p. Available in PDF from: [http://www.ifla.org/files/assets/cataloguing/frbrrg/AggregatesFinalReport.pdf](http://www.ifla.org/files/assets/cataloguing/frbrrg/AggregatesFinalReport.pdf) [Archived copy (2013-10-15)](https://web.archive.org/web/20131015000910/http://www.ifla.org/files/assets/cataloguing/frbrrg/AggregatesFinalReport.pdf)
 
 Frequently Asked Questions about Library of Congress Genre/Form Terms for Library and Archival Materials (LCGFT) [online]. Revised June 6, 2011 [viewed 2026-10-24]. 20 p. Available from: [https://web.archive.org/web/20140321044952/http://www.loc.gov/catdir/cpso/genre_form_faq.pdf](https://web.archive.org/web/20140321044952/http://www.loc.gov/catdir/cpso/genre_form_faq.pdf)
 
-GETTY RESEARCH INSTITUTE. Getty thesaurus of geographic names online [online]. The J. Paul Getty Trust, c2015 [viewed 2016-04-04]. Available from: [http://www.getty.edu/research/tools/vocabularies/tgn/index.html](http://www.getty.edu/research/tools/vocabularies/tgn/index.html)
+GETTY RESEARCH INSTITUTE. Getty thesaurus of geographic names online [online]. The J. Paul Getty Trust, c2015 [viewed 2016-04-04]. Available from: [http://www.getty.edu/research/tools/vocabularies/tgn/index.html](http://www.getty.edu/research/tools/vocabularies/tgn/index.html) [Archived copy (2026-10-06)](https://web.archive.org/web/20261006110232/https://www.getty.edu/research/tools/vocabularies/tgn/index.html)
 
-GETTY RESEARCH INSTITUTE. Union list of artist names online [online]. The J. Paul Getty Trust, c2015 [viewed 2016-04-04]. Available from: [http://www.getty.edu/research/tools/vocabularies/ulan/](http://www.getty.edu/research/tools/vocabularies/ulan/)
+GETTY RESEARCH INSTITUTE. Union list of artist names online [online]. The J. Paul Getty Trust, c2015 [viewed 2016-04-04]. Available from: [http://www.getty.edu/research/tools/vocabularies/ulan/](http://www.getty.edu/research/tools/vocabularies/ulan/) [Archived copy (2026-10-31)](https://web.archive.org/web/20261031034336/https://www.getty.edu/research/tools/vocabularies/ulan/)
 
-HIRTLE, Peter B. Copyright term and the public domain in the United States [online]. Cornell Copyright Information Center, Last updated 3 January, 2016 [viewed 2016-04-04]. Available from: [http://copyright.cornell.edu/resources/publicdomain.cfm](http://copyright.cornell.edu/resources/publicdomain.cfm)
+HIRTLE, Peter B. Copyright term and the public domain in the United States [online]. Cornell Copyright Information Center, Last updated 3 January, 2016 [viewed 2016-04-04]. Available from: [http://copyright.cornell.edu/resources/publicdomain.cfm](http://copyright.cornell.edu/resources/publicdomain.cfm) [Archived copy (2017-08-25)](https://web.archive.org/web/20170825165033/http://copyright.cornell.edu/resources/publicdomain.cfm)
 
 IFLA STUDY GROUP ON THE FUNCTIONAL REQUIREMENTS FOR BIBLIOGRAPHIC RECORDS. Functional requirements for bibliographic records: final report. München: Saur, 1998. viii, 136 p. UBCIM publications ; new series, vol. 19. ISBN 3-598-11382-X. Also available in PDF from: [http://www.ifla.org/files/assets/cataloguing/frbr/frbr.pdf](http://www.ifla.org/files/assets/cataloguing/frbr/frbr.pdf) Also available in PDF from [Current text (including amendments and corrections to date)]: [http://www.ifla.org/files/assets/cataloguing/frbr/frbr_2008.pdf](http://www.ifla.org/files/assets/cataloguing/frbr/frbr_2008.pdf)
 
@@ -55,7 +55,7 @@ INTELLECTUAL PROPERTY OFFICE. Orphan works diligent search guidance for applican
 
 INTELLECTUAL PROPERTY OFFICE. Orphan works guidance [online]. [Viewed 2016-04-04]. Available from: [https://www.gov.uk/government/collections/orphan-works-guidance](https://www.gov.uk/government/collections/orphan-works-guidance)
 
-INTERNATIONAL DOI FOUNDATION. The DOI System [online]. Updated April 4, 2016 [viewed 2016-04-04]. Available from: [http://www.doi.org/](http://www.doi.org/)
+INTERNATIONAL DOI FOUNDATION. The DOI System [online]. Updated April 4, 2016 [viewed 2016-04-04]. Available from: [http://www.doi.org/](http://www.doi.org/) [Archived copy (2026-11-17)](https://web.archive.org/web/20261117100224/https://www.doi.org/)
 
 ISAAR(CPF): International standard archival authority record for corporate bodies, persons and families [online]. 2nd ed. International Council on Archives (ICA), 2004 [viewed 2016-04-04]. 70 p. ISBN 2-9521932-2-3. Available in PDF from: [http://www.ica.org/sites/default/files/CBPS_Guidelines_ISAAR_Second-edition_EN.pdf](http://www.ica.org/sites/default/files/CBPS_Guidelines_ISAAR_Second-edition_EN.pdf)
 
@@ -105,11 +105,11 @@ ISO 26324:2012, Information and documentation – Digital object identifier syst
 
 ISO 27729:2012, Information and documentation – International standard name identifier (ISNI).
 
-Library of Congress Genre/Form Terms [online]. 2011-04-26: modified [viewed 2016-04-04]. Available from: [http://id.loc.gov/authorities/genreForms.html](http://id.loc.gov/authorities/genreForms.html)
+Library of Congress Genre/Form Terms [online]. 2011-04-26: modified [viewed 2016-04-04]. Available from: [http://id.loc.gov/authorities/genreForms.html](http://id.loc.gov/authorities/genreForms.html) [Archived copy (2026-04-22)](https://web.archive.org/web/20260422102211/https://id.loc.gov/authorities/genreForms.html)
 
-Library of Congress Names [online]. 2011-04-26: modified [viewed 2016-04-04]. Available from: [http://id.loc.gov/authorities/names.html](http://id.loc.gov/authorities/names.html)
+Library of Congress Names [online]. 2011-04-26: modified [viewed 2016-04-04]. Available from: [http://id.loc.gov/authorities/names.html](http://id.loc.gov/authorities/names.html) [Archived copy (2026-05-09)](https://web.archive.org/web/20260509205446/https://id.loc.gov/authorities/names.html)
 
-Library of Congress Subject Headings [online]. 2011-04-26: modified [viewed 2016-04-04]. Available from: [http://id.loc.gov/authorities/subjects.html](http://id.loc.gov/authorities/subjects.html)
+Library of Congress Subject Headings [online]. 2011-04-26: modified [viewed 2016-04-04]. Available from: [http://id.loc.gov/authorities/subjects.html](http://id.loc.gov/authorities/subjects.html) [Archived copy (2026-05-11)](https://web.archive.org/web/20260511131537/https://id.loc.gov/authorities/subjects.html)
 
 LIBRARY OF CONGRESS. Network Development and MARC Standards Office. Extended Date/Time Format (EDTF) [online]. September 16, 2015 [viewed 2016-04-04]. Available from: [http://www.loc.gov/standards/datetime/](http://www.loc.gov/standards/datetime/)
 
@@ -117,7 +117,7 @@ LIBRARY OF CONGRESS. Network Development and MARC Standards Office. ISO 639-2 [o
 
 LIBRARY OF CONGRESS. Network Development and MARC Standards Office. ISO 639-5 [online]. February 18, 2009 [viewed 2016-04-04]. Available from: [http://www.loc.gov/standards/iso639-5/](http://www.loc.gov/standards/iso639-5/)
 
-Media Types [online]. Last Updated 2016-04-18 [viewed 2016-04-18]. Available from: [http://www.iana.org/assignments/media-types/media-types.xhtml](http://www.iana.org/assignments/media-types/media-types.xhtml)
+Media Types [online]. Last Updated 2016-04-18 [viewed 2016-04-18]. Available from: [http://www.iana.org/assignments/media-types/media-types.xhtml](http://www.iana.org/assignments/media-types/media-types.xhtml) [Archived copy (2026-08-17)](https://web.archive.org/web/20260817144854/https://www.iana.org/assignments/media-types/media-types.xhtml)
 
 NATIONAL FILM AND SOUND ARCHIVE OF AUSTRALIA. Technical glossary [online]. [Viewed 2016-04-04]. Available from: [http://www.nfsa.gov.au/preservation/glossary/](http://www.nfsa.gov.au/preservation/glossary/)
 
@@ -125,17 +125,17 @@ OLAC CAPC. Moving Image Work-Level Records Task Force. Final report and recommen
 
 OLAC CAPC. Moving Image Work-Level Records Task Force. Report and recommendations. Part I: Moving image work definition and boundaries. Part II: Core attributes and relationships [online]. January 5, 2009 [viewed 2026-10-24]. 21 p. Available in PDF from: [https://web.archive.org/web/20110702223332/http://olacinc.org/drupal/capc_files/MIW_1-2.pdf](https://web.archive.org/web/20110702223332/http://olacinc.org/drupal/capc_files/MIW_1-2.pdf)
 
-Open Metadata Registry [online]. [Viewed 2016-04-04]. Available from: [http://metadataregistry.org/](http://metadataregistry.org/)
+Open Metadata Registry [online]. [Viewed 2016-04-04]. Available from: [http://metadataregistry.org/](http://metadataregistry.org/) [Archived copy (2026-11-17)](https://web.archive.org/web/20261117114911/http://metadataregistry.org/)
 
 PALLANTE, Maria A. Priorities and special projects of the United States Copyright Office: October 2011 – October 2013 [online]. United States Copyright Office, October 25, 2011 [viewed 2016-04-04]. 16 p. Available in PDF from: [http://copyright.gov/docs/priorities.pdf](http://copyright.gov/docs/priorities.pdf)
 
-PBCore: Public broadcasting metadata dictionary project [online]. [Viewed 2016-04-04]. Available from: [http://pbcore.org/](http://pbcore.org/)
+PBCore: Public broadcasting metadata dictionary project [online]. [Viewed 2016-04-04]. Available from: [http://pbcore.org/](http://pbcore.org/) [Archived copy (2026-11-15)](https://web.archive.org/web/20261115033913/http://pbcore.org/)
 
-PBCore essenceTrackAspectRatio. In: Open Metadata Registry [online]. [Viewed 2016-04-04]. Available from: [http://metadataregistry.org/vocabulary/show/id/129.html](http://metadataregistry.org/vocabulary/show/id/129.html)
+PBCore essenceTrackAspectRatio. In: Open Metadata Registry [online]. [Viewed 2016-04-04]. Available from: [http://metadataregistry.org/vocabulary/show/id/129.html](http://metadataregistry.org/vocabulary/show/id/129.html) [Archived copy (2025-09-14)](https://web.archive.org/web/20250914150927/http://metadataregistry.org/vocabulary/show/id/129.html)
 
-PBCore essenceTrackEncoding. In: Open Metadata Registry [online]. [Viewed 2016-04-04]. Available from: [http://metadataregistry.org/vocabulary/show/id/156.html](http://metadataregistry.org/vocabulary/show/id/156.html)
+PBCore essenceTrackEncoding. In: Open Metadata Registry [online]. [Viewed 2016-04-04]. Available from: [http://metadataregistry.org/vocabulary/show/id/156.html](http://metadataregistry.org/vocabulary/show/id/156.html) [Archived copy (2026-04-18)](https://web.archive.org/web/20260418063236/http://metadataregistry.org/vocabulary/show/id/156.html)
 
-PBCore instantiationPhysical. In: Open Metadata Registry [online]. [Viewed 2016-04-04]. Available from: [http://metadataregistry.org/vocabulary/show/id/145.html](http://metadataregistry.org/vocabulary/show/id/145.html)
+PBCore instantiationPhysical. In: Open Metadata Registry [online]. [Viewed 2016-04-04]. Available from: [http://metadataregistry.org/vocabulary/show/id/145.html](http://metadataregistry.org/vocabulary/show/id/145.html) [Archived copy (2026-02-10)](https://web.archive.org/web/20260210082240/http://metadataregistry.org/vocabulary/show/id/145.html)
 
 RDA STEERING COMMITTEE. RDA: Resource description and access [online]. American Library Association; Canadian Library Association; Facet Publishing, the publishing arm of CILIP: the Chartered Institute of Library and Information Professionals, c2010 [viewed 2016-04-04]. Available from: [http://www.rdatoolkit.org/](http://www.rdatoolkit.org/)
 
@@ -147,14 +147,14 @@ TECH 3293. EBUCore metadata set (EBUCore) [online]. Specification v. 1.6. Geneva
 
 UCLA FILM & TELEVISION ARCHIVE. UCLA Film & Television Archive Cataloging Procedure Manual--Voyager [online]. Last modified: March 6, 2007 [viewed 2026-11-03]. Available from: [https://emarket.cinema.ucla.edu/CPMVoyager/CPMV00TofC.html](https://emarket.cinema.ucla.edu/CPMVoyager/CPMV00TofC.html)
 
-UNITED STATES COPYRIGHT OFFICE. Revising section 108: Copyright exceptions for libraries and archives [online]. Washington: U.S. Copyright Office, Revised: 20-Feb-2013 [viewed 2016-04-04]. Available from: [http://www.copyright.gov/docs/section108/](http://www.copyright.gov/docs/section108/)
+UNITED STATES COPYRIGHT OFFICE. Revising section 108: Copyright exceptions for libraries and archives [online]. Washington: U.S. Copyright Office, Revised: 20-Feb-2013 [viewed 2016-04-04]. Available from: [http://www.copyright.gov/docs/section108/](http://www.copyright.gov/docs/section108/) [Archived copy (2026-02-11)](https://web.archive.org/web/20260211225124/https://www.copyright.gov/docs/section108/)
 
 VIAF: Virtual international authority file [online]. OCLC, cop. 2010-2016 [viewed 2016-04-04]. Available from: [https://viaf.org/](https://viaf.org/)
 
-YEE, Martha M. Cataloging rules [online]. June 15, 2008 draft, rev. [viewed 2016-04-04]. 139 p. Available in PDF from: [http://myee.bol.ucla.edu/catrul.pdf](http://myee.bol.ucla.edu/catrul.pdf) Also available from: [http://myee.bol.ucla.edu/catrul.htm](http://myee.bol.ucla.edu/catrul.htm)
+YEE, Martha M. Cataloging rules [online]. June 15, 2008 draft, rev. [viewed 2016-04-04]. 139 p. Available in PDF from: [http://myee.bol.ucla.edu/catrul.pdf](http://myee.bol.ucla.edu/catrul.pdf) Also available from: [http://myee.bol.ucla.edu/catrul.htm](http://myee.bol.ucla.edu/catrul.htm) [Archived copy (2023-10-02)](https://web.archive.org/web/20231002052359/http://myee.bol.ucla.edu/catrul.htm)
 
 YEE, Martha M. Moving image cataloging: how to create and how to use a moving image catalog. Westport; London: Libraries Unlimited, 2007. 273 p. Third millennium cataloguing. ISBN 978-1-59158-438-4.
 
-YEE, Martha M. The concept of work for moving image materials. In: Cataloging & Classification Quarterly. ISSN 0163-9374, 1993, vol. 18, no. 2, pp. 33-40. Also available from: [http://escholarship.org/uc/item/6hk8h9vp](http://escholarship.org/uc/item/6hk8h9vp)
+YEE, Martha M. The concept of work for moving image materials. In: Cataloging & Classification Quarterly. ISSN 0163-9374, 1993, vol. 18, no. 2, pp. 33-40. Also available from: [http://escholarship.org/uc/item/6hk8h9vp](http://escholarship.org/uc/item/6hk8h9vp) [Archived copy (2026-08-13)](https://web.archive.org/web/20260813085643/https://escholarship.org/uc/item/6hk8h9vp)
 
 ZENG, Marcia Lei, ZˇUMER, Maja, and SALABA, Athena. Functional Requirements for Subject Authority Data (FRSAD): A Conceptual Model. Berlin: De Gruyter Saur, 2011.
