@@ -74,7 +74,7 @@ This may be via use of a “Title type” qualifier.
 
     The Scarlet Flower – Variant title – Dubbed (English)
 
-See [Titles and structuring of series/serials](../../titles/series_serials/index.md#sec-titles_of_series_serials) [NEEDS RELINKING AS THIS CHAPTER HAS MOVED AND IS NO LONGER IN APPENDICES - ALSO ADD SECTION NUMBER] for some other Variant titling examples.
+See [Titles and structuring of series/serials](../../titles/series_serials/index.md#sec-titles_of_series_serials) for some other Variant titling examples.
 
 <a id="sec-country_of_reference"></a>
 ## Country of Reference
