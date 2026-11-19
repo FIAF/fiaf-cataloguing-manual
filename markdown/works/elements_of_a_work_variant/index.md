@@ -152,7 +152,7 @@ When more than one place is associated with a Work, choose the place(s) with pri
 
 For institutions who need or require specific ordering of country of reference then the following options are possible examples of how this may be achieved.[^3]
 
-If the Work is a multi-national production, the countries added to the record should be in order of financial involvement.
+If the Work is a multi-national production, the countries added to the record could be in order of financial involvement.
 For example, an Austrian/Italian/French co-production where the Austrian production company/sponsors financed 60%, the Italian 25% and the French 15% then the order of the countries would be: Austria, Italy, France.
 
 If it is not possible to establish clearly the financial percentages of each country’s involvement, then consider the nationality of the director of the title and/or the majority of personnel involved with the film and select that as being the main country of origin of the film.
