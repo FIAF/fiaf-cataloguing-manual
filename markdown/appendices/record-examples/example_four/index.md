@@ -35,7 +35,7 @@ These do not relate to the initial illustrative colour codes used in examples 1 
 | 2D Graphic Artists | Chevrier, Sandrine |
 | 2D Graphic Artists | Fell, Curtis |
 | 2D Graphic Artists | Bailey, Lynn |
-| CGI Models \ | Animation | Smith, James |
+| CGI Models & Animation | Smith, James |
 | Sound Design | Williams, John |
 | Sound Effects | Brandt, Peter |
 | Sound Effects | Lea, David |
