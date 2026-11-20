@@ -91,15 +91,15 @@ Whereby:
 Answer: One way to do it would be to link all the digital Items with the Manifestation associated with the source Item, and create the digital Items as shown below. The diagrams illustrate alternative associations with Manifestations. The Item-parts shown need not correspond to individual files: a reel-length image sequence or a digital package may comprise several files. The use of Item-part records depends on the cataloguing system.
 
 
-<br><center><object data="/diagrams/digit_item4dgrmsize.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+<br><center><object data="/diagrams/digit_item4dgrmsize.drawio.svg" type="image/svg+xml" width="110%"></object></center>
 
 Another, and more advisable way since this relates to a restoration project, would be to link all the new digital Items with a new Restoration type Manifestation, e.g.
 
-<br><center><object data="/diagrams/digit_item5a.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+<br><center><object data="/diagrams/digit_item5a.drawio.svg" type="image/svg+xml" width="110%"></object></center>
 
 Or even to create other additional new Manifestations with relevant types and link the various digital Items under these as appropriate, so that five Items are linked to a Restoration Manifestation, the DCP Item is linked to a Theatrical release Manifestation, and the digital access copy to an Internet Manifestation, e.g.
 
-<br><center><object data="/diagrams/digit_item7.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+<br><center><object data="/diagrams/digit_item7.drawio.svg" type="image/svg+xml" width="110%"></object></center>
 
 There are multiple ways to structure and choose relevant types of Manifestations dealing with digitised and born-digital Items, depending on the cataloguing systems and requirements of your institution and the reasons for digitisation, i.e. whether for preservation, restoration, streaming, etc. This section is primarily aimed at showing how to create digital Items. For further information see [Manifestation Types](../manifestations/attributes_of_a_manifestation/index.md#sec-manifestation_type).
 
