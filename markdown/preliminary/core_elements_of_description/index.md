@@ -9,14 +9,12 @@
     border-collapse: collapse;
     padding: 8px;
     text-align: left;
+    font-size: 14px;
   }
 </style>
 
 These core points of description are listed with their corresponding terms as presented in the manual.
 They represent an ideal minimum set of metadata for moving image cataloguing.
-
-
-
 
 <table class="custom-table" markdown="1">
 
