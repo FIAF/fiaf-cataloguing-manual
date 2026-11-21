@@ -245,15 +245,30 @@ Record in Arabic numerals the number issued by the agency as a unique identifier
 
 Record the outcome of the act of rating or censorship.
 
-!!! example "Example"
+!!! example "Example"  
     Film: Jaws ((USA, 1975)
-    Decision type: Classification
+    Decision type: Rating
     Date: 1975-06-12
     Region: United Kingdom
-    Number:
-    Verdict: A [Advisory - contains content that might be unsuitable for younger children]
+    Number: None
+    Verdict: A (Advisory - contains content that might be unsuitable for younger children)
 
-[INSERT ILLUSTRATIVE EXAMPLES HERE FROM A COUPLE OF DIFFERENT COUNTRIES]
+!!! example "Example"  
+    Film: Viva Riva! (Democratic Republic of Congo, 2010. Djo Tunda Wa Mung)    
+    Decision type: Revision  
+    Date: 2010   
+    Region: Democratic Republic of Congo  
+    Verdict: Authorized with Restrictions   
+             Adult/Restricted  
+
+!!! example "Example"  
+    Film: จันดารา ปฐมบท (Jan Dara Pathom-bot) (Thailand, 2012. M.L. Pundhevanop Dheuwakal)  
+    Decision type: Censorship  
+    Date: 2012  
+    Region: Thailand  
+    Verdict: 18+ (for theatrical)   
+             20+ (for Uncut disc version)  
+  
 
 <a id="sec-manufacture"></a>
 ## Manufacture
