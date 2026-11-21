@@ -86,8 +86,10 @@ trailers or a compilation of trailers) but connected to a larger Work; or unedit
 rushes).
 
 Partially supplied/devised titles are basically augmented preferred titles for a Work/Variant.
-This augmentation traditionally appends a form term to the title itself, (e.g., Gone with the wind.
-Trailer).
+This augmentation traditionally appends a form term to the title itself, e.g. 
+
+!!! example "Example"
+    Gone with the wind. Trailer  
 
 Optionally, form terms may be left out of the title field and indexed as an attribute of the Work/Variant where possible or preferable.
 
