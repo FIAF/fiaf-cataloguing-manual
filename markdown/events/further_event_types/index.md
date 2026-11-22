@@ -159,7 +159,7 @@ Any further information about the event either in plain textual form, or as an i
     Date start: 2005-11-10  Date end: 2005-12-21  
     Shooting dates  
 
-
+!!! example "Example"  
     Brideshead Revisited (UK/USA/Italy/Morocco, 2008. Julian Jarrold)
     Location shooting. 2007/06-04 to 2007/08/20
     Location - Oxford (England)  
