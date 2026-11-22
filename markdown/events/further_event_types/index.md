@@ -154,8 +154,8 @@ Any further information about the event either in plain textual form, or as an i
 !!! example "Example"    
     Concursante (Spain, 2006. Rodrigo Cortés)  
     Production Event  
-    Location: Madrid.    Region: Spain      
-              Galicia    Region: Spain   
+    Location: Madrid. Region: Spain         
+              Galicia. Region: Spain  
     Date start: 2005-11-10  Date end: 2005-12-21  
     Shooting dates  
 
