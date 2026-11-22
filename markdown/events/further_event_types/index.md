@@ -102,10 +102,10 @@ A phrase describing a specific achievement for which the award was given, if not
     69th Academy Awards, 1997  
     Nominated - Best International Feature Film    
 
-!!! example "Example"
-    Mandabi (Senegal, 1968. Ousmane Sembène)  
-    29th Venice International Film Festival, 1968    
-    Winner - Special Jury Prize    
+!!! example "Example"  
+    Mandabi (Senegal, 1968. Ousmane Sembène)    
+    29th Venice International Film Festival, 1968      
+    Winner - Special Jury Prize      
 
 
 <a id="sec-production"></a>
@@ -151,7 +151,7 @@ The year/date or time-span during which the event took place. Dates should be fo
 
 Any further information about the event either in plain textual form, or as an instance of a data type from another schema  
 
-!!! example "Example"  
+!!! example "Example"    
     Concursante (Spain, 2006. Rodrigo Cortés)  
     Production Event  
     Location: Madrid.    Region: Spain      
@@ -160,13 +160,13 @@ Any further information about the event either in plain textual form, or as an i
     Shooting dates  
 
 !!! example "Example"  
-    Brideshead Revisited (UK/USA/Italy/Morocco, 2008. Julian Jarrold)
-    Location shooting. 2007/06-04 to 2007/08/20
+    Brideshead Revisited (UK/USA/Italy/Morocco, 2008. Julian Jarrold)  
+    Location shooting. 2007/06-04 to 2007/08/20  
     Location - Oxford (England)  
                London (England)    
                Venice (Italy)    
                Bahia Palace, Marrakech (Morocco)  
-               Castle Howard (North Yorkshire, England)  
+               Castle Howard (North Yorkshire, England)    
    
 
 <a id="sec-values_rights_copyright_ipr_registration"></a>
