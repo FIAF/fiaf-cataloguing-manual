@@ -92,6 +92,23 @@ The name of the award or trophy, possibly including a numeric designation (e.g. 
 
 A phrase describing a specific achievement for which the award was given, if not for the Work, Variant or Manifestation in total.
 
+!!! example "Example" 
+    Quartier Mozart (Cameroon, 1992. Jean-Pierre Bekolo)  
+    Montreal World Film Festival, 1992  
+    Special mention - Montréal First Film Prize (Jury distinction awarded for notable debut feature films)  
+
+!!! example "Example"  
+    Søndagsengler (The Other side of Sunday) (Norway, 1996. Berit Nesheim)
+    69th Academy Awards, 1997  
+    Nominated - Best International Feature Film  
+
+!!! example "Example"
+    Mandabi (Senegal, 1968. Ousmane Sembène)
+    29th Venice International Film Festival, 1968  
+    Winner - Special Jury Prize  
+
+
+
 <a id="sec-production"></a>
 ## Production[^3]
 A distinct event in the course of production of a Work or Variant, including the main production event OR events that are separated in space and/or time from the main production event, or known with a greater amount of detail. Examples are dates and locations where castings took place; dates and locations of shootings or other recordings; or dates and locations of particular post-production activities.
@@ -258,7 +275,7 @@ Record the outcome of the act of rating or censorship.
     Decision type: Revision  
     Date: 2010   
     Region: Democratic Republic of Congo  
-    Verdict: Authorized with Restrictions   
+    Verdict: Authorized with Restrictions     
              Adult/Restricted  
 
 !!! example "Example"  
@@ -266,7 +283,7 @@ Record the outcome of the act of rating or censorship.
     Decision type: Censorship  
     Date: 2012  
     Region: Thailand  
-    Verdict: 18+ (for theatrical)   
+    Verdict: 18+ (for theatrical)     
              20+ (for Uncut disc version)  
   
 
