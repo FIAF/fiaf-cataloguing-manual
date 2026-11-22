@@ -93,20 +93,19 @@ The name of the award or trophy, possibly including a numeric designation (e.g. 
 A phrase describing a specific achievement for which the award was given, if not for the Work, Variant or Manifestation in total.
 
 !!! example "Example" 
-    Quartier Mozart (Cameroon, 1992. Jean-Pierre Bekolo)  
+    Quartier Mozart (Cameroon, 1992. Jean-Pierre Bekolo)    
     Montreal World Film Festival, 1992  
     Special mention - Montréal First Film Prize (Jury distinction awarded for notable debut feature films)  
 
 !!! example "Example"  
-    Søndagsengler (The Other side of Sunday) (Norway, 1996. Berit Nesheim)
+    Søndagsengler (The Other side of Sunday) (Norway, 1996. Berit Nesheim)  
     69th Academy Awards, 1997  
-    Nominated - Best International Feature Film  
+    Nominated - Best International Feature Film    
 
 !!! example "Example"
-    Mandabi (Senegal, 1968. Ousmane Sembène)
-    29th Venice International Film Festival, 1968  
-    Winner - Special Jury Prize  
-
+    Mandabi (Senegal, 1968. Ousmane Sembène)  
+    29th Venice International Film Festival, 1968    
+    Winner - Special Jury Prize    
 
 
 <a id="sec-production"></a>
@@ -150,7 +149,25 @@ The year/date or time-span during which the event took place. Dates should be fo
 
 **Event details**
 
-Any further information about the event either in plain textual form, or as an instance of a data type from another schema
+Any further information about the event either in plain textual form, or as an instance of a data type from another schema  
+
+!!! example "Example"  
+    Concursante (Spain, 2006. Rodrigo Cortés)  
+    Production Event  
+    Location: Madrid.    Region: Spain      
+              Galicia    Region: Spain   
+    Date start: 2005-11-10  Date end: 2005-12-21  
+    Shooting dates  
+
+
+    Brideshead Revisited (UK/USA/Italy/Morocco, 2008. Julian Jarrold)
+    Location shooting. 2007/06-04 to 2007/08/20
+    Location - Oxford (England)  
+               London (England)    
+               Venice (Italy)    
+               Bahia Palace, Marrakech (Morocco)  
+               Castle Howard (North Yorkshire, England)  
+   
 
 <a id="sec-values_rights_copyright_ipr_registration"></a>
 ## Rights/Copyright/IPR Registration[^4]
