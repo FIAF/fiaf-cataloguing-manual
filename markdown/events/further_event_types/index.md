@@ -59,13 +59,9 @@ If known and considered of relevance, record the specific restrictions for acces
 
 !!! example "Example" 
     Submarine (United Kingdom/United States, 2010. Richard Ayoade)  
-    Premiere  
-    2010-09-12  
-    Canada. Toronto. 35th Toronto Film Festival  
-
-    Premiere  
-    2011-03-13  
-    Wales. Swansea. Taliesin Arts Centre  
+    Premiere                                       Premiere  
+    2010-09-12                                     2011-03-13  
+    Canada. Toronto. 35th Toronto Film Festival    Wales. Swansea. Taliesin Arts Centre 
 
 !!! example "Example" 
     Maintenant ils peuvent venir (Let them come) (Algeria/France, 2015)
