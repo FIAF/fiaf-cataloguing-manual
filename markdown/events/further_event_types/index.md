@@ -304,20 +304,20 @@ Record in Arabic numerals the number issued by the agency as a unique identifier
 
 Record the outcome of the act of rating or censorship.
 
-!!! example "Example"  
-    Film: Jaws ((USA, 1975)
-    Decision type: Rating
-    Date: 1975-06-12
-    Region: United Kingdom
-    Number: None
-    Verdict: A (Advisory - contains content that might be unsuitable for younger children)
+!!! example "Example"    
+    Film: Jaws ((USA, 1975)  
+    Decision type: Rating  
+    Date: 1975-06-12  
+    Region: United Kingdom  
+    Number: None  
+    Verdict: A (Advisory - contains content that might be unsuitable for younger children)  
 
 !!! example "Example"  
     Film: Viva Riva! (Democratic Republic of Congo, 2010. Djo Tunda Wa Mung)    
     Decision type: Revision  
     Date: 2010   
     Region: Democratic Republic of Congo  
-    Verdict: Authorized with Restrictions     
+    Verdict: Authorized with Restrictions       
              Adult/Restricted  
 
 !!! example "Example"  
@@ -326,7 +326,7 @@ Record the outcome of the act of rating or censorship.
     Date: 2012  
     Region: Thailand  
     Verdict: 18+ (for theatrical)     
-             20+ (for Uncut disc version)  
+             20+ (for Uncut disc version)    
   
 
 <a id="sec-manufacture"></a>
