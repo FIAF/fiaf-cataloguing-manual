@@ -2,7 +2,7 @@
 <a id="sec-work_variant_description_type"></a>
 ## Work Description Type[^1]
 The description type establishes the general focus of the Work being catalogued, whether it is a complete Work in one part, a Work made up of several parts, or a physical group or collection of Works.
-Providing this information helps the cataloguer and user understand the context of the Work/Variant being described, and whether it has any relationships with other Works/Variants.
+Providing this information helps the cataloguer and user understand the context of the Work being described, and whether it has any relationships with other Works.
 For example, a television series could be catalogued as a Serial, which implies that there could be related Works (episodes) catalogued as Monographs.
 
 Record the level of description of the work being catalogued, for example, “analytic,” “monographic,” “serial,” etc., according to a controlled vocabulary.
@@ -49,7 +49,10 @@ The record for the television series itself is catalogued as a Serial.
 !!! example "Example"
     Coronation Street [1960-12-09] 
 !!! example "Example"
-    Spaced. Series 1 Episode 1. 1999-09-02
+    Spaced. Series 1 Episode 1. 1999-09-02  
+!!! example "Example"  
+    Mentiras perfectas. 2. Todo Hasta Ahora está Perfecto  
+    
 
 ### Serial
 Content issued in successive parts and intended to be continued indefinitely, or across a span of time.
@@ -62,7 +65,7 @@ A Work record for a television series is catalogued as a “Serial.” Individua
 !!! example "Example"
     Chemistry Essentials (1996) 
 !!! example "Example"
-    Breaking Bad (2008-01-20 – 2013-09-29)
+    Breaking Bad (2008-01-20  –  2013-09-29)  
 
 ### Collection
 Content issued in several independent parts; an ‘umbrella’ work title covering a number of different Works/Variants/Manifestations[^3].
