@@ -68,11 +68,11 @@ If known and considered of relevance, record the specific restrictions for acces
     2011-03-13  
     Wales. Swansea. Taliesin Arts Centre 
 
-!!! example "Example" 
-    Maintenant ils peuvent venir (Let them come) (Algeria/France, 2015)
-    Festival screening
-    c. October 2016
-    Tunisia. Tunis. 27th Carthage Film Festival  
+!!! example "Example"  
+    Maintenant ils peuvent venir (Let them come) (Algeria/France, 2015)  
+    Festival screening  
+    c. October 2016  
+    Tunisia. Tunis. 27th Carthage Film Festival    
 
 !!! example "Example"  
     The White Ribbon (Germany, 2009. Michael Haneke) (English subtitled Variant of Das Weiße Band - Eine Deutsche Kindergeschichte)  
