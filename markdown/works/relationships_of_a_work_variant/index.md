@@ -2,7 +2,7 @@
 title: Relationships of a Work (links/associations with other entities/records)
 ---
 A relationship associates an instance of a Work with another instance of an entity.
-Entities are described in subsequent sections, but examples of entities are people or companies associated with a Work (eg, studio, director, cast), events (copyright registration)[^1], subjects (other Works are about the same subject), and records.
+Entities are described in subsequent sections, but examples of entities are Agents (people or companies associated with a Work, e.g, studio, director, cast), Events (copyright registration)[^1], Subjects (other Works are about the same subject), and records.
 
 Relationships can be implemented in many ways, depending on the purpose, the modelling paradigm, or architectural constraints of the chosen platform.
 These guidelines are intended to be data structure neutral.[^2] Therefore, these guidelines cannot prescribe exactly how to demonstrate relationships.
