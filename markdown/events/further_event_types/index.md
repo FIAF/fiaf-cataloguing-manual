@@ -75,7 +75,7 @@ If known and considered of relevance, record the specific restrictions for acces
     Tunisia. Tunis. 27th Carthage Film Festival    
 
 !!! example "Example"  
-    The White Ribbon (Germany, 2009. Michael Haneke) (English subtitled Variant of Das Weiße Band - Eine Deutsche Kindergeschichte)  
+    The White Ribbon (Germany, 2009. Michael Haneke) (English subtitled version of Das Weiße Band - Eine Deutsche Kindergeschichte)  
     Distribution  
     2010-03-15  
     United Kingdom  
