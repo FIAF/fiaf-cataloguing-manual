@@ -4,7 +4,7 @@
 !!! abstract "Definition"
     An entity that may be used to indicate any change to content-related characteristics that do not significantly change the overall content of a Work as a whole.
     This is similar to a Work since it does not yet describe physical or digital embodiments of the content.
-    For example: A film edited for television broadcast will contain most of the content of the original Work, but have some parts edited out.
+    For example: A film edited for television broadcast containing most of the content of the original Work, but has some parts edited out.
 
 
 <a id="sec-moving_image_variant"></a>
