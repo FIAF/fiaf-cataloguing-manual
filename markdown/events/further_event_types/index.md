@@ -57,6 +57,30 @@ If known and considered of relevance, record the name of the event that the publ
 
 If known and considered of relevance, record the specific restrictions for accessing the content (e.g. press-screening only, airplanes only, etc.).
 
+!!! example "Example" 
+    Submarine (United Kingdom/United States, 2010. Richard Ayoade)  
+    Premiere  
+    2010-09-12  
+    Canada. Toronto. 35th Toronto Film Festival  
+
+    Premiere  
+    2011-03-13  
+    Wales. Swansea. Taliesin Arts Centre  
+
+!!! example "Example" 
+    Maintenant ils peuvent venir (Let them come) (Algeria/France, 2015)
+    Festival screening
+    c. October 2016
+    Tunisia. Tunis. 27th Carthage Film Festival  
+
+!!! example "Example"  
+    The White Ribbon (Germany, 2009. Michael Haneke) (English subtitled Variant of Das Weiße Band - Eine Deutsche Kindergeschichte)  
+    Distribution  
+    2010-03-15  
+    United Kingdom  
+    DVD distribution and availability of the film in German with English subtitles.  
+    
+
 <a id="sec-awards_or_nominations"></a>
 ## Award(s) or Nomination(s)[^2]
 
