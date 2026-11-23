@@ -384,7 +384,7 @@ For systems depending on keyword searching rather than using subject terms, syno
 !!! example "Example"
     An historical drama set in 16th century England in which King Henry VIII divorces his wife, Catherine of Aragon, and marries Anne Boleyn, a former lady-in-waiting, who is in love with Sir Thomas Wyatt. After several years, Henry becomes infatuated with Lady Jane Seymour and arranges to have the innocent Anne found in a compromising situation with Sir Thomas. Anne is tried for infidelity, found guilty, and executed.
 
-!!! example "Example"
+!!! example "Example" 
     Donald Graham, millionaire ex-convict, plans revenge on society figure John Cabin Brand, whom he blames for the death of his daughter.
 
 A content description may also be a shotlist or listing of the contents of an aggregate Work (see [Aggregates (Compilations, Multi-component productions)](../../aggregates/types_of_moving_image_aggregates/index.md#sec-collection_aggregates)). Shotlists are the ideal content description to have or aim to have, particularly for non-fiction moving images, but it is recognised that resources and accessibility mean this is not always possible or practical for an archive or institution.[^12]
@@ -758,11 +758,11 @@ According to the 2004 law, the biggest part of the cast and crew, the locations,
 [^200]: SSRs were often officially formed on different dates between 1918 and the 1930s, and there were also often subsequent boundary changes between them. For further exploration of this see ADD LINK TO CDC FIAF website Ukraine document if latter has been enhanced with additional details
 [^6]: EN 15907, 6.6 Year of Reference, p. 20
 [^7]: Irish Film Archive, p. 13.
-[^8]: FIAF, 3.5.4, p. 64
+[^8]: FIAF Cataloguing Rules for Film Archives (1991), 3.5.4, p. 64
 [^9]: Adapted from YCR, 1.2.16 Summary of genre, form, and subject matter of work, p. 38.
 [^10]: The indication of “original” values at the Manifestation level follows EN 15907 attributes of a Manifestation, pp. 10-11
-[^11]: FIAF 7.2.12. Summary
-[^12]: FIAF 7.2.16. Contents
+[^11]: FIAF Cataloguing Rules for Film Archives (1991) 7.2.12. Summary
+[^12]: FIAF Cataloguing Rules for Film Archives (1991) 7.2.16. Contents
 [^13]: Irish Film Archive, p. 23.
 [^14]: EN 15907, 6.17.3 Elements, Description type, p. 30.
 [^15]: Based on RDA 2.20.1.Basic Instructions on Making Notes on Manifestations or Items
