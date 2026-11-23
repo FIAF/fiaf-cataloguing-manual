@@ -117,8 +117,8 @@ The name of the award or trophy, possibly including a numeric designation (e.g. 
 
 A phrase describing a specific achievement for which the award was given, if not for the Work, Variant or Manifestation in total.
 
-!!! example "Example" 
-    Quartier Mozart (Cameroon, 1992. Jean-Pierre Bekolo)    
+!!! example "Example"  
+    Quartier Mozart (Cameroon, 1992. Jean-Pierre Bekolo)      
     Montreal World Film Festival, 1992  
     Special mention - Montréal First Film Prize (Jury distinction awarded for notable debut feature films)  
 
@@ -191,7 +191,7 @@ Any further information about the event either in plain textual form, or as an i
                London (England)    
                Venice (Italy)    
                Bahia Palace, Marrakech (Morocco)  
-               Castle Howard (North Yorkshire, England)    
+               Castle Howard, North Yorkshire (England)     
    
 
 <a id="sec-values_rights_copyright_ipr_registration"></a>
