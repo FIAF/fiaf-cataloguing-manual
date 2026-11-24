@@ -176,7 +176,7 @@ See [LINK to WORK CHAPTER]
 
 <a id="sec-assigning_subject_terms"></a>
 ### Assigning Subject terms
-When considering the assigning of subject terms to a moving image Work record there are two main components to consider in making an intellectual assessment; the contexts of "about" and "of". See [LINK to WORK CHAPTER]
+When considering the assigning of subject terms to a moving image Work record there are two main components to consider in making an intellectual assessment; the contexts of what is seen onscreen as well as what the images are about conceptually. See [LINK to WORK CHAPTER]
 
 <a id="sec-notes"></a>
 ## Notes
