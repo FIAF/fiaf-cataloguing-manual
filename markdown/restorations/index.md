@@ -34,13 +34,20 @@ Such improvements do not, by themselves, require a new Work or Variant record. R
 
 Restoration should normally be described within the existing Work. A distinct version may warrant a Variant, or be distinguished through Manifestations where Variants are not used. Treat the creation of a new Work for a restoration output as exceptional, and explain which Work boundary the result crosses.
 
-A Restoration Manifestation may be used to group the resulting Items, as illustrated below. The next section discusses which Manifestations to associate with these Items.
+A Restoration Manifestation may be used to group the resulting Items created as part of a restoration project, as illustrated in 17.1.2 below, which discusses Manifestations to associate with these Items.
+
+Where a released restored version of a moving image is acquired, then the acquired Item would link to a relevant Theatrical, Home Viewing, or other relevant type of Manifestation, for example:
 
 <center><object data="/diagrams/resjaws1.drawio.svg" type="image/svg+xml" width="50%"></object></center>
 
 Or if Variants are not used then:
 
-<center><object data="/diagrams/resjaws2.drawio.svg" type="image/svg+xml" width="50%"></object></center>
+<center><object data="/diagrams/resjaws2.drawio.svg" type="image/svg+xml" width="50%"></object></center>  
+
+Or where different copies of the same restored version are acquired:
+
+<center><object data="/diagrams/resjaws3.drawio.svg" type="image/svg+xml" width="50%"></object></center>  
+
 
 In systems with fewer descriptive levels, restoration materials may be described together in a record titled, for example, “Film title [Restoration Production Materials]”, with a reference or relationship to the film’s description. Such a record groups materials associated with the restoration project; its creation does not, by itself, mean that the restored film constitutes a new Work. Identify the individual materials and their relationships as the system permits. See also [Titles and structuring for production materials](../titles/production_materials/index.md).
 

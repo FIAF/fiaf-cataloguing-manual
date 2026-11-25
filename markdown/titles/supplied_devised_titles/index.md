@@ -86,8 +86,10 @@ trailers or a compilation of trailers) but connected to a larger Work; or unedit
 rushes).
 
 Partially supplied/devised titles are basically augmented preferred titles for a Work/Variant.
-This augmentation traditionally appends a form term to the title itself, (e.g., Gone with the wind.
-Trailer).
+This augmentation traditionally appends a form term to the title itself, e.g. 
+
+!!! example "Example"
+    Gone with the wind. Trailer  
 
 Optionally, form terms may be left out of the title field and indexed as an attribute of the Work/Variant where possible or preferable.
 
@@ -245,7 +247,7 @@ AND/OR
 
 Where ascertainable, when the content being described consists of one specific form, supply the form using standardised vocabulary.[^6]
 
-Optionally (or additionally), establish a link with the form index adopted by the archive.
+Optionally (or additionally), establish a link with any Form terms index adopted by your institution, if applicable.
 
 Institutions should rely upon in-house lists of standardised form terms, or utilise established standardised lists such as Library of Congress Genre/Form Terms for Library and Archival Materials (LCGFT), or rely upon the list provided in [List of form terms for Supplied/Devised titles](../../appendices/value-lists/list_of_form_terms_for_supplied_devised_titles/index.md#sec-list_of_form_terms_for_supplied_devised_titles).
 

@@ -260,7 +260,8 @@ Where this involves transcription between scripts, use an appropriate standard f
 When a title is an international co-production, or is produced in a bi- or multi-lingual country of origin, and is released simultaneously under separate titles in the languages of the country of origin or countries of co-production as well as in other languages, record all the parallel titles in the languages of the countries of co-production and in the language of the copy the institution holds, if it is in an additional language.
 
 If it cannot be determined whether the Work was released simultaneously or the release order cannot be determined, the cataloguer should select one of the qualifying titles in accordance with a consistent policy (for example from a list of languages in the institution’s preferred order, or by reference to an authoritative source.) [^25]
-Such lists will normally give preference to the languages most familiar to researchers in the country of the archive. For example, the standard list for archival moving image cataloguing in the United States is:  
+Such lists will normally give preference to the languages most familiar to researchers in the country of the archive. For example, the standard list for archival moving image cataloguing in the United States is: 
+
 - 1. U.S. title (if an American company is involved in the production).  
 - 2. U.K. title (if a British company is involved in the production).  
 - 3. Other English language title (if an English language speaking country is involved in the production).  

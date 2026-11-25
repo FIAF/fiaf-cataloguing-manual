@@ -57,6 +57,31 @@ If known and considered of relevance, record the name of the event that the publ
 
 If known and considered of relevance, record the specific restrictions for accessing the content (e.g. press-screening only, airplanes only, etc.).
 
+!!! example "Example" 
+    Submarine (United Kingdom/United States, 2010. Richard Ayoade)  
+    Event 1  
+    Premiere 
+    2010-09-12  
+    Canada. Toronto. 35th Toronto Film Festival  
+    Event 2  
+    Premiere  
+    2011-03-13  
+    Wales. Swansea. Taliesin Arts Centre 
+
+!!! example "Example"  
+    Maintenant ils peuvent venir (Let them come) (Algeria/France, 2015)  
+    Festival screening  
+    c. October 2016  
+    Tunisia. Tunis. 27th Carthage Film Festival    
+
+!!! example "Example"  
+    The White Ribbon (Germany, 2009. Michael Haneke) (English subtitled version of Das Weiße Band - Eine Deutsche Kindergeschichte)  
+    Distribution  
+    2010-03-15  
+    United Kingdom  
+    DVD distribution and availability of the film in German with English subtitles.  
+    
+
 <a id="sec-awards_or_nominations"></a>
 ## Award(s) or Nomination(s)[^2]
 
@@ -91,6 +116,22 @@ The name of the award or trophy, possibly including a numeric designation (e.g. 
 **Achievement**
 
 A phrase describing a specific achievement for which the award was given, if not for the Work, Variant or Manifestation in total.
+
+!!! example "Example"  
+    Quartier Mozart (Cameroon, 1992. Jean-Pierre Bekolo)      
+    Montreal World Film Festival, 1992  
+    Special mention - Montréal First Film Prize (Jury distinction awarded for notable debut feature films)  
+
+!!! example "Example"  
+    Søndagsengler (The Other side of Sunday) (Norway, 1996. Berit Nesheim)  
+    69th Academy Awards, 1997  
+    Nominated - Best International Feature Film    
+
+!!! example "Example"  
+    Mandabi (Senegal, 1968. Ousmane Sembène)    
+    29th Venice International Film Festival, 1968      
+    Winner - Special Jury Prize      
+
 
 <a id="sec-production"></a>
 ## Production[^3]
@@ -133,7 +174,25 @@ The year/date or time-span during which the event took place. Dates should be fo
 
 **Event details**
 
-Any further information about the event either in plain textual form, or as an instance of a data type from another schema
+Any further information about the event either in plain textual form, or as an instance of a data type from another schema  
+
+!!! example "Example"    
+    Concursante (Spain, 2006. Rodrigo Cortés)  
+    Production Event  
+    Location: Madrid. Region: Spain         
+              Galicia. Region: Spain  
+    Date start: 2005-11-10  Date end: 2005-12-21  
+    Shooting dates  
+
+!!! example "Example"  
+    Brideshead Revisited (UK/USA/Italy/Morocco, 2008. Julian Jarrold)  
+    Location shooting. 2007/06-04 to 2007/08/20  
+    Location - Oxford (England)  
+               London (England)    
+               Venice (Italy)    
+               Bahia Palace, Marrakech (Morocco)  
+               Castle Howard, North Yorkshire (England)     
+   
 
 <a id="sec-values_rights_copyright_ipr_registration"></a>
 ## Rights/Copyright/IPR Registration[^4]
@@ -245,15 +304,30 @@ Record in Arabic numerals the number issued by the agency as a unique identifier
 
 Record the outcome of the act of rating or censorship.
 
-!!! example "Example"
-    Film: Jaws ((USA, 1975)
-    Decision type: Classification
-    Date: 1975-06-12
-    Region: United Kingdom
-    Number:
-    Verdict: A [Advisory - contains content that might be unsuitable for younger children]
+!!! example "Example"    
+    Film: Jaws ((USA, 1975)  
+    Decision type: Rating  
+    Date: 1975-06-12  
+    Region: United Kingdom  
+    Number: None  
+    Verdict: A (Advisory - contains content that might be unsuitable for younger children)  
 
-[INSERT ILLUSTRATIVE EXAMPLES HERE FROM A COUPLE OF DIFFERENT COUNTRIES]
+!!! example "Example"  
+    Film: Viva Riva! (Democratic Republic of Congo, 2010. Djo Tunda Wa Mung)    
+    Decision type: Revision  
+    Date: 2010   
+    Region: Democratic Republic of Congo  
+    Verdict: Authorized with Restrictions       
+             Adult/Restricted  
+
+!!! example "Example"  
+    Film: จันดารา ปฐมบท (Jan Dara Pathom-bot) (Thailand, 2012. M.L. Pundhevanop Dheuwakal)  
+    Decision type: Censorship  
+    Date: 2012  
+    Region: Thailand  
+    Verdict: 18+ (for theatrical)     
+             20+ (for Uncut disc version)    
+  
 
 <a id="sec-manufacture"></a>
 ## Manufacture

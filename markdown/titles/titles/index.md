@@ -117,11 +117,9 @@ Where possible a word should be used as a substitute when creating the title if 
 See [Notes](../../variants/elements_of_a_variant/index.md#sec-notes).
 
 !!! example "Example"
-    I [heart] Huckabees [Preferred/Title Proper] 
+    I ❤️ Huckabees [Preferred/Title Proper] 
 
     I love Huckabees [Alternative or Non-preferred] 
-
-    (Onscreen title shows a heart symbol for the middle word.) [Note]
 
 Moving images created for social media platforms and sites, e.g. YouTube, TikTok, etc. can often use mixtures of capitalisation and characters, symbols, and emojis in the titles given to them on their uploaded entries. Institutions are already starting to acquire materials from these sources, so should decide on the titling principles and stylistics they will follow and apply systematically.
 

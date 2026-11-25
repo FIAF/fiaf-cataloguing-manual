@@ -2,7 +2,7 @@
 <a id="sec-introduction"></a>
 
 The archival moving image field has changed dramatically in recent years, with technological advances revolutionising cataloguing, preservation, and access practices.
-To help cataloguers and archivists respond to these changes, FIAF presented the *FIAF Moving Image Cataloguing Manual (FIAF Manual)*, a revision of the 1991 *FIAF Cataloguing Rules for Film Archives (FIAF Rules)*.
+To help cataloguers and archivists respond to these changes, FIAF presented the 2016 *FIAF Moving Image Cataloguing Manual (FIAF Manual)*, a revision of the 1991 *FIAF Cataloguing Rules for Film Archives (FIAF Rules)*.
 These new guidelines, created by the FIAF Cataloguing and Documentation Commission and the FIAF Cataloguing Rules Revision Working Group, aimed to help cataloguers create cataloguing or metadata records that would meet requirements of new database technologies and new metadata standards while remaining compatible with older methods and standards. Ten years later this revised edition does the same.
 
 The Manual offers primarily descriptive cataloguing rules rather than a schema of data elements.
@@ -31,5 +31,5 @@ The FIAF Manual is intended to provide guidance in creating metadata or catalogu
 
 It is recognised that institutions use a variety of systems and data structures and may find it difficult to implement far-ranging changes in their cataloguing practices. The revisions suggested in this manual will help archives harmonise their practices with related standards, models, and schema as far as possible.
 
-[^1]: FIAF, 1991, p. ix
+[^1]: FIAF Cataloguing Rules for Film Archives, 1991, p. ix
 [^2]: Adapted from AMIM2, p.1.

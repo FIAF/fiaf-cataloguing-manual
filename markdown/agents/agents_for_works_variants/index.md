@@ -195,13 +195,13 @@ For example:
 
 !!! example "Example"
     The Ladykillers (United Kingdom, 1955)
-    <center><object data="/images/image2022-8-1_uncreditedeg.png" width="100%"></object></center>
+    <center><object data="/images/image2022-8-1_uncreditedeg.png" width="110%"></object></center>
 
 or
 
 !!! example "Example"
     The Ladykillers (United Kingdom, 1955)
-    <center><object data="/images/Screenshot_uncreditedeg9.png" width="70%"></object></center>
+    <center><object data="/images/Screenshot_uncreditedeg9.png" width="60%"></object></center>
 
 
 
@@ -226,13 +226,13 @@ The same applies in the case of uncredited cast members, for example:
 
 !!! example "Example"
     The Ladykillers (United Kingdom, 1955)  
-    <center><object data="/images/Screenshot_uncreditedcast2.png" width="100%"></object></center>
+    <center><object data="/images/Screenshot_uncreditedcast2.png" width="110%"></object></center>
 
 or
 
 !!! example "Example"
     The Ladykillers (United Kingdom, 1955)  
-    <center><object data="/images/Screenshot_uncreditedcast1.png" width="70%"></object></center>
+    <center><object data="/images/Screenshot_uncreditedcast1.png" width="60%"></object></center>
 
 
 

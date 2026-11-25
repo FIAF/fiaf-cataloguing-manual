@@ -1,11 +1,15 @@
 
 
 A relationship associates an instance of a Variant with another instance of an entity.
-Entities are described in subsequent sections, but examples of entities are people or companies associated with a Variant (eg, studio, director, cast), events (copyright registration), subjects (other Works/Variants are about the same subject), and records.
+Entities are described in subsequent sections, but examples of entities are Agents (people or companies associated with a Variant, e.g, studio, director, cast), Events (copyright registration), Subjects (other Works/Variants are about the same subject), and records.
 
-Relationships can be implemented in many ways, depending on the purpose, the modelling paradigm, or architectural constraints of the chosen platform.
-These guidelines are intended to be data structure neutral.[^1] Therefore, these guidelines cannot prescribe exactly how to demonstrate relationships.
-Instead they recommend that certain relationships be established without instruction on how precisely those links be made manifest, i.e., whether by physical associative record linking or “see also” text conventions. Because EN15907 uses a multi-tiered entity-relationship mode, associative linking terms that denote the relationship type, such as part/part of, or parent/child, are used in some database systems to create a hierarchical data architecture of Works, Variants, Manifestations, and Items.
+Relationships can be implemented in many ways, depending on the purpose, the modelling paradigm, or architectural constraints of the chosen platform.  
+
+These guidelines are intended to be data structure neutral.[^1] Therefore, these guidelines cannot prescribe exactly how to demonstrate relationships.  
+
+Instead they recommend that certain relationships be established without instruction on how precisely those links be made manifest, i.e., whether by physical associative record linking or “see also” text conventions.   
+
+Because EN15907 uses a multi-tiered entity-relationship mode, associative linking terms that denote the relationship type, such as part/part of, or parent/child, are used in some database systems to create a hierarchical data architecture of Works, Variants, Manifestations, and Items.
 
 A Variant may have relationships with the following:
 

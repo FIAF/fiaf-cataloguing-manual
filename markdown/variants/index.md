@@ -4,7 +4,7 @@
 !!! abstract "Definition"
     An entity that may be used to indicate any change to content-related characteristics that do not significantly change the overall content of a Work as a whole.
     This is similar to a Work since it does not yet describe physical or digital embodiments of the content.
-    For example: A film edited for television broadcast will contain most of the content of the original Work, but have some parts edited out.
+    For example: A film edited for television broadcast containing most of the content of the original Work, but has some parts edited out.
 
 
 <a id="sec-moving_image_variant"></a>
@@ -20,6 +20,11 @@ The determination of a Variant requires human analysis, and as such is an interp
 It is not always easy to establish what the Variants may be.
 For example, an institution may have a television recording of a motion picture broadcast but no way of comparing it with an original theatrical copy as to whether it has been altered in terms of subtle censorship of content or duration
 
-**Therefore, this entity is optional.** If employed, each instance of a Variant is related to a Work and can have one-to-many relationships with instances of Manifestation(s), and many-to-many relationships with Event(s), Agent(s) and Other Relation(s). **If no Variant of a Work exists or is known to exist, then this entity can be omitted, connecting an instance of a Work with one or more instances of Manifestation.** The above is the case under EN 15907, but please note that the Variant (aka Expression) is an integral part of the data architecture of IFLA Library Reference Model (LRM), so if the latter standard is being used in your institution then use of Variants (Expressions) would be expected.
+**Therefore, this entity is optional.** If employed, each instance of a Variant is related to a Work and can have one-to-many relationships with instances of Manifestation(s), and many-to-many relationships with Event(s), Agent(s) and Other Relation(s). 
+
+**If no Variant of a Work exists or is known to exist, then this entity can be omitted, connecting an instance of a Work with one or more instances of Manifestation.** 
+
+The above is the case under EN 15907, but please note that the Expression (which has a partial overlap with the Variant entity)[^3] is an integral part of the data architecture of IFLA Library Reference Model (LRM), so if the latter standard is being used in your institution then use of Expressions would always be expected.
 
 [^2]: Adapted from EN 15907, 4.2 Variant.
+[^3]: In EN 15907 a Cinematographic Work can connect directly to a Manifestation without a Variant; but in LRM a Work cannot cannot connect to a Manifestation without an Expression.  In LRM, a Work is purely abstract, i.e. intellectual content (the underlying idea/story), so an Expression is always needed to give it form before it can be published as a Manifestation. In EN 15907, a Cinematographic Work already represents both the intellectual content and its primary realisation in a cinematographic medium, so the Variant reflects differences (or variations) in the primary realisation, e.g. dubbed into a different language, etc.

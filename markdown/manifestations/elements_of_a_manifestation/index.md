@@ -92,17 +92,17 @@ A suggested list, which is open and not exhaustive, can be found in [Language Us
 If usage type(s) cannot be determined, indicate a value of “unknown”.
 
 !!! example "Example"
-    Caccia tragica (Italy, Giuseppe De Santis, 1947) 
+    Caccia tragica (Italy, 1947. Giuseppe De Santis) 
 
     Not for release (archival) – 35mm – Italian (spoken), Romanian (intertitles)
 
 !!! example "Example"
-    New York stories, (United States of America, Woody Allen, Francis Ford Coppola, Martin Scorsese, 1989)  
+    New York stories, (United States of America, 1989. Woody Allen, Francis Ford Coppola, Martin Scorsese)  
     
     Home video publication – DVD - English (spoken); Italian, German, French, Spanish (subtitles) – Buena Vista (publisher),     2002/05/16
 
 !!! example "Example"
-    The Bridge. Episode 1 (Sweden, Denmark, Charlotte Sieling, 2011) 
+    The Bridge. Episode 1 (Sweden/Denmark, 2011. Charlotte Sieling) 
 
     TV broadcast – United Kingdom, 2012-04-21 - Swedish (Dialogue (original)), Danish (Dialogue (original)), English             (Subtitles)
 
@@ -122,11 +122,11 @@ There are largely three main possible approaches:
 Where language options are recorded in detail, distinguish languages presented together from alternative soundtracks or subtitles that the user can select, for example through fields for Language and Usage alongside fields for Selectable Language and Usage. Where relevant, identify the original-language soundtrack and dubbed alternatives. Make clear which language options are available, without implying that all are presented simultaneously. Where such fields are not available, this information may be recorded using other descriptive elements or notes.
 
 !!! example "Example"
-    New York stories, (United States of America, Woody Allen, Francis Ford Coppola, Martin Scorsese, 1989) 
+    New York stories, (United States of America, 1989. Woody Allen, Francis Ford Coppola, Martin Scorsese) 
 
     Home video publication – DVD, English (spoken); – Selectable language alternatives Italian, German (dubbed); English,        Italian, German, French, Spanish, (subtitles) – Buena Vista (publisher), 2002/05/16
 
-The same Language field could be used for both, but this risks ambiguity about which languages are presented together and which are selectable alternatives, and could imply that all the languages indicated appear at the same time. If a single field is used, add a qualifying note for clarity. Alternatively, an additional field alongside Language and Usage, indicating whether each language is presented or selectable, would aid clarity.
+The same Language field could be used for both, but this risks ambiguity about which languages are presented together and which are selectable alternatives, and could imply that all the languages indicated appear at the same time. If a single field is used, add a qualifying note for clarity. Alternatively, an additional qualifier field alongside Language and Usage, indicating whether each language is presented or selectable, would aid clarity.
 
 It is not necessary to create a separate Variant or Manifestation for each selectable language option. Depending on the cataloguing system, representing each option separately may lead to duplicate Item records for the same object. This should not give the impression that several Items exist when the options belong to a single Item.
 
@@ -143,7 +143,7 @@ Where Variants are used and the cataloguing system allows one Manifestation to b
 <center><object data="/diagrams/manif_multi_lang_rda.drawio.svg" type="image/svg+xml" width="80%" role="img" aria-label="Three language Variants linked to one Manifestation and Item" aria-describedby="diagram-language-variants-description"><a href="/diagrams/manif_multi_lang_rda.drawio.svg">View the diagram of language Variants</a>.</object></center>
 <p id="diagram-language-variants-description" class="diagram-description">An English film Work is linked to three Variants/Expressions: original English, a German-subtitled version, and a French-subtitled version. All three link to one Home Viewing Manifestation of a Blu-ray release. That Manifestation links to one Blu-ray Item in English, with German or French subtitles available for the viewer to select.</p>
 
-This structure is modelled on an RDA-based approach and may be useful for institutions following RDA. Note that this manual's Variants are not equivalent to RDA Expressions (see [Definitions of the Work and Variant Entities](../../appendices/relationships-with-other-standards/index.md#sec-definitions_of_the_work_and_variant_entities)).
+This structure is modelled on an RDA-based approach and may be useful for institutions following RDA. Note that this manual's Variants are not exact equivalents to RDA Expressions (see [Definitions of the Work and Variant Entities](../../appendices/relationships-with-other-standards/index.md#sec-definitions_of_the_work_and_variant_entities)).
 
 Where separate Variants or Manifestations describe selectable language options, make clear that those options are available within one Item. They should not be mistaken for an aggregate containing several complete versions of the moving image presented one after another.
 
@@ -165,7 +165,7 @@ Physical and digital description records technical characteristics such as forma
 
 This reference does not imply that every Item associated with a Manifestation has the same technical characteristics. As explained in [Moving Image Manifestations](../index.md#sec-moving_image_manifestations), a Pre-Release Manifestation may group different production materials, and institutions may associate in-house derivatives with the same Manifestation as their sources. A single “ideal” technical format need not apply to every Item in such a grouping.
 
-Manifestation-level characteristics may be reused in Item descriptions where they apply to the object being described. Item descriptions should record the actual characteristics of each object; characteristics should not be assumed to apply solely because the Item is linked to that Manifestation.
+Manifestation-level characteristics may be re-used in Item descriptions where they apply to the object being described. Item descriptions should record the actual characteristics of each object; characteristics should not be assumed to apply solely because the Item is linked to that Manifestation.
 In some databases, selection of a format or broad format category initiates provision of element fields relevant to that format at a Manifestation level, an Item level, or both, for example in a 2-Level hierarchy.
 See “Shallow hierarchy model: 2 levels” found at [Elements of description across Works, Variants, Manifestations, and Items](../../preliminary/core_elements_of_description/index.md#sec-elements_of_description).
 
@@ -368,13 +368,13 @@ Record the colour characteristics of the image represented by the Manifestation.
 - Colour
 - Black and white with applied colour
 
-Where an image combines different colour characteristics, record each applicable appearance term. For example, a documentary combining black-and-white archive footage with colour interviews would be described using Black and white and Colour. Describe significant variations between sections where needed.
+Where an image combines different colour characteristics, record each applicable appearance term. For example, a documentary combining black-and-white archive footage with colour interviews would be described using *Black and white* and *Colour*. Describe significant variations between sections where needed.
 
-Some catalogues permit only one colour value. In these systems, a combined term such as Colour and black and white may represent the same characteristics.
+Some catalogues permit only one colour value. In these systems, a combined term such as *Colour and black and white* may represent the same characteristics.
 
-Black and white with applied colour describes a black-and-white photographic image coloured by tinting, toning, stencil colouring, hand colouring, or similar means. The term describes the appearance of the image, and applies equally to a photographic or digital copy that reproduces it. Record the process itself under Colour systems and processes below, in the description of the material that underwent it. A tinted nitrate print, for example, is Black and white with applied colour, with the process Tinted; a digital copy of that print has the same appearance, but Tinted is not recorded as its process.
+*Black and white with applied colour* describes a black-and-white photographic image coloured by tinting, toning, stencil colouring, hand colouring, or similar means. The term describes the appearance of the image, and applies equally to a photographic or digital copy that reproduces it. Record the process itself under Colour systems and processes below, in the description of the material that underwent it. A tinted nitrate print, for example, is *Black and white with applied colour*, with the process *Tinted*; a digital copy of that print has the same appearance, but Tinted is not recorded as its process.
 
-Where only one colour field is available, use it to describe colour appearance and record relevant process information in a note. Where an existing vocabulary uses terms such as Black and white (tinted), clarify whether the qualifier describes a treatment applied to the material being described or an appearance reproduced from a source.
+Where only one colour field is available, use it to describe colour appearance and record relevant process information in a note. Where an existing vocabulary uses terms such as *Black and white (tinted)*, clarify whether the qualifier describes a treatment applied to the material being described or an appearance reproduced from a source.
 
 **Colour systems and processes**
 
@@ -494,7 +494,7 @@ Applicable constituent measurements already available through linked description
 For more information about Aggregates see [Aggregates (Compilations, Multi-component productions)](../../aggregates/index.md).
 
 <a id="sec-duration_of_a_manifestation_associated"></a>
-#### Duration of a Manifestation associated with a Work/Variant of the Silent Era
+#### Duration of a Manifestation associated with a Work/Variant of the Silent Era  
 When recording duration of Manifestations of a Work/Variant of the silent era, take into account that the rate of frames per second varied over the years and between Variants/Manifestations.
 Also take into account the so-called “stretch frame” practice, adopted after the silent era, which “increases the number of frames printed on a film to enable films shot at silent speeds to be projected at sound speed and retain the original temporal characteristics.” [^16]
 
@@ -532,9 +532,9 @@ Notes for Manifestations are annotations providing additional information relati
 Dates and country of Manifestation are not elements of a Manifestation under EN 15907, as in the latter it envisages this data being on linked Publication Events. However, in some systems they may be structured as elements of a Manifestation. For further consideration of this see [Boundaries between Manifestations and Events](../../boundaries/boundaries_between_manifestations_and_events/index.md)
 
 [^1]: Partially based on EN 15907, 6.8 except for the physical components/units number, which is not provided for in the standard.
-[^2]: Based on FIAF 1991, 5.3.4.1, 87.
-[^3]: Based on FIAF 1991, 5.3.4.2.
-[^4]: The V-ISAN represents the third segment of the ISAN number, which consists of a 96-bits number structured as follows: the first is the root, which identifies the work, the second is the episode section, which identifies the part within a multi-part work, the third is the so-called version section, which identifies variants and Manifestations (particularly as far as format changes and “media embodiments”, such as Blu-Ray, digital files, tapes, etc.., are concerned): see [http://www.isan.org/docs/isan_user_guide.pdf](http://www.isan.org/docs/isan_user_guide.pdf), Version 2.2.2. February 2012, 13/49.
+[^2]: Based on FIAF Cataloguing Rules for Film Archives 1991, 5.3.4.1, 87.
+[^3]: Based on FIAF Cataloguing Rules for Film Archives 1991, 5.3.4.2.
+[^4]: The V-ISAN represents the third segment of the ISAN number, which consists of a 96-bits number structured as follows: the first is the root, which identifies the work, the second is the episode section, which identifies the part within a multi-part work, the third is the so-called version section, which identifies Variants and Manifestations (particularly as far as format changes and “media embodiments”, such as Blu-Ray, digital files, tapes, etc.., are concerned): see [http://www.isan.org/docs/isan_user_guide.pdf](http://www.isan.org/docs/isan_user_guide.pdf), Version 2.2.2. February 2012, 13/49.
 [^5]: DOI (= Digital Object Identifier): see [http://www.doi.org/](http://www.doi.org/).
 [^6]: This definition from Academy Film Archive in-house glossary of terms, and OLAC, Moving Image Works, Part 3a: Operational Definitions (08/09) (PDF Document), [https://web.archive.org/web/20110702223309/http://olacinc.org/drupal/capc_files/MIW_3a.pdf](https://web.archive.org/web/20110702223309/http://olacinc.org/drupal/capc_files/MIW_3a.pdf).
 [^7]: OLAC, Moving Image Works, Part 3a: Operational Definitions (08/09) (PDF Document), [https://web.archive.org/web/20110702223309/http://olacinc.org/drupal/capc_files/MIW_3a.pdf](https://web.archive.org/web/20110702223309/http://olacinc.org/drupal/capc_files/MIW_3a.pdf).
@@ -544,9 +544,9 @@ Dates and country of Manifestation are not elements of a Manifestation under EN 
 [^12]: RDA 7.17.3 Colour of Moving Image
 [^13]: AMIM2, 5B5, p.9
 [^14]: RDA: 3.4.0.4
-[^15]: Based on FIAF 1991, 5.3.4.2.
+[^15]: Based on FIAF Cataloguing Rules for Film Archives 1991, 5.3.4.2.
 [^16]: Definition of “Stretch frame” taken from: [http://www.nfsa.gov.au/preservation/glossary/stretch-frame](http://www.nfsa.gov.au/preservation/glossary/stretch-frame).
-[^17]: Adapted from FIAF 5.3.4.2.
+[^17]: Adapted from FIAF Cataloguing Rules for Film Archives 1991 5.3.4.2.
 [^18]: Based on RDA 2.20.1.Basic Instructions on Making Notes on Manifestations or Items
 [^format_standard]: EN 15907:2010, §6.7, Format. Carrier type and Gauge are elements within its broader Format description, alongside aspect ratio, sound system, and colour; this is a correspondence, not an assertion of identical scope.
 [^format_history]: See the first edition of [The FIAF Moving Image Cataloguing Manual (2016)](https://www.fiafnet.org/images/tinyUpload/E-Resources/Commission-And-PIP-Resources/CDC-resources/20160920_Fiaf_Manual-WEB.pdf), §§2.3.4.1.1–2.3.4.1.2 (Manifestation) and §§3.1.5.1.1–3.1.5.1.2 (Item), General Carrier Type and Specific Carrier Type.

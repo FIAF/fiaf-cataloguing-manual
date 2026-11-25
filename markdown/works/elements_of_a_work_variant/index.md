@@ -84,7 +84,7 @@ Generally, it is the title of a moving image Work when first released, broadcast
 It may differ from the title found on a particular manifestation of the Work; the actual title on the Manifestation is noted in the Manifestation Title element (see [Title](../../manifestations/elements_of_a_manifestation/index.md#sec-manifest_title)).
 See [Title Type](../../titles/title_types/index.md#sec-title_types)) for additional information.
 
-For creating titles for untitled or unidentified entities see [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](../../titles/supplied_devised_titles/index.md#sec-supplied_devised_titles).Television programmes and other types of content that are part of a series/serial should have both the series/serial title and the episode title included in the Work record.
+For creating titles for untitled or unidentified entities see [Supplied/Devised Titles (i.e. Creating titles for untitled/unidentified entities or production material)](../../titles/supplied_devised_titles/index.md#sec-supplied_devised_titles). Television programmes and other types of content that are part of a series/serial should have both the series/serial title and the episode title included in the Work record.
 This may be via use of a “Title type” qualifier.
 See [Titles and structuring of series/serials](../../titles/series_serials/index.md) for other options.
 
@@ -152,7 +152,7 @@ When more than one place is associated with a Work, choose the place(s) with pri
 
 For institutions who need or require specific ordering of country of reference then the following options are possible examples of how this may be achieved.[^3]
 
-If the Work is a multi-national production, the countries added to the record should be in order of financial involvement.
+If the Work is a multi-national production, the countries added to the record could be in order of financial involvement.
 For example, an Austrian/Italian/French co-production where the Austrian production company/sponsors financed 60%, the Italian 25% and the French 15% then the order of the countries would be: Austria, Italy, France.
 
 If it is not possible to establish clearly the financial percentages of each country’s involvement, then consider the nationality of the director of the title and/or the majority of personnel involved with the film and select that as being the main country of origin of the film.
@@ -372,7 +372,7 @@ Write a concise, objective, non-critical summary of the content of the moving im
 Content descriptions can be synposes, brief TV guide-like one sentence description, shotlists, etc. There can be more than one type of content description in the record, e.g. it is possible to have both a shotlist and a synopsis.
 
 The content description should be written in a style that is easy to read.
-It should not include technical terms, abbreviations, or allusions significant to a specialist audience.
+It should not include technical terms, abbreviations, or allusions significant to a specialist audience, unless necessary.
 Avoid slang expressions and colloquialisms fashionable at the time of writing,and, where several cataloguers are viewing independently, they should, ideally, try to achieve a common written style.
 Descriptions should be objective and not include subjective commentary on the quality of the content.
 If acceptable summaries are already available in secondary sources, cataloguers may use these, instead of taking the time to prepare summaries of their own. If using summaries exactly as written, put the summary in quotes and note the source of the summary.[^11]
@@ -384,7 +384,7 @@ For systems depending on keyword searching rather than using subject terms, syno
 !!! example "Example"
     An historical drama set in 16th century England in which King Henry VIII divorces his wife, Catherine of Aragon, and marries Anne Boleyn, a former lady-in-waiting, who is in love with Sir Thomas Wyatt. After several years, Henry becomes infatuated with Lady Jane Seymour and arranges to have the innocent Anne found in a compromising situation with Sir Thomas. Anne is tried for infidelity, found guilty, and executed.
 
-!!! example "Example"
+!!! example "Example" 
     Donald Graham, millionaire ex-convict, plans revenge on society figure John Cabin Brand, whom he blames for the death of his daughter.
 
 A content description may also be a shotlist or listing of the contents of an aggregate Work (see [Aggregates (Compilations, Multi-component productions)](../../aggregates/types_of_moving_image_aggregates/index.md#sec-collection_aggregates)). Shotlists are the ideal content description to have or aim to have, particularly for non-fiction moving images, but it is recognised that resources and accessibility mean this is not always possible or practical for an archive or institution.[^12]
@@ -430,13 +430,13 @@ Stylistics of shotlists can vary between institutions, with some including both 
 !!! example "Example" 
     Title: The fair city of Udaipur (Secrets of India), 1934.
      
-    BBFC certificate (13). Series and main title (36). Credits (54). Map showing
-    the location of the city (72). XLS through a grove of palm trees of the city.
+    BBFC (British Board of Film Censors) certificate (13). Series and main title (36). Credits (54). Map showing
+    the location of the city (72). XLS (Extra Long Shot) through a grove of palm trees of the city.
     The commentary outlines the tradition and role of the Maharana of Udaipur
     (112). Pan from roof top of palace of the city (158). The Elephant Gate to the
     city (170). Main street scenes (240). An elephant outside the Temple of
-    Juggernaut (262). CU of the details of the temple (292). Steps to the temple
-    (307). MS of carved elephant (324). Holy men at the foot of the temple -
+    Juggernaut (262). CU (Close up) of the details of the temple (292). Steps to the temple
+    (307). MS (Medium shot) of carved elephant (324). Holy men at the foot of the temple -
     referred to as Sadoos (354). The market at the foot of the temple (372). A man
     sharpens a sword on a lathe which is operated by a woman pulling on a leather
     belt (446). Further street scenes (468). CU of silverwork (496). CU of a
@@ -446,14 +446,14 @@ Stylistics of shotlists can vary between institutions, with some including both 
     area resting with stacks of hay brought into the city to sell. The women are
     referred to as "Beels" (?) (657). Lake Pichola viewed from the Palace (677).
     Travelling shot along the banks showing men bathing and children playing
-    (727). LS of a waterseller refilling his buckets (747). LS of the Summer
+    (727). LS (Long shot) of a waterseller refilling his buckets (747). LS of the Summer
     Palace on the lake (760). XLS of the city seen through the grove of palms; a
     herd of camels pass (800ft).
 
 
 The content description can be based on a viewing of the work, accompanying documentation, or secondary sources, but the source should be clearly noted.
 
-For unedited Works, where time and resources permit, each scene should be summarized.
+For unedited Works, where time and resources permit, each scene should be summarised.
 If there are shots of particular significance or interest – of, for example, prominent people or places – these should be recorded.
 Otherwise a general description of scenes and sequences will suffice[^13].
 
@@ -635,9 +635,7 @@ When considering the assigning of subject terms to a moving image Work record th
 
 EN15744 advocates that all Works should have at least one subject term as a minimum.
 
-But it is up to each institution to decide the depth and level of subject indexing, and whether it catalogues according to the principle of capturing just what is seen, or just what it is about. The ideal is to have both elements:
-
-“one must try to capture what is seen onscreen as well as what the images are about conceptually.” (NB.Olwen Terris - cite source in footnote
+But it is up to each institution to decide the depth and level of subject indexing, and whether it catalogues according to the principle of capturing just what is seen, or just what it is about. The ideal is to have both elements and capture what is seen onscreen as well as what the images are about conceptually.  
 
 Decisions will depend on resources, technologies, an institution’s requirements and user needs, etc.  Some may choose to apply different levels and balances of these two **of** and **about** elements depending on whether the moving image is fiction or non-fiction. Footage libraries, for example, may be more likely to concentrate on **of** elements, but other archives may prefer to focus on **about** subjects. 
 
@@ -656,12 +654,12 @@ Subject terms *Car chases*, *Paris*, *Motorways*, *Guns*, *Fights*, *Surveillanc
 
 The content description/synopsis of a Work can be used to highlight factors that may be prominent but not core in the storyline. 
 
-Similarly, The Bourne Ultimatum (USA, 2007)could have the same subjects as above, plus *Manhunts* since a central part of the storyline of this film is the government agency's hunt for Jason Bourne to try and eliminate him. It could also possibly include *CIA* as well as the thread running through the film is that CIA personnel are both hunting Bourne and trying to find out about the earlier covert operations/organisations.
+Similarly, The Bourne Ultimatum (USA, 2007) could have the same subjects as above, plus *Manhunts* since a central part of the storyline of this film is the government agency's hunt for Jason Bourne to try and eliminate him. It could also possibly include *CIA* as well, since the thread running through the film is that CIA personnel are both hunting Bourne and trying to find out about the earlier covert operations/organisations.
 
 It is for the Cataloguer to assess and judge whether to include place as a subject term in the record.
 In order to establish whether place is a core subject to include in subject cataloguing or not you would need to assess the significance of place within the storyline and themes of the moving image and whether it is integral to these or incidental.
 
-For example, in the film Brighton Rock (UK, 1948) the place of Brighton is integral to the story – it is about gangsters in the English seaside town of Brighton and that is where the whole story is set. However, in the comedy film  Carry On at Your Convenience (UK, 1971), which contains scenes of a works outing to the seaside (which just happens to be Brighton) it is not integral – it simply features in one bit of the storyline. 
+For example, in the film Brighton Rock (United Kingdom, 1948) the place of Brighton is integral to the story – it is about gangsters in the English seaside town of Brighton and that is where the whole story is set. However, in the comedy film Carry On at Your Convenience (United Kingdom, 1971), which contains scenes of a factory works outing to the seaside (which just happens to be Brighton) it is not integral – it simply features in one bit of the storyline. 
 
 Place is more likely to be a core subject term in cataloguing non-fiction moving images. For example, Bunkar: The Last of the Varanasi Weavers (India, 2018) is a documentary that focuses on the lives of the weavers of Varanasi in Uttar Pradesh. Gulabi Gang (India, 2014) is about a women’s movement standing against gender violence and caste oppression, but the geographical place Bundelkhand is also relevant to add as a subject term both for context and because there are shots of the area in the film.
 
@@ -758,12 +756,12 @@ According to the 2004 law, the biggest part of the cast and crew, the locations,
 [^200]: SSRs were often officially formed on different dates between 1918 and the 1930s, and there were also often subsequent boundary changes between them. For further exploration of this see ADD LINK TO CDC FIAF website Ukraine document if latter has been enhanced with additional details
 [^6]: EN 15907, 6.6 Year of Reference, p. 20
 [^7]: Irish Film Archive, p. 13.
-[^8]: FIAF, 3.5.4, p. 64
+[^8]: FIAF Cataloguing Rules for Film Archives (1991), 3.5.4, p. 64
 [^9]: Adapted from YCR, 1.2.16 Summary of genre, form, and subject matter of work, p. 38.
 [^10]: The indication of “original” values at the Manifestation level follows EN 15907 attributes of a Manifestation, pp. 10-11
-[^11]: FIAF 7.2.12. Summary
-[^12]: FIAF 7.2.16. Contents
+[^11]: FIAF Cataloguing Rules for Film Archives (1991) 7.2.12. Summary
+[^12]: FIAF Cataloguing Rules for Film Archives (1991) 7.2.16. Contents
 [^13]: Irish Film Archive, p. 23.
 [^14]: EN 15907, 6.17.3 Elements, Description type, p. 30.
-[^15]: Based on RDA 2.20.1.Basic Instructions on Making Notes on Manifestations or Items
+[^15]: Based on RDA 2.20.1.Basic Instructions on Making Notes on Manifestations or Items  
 [^16]: EN 15907, 6.13 Decision event, pp. 26-27.

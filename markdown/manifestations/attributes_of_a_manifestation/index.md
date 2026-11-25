@@ -70,7 +70,7 @@ As mentioned previously, some of these could also be achieved by creating separa
     Pre-release, Censorship cuts – 35mm – sound positive – 1,37: 1 – black and white  
 
 !!! example "Example"  
-    Work: La voce del silenzio (Italy, 1953, Georg Wilhelm Pabst)  
+    Work: La voce del silenzio (Italy, 1953. Georg Wilhelm Pabst)  
     Manifestation1: Pre-release (censorship cuts) – Film – 35mm – sound positive – 1,37:1 – black and white  
 
 <a id="sec-theatrical_distribution"></a>
@@ -80,7 +80,7 @@ A moving image Manifestation type representing Manifestations distributed and ex
 These Manifestation types can be more than one instance, created at the same time or in a different moment, from the same “reproduction” masters.
 
 !!! example "Example"  
-    L’aigle à deux têtes (France, 1948, Jean Cocteau)  
+    L’aigle à deux têtes (France, 1948. Jean Cocteau)  
 
     Manifestation 1 : Theatrical distribution (France – 1948 – 22/09/1948 – first projection) – 35mm French – Les Films Ariane (producer, distributor)  
     Manifestation 2 : Home Video Publication (France – 2010) – TF1 Vidéo (Boulogne-Billancourt) (publisher)  
@@ -96,7 +96,7 @@ If required there are also further sub-categories of Theatrical distribution whi
 A moving image Manifestation screened or exhibited outside the public theatrical context. For example, industrial film, training film, medical film, where screening often takes place within a private institutional context; film club screenings; educational screenings.
 
 !!! example "Example"  
-    The Queen (United Kingdom, 2006, Stephen Frears)  
+    The Queen (United Kingdom, 2006. Stephen Frears)  
     Variant: Censored for airplanes (UK and USA?)  
     Manifestation: Non-theatrical distribution (USA – Delta Airlines).  
 
@@ -125,7 +125,7 @@ Any moving image Manifestation where the viewing activity was private, due to th
     Manifestation 1 (Original): Not for release – MiniDV – 2004 – Italy –CSC-Cineteca Nazionale  
 
 !!! example "Example"  
-    Viaggio in Congo (Italy, 1912, Guido Piacenza) shots not edited)  
+    Viaggio in Congo (Italy, 1912. Guido Piacenza) shots not edited)  
     Augmented / Preservation Variant – (ordering of the shots and addition of explaining intertitles based on the personal diary records of the director) (ordering and editing, including new explaining intertitles, based on personal diary records of the director)  
     Manifestation 1: Not for release (archival access) – film 35mm – b/n – silent  
 
@@ -134,11 +134,11 @@ Any moving image Manifestation where the viewing activity was private, due to th
 Refers to Manifestations which do not represent a release/distribution event, but where the work was intended for release (therefore, distinct from “Not for release”, see above), e.g. the film was made, completed and intended for release, but was not then released due to censorship or political impediments, or other reason.
 
 !!! example "Example"  
-    Robinson Warszawksi (Poland, 1948, Jerzy Zarzycki)  
+    Robinson Warszawksi (Poland, 1948. Jerzy Zarzycki)  
     Film was never released. It ran into censorship problems for portraying the heroism of a non-Communist underground movement that also fought against the Nazis. Film was re-edited with major plot changes and released as Miasto Nieujarzmione in 1950.  
 
 !!! example "Example"  
-    Primavera (Italy, ca. 1920, Licurgo Tioli) (Italian silent film, which is not included in the censorship records and according to the sources, was never released/distributed, but it exists as a nitrate tinted 35mm print at the CSC-Cineteca Nazionale in Rome).  
+    Primavera (Italy, ca. 1920. Licurgo Tioli) (Italian silent film, which is not included in the censorship records and according to the sources, was never released/distributed, but it exists as a nitrate tinted 35mm print at the CSC-Cineteca Nazionale in Rome).  
 
 <a id="sec-home_viewing_publication"></a>
 ### Home viewing publication
@@ -152,11 +152,11 @@ The most used formats are VHS, DVD, and Laserdisc, but this definition can also 
 NOTE: When the production process involves changes related to the publication, marketing, etc. (e.g., a change in publisher, a repackaging, a new distributor and so on), the resulting product may be considered a new Manifestation as well (see [Boundaries between Manifestations](../../boundaries/boundaries_between_manifestations/index.md)).
 
 !!! example "Example"  
-    Fellini Satyricon (Italy, 1969, Federico Fellini)  
+    Fellini Satyricon (Italy, 1969. Federico Fellini)  
     Manifestation 1: Home Video Publication – VHS (Italy – 1987 – De Laurentiis/ Ricordi Video (publisher)  
 
 !!! example "Example"  
-    The Queen (United Kingdom, 2006, Stephen Frears)  
+    The Queen (United Kingdom, 2006. Stephen Frears)  
     Manifestation 1: Theatrical distribution (UK – 2006 – first projection) – 35mm – English  
     Manifestation 2: TV Broadcast (UK 2007-09-02)  
     Manifestation 3: Home video – DVD (UK distribution – 2007-03-12)  
@@ -171,12 +171,12 @@ A moving image Manifestation type for TV transmission. It encompasses profession
     Manifestation 1: TV Broadcast (Peru 2009-03-30, 20:00-21:00, América Televisión)  
 
 !!! example "Example"  
-    It happened one night (United States of America, 1934, Frank Capra)  
+    It happened one night (United States of America, 1934. Frank Capra)  
     Manifestation 1: Theatrical distribution (United States of America, 1934): 35mm – black and white – 105 minutes – Columbia Pictures Corp. (producer, distributor)  
     Manifestation 2: Broadcast (broadcast on Turner Classic Movies – 2013-11-01, 08:00) black and white – mono – 105 minutes.  
 
 !!! example "Example"  
-    Lazarus rising, (in the series Supernatural), Season 4 Episode 1 (United States of America, 2008, Kim Manners)  
+    Lazarus rising, (in the series Supernatural), Season 4 Episode 1 (United States of America, 2008. Kim Manners)  
     Manifestation 1: TV Broadcast (USA 2008-09-18, 21:00-21:55, The CW) colour – stereo – 55 minutes (slot); 40 minutes (actual running time)  
     Manifestation 2: TV Broadcast (UK, 2009-01-25, 21:00-22:00, ITV2) colour – stereo – 60 minutes (slot); 40 minutes (actual running time)  
 
@@ -185,34 +185,34 @@ A moving image Manifestation type for TV transmission. It encompasses profession
 A moving image Manifestation distributed on the Internet (stream or download) for works of any type, those conceived as Internet works or those conceived in other type but subsequently distributed on the internet (for free or paid subscription).
 
 !!! example "Example"  
-    Amor pedestre (Italy, 1914, Marcel Fabre)  
+    Amor pedestre (Italy, 1914. Marcel Fabre)  
     Manifestation 1: Theatrical distribution – Italian intertitles – film – 35mm – silent – tinted – 1914 – Italy  
     Manifestation 2: Internet – digital file – [201-?] – Cineteca Italiana (internet publisher)  
 
 !!! example "Example"  
-    A film Johnnie (United States of America, 1914, George Nichols)  
+    A film Johnnie (United States of America, 1914. George Nichols)  
     Translated Variant: Danish intertitles -35mm silent – tinted – Denmark 191[?] -Title: Chaplin fridsstöraren  
     Preservation Variant: (of Translated Variant)  
     Manifestation 1: Internet – digital file – [201-?] – European Film Gateway (internet publisher)   http://www.europeanfilmgateway.eu/it/node/33/detail/A+film+Johnnie/video:MTU4Yzg1OWUtZGJhZC00ZGUxLTg2MWYtZDEyM2Y0YTA3ODQ0X1VtVndiM05wZEc5eWVWTmxjblpwWTJWU1pYTnZkWEpqWlhNdlVtVndiM05wZEc5eWVWTmxjblpwWTJWU1pYTnZkWEpqWlZSNWNHVT06OmF2Q3JlYXRpb24uZGZpLmRrL0RGSV9hdkNyZWF0aW9uXzQwNjM0/paging:dmlkZW8tMS00LWltYWdlLTEtNC1zb3VuZC0xLTQtcGVyc29uLTEtNC10ZXh0LTEtNA== 13’)  
 
 !!! example "Example"  
-    Brennende Grenze (Germany, 1926-27, Erich Waschneck)  
+    Brennende Grenze (Germany, 1926-27. Erich Waschneck)  
     Manifestation 1: Internet –digital file – [200-?] –Deutsches Filminstitut – DIF (internet publisher) http://www.filmportal.de/node/42289/video/1219949 – 2h 26’ 18’’  
 
 !!! example "Example"
-    Hollywood Stadium mystery (USA 1938, David Howard )  
+    Hollywood Stadium mystery (United States of America, 1938. David Howard )  
     Manifestation 1: Theatrical distribution – English (spoken language) – film – 35mm b/n – 1938 -USA  
     Manifestation 2: Internet – digital file – 619.3 MB – [200-?] – United States of America – archive.org (internet publisher)    
     Manifestation: Internet – digital file – 512Kb MPEG4 – [200-?] – United States of America – archive.org (internet publisher)  
 
 !!! example "Example"  
-    Cat-Women of the Moon (United States of America, 1953, Arthur Hilton)  
-    Manifestation 1 : Theatrical distribution: English (spoken language) – film – 35mm – b/n – 1953 – USA  
+    Cat-Women of the Moon (United States of America, 1953. Arthur Hilton)  
+    Manifestation 1 : Theatrical distribution: English (spoken language) – film – 35mm – b/w – 1953 – USA  
     Manifestation 2: Internet – English (spoken language) digital file – DivX – [200-?] – United States of America; – 442.1 MB  
     Manifestation 3: Internet – English (spoken language) – digital file – 512Kb MPEG4 – [200-?] – United States of America; – 259.6 MB  
 
 !!! example "Example"  
-    A Syrian love story (United Kingdom, Sweden, Denmark, 2015, Sean McAllister)  
+    A Syrian love story (United Kingdom/Sweden/Denmark, 2015. Sean McAllister)  
     Manifestation 1: Theatrical distribution: Arabic, English, French (spoken language); English subtitles – Digital – Digital Cinema Package (DCP) – colour – 2015-09-18 – United Kingdom  
     Manifestation 2: Internet: Arabic, English, French (spoken language); English subtitles – digital file  
 
@@ -223,7 +223,7 @@ Refers to manifestations which represent the outcome(s) of an institution’s in
 <a id="sec-restoration"></a>
 ### Restoration
 Refers to manifestations which represent the outcome(s) of restoration events/activities, usually involving selection and aggregation of materials from diverse source elements to replicate an ‘original’ or ‘ideal’ manifestation.
-Some institutions may use this to refer to restorations undertaken by the institution (not to be confused with the actual published Variant, resulting from reconstruction made by aggregating different sources, see [Boundaries between Works and Variants](../../boundaries/boundaries_between_works_and_variants/index.md).
+Some institutions may use this to refer to restorations undertaken by the institution (not to be confused with the actual published Variant, resulting from reconstruction made by aggregating different sources), see [Boundaries between Works and Variants](../../boundaries/boundaries_between_works_and_variants/index.md).
 
 If required there is the option of creating more than one Restoration Manifestation to group specific outcomes of the project, e.g. a Manifestation for a Demonstration Reel, Raw scans, final digital DCP and DCDM materials resulting from the restoration process, etc. particularly where there may be several Items, or copies, relating to these on different formats.
 
@@ -236,7 +236,7 @@ A very ambitious application might result in the following structure, where sepa
 
 Each of these Manifestations differs from the others in terms of its technical parameters (e.g., encoding, resolution, compression, file formats), which justifies the separation into different Manifestations.
 
-For a more detailled discussion of the term restoration see also the [Appendix](../../restorations/index.md).
+For a more detailed discussion of the term restoration see also the [Appendix](../../restorations/index.md).
 
 !!! example "Example"
     The great white silence (United Kingdom, Herbert Pointing, 1924) (DVD –Dual Format Edition – BFI) (2010 restoration)

@@ -24,18 +24,18 @@ These do not relate to the initial illustrative colour codes used in examples 1 
 | Written by | Williams, John |
 | Written by | Hopewell, Chris |
 | Adapted from ‘The Brag of the Subgenius’ by | Stang, Ivan |
-| Digital Composition \ | Animation | Ternan, Melvyn |
-| Digital Composition \ | Animation | Foley, Ben |
-| Digital Composition \ | Animation | Hopewell, Chris |
-| CGI Models \ | Animation | Ravenstein, Claudia “Fybs” |
-| CGI Models \ | Animation | Harrington, Ryan |
-| CGI Models \ | Animation | Harrington, Lewis |
+| Digital Composition & Animation | Ternan, Melvyn |
+| Digital Composition & Animation | Foley, Ben |
+| Digital Composition & Animation | Hopewell, Chris |
+| CGI Models & Animation | Ravenstein, Claudia “Fybs” |
+| CGI Models & Animation | Harrington, Ryan |
+| CGI Models & Animation | Harrington, Lewis |
 | 2D Graphic Artists | Kaos |
 | 2D Graphic Artists | Hopewell, Chris |
 | 2D Graphic Artists | Chevrier, Sandrine |
 | 2D Graphic Artists | Fell, Curtis |
 | 2D Graphic Artists | Bailey, Lynn |
-| CGI Models \ | Animation | Smith, James |
+| CGI Models & Animation | Smith, James |
 | Sound Design | Williams, John |
 | Sound Effects | Brandt, Peter |
 | Sound Effects | Lea, David |

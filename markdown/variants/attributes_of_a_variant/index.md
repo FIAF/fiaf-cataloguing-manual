@@ -24,8 +24,8 @@ A change in colour, which is a physical property, expresses a different Manifest
 **Censored Variant**
 
 !!! example "Example"  
-    It's a wonderful life (USA, 1946. Frank Capra)      
-    Qué bello es vivir! (Censored Variant: Spain, 1948. 7 minutes shorter due to censorship cuts removing scenes relating to     positive mention or depiction of housing co-operatives, deemed subversive by the Franco government)  
+    It's a wonderful life (USA, 1946. Frank Capra)        
+    Qué bello es vivir! (Censored Variant: Spain, 1948). 7 minutes shorter due to censorship cuts removing scenes relating       to positive mention or depiction of housing co-operatives, deemed subversive by the Franco government)    
 
 !!! example "Example"  
     Saturday Night Fever (USA, 1976) (119 minutes, R (Restricted) certification)    
@@ -35,7 +35,7 @@ A change in colour, which is a physical property, expresses a different Manifest
 **Dubbed Variant**
 
 !!! example "Example"  
-    Work Title: Jour de fête (Tati, Jacques, 1947, FR)     
+    Work Title: Jour de fête (France, 1947. Jacques Tati)       
     Variant Title: Het is feest vandaag (Dubbed version 1964, dubbed in Dutch)    
     Variant Title: Tatis Schützenfest (Dubbed version 1964, dubbed in German  )
 
@@ -49,7 +49,7 @@ A change in colour, which is a physical property, expresses a different Manifest
 
 !!! example "Example"  
     Work Title: Newfoundland - Atlantic province (Canada, 1949. Sydney Newman. Running time: 18 minutes)   
-    Variant Title: Inside Newfoundland (Canada, 1949, Sydney Newman. Running time: 11 minutes)  
+    Variant Title: Inside Newfoundland (Canada, 1949. Sydney Newman. Running time: 11 minutes)  
 
 **Augmented Variant**
 
@@ -100,7 +100,7 @@ For a more detailled discussion of the term restoration see also the [Appendix](
 !!! example "Example"  
     Work Title: Derry Girls (TV series, Season 1 first broadcast in the UK on Channel 4 2018-01-04 to 2018-02-08)  
     Variant Title: Derry Girls (TV series, Season 1 broadcast on Netflix in USA from 2018-12-21)  
-    There were sometimes different pieces of music and songs used on the soundtrack of USA and international broadcasts of       episodes of the series. This was due to music licensing and rights whereby the original songs used were licensed to          Channel 4's broadcasts in the United Kingdom and Ireland.
+    There were sometimes different pieces of music and songs used on the soundtrack of USA and international broadcasts of       episodes of the series. This was due to music licensing and rights whereby the original songs used were licensed solely      to Channel 4's broadcasts in the United Kingdom and Ireland.
 
 !!! example "Example"  
     Work Title: My Sister's Husband (Nigeria, 2021. Emeka Madu. Original language - English)  

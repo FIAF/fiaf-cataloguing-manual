@@ -74,13 +74,13 @@ This may be via use of a “Title type” qualifier.
 
     The Scarlet Flower – Variant title – Dubbed (English)
 
-See [Titles and structuring of series/serials](../../titles/series_serials/index.md#sec-titles_of_series_serials) [NEEDS RELINKING AS THIS CHAPTER HAS MOVED AND IS NO LONGER IN APPENDICES - ALSO ADD SECTION NUMBER] for some other Variant titling examples.
+See [Titles and structuring of series/serials](../../titles/series_serials/index.md#sec-titles_of_series_serials) for some other Variant titling examples.
 
 <a id="sec-country_of_reference"></a>
 ## Country of Reference
 Where known and applicable, record the geographic origin of the Variant.
 
-This may differ from that of the original Work, for example, a Restored version of a film created by archives from different countries. Thus Kevin Brownlow's 1980 Restoration Variant of the original Work Napoléon (France, 1927. Abel Gance) would have United Kingdowm as country of reference.
+This may differ from that of the original Work, for example, a Restored version of a film created by archives from different countries. Thus Kevin Brownlow's 1980 Restoration Variant of the original Work Napoléon (France, 1927. Abel Gance) would have United Kingdom as country of reference.
 
 Where an official national certificate or designation of a Work exists, use this as the authoritative source, e.g., Italian government department designates what is officially an Italian film.[^3]
 When more than one place is associated with a Variant, choose the place(s) with primary importance.
@@ -98,13 +98,16 @@ In the absence of a clear release or broadcast date, provide a year of creation 
 
 Record any dates associated with the Variants formatted according to [ISO 8601](https://www.iso.org/standard/40874.html) or other available resources, such as [EDTF](https://www.loc.gov/standards/datetime/) (Extended Date Time Format).
 ISO 8601 prescribes that dates should be formatted hierarchically as Year-Month-Day, using this convention: YYYY-MM-DD.
-Example: 2015-07-04.
-This structure eliminates confusion when dates can be formatted with month before day or day before month (e.g., 07/04/2015 or 04/7/2015).
+
+!!! example "Example"  
+    2015-07-04  
+
+This structure eliminates confusion when dates can be formatted with month before day or day before month (e.g., 07/04/2015 or 04/07/2015).  
 Using the ISO format makes indexing and sorting more efficient.
 Using words (June 11, 2004), while perhaps user-friendly in its narrative construction, are difficult to index as dates.
 Mixing date formats causes confusion in data retrieval and for users!
 
-Where full dates are not known use Year-Month YYYY-MM or just Year YYYY, as systems permit.
+Where full dates are not known use Year-Month (YYYY-MM) or just Year (YYYY), as systems permit.
 
 <a id="sec-date_type"></a>
 ### Date Type
@@ -130,7 +133,7 @@ Alternatively, such minor changes can constitute a new Manifestation of a moving
 Institutions using cataloguing structures that do not distinguish Variant level information (for example, those that create records primarily at the Manifestation level), should apply this alternative.
 (See guidelines for language in a Manifestation: [Language](../../manifestations/elements_of_a_manifestation/index.md#sec-manifest_language))
 
-Indicate the language(s) (e.g., Italian) and usage(s) (e.g., Italian intertitles) in which the moving image Variant/Manifestation is written, spoken or sung, if applicable.
+Indicate the language(s) (e.g., Italian) and usage(s) (e.g., Intertitles) in which the moving image Variant/Manifestation is written, spoken or sung, if applicable.
 More than one language can occur in different forms, depending on how the content is expressed (e.g., French dialogue and English subtitles).
 
 <a id="sec-language_term"></a>
@@ -173,7 +176,7 @@ See [LINK to WORK CHAPTER]
 
 <a id="sec-assigning_subject_terms"></a>
 ### Assigning Subject terms
-When considering the assigning of subject terms to a moving image Work record there are two main components to consider in making an intellectual assessment; the contexts of "about" and "of". See [LINK to WORK CHAPTER]
+When considering the assigning of subject terms to a moving image Work record there are two main components to consider in making an intellectual assessment; the contexts of what is seen onscreen as well as what the images are about conceptually. See [LINK to WORK CHAPTER]
 
 <a id="sec-notes"></a>
 ## Notes

@@ -74,11 +74,11 @@ Question: How to catalogue these Items?
 - Item 6: DCDM (Digital Cinema Distribution Master, made from the DSM).
 - Item 7: DCP (Digital Cinema Package, made from the DCDM).
 
-These descriptions distinguish objects in this particular workflow; they are not all Element Types. Record each object's [Element Type](elements_of_a_moving_image_item/index.md#sec-item_item_element_type) according to its intended function, and its file, image, or package formats separately. For example, the streaming copy has Element Type Digital access copy (aka Viewing copy). DCP identifies a package format; the DCP's Element Type depends on what it was made for, for example Digital access copy if it was made for the archive's own screenings, or Digital release if the restoration was made for distribution to cinemas. A raw scan is not automatically a preservation master solely because of its resolution or other technical characteristics.
+These descriptions distinguish objects in this particular workflow; they are not all Element Types. Record each object's [Element Type](elements_of_a_moving_image_item/index.md#sec-item_item_element_type) according to its intended function, and its file, image, or package formats separately. For example, the streaming copy has Element Type *Digital access copy* (aka *Viewing copy*). DCP identifies a package format; the DCP's Element Type depends on what it was made for, for example *Digital access copy* if it was made for the archive's own screenings, or *Digital release* if the restoration was made for distribution to cinemas. A raw scan is not automatically a preservation master solely because of its resolution or other technical characteristics.
 
 The DCDM and DCP are multi-file digital objects, not single files. The other Items may also comprise several files. Item-part descriptions follow the structure of the cataloguing system: a system using this level may describe even a single component in an Item-part record, while another system records the same information within the Item. This does not imply a record for every constituent file. The image and sound outputs may alternatively be described together as one Item where they are managed as a unit.
 
-Whereby:  
+In terms of linking and structuring:  
 
 -  the 5 reels of 35mm negative sound are the source for the 5 reel-length components of the raw soundtrack Item
 -  the 5 reels of 35mm negative image are the source for the 5 reel-length image sequences of the raw image Item
@@ -91,15 +91,15 @@ Whereby:
 Answer: One way to do it would be to link all the digital Items with the Manifestation associated with the source Item, and create the digital Items as shown below. The diagrams illustrate alternative associations with Manifestations. The Item-parts shown need not correspond to individual files: a reel-length image sequence or a digital package may comprise several files. The use of Item-part records depends on the cataloguing system.
 
 
-<br><center><object data="/diagrams/digit_item4dgrmsize.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+<br><center><object data="/diagrams/digit_item4dgrmsize.drawio.svg" type="image/svg+xml" width="110%"></object></center>
 
 Another, and more advisable way since this relates to a restoration project, would be to link all the new digital Items with a new Restoration type Manifestation, e.g.
 
-<br><center><object data="/diagrams/digit_item5a.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+<br><center><object data="/diagrams/digit_item5a.drawio.svg" type="image/svg+xml" width="110%"></object></center>
 
 Or even to create other additional new Manifestations with relevant types and link the various digital Items under these as appropriate, so that five Items are linked to a Restoration Manifestation, the DCP Item is linked to a Theatrical release Manifestation, and the digital access copy to an Internet Manifestation, e.g.
 
-<br><center><object data="/diagrams/digit_item7.drawio.svg" type="image/svg+xml" width="100%"></object></center>
+<br><center><object data="/diagrams/digit_item7.drawio.svg" type="image/svg+xml" width="110%"></object></center>
 
 There are multiple ways to structure and choose relevant types of Manifestations dealing with digitised and born-digital Items, depending on the cataloguing systems and requirements of your institution and the reasons for digitisation, i.e. whether for preservation, restoration, streaming, etc. This section is primarily aimed at showing how to create digital Items. For further information see [Manifestation Types](../manifestations/attributes_of_a_manifestation/index.md#sec-manifestation_type).
 
@@ -150,5 +150,5 @@ As the srt files are literally just the subtitles for the film and do not includ
 
 Relating Items in this way is covered in [Other Relationships for Items](../other-relationships/other_relationships_for_works_variants_manifestations_items/index.md#sec-item_other_relationship_types).
 
-[^1]: Item-parts (for example, the individual reels, tapes, or files that make up an Item) are referred to by institutions as Carriers, Components, Parts, or Containers, with varying meanings. EN 15907 refers to physical carriers, but since some institutions also use Carriers for the film can, tape box, or other storage container, and since terminology varies so much, this manual uses the descriptive term Item-parts for components of an Item, distinguishing these from physical storage containers. A digital component may comprise a single file or a related group of files; it is not defined by the internal streams or tracks within a file.
+[^1]: Item-parts (for example, the individual reels, tapes, or files that make up an Item) are often referred to by institutions as Carriers, Components, Parts, or Containers, with varying meanings. EN 15907 refers to physical carriers, but since some institutions also use Carriers for the film can, tape box, or other storage container, and since terminology varies so much, this manual uses the descriptive term Item-parts for components of an Item, distinguishing these from physical storage containers. A digital component may comprise a single file or a related group of files; it is not defined by the internal streams or tracks within a file.
 [^2]: EN 15907:2010 defines a digital Item in terms of the availability of a computer file, irrespective of backup copies. This manual develops that guidance to accommodate multi-file digital objects as well as single files.
