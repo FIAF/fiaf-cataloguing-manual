@@ -38,15 +38,15 @@ A Restoration Manifestation may be used to group the resulting Items created as 
 
 Where a released restored version of a moving image is acquired, then the acquired Item would link to a relevant Theatrical, Home Viewing, or other relevant type of Manifestation, for example:
 
-<center><object data="/diagrams/resjaws1.drawio.svg" type="image/svg+xml" width="50%"></object></center>
+<center><object data="/diagrams/resjaws1.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 Or if Variants are not used then:
 
-<center><object data="/diagrams/resjaws2.drawio.svg" type="image/svg+xml" width="50%"></object></center>  
+<center><object data="/diagrams/resjaws2.drawio.svg" type="image/svg+xml" width="100%"></object></center>  
 
 Or where different copies of the same restored version are acquired:
 
-<center><object data="/diagrams/resjaws3.drawio.svg" type="image/svg+xml" width="50%"></object></center>  
+<center><object data="/diagrams/resjaws3.drawio.svg" type="image/svg+xml" width="100%"></object></center>  
 
 
 In systems with fewer descriptive levels, restoration materials may be described together in a record titled, for example, “Film title [Restoration Production Materials]”, with a reference or relationship to the film’s description. Such a record groups materials associated with the restoration project; its creation does not, by itself, mean that the restored film constitutes a new Work. Identify the individual materials and their relationships as the system permits. See also [Titles and structuring for production materials](../titles/production_materials/index.md).
