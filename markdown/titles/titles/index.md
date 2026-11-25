@@ -117,9 +117,19 @@ Where possible a word should be used as a substitute when creating the title if 
 See [Notes](../../variants/elements_of_a_variant/index.md#sec-notes).
 
 !!! example "Example"
-    I ❤️ Huckabees [Preferred/Title Proper] 
+    I ❤️ Huckabees 
+    
+    may have 
+    
+    I [heart shape] Huckabees [Preferred/Title Proper] 
+    I love Huckabees [Alternative or Non-preferred]  
 
-    I love Huckabees [Alternative or Non-preferred] 
+    Or 
+
+    I love Huckabees [Preferred/Title proper] 
+
+    with an explanatory description in a notes or Work history section that the on-screen title uesd a heart shape instead of the word "love"  
+    
 
 Moving images created for social media platforms and sites, e.g. YouTube, TikTok, etc. can often use mixtures of capitalisation and characters, symbols, and emojis in the titles given to them on their uploaded entries. Institutions are already starting to acquire materials from these sources, so should decide on the titling principles and stylistics they will follow and apply systematically.
 
