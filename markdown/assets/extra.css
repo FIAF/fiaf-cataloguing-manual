@@ -212,10 +212,17 @@
   height: 2rem;
 }
 
+/* Keep Material's laptop text size on wide screens. */
+@media screen and (min-width: 100em) {
+  html {
+    font-size: 125%;
+  }
+}
+
 /* Limit the line length on wider screens. */
 @media screen and (min-width: 60em) {
   .md-content__inner {
-    max-width: 72ch;
+    max-width: 89ch;
     margin-inline: auto;
   }
 }
