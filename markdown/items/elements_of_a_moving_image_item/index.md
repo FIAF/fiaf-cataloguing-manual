@@ -260,7 +260,7 @@ These groupings do not require separate database fields.
 ### Unit Number
 For full instructions see [Logical Extent of a Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-logical_extent_of_a_manifestation)
 
-The number of discrete logical units that make up the moving image Item. Item unit number(s) may differ from that of the associated Manifestation. The unit number in Manifestation relates to the ideal, whereas the Item unit number refers to the actual units held by the institution, e.g. an institution may have only acquired 3 reels of a 4-reel film.
+The number of discrete logical units that make up the moving image Item. Item unit number(s) may differ from that of the associated Manifestation. The unit number in Manifestation relates to the ideal, whereas the Item unit number refers to the actual units (aka Item-parts) held by the institution, e.g. an institution may have only acquired 3 reels of a 4-reel film.
 
 For digital objects, state what is being counted. Six reel-length image sequences may be described as six components while comprising thousands of files. File counts, where recorded, should be distinguished from component counts; neither count requires separate records for every unit. See [Moving Image Items](../index.md#sec-moving_image_items) for optional Item-part descriptions.
 
