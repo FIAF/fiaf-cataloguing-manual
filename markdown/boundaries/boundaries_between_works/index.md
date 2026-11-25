@@ -8,9 +8,9 @@ Variations in information describing the Work result in Variants or Manifestatio
 
 The boundaries between one Work and another (i.e where a new Work would be created rather than a Variant) are drawn on the basis of the following alterations to the content.[^1]
 
-## Change in footage and/or changes in continuity (primary editing)
+## Change in footage and/or changes in continuity (primary editing)[^2]
 
-*Remakes of the same story/plot. Secondary editing results in a Variant.*
+*Remakes of the same story/plot*
 
 !!! example "Example"
     The man who knew too much (UK, 1934, Alfred Hitchcock) 
@@ -89,7 +89,7 @@ sometimes with different casts.*
 
     Macbeth (USA, 1916. Director - John Emerson; production company - D.W.Griffith; cast - Herbert Beerbohm Tree, Constance Collier)  
     Macbeth (United Kingdom, 1979. Director - Philip Casson; production company - Thames Television; cast - Ian McKellen, Judi Dench)  
-    Macbeth (France, United Kingdom, Luxembourg, 2015. Director - Justin Kurzel; production company - See-Saw Films ; cast - Michael Fassbinder, Marion Cotillard)
+    Macbeth (France/United Kingdom/Luxembourg, 2015. Director - Justin Kurzel; production company - See-Saw Films ; cast - Michael Fassbinder, Marion Cotillard)
 
 If much of the original textual or spoken word material remains, most of the original footage remains in roughly the same continuity, however abridged, and substantially most of the contributors are the same, the existence of alterations more often than not constitute a Variant, rather than a new Work.
 
@@ -125,4 +125,5 @@ The same applies in instances where a film was originally made and designed to b
 
     Der Film von Königin Luise, 1., 2., und 3. Teil (Germany, 1922) (79 minutes)  
     
-[^1]: The types of alterations given here are adapted from Yee, “The Concept of Work for Moving Image Materials.”
+[^1]: The types of alterations given here are adapted from Yee, “The Concept of Work for Moving Image Materials.”  
+[^2]: Secondary editing results in a Variant/Manifestation
