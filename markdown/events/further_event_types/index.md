@@ -180,18 +180,19 @@ Any further information about the event either in plain textual form, or as an i
     Concursante (Spain, 2006. Rodrigo Cortés)  
     Production Event  
     Location: Madrid. Region: Spain         
-              Galicia. Region: Spain  
+    Location: Galicia. Region: Spain  
     Date start: 2005-11-10  Date end: 2005-12-21  
     Shooting dates  
 
 !!! example "Example"  
     Brideshead Revisited (UK/USA/Italy/Morocco, 2008. Julian Jarrold)  
     Location shooting. 2007/06-04 to 2007/08/20  
-    Location - Oxford (England)  
-               London (England)    
-               Venice (Italy)    
-               Bahia Palace, Marrakech (Morocco)  
-               Castle Howard, North Yorkshire (England)     
+    Location:  
+    Oxford (England)   
+    London (England)   
+    Venice (Italy)     
+    Bahia Palace, Marrakech (Morocco)    
+    Castle Howard, North Yorkshire (England)       
    
 
 <a id="sec-values_rights_copyright_ipr_registration"></a>
@@ -317,16 +318,14 @@ Record the outcome of the act of rating or censorship.
     Decision type: Revision  
     Date: 2010   
     Region: Democratic Republic of Congo  
-    Verdict: Authorized with Restrictions       
-             Adult/Restricted  
+    Verdict: Authorized with Restrictions; Adult/Restricted  
 
 !!! example "Example"  
     Film: จันดารา ปฐมบท (Jan Dara Pathom-bot) (Thailand, 2012. M.L. Pundhevanop Dheuwakal)  
     Decision type: Censorship  
     Date: 2012  
     Region: Thailand  
-    Verdict: 18+ (for theatrical)     
-             20+ (for Uncut disc version)    
+    Verdict: 18+ (for theatrical); 20+ (for Uncut disc version)      
   
 
 <a id="sec-manufacture"></a>
