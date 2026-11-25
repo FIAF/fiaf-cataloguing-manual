@@ -29,7 +29,7 @@ A change in colour, which is a physical property, expresses a different Manifest
 
 !!! example "Example"  
     Saturday Night Fever (USA, 1976) (119 minutes, R (Restricted) certification)    
-    Saturday Night Fever (USA, 1979 (c.109 minutes, PG (Parental Guidance) certification. Muted/dubbed out certain swearing      and edited out drug references, violence, and a rape scene).
+    Saturday Night Fever (USA, 1979) (c.109 minutes, PG (Parental Guidance) certification. Muted/dubbed out certain swearing      and edited out drug references, violence, and a rape scene).
 
 
 **Dubbed Variant**
@@ -78,7 +78,7 @@ It was common, especially in the silent film industry, to make different endings
 
 
 **Restoration Variant**
-For a more detailled discussion of the term restoration see also the [Appendix](../../restorations/index.md).
+For a more detailed discussion of the term restoration see also the [Appendix](../../restorations/index.md).
 
 !!! example "Example"  
     Work Title: Jaws (USA, 1975. Steven Spielberg)  
@@ -104,12 +104,12 @@ For a more detailled discussion of the term restoration see also the [Appendix](
 
 !!! example "Example"  
     Work Title: My Sister's Husband (Nigeria, 2021. Emeka Madu. Original language - English)  
-    Variant Title: Omusajja Wa Mwanniya (voice-over translation into Luganda by VJ (Video Jockey) Stevo, in a translation        track laid on top of the original audio, with the latter still audible).[^2]    
+    Variant Title: Omusajja Wa Mwanniya (Uganda, 2026) (voice-over translation into Luganda by VJ (Video Jockey) Stevo, in a     translation track laid on top of the original audio, with the latter still audible).[^2]    
 
 !!! example "Example"  
     Work Title: Princess Tyra (Ghana/Nigeria, 2007. Frank Rajah Arase. Original language - English)  
-    Variant Title: Princess Tyra (voice-over translation into Swahili by VJ Loba)  
-    Variant Title: Princess Tyra (voice-over translation into Luganda by VJ Stevo, released online via YouTube and Daily         Motion streaming channels)  
+    Variant Title: Princess Tyra (Uganda, after 2007) (voice-over translation into Swahili by VJ Loba)  
+    Variant Title: Princess Tyra (Uganda, 2025) (voice-over translation into Luganda by VJ Stevo, released online via            YouTube and Daily Motion streaming channels)  
 
 **Sonorised Variant**
 
@@ -126,8 +126,8 @@ For a more detailled discussion of the term restoration see also the [Appendix](
 **Monochromised**
 
 !!! example "Example"  
-    Work Title: Nightmare Alley (USA/Mexico/Canada, 2021. Guillermo del Toro) (Filmed and released in Colour)    
-    Variant Title: Nightmare Alley: Vision in Darkness and Light (USA/Mexico/Canada, 2022) (Black and white version of the       film)  
+    Work Title: Nightmare Alley (United States of America/Mexico/Canada, 2021. Guillermo del Toro) (Filmed and released in       Colour)    
+    Variant Title: Nightmare Alley: Vision in Darkness and Light (United States of America/Mexico/Canada, 2022) (Black and       white version of the film)  
 
 A Variant may have more than one type. For example, a Variant for a restoration of a film with new, or previously missing, intertitles with restored tinting or toning and an added music track featuring the original music composed for playing with the film. Or for a shortened, different format, black and white, dubbed version:
 
@@ -137,7 +137,7 @@ A Variant may have more than one type. For example, a Variant for a restoration 
     Variant characteristics: i) Digitally restored original German intertitles (including some previously missing); ii) new      added music track; iii) tinted  
 
 !!! example "Example"  
-    Work Title: Wet Paint (USA, 1946. Jack King)    
+    Work Title: Wet Paint (United States of America, 1946. Jack King)    
     Variant Title : Donald s'attendrit (France, c.1950)  
     Variant characteristics:  i) French language Version, ii) format specific 9.5mm Pathé Edition, iii) short version – 3        minutes –, iv)  black and white.  
 
