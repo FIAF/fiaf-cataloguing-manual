@@ -37,7 +37,7 @@ Below are some of the potential structuring options for the same production mate
 Where an institution acquires large collections or amounts of production materials associated with a moving image or moving image serial then a structure utilising a Collection level Work with multiple linked Monographic level Works is advisable (see [Work Description](../../works/attributes_of_a_moving_image_work_variant/index.md#sec-work_variant_description_type)). For example, the acquisition of a large quantity of production material associated with the 13-part television documentary series [Hollywood (United Kingdom, 1980)](https://en.wikipedia.org/wiki/Hollywood_(British_TV_series)), which can be structured with the Collection Work and Monographic Works in a hierarchical relationship, e.g.:
 
 
-<center><object data="/diagrams/title_type_05.drawio.svg" type="image/svg+xml" width="60%"></object></center>
+<center><object data="/diagrams/title_type_05.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 
 Or, optionally, with the Collection Work being in an associated relationship with each Monographic Work:
