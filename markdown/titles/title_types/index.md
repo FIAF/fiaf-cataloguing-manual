@@ -160,7 +160,7 @@ Abridge other title information only if this can be done without essential loss 
 If other title information is clearly of very minor importance, for example a newsreel slogan, or it is an avant-titre which grammatically cannot follow the title proper, place it in a note.[^14]
 
 !!! example "Example"
-    CBS news special. Challenge in the coal mines : (other title information) men against their union
+    CBS news special. Challenge in the coal mines : (*other title information*) men against their union
 
 But (without separation into “title proper” and “other title information”):
 
@@ -262,8 +262,8 @@ When a title is an international co-production, or is produced in a bi- or multi
 If it cannot be determined whether the Work was released simultaneously or the release order cannot be determined, the cataloguer should select one of the qualifying titles in accordance with a consistent policy (for example from a list of languages in the institution’s preferred order, or by reference to an authoritative source.) [^25]
 Such lists will normally give preference to the languages most familiar to researchers in the country of the archive. For example, the standard list for archival moving image cataloguing in the United States is: 
 
-- 1. U.S. title (if an American company is involved in the production).  
-- 2. U.K. title (if a British company is involved in the production).  
+1. U.S. title (if an American company is involved in the production).  
+2. U.K. title (if a British company is involved in the production).  
 - 3. Other English language title (if an English language speaking country is involved in the production).  
 - 4. French title (if a French company is involved in the production).  
 - 5. German title (if a German-speaking country is involved in the production).  
