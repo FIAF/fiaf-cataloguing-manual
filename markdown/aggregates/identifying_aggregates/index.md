@@ -9,7 +9,7 @@ The two Chaplin films could each have their own Work, Manifestation, and Item re
 
 <center><object data="/diagrams/agg_chaplineg1.drawio.svg" type="image/svg+xml"></object></center>
 
-or where an institution's database allows for a many-to-one structuring then:
+or where an institution's database allows for a many-to-one structuring then an aggregate Preservation Manifestation (reflecting the Item title) then:
 
 <center><object data="/diagrams/agg_chaplineg2.drawio.svg" type="image/svg+xml"></object></center>
 
@@ -36,7 +36,7 @@ The cited 2017 RDA presentation describes aggregates as Manifestations embodying
 
 <a id="sec-hybrid_aggregates_and_multi_component_moving_images"></a>
 ## “Hybrid” Aggregates and multi-component moving images (Anthology/Portmanteau films or TV programmes)
-Multi-component Works are ones conceived and created from their inception to consist of multiple individual components that make up a whole, for example anthologies, portmanteau films and television programmes (e.g., Dead of night, Quartet, From beyond the grave).
+Multi-component Works are ones conceived and created from their inception to consist of multiple individual components that make up a whole, for example anthologies, portmanteau films/television programmes (e.g., Dead of night, Quartet, From beyond the grave).
 
 These should be treated as straightforward Monographic Works.
 (See [Works](../../works/index.md#sec-moving_image_work)).
@@ -55,16 +55,16 @@ Other multi-component moving images often have a common theme, and usually compr
     Chacun son cinéma ou ce petit coup au cœur quand la lumière s’éteint et que le film commence. (France, 2007): Compilation film of 33 three-minute films by various directors for the Cannes Film Festival’s 60th anniversary
 
 !!! example "Example"
-    11’09”01 September 11 (France, Egypt, Great Britain, Mexico, United States of America, 2002): 11 short films in which different directors give their impressions of the themes and events of the date September 11 2001 and the attacks on the World Trade Centre and the Pentagon
+    11’09”01 September 11 (France/Egypt/Great Britain/Mexico/United States of America, 2002): 11 short films in which different directors give their impressions of the themes and events of the date September 11 2001 and the attacks on the World Trade Centre and the Pentagon
 
 !!! example "Example"
-    Ro.Go.Pa.G. (Italy, France, 1963): 4 episodes by 4 different directors, no common theme: R. Rossellini (Illibatezza), J.L. Godard (Il mondo nuovo), P. Pasolini (La ricotta), U. Gregoretti (Il pollo ruspante)
+    Ro.Go.Pa.G. (Italy/France, 1963): 4 episodes by 4 different directors, no common theme: R. Rossellini (Illibatezza), J.L. Godard (Il mondo nuovo), P. Pasolini (La ricotta), U. Gregoretti (Il pollo ruspante)
 
 !!! example "Example"
     New York stories (1989): 3 episodes by 3 different directors, common theme.Directors Woody Allen (Oedipus Wrecks), Francis Ford Coppola (Life without Zoe), Martin Scorsese (Life lessons)
 
 !!! example "Example"
-    Tre passi nel delirio / Histoires extraordinaires (Italy-France, 1968): 3 episodes by 3 directors, common theme: L. Malle, (William Wilson), F. Fellini (Toby Dammit), R. Vadim (Metzengerstein)
+    Tre passi nel delirio / Histoires extraordinaires (Italy/France, 1968): 3 episodes by 3 directors, common theme: L. Malle, (William Wilson), F. Fellini (Toby Dammit), R. Vadim (Metzengerstein)
 
 With these there was no original intention for the components to be independent[^2], and there should **always** be a single Monographic Work record with a single Manifestation for them.
 The different component titles may be added as alternative titles to the Work record to assist in retrieval or access, and/or details of individual component titles and content given in the synopsis field on the Work.
@@ -102,7 +102,7 @@ Credits and Cast (i.e., Agents) for all the components should be attached to thi
     Directed by: Robert Altman <span style="color:blue">(Les Boréades)</span>  
     Directed by; Franc Roddam <span style="color:blue">(Liebestod)</span>   
     Directed by: Ken Russell <span style="color:blue">(Nessun Dorma)</span>  
-    Directed by: Derek Jarman <span style="color:blue">(Depuis le jour)</span> 
+    Directed by: Derek Jarman <span style="color:blue">(Depuis le jour)</span>  
     Directed by: Bill Bryden <span style="color:blue">(I Pagliacci)</span>  
     ©: LightYear Entertainment, Virgin Vision  
     Production company: Boyd’s Company  
@@ -138,7 +138,7 @@ To use a music analogy they are rather like a concept album, which is made up of
 
 Where an individual component does have a subsequent independent release, that component should then also be created as a new Work or Variant in its own right, with its own relevant Manifestation, and linked to the original multi-component Work in an associative “contains/contained in” relationship.
 
-Toby Dammit, (episode by F. Fellini part of Tre passi nel delirio / Histoires extraordinaires, Italy-France, 1968): 2008 restored version on 35mm of the individual episode, with its own new Italian titles.
+Toby Dammit, (episode by F. Fellini part of Tre passi nel delirio / Histoires extraordinaires, Italy/France, 1968): 2008 restored version on 35mm of the individual episode, with its own new Italian titles.
 
 Where such individual releases of components have occurred, and a physical Item for a component is acquired, assessment would then be needed to establish whether it was a partial acquisition Item of the whole original Manifestation or an acquisition of the Item of the later individual component Manifestation.
 
