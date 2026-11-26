@@ -344,9 +344,9 @@ If deemed necessary or helpful for the purposes of discovery, the alternative ti
 ## Further enhanced structuring possibilities with analytic/component parts and identified newsreels/cinemagazines
 There may also be instances, particularly with news and newsreel collections where a Serial-Monographic-Analytic Works construction, in a grandparent-parent-child hierarchical structure could be considered and used in certain databases that have an EN 15907 structure. 
 
-This is not a structuring or architecture that is covered within the EN 15907 Standard itself, but it is one which exploits and extends the EN 15907 basic structure model further in conjunction with [Work or Variant Description types](../../works/attributes_of_a_moving_image_work_variant/index.md#sec-work_variant_description_type). This could suit institutions with huge newsreel collections, particularly where the individual story elements are what are searched on by users, and use of this type of structuring is also starting to evolve in some institutions in very particular scenarios.
+This is not a structuring or architecture that is covered within the EN 15907 Standard itself, but it is one which exploits and extends the EN 15907 basic structure model further in conjunction with [Work or Variant Description types](../../works/attributes_of_a_moving_image_work_variant/index.md#sec-work_variant_description_type). This could suit institutions with huge newsreel collections, particularly where the individual story elements of issues are what are searched on by users, and use of this type of structuring is also starting to evolve in some institutions in very particular scenarios.
 
-One such is where there may be instances of the Analytic individual story elements having their own later publication, or “manifestation”, and there is a need or preference by an institution for keeping all the records together in a vertical hierarchy. It may also suit institutions with huge newsreel collections, particularly where the individual story elements of issues are what are searched on and accessed by users.
+One such is where there may be instances of the Analytic individual story elements having their own later publication, or “manifestation”, and there is a need or preference by an institution for keeping all the records together in a vertical hierarchy. 
 
 For example:
 Topical Budget was a British silent newsreel that ran c.1911-1931. Each episode or issue of the weekly newsreel contained 4-5 short separate news story elements. 
@@ -382,7 +382,7 @@ A further, and similar, enhanced hierarchical structuring of different types of 
 For example, a collection of all the UK daily morning news and magazine programme Good Morning Britain:
 
 
-<center><object data="/diagrams/numb_16.drawio.svg" type="image/svg+xml" width="75%"></object></center>
+<center><object data="/diagrams/numb_16.drawio.svg" type="image/svg+xml" width="100%"></object></center>
 
 
 While not actually stipulated or covered in the EN 15907 standard model, the inherent flexibility of that model and structure does potentially enable possible stretching of the standard, and it could be argued that it is logically acceptable structuring within EN 15907. 
