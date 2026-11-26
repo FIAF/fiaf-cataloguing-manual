@@ -17,12 +17,12 @@ However, in systems that do not have an immutable unique number, or are not elec
 
 The consistently used best practice file naming practices fundamentally seem to be the following:
 
-1) Omit special characters, eg. * ( [?@', + = and use only underscore _ hyphens - or . full stops.  
+1) Omit special characters, eg. * ( [?@', + = , and use only underscore _ hyphens - or . full stops.  
 2) Use alphabetical A-Z, or a-z [some use just lower case, others a mixture of upper and lower case - often with capitalisation of initial letter of each word]  
 3) Either omit spaces (also tabs, returns, etc.) altogether or replace with a hyphen.  
-4) Omit initial articles (e.g the, a, etc.) - with option of also omitting other articles within the film title element of the filename for further abbreviation of title, e.g. WindInWillows, rather than  WindInTheWillows. If abbreviating titles further then it should be within a standardised practice and rules, eg. deciding that the word Adventure is always abbreviated to Adv (or whatever form is preferred) rather than different practices by different cataloguers, eg. Adv, Advt, Advnt. With 1 in mind also omit apostrophes or other punctuation from the title.  
+4) Omit initial articles (e.g, the, a, etc.) - with option of also omitting other articles within the film title element of the filename for further abbreviation of title, e.g. WindInWillows, rather than  WindInTheWillows. If abbreviating titles further then it should be within a standardised practice and rules, eg. deciding that the word "Adventure" is always abbreviated to Adv (or whatever form is preferred) rather than different practices by different cataloguers, eg. Adv, Advt, Advnt. With 1 in mind also omit apostrophes or other punctuation from the title.  
 5) Use lead zeros with numbers, eg. 01, 03, 09, etc.  
-6) Additional file naming components, such as full dates, should be separated with a hypen - instead of an underscore, eg. 1965-10-02
+6) Additional file naming components, such as full dates, should be separated with a hypen - instead of an underscore, eg. 1965-10-02  
 7) Always include the 3 character file extension identifier (preceded by a full stop) to end the filename, eg. .jpg, .mp4, .mov  
 8) Do not use more than one full stop . in a filename and limit its use to preceding the three character file extension at the end of the filename. 
 
