@@ -103,7 +103,7 @@ Specify in a note or dedicated field if the title proper is not determinable or 
 
 Ascertaining the Title Proper of Items differs from ascertaining those for Works, Variants and Manifestations in that what is on or affixed to the Item or physical copy itself takes precedence.
 
-The title of an Item may differ, either slightly or wholly, from the title of the Manifestation and/or Work/Variant to which it is linked hierarchically.
+The title of an Item may differ, either slightly or wholly, from the title of the Manifestation and/or Work/Variant to which it is linked hierarchically or associatively.
 In particular, where an incomplete physical product of the Manifestation has been acquired (see [Analytics/Components of identified newsreels/cinemagazines](../../titles/series_serials/index.md#sec-analytics_components_of_identified_newsreels_cinemagazines)).
 
 If it is not possible to establish a title from either the Item or its container then secondary sources or a supplied/devised title can be used.
