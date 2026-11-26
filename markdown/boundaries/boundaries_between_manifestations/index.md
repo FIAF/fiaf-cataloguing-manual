@@ -27,12 +27,12 @@ Changes to packaging introduced as part of publication or release should be cons
 
 Include and describe any of the distinguishing physical or digital changes according to the guidelines in [Physical and Digital Description of a Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-physical_digital_description_of_a_manifestation).
 
-The example below shows a number of possible Manifestations of the original Italian version of Il gattopardo (Italy, France, Luchino Visconti, 1963).
+The example below shows a number of possible Manifestations of the original Italian version of Il gattopardo (Italy/France, 1963. Luchino Visconti).  
 
 *Change in format.[^2]*
 
 !!! example "Example"
-    Il gattopardo (Italy, France, Luchino Visconti, 1963) 
+    Il gattopardo (Italy/France, 1963. Luchino Visconti) 
 
     Theatrical release, 35mm, Cinemascope – aspect ratio 2,35 : 1 
 
@@ -41,13 +41,13 @@ The example below shows a number of possible Manifestations of the original Ital
 *Change in format and publication context.*
 
 !!! example "Example"
-    Il gattopardo (Luchino Visconti, 1963) 
+    Il gattopardo (Italy/France, 1963. Luchino Visconti) 
 
     Home video publication, DVD – aspect ratio 2,21 :1 – Medusa Video, Italia, 00/00/2009
 
 In-house copying or conversion, such as a film-to-video transfer or the creation of a differently encoded digital derivative, may be described through a separate Item associated with the same Manifestation as its source. A change in encoding does not, by itself, require a separate Manifestation.
 
-Institutions may instead create another Manifestation for such derivatives, taking account of their publication context and technical characteristics and applying a consistent cataloguing policy.
+Equally, institutions may instead create another Manifestation for such derivatives, taking account of their publication context and technical characteristics and applying a consistent cataloguing policy.
 
 Changes to encoding or packaging do not, by themselves, require a new Work or Variant. Where processing changes the version presented—for example through re-editing, adding or removing footage, or altering dialogue—apply the guidance in [Boundaries between Manifestations and Works or Variants](../boundaries_between_manifestations_and_works_or_variants/index.md).
 
