@@ -294,7 +294,7 @@ For parallel titles of a Manifestation distributed in distinct geographical regi
 
 (For the treatment of the geographical names, see Getty Thesaurus of Geographic Names (TGN), or some other recognised standard.)
 
-[^1]: FIAF Cataloguing Rules, p. xiii
+[^1]: FIAF Cataloguing Rules (1991), p. xiii
 [^2]: For simplicity’s sake, this table does not present sub-types of Title Types, i.e., sub-types of Alternative and Supplied/Devised titles. Suggested sub-types and definitions can be found under the headings for the primary Title Types.
 [^3]: Term “Identifying title” corresponds with EN 15907. This is the equivalent of “Uniform title” in FRBR and “Preferred title” in RDA.
 [^4]: OLAC TF, Part 3a, p. 5.
@@ -303,20 +303,21 @@ For parallel titles of a Manifestation distributed in distinct geographical regi
 [^7]: YCR, 1.1.2.3 Unique identifiers for works identified by title, pp. 21-22
 [^8]: In this FRBR-based context, the title of a moving image Manifestation corresponds strictly to the traditionally ISBD concept of “title proper”. Vice versa, in the previous FIAF Rules the title proper was defined as “the title of the original release in the country the origin”, which, in a FRBR-based approach, corresponds to the “preferred title” of a Moving Image Work.
 [^9]: Item Title Types and definitions taken from BFI CID Stylistics Manual. 2nd Edition. May 2012
-[^10]: Adapted from FIAF, 1.4. Other title information, p. 25.
-[^11]: FIAF glossary and FIAF 1992, 1.4: “Other title information: a word or phrase, or a group of characters appearing in conjunction with, and subordinate to, the title proper of the item. Other title information also occurs in conjunction with and subordinate to: parallel titles, variations of the title proper, episode titles, contents titles, titles of series, or of subseries. Other title information qualifies, explains or completes that title to which it applies, or is indicative of the character, contents, etc. of the item or the Works contained in it, or is indicative of the motive for, or the occasion of, the item’s production. The term includes subtitles and avant-tîtres.” Differently, in the RDA glossary and RDA 2.3.4: “Other title information is information that appears in conjunction with, and is subordinate to, the title proper of a resource. It may include any phrase appearing in conjunction with the title proper that is indicative of the character, content, etc. of the resource or the motives for, or occasion of, its production of publication. Other title information includes subtitles, avant-titres, etc., but does not include variations on the title proper such as spine titles, sleeve titles, etc. (see 2.3.6 ) or designations and/or names of parts, sections, or supplements (see 2.3.1.7 ).”
-[^12]: FIAF, 1.4.1.1, 1.4.1.2., 1.4.1.3., pp. 25-26.
-[^13]: FIAF, 1.4.2, p. 26.
-[^14]: Based on FIAF 1.4.2
+[^10]: Adapted from FIAF Cataloguing Rules (1991), 1.4. Other title information, p. 25.
+[^11]: FIAF glossary and FIAF Cataloguing Rules (1991), 1.4: “Other title information: a word or phrase, or a group of characters appearing in conjunction with, and subordinate to, the title proper of the item. Other title information also occurs in conjunction with and subordinate to: parallel titles, variations of the title proper, episode titles, contents titles, titles of series, or of subseries. Other title information qualifies, explains or completes that title to which it applies, or is indicative of the character, contents, etc. of the item or the Works contained in it, or is indicative of the motive for, or the occasion of, the item’s production. The term includes subtitles and avant-tîtres.” 
+Differently, in the RDA glossary and RDA 2.3.4: “Other title information is information that appears in conjunction with, and is subordinate to, the title proper of a resource. It may include any phrase appearing in conjunction with the title proper that is indicative of the character, content, etc. of the resource or the motives for, or occasion of, its production of publication. Other title information includes subtitles, avant-titres, etc., but does not include variations on the title proper such as spine titles, sleeve titles, etc. (see 2.3.6 ) or designations and/or names of parts, sections, or supplements (see 2.3.1.7 ).”
+[^12]: FIAF Cataloguing Rules (1991), 1.4.1.1, 1.4.1.2., 1.4.1.3., pp. 25-26.
+[^13]: FIAF Cataloguing Rules (1991), 1.4.2, p. 26.
+[^14]: Based on FIAF Cataloguing Rules (1991), 1.4.2
 [^15]: Adapted from YCR, 1.3 Work access, p. 39
 [^16]: The definition is based on the explanation of the “Variant title” title given in RDA (glossary and 2.3.6), but in this case, to avoid confusion with the “Variant” entity, the term “Alternative” has been adopted. The main reference and reason for this choice is the FIAF Glossary where “Alternative title” is in parallel with the RDA “Variant title” and practically with the same meaning: FIAF Glossary, 2008 revision, A 1.12 “Alternative Title, Alternative title. Any title by which a film is known other than the Original Title”.
-[^17]: Based on FIAF 1.3.
-[^18]: Based on FIAF 1.3.
-[^19]: Based on FIAF 1.3.
-[^20]: Based on FIAF 1.3.
-[^21]: Based on FIAF 1.3.
+[^17]: Based on FIAF Cataloguing Rules (1991), 1.3.
+[^18]: Based on FIAF Cataloguing Rules (1991), 1.3.
+[^19]: Based on FIAF Cataloguing Rules (1991), 1.3.
+[^20]: Based on FIAF Cataloguing Rules (1991), 1.3.
+[^21]: Based on FIAF Cataloguing Rules (1991), 1.3.
 [^22]: Based on RDA 2.3.6.
 [^23]: CID Stylistics Manual – 2nd edition. BFI. 2011.
-[^24]: FIAF, 1.3. Parallel title, p. 22.
-[^25]: FIAF, 1.3.4., pp. 23-24.
-[^26]: Differences between FIAF 1992 and RDA: FIAF expands the concept of Parallel title to any title qualifying as an original but not used as a title proper (the attempt was to include as many alternative titles as possible), but gives to the archives the responsibility to decide whether to enter them in the appropriate area or in the Notes area. RDA makes a distinction among the different characteristics of a title and considers the parallel title strictly as “the title proper in another language or script”. In this context the RDA approach has been considered more appropriate.
+[^24]: FIAF Cataloguing Rules (1991), 1.3. Parallel title, p. 22.
+[^25]: FIAF Cataloguing Rules (1991), 1.3.4., pp. 23-24.
+[^26]: Differences between FIAF 1991 and RDA: FIAF expands the concept of Parallel title to any title qualifying as an original but not used as a title proper (the attempt was to include as many alternative titles as possible), but gives to the archives the responsibility to decide whether to enter them in the appropriate area or in the Notes area. RDA makes a distinction among the different characteristics of a title and considers the parallel title strictly as “the title proper in another language or script”. In this context the RDA approach has been considered more appropriate.
