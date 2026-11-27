@@ -37,10 +37,10 @@ A Parallel Aggregate brings together otherwise equivalent language versions of t
 
   Example:
 
-!!! example "Example"
-    *Le déclin de l’empire américain / The Decline of the American Empire* (1986)
+!!! example "Example"  
+    The Blue Angel (Der blaue Engel) (Blu ray release in 2013, in Eureka Entertainment's Masters of Cinema series)   
 
-    The 2004 Seville Films DVD offers French and English dialogue and optional English subtitles. Where an institution describes the language versions as distinct Variants, these may be associated with one Aggregate Manifestation; selectable language options do not, by themselves, require this structure.
+    The 2013 Blue ray offers both the original German and English versions of the film (which were filmed simultaneously in       1930).  
 
 Record measurements for the aggregate as a whole where known, distinguishing physical or digital extent from playback duration, and make clear which constituents and versions they describe. Where applicable extent or duration information is already available through linked descriptions, it need not be recorded again. See [Physical Extent of an Aggregate Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-physical_extent_of_an_aggregate_manifestation) and [Duration of an Aggregate Manifestation](../../manifestations/elements_of_a_manifestation/index.md#sec-duration_of_an_aggregate_manifestation).
 
