@@ -205,7 +205,7 @@ A Preservation/Restoration Event is associated with a new Variant, Manifestation
 
 This includes statements about past or future treatments scheduled for the item.  If desired and if applicable, record one or more general types of past or future treatment activities (e.g. "added leaders", "cleaned ultrasonically", "tears repair", etc.). Selection should be made from a controlled list of values. See also [Item Chapter](../../items/elements_of_a_moving_image_item/index.md#sec-item_copy_condition_base_emulsion_film_and_video).
 
-A useful collection of technical metadata on digital Items as well as data collected during digitisation, can be found [here](https://docs.google.com/spreadsheets/d/1cm4KBG_e-bdMppKOcYsFTck7vv5rJDwRI9z0RYX5bNM/edit?gid=646006523#gid=646006523). This spreadsheet was created by a Task Force in the CDC, headed by Elzbieta Wysocka.
+A useful collection of technical metadata on digital Items as well as data collected during digitisation, can be found [here](https://docs.google.com/spreadsheets/d/1cm4KBG_e-bdMppKOcYsFTck7vv5rJDwRI9z0RYX5bNM/edit?gid=646006523#gid=646006523). This spreadsheet was created by the Restorations Task Force of the FIAF Cataloguing & Documentation Commission, headed by Elzbieta Wysocka.
 
 A Preservation/Restoration Event has as typical Agent(s) the institution(s) or individual professionals that make preservation decisions. Selection should be made from a controlled list of values. See [Agents](../../agents/index.md).
 
@@ -306,7 +306,7 @@ Record in Arabic numerals the number issued by the agency as a unique identifier
 Record the outcome of the act of rating or censorship.
 
 !!! example "Example"    
-    Film: Jaws ((USA, 1975)  
+    Film: Jaws (USA, 1975)  
     Decision type: Rating  
     Date: 1975-06-12  
     Region: United Kingdom  
@@ -374,7 +374,7 @@ If known and considered of relevance, record the name of the city or smaller geo
 <a id="sec-acquisition"></a>
 ## Acquisition
 
-Acquisition is the process of getting physical custody and a legal transfer of title (ownership) of an object or collection (such as through a gift, purchase, or transfer).
+Acquisition is the process of obtaining physical custody and a legal transfer of title (ownership) of an object or collection (such as through a gift, purchase, or transfer).
 
 An Acquisition Event may be associated with instances of Agent in the role of e.g. the institution or a person or set of persons in charge of acquisitions for the institution, etc. and may also be associated with instances of [Other Relationships](../../other-relationships/other_relationships_for_works_variants_manifestations_items/index.md#sec-work_variant_other_relationship_types).
 
@@ -390,7 +390,7 @@ An Acquisition Event information consists of the following sub-elements:
 
 **Acquisition type**
 
-Describes the means by which the Item was acquired. Select from a controlled list of terms, for e.g.
+Describes the means by which the Item was acquired. Select from a controlled list of terms, for example:
 
 - Donation
 - Legal deposit
@@ -402,7 +402,7 @@ Describes the means by which the Item was acquired. Select from a controlled lis
 **Acquisition date**
 
 The date on which the Item was physically, or contractually, acquired. 
-Using this ‘entry date’ can be problematic, as items can arrive onsite before agreement is signed, or can arrive without any form of signature or indeed knowledge that it is in transit i.e. receipt of an unsolicited deposit. Therefore it is recommended to use the signature date.
+Using this ‘entry date’ can be problematic, as items can arrive onsite before an agreement is signed, or can arrive without any form of signature or indeed knowledge that it is in transit i.e. receipt of an unsolicited deposit. Therefore it is recommended to use the signature date.
 This date is distinct from an Accession date, which should be entered only once any required assessment has been completed, and the Item has been formally added to the inventory of the collection. (Dates should be formatted according to ISO 8601 or some other recognised standard.)
 
 **Acquisition source**
@@ -420,11 +420,11 @@ Information describing the acquisition of the Item in greater detail.
 <a id="sec-accession"></a>
 ## Accession
 
-Accessioning is the formal, legal act of officially accepting those acquired items into the permanent collection in accordance with an organization's collecting policy. This commits the institution to long-term preservation, care, and intellectual control. 
+Accessioning is the formal, legal act of officially accepting those acquired items into the permanent collection in accordance with an organisation's collecting policy. This commits the institution to long-term preservation, care, and intellectual control. 
 
 **Accession number**
 
-Usually an accession Number, which is unique to a collection, is given to a collection. Some systems automatically generate a unique accession number as some as a new accession record is created. This can be helpful as it covers all the items within the collection as a group, with individual reference numbers added for each title at the cataloguing stage.
+Usually an accession Number, which is unique, is given to a collection. Some systems automatically generate a unique accession number as soon as a new accession record is created. This can be helpful as it covers all the items within the collection as a group, with individual reference numbers added for each title at the cataloguing stage.
 
 **Accession date**
 
@@ -478,11 +478,11 @@ This qualifies the De-acquisition type, giving the specific reason for removal, 
 
 **Removal/transfer date**  
 
-The date on which the Item was physically removed from an institution's collection.
+The date on which the item was physically removed from an institution's collection.
 
 <a id="sec-inspection"></a>
 ## Inspection
-The inspection of a particular Item for the purposes of assessing and recording the condition or treatment of the Item. This frequently ties in with a Preservation or Restoration of the Item.
+The inspection of a particular item for the purposes of assessing and recording the condition or treatment of theiItem. This frequently ties in with a Preservation or Restoration of the item.
 
 An Inspection Event may be associated with instances of Agent in the role of e.g. inventory archivist, lab technician, projectionist, etc.
 
@@ -508,11 +508,11 @@ The date or time span in which the inspection activity was performed. (Dates sho
 
 **Inspection detail**
 
-Information describing the condition of the Item in greater detail. In many cases there will be fields embedded in Item records that relate to condition and different inspections. See [Item Condition](../../items/elements_of_a_moving_image_item/index.md#sec-access_conditions)
+Information describing the condition of the item in greater detail. In many cases there will be fields embedded in Item records that relate to condition and different inspections. See [Item Condition](../../items/elements_of_a_moving_image_item/index.md#sec-access_conditions)
 
 [^1]: EN 15907, 6.11.3. Publication Type, p.22. "The type of exhibition event (eg. Premiere, Cinema release, Festival screening, Broadcast, etc) or the type of publication (eg. Paperback book with DVD, etc.) if not evident from the type of the associated Manifestation."  
 [^2]: EN 15907, 6.12 Award, pp. 25-26.  
 [^3]: Adapted from EN 15907 6.11 Production Event, p. 20  
 [^4]: EN 15907 6.15 IPR Registration, pp. 23-24  
-[^5]: There is no designated separate Restoration Event in EN 15907, and as there can often be an overlap in the types of activity associated with both preservation and restoration, we extended the definition in the 2016 FIAF Manual.  
+[^5]: There is no designated separate Restoration Event in EN 15907, and as there can often be an overlap in the types of activity associated with both preservation and restoration, we extended the definition given in the 2016 FIAF Manual.  
 [^6]: EN 15907, 6.13 Decision event, pp. 26-27  
