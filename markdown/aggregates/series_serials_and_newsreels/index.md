@@ -8,7 +8,7 @@ However, these are in relation to bibliographic materials, and moving image seri
 <a id="sec-film_video_or_tv_series_serials"></a>
 ## Film/Video, or Television series/serials   
 On the surface these would seem to be aggregates as it could be argued they are made up of different components (episodes) brought together to make a “whole” (series/serial).
-However, it is not logical under the definitions of aggregates to structure and view Television or film/video serial/series as aggregating Works.
+However, it is not logical under the definitions of aggregates to structure and view television or film/video serial/series as aggregating Works.
 
 The starting point of an aggregate is the Manifestation “embodying two or more Works/Variants.” Each episode of a film/video or TV series/serial has its own unique individual release/broadcast Manifestation, not a single aggregate one.
 There was never the original intention for all the episodes (independent individual Works/Variants) to be released/broadcast in one single Manifestation. 
@@ -65,4 +65,4 @@ So for example, an institution may have created several compilation reels made u
 
 If the original intention of the compilation is unknown, e.g. whether it was created for a particular purpose such as an educational event held by the institution, or for public screening in their cinema, etc. was not recorded at the time, or has since been lost, then the Item can be linked to a an "Unknown" Manifestation. If the institution then subsequently makes a digital copy and uses that to stream the compilation film on YouTube or another platform then that digital Item would link to an Internet Manifestation, i.e.
 
-<center><object data="/diagrams/aggnwscomp.drawio.svg" type="image/svg+xml" width="100%"></object></center>  
+<center><object data="/diagrams/aggnwscomp.drawio.svg" type="image/svg+xml" width="70%"></object></center>  
