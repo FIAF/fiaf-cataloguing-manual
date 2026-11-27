@@ -30,12 +30,12 @@ Manages the purchase and acquisition of rights and materials for the archive, in
 
 <a id="sec-preservation"></a>
 ### Preservation
-It is the person dedicated to maintaining and ensuring the longevity of films and audiovisual content. This includes film conservation, restoration of damages materials, and preservation of digital and analogue formats. See also [Preservation/Restoration Events](../../events/further_event_types/index.md#sec-preservation_restoration).
+It is the person dedicated to maintaining and ensuring the longevity of films and audiovisual content. This includes film conservation, restoration of damaged materials, and preservation of digital and analogue formats. See also [Preservation/Restoration Events](../../events/further_event_types/index.md#sec-preservation_restoration).
 
 <a id="sec-curatorhip"></a>
 ### Curatorship
-Responsible for preserving, cataloguing, and presenting films and other audiovisual materials. Their work involves selecting films for screening, organizing programming, and managing collections.
+Responsible for preserving, cataloguing, and presenting films and other audiovisual materials. Their work involves selecting films for screening, organising programming, and managing collections.
 
 <a id="sec-technical_inspection"></a>
 ### Technical Inspection
-Responsible for evaluating the quality and physical condition of films in film format, ensuring that they are properly preserved for posterity. Also verifies the correct identification and cataloguing of materials, contributing to the integrity and accessibility of the archive. See also [Inspection Events](../../events/further_event_types/index.md#sec-inspection).
+Responsible for evaluating the quality and physical condition of moving images on analogue formats, ensuring that they are properly preserved for posterity. Also verifies the correct identification and cataloguing of materials, contributing to the integrity and accessibility of the archive. See also [Inspection Events](../../events/further_event_types/index.md#sec-inspection).
