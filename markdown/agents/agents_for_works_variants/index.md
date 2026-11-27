@@ -184,7 +184,7 @@ If Agents are added as index points rather than listed or described in order of 
 
 The same stylistics and display regarding Agents as cast or credits and Agent activity can also be used in non-relational databases or card catalogues and paper systems. In the latter, institutions may wish to consider including birth and death dates alongside names for clearer identification, e.g.
 
-<center><object data="/images/Screenshot_excel_agentseg.png" width="100%"></object></center>
+<center><object data="/images/Screenshot_excel_agentseg.png" width="110%"></object></center>
 
 <a id="sec-uncredited_agents_and_agent_activity"></a>
 ## Uncredited Agents and Agent activity
@@ -195,7 +195,7 @@ For example:
 
 !!! example "Example"
     The Ladykillers (United Kingdom, 1955)
-    <center><object data="/images/image2022-8-1_uncreditedeg.png" width="110%"></object></center>
+    <center><object data="/images/image2022-8-1_uncreditedeg.png" width="100%"></object></center>
 
 or
 
@@ -226,7 +226,7 @@ The same applies in the case of uncredited cast members, for example:
 
 !!! example "Example"
     The Ladykillers (United Kingdom, 1955)  
-    <center><object data="/images/Screenshot_uncreditedcast2.png" width="110%"></object></center>
+    <center><object data="/images/Screenshot_uncreditedcast2.png" width="100%"></object></center>
 
 or
 
