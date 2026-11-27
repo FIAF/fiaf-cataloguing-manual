@@ -59,8 +59,8 @@ If known and considered of relevance, record the specific restrictions for acces
 
 !!! example "Example" 
     Submarine (United Kingdom/United States, 2010. Richard Ayoade)  
-    Event 1  
-    Premiere 
+    Event 1    
+    Premiere   
     2010-09-12  
     Canada. Toronto. 35th Toronto Film Festival  
     Event 2  
@@ -185,7 +185,7 @@ Any further information about the event either in plain textual form, or as an i
     Shooting dates  
 
 !!! example "Example"  
-    Brideshead Revisited (UK/USA/Italy/Morocco, 2008. Julian Jarrold)  
+    Brideshead Revisited (United Kingdom/United States of America/Italy/Morocco, 2008. Julian Jarrold)  
     Location shooting. 2007/06-04 to 2007/08/20  
     Location:  
     Oxford (England)   
